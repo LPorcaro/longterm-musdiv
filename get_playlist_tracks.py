@@ -9,8 +9,8 @@ from tqdm import tqdm
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 
 
-infile = 'comm_list_electr_genres2.csv'
-outfile = 'track_list_electr_genres2.csv'
+infile = 'comm_list_electr_genres3.csv'
+outfile = 'track_list_electr_genres3.csv'
 
 with open(infile, 'r') as inf, open(outfile, 'w+') as outf:
     _reader = csv.reader(inf, delimiter='\t')
