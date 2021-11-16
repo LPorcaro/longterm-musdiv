@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import spotipy
 import csv
 import os
@@ -9,14 +12,14 @@ from tqdm import tqdm
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 
 
-infile = 'comm_list_electr_genres3.csv'
-outfile = 'track_list_electr_genres3.csv'
+infile = 'data/comm_list_electr_genres.csv'
+outfile = 'data/track_list_electr_genres_20210923.csv'
 
 with open(infile, 'r') as inf, open(outfile, 'w+') as outf:
     _reader = csv.reader(inf, delimiter='\t')
     _writer = csv.writer(outf, delimiter='\t')
 
-    HEADER = ['genre', 'pl_id', 'artist_name', 'track_name', 
+    HEADER = ['genre', 'pl_id', 't_id', 'artist_name', 'track_name', 
               'track_pop', 'track_isrc']
     _writer.writerow(HEADER)
 
@@ -47,8 +50,8 @@ with open(infile, 'r') as inf, open(outfile, 'w+') as outf:
             except KeyError:
                 track_isrc = ''
 
-            row_out = [genre, pl_id,artist_name, track_name, int(track_pop), track_isrc]
+            row_out = [genre, pl_id, tid, artist_name, track_name, int(track_pop), track_isrc]
 
 
             _writer.writerow(row_out)
-            time.sleep(1)
+            time.sleep(0.9)
