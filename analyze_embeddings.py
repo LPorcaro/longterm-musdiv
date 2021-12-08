@@ -4,27 +4,41 @@
 import numpy as np
 import os
 import matplotlib.pyplot as plt
+import matplotlib.cm as cm
 import random
 import json 
 import pandas as pd
 
+from tqdm import tqdm
+from collections import OrderedDict
 from operator import itemgetter
 from itertools import combinations
 
+from sklearn.preprocessing import normalize
 from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
 from scipy.spatial.distance import cosine, euclidean, cdist
+from sklearn.metrics import silhouette_score, silhouette_samples
 
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 from matplotlib.cm import get_cmap
 from matplotlib.ticker import PercentFormatter
 
+marker_types = [".", "o", "v", "^", "<", 
+                ">", "1", "2", "3", "4",
+                "8", "s", "p", "P", "h",
+                "H", "+", "x", "X", "D",
+                ".", "o", "v", "^", "<", '1']
 
-EMB_DIR = "/home/lorenzo/Data/longterm_data/effnet_filtered"
-ESS_DIR = "/home/lorenzo/Data/longterm_data/test_audio/essentia"
-METADATA = "/home/lorenzo/Workspace/longterm-musdiv/data/track_list_yt_20210923.csv"
-MAP_GENRE = "/home/lorenzo/Workspace/longterm-musdiv/data/map_genres.csv"
+
+EMB_DIR = "/home/lorenzo/Data/longterm_data/effnet_filtered_20211124/"
+ESS_DIR = "/home/lorenzo/Data/longterm_data/test_audio/essentia_20211124/"
+
+METADATA = "data/filtered_tracks_20211124.csv"
+MAP_GENRE = "data/map_genres.csv"
+GENRE_DIST_MATRIX = "data/genres_distances.npy"
+GENRE_INDEX = "data/genres_index.csv"
 
 def import_embeddings(emb_dir):
     """
@@ -41,6 +55,26 @@ def import_embeddings(emb_dir):
             else:
                 embeddings.append(embedding)
                 fnames.append(fname)
+
+    return embeddings, fnames
+
+def import_embeddings_ordered(emb_dir):
+    """
+    """
+    # Import embeddings
+    embeddings = []
+    fnames = []
+    
+    for t_id in df_meta.yt_id:
+        file = t_id + '.npy'
+        file_path = os.path.join(emb_dir, file)
+        if os.path.exists(file_path):
+            embedding = np.load(file_path)
+            if len(embedding) != 200: # Sanity Check
+                print(fname)
+            else:
+                embeddings.append(embedding)
+                fnames.append(t_id)
 
     return embeddings, fnames
 
@@ -231,56 +265,191 @@ def plot_features(DictFeat, fnames):
 def import_metadata(meta_file):
     """
     """
-    df = pd.read_csv(meta_file, delimiter='\t')
+    df = pd.read_csv(meta_file)
     df_map_genre = pd.read_csv(MAP_GENRE)
+    df_genre_index = pd.read_csv(GENRE_INDEX)
 
     df['yt_id'] = [x.split('?v=')[1] for x in df['yt_link']]
     df_new = pd.merge(df, df_map_genre, on='genre')
+    df_new = df_new.sort_values(by=['maingenre','genre'])
 
-    genres = df_new['maingenre'].unique()
+    # Remove tracks with no embedding
+    for t_id in df_new.yt_id:
+        file = t_id + '.npy'
+        file_path = os.path.join(EMB_DIR, file)
+        if not os.path.exists(file_path):
+            df_new = df_new.drop(df_new[df_new.yt_id ==t_id].index.values)
 
-    return df_new, genres
+    genres = sorted(df_new['maingenre'].unique())
 
-def plot_embeddings_genre(df, genres, fnames):
+    genres_dist_matrix = np.load(GENRE_DIST_MATRIX)
+
+    return df_new, df_genre_index, genres_dist_matrix, genres
+
+def plot_embeddings_genre(dmatrix, df_meta, genres, fnames):
     """
     """
-    cmap = plt.cm.get_cmap('tab20', len(genres))
-
-    X = []
-    Y = []
-    Z = []
+    X, Y, Z = [], [], []
 
     for i, label in enumerate(fnames):
-        Z.append(df[df['yt_id'] == label]['maingenre'].values[0])
         X.append(emb_x[i])
         Y.append(emb_y[i])
+        Z.append(df_meta[df_meta['yt_id'] == label]['maingenre'].values[0])
 
-    C = [cmap(np.where(genres == z))[0][0] for z in Z]
-    fig, ax = plt.subplots(figsize=(7,7))
-    for x, y, c, l in zip(X, Y, C, Z):
-        ax.scatter(x, y, color=c, vmin=-2, label=l)
+
+    # Silhouette analysis
+    n_clusters = len(genres)
+    silhouette_avg = silhouette_score(dmatrix, Z)
+    sample_silhouette_values = silhouette_samples(dmatrix, Z)
+
+    fig, ax = plt.subplots()
+    y_lower = 5
+    for i in range(n_clusters):
+        # Aggregate the silhouette scores for samples belonging to
+        # cluster i, and sort them
+        ith_cluster_silhouette_values = sample_silhouette_values[[j for j,x in enumerate(Z) if x==genres[i]]]
+        ith_cluster_silhouette_values.sort()
+
+        size_cluster_i = ith_cluster_silhouette_values.shape[0]
+        y_upper = y_lower + size_cluster_i
+
+        color = cm.nipy_spectral(float(i) / n_clusters)
+        ax.fill_betweenx(
+            np.arange(y_lower, y_upper),
+            0,
+            ith_cluster_silhouette_values,
+            facecolor=color,
+            edgecolor=color,
+            alpha=0.7,
+        )
+
+        # Label the silhouette plots with their cluster numbers at the middle
+        ax.text(0.7, y_lower + 0.1 * size_cluster_i, str(genres[i]))
+        ax.text(0.85, y_lower + 0.1 * size_cluster_i, "{:.2f}".format(np.average(ith_cluster_silhouette_values)))
+
+        # Compute the new y_lower for next plot
+        y_lower = y_upper + 10  # 10 for the 0 samples
+
+    ax.set_title("The silhouette plot for the various clusters.")
+    ax.set_xlabel("The silhouette coefficient values")
+    ax.set_ylabel("Cluster label")
+
+    # The vertical line for average silhouette score of all the values
+    ax.axvline(x=silhouette_avg, color="red", linestyle="--")
+    ax.set_yticks([])  # Clear the yaxis labels / ticks
+
+
+    fig, ax = plt.subplots()
+    for x, y, l in zip(X, Y, Z):
+        g_idx = genres.index(l)
+        color = cm.nipy_spectral(float(g_idx) / n_clusters)
+        ax.scatter(x, y, color=color, vmin=-2, label=l, marker=marker_types[g_idx])
     handles, labels = plt.gca().get_legend_handles_labels()
     by_label = dict(zip(labels, handles))
-    plt.legend(by_label.values(), by_label.keys())
+    by_label = OrderedDict(sorted(by_label.items()))
+    plt.legend(by_label.values(), by_label.keys(), bbox_to_anchor=(1.1, 1.05))
     plt.show()
+    
+def compute_weight_matrix(DistMatrix):
+    """
+    """
+    DistMatrixWeigh = np.zeros(DistMatrix.shape)
+
+    for c1, emb1 in tqdm(enumerate(embeddings_reduced)):
+        for c2, emb2 in enumerate(embeddings_reduced):
+            if c1 == c2:
+                continue
+            elif c2 < c1:
+                continue
+            else:
+                fname1 = fnames[c1]
+                fname2 = fnames[c2]
+                g1 = df_meta[df_meta.yt_id == fname1].genre.values[0]
+                g2 = df_meta[df_meta.yt_id == fname2].genre.values[0]
+                idx1 = df_genre_index[df_genre_index.genre == g1].index.values
+                idx2 = df_genre_index[df_genre_index.genre == g2].index.values
+                if not idx1 or not idx2:
+                    w = 1
+                else:
+                    w = DistMatrixGenre[idx1, idx2][0]
+                DistMatrixWeigh[c1,c2] = DistMatrixWeigh[c2,c1] = DistMatrix[c1,c2]*w
+
+    return DistMatrixWeigh
+
+def plot_distance_matrix(DistMatrix, DistMatrixWeigh, df_meta, genres):
+    """
+    """
+    # Create ticks
+    st = 0
+    tk = []
+    tk_m = []
+    for g in genres:
+        l = len(df_meta[df_meta.maingenre==g].index)
+        tk.append(st+l-1.5)
+        tk_m.append(st+round(l/2)-1)
+        st += l
+    
+
+    DistMatrixN = normalize(DistMatrix, norm='max')
+    DistMatrixWeighN = normalize(DistMatrixWeigh, norm='max')
+
+    # Plot Distance Matrix
+    fig, (ax1, ax2) = plt.subplots(ncols=2)
+    im = ax1.imshow(DistMatrixN, alpha=0.8, cmap='binary')
+    ax1.set_xticks(tk_m)
+    ax1.set_yticks(tk_m)
+    ax1.set_xticklabels(genres,rotation=90)
+    ax1.set_yticklabels(genres, rotation=0)
+    ax1.set_xticks(tk, minor=True)
+    ax1.set_yticks(tk, minor=True)
+    ax1.grid(which='minor', color='k', linestyle='--', linewidth=1)
+    divider = make_axes_locatable(ax1)
+    cax = divider.append_axes("right", size="5%", pad=0.05)
+    plt.colorbar(im, cax=cax)
+
+    im = ax2.imshow(DistMatrixWeighN, alpha=0.8, cmap='binary')
+    ax2.set_xticks(tk_m)
+    ax2.set_yticks(tk_m)
+    ax2.set_xticklabels(genres,rotation=90)
+    ax2.set_yticklabels(genres, rotation=0)
+    ax2.set_xticks(tk, minor=True)
+    ax2.set_yticks(tk, minor=True)
+    ax2.grid(which='minor', color='k', linestyle='--', linewidth=1)
+    divider = make_axes_locatable(ax2)
+    cax = divider.append_axes("right", size="5%", pad=0.05)
+    plt.colorbar(im, cax=cax)
+    plt.show()
+
+
 
 
 if __name__ == "__main__":
 
-    embeddings, fnames = import_embeddings(EMB_DIR)
+
+    df_meta, df_genre_index, DistMatrixGenre, genres = import_metadata(METADATA)
+
+    embeddings, fnames = import_embeddings_ordered(EMB_DIR)
     embeddings_reduced = reduce_embeddings(embeddings)
     emb_x, emb_y, C_x, C_y, max_dist = get_centroid(embeddings_reduced, fnames)
 
     # # Compute pairwise distances
-    # DistMatrix = cdist(embeddings_reduced, embeddings_reduced, metric='euclidean')
+    DistMatrix = cdist(embeddings_reduced, embeddings_reduced, 'minkowski')
+    DistMatrixWeigh = DistMatrix
+    # DistMatrixWeigh = compute_weight_matrix(DistMatrix)
 
+
+    # Create track lists
     # sort_avg_dists = sort_tracks_by_distance(DistMatrix)
-
     # nns = create_lists(sort_avg_dists)
 
-    df_meta, genres = import_metadata(METADATA)
+    # Plots
+    plot_embeddings_genre(DistMatrix, df_meta, genres, fnames)
+    plot_distance_matrix(DistMatrix, DistMatrixWeigh, df_meta, genres)
 
-    plot_embeddings_genre(df_meta, genres, fnames)
+
+
+
+
 
 
 
@@ -306,22 +475,3 @@ if __name__ == "__main__":
     # # Get features from essentia and plot
     # DictFeat, fnames = import_features(ESS_DIR)
     # plot_features(DictFeat, fnames)
-
-
-
-
-
-
-
-
-
-
-
-    # Plot Distance Matrix
-    # plt.figure()
-    # ax = plt.subplot()
-    # im = ax.imshow(DistMatrix, alpha=0.8, cmap='inferno')
-    # divider = make_axes_locatable(ax)
-    # cax = divider.append_axes("right", size="5%", pad=0.05)
-    # plt.colorbar(im, cax=cax)
-    # plt.show()
