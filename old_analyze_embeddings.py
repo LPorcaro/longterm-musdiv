@@ -38,8 +38,25 @@ MAP_GENRE = "data/map_genres.csv"
 GENRE_DIST_MATRIX = "data/genres_distances.npy"
 GENRE_INDEX = "data/genres_index.csv"
 
+def import_embeddings(emb_dir):
+    """
+    """
+    # Import embeddings
+    embeddings = []
+    fnames = []
+    for file in sorted(os.listdir(emb_dir)):
+        fname, exts = os.path.splitext(file)
+        if exts == '.npy':
+            embedding = np.load(os.path.join(emb_dir, file))
+            if len(embedding) != 200: # Sanity Check
+                print(fname)
+            else:
+                embeddings.append(embedding)
+                fnames.append(fname)
 
-def import_embeddings(emb_dir, df_meta):
+    return embeddings, fnames
+
+def import_embeddings_ordered(emb_dir):
     """
     """
     # Import embeddings
@@ -89,6 +106,67 @@ def reduce_embeddings(embeddings):
     emb_y = list(map(itemgetter(1), embeddings_reduced))
 
     return embeddings_reduced, emb_x, emb_y
+
+def get_centroid(embeddings_reduced, fnames):
+    """
+    """
+    # Get centroid
+    C_x = np.mean(emb_x)
+    C_y = np.mean(emb_y)
+
+    # Get Track max dist from Centroid
+    dists = [euclidean(x, [C_x, C_y]) for x in embeddings_reduced]
+    max_dist = np.max(dists)
+    imax_dist = dists.index(max_dist)
+    # fnames[imax_dist] = fnames[imax_dist]+ '- MAX'
+    print("Max dist = {}".format(max_dist))
+
+    return C_x, C_y, max_dist
+
+def sort_tracks_by_distance(DistMatrix):
+    """
+    """
+    # Sort nn by average distances
+    avg_dists = []
+    for i in range(len(DistMatrix)):
+        nn_dists = []
+        nn = DistMatrix[i].argsort()[:4]
+        comb_nn = combinations(nn, 2)
+        for n1, n2 in comb_nn:
+            nn_dists.append(DistMatrix[n1,n2])
+
+        avg_dists.append((i, np.average(nn_dists)))
+
+    sort_avg_dists = sorted(avg_dists, key = lambda x: x[1])
+
+    return sort_avg_dists
+
+def create_lists(sort_avg_dists):
+    """
+    """
+    num_list = 4
+    k = 0 
+    tracks_found = []
+    nns = []
+    for i in range(len(sort_avg_dists)):
+        nn = DistMatrix[sort_avg_dists[i][0]].argsort()[:4]
+        if not any(map(lambda v: v in tracks_found, nn)):
+            nns.append(nn)
+            tracks_found.extend(nn)
+            k += 1
+            if k == num_list:
+                break
+
+    print("List {}".format(nns[0]))
+    print("{}".format([fnames[i] for i in nns[0]]))
+    print("List {}".format(nns[1]))
+    print("{}".format([fnames[i] for i in nns[1]]))
+    print("List {}".format(nns[2]))
+    print("{}".format([fnames[i] for i in nns[2]]))
+    print("List {}".format(nns[3]))
+    print("{}".format([fnames[i] for i in nns[3]]))
+
+    return nns
 
 def import_features(feat_dir):
     """
@@ -429,9 +507,10 @@ if __name__ == "__main__":
 
 
     df_meta, df_genre_index, df_map_genre, DistMatrixGenre, genres = import_metadata(METADATA)
-    DictFeat, _ = import_features(ESS_DIR)
-    embeddings, fnames = import_embeddings(EMB_DIR, df_meta)
-    embeddings_reduced , emb_x, emb_y = reduce_embeddings(embeddings)
+
+    embeddings, fnames = import_embeddings_ordered(EMB_DIR)
+    embeddings_reduced, emb_x, emb_y = reduce_embeddings(embeddings)
+    # C_x, C_y, max_dist = get_centroid(embeddings_reduced, fnames)
 
     # # Compute pairwise distances
     DistMatrix = cdist(embeddings_reduced, embeddings_reduced, 'minkowski')
@@ -439,15 +518,39 @@ if __name__ == "__main__":
     # DistMatrixWeigh = compute_weight_matrix(DistMatrix)
 
 
+    # # Create track lists
+    # sort_avg_dists = sort_tracks_by_distance(DistMatrix)
+    # nns = create_lists(sort_avg_dists)
+
     # # Plots
-    plot_embeddings_genre(DistMatrix, df_meta, genres, fnames)
-    plot_distance_matrix(DistMatrix, DistMatrixWeigh, df_meta, genres)
-    plot_features(DictFeat, fnames)
-    plot_blocks_matrix_feat(emb_x, emb_y, DictFeat)
+    # plot_embeddings_genre(DistMatrix, df_meta, genres, fnames)
+    # plot_distance_matrix(DistMatrix, DistMatrixWeigh, df_meta, genres)
 
 
 
-    ################################################################################
+
+    # # Plot
+    # fig, ax = plt.subplots()
+    # ax.scatter(emb_x, emb_y)
+    # for i, label in enumerate(fnames):
+    #     if any(i in subl for subl in  nns):
+    #         plt.annotate(label, (emb_x[i], emb_y[i]))
+    # ax.scatter(C_x, C_y)
+    # ax.scatter([emb_x[i] for i in nns[0]], [emb_y[i] for i in nns[0]])
+    # ax.scatter([emb_x[i] for i in nns[1]], [emb_y[i] for i in nns[1]])
+    # ax.scatter([emb_x[i] for i in nns[2]], [emb_y[i] for i in nns[2]])
+    # ax.scatter([emb_x[i] for i in nns[3]], [emb_y[i] for i in nns[3]])
+
+    # plt.annotate('Centroid', (C_x, C_y))
+    # cir = plt.Circle((C_x, C_y), max_dist, color='r',fill=False)
+    # ax.set_aspect('equal', adjustable='datalim')
+    # ax.add_patch(cir)
+    # plt.show()
+
+    # # Get features from essentia and plot
+    # DictFeat, _ = import_features(ESS_DIR)
+    # plot_features(DictFeat, fnames)
+
     # # Plot embeddings VS feat
     # X, Y, Z = [], [], []
     # for i, label in enumerate(fnames):
@@ -460,6 +563,12 @@ if __name__ == "__main__":
     # sc = ax.scatter(X, Y, c=Z, cmap ='summer')
     # plt.colorbar(sc)
     # plt.show()
+
+
+
+    plot_blocks_matrix_feat(emb_x, emb_y, DictFeat)
+
+
 
 
 
@@ -481,3 +590,21 @@ if __name__ == "__main__":
 
 
 
+
+    # import pandas as pd
+    # from sklearn import linear_model
+    # import statsmodels.api as sm
+
+    # X, Y, Z = [], [], []
+    # for i, label in enumerate(fnames):
+    #     X.append(DictFeat[label]['bpm'])
+    #     Y.append(DictFeat[label]['timbre'])
+    #     Z.append(DictFeat[label]['dance'])
+
+
+    # # X = np.column_stack((X,Y))
+    # X = sm.add_constant(X)
+    # model = sm.OLS(Z, X).fit()
+    # predictions = model.predict(X)
+    # print_model = model.summary()
+    # print(print_model)
