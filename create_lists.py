@@ -4,24 +4,15 @@
 import numpy as np
 import os
 import matplotlib.pyplot as plt
-import matplotlib.cm as cm
-import json 
 import pandas as pd
-import seaborn as sns 
-import mantel
+import csv
 
-from tqdm import tqdm
-from collections import OrderedDict
 from operator import itemgetter
 from itertools import combinations
 
 from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
 from scipy.spatial.distance import euclidean, cdist
-from sklearn.metrics import silhouette_score, silhouette_samples
-
-from mpl_toolkits.axes_grid1 import make_axes_locatable
-from matplotlib.ticker import PercentFormatter
 
 marker_types = [".", "o", "v", "^", "<", 
                 ">", "1", "2", "3", "4",
@@ -30,70 +21,39 @@ marker_types = [".", "o", "v", "^", "<",
                 ".", "o", "v", "^", "<", '1']
 
 
-EMB_DIR = "/home/lorenzo/Data/longterm_data/effnet_filtered_20211124/"
-ESS_DIR = "/home/lorenzo/Data/longterm_data/essentia_20211124/"
-
 METADATA = "data/filtered_tracks_20211124.csv"
+METADATA_ENRICH = "data/filtered_tracks_enriched_20211124.csv"
+
+LIST_DIV = "data/track_list_div.csv"
+LIST_NOT_DIV = "data/track_list_not_div.csv"
+
 MAP_GENRE = "data/map_genres.csv"
 GENRE_DIST_MATRIX = "data/genres_distances.npy"
 GENRE_INDEX = "data/genres_index.csv"
 
 
-
-def import_metadata(meta_file):
-    """
-    """
-    df = pd.read_csv(meta_file)
-    df_map_genre = pd.read_csv(MAP_GENRE)
-    df_genre_index = pd.read_csv(GENRE_INDEX)
-
-    df['yt_id'] = [x.split('?v=')[1] for x in df['yt_link']]
-    df_new = pd.merge(df, df_map_genre, on='genre')
-    df_new = df_new.sort_values(by=['maingenre','genre'])
-
-    # Remove tracks with no embedding
-    for t_id in df_new.yt_id:
-        file = t_id + '.npy'
-        file_path = os.path.join(EMB_DIR, file)
-        if not os.path.exists(file_path):
-            df_new = df_new.drop(df_new[df_new.yt_id ==t_id].index.values)
-
-    genres = sorted(df_new['maingenre'].unique())
-
-    genres_dist_matrix = np.load(GENRE_DIST_MATRIX)
-    df_new = df_new.drop_duplicates(subset=('yt_id'), keep='last')
-    df_new = df_new[df_new['maingenre'] != 'rock']
-
-    return df_new, df_genre_index, df_map_genre, genres_dist_matrix, genres
-
-
-def import_embeddings(emb_dir):
+def import_embeddings(df):
     """
     """
     # Import embeddings
     embeddings = []
-    fnames = []
     
-    for t_id in df_meta.yt_id:
-        file = t_id + '.npy'
-        file_path = os.path.join(emb_dir, file)
-        if os.path.exists(file_path):
-            embedding = np.load(file_path)
+    for emb_path in df.emb_path:
+        if os.path.exists(emb_path):
+            embedding = np.load(emb_path)
             if len(embedding) != 200: # Sanity Check
-                print(fname)
+                print(emb_path)
             else:
                 embeddings.append(embedding)
-                fnames.append(t_id)
 
-    return embeddings, fnames
-
+    print("Found {} embeddings".format(len(embeddings)))
+    return embeddings
 
 def reduce_embeddings(embeddings):
     """
     """
     # PCA
     embeddings_stacked = np.vstack(embeddings)
-    lengths = list(map(len, embeddings))
     projection = PCA(random_state=0, copy=False)
     projection = projection.fit(embeddings_stacked[:, :None])
 
@@ -111,16 +71,11 @@ def reduce_embeddings(embeddings):
 
     # TSNE
     projection = TSNE(n_components=2, perplexity=7, random_state=1, n_iter=500, init='pca', verbose=True)
-    lengths = list(map(len, embeddings_reduced))
     embeddings_reduced = projection.fit_transform(embeddings_reduced[:, :None])
 
-    emb_x = list(map(itemgetter(0), embeddings_reduced))
-    emb_y = list(map(itemgetter(1), embeddings_reduced))
+    return embeddings_reduced
 
-    return embeddings_reduced, emb_x, emb_y
-
-
-def get_centroid(embeddings_reduced, fnames):
+def get_centroid(embeddings_reduced):
     """
     """
     # Get centroid
@@ -131,15 +86,15 @@ def get_centroid(embeddings_reduced, fnames):
     dists = [euclidean(x, [C_x, C_y]) for x in embeddings_reduced]
     max_dist = np.max(dists)
     imax_dist = dists.index(max_dist)
-    # fnames[imax_dist] = fnames[imax_dist]+ '- MAX'
     print("Max dist = {}".format(max_dist))
 
-    return C_x, C_y, max_dist
+    return C_x, C_y, max_dist, imax_dist
 
 def sort_tracks_by_distance(DistMatrix):
     """
     """
-    # Sort nn by average distances
+    # Sort tracks by average distance with 4 nn
+    # Return list of tracks sorted with average distance
     avg_dists = []
     for i in range(len(DistMatrix)):
         nn_dists = []
@@ -154,59 +109,106 @@ def sort_tracks_by_distance(DistMatrix):
 
     return sort_avg_dists
 
-def create_lists(sort_avg_dists):
+def create_lists(num_list, sort_avg_dists, df, diverse):
     """
     """
-    num_list = 4
-    k = 0 
+    print("Creating lists...")
+    genres_allowed = ['techno', 'trance', 'hardcore', 'hardstyle']
+
     tracks_found = []
+    genres_found = []
     nns = []
+
+
     for i in range(len(sort_avg_dists)):
         nn = DistMatrix[sort_avg_dists[i][0]].argsort()[:4]
+
+        # Check track genre, get the most frequent
+        list_genres = df_meta.iloc[nn].maingenre
+        most_comm_genre = list_genres.value_counts().index.tolist()[0]
+
+        # If there are more then two genres in the list, continue
+        if len(list_genres.unique()) > 2:
+            continue
+
+        if diverse:
+            if most_comm_genre in genres_found:
+                continue
+            else:
+                genres_found.append(most_comm_genre)
+        else:
+            if most_comm_genre not in genres_allowed:
+                continue
+            else:
+                genres_found.append(most_comm_genre)
+
+
+        # Check if tracks already in other lists
         if not any(map(lambda v: v in tracks_found, nn)):
             nns.append(nn)
             tracks_found.extend(nn)
-            k += 1
-            if k == num_list:
-                break
 
-    print("List {}".format(nns[0]))
-    print("{}".format([fnames[i] for i in nns[0]]))
-    print("List {}".format(nns[1]))
-    print("{}".format([fnames[i] for i in nns[1]]))
-    print("List {}".format(nns[2]))
-    print("{}".format([fnames[i] for i in nns[2]]))
-    print("List {}".format(nns[3]))
-    print("{}".format([fnames[i] for i in nns[3]]))
+        if len(nns) == num_list:
+            break
 
-    return nns
+    # for i in range(k):
+    #     print("List {} ({})".format(nns[i], genres_found[i]))
+    #     print("{}".format([df.iloc[c].yt_id for c in nns[i]]))
+
+    # Write track lists
+    if diverse:
+        outfile = LIST_DIV
+    else:
+        outfile = LIST_NOT_DIV
+
+    with open(outfile, 'w+') as outf:
+        _writer = csv.writer(outf)
+        for i in range(num_list):
+            _writer.writerow([df.iloc[c].yt_id for c in nns[i]])
+
+
+    return nns, genres_found
 
 
 if __name__ == "__main__":
 
+    num_list = 14
 
-    df_meta, df_genre_index, df_map_genre, DistMatrixGenre, genres = import_metadata(METADATA)
-    embeddings, fnames = import_embeddings(EMB_DIR)
-    embeddings_reduced, emb_x, emb_y = reduce_embeddings(embeddings)
-    C_x, C_y, max_dist = get_centroid(embeddings_reduced, fnames)
-    DistMatrix = cdist(embeddings_reduced, embeddings_reduced, 'minkowski')
+    df_meta = pd.read_csv(METADATA_ENRICH)
+    embeddings = import_embeddings(df_meta)
+    embeddings_red = reduce_embeddings(embeddings)
+
+    emb_x = list(map(itemgetter(0), embeddings_red))
+    emb_y = list(map(itemgetter(1), embeddings_red))
+
+    C_x, C_y, max_dist, imax_dist = get_centroid(embeddings_red)
+
+    DistMatrix = cdist(embeddings_red, embeddings_red, 'minkowski')
     sort_avg_dists = sort_tracks_by_distance(DistMatrix)
-    nns = create_lists(sort_avg_dists)
+    nns_div, genres_found_div = create_lists(num_list, sort_avg_dists, df_meta, diverse=True)
+    nns, genres_found = create_lists(num_list, sort_avg_dists, df_meta, diverse=False)
+
 
     # Plot
-    fig, ax = plt.subplots()
-    ax.scatter(emb_x, emb_y)
-    for i, label in enumerate(fnames):
-        if any(i in subl for subl in  nns):
-            plt.annotate(label, (emb_x[i], emb_y[i]))
-    ax.scatter(C_x, C_y)
-    ax.scatter([emb_x[i] for i in nns[0]], [emb_y[i] for i in nns[0]])
-    ax.scatter([emb_x[i] for i in nns[1]], [emb_y[i] for i in nns[1]])
-    ax.scatter([emb_x[i] for i in nns[2]], [emb_y[i] for i in nns[2]])
-    ax.scatter([emb_x[i] for i in nns[3]], [emb_y[i] for i in nns[3]])
+    fig, (ax1, ax2) = plt.subplots(ncols=2)
+    ax1.scatter(C_x, C_y)
+    ax1.set_title('List non diversified')
+    for c in range(num_list):
+        ax1.scatter([emb_x[i] for i in nns[c]], [emb_y[i] for i in nns[c]])
+        ax1.annotate(df_meta.iloc[nns[c][0]].maingenre, (emb_x[nns[c][0]], emb_y[nns[c][0]]))
 
-    plt.annotate('Centroid', (C_x, C_y))
+    ax2.scatter(C_x, C_y)
+    ax2.set_title('List diversified')
+    for c in range(num_list):
+        ax2.scatter([emb_x[i] for i in nns_div[c]], [emb_y[i] for i in nns_div[c]])
+        ax2.annotate(df_meta.iloc[nns_div[c][0]].maingenre, (emb_x[nns_div[c][0]], emb_y[nns_div[c][0]]))
+
+
+    ax1.annotate('Centroid', (C_x, C_y))
     cir = plt.Circle((C_x, C_y), max_dist, color='r',fill=False)
-    ax.set_aspect('equal', adjustable='datalim')
-    ax.add_patch(cir)
+    ax1.set_aspect('equal', adjustable='datalim')
+    ax1.add_patch(cir)
+    cir = plt.Circle((C_x, C_y), max_dist, color='r',fill=False)
+    ax2.set_aspect('equal', adjustable='datalim')
+    ax2.add_patch(cir)
     plt.show()
