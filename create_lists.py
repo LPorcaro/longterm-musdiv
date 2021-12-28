@@ -155,16 +155,16 @@ def create_lists(num_list, sort_avg_dists, df, diverse):
     #     print("List {} ({})".format(nns[i], genres_found[i]))
     #     print("{}".format([df.iloc[c].yt_id for c in nns[i]]))
 
-    # Write track lists
-    if diverse:
-        outfile = LIST_DIV
-    else:
-        outfile = LIST_NOT_DIV
+    # # Write track lists
+    # if diverse:
+    #     outfile = LIST_DIV
+    # else:
+    #     outfile = LIST_NOT_DIV
 
-    with open(outfile, 'w+') as outf:
-        _writer = csv.writer(outf)
-        for i in range(num_list):
-            _writer.writerow([df.iloc[c].yt_id for c in nns[i]])
+    # with open(outfile, 'w+') as outf:
+    #     _writer = csv.writer(outf)
+    #     for i in range(num_list):
+    #         _writer.writerow([df.iloc[c].yt_id for c in nns[i]])
 
 
     return nns, genres_found
@@ -172,7 +172,7 @@ def create_lists(num_list, sort_avg_dists, df, diverse):
 
 if __name__ == "__main__":
 
-    num_list = 14
+    num_list = 20
 
     df_meta = pd.read_csv(METADATA_ENRICH)
     embeddings = import_embeddings(df_meta)

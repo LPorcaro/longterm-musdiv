@@ -33,6 +33,8 @@ marker_types = [".", "o", "v", "^", "<",
 EMB_DIR = "/home/lorenzo/Data/longterm_data/effnet_filtered_20211124/"
 ESS_DIR = "/home/lorenzo/Data/longterm_data/essentia_20211124/"
 
+EMB_OUT_DIR = "data/emb"
+
 METADATA = "data/filtered_tracks_20211124.csv"
 MAP_GENRE = "data/map_genres.csv"
 GENRE_DIST_MATRIX = "data/genres_distances.npy"
@@ -57,7 +59,12 @@ def import_embeddings(emb_dir, df_meta):
                 embeddings.append(embedding)
                 fnames.append(t_id)
 
+    np.save(os.path.join(EMB_OUT_DIR, 'full'), embeddings)
+    np.save(os.path.join(EMB_OUT_DIR, 'fnames'), fnames)
+
     return embeddings, fnames
+
+
 
 def reduce_embeddings(embeddings):
     """
@@ -80,6 +87,8 @@ def reduce_embeddings(embeddings):
     projection = PCA(random_state=0, copy=False, n_components=pc_num)
     embeddings_reduced = projection.fit_transform(embeddings_stacked[:, :None])
 
+    np.save(os.path.join(EMB_OUT_DIR, 'pca'), embeddings_reduced)
+
     # TSNE
     projection = TSNE(n_components=2, perplexity=7, random_state=1, n_iter=500, init='pca', verbose=True)
     lengths = list(map(len, embeddings_reduced))
@@ -87,6 +96,8 @@ def reduce_embeddings(embeddings):
 
     emb_x = list(map(itemgetter(0), embeddings_reduced))
     emb_y = list(map(itemgetter(1), embeddings_reduced))
+
+    np.save(os.path.join(EMB_OUT_DIR, 'tsne'), embeddings_reduced)
 
     return embeddings_reduced, emb_x, emb_y
 
@@ -433,17 +444,17 @@ if __name__ == "__main__":
     embeddings, fnames = import_embeddings(EMB_DIR, df_meta)
     embeddings_reduced , emb_x, emb_y = reduce_embeddings(embeddings)
 
-    # # Compute pairwise distances
-    DistMatrix = cdist(embeddings_reduced, embeddings_reduced, 'minkowski')
-    DistMatrixWeigh = DistMatrix
-    # DistMatrixWeigh = compute_weight_matrix(DistMatrix)
+    # # # Compute pairwise distances
+    # DistMatrix = cdist(embeddings_reduced, embeddings_reduced, 'minkowski')
+    # DistMatrixWeigh = DistMatrix
+    # # DistMatrixWeigh = compute_weight_matrix(DistMatrix)
 
 
-    # # Plots
-    plot_embeddings_genre(DistMatrix, df_meta, genres, fnames)
-    plot_distance_matrix(DistMatrix, DistMatrixWeigh, df_meta, genres)
-    plot_features(DictFeat, fnames)
-    plot_blocks_matrix_feat(emb_x, emb_y, DictFeat)
+    # # # Plots
+    # plot_embeddings_genre(DistMatrix, df_meta, genres, fnames)
+    # plot_distance_matrix(DistMatrix, DistMatrixWeigh, df_meta, genres)
+    # plot_features(DictFeat, fnames)
+    # plot_blocks_matrix_feat(emb_x, emb_y, DictFeat)
 
 
 
