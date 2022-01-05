@@ -6,6 +6,7 @@ import os
 import matplotlib.pyplot as plt
 import pandas as pd
 import csv
+from datetime import datetime
 
 from operator import itemgetter
 from itertools import combinations
@@ -13,6 +14,9 @@ from itertools import combinations
 from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
 from scipy.spatial.distance import euclidean, cdist
+
+now = datetime.now()
+date_time = now.strftime("%Y%m%d_%H%M%S")
 
 marker_types = [".", "o", "v", "^", "<", 
                 ">", "1", "2", "3", "4",
@@ -24,8 +28,8 @@ marker_types = [".", "o", "v", "^", "<",
 METADATA = "data/filtered_tracks_20211124.csv"
 METADATA_ENRICH = "data/filtered_tracks_enriched_20211124.csv"
 
-LIST_DIV = "data/track_list_div.csv"
-LIST_NOT_DIV = "data/track_list_not_div.csv"
+LIST_DIV = "data/lists/track_list_div_{}.csv".format(date_time)
+LIST_NOT_DIV = "data/lists/track_list_not_div_{}.csv".format(date_time)
 
 MAP_GENRE = "data/map_genres.csv"
 GENRE_DIST_MATRIX = "data/genres_distances.npy"
@@ -113,7 +117,8 @@ def create_lists(num_list, sort_avg_dists, df, diverse):
     """
     """
     print("Creating lists...")
-    genres_allowed = ['techno', 'trance', 'hardcore', 'hardstyle']
+    genres_allowed = ['techno', 'trance', 'hardcore', 'hardstyle', 'house']
+
 
     tracks_found = []
     genres_found = []
@@ -139,9 +144,18 @@ def create_lists(num_list, sort_avg_dists, df, diverse):
         else:
             if most_comm_genre not in genres_allowed:
                 continue
+            elif not all(df_meta.iloc[nn].bpm > 110):
+                continue
+            elif not all(df_meta.iloc[nn].timbre > 0.45):
+                continue
+            elif not (all(df_meta.iloc[nn].dance > 0.9)):
+                continue
+            elif not all(df_meta.iloc[nn].instr < 0.85):
+                continue
+            elif not all(df_meta.iloc[nn].voice > 0.1):
+                continue
             else:
                 genres_found.append(most_comm_genre)
-
 
         # Check if tracks already in other lists
         if not any(map(lambda v: v in tracks_found, nn)):
@@ -151,9 +165,6 @@ def create_lists(num_list, sort_avg_dists, df, diverse):
         if len(nns) == num_list:
             break
 
-    # for i in range(k):
-    #     print("List {} ({})".format(nns[i], genres_found[i]))
-    #     print("{}".format([df.iloc[c].yt_id for c in nns[i]]))
 
     # # Write track lists
     # if diverse:
@@ -166,6 +177,7 @@ def create_lists(num_list, sort_avg_dists, df, diverse):
     #     for i in range(num_list):
     #         _writer.writerow([df.iloc[c].yt_id for c in nns[i]])
 
+    # print("Created: {}".format(outfile))
 
     return nns, genres_found
 
@@ -183,24 +195,30 @@ if __name__ == "__main__":
 
     C_x, C_y, max_dist, imax_dist = get_centroid(embeddings_red)
 
-    DistMatrix = cdist(embeddings_red, embeddings_red, 'minkowski')
+    DistMatrix_red = cdist(embeddings_red, embeddings_red, 'cosine')
+    DistMatrix = cdist(embeddings, embeddings, 'cosine')
+
+    # DistMatrix = DistMatrix_red
+
     sort_avg_dists = sort_tracks_by_distance(DistMatrix)
     nns_div, genres_found_div = create_lists(num_list, sort_avg_dists, df_meta, diverse=True)
     nns, genres_found = create_lists(num_list, sort_avg_dists, df_meta, diverse=False)
 
+    if len(nns_div) < num_list or len(nns) < num_list:
+          raise Exception("{} - {}".format(len(nns_div), len(nns)))
 
     # Plot
     fig, (ax1, ax2) = plt.subplots(ncols=2)
     ax1.scatter(C_x, C_y)
     ax1.set_title('List non diversified')
     for c in range(num_list):
-        ax1.scatter([emb_x[i] for i in nns[c]], [emb_y[i] for i in nns[c]])
+        ax1.scatter([emb_x[i] for i in nns[c]], [emb_y[i] for i in nns[c]], marker='x')
         ax1.annotate(df_meta.iloc[nns[c][0]].maingenre, (emb_x[nns[c][0]], emb_y[nns[c][0]]))
 
     ax2.scatter(C_x, C_y)
     ax2.set_title('List diversified')
     for c in range(num_list):
-        ax2.scatter([emb_x[i] for i in nns_div[c]], [emb_y[i] for i in nns_div[c]])
+        ax2.scatter([emb_x[i] for i in nns_div[c]], [emb_y[i] for i in nns_div[c]], marker='x')
         ax2.annotate(df_meta.iloc[nns_div[c][0]].maingenre, (emb_x[nns_div[c][0]], emb_y[nns_div[c][0]]))
 
 

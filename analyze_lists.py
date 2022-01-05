@@ -15,8 +15,9 @@ from mannwhitney import mannWhitney
 
 METADATA_ENRICH = "data/filtered_tracks_enriched_20211124.csv"
 
-LIST_DIV = "data/track_list_div.csv"
-LIST_NOT_DIV = "data/track_list_not_div.csv"
+creation_time = "20211229_173136"
+LIST_DIV = "data/lists/track_list_div_{}.csv".format(creation_time)
+LIST_NOT_DIV = "data/lists/track_list_not_div_{}.csv".format(creation_time)
 
 
 def import_lists():
@@ -178,7 +179,7 @@ if __name__ == "__main__":
     not_div_idxs = [item for elem in list_not_div_idxs for item in elem]
 
 
-    # test_distances()
+    test_distances()
 
 
     feats = ['bpm', 'dance', 'timbre', 'instr', 'voice']
