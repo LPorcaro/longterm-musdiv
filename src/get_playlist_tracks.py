@@ -6,7 +6,6 @@ import csv
 import os
 import time
 
-from requests.exceptions import ReadTimeout
 from spotipy.oauth2 import SpotifyClientCredentials
 from tqdm import tqdm
 
@@ -15,10 +14,10 @@ infile = '../data/input/spotify_EM_playlists2.csv'
 outfile = '../data/input/tracklist_20220104_2.csv'
 outfile_feat = '../data/input/tracklist_features_20220104_2.csv'
 
-HEADER = ['genre', 'maingenre', 't_id', 'artist_name', 'track_name',
+HEADER = ['genre', 'maingenre', 'sp_id', 'artist_name', 'track_name',
           'ISRC', 'pop']
 
-HEADER2 = ['t_id', 'acousticness', 'danceability', 'instrumentalness',
+HEADER2 = ['sp_id', 'acousticness', 'danceability', 'instrumentalness',
            'speechiness', 'tempo', 'valence', 'energy']
 
 

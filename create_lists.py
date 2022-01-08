@@ -207,26 +207,26 @@ if __name__ == "__main__":
     if len(nns_div) < num_list or len(nns) < num_list:
           raise Exception("{} - {}".format(len(nns_div), len(nns)))
 
-    # Plot
-    fig, (ax1, ax2) = plt.subplots(ncols=2)
-    ax1.scatter(C_x, C_y)
-    ax1.set_title('List non diversified')
-    for c in range(num_list):
-        ax1.scatter([emb_x[i] for i in nns[c]], [emb_y[i] for i in nns[c]], marker='x')
-        ax1.annotate(df_meta.iloc[nns[c][0]].maingenre, (emb_x[nns[c][0]], emb_y[nns[c][0]]))
+    # # Plot
+    # fig, (ax1, ax2) = plt.subplots(ncols=2)
+    # ax1.scatter(C_x, C_y)
+    # ax1.set_title('List non diversified')
+    # for c in range(num_list):
+    #     ax1.scatter([emb_x[i] for i in nns[c]], [emb_y[i] for i in nns[c]], marker='x')
+    #     ax1.annotate(df_meta.iloc[nns[c][0]].maingenre, (emb_x[nns[c][0]], emb_y[nns[c][0]]))
 
-    ax2.scatter(C_x, C_y)
-    ax2.set_title('List diversified')
-    for c in range(num_list):
-        ax2.scatter([emb_x[i] for i in nns_div[c]], [emb_y[i] for i in nns_div[c]], marker='x')
-        ax2.annotate(df_meta.iloc[nns_div[c][0]].maingenre, (emb_x[nns_div[c][0]], emb_y[nns_div[c][0]]))
+    # ax2.scatter(C_x, C_y)
+    # ax2.set_title('List diversified')
+    # for c in range(num_list):
+    #     ax2.scatter([emb_x[i] for i in nns_div[c]], [emb_y[i] for i in nns_div[c]], marker='x')
+    #     ax2.annotate(df_meta.iloc[nns_div[c][0]].maingenre, (emb_x[nns_div[c][0]], emb_y[nns_div[c][0]]))
 
 
-    ax1.annotate('Centroid', (C_x, C_y))
-    cir = plt.Circle((C_x, C_y), max_dist, color='r',fill=False)
-    ax1.set_aspect('equal', adjustable='datalim')
-    ax1.add_patch(cir)
-    cir = plt.Circle((C_x, C_y), max_dist, color='r',fill=False)
-    ax2.set_aspect('equal', adjustable='datalim')
-    ax2.add_patch(cir)
-    plt.show()
+    # ax1.annotate('Centroid', (C_x, C_y))
+    # cir = plt.Circle((C_x, C_y), max_dist, color='r',fill=False)
+    # ax1.set_aspect('equal', adjustable='datalim')
+    # ax1.add_patch(cir)
+    # cir = plt.Circle((C_x, C_y), max_dist, color='r',fill=False)
+    # ax2.set_aspect('equal', adjustable='datalim')
+    # ax2.add_patch(cir)
+    # plt.show()
