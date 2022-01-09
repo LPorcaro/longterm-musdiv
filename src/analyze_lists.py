@@ -4,6 +4,8 @@
 import pandas as pd
 import csv
 import numpy as np
+import os
+import matplotlib.pyplot as plt
 
 from itertools import combinations
 from tabulate import tabulate
@@ -13,11 +15,23 @@ from scipy import stats
 from mannwhitney import mannWhitney
 
 
-METADATA_ENRICH = "data/filtered_tracks_enriched_20211124.csv"
+marker_types = [".", "o", "v", "^", "<",
+                ">", "1", "2", "3", "4",
+                "8", "s", "p", "P", "h",
+                "H", "+", "x", "X", "D",
+                ".", "o", "v", "^", "<", '1']
 
-CREATION_TIME = "20211229_173136"
-LIST_DIV = "data/input/lists/track_list_div_{}.csv".format(CREATION_TIME)
-LIST_NOT_DIV = "data/input/lists/track_list_not_div_{}.csv".format(CREATION_TIME)
+np.random.shuffle(marker_types)
+
+
+ESSENTIA_DIR = "/home/lorenzo/Data/longterm_data/features/"
+EMB_DIR = "../data/embeddings/{}"
+TRACKS = "../data/input/random_tracklist_20220104.csv"
+TRACKS_FEAT = "../data/input/tracklist_features_20220104.csv"
+
+CREATION_TIME = "20220109_113305"
+LIST_DIV = "../data/lists/track_list_div_{}.csv".format(CREATION_TIME)
+LIST_NOT_DIV = "../data/lists/track_list_not_div_{}.csv".format(CREATION_TIME)
 
 
 def import_embeddings(emb_dir, emb_type, emb_length):
@@ -50,18 +64,36 @@ def import_lists():
     """
 
     list_div, list_not_div = [], []
+    list_div_genres, list_not_div_genres = [], []
 
     with open(LIST_DIV, 'r') as inf1, open(LIST_NOT_DIV, 'r') as inf2:
         _reader1 = csv.reader(inf1)
         _reader2 = csv.reader(inf2)
 
         for row in _reader1:
-            list_div.append(row)
+            list_div.append(row[:-1])
+            list_div_genres.append(row[-1])
+
         for row in _reader2:
-            list_not_div.append(row)
+            list_not_div.append(row[:-1])
+            list_not_div_genres.append(row[-1])
 
-    return list_div, list_not_div
+    return list_div, list_not_div, list_div_genres, list_not_div_genres
 
+
+def find_indexes(list_div, list_not_div, filenames):
+    """
+    """
+    # Get nested list of indexes
+    list_div_idxs = []
+    for l in list_div:
+        list_div_idxs.append([filenames.index(track) for track in l])
+
+    list_not_div_idxs = []
+    for l in list_not_div:
+        list_not_div_idxs.append([filenames.index(track) for track in l])
+
+    return list_div_idxs, list_not_div_idxs
 
 def geometric_median(X, eps=1e-5):
     y = np.mean(X, 0)
@@ -96,49 +128,56 @@ def test_significance(list1, list2):
     """
     """
     MU = mannWhitney(list1, list2)
-    print("Medians -> ", np.median(list1), np.median(list2))
-    print("Mann Whitney -> Significance: {}; U-statistics: {}, EffectSize: {}".format(
+    print("Medians Diff Distances -> {:.3f} - {:.3f}".format(np.median(list1), np.median(list2)))
+    print("Mann Whitney -> Significance: {}; U-statistics: {}, EffectSize: {:.3f}".format(
                                         MU.significance, MU.u, MU.effectsize))
 
     tStat, pValue = stats.ttest_ind(list1, list2)
-    print("T-Test -> P-Value:{0} T-Statistic:{1}".format(pValue,tStat))
+    print("T-Test -> P-Value:{} T-Statistic:{:.3f}".format(pValue,tStat))
 
 
 def test_distances():
     """
     """
-    t_embs = [full, pca, tsne]
-    l_embs = ["FULL", "PCA", "TSNE"]
 
-    print("Distance from geometric median")
-    for t_emb, l_emb in zip(t_embs, l_embs):
-        print("###########  {}".format(l_emb))
+    # Get flat list index
+    div_idxs = [item for elem in list_div_idxs for item in elem]
+    not_div_idxs = [item for elem in list_not_div_idxs for item in elem]
 
-        div_gmedian = geometric_median(np.vstack(itemgetter(*div_idxs)(t_emb)))
+
+    l_embs = ["musicnn", "musicnn_pca", "musicnn_tsne"]
+    s_embs = [200, 7, 2]
+    
+    for l_emb, s_embs  in zip(l_embs, s_embs):
+
+        embeddings, filenames = import_embeddings(EMB_DIR, l_emb, s_embs)
+        embeddings = np.vstack(embeddings)
+
+        print("\n########### {} EMBEDDINGS".format(l_emb))
+        print("#### Distance from geometric median")
+        div_gmedian = geometric_median(np.vstack(itemgetter(*div_idxs)(embeddings)))
         div_dists = []
         for idx in div_idxs:
-            dist = cosine(div_gmedian, t_emb[idx])
+            dist = cosine(div_gmedian, embeddings[idx])
             div_dists.append(dist)
 
-        not_div_gmedian = geometric_median(np.vstack(itemgetter(*not_div_idxs)(t_emb)))
+        not_div_gmedian = geometric_median(np.vstack(itemgetter(*not_div_idxs)(embeddings)))
         not_div_dists = []
         for idx in not_div_idxs:
-            dist = cosine(not_div_gmedian, t_emb[idx])
+            dist = cosine(not_div_gmedian, embeddings[idx])
             not_div_dists.append(dist)
 
         test_significance(div_dists, not_div_dists)
 
 
-    print("\nInter list average distance")
-    for t_emb, l_emb in zip(t_embs, l_embs):
-        print("###########  {}".format(l_emb))
+        print("#### Inter-list average distance")
         avg_inter_list_1 = []
         for c1, l1 in enumerate(list_div_idxs):
             for c2, l2 in enumerate(list_div_idxs):
                 if c1 <= c2:
                     continue
-                emb1 = itemgetter(*l1)(t_emb)
-                emb2 = itemgetter(*l2)(t_emb)
+                emb1 = itemgetter(*l1)(embeddings)
+                emb2 = itemgetter(*l2)(embeddings)
                 distances = cdist(emb1, emb2, 'cosine')
                 avg_dist = np.average(distances[np.nonzero(np.triu(distances))])
                 avg_inter_list_1.append(avg_dist)
@@ -148,8 +187,8 @@ def test_distances():
             for c2, l2 in enumerate(list_not_div_idxs):
                 if c1 <= c2:
                     continue
-                emb1 = itemgetter(*l1)(t_emb)
-                emb2 = itemgetter(*l2)(t_emb)
+                emb1 = itemgetter(*l1)(embeddings)
+                emb2 = itemgetter(*l2)(embeddings)
                 distances = cdist(emb1, emb2, 'cosine')
                 avg_dist = np.average(distances[np.nonzero(np.triu(distances))])
                 avg_inter_list_2.append(avg_dist)
@@ -158,12 +197,10 @@ def test_distances():
 
 
 
-    print("\nIntra list average distance")
-    for t_emb, l_emb in zip(t_embs, l_embs):
-        print("###########  {}".format(l_emb))
+        print("#### Intra-list average distance")
         avg_intra_list_1 = []
         for idxs in list_div_idxs:
-            emb = itemgetter(*idxs)(t_emb)
+            emb = itemgetter(*idxs)(embeddings)
             distances = cdist(emb, emb, 'cosine')
             avg_dist = np.average(distances[np.nonzero(np.triu(distances))])
             avg_intra_list_1.append(avg_dist)
@@ -171,16 +208,15 @@ def test_distances():
 
         avg_intra_list_2 = []
         for idxs in list_not_div_idxs:
-            emb = itemgetter(*idxs)(t_emb)
+            emb = itemgetter(*idxs)(embeddings)
             distances = cdist(emb, emb, 'cosine')
             avg_dist = np.average(distances[np.nonzero(np.triu(distances))])
             avg_intra_list_2.append(avg_dist)
         
-        test_significance(avg_intra_list_1, avg_intra_list_2)    
+        test_significance(avg_intra_list_1, avg_intra_list_2) 
 
 
-
-def get_centroid(emb_x, emb_y, embeddings)):
+def get_centroid(emb_x, emb_y, embeddings):
     """
     """
     # Get centroid
@@ -191,17 +227,16 @@ def get_centroid(emb_x, emb_y, embeddings)):
     dists = [euclidean(x, [C_x, C_y]) for x in embeddings]
     max_dist = np.max(dists)
     imax_dist = dists.index(max_dist)
-    print("Max dist = {}".format(max_dist))
+    # print("Max dist = {}".format(max_dist))
 
     return C_x, C_y, max_dist, imax_dist
 
 
-def plot_lists(list_div, list_not_div):
+def plot_lists(embeddings, nns_div, nns, nns_div_genres, nns_genres):
     """
     """
-    embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn_tsne', 2)
-    embeddings = np.vstack(embeddings)
-    DistMatrix = cdist(embeddings, embeddings, 'euclidean')
+    num_list = len(nns_div_genres)
+
     emb_x = list(map(itemgetter(0), embeddings))
     emb_y = list(map(itemgetter(1), embeddings))
     C_x, C_y, max_dist, imax_dist = get_centroid(emb_x, emb_y, embeddings)
@@ -238,75 +273,56 @@ if __name__ == "__main__":
     df_tracks = pd.read_csv(TRACKS, delimiter='\t')
     # DictFeat = import_features(ESSENTIA_DIR, df_tracks)
 
-    list_div, list_not_div = import_lists()
+    list_div, list_not_div, list_div_genres, list_not_div_genres = import_lists()
 
-    # Get nested list of indexes
-    list_div_idxs = []
-    for l in list_div:
-        list_div_idxs.append([np.where(fnames == track)[0].item() for track in l])
-
-    list_not_div_idxs = []
-    for l in list_not_div:
-        list_not_div_idxs.append([np.where(fnames == track)[0].item() for track in l])
-
-    print(list_div_idxs)
-    print(list_not_div_idxs)
-
-    plot_lists(list_div, list_not_div)
-
-
-    DictFeat = {}
-    embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn', 200)
+    embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn_tsne', 2)
     embeddings = np.vstack(embeddings)
+    DistMatrix = cdist(embeddings, embeddings, 'euclidean')
 
-    DistMatrix = cdist(embeddings, embeddings, 'cosine')
+    list_div_idxs, list_not_div_idxs = find_indexes(list_div, list_not_div, filenames)
 
-
-
-
-
-    # # Get flat list index
-    # div_idxs = [item for elem in list_div_idxs for item in elem]
-    # not_div_idxs = [item for elem in list_not_div_idxs for item in elem]
-
-
-
+    # plot_lists(embeddings, list_div_idxs, list_not_div_idxs, list_div_genres, list_not_div_genres)
 
 
     # test_distances()
 
+    df_sp_feat = pd.read_csv(TRACKS_FEAT, delimiter='\t')
+    df_sp_feat = df_sp_feat.drop_duplicates(subset=('sp_id'))
 
-    # feats = ['bpm', 'dance', 'timbre', 'instr', 'voice']
-    # header = ["count", "mean", "std", "min", "q1", "q2", "q3", "IQR", "max"]
+    df_meta = pd.merge(df_tracks, df_sp_feat, on='sp_id')
 
-    # for feat in feats:
-    #     print("\n###########  {}".format(feat))
+    feats = ['tempo', 'danceability', 'acousticness', 'instrumentalness']
+    header = ['list', 'count', 'mean', 'std', 'min', 'q1', 'q2', 'q3', 'IQR', 'max']
+
+    for feat in feats:
+        print("\n###########  {}".format(feat))
         
-    #     median = df_meta.loc[df_meta.yt_id.isin([item for elem in list_div for item in elem])][feat].median()
-    #     count, mean, std, _min, q1, q2, q3, _max = df_meta.loc[df_meta.yt_id.isin([item for elem in list_div for item in elem])][feat].describe()
-    #     print(tabulate([[count, mean, std, _min, q1, q2, q3, q3-q1, _max]], headers=header))
+        median = df_meta.loc[df_meta.yt_id.isin([item for elem in list_div for item in elem])][feat].median()
+        count, mean, std, _min, q1, q2, q3, _max = df_meta.loc[df_meta.yt_id.isin([item for elem in list_div for item in elem])][feat].describe()
+        print(tabulate([['div', count, mean, std, _min, q1, q2, q3, q3-q1, _max]], headers=header))
 
-    #     medians_1 = []
-    #     for tracklist in list_div:
-    #         median_list = df_meta.loc[df_meta.yt_id.isin(tracklist)][feat].median()
-    #         medians_1.append(median_list)
+        medians_1 = []
+        for tracklist in list_div:
+            median_list = df_meta.loc[df_meta.yt_id.isin(tracklist)][feat].median()
+            medians_1.append(median_list)
 
-    #     diffs1 = []
-    #     for i1, i2 in combinations(medians_1, 2):
-    #         diffs1.append(abs(i1-i2))
+        diffs1 = []
+        for i1, i2 in combinations(medians_1, 2):
+            diffs1.append(abs(i1-i2))
 
-    #     median = df_meta.loc[df_meta.yt_id.isin([item for elem in list_not_div for item in elem])][feat].median()
-    #     count, mean, std, _min, q1, q2, q3, _max = df_meta.loc[df_meta.yt_id.isin([item for elem in list_not_div for item in elem])][feat].describe()
-    #     print(tabulate([[count, mean, std, _min, q1, q2, q3, q3-q1, _max]], headers=header))
+        print()
+        median = df_meta.loc[df_meta.yt_id.isin([item for elem in list_not_div for item in elem])][feat].median()
+        count, mean, std, _min, q1, q2, q3, _max = df_meta.loc[df_meta.yt_id.isin([item for elem in list_not_div for item in elem])][feat].describe()
+        print(tabulate([['not div ', count, mean, std, _min, q1, q2, q3, q3-q1, _max]], headers=header))
 
-    #     medians_2 = []
-    #     for tracklist in list_not_div:
-    #         median_list = df_meta.loc[df_meta.yt_id.isin(tracklist)][feat].median()
-    #         medians_2.append(median_list)
-    #     diffs2   = []
-    #     for i1, i2 in combinations(medians_2, 2):
-    #         diffs2.append(abs(i1-i2))
+        medians_2 = []
+        for tracklist in list_not_div:
+            median_list = df_meta.loc[df_meta.yt_id.isin(tracklist)][feat].median()
+            medians_2.append(median_list)
+        diffs2   = []
+        for i1, i2 in combinations(medians_2, 2):
+            diffs2.append(abs(i1-i2))
 
-
-    #     test_significance(diffs1, diffs2)    
-
+        print()
+        test_significance(diffs1, diffs2)  
+  

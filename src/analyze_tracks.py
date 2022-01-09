@@ -462,7 +462,7 @@ if __name__ == "__main__":
     emb_y = list(map(itemgetter(1), embeddings))
 
     # Compute pairwise distances
-    DistMatrix = cdist(embeddings, embeddings, 'cosine')
+    DistMatrix = cdist(embeddings, embeddings, 'euclidean')
 
     # Silhouette analysis
     # silhouette_analysis(DistMatrix, df_tracks, filenames)

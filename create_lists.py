@@ -25,59 +25,41 @@ marker_types = [".", "o", "v", "^", "<",
                 ".", "o", "v", "^", "<", '1']
 
 
-METADATA = "data/filtered_tracks_20211124.csv"
-METADATA_ENRICH = "data/filtered_tracks_enriched_20211124.csv"
+ESSENTIA_DIR = "/home/lorenzo/Data/longterm_data/features/"
+EMB_DIR = "../data/embeddings/{}"
+TRACKS = "../data/input/random_tracklist_20220104.csv"
+TRACKS_FEAT = "../data/input/tracklist_features_20220104.csv"
 
 LIST_DIV = "data/lists/track_list_div_{}.csv".format(date_time)
 LIST_NOT_DIV = "data/lists/track_list_not_div_{}.csv".format(date_time)
 
-MAP_GENRE = "data/map_genres.csv"
-GENRE_DIST_MATRIX = "data/genres_distances.npy"
-GENRE_INDEX = "data/genres_index.csv"
 
 
-def import_embeddings(df):
+def import_embeddings(emb_dir, emb_type, emb_length):
     """
     """
-    # Import embeddings
     embeddings = []
-    
-    for emb_path in df.emb_path:
-        if os.path.exists(emb_path):
-            embedding = np.load(emb_path)
-            if len(embedding) != 200: # Sanity Check
-                print(emb_path)
+    filenames = []
+
+    emb_dir_input = emb_dir.format(emb_type)
+    for emb_file in os.listdir(emb_dir_input):
+        if not emb_file.endswith('.npy'):
+            continue
+
+        filename, ext = os.path.splitext(emb_file)
+
+        file_path = os.path.join(emb_dir_input, emb_file)
+        if os.path.exists(file_path):
+            embedding = np.load(file_path)
+            if len(embedding) != emb_length:
+                print(filename)
             else:
                 embeddings.append(embedding)
+                filenames.append(filename)
 
-    print("Found {} embeddings".format(len(embeddings)))
-    return embeddings
+    return embeddings, filenames
 
-def reduce_embeddings(embeddings):
-    """
-    """
-    # PCA
-    embeddings_stacked = np.vstack(embeddings)
-    projection = PCA(random_state=0, copy=False)
-    projection = projection.fit(embeddings_stacked[:, :None])
 
-    threshold = 0.8
-    pc_num = 1
-    exp_var_ratio = 0
-    while exp_var_ratio <= threshold:
-        exp_var_ratio = np.sum(projection.explained_variance_ratio_[:pc_num])
-        pc_num += 1
-
-    print ("Explained variance ratio by {} PC: {}".format(pc_num, exp_var_ratio))
-
-    projection = PCA(random_state=0, copy=False, n_components=pc_num)
-    embeddings_reduced = projection.fit_transform(embeddings_stacked[:, :None])
-
-    # TSNE
-    projection = TSNE(n_components=2, perplexity=7, random_state=1, n_iter=500, init='pca', verbose=True)
-    embeddings_reduced = projection.fit_transform(embeddings_reduced[:, :None])
-
-    return embeddings_reduced
 
 def get_centroid(embeddings_reduced):
     """
@@ -186,26 +168,25 @@ if __name__ == "__main__":
 
     num_list = 20
 
-    df_meta = pd.read_csv(METADATA_ENRICH)
-    embeddings = import_embeddings(df_meta)
-    embeddings_red = reduce_embeddings(embeddings)
+    embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn_tsne', 2)
 
-    emb_x = list(map(itemgetter(0), embeddings_red))
-    emb_y = list(map(itemgetter(1), embeddings_red))
+    embeddings = np.vstack(embeddings)
+    emb_x = list(map(itemgetter(0), embeddings))
+    emb_y = list(map(itemgetter(1), embeddings))
 
-    C_x, C_y, max_dist, imax_dist = get_centroid(embeddings_red)
+    C_x, C_y, max_dist, imax_dist = get_centroid(embeddings)
 
-    DistMatrix_red = cdist(embeddings_red, embeddings_red, 'cosine')
     DistMatrix = cdist(embeddings, embeddings, 'cosine')
 
-    # DistMatrix = DistMatrix_red
-
     sort_avg_dists = sort_tracks_by_distance(DistMatrix)
-    nns_div, genres_found_div = create_lists(num_list, sort_avg_dists, df_meta, diverse=True)
-    nns, genres_found = create_lists(num_list, sort_avg_dists, df_meta, diverse=False)
 
-    if len(nns_div) < num_list or len(nns) < num_list:
-          raise Exception("{} - {}".format(len(nns_div), len(nns)))
+    print(sort_avg_dists[:30])
+
+    # nns_div, genres_found_div = create_lists(num_list, sort_avg_dists, df_meta, diverse=True)
+    # nns, genres_found = create_lists(num_list, sort_avg_dists, df_meta, diverse=False)
+
+    # if len(nns_div) < num_list or len(nns) < num_list:
+    #       raise Exception("{} - {}".format(len(nns_div), len(nns)))
 
     # # Plot
     # fig, (ax1, ax2) = plt.subplots(ncols=2)
