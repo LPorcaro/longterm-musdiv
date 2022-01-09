@@ -3,5 +3,5 @@
 # Ignore CheckPoints
 .ipynb_checkpoints
 # Ignore Cache
-__pycache__/
+**/__pycache__/
 .cache
