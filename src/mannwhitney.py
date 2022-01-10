@@ -30,7 +30,7 @@ from scipy.stats import tiecorrect, rankdata, norm
 
 class mannWhitney():
 
-    def __init__(self, data1, data2, tail = 'two', significant_level=0.1):
+    def __init__(self, data1, data2, tail = 'two', significant_level=0.05):
 
         """
         Function for Mann-Whitney U test

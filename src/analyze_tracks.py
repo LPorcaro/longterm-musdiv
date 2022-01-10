@@ -465,7 +465,7 @@ if __name__ == "__main__":
     DistMatrix = cdist(embeddings, embeddings, 'euclidean')
 
     # Silhouette analysis
-    # silhouette_analysis(DistMatrix, df_tracks, filenames)
+    silhouette_analysis(DistMatrix, df_tracks, filenames)
 
     # # # Plots
     plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, filenames)

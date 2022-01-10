@@ -29,7 +29,7 @@ EMB_DIR = "../data/embeddings/{}"
 TRACKS = "../data/input/random_tracklist_20220104.csv"
 TRACKS_FEAT = "../data/input/tracklist_features_20220104.csv"
 
-CREATION_TIME = "20220109_113305"
+CREATION_TIME = "20220110_121346"
 LIST_DIV = "../data/lists/track_list_div_{}.csv".format(CREATION_TIME)
 LIST_NOT_DIV = "../data/lists/track_list_not_div_{}.csv".format(CREATION_TIME)
 
@@ -123,27 +123,29 @@ def plot_lists(embeddings, nns_div, nns, nns_div_genres, nns_genres):
 
     fig, (ax1, ax2) = plt.subplots(ncols=2)
     ax1.scatter(C_x, C_y)
-    ax1.set_title('List non diversified')
+    ax1.set_title('Low Diversity Lists')
     for c in range(num_list):
-        x = [emb_x[i] for i in nns[c]]
-        y = [emb_y[i] for i in nns[c]]
+        x = np.mean([emb_x[i] for i in nns[c]])
+        y = np.mean([emb_y[i] for i in nns[c]])
         ax1.scatter(x, y, marker=marker_types[c], label=nns_div_genres[c])
-        ax1.annotate(nns_genres[c], (
-            emb_x[nns[c][0]], emb_y[nns[c][0]]))
+        text = ax1.annotate(nns_genres[c], (x, y))
+        text.set_fontsize(15)
 
     ax2.scatter(C_x, C_y)
-    ax2.set_title('List diversified')
+    ax2.set_title('High Diversity Lists')
     for c in range(num_list):
-        x = [emb_x[i] for i in nns_div[c]]
-        y = [emb_y[i] for i in nns_div[c]]
+        x = np.mean([emb_x[i] for i in nns_div[c]])
+        y = np.mean([emb_y[i] for i in nns_div[c]])
         ax2.scatter(x, y, marker=marker_types[c], label=nns_div_genres[c])
-        ax2.annotate(nns_div_genres[c], (
-            emb_x[nns_div[c][0]], emb_y[nns_div[c][0]]))
+        text = ax2.annotate(nns_div_genres[c], (x, y))
+        text.set_fontsize(15)
+
 
     ax1.annotate('Centroid', (C_x, C_y))
     cir = plt.Circle((C_x, C_y), max_dist, color='r', fill=False)
     ax1.set_aspect('equal', adjustable='datalim')
     ax1.add_patch(cir)
+    ax2.annotate('Centroid', (C_x, C_y))
     cir = plt.Circle((C_x, C_y), max_dist, color='r', fill=False)
     ax2.set_aspect('equal', adjustable='datalim')
     ax2.add_patch(cir)
@@ -286,10 +288,11 @@ def test_features():
         print("\n###########  {}".format(feat))
 
         diffs_joint = []
-
+        tracks_feat_plot = []
         for lists in [list_div, list_not_div]:
             tracks_feat = df_meta.loc[df_meta.yt_id.isin(
                 [item for elem in lists for item in elem])][feat]
+            tracks_feat_plot.append(tracks_feat)
             count, mean, std, _min, q1, q2, q3, _max = tracks_feat.describe()
             print(tabulate([[count, mean, std, _min, q1, q2, q3, q3-q1, _max]],
                   headers=header))
@@ -305,6 +308,11 @@ def test_features():
 
             diffs_joint.append(diffs)
 
+        df = pd.concat(tracks_feat_plot, axis=1)
+        df.columns = ['High Diversity', 'Low Diversity']
+        ax = df.boxplot()
+        ax.get_figure().suptitle(t=feat, fontsize=16);
+        plt.show()
         test_significance(diffs_joint[0], diffs_joint[1])
 
 

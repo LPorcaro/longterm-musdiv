@@ -167,7 +167,7 @@ def create_div_list(num_list, sort_avg_dists, df_tracks, filenames):
 def create_not_div_lists(num_list, sort_avg_dists, df_tracks, filenames):
     """
     """
-    genres_allowed = ['techno', 'trance']
+    genres_allowed = ['trance']
 
     nns_found = []
     maingenres = []
