@@ -11,6 +11,7 @@ import seaborn as sns
 
 from collections import OrderedDict, Counter
 from operator import itemgetter
+from tabulate import tabulate
 
 from scipy.stats.stats import pearsonr
 from scipy.spatial.distance import cdist
@@ -78,7 +79,7 @@ def import_features(feat_dir, df_tracks):
             DictFeat[yt_id] = {}
             DictFeat[yt_id]['essentia'] = {}
             DictFeat[yt_id]['essentia']['bpm'] = (
-                round(data['rhythm']['bpm'], 3))
+                round(data['rhythm']['bpm']))
             DictFeat[yt_id]['essentia']['dance'] = (
                 round(data['rhythm']['danceability'], 3))
             DictFeat[yt_id]['essentia']['timbre'] = (
@@ -96,7 +97,7 @@ def import_features(feat_dir, df_tracks):
             sp_id_feat = df_sp_feat[df_sp_feat.sp_id == sp_id]
 
             DictFeat[yt_id]['spotify'] = {}
-            DictFeat[yt_id]['spotify']['bpm'] = (
+            DictFeat[yt_id]['spotify']['bpm'] = round(
                                 sp_id_feat.tempo.item())
             DictFeat[yt_id]['spotify']['dance'] = (
                                 sp_id_feat.danceability.item())
@@ -116,10 +117,10 @@ def import_features(feat_dir, df_tracks):
     return DictFeat
 
 
-def feature_correlation(DictFeat):
+def feature_correlation(DictFeat, emb_x, emb_y):
     """
     """
-    print("\nComputing feature correlation...")
+    print("\n### Computing feature correlation (Spotify / Essentia)...")
     features = ['bpm', 'dance', 'instr', 'acoust']
 
     for feat in features:
@@ -133,18 +134,70 @@ def feature_correlation(DictFeat):
 
         print("Feature {} --> rho:{:.3f}, p:{}".format(feat, rho, p))
 
+    for feat_type in ['spotify', 'essentia']:
+        print("\n### Computing {} feature-feature correlation...".format(
+            feat_type))
+        CorrMatrix = np.ones((len(features), len(features)))
+        PvalueMatrix = np.ones(CorrMatrix.shape)
+
+        for c1, feat1 in enumerate(features):
+            feat_1 = []
+            for yt_id in DictFeat.keys():
+                feat_1.append(DictFeat[yt_id][feat_type][feat1])
+
+            for c2, feat2 in enumerate(features):
+                if c2 >= c1:
+                    feat_2 = []
+                    for yt_id in DictFeat.keys():
+                        feat_2.append(DictFeat[yt_id][feat_type][feat2])
+
+                    rho, p = pearsonr(feat_1, feat_2)
+
+                    CorrMatrix[c1, c2] = CorrMatrix[c2, c1] = rho
+                    PvalueMatrix[c1, c2] = PvalueMatrix[c2, c1] = p
+
+        CorrMatrix = np.hstack((np.array([features, ]).T, CorrMatrix))
+        PvalueMatrix = np.hstack((np.array([features, ]).T, PvalueMatrix))
+        print("# Pearson correlation")
+        print(tabulate(CorrMatrix, headers=features, tablefmt="github"))
+        print("# P-values")
+        print(tabulate(PvalueMatrix, headers=features, tablefmt="github"))
+
+    print("\n### Computing features-embeddings correlation...")
+    features = ['bpm', 'dance', 'instr', 'acoust']
+    head_table = ['Feature', 'X-axis', 'p-value', 'Y-axis  ', 'p-value']
+    feat_type_ls = ['Spotify', 'Essentia']
+    table = []
+    for feat in features:
+        feat_sp, feat_ess = [], []
+        X, Y = [], []
+        for yt_id in DictFeat.keys():
+            feat_sp.append(DictFeat[yt_id]['spotify'][feat])
+            feat_ess.append(DictFeat[yt_id]['essentia'][feat])
+
+            t_idx = filenames.index(yt_id)
+            X.append(emb_x[t_idx])
+            Y.append(emb_y[t_idx])
+
+        for feat_type, feat_type_l in zip([feat_sp, feat_ess], feat_type_ls):
+            rho, p = pearsonr(feat_type, X)
+            row = ["{} ({})".format(feat, feat_type_l), rho, p]
+            rho, p = pearsonr(feat_type, Y)
+            row.extend([rho, p])
+            table.append(row)
+
+    print(tabulate(table, headers=head_table, tablefmt="github"))
+
 
 def plot_essentia_features(DictFeat, fnames):
     """
     """
-    fig, ax = plt.subplots(3, 2)
+    fig, ax = plt.subplots(2, 2)
     feat = [DictFeat[x]['essentia']['bpm'] for x in DictFeat]
     ax[0, 0].hist(feat, alpha=0.7, rwidth=0.85,
                   weights=np.ones(len(feat)) / len(feat))
     ax[0, 0].set_ylabel('Frequency')
     ax[0, 0].set_title('BPM')
-    ax[0, 0].text(150, 25, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[0, 0].grid(axis='y', alpha=0.75)
     ax[0, 0].yaxis.set_major_formatter(PercentFormatter(1))
 
@@ -153,8 +206,6 @@ def plot_essentia_features(DictFeat, fnames):
                   weights=np.ones(len(feat)) / len(feat))
     ax[0, 1].set_ylabel('Frequency')
     ax[0, 1].set_title('Danceability')
-    ax[0, 1].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[0, 1].grid(axis='y', alpha=0.75)
     ax[0, 1].yaxis.set_major_formatter(PercentFormatter(1))
 
@@ -163,8 +214,6 @@ def plot_essentia_features(DictFeat, fnames):
                   weights=np.ones(len(feat)) / len(feat))
     ax[1, 0].set_ylabel('Frequency')
     ax[1, 0].set_title('Acousticness')
-    ax[1, 0].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[1, 0].grid(axis='y', alpha=0.75)
     ax[1, 0].yaxis.set_major_formatter(PercentFormatter(1))
 
@@ -173,27 +222,9 @@ def plot_essentia_features(DictFeat, fnames):
                   weights=np.ones(len(feat)) / len(feat))
     ax[1, 1].set_ylabel('Frequency')
     ax[1, 1].set_title('Instrumentalness')
-    ax[1, 1].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[1, 1].grid(axis='y', alpha=0.75)
     ax[1, 1].yaxis.set_major_formatter(PercentFormatter(1))
 
-    feat = [DictFeat[x]['essentia']['timbre'] for x in DictFeat]
-    ax[2, 0].hist(feat, alpha=0.7, rwidth=0.85, color='#216045',
-                  weights=np.ones(len(feat)) / len(feat))
-    ax[2, 0].set_ylabel('Frequency')
-    ax[2, 0].set_title('Darkness ')
-    ax[2, 0].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
-    ax[2, 0].grid(axis='y', alpha=0.75)
-    ax[2, 0].yaxis.set_major_formatter(PercentFormatter(1))
-
-    v1 = [DictFeat[x]['essentia']['instr'] for x in fnames]
-    v2 = [DictFeat[x]['essentia']['gen_voice'] for x in fnames]
-    c = [DictFeat[x]['essentia']['gen_voice'] for x in fnames]
-    ax[2, 1].scatter(v1, v2, c=c, cmap="RdYlBu_r")
-    ax[2, 1].set_ylabel('Female Voice')
-    ax[2, 1].set_xlabel('Instrumentalness')
     fig.suptitle("Essentia Feature Tracks Distribution")
     plt.show()
 
@@ -201,14 +232,12 @@ def plot_essentia_features(DictFeat, fnames):
 def plot_spotify_features(DictFeat, fnames):
     """
     """
-    fig, ax = plt.subplots(3, 2)
+    fig, ax = plt.subplots(2, 2)
     feat = [DictFeat[x]['spotify']['bpm'] for x in DictFeat]
     ax[0, 0].hist(feat, alpha=0.7, rwidth=0.85,
                   weights=np.ones(len(feat)) / len(feat))
     ax[0, 0].set_ylabel('Frequency')
     ax[0, 0].set_title('BPM')
-    ax[0, 0].text(150, 25, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[0, 0].grid(axis='y', alpha=0.75)
     ax[0, 0].yaxis.set_major_formatter(PercentFormatter(1))
 
@@ -217,18 +246,14 @@ def plot_spotify_features(DictFeat, fnames):
                   weights=np.ones(len(feat)) / len(feat))
     ax[0, 1].set_ylabel('Frequency')
     ax[0, 1].set_title('Danceability')
-    ax[0, 1].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[0, 1].grid(axis='y', alpha=0.75)
     ax[0, 1].yaxis.set_major_formatter(PercentFormatter(1))
 
     feat = [DictFeat[x]['spotify']['acoust'] for x in DictFeat]
-    ax[1, 0].hist(feat, alpha=0.7, rwidth=0.85, color='#216045',
+    ax[1, 0].hist(feat, alpha=0.7, rwidth=0.85, color='#0504aa',
                   weights=np.ones(len(feat)) / len(feat))
     ax[1, 0].set_ylabel('Frequency')
     ax[1, 0].set_title('Acousticness')
-    ax[1, 0].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[1, 0].grid(axis='y', alpha=0.75)
     ax[1, 0].yaxis.set_major_formatter(PercentFormatter(1))
 
@@ -237,30 +262,8 @@ def plot_spotify_features(DictFeat, fnames):
                   weights=np.ones(len(feat)) / len(feat))
     ax[1, 1].set_ylabel('Frequency')
     ax[1, 1].set_title('Instrumentalness')
-    ax[1, 1].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
     ax[1, 1].grid(axis='y', alpha=0.75)
     ax[1, 1].yaxis.set_major_formatter(PercentFormatter(1))
-
-    feat = [DictFeat[x]['spotify']['energy'] for x in DictFeat]
-    ax[2, 0].hist(feat, alpha=0.7, rwidth=0.85, color='#0504aa',
-                  weights=np.ones(len(feat)) / len(feat))
-    ax[2, 0].set_ylabel('Frequency')
-    ax[2, 0].set_title('Energy')
-    ax[2, 0].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
-    ax[2, 0].grid(axis='y', alpha=0.75)
-    ax[2, 0].yaxis.set_major_formatter(PercentFormatter(1))
-
-    feat = [DictFeat[x]['spotify']['valence'] for x in DictFeat]
-    ax[2, 1].hist(feat, alpha=0.7, rwidth=0.85, color='#090909',
-                  weights=np.ones(len(feat)) / len(feat))
-    ax[2, 1].set_ylabel('Frequency')
-    ax[2, 1].set_title('Valence')
-    ax[2, 1].text(2, 27, r'$\mu={:.2f}, \sigma={:.2f}$'.format(
-                                                np.mean(feat), np.std(feat)))
-    ax[2, 1].grid(axis='y', alpha=0.75)
-    ax[2, 1].yaxis.set_major_formatter(PercentFormatter(1))
 
     fig.suptitle("Spotify Feature Tracks Distribution")
     plt.show()
@@ -441,8 +444,12 @@ def plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames):
             idx1, idx2 = [int(x) for x in key.split('-')]
             BMatrix[idx1, idx2] = BDict[key][features[c]]
         ax.set_title('{}'.format(feat_plot[c]))
+        if features[c] == 'bpm':
+            fmt = '.0f'
+        else:
+            fmt = '.2f'
         sns.heatmap(BMatrix, linewidths=.5, annot=True, cmap='summer',
-                    fmt='.3g', xticklabels=False, yticklabels=False, ax=ax)
+                    fmt=fmt, xticklabels=False, yticklabels=False, ax=ax)
 
     fig.suptitle("Embeddings-Features Blocks Distribution")
     plt.show()
@@ -453,7 +460,6 @@ if __name__ == "__main__":
     df_tracks = pd.read_csv(TRACKS, delimiter='\t')
 
     DictFeat = import_features(ESSENTIA_DIR, df_tracks)
-    feature_correlation(DictFeat)
     embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn_tsne', 2)
     print("Embeddings found: {}".format(len(embeddings)))
 
@@ -464,10 +470,13 @@ if __name__ == "__main__":
     # Compute pairwise distances
     DistMatrix = cdist(embeddings, embeddings, 'euclidean')
 
-    # Silhouette analysis
+    # # Silhouette analysis
     silhouette_analysis(DistMatrix, df_tracks, filenames)
 
-    # # # Plots
+    # Compute correlation
+    feature_correlation(DictFeat, emb_x, emb_y)
+
+    # # # # Plots
     plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, filenames)
     plot_distance_matrix(DistMatrix, df_tracks, filenames)
     plot_essentia_features(DictFeat, filenames)
