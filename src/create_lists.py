@@ -214,7 +214,7 @@ if __name__ == "__main__":
 
     df_tracks = pd.read_csv(TRACKS, delimiter='\t')
 
-    embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn', 200)
+    embeddings, filenames = import_embeddings(EMB_DIR, 'effnet', 200)
     embeddings = np.vstack(embeddings)
 
     DistMatrix = cdist(embeddings, embeddings, 'cosine')

@@ -20,10 +20,11 @@ marker_types = [".", "o", "v", "^", "<",
 
 np.random.shuffle(marker_types)
 
+AUDIO_DIR = "/home/lorenzoporcaro/Data/longterm-data"
 
-AUDIO_FOLDER = "/home/lorenzo/Data/longterm_data/audios_new"
-AUDIO_FOLDER_OUT = "/home/lorenzo/Data/longterm_data/audios_trim/list_{}"
-AUDIO_LISTS_OUT = "/home/lorenzo/Data/longterm_data/audios_list"
+AUDIO_FOLDER = os.path.join(AUDIO_DIR,"audios_new")
+AUDIO_FOLDER_OUT = os.path.join(AUDIO_DIR,"audios_trim/list_{}")
+AUDIO_LISTS_OUT = os.path.join(AUDIO_DIR,"audios_list")
 
 
 TRACKS = "../data/input/random_tracklist_20220104.csv"
@@ -61,7 +62,7 @@ if __name__ == "__main__":
         list_div_genres, list_not_div_genres) = import_lists()
 
 
-    for c, tracklist in enumerate(list_not_div):
+    for c, tracklist in enumerate(list_div):
         audioslist_file = []
         for yt_id in tracklist:
             audiofile = yt_id + '.mp3'

@@ -2,18 +2,23 @@
 # -*- coding: utf-8 -*-
 
 import os
-import essentia.standard as es
 import numpy as np
 import subprocess
 import pandas as pd
 
+from essentia.standard import MonoLoader, TensorflowPredictVGGish, TensorflowPredictMusiCNN
 from tqdm import tqdm
 from statistics import mean
 
-
+VGGISH = "essentia_extractors/audioset-yamnet-1.pb"
 MUSICNN = "/home/lorenzo/Workspace/music-explore/essentia-tf-models/msd-musicnn.pb"
-AUDIO_FOLDER = "/home/lorenzo/Data/longterm_data/audios_new"
+MTT_MUSICNN = "essentia_extractors/mtt-musicnn-1.pb"
+
 MUSICNN_FOLDER = "../data/embeddings/musicnn"
+VGGISH_FOLDER = "../data/embeddings/vggish"
+MTT_MUSICNN_FOLDER = "../data/embeddings/mtt_musicnn"
+
+AUDIO_FOLDER = "/home/lorenzoporcaro/Data/longterm-data/audios_new"
 TRACKS = "../data/input/random_tracklist_20220104.csv"
 
 
@@ -23,7 +28,7 @@ if __name__ == "__main__":
 
     for yt_id in tqdm(df_tracks.yt_id.values):
 
-        emb_file = os.path.join(MUSICNN_FOLDER, yt_id + '.npy' )
+        emb_file = os.path.join(MTT_MUSICNN_FOLDER, yt_id + '.npy' )
         audiofile = os.path.join(AUDIO_FOLDER, yt_id + '.mp3')
 
         if os.path.exists(emb_file):
@@ -36,10 +41,14 @@ if __name__ == "__main__":
 
             audiofile = os.path.join(AUDIO_FOLDER, audiofile)
             
-            audio = es.MonoLoader(filename="{}".format(audiofile), sampleRate=16000)()
+            audio = MonoLoader(filename="{}".format(audiofile), sampleRate=16000)()
 
-            musicnn_embs = es.TensorflowPredictMusiCNN(graphFilename=MUSICNN,
+            musicnn_embs = TensorflowPredictMusiCNN(graphFilename=MTT_MUSICNN,
                                                        output='model/dense/BiasAdd')(audio)
+
+            # vggish_embs = TensorflowPredictVGGish(graphFilename=VGGISH,
+            #                                       input="melspectrogram",
+            #                                       output="embeddings")(audio)
 
             embedding = list(map(mean, zip(*musicnn_embs)))
 

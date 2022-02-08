@@ -29,7 +29,7 @@ marker_types = [".", "o", "v", "^", "<",
 np.random.shuffle(marker_types)
 
 
-ESSENTIA_DIR = "/home/lorenzo/Data/longterm_data/features/"
+ESSENTIA_DIR = "/home/lorenzoporcaro/Data/longterm-data/features/"
 EMB_DIR = "../data/embeddings/{}"
 TRACKS = "../data/input/random_tracklist_20220104.csv"
 TRACKS_FEAT = "../data/input/tracklist_features_20220104.csv"
@@ -117,7 +117,7 @@ def import_features(feat_dir, df_tracks):
     return DictFeat
 
 
-def feature_correlation(DictFeat, emb_x, emb_y):
+def feature_correlation(DictFeat, emb_x, emb_y, filenames):
     """
     """
     print("\n### Computing feature correlation (Spotify / Essentia)...")
@@ -317,7 +317,7 @@ def silhouette_analysis(DistMatrix, df_tracks, filenames):
     # The vertical line for average silhouette score of all the values
     ax.axvline(x=silhouette_avg, color="red", linestyle="--")
     ax.set_yticks([])  # Clear the yaxis labels / ticks
-
+    print("## Silhouette average score: {}".format(silhouette_avg))
     handles, labels = plt.gca().get_legend_handles_labels()
     plt.legend(handles[::-1], labels[::-1], bbox_to_anchor=(1.1, 0.85))
     plt.show()
@@ -460,7 +460,7 @@ if __name__ == "__main__":
     df_tracks = pd.read_csv(TRACKS, delimiter='\t')
 
     DictFeat = import_features(ESSENTIA_DIR, df_tracks)
-    embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn_tsne', 2)
+    embeddings, filenames = import_embeddings(EMB_DIR, 'mtt_musicnn', 200)
     print("Embeddings found: {}".format(len(embeddings)))
 
     embeddings = np.vstack(embeddings)
@@ -468,17 +468,17 @@ if __name__ == "__main__":
     emb_y = list(map(itemgetter(1), embeddings))
 
     # Compute pairwise distances
-    DistMatrix = cdist(embeddings, embeddings, 'euclidean')
+    DistMatrix = cdist(embeddings, embeddings, 'cosine')
 
     # # Silhouette analysis
     silhouette_analysis(DistMatrix, df_tracks, filenames)
 
-    # Compute correlation
-    feature_correlation(DictFeat, emb_x, emb_y)
+    # # Compute correlation
+    # feature_correlation(DictFeat, emb_x, emb_y, filenames)
 
-    # # # # Plots
-    plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, filenames)
-    plot_distance_matrix(DistMatrix, df_tracks, filenames)
-    plot_essentia_features(DictFeat, filenames)
-    plot_spotify_features(DictFeat, filenames)
-    plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames)
+    # # # # # Plots
+    # plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, filenames)
+    # plot_distance_matrix(DistMatrix, df_tracks, filenames)
+    # plot_essentia_features(DictFeat, filenames)
+    # plot_spotify_features(DictFeat, filenames)
+    # plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames)

@@ -11,12 +11,12 @@ from sklearn.decomposition import PCA
 EMB_DIR = "../data/embeddings/{}"
 
 
-def import_embeddings(emb_dir):
+def import_embeddings(emb_dir, emb_type):
     """
     """
     embeddings = []
     filenames = []
-    emb_dir_input = emb_dir.format('musicnn')
+    emb_dir_input = emb_dir.format(emb_type)
     for emb_file in os.listdir(emb_dir_input):
         if not emb_file.endswith('.npy'):
             continue
@@ -35,7 +35,7 @@ def import_embeddings(emb_dir):
     return embeddings, filenames
 
 
-def reduce_embeddings(embeddings, filenames):
+def reduce_embeddings(embeddings, filenames, emb_type):
     """
     """
     # PCA
@@ -57,8 +57,9 @@ def reduce_embeddings(embeddings, filenames):
     projection = PCA(random_state=0, copy=False, n_components=pc_num)
     embeddings_reduced = projection.fit_transform(embeddings_stacked[:, :None])
 
+    EMB_PCA_DIR = EMB_DIR.format('{}_pca'.format(emb_type))
     for c, emb in enumerate(embeddings_reduced):
-        outfile = os.path.join(EMB_DIR.format('musicnn_pca'), filenames[c])
+        outfile = os.path.join(EMB_PCA_DIR, filenames[c])
         np.save(outfile, emb)
 
     # TSNE
@@ -66,8 +67,9 @@ def reduce_embeddings(embeddings, filenames):
                       n_iter=500, init='pca', verbose=True)
     embeddings_reduced = projection.fit_transform(embeddings_reduced[:, :None])
 
+    EMB_TSNE_DIR = EMB_DIR.format('{}_tsne'.format(emb_type))
     for c, emb in enumerate(embeddings_reduced):
-        outfile = os.path.join(EMB_DIR.format('musicnn_tsne'), filenames[c])
+        outfile = os.path.join(EMB_TSNE_DIR, filenames[c])
         np.save(outfile, emb)
 
     return embeddings_reduced
@@ -77,7 +79,8 @@ if __name__ == "__main__":
     """
     """
 
+    emb_type = 'mtt_musicnn'
 
-    embeddings, filenames = import_embeddings(EMB_DIR)
+    embeddings, filenames = import_embeddings(EMB_DIR, emb_type)
 
-    embeddings_reduced = reduce_embeddings(embeddings, filenames)
+    embeddings_reduced = reduce_embeddings(embeddings, filenames, emb_type)

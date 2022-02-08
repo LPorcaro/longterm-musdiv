@@ -29,7 +29,7 @@ EMB_DIR = "../data/embeddings/{}"
 TRACKS = "../data/input/random_tracklist_20220104.csv"
 TRACKS_FEAT = "../data/input/tracklist_features_20220104.csv"
 
-CREATION_TIME = "20220110_121346"
+CREATION_TIME = "20220122_140806"
 LIST_DIV = "../data/lists/track_list_div_{}.csv".format(CREATION_TIME)
 LIST_NOT_DIV = "../data/lists/track_list_not_div_{}.csv".format(CREATION_TIME)
 
@@ -203,8 +203,8 @@ def test_distances():
     div_idxs = [item for elem in list_div_idxs for item in elem]
     not_div_idxs = [item for elem in list_not_div_idxs for item in elem]
 
-    l_embs = ["musicnn", "musicnn_pca", "musicnn_tsne"]
-    s_embs = [200, 7, 2]
+    l_embs = ["effnet", "effnet_pca", "effnet_tsne"]
+    s_embs = [200, 17, 2]
 
     for l_emb, s_embs in zip(l_embs, s_embs):
 
@@ -323,7 +323,7 @@ if __name__ == "__main__":
     (list_div, list_not_div,
         list_div_genres, list_not_div_genres) = import_lists()
 
-    embeddings, filenames = import_embeddings(EMB_DIR, 'musicnn_tsne', 2)
+    embeddings, filenames = import_embeddings(EMB_DIR, 'effnet_tsne', 2)
     embeddings = np.vstack(embeddings)
     DistMatrix = cdist(embeddings, embeddings, 'euclidean')
 
@@ -334,6 +334,6 @@ if __name__ == "__main__":
     plot_lists(embeddings, list_div_idxs, list_not_div_idxs,
                list_div_genres, list_not_div_genres)
 
-    test_distances()
+    # test_distances()
 
-    test_features()
+    # test_features()
