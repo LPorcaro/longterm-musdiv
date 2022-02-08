@@ -5,3 +5,6 @@
 # Ignore Cache
 **/__pycache__/
 .cache
+
+/data/prescreening
+/data/listenbrainz
