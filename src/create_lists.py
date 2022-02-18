@@ -155,6 +155,8 @@ def create_div_list(num_list, sort_avg_dists, df_tracks, filenames):
 
                 if len(list_genres.unique()) > 3:
                     continue
+                elif list_genres.value_counts().to_dict()[mgenre] < 2:
+                    continue
 
                 if not any(map(lambda v: v in nns_found, nn)):
                     nns.append(nn)
@@ -218,6 +220,7 @@ if __name__ == "__main__":
     embeddings = np.vstack(embeddings)
 
     DistMatrix = cdist(embeddings, embeddings, 'cosine')
+
 
     sort_avg_dists = sort_tracks_by_distance(DistMatrix)
 

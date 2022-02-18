@@ -29,7 +29,7 @@ AUDIO_LISTS_OUT = os.path.join(AUDIO_DIR,"audios_list")
 
 TRACKS = "../data/input/random_tracklist_20220104.csv"
 
-CREATION_TIME = "20220110_112852"
+CREATION_TIME = "20220208_112025"
 LIST_DIV = "../data/lists/track_list_div_{}.csv".format(CREATION_TIME)
 LIST_NOT_DIV = "../data/lists/track_list_not_div_{}.csv".format(CREATION_TIME)
 
@@ -62,7 +62,11 @@ if __name__ == "__main__":
         list_div_genres, list_not_div_genres) = import_lists()
 
 
-    for c, tracklist in enumerate(list_div):
+    for c, tracklist in enumerate(list_not_div):
+
+        if c != 2:
+            continue
+
         audioslist_file = []
         for yt_id in tracklist:
             audiofile = yt_id + '.mp3'
@@ -74,14 +78,24 @@ if __name__ == "__main__":
                 print("Trimming file {}".format(file_path))
                 sample_rate = sox.file_info.sample_rate(file_path)
                 dur = sox.file_info.duration(file_path)
-                start = random.randrange(int(dur)-70)
+                start = random.randrange(int(dur)-50)
+                if yt_id == '_eLpBQ1zYdk':
+                    start = 0
+                if yt_id == 'U6iYCTt90gM':
+                    start = 0
+                if yt_id == 'Kai-mgp8cEw':
+                    start = 0
+                if yt_id == 'z4OWXrUQSpQ':
+                    start = 140
+                if yt_id == 'nUR1DF9ppPk':
+                    start = 50
                 # create transformer
                 tfm = sox.Transformer()
                 # convert sample rate
                 if sample_rate != 48000.0:
                     tfm.convert(samplerate=48000.0)
                 # trim the audio between 5 and 10.5 seconds.
-                tfm.trim(start, start + 60)
+                tfm.trim(start, start + 45)
                 # apply norm
                 tfm.norm()
                 # apply a fade in and fade out
@@ -99,6 +113,3 @@ if __name__ == "__main__":
         outfile = os.path.join(AUDIO_LISTS_OUT, 'List{}.mp3'.format(c))
         cbn.build(audioslist_file, outfile, 'concatenate')
         print("Created file {}".format(outfile))
-
-
-    

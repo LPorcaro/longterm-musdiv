@@ -4,20 +4,41 @@
 import os
 import pylistenbrainz
 import json
+import argparse
 
 from datetime import datetime
+from tqdm import tqdm 
 
 now = datetime.now()
-date_time = now.strftime("%Y%m%d_%H%M%S")
+date_time = now.strftime("%Y%m%d")
 
-OUT_DIR = "../data/listenbrainz"
+OUT_DIR = "../data/listenbrainz/json"
+
+
+def arg_parser():
+    """
+    """
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-u", "--username", type=str, dest='username',
+                        help="ListenBrainz Username")
+
+    args = parser.parse_args()
+
+    return args
 
 if __name__ == "__main__":
 
-    username = 'SingleView'
+    args = arg_parser()
+
+    username = args.username
     client = pylistenbrainz.ListenBrainz()
-    listens = client.get_listens(username=username, count=2)
-    for listen in listens:
+
+    tot_listes = client.get_user_listen_count(username)
+    if tot_listes > 100:
+        tot_listes = 100
+
+    listens = client.get_listens(username=username, count=tot_listes)
+    for listen in tqdm(listens):
         listen.__dict__['listened_at'] = datetime.fromtimestamp(
             listen.__dict__['listened_at']).isoformat()
 
@@ -29,3 +50,4 @@ if __name__ == "__main__":
     with open(outfile, "w") as outf:
         outf.write(json_object)
 
+    print("Found {} listen events".format(tot_listes))

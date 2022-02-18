@@ -29,7 +29,7 @@ EMB_DIR = "../data/embeddings/{}"
 TRACKS = "../data/input/random_tracklist_20220104.csv"
 TRACKS_FEAT = "../data/input/tracklist_features_20220104.csv"
 
-CREATION_TIME = "20220122_140806"
+CREATION_TIME = "20220208_112025"
 LIST_DIV = "../data/lists/track_list_div_{}.csv".format(CREATION_TIME)
 LIST_NOT_DIV = "../data/lists/track_list_not_div_{}.csv".format(CREATION_TIME)
 
@@ -129,7 +129,7 @@ def plot_lists(embeddings, nns_div, nns, nns_div_genres, nns_genres):
         y = np.mean([emb_y[i] for i in nns[c]])
         ax1.scatter(x, y, marker=marker_types[c], label=nns_div_genres[c])
         text = ax1.annotate(nns_genres[c], (x, y))
-        text.set_fontsize(15)
+        text.set_fontsize(13)
 
     ax2.scatter(C_x, C_y)
     ax2.set_title('High Diversity Lists')
@@ -138,7 +138,7 @@ def plot_lists(embeddings, nns_div, nns, nns_div_genres, nns_genres):
         y = np.mean([emb_y[i] for i in nns_div[c]])
         ax2.scatter(x, y, marker=marker_types[c], label=nns_div_genres[c])
         text = ax2.annotate(nns_div_genres[c], (x, y))
-        text.set_fontsize(15)
+        text.set_fontsize(13)
 
 
     ax1.annotate('Centroid', (C_x, C_y))
@@ -325,7 +325,6 @@ if __name__ == "__main__":
 
     embeddings, filenames = import_embeddings(EMB_DIR, 'effnet_tsne', 2)
     embeddings = np.vstack(embeddings)
-    DistMatrix = cdist(embeddings, embeddings, 'euclidean')
 
     list_div_idxs, list_not_div_idxs = find_indexes(list_div,
                                                     list_not_div,
@@ -334,6 +333,6 @@ if __name__ == "__main__":
     plot_lists(embeddings, list_div_idxs, list_not_div_idxs,
                list_div_genres, list_not_div_genres)
 
-    # test_distances()
+    test_distances()
 
-    # test_features()
+    test_features()
