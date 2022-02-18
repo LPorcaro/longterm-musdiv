@@ -6,6 +6,4 @@
 **/__pycache__/
 .cache
 
-/data/prescreening
-/data/listenbrainz
-/data/iat
+/data
