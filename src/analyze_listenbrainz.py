@@ -6,38 +6,36 @@ import csv
 import pandas as pd
 import argparse
 
+from pylistenbrainz.errors import ListenBrainzAPIException
 from collections import Counter
 
 WIKI_GENRES = "../data/input/wikipedia_EM_genres.csv"
-FEAT_DIR = "../data/listenbrainz/feat"
-STATS_DIR = "../data/listenbrainz/stats"
+FEAT_DIR = "../data/listenbrainz/feat/{}"
+STATS_DIR = "../data/listenbrainz/stats/{}"
 
-def arg_parser():
+
+def analyze_listening(username, date):
     """
     """
-    parser = argparse.ArgumentParser()
-    parser.add_argument("-u", "--username", type=str, dest='username',
-                        help="ListenBrainz Username")
-    parser.add_argument("-d", "--date", type=str, dest='date',
-                        help="Log Date")
-
-    args = parser.parse_args()
-
-    return args
-
-if __name__ == "__main__":
-
-    args = arg_parser()
-
-    infile = "{}-{}_feat.csv".format(args.username, args.date)
+    print("User '{}': Analyzing...".format(username))
+    infile = "{}-{}_feat.csv".format(username, date)
     outfile = infile.replace("feat.csv", "stats.txt")
-    infile = os.path.join(FEAT_DIR, infile)
-    outfile = os.path.join(STATS_DIR, outfile)
+    infile = os.path.join(FEAT_DIR.format(date), infile)
+
+    if not os.path.exists(infile):
+        print("User '{}': FEAT file not found {} ".format(username, infile))
+        return
+
+    if not os.path.exists(STATS_DIR.format(date)):
+        os.makedirs(STATS_DIR.format(date))    
+    outfile = os.path.join(STATS_DIR.format(date), outfile)
 
     df = pd.read_csv(infile, delimiter="\t")
+    df.genres.fillna('Empty', inplace=True)
 
     if df.empty:
-        raise Exception("No listening logs found!")
+        print ("User '{}': No listening logs found!".format(username))
+        return
 
     EM_genres = []
     with open(WIKI_GENRES) as inf:
@@ -58,6 +56,12 @@ if __name__ == "__main__":
             if stringmatch:
                 genres_found += stringmatch
 
+
+    if genres_found:
+        artist_found = df[df.genres.str.contains('|'.join(genres_found), regex=True)].artist_name.values
+    else:
+        artist_found = []
+
     
     percentage = len(genres_found)*100/len(genres_list)
     genres_found = set(genres_found)
@@ -69,6 +73,7 @@ if __name__ == "__main__":
     isrc_year_list = [x[5:7] for x in df.ISRC.values if pd.isnull(x) == False]
 
     file = open(outfile, 'w+')
+    file.write("Electronic artist found: {}\n".format(", ".join(artist_found)))
     file.write("Electronic genres found: {}\n".format(", ".join(genres_found)))
     file.write("Electronic music logs found: {:.2f}% \n\n".format(percentage))
     file.write("Top genres\n")
@@ -87,9 +92,48 @@ if __name__ == "__main__":
     for c, el in enumerate(Counter(isrc_year_list).most_common(5)):
         file.write("\t{}: {} ({:.2f}%)\n".format(c+1, el[0], el[1]*100/len(isrc_year_list)))
 
-
     file.write("\nFeature statistics\n")
     file.write(df.describe().to_string())
     file.close()
-    
+
+    print("User '{}': Analyzed {} listen events".format(username, len(df.index)))   
+
+
+def arg_parser():
+    """
+    """
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-u", "--username", type=str, dest='username',
+                        help="ListenBrainz Username")
+    parser.add_argument("-d", "--date", type=str, dest='date',
+                        help="Log Date")
+    parser.add_argument("-i", "--input", type=str, dest='input_file',
+                        help="Input file with ListenBrainz usernames")
+    args = parser.parse_args()
+
+    return args
+
+if __name__ == "__main__":
+
+    args = arg_parser()
+
+    date = args.date
+    username = args.username
+    input_file = args.input_file
+
+    if username:
+        analyze_listening(username, date)
+
+    elif input_file:
+        infile = open(input_file, 'r')
+        lines = infile.readlines()
+        infile.close()
+
+        for line in lines:
+            try:
+                username = line.strip()
+                analyze_listening(username, date)
+            except ListenBrainzAPIException:
+                print("Problems analyzing logs: {}".format(username))
+        
     
