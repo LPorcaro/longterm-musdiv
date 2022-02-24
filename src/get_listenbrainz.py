@@ -15,10 +15,8 @@ min_ts = max_ts - timedelta(hours=24)
 
 date_time = max_ts.strftime("%Y%m%d")
 
-OUT_DIR = "../data/listenbrainz/json/{}".format(date_time)
 
-
-def get_listen_logs(username):
+def get_listen_logs(username, out_dir):
     """
     """
     tot_listes = client.get_user_listen_count(username)
@@ -27,7 +25,7 @@ def get_listen_logs(username):
 
     listens = client.get_listens(username=username, 
                                  min_ts=int(min_ts.timestamp()),
-                                 max_ts = int(max_ts.timestamp()))
+                                 count=tot_listes)
 
     for listen in tqdm(listens):
         listen.__dict__['listened_at'] = datetime.fromtimestamp(
@@ -35,9 +33,13 @@ def get_listen_logs(username):
 
     # Serializing json 
     json_object = json.dumps([x.__dict__ for x in listens], indent=4)
-      
+
     # Writing to sample.json
-    outfile = os.path.join(OUT_DIR, "{}-{}.json".format(username, date_time))
+    out_dir = os.path.join(out_dir, username)
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir)
+
+    outfile = os.path.join(out_dir, "{}-{}.json".format(username, date_time))
     with open(outfile, "w") as outf:
         outf.write(json_object)
 
@@ -52,6 +54,8 @@ def arg_parser():
                         help="ListenBrainz Username")
     parser.add_argument("-i", "--input", type=str, dest='input_file',
                         help="Input file with ListenBrainz usernames")
+    parser.add_argument("-o", "--output", type=str, dest='out_dir',
+                        help="Output for JSON files")
     args = parser.parse_args()
 
     return args
@@ -59,26 +63,26 @@ def arg_parser():
 if __name__ == "__main__":
 
     args = arg_parser()
-
     username = args.username
-
     input_file = args.input_file
+    out_dir = args.out_dir
+
+    if not username and not input_file:
+        raise ValueError("Input not specified")
+    elif not out_dir:
+        raise ValueError("Output folder not specified")
 
     client = pylistenbrainz.ListenBrainz()
 
-    if not os.path.exists(OUT_DIR):
-        os.makedirs(OUT_DIR)
-
     if username:
-        get_listen_logs(username)
+        get_listen_logs(username, out_dir)
     elif input_file:
         infile = open(input_file, 'r')
         lines = infile.readlines()
         infile.close()
-
         for line in lines:
             try:
                 username = line.strip()
-                get_listen_logs(username)
+                get_listen_logs(username, out_dir)
             except ListenBrainzAPIException:
                 print("Problems retrieving logs: {}".format(username))

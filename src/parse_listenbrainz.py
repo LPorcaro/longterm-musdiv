@@ -7,12 +7,17 @@ import csv
 import spotipy
 import argparse
 
+from datetime import datetime, timedelta
 from pylistenbrainz.errors import ListenBrainzAPIException
 from spotipy.oauth2 import SpotifyClientCredentials
 
-JSON_DIR = "../data/listenbrainz/json/{}"
-INFO_DIR = "../data/listenbrainz/info/{}"
-FEAT_DIR = "../data/listenbrainz/feat/{}"
+today = datetime.now()
+today = today.strftime("%Y%m%d")
+
+
+JSON_DIR = "../data/listenbrainz/json"
+INFO_DIR = "../data/listenbrainz/info"
+FEAT_DIR = "../data/listenbrainz/feat"
 
 HEADER_INFO = ["listened_at", "track_name", "artist_name", "isrc", 
                "sp_track_id", "sp_artist_ids"]
@@ -22,38 +27,45 @@ HEADER_FEAT = ["sp_track_id", "artist_name", "track_name", "ISRC",
                "instrumentalness", "speechiness", "tempo", "valence", "energy"]
 
 
-def parse_json(username, date):
+def parse_json(username):
     """
     """
-    infile = "{}-{}.json".format(username, date)
-    outfile_info = infile.replace(".json", ".csv")
-    outfile_feat = infile.replace(".json", "_feat.csv")
+    user_listens = []
+    found_listens = []
+    JSON_DIR_USER = os.path.join(JSON_DIR, username)
 
-    if not os.path.exists(JSON_DIR.format(date)):
-        os.makedirs(JSON_DIR.format(date))
-    infile = os.path.join(JSON_DIR.format(date), infile)
+    for json_file in sorted(os.listdir(JSON_DIR_USER)):
+        infile = os.path.join(JSON_DIR_USER, json_file)
 
-    if not os.path.exists(infile):
-        print("User '{}': JSON not found {} ".format(username, infile))
-        return
+        if not os.path.exists(infile):
+            print("User '{}': JSON not found {} ".format(username, infile))
+            continue
 
-    if not os.path.exists(INFO_DIR.format(date)):
-        os.makedirs(INFO_DIR.format(date))   
-    outfile_info = os.path.join(INFO_DIR.format(date), outfile_info)
+        with open(infile, 'r') as inf:
+            listens = json.load(inf)
 
-    if not os.path.exists(FEAT_DIR.format(date)):
-        os.makedirs(FEAT_DIR.format(date)) 
-    outfile_feat = os.path.join(FEAT_DIR.format(date), outfile_feat)
+        for listen in listens:
+            if listen["listened_at"] in found_listens:
+                continue
+            else:
+                user_listens.append(listen)
+                found_listens.append(listen["listened_at"])
 
-    with open(infile, 'r') as inf:
-        listens = json.load(inf)
 
+    outfile_info = json_file.replace(".json", ".csv")
+
+    INFO_DIR_USER = os.path.join(INFO_DIR, username)
+    if not os.path.exists(INFO_DIR_USER):
+        os.makedirs(INFO_DIR_USER)   
+    outfile_info = os.path.join(INFO_DIR_USER, "{}_{}_info.csv".format(username, today))
+
+    
     tids = []
     # Parse ListenBrainz JSON
     with open(outfile_info, 'w+') as outf:
         _writer = csv.writer(outf, delimiter='\t')
         _writer.writerow(HEADER_INFO)
-        for track in listens:
+        for track in user_listens:
             listened_at = track["listened_at"]
             track_name = track["track_name"]
             artist_name = track["artist_name"]
@@ -74,13 +86,18 @@ def parse_json(username, date):
     sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(),
                          requests_timeout=10,
                          retries=10)
-    
-    
+
+
+    FEAT_DIR_USER = os.path.join(FEAT_DIR, username)
+    if not os.path.exists(FEAT_DIR_USER):
+        os.makedirs(FEAT_DIR_USER) 
+    outfile_feat = os.path.join(FEAT_DIR_USER, "{}_{}_feat.csv".format(username, today))
+
     with open(outfile_feat, 'w+') as outf:
         _writer = csv.writer(outf, delimiter='\t')
         _writer.writerow(HEADER_FEAT)
         # Get tracks info
-        for tids_split in [tids[:50], tids[50:]]:
+        for tids_split in [tids[i:i+50] for i in range(0,len(tids),50)]:
             if not tids_split:
                 continue
             tracks = sp.tracks(tids_split)
@@ -98,7 +115,6 @@ def parse_json(username, date):
                     track_isrc = track['external_ids']['isrc']
                 except KeyError:
                     track_isrc = ''
-
 
                 row_out = [tid, artist_name, track_name, track_isrc, track_pop]
                 rows.append(row_out)
@@ -127,7 +143,7 @@ def parse_json(username, date):
                 new_row = row + [','.join(art['genres'])] + row2 
                 _writer.writerow(new_row)
 
-    print("User '{}': JSON parsed {} ".format(username, infile))
+    print("User '{}': JSON parsed. Found {} listens".format(username, len(user_listens)))
 
 
 def arg_parser():
@@ -136,8 +152,6 @@ def arg_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument("-u", "--username", type=str, dest='username',
                         help="ListenBrainz Username")
-    parser.add_argument("-d", "--date", type=str, dest='date',
-                        help="Log Date")
     parser.add_argument("-i", "--input", type=str, dest='input_file',
                         help="Input file with ListenBrainz usernames")
     args = parser.parse_args()
@@ -148,12 +162,11 @@ if __name__ == "__main__":
 
     args = arg_parser()
 
-    date = args.date
     username = args.username
     input_file = args.input_file
 
     if username:
-        parse_json(username, date)
+        parse_json(username)
 
     elif input_file:
         infile = open(input_file, 'r')
@@ -163,7 +176,7 @@ if __name__ == "__main__":
         for line in lines:
             try:
                 username = line.strip()
-                parse_json(username, date)
+                parse_json(username)
             except ListenBrainzAPIException:
                 print("Problems analyzing logs: {}".format(username))
             
