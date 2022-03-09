@@ -1,0 +1,36 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: neo-classical (66.67%)
+	2: background piano (33.33%)
+Top artists
+	1: Piotr Wiese (16.67%)
+	2: Mirta da Silva (16.67%)
+	3: Fredrik Lundberg (16.67%)
+	4: Nicola Casalino (16.67%)
+	5: Alana Westwood (16.67%)
+Top country
+	1: SE (66.67%)
+	2: GB (16.67%)
+	3: US (16.67%)
+Top record
+	1: 5W3 (50.00%)
+	2: WMY (16.67%)
+	3: XGF (16.67%)
+	4: 66W (16.67%)
+Top year
+	1: 21 (66.67%)
+	2: 20 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence   energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.00000
+mean    55.166667      0.991167      0.429000          0.927167     0.037817   83.556000  0.197333  0.06850
+std      6.242329      0.004355      0.088123          0.034055     0.005348   25.994188  0.079583  0.08036
+min     48.000000      0.984000      0.354000          0.861000     0.031400   51.053000  0.106000  0.01180
+25%     49.750000      0.989250      0.356750          0.930250     0.033825   67.525250  0.161500  0.02155
+50%     55.500000      0.992000      0.396500          0.933000     0.037900   80.493500  0.183500  0.03410
+75%     60.500000      0.994750      0.501500          0.947750     0.041300   98.045750  0.207000  0.07725
+max     62.000000      0.995000      0.547000          0.954000     0.044800  122.197000  0.342000  0.22200

@@ -1,0 +1,4478 @@
+[
+    {
+        "listened_at": "2022-02-22T12:36:44",
+        "track_name": "Sustain",
+        "artist_name": "Sam Gendel",
+        "release_name": "Sustain",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5kbLE9EySwCysh8gd5Aco6",
+        "listening_from": "spotify",
+        "isrc": "US25X2100101",
+        "additional_info": {
+            "artist_msid": "bafdf1dc-0ec2-4e6d-aa4c-501f8f28fde2",
+            "artist_names": [
+                "Sam Gendel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 260463,
+            "isrc": "US25X2100101",
+            "listening_from": "spotify",
+            "recording_msid": "860a4526-dab3-48ab-a432-a1de7db3bf0e",
+            "release_artist_name": "Sam Gendel",
+            "release_artist_names": [
+                "Sam Gendel"
+            ],
+            "release_msid": "87a4e865-4d42-4abf-99ba-a55cdfd34339",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5c3eEKe1N21PVxxH1yBHI8",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5kbLE9EySwCysh8gd5Aco6",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T12:32:23",
+        "track_name": "Enter",
+        "artist_name": "Vivian Koch",
+        "release_name": "Beyond Contact",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/7dCGVIC78TYUSbiXpic39O",
+        "listening_from": "spotify",
+        "isrc": "FR59R2153087",
+        "additional_info": {
+            "artist_msid": "19ccd8cf-c4fa-48c0-a064-0f145f9d0246",
+            "artist_names": [
+                "Vivian Koch"
+            ],
+            "discnumber": 1,
+            "duration_ms": 283412,
+            "isrc": "FR59R2153087",
+            "listening_from": "spotify",
+            "recording_msid": "bca510ba-8799-4bec-9f28-0c7dd6b1e459",
+            "release_artist_name": "Vivian Koch",
+            "release_artist_names": [
+                "Vivian Koch"
+            ],
+            "release_msid": "478f1d57-9992-4914-9a53-9d3301e1a619",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7dCGVIC78TYUSbiXpic39O",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T12:27:40",
+        "track_name": "Shadows From Nowhere - Original Version",
+        "artist_name": "Blue Gas",
+        "release_name": "Shadows From Nowhere 2019",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7kF2wPFh949jhWzeTyODnO",
+        "listening_from": "spotify",
+        "isrc": "ITN341600057",
+        "additional_info": {
+            "artist_msid": "093c06f6-afcc-4b26-9183-5ccf316ace13",
+            "artist_names": [
+                "Blue Gas"
+            ],
+            "discnumber": 1,
+            "duration_ms": 330310,
+            "isrc": "ITN341600057",
+            "listening_from": "spotify",
+            "recording_msid": "9e42979b-d838-45ad-b71b-ef86ba36305b",
+            "release_artist_name": "Blue Gas",
+            "release_artist_names": [
+                "Blue Gas"
+            ],
+            "release_msid": "8606f802-4774-43d9-baa0-c0007ac16061",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4X9QLtjgiaXzCmKqi1wbsw"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/67uiLyta2QFfbEm7opzUn6",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4X9QLtjgiaXzCmKqi1wbsw"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7kF2wPFh949jhWzeTyODnO",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T12:19:00",
+        "track_name": "Adjust",
+        "artist_name": "downstairs J",
+        "release_name": "basement, etc...",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/5xPerWjnbYcsBXISJoZF6W",
+        "listening_from": "spotify",
+        "isrc": "USYBL2100964",
+        "additional_info": {
+            "artist_msid": "e0e4113c-6f77-44fc-8aab-cefa85dc84d4",
+            "artist_names": [
+                "downstairs J"
+            ],
+            "discnumber": 1,
+            "duration_ms": 259933,
+            "isrc": "USYBL2100964",
+            "listening_from": "spotify",
+            "recording_msid": "56b584fd-3429-402f-996f-21411daa7af0",
+            "release_artist_name": "downstairs J",
+            "release_artist_names": [
+                "downstairs J"
+            ],
+            "release_msid": "ac59b3a4-dde2-4dd8-aa2a-f247c814c928",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2ww9Zpv2PQzqtqMdrYPEDK"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4zIwQ7dW7SkPdNkCcwDk9Y",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2ww9Zpv2PQzqtqMdrYPEDK"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5xPerWjnbYcsBXISJoZF6W",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T12:14:17",
+        "track_name": "Drunken Cats",
+        "artist_name": "Lawrence",
+        "release_name": "Birds On The Playground",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/78Z9Kn7cDyZB5yBLfkYPLg",
+        "listening_from": "spotify",
+        "isrc": "DEU672100022",
+        "additional_info": {
+            "artist_msid": "15b79b24-51b2-463c-b63d-1b3a4783c608",
+            "artist_names": [
+                "Lawrence"
+            ],
+            "discnumber": 1,
+            "duration_ms": 280391,
+            "isrc": "DEU672100022",
+            "listening_from": "spotify",
+            "recording_msid": "5946e1c9-84d9-4a98-949e-30c70a14de89",
+            "release_artist_name": "Lawrence",
+            "release_artist_names": [
+                "Lawrence"
+            ],
+            "release_msid": "ed1cac65-c5fe-4535-a5fd-4eeb3c21022c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1cz6AMoMZX5QnyoZk0qcCJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+            ],
+            "spotify_id": "https://open.spotify.com/track/78Z9Kn7cDyZB5yBLfkYPLg",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T12:09:37",
+        "track_name": "Surface Tension",
+        "artist_name": "Sprinks",
+        "release_name": "Casera Two",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/709fUwBliv6YfdUDCxQGOf",
+        "listening_from": "spotify",
+        "isrc": "AUZEM1800492",
+        "additional_info": {
+            "artist_msid": "52b038c4-5879-4e63-9a76-d669d3ac63a3",
+            "artist_names": [
+                "Sprinks"
+            ],
+            "discnumber": 1,
+            "duration_ms": 268709,
+            "isrc": "AUZEM1800492",
+            "listening_from": "spotify",
+            "recording_msid": "e846f3f1-226b-432b-bf44-a5a8cf53d611",
+            "release_artist_name": "Various Artists",
+            "release_artist_names": [
+                "Various Artists"
+            ],
+            "release_msid": "3d12e774-3ab5-4843-b19f-97a373bed879",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6H2MWR0ouGTiUIKjREkkuY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5GzgQydhlj4LjjvHZbexVl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/709fUwBliv6YfdUDCxQGOf",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T12:05:08",
+        "track_name": "Closed Place, Open World",
+        "artist_name": "Slauson Malone",
+        "release_name": "Closed Place, Open World",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6CzIvlUbwqnsxjLzCbeyU4",
+        "listening_from": "spotify",
+        "isrc": "QZES61971268",
+        "additional_info": {
+            "artist_msid": "ca468fee-a545-4a50-b6c9-c4c183a8ef98",
+            "artist_names": [
+                "Slauson Malone"
+            ],
+            "discnumber": 1,
+            "duration_ms": 163841,
+            "isrc": "QZES61971268",
+            "listening_from": "spotify",
+            "recording_msid": "4f897229-d665-4bdb-a7f5-edf00f78a10b",
+            "release_artist_name": "Slauson Malone",
+            "release_artist_names": [
+                "Slauson Malone"
+            ],
+            "release_msid": "2f86d6f1-fd69-463f-8ede-e466c50c68fb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0sbvogchTVZ780AMp9PoUZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6CzIvlUbwqnsxjLzCbeyU4",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T12:02:23",
+        "track_name": "Karlaplan",
+        "artist_name": "Off The Meds",
+        "release_name": "Off The Meds",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/2LBoJ2vQgHljpjkmphci1F",
+        "listening_from": "spotify",
+        "isrc": "SE2WJ2008004",
+        "additional_info": {
+            "artist_msid": "0948cda4-c674-4a90-b320-78cf020019b3",
+            "artist_names": [
+                "Off The Meds"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218220,
+            "isrc": "SE2WJ2008004",
+            "listening_from": "spotify",
+            "recording_msid": "daa87b4b-e9f6-46a1-b9db-5300b7a32683",
+            "release_artist_name": "Off The Meds",
+            "release_artist_names": [
+                "Off The Meds"
+            ],
+            "release_msid": "3baff7e8-52ba-4757-8ad2-29d475c59af6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1xLT0f6nhDZe0sJl5uUTgh",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2LBoJ2vQgHljpjkmphci1F",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:58:44",
+        "track_name": "Morgengabe",
+        "artist_name": "Palazzi D'Oriente",
+        "release_name": "Sheltering Water (Extended Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/7yGGGHs3tJDyvlomKVJMt6",
+        "listening_from": "spotify",
+        "isrc": "ITP841800169",
+        "additional_info": {
+            "artist_msid": "c16487bf-59f2-4834-a5f9-a986fd48d6d6",
+            "artist_names": [
+                "Palazzi D'Oriente"
+            ],
+            "discnumber": 1,
+            "duration_ms": 215324,
+            "isrc": "ITP841800169",
+            "listening_from": "spotify",
+            "recording_msid": "9c906922-4f28-4734-9b4b-97c677cc8596",
+            "release_artist_name": "Palazzi D'Oriente",
+            "release_artist_names": [
+                "Palazzi D'Oriente"
+            ],
+            "release_msid": "162db23b-6731-435b-b35f-2362a9c838d1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3zK056tnH5M6cyttSmXGqI",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7yGGGHs3tJDyvlomKVJMt6",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:55:08",
+        "track_name": "Tangente",
+        "artist_name": "Pole",
+        "release_name": "Fading",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN",
+        "listening_from": "spotify",
+        "isrc": "GBR8R2000141",
+        "additional_info": {
+            "artist_msid": "f4f439f2-9de2-4265-a2fd-c3d63cdcb5c5",
+            "artist_names": [
+                "Pole"
+            ],
+            "discnumber": 1,
+            "duration_ms": 307546,
+            "isrc": "GBR8R2000141",
+            "listening_from": "spotify",
+            "recording_msid": "a7758aa2-2927-4d35-92c8-5dd4df7b2075",
+            "release_artist_name": "Pole",
+            "release_artist_names": [
+                "Pole"
+            ],
+            "release_msid": "6264a4dc-0bc2-4159-8900-8a3e39fa29db",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:50:01",
+        "track_name": "UNGLUED",
+        "artist_name": "72-HOUR POST FIGHT",
+        "release_name": "NOT / UNGLUED",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0KnveRVzmgQt9Z1cfnrwuX",
+        "listening_from": "spotify",
+        "isrc": "ITP842000130",
+        "additional_info": {
+            "artist_msid": "84c52f5f-3fb8-4152-915f-fee3d1fb783e",
+            "artist_names": [
+                "72-HOUR POST FIGHT"
+            ],
+            "discnumber": 1,
+            "duration_ms": 230667,
+            "isrc": "ITP842000130",
+            "listening_from": "spotify",
+            "recording_msid": "04bcc58b-7f75-48ad-9e8f-686b0c204730",
+            "release_artist_name": "72-HOUR POST FIGHT",
+            "release_artist_names": [
+                "72-HOUR POST FIGHT"
+            ],
+            "release_msid": "5325a6d7-445f-4a58-b878-f620eeabf489",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0qoAEIg9gWkdyDb6VCInyY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0KnveRVzmgQt9Z1cfnrwuX",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:46:09",
+        "track_name": "Lirima",
+        "artist_name": "Fight Pausa, Xqz",
+        "release_name": "Lirima",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2e0OmITyOVR58u1SUhjCBg",
+        "listening_from": "spotify",
+        "isrc": "ITUM72000471",
+        "additional_info": {
+            "artist_msid": "0b780252-5f10-474c-8e68-867c0ec79727",
+            "artist_names": [
+                "Fight Pausa",
+                "Xqz"
+            ],
+            "discnumber": 1,
+            "duration_ms": 151723,
+            "isrc": "ITUM72000471",
+            "listening_from": "spotify",
+            "recording_msid": "a251df90-2857-4c1e-93f7-c2152b20e159",
+            "release_artist_name": "Fight Pausa, Xqz",
+            "release_artist_names": [
+                "Fight Pausa",
+                "Xqz"
+            ],
+            "release_msid": "da210bac-3e10-4194-a3de-9bcd0459aae7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU",
+                "https://open.spotify.com/artist/6qEGPchUGlo8ANmT0djkke"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6S2qus5QPC2IuTfpzXf2tS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU",
+                "https://open.spotify.com/artist/6qEGPchUGlo8ANmT0djkke"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2e0OmITyOVR58u1SUhjCBg",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:41:18",
+        "track_name": "Beautiful Morning",
+        "artist_name": "Woo",
+        "release_name": "Play The Blues",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/56OIj5xtpyZKrdZ2PIHW7K",
+        "listening_from": "spotify",
+        "isrc": "GBLLT2119597",
+        "additional_info": {
+            "artist_msid": "eaf23bd4-fcd5-476b-8100-59c789f763ac",
+            "artist_names": [
+                "Woo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 137810,
+            "isrc": "GBLLT2119597",
+            "listening_from": "spotify",
+            "recording_msid": "1a4c26bd-310c-4189-a31a-4ddcbe6b87e3",
+            "release_artist_name": "Woo",
+            "release_artist_names": [
+                "Woo"
+            ],
+            "release_msid": "378979e7-62ea-4e58-a7ef-20228ad1f060",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KzAoUX6oUmWWFwGD1DnUp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR"
+            ],
+            "spotify_id": "https://open.spotify.com/track/56OIj5xtpyZKrdZ2PIHW7K",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:38:59",
+        "track_name": "Rei",
+        "artist_name": "oqbqbo",
+        "release_name": "Untitled",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/6upreF4yNirvmHslvUSyab",
+        "listening_from": "spotify",
+        "isrc": "GBHLW1900337",
+        "additional_info": {
+            "artist_msid": "45fe3ddc-adbd-4c7b-b773-98b607ded90d",
+            "artist_names": [
+                "oqbqbo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 330763,
+            "isrc": "GBHLW1900337",
+            "listening_from": "spotify",
+            "recording_msid": "a64e8b6a-b334-4943-abc7-eb4198d9359a",
+            "release_artist_name": "oqbqbo",
+            "release_artist_names": [
+                "oqbqbo"
+            ],
+            "release_msid": "58d09c01-72be-435b-9d7f-cbd30d8894da",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHmw"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2ba5oAPTPhc7DMFUdv9tDF",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHmw"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6upreF4yNirvmHslvUSyab",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:33:28",
+        "track_name": "Memories R Lemures",
+        "artist_name": "Pretty V",
+        "release_name": "Tale of Red Star",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2GM6lVXgTKPZOTPjGa2KLK",
+        "listening_from": "spotify",
+        "isrc": "QZK6M2017962",
+        "additional_info": {
+            "artist_msid": "18c3a022-bcb9-4b1e-98cc-bb3bce26874d",
+            "artist_names": [
+                "Pretty V"
+            ],
+            "discnumber": 1,
+            "duration_ms": 133982,
+            "isrc": "QZK6M2017962",
+            "listening_from": "spotify",
+            "recording_msid": "f607c1c8-6e04-4adb-8638-4f5966221815",
+            "release_artist_name": "Pretty V",
+            "release_artist_names": [
+                "Pretty V"
+            ],
+            "release_msid": "aee7d090-3e5f-42dd-a12b-67cb706c660f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7bYrSokOzrKQjswYHevxMy"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4sTdACy8xUXGdZqELkWhA0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7bYrSokOzrKQjswYHevxMy"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2GM6lVXgTKPZOTPjGa2KLK",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:31:13",
+        "track_name": "Underwater Bodycam",
+        "artist_name": "Geo Rip",
+        "release_name": "U-Udios 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0Ode6NaXVyTdaRwoMyLC8a",
+        "listening_from": "spotify",
+        "isrc": "USA2B1803887",
+        "additional_info": {
+            "artist_msid": "82169b42-6873-42d6-a333-8cf59ccfdddc",
+            "artist_names": [
+                "Geo Rip"
+            ],
+            "discnumber": 1,
+            "duration_ms": 383465,
+            "isrc": "USA2B1803887",
+            "listening_from": "spotify",
+            "recording_msid": "d6bd6d08-040a-4146-b47d-133f7c261902",
+            "release_artist_name": "Geo Rip",
+            "release_artist_names": [
+                "Geo Rip"
+            ],
+            "release_msid": "e20e3875-65e1-4550-a7f2-c2ffa248b8cb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5AnBMT9vZ0J9w6s0pNJpOW"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6Vm3qK2feoHFEehJiQyJp0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5AnBMT9vZ0J9w6s0pNJpOW"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0Ode6NaXVyTdaRwoMyLC8a",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:24:49",
+        "track_name": "Deliverance",
+        "artist_name": "Romare",
+        "release_name": "Home",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/1lFTuk1lzgFjy71AL3lfT5",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2000286",
+        "additional_info": {
+            "artist_msid": "0ce6d657-36b9-479b-b263-448467f95e57",
+            "artist_names": [
+                "Romare"
+            ],
+            "discnumber": 1,
+            "duration_ms": 236441,
+            "isrc": "GBCFB2000286",
+            "listening_from": "spotify",
+            "recording_msid": "c3429b1c-c3e5-4662-96fe-3754dd152e68",
+            "release_artist_name": "Romare",
+            "release_artist_names": [
+                "Romare"
+            ],
+            "release_msid": "0c8ff145-c558-4e58-b7b2-1a6b42354ea1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2IDeHNJEmYrS14aEFCYgpN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1lFTuk1lzgFjy71AL3lfT5",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:20:52",
+        "track_name": "Oubliette",
+        "artist_name": "Fatima Al Qadiri",
+        "release_name": "Brute",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/5BqmAxUF6CN7Lfb3j5UWPq",
+        "listening_from": "spotify",
+        "isrc": "GBLZC1600020",
+        "additional_info": {
+            "artist_msid": "39602de6-8d30-4666-b229-cbf5c763cbb8",
+            "artist_names": [
+                "Fatima Al Qadiri"
+            ],
+            "discnumber": 1,
+            "duration_ms": 212071,
+            "isrc": "GBLZC1600020",
+            "listening_from": "spotify",
+            "recording_msid": "d507eede-109b-45f6-8993-afed8a95cab3",
+            "release_artist_name": "Fatima Al Qadiri",
+            "release_artist_names": [
+                "Fatima Al Qadiri"
+            ],
+            "release_msid": "063b0bd0-eaa3-4e86-9082-40095c25726d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3aCF7i0Nn7Sl8qFaAKyDnn",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5BqmAxUF6CN7Lfb3j5UWPq",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:17:20",
+        "track_name": "Tendacayou",
+        "artist_name": "Ruf Dug",
+        "release_name": "Island",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5HwLru1M60NugjrHJcrRr6",
+        "listening_from": "spotify",
+        "isrc": "DKAZ71579001",
+        "additional_info": {
+            "artist_msid": "c33b550b-b26a-4bb3-944f-87e9dcd770c5",
+            "artist_names": [
+                "Ruf Dug"
+            ],
+            "discnumber": 1,
+            "duration_ms": 321638,
+            "isrc": "DKAZ71579001",
+            "listening_from": "spotify",
+            "recording_msid": "efdf2431-e19e-458b-a41b-2e0f590e5328",
+            "release_artist_name": "Ruf Dug",
+            "release_artist_names": [
+                "Ruf Dug"
+            ],
+            "release_msid": "d9d3d5de-ea02-4f48-ad8f-a8d610997880",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/112Ydyyzk3dvEQrwx076Ec",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5HwLru1M60NugjrHJcrRr6",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:11:57",
+        "track_name": "Aveu",
+        "artist_name": "Valentin Stip",
+        "release_name": "Sigh",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/4cjbzAuUnhTbAg2sgH7zVO",
+        "listening_from": "spotify",
+        "isrc": "FR6V82165011",
+        "additional_info": {
+            "artist_msid": "8ab268ea-e033-413e-abf5-9c84d027ab5c",
+            "artist_names": [
+                "Valentin Stip"
+            ],
+            "discnumber": 1,
+            "duration_ms": 187635,
+            "isrc": "FR6V82165011",
+            "listening_from": "spotify",
+            "recording_msid": "8ba149ec-9dbc-4841-ad62-33f8fb5bca92",
+            "release_artist_name": "Valentin Stip",
+            "release_artist_names": [
+                "Valentin Stip"
+            ],
+            "release_msid": "e3601a94-dfde-4174-97b3-0c015f85be1e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3BZsrfqi9CKHBVgcV7uqFj"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6z7PGcxj3YUxOXYYqlQRl0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3BZsrfqi9CKHBVgcV7uqFj"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4cjbzAuUnhTbAg2sgH7zVO",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:08:18",
+        "track_name": "El Espanto En Sierra Nevada",
+        "artist_name": "Molero",
+        "release_name": "Ficciones Del Tr\u00f3pico",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/3YWfx5rpmd9RkQvCBWxNe8",
+        "listening_from": "spotify",
+        "isrc": "DEX262000057",
+        "additional_info": {
+            "artist_msid": "f8391199-59c0-426b-a087-8ea91e17a37b",
+            "artist_names": [
+                "Molero"
+            ],
+            "discnumber": 1,
+            "duration_ms": 282000,
+            "isrc": "DEX262000057",
+            "listening_from": "spotify",
+            "recording_msid": "391d16ac-6781-4e81-bcc9-c7ba172f1964",
+            "release_artist_name": "Molero",
+            "release_artist_names": [
+                "Molero"
+            ],
+            "release_msid": "e5652fcb-d2ac-4426-9d61-e1de4c6f5ba8",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3YWfx5rpmd9RkQvCBWxNe8",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T11:03:36",
+        "track_name": "A Wall with Hole",
+        "artist_name": "XIII",
+        "release_name": "Invrs Solaria",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/15HvXtNuyMwfXEcLSm9veD",
+        "listening_from": "spotify",
+        "isrc": "BEFY32100001",
+        "additional_info": {
+            "artist_msid": "fba1ef20-2886-48b6-a415-45484975ae22",
+            "artist_names": [
+                "XIII"
+            ],
+            "discnumber": 1,
+            "duration_ms": 173706,
+            "isrc": "BEFY32100001",
+            "listening_from": "spotify",
+            "recording_msid": "c88eb53b-3eca-4a38-8781-eabf27033172",
+            "release_artist_name": "XIII",
+            "release_artist_names": [
+                "XIII"
+            ],
+            "release_msid": "ebc44de9-1b3f-473e-bd7b-4f383f4839fb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1j28QCAu7jjDccLS5Ve2AQ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5CmZw5IZn2EC8UGS9LZibA",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1j28QCAu7jjDccLS5Ve2AQ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/15HvXtNuyMwfXEcLSm9veD",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T10:57:31",
+        "track_name": "Borsalino Swing - From Borsalino & Co",
+        "artist_name": "Claude Bolling",
+        "release_name": "Borsalino & Co. - Claude Bolling - Bande Originale - Original Soundtrack (Vive les ann\u00e9es 70)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/6gX5dCwwNvnUJK1z2xf8em",
+        "listening_from": "spotify",
+        "isrc": "FRP2A7400030",
+        "additional_info": {
+            "artist_msid": "3f6683fa-11a8-4488-b059-cade560ccafd",
+            "artist_names": [
+                "Claude Bolling"
+            ],
+            "discnumber": 1,
+            "duration_ms": 187838,
+            "isrc": "FRP2A7400030",
+            "listening_from": "spotify",
+            "recording_msid": "b2114111-588d-41b1-879e-6c85f7cd1084",
+            "release_artist_name": "Claude Bolling",
+            "release_artist_names": [
+                "Claude Bolling"
+            ],
+            "release_msid": "64715255-b0b7-425f-aed4-1a3d5e39704c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0O4f4uKlYjm8RsaipZGKAc",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6gX5dCwwNvnUJK1z2xf8em",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T10:54:22",
+        "track_name": "Spanish Rice",
+        "artist_name": "Clark Terry, Chico O'Farrill",
+        "release_name": "Spanish Rice",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/4TL9D8z4NFwMWjQa3lucIG",
+        "listening_from": "spotify",
+        "isrc": "USGR10400021",
+        "additional_info": {
+            "artist_msid": "3940c22e-391c-4f56-8779-9aadd36adb34",
+            "artist_names": [
+                "Clark Terry",
+                "Chico O'Farrill"
+            ],
+            "discnumber": 1,
+            "duration_ms": 164413,
+            "isrc": "USGR10400021",
+            "listening_from": "spotify",
+            "recording_msid": "a336678f-99c7-41fb-b524-b142ff13868a",
+            "release_artist_name": "Clark Terry, Chico O'Farrill",
+            "release_artist_names": [
+                "Clark Terry",
+                "Chico O'Farrill"
+            ],
+            "release_msid": "9162e68a-9751-4de9-93e1-63c44fd91110",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU",
+                "https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2RW3cLeqHhdg7nm1hJas0s",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU",
+                "https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4TL9D8z4NFwMWjQa3lucIG",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T10:51:37",
+        "track_name": "Lonesome Lover",
+        "artist_name": "Max Roach",
+        "release_name": "It's Time",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/3y7ANjEoF3HQCQt4IBu2R3",
+        "listening_from": "spotify",
+        "isrc": "USMC16147533",
+        "additional_info": {
+            "artist_msid": "50c65204-4720-4f5b-9e02-640675e560ad",
+            "artist_names": [
+                "Max Roach"
+            ],
+            "discnumber": 1,
+            "duration_ms": 421600,
+            "isrc": "USMC16147533",
+            "listening_from": "spotify",
+            "recording_msid": "60a28457-3cd1-4ae3-94ea-42084ba322a8",
+            "release_artist_name": "Max Roach",
+            "release_artist_names": [
+                "Max Roach"
+            ],
+            "release_msid": "4b31cff1-bab3-4050-b381-bfa5450b3654",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5uyFfAhAQwV0Oe9ZfLGlVl",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3y7ANjEoF3HQCQt4IBu2R3",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T10:44:35",
+        "track_name": "The Seventh Son",
+        "artist_name": "Mose Allison",
+        "release_name": "Mose Allison Sings",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7xNzzXvTBzRG68G19N7iA5",
+        "listening_from": "spotify",
+        "isrc": "USFI87300074",
+        "additional_info": {
+            "artist_msid": "a544afad-5e4e-4620-88b9-6eadab10e84d",
+            "artist_names": [
+                "Mose Allison"
+            ],
+            "discnumber": 1,
+            "duration_ms": 157226,
+            "isrc": "USFI87300074",
+            "listening_from": "spotify",
+            "recording_msid": "06e64b0b-e580-44a9-b2e8-47d87cc20dbb",
+            "release_artist_name": "Mose Allison",
+            "release_artist_names": [
+                "Mose Allison"
+            ],
+            "release_msid": "4ec87ff6-4667-4dcf-b288-ff8e4d000d7a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5a5XbcCrFeD24y2ZdUOhFL",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7xNzzXvTBzRG68G19N7iA5",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-22T10:41:58",
+        "track_name": "Take Five",
+        "artist_name": "The Dave Brubeck Quartet",
+        "release_name": "Time Out",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP",
+        "listening_from": "spotify",
+        "isrc": "USSM15900108",
+        "additional_info": {
+            "artist_msid": "f2549e90-0306-424d-8cf5-f72932c42492",
+            "artist_names": [
+                "The Dave Brubeck Quartet"
+            ],
+            "discnumber": 1,
+            "duration_ms": 324133,
+            "isrc": "USSM15900108",
+            "listening_from": "spotify",
+            "recording_msid": "644aeace-084d-44df-8b6e-63519f8529d8",
+            "release_artist_name": "The Dave Brubeck Quartet",
+            "release_artist_names": [
+                "The Dave Brubeck Quartet"
+            ],
+            "release_msid": "b9750f67-e2cf-4021-a045-92fc14dd59dc",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-21T12:45:18",
+        "track_name": "Drunken Cats",
+        "artist_name": "Lawrence",
+        "release_name": "Birds On The Playground",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/78Z9Kn7cDyZB5yBLfkYPLg",
+        "listening_from": "spotify",
+        "isrc": "DEU672100022",
+        "additional_info": {
+            "artist_msid": "15b79b24-51b2-463c-b63d-1b3a4783c608",
+            "artist_names": [
+                "Lawrence"
+            ],
+            "discnumber": 1,
+            "duration_ms": 280391,
+            "isrc": "DEU672100022",
+            "listening_from": "spotify",
+            "recording_msid": "5946e1c9-84d9-4a98-949e-30c70a14de89",
+            "release_artist_name": "Lawrence",
+            "release_artist_names": [
+                "Lawrence"
+            ],
+            "release_msid": "ed1cac65-c5fe-4535-a5fd-4eeb3c21022c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1cz6AMoMZX5QnyoZk0qcCJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+            ],
+            "spotify_id": "https://open.spotify.com/track/78Z9Kn7cDyZB5yBLfkYPLg",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-21T12:42:44",
+        "track_name": "Surface Tension",
+        "artist_name": "Sprinks",
+        "release_name": "Casera Two",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/709fUwBliv6YfdUDCxQGOf",
+        "listening_from": "spotify",
+        "isrc": "AUZEM1800492",
+        "additional_info": {
+            "artist_msid": "52b038c4-5879-4e63-9a76-d669d3ac63a3",
+            "artist_names": [
+                "Sprinks"
+            ],
+            "discnumber": 1,
+            "duration_ms": 268709,
+            "isrc": "AUZEM1800492",
+            "listening_from": "spotify",
+            "recording_msid": "e846f3f1-226b-432b-bf44-a5a8cf53d611",
+            "release_artist_name": "Various Artists",
+            "release_artist_names": [
+                "Various Artists"
+            ],
+            "release_msid": "3d12e774-3ab5-4843-b19f-97a373bed879",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6H2MWR0ouGTiUIKjREkkuY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5GzgQydhlj4LjjvHZbexVl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/709fUwBliv6YfdUDCxQGOf",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-21T12:38:15",
+        "track_name": "Closed Place, Open World",
+        "artist_name": "Slauson Malone",
+        "release_name": "Closed Place, Open World",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6CzIvlUbwqnsxjLzCbeyU4",
+        "listening_from": "spotify",
+        "isrc": "QZES61971268",
+        "additional_info": {
+            "artist_msid": "ca468fee-a545-4a50-b6c9-c4c183a8ef98",
+            "artist_names": [
+                "Slauson Malone"
+            ],
+            "discnumber": 1,
+            "duration_ms": 163841,
+            "isrc": "QZES61971268",
+            "listening_from": "spotify",
+            "recording_msid": "4f897229-d665-4bdb-a7f5-edf00f78a10b",
+            "release_artist_name": "Slauson Malone",
+            "release_artist_names": [
+                "Slauson Malone"
+            ],
+            "release_msid": "2f86d6f1-fd69-463f-8ede-e466c50c68fb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0sbvogchTVZ780AMp9PoUZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6CzIvlUbwqnsxjLzCbeyU4",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-21T12:31:52",
+        "track_name": "Morgengabe",
+        "artist_name": "Palazzi D'Oriente",
+        "release_name": "Sheltering Water (Extended Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/7yGGGHs3tJDyvlomKVJMt6",
+        "listening_from": "spotify",
+        "isrc": "ITP841800169",
+        "additional_info": {
+            "artist_msid": "c16487bf-59f2-4834-a5f9-a986fd48d6d6",
+            "artist_names": [
+                "Palazzi D'Oriente"
+            ],
+            "discnumber": 1,
+            "duration_ms": 215324,
+            "isrc": "ITP841800169",
+            "listening_from": "spotify",
+            "recording_msid": "9c906922-4f28-4734-9b4b-97c677cc8596",
+            "release_artist_name": "Palazzi D'Oriente",
+            "release_artist_names": [
+                "Palazzi D'Oriente"
+            ],
+            "release_msid": "162db23b-6731-435b-b35f-2362a9c838d1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3zK056tnH5M6cyttSmXGqI",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7yGGGHs3tJDyvlomKVJMt6",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-21T12:01:54",
+        "track_name": "Lirima",
+        "artist_name": "Fight Pausa, Xqz",
+        "release_name": "Lirima",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2e0OmITyOVR58u1SUhjCBg",
+        "listening_from": "spotify",
+        "isrc": "ITUM72000471",
+        "additional_info": {
+            "artist_msid": "0b780252-5f10-474c-8e68-867c0ec79727",
+            "artist_names": [
+                "Fight Pausa",
+                "Xqz"
+            ],
+            "discnumber": 1,
+            "duration_ms": 151723,
+            "isrc": "ITUM72000471",
+            "listening_from": "spotify",
+            "recording_msid": "a251df90-2857-4c1e-93f7-c2152b20e159",
+            "release_artist_name": "Fight Pausa, Xqz",
+            "release_artist_names": [
+                "Fight Pausa",
+                "Xqz"
+            ],
+            "release_msid": "da210bac-3e10-4194-a3de-9bcd0459aae7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU",
+                "https://open.spotify.com/artist/6qEGPchUGlo8ANmT0djkke"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6S2qus5QPC2IuTfpzXf2tS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU",
+                "https://open.spotify.com/artist/6qEGPchUGlo8ANmT0djkke"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2e0OmITyOVR58u1SUhjCBg",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-21T11:55:35",
+        "track_name": "Beautiful Morning",
+        "artist_name": "Woo",
+        "release_name": "Play The Blues",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/56OIj5xtpyZKrdZ2PIHW7K",
+        "listening_from": "spotify",
+        "isrc": "GBLLT2119597",
+        "additional_info": {
+            "artist_msid": "eaf23bd4-fcd5-476b-8100-59c789f763ac",
+            "artist_names": [
+                "Woo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 137810,
+            "isrc": "GBLLT2119597",
+            "listening_from": "spotify",
+            "recording_msid": "1a4c26bd-310c-4189-a31a-4ddcbe6b87e3",
+            "release_artist_name": "Woo",
+            "release_artist_names": [
+                "Woo"
+            ],
+            "release_msid": "378979e7-62ea-4e58-a7ef-20228ad1f060",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KzAoUX6oUmWWFwGD1DnUp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR"
+            ],
+            "spotify_id": "https://open.spotify.com/track/56OIj5xtpyZKrdZ2PIHW7K",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-21T11:45:31",
+        "track_name": "Underwater Bodycam",
+        "artist_name": "Geo Rip",
+        "release_name": "U-Udios 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0Ode6NaXVyTdaRwoMyLC8a",
+        "listening_from": "spotify",
+        "isrc": "USA2B1803887",
+        "additional_info": {
+            "artist_msid": "82169b42-6873-42d6-a333-8cf59ccfdddc",
+            "artist_names": [
+                "Geo Rip"
+            ],
+            "discnumber": 1,
+            "duration_ms": 383465,
+            "isrc": "USA2B1803887",
+            "listening_from": "spotify",
+            "recording_msid": "d6bd6d08-040a-4146-b47d-133f7c261902",
+            "release_artist_name": "Geo Rip",
+            "release_artist_names": [
+                "Geo Rip"
+            ],
+            "release_msid": "e20e3875-65e1-4550-a7f2-c2ffa248b8cb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5AnBMT9vZ0J9w6s0pNJpOW"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6Vm3qK2feoHFEehJiQyJp0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5AnBMT9vZ0J9w6s0pNJpOW"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0Ode6NaXVyTdaRwoMyLC8a",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T20:31:12",
+        "track_name": "Fisherman",
+        "artist_name": "The Congos",
+        "release_name": "Heart Of The Congos",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD",
+        "listening_from": "spotify",
+        "isrc": "USVPR9300309",
+        "additional_info": {
+            "artist_msid": "9c312338-d576-45d7-81e8-ece0b7e80d48",
+            "artist_names": [
+                "The Congos"
+            ],
+            "discnumber": 1,
+            "duration_ms": 328240,
+            "isrc": "USVPR9300309",
+            "listening_from": "spotify",
+            "recording_msid": "5cd3c333-9bdd-4475-803f-30947403f325",
+            "release_artist_name": "The Congos",
+            "release_artist_names": [
+                "The Congos"
+            ],
+            "release_msid": "546e21fd-28ad-4707-b9c8-3bd5753bc6c1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T20:25:43",
+        "track_name": "No,no,no - You Don't Love Me- No, No, No",
+        "artist_name": "Dawn Penn",
+        "release_name": "Vintage 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 22,
+        "spotify_id": "https://open.spotify.com/track/1oEbzNZXJGUh5FpDAVZFM3",
+        "listening_from": "spotify",
+        "isrc": "FR6V81278098",
+        "additional_info": {
+            "artist_msid": "13ff100a-d452-4466-8374-900b9c10a1ac",
+            "artist_names": [
+                "Dawn Penn"
+            ],
+            "discnumber": 1,
+            "duration_ms": 224270,
+            "isrc": "FR6V81278098",
+            "listening_from": "spotify",
+            "recording_msid": "aedf450b-0556-4edd-9da0-24f749a9ca13",
+            "release_artist_name": "Dawn Penn",
+            "release_artist_names": [
+                "Dawn Penn"
+            ],
+            "release_msid": "1c2effe4-09b3-40ad-b5c7-eef0305920c1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4ckj0wVxxJTVwQhlQp40ak",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1oEbzNZXJGUh5FpDAVZFM3",
+            "tracknumber": 22
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T20:21:58",
+        "track_name": "Natty Rebel - Remaster 1990",
+        "artist_name": "U-Roy",
+        "release_name": "Natty Rebel (Extra Version)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg",
+        "listening_from": "spotify",
+        "isrc": "GBAAA9000309",
+        "additional_info": {
+            "artist_msid": "1d46549d-9a99-4278-9bf8-62b05a031ec7",
+            "artist_names": [
+                "U-Roy"
+            ],
+            "discnumber": 1,
+            "duration_ms": 211960,
+            "isrc": "GBAAA9000309",
+            "listening_from": "spotify",
+            "recording_msid": "1ac887fd-e055-40e7-9b8e-3f9df7b2d63e",
+            "release_artist_name": "U-Roy",
+            "release_artist_names": [
+                "U-Roy"
+            ],
+            "release_msid": "82d66908-933f-468b-a8da-d1e54967c14b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T20:18:26",
+        "track_name": "So Much Trouble In The World",
+        "artist_name": "Bob Marley & The Wailers",
+        "release_name": "Survival",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w",
+        "listening_from": "spotify",
+        "isrc": "USIR27900001",
+        "additional_info": {
+            "artist_msid": "bcadf9a8-5286-488f-bdba-357d19c08f55",
+            "artist_names": [
+                "Bob Marley & The Wailers"
+            ],
+            "discnumber": 1,
+            "duration_ms": 240333,
+            "isrc": "USIR27900001",
+            "listening_from": "spotify",
+            "recording_msid": "fc64de47-cd7b-4fbc-8835-dd8a210c665d",
+            "release_artist_name": "Bob Marley & The Wailers",
+            "release_artist_names": [
+                "Bob Marley & The Wailers"
+            ],
+            "release_msid": "e88f6a16-44f3-423a-97bf-7016b2dc1cbb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T20:13:36",
+        "track_name": "Daymarks",
+        "artist_name": "Catching Flies",
+        "release_name": "Silver Linings Remixed",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/77nGkjmKU27LjPEF0eLUdT",
+        "listening_from": "spotify",
+        "isrc": "FR96X1962628",
+        "additional_info": {
+            "artist_msid": "5d22e8fb-de5b-4db1-8f54-46a0c518f17e",
+            "artist_names": [
+                "Catching Flies"
+            ],
+            "discnumber": 1,
+            "duration_ms": 225187,
+            "isrc": "FR96X1962628",
+            "listening_from": "spotify",
+            "recording_msid": "520f466a-6a6b-4894-8f4a-2a924ac542a5",
+            "release_artist_name": "Catching Flies",
+            "release_artist_names": [
+                "Catching Flies"
+            ],
+            "release_msid": "7d04d6e9-7454-45de-812a-b164e3011778",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/02E7iwwppG1VOSoP6JdY66",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/77nGkjmKU27LjPEF0eLUdT",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T20:09:50",
+        "track_name": "Reflect",
+        "artist_name": "Max Cooper",
+        "release_name": "Reflect",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7Cjwgp1aDa7gcbWKJDQAgC",
+        "listening_from": "spotify",
+        "isrc": "FRX202018424",
+        "additional_info": {
+            "artist_msid": "48b03511-b8c4-43d0-8f2e-339ecca830b5",
+            "artist_names": [
+                "Max Cooper"
+            ],
+            "discnumber": 1,
+            "duration_ms": 325289,
+            "isrc": "FRX202018424",
+            "listening_from": "spotify",
+            "recording_msid": "dd08ef67-ae12-4b72-b61b-b957d2d8b1c8",
+            "release_artist_name": "Max Cooper",
+            "release_artist_names": [
+                "Max Cooper"
+            ],
+            "release_msid": "9614650c-fa05-4670-bb78-c3a4b6ed115d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5HX1I06K15jFjyYAkS445E",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7Cjwgp1aDa7gcbWKJDQAgC",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T20:04:24",
+        "track_name": "Surrenderism",
+        "artist_name": "Jon Kennedy",
+        "release_name": "Take My Drum to England",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 13,
+        "spotify_id": "https://open.spotify.com/track/6iuBfHi5puZNm290jPaUBc",
+        "listening_from": "spotify",
+        "isrc": "GBPEN0810013",
+        "additional_info": {
+            "artist_msid": "8ff0f6ab-9380-4863-96ce-4447c602591d",
+            "artist_names": [
+                "Jon Kennedy"
+            ],
+            "discnumber": 1,
+            "duration_ms": 256406,
+            "isrc": "GBPEN0810013",
+            "listening_from": "spotify",
+            "recording_msid": "c1a95868-fbaa-460c-8646-6443f746683b",
+            "release_artist_name": "Jon Kennedy",
+            "release_artist_names": [
+                "Jon Kennedy"
+            ],
+            "release_msid": "bda9b689-d7f3-4b79-a74c-b2bb95f8431b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0quxTLpktFyiRP853em5Fn"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1BO0Hay3sxmAfvwPNg3Emk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0quxTLpktFyiRP853em5Fn"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6iuBfHi5puZNm290jPaUBc",
+            "tracknumber": 13
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:46:15",
+        "track_name": "Otomo",
+        "artist_name": "Bonobo, O'Flynn",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100678",
+        "additional_info": {
+            "artist_msid": "1c270fa1-6f12-4c22-9a78-5a6917f0627c",
+            "artist_names": [
+                "Bonobo",
+                "O'Flynn"
+            ],
+            "discnumber": 1,
+            "duration_ms": 371520,
+            "isrc": "GBCFB2100678",
+            "listening_from": "spotify",
+            "recording_msid": "ff62d47e-2b6a-43cc-909f-b6769766afee",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+                "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:40:04",
+        "track_name": "Day by Day",
+        "artist_name": "Bonobo, Kadhja Bonet",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 12,
+        "spotify_id": "https://open.spotify.com/track/7nnFdyYsVwFvUXB4heKZe4",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100686",
+        "additional_info": {
+            "artist_msid": "5143d0e1-ce62-4962-8a58-dfd97ad3c720",
+            "artist_names": [
+                "Bonobo",
+                "Kadhja Bonet"
+            ],
+            "discnumber": 1,
+            "duration_ms": 224933,
+            "isrc": "GBCFB2100686",
+            "listening_from": "spotify",
+            "recording_msid": "ab901a24-03d1-44c6-8051-7bbf9ea2a1a8",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+                "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7nnFdyYsVwFvUXB4heKZe4",
+            "tracknumber": 12
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:36:19",
+        "track_name": "Sapien",
+        "artist_name": "Bonobo",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/3O9cDue7Dz2gkBPbfTEeHu",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100685",
+        "additional_info": {
+            "artist_msid": "2921a1a4-70d8-4e90-9857-2188f6fa1782",
+            "artist_names": [
+                "Bonobo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 243320,
+            "isrc": "GBCFB2100685",
+            "listening_from": "spotify",
+            "recording_msid": "9a9f7d3d-1880-4958-8685-86b9aa8bba92",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3O9cDue7Dz2gkBPbfTEeHu",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:32:15",
+        "track_name": "Counterpart",
+        "artist_name": "Bonobo",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/3jVU4LpHVHClU0YDJ8VBqz",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100684",
+        "additional_info": {
+            "artist_msid": "2921a1a4-70d8-4e90-9857-2188f6fa1782",
+            "artist_names": [
+                "Bonobo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 332733,
+            "isrc": "GBCFB2100684",
+            "listening_from": "spotify",
+            "recording_msid": "b32f68e1-a798-47fe-b4aa-112e9c19f1d8",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3jVU4LpHVHClU0YDJ8VBqz",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:26:43",
+        "track_name": "From You",
+        "artist_name": "Bonobo, Joji",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100683",
+        "additional_info": {
+            "artist_msid": "d5e743a8-6f96-436a-9463-94609e3a358d",
+            "artist_names": [
+                "Bonobo",
+                "Joji"
+            ],
+            "discnumber": 1,
+            "duration_ms": 210280,
+            "isrc": "GBCFB2100683",
+            "listening_from": "spotify",
+            "recording_msid": "3569cf3d-734a-4627-b78c-6ed2ca55eeab",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+                "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:23:12",
+        "track_name": "Age of Phase",
+        "artist_name": "Bonobo",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100682",
+        "additional_info": {
+            "artist_msid": "2921a1a4-70d8-4e90-9857-2188f6fa1782",
+            "artist_names": [
+                "Bonobo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 342053,
+            "isrc": "GBCFB2100682",
+            "listening_from": "spotify",
+            "recording_msid": "bdf2c64c-1c48-42ee-9704-0c0bc6c93030",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:17:31",
+        "track_name": "Closer",
+        "artist_name": "Bonobo",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/7mq6753542WZViD1wJ64Eo",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100681",
+        "additional_info": {
+            "artist_msid": "2921a1a4-70d8-4e90-9857-2188f6fa1782",
+            "artist_names": [
+                "Bonobo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 311866,
+            "isrc": "GBCFB2100681",
+            "listening_from": "spotify",
+            "recording_msid": "88292fe2-8f67-4079-bc7f-fb01e7fbb404",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7mq6753542WZViD1wJ64Eo",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:12:19",
+        "track_name": "Elysian",
+        "artist_name": "Bonobo",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100680",
+        "additional_info": {
+            "artist_msid": "2921a1a4-70d8-4e90-9857-2188f6fa1782",
+            "artist_names": [
+                "Bonobo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 182293,
+            "isrc": "GBCFB2100680",
+            "listening_from": "spotify",
+            "recording_msid": "06554187-a05b-4cd3-a3bf-f4ceaaa9a5af",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:09:16",
+        "track_name": "Tides",
+        "artist_name": "Bonobo, Jamila Woods",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100679",
+        "additional_info": {
+            "artist_msid": "9eccccea-8c4b-4745-9812-26a133ece9a8",
+            "artist_names": [
+                "Bonobo",
+                "Jamila Woods"
+            ],
+            "discnumber": 1,
+            "duration_ms": 226146,
+            "isrc": "GBCFB2100679",
+            "listening_from": "spotify",
+            "recording_msid": "39a09ff1-3b89-4668-908b-f833bfd3a4c1",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+                "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+            ],
+            "spotify_id": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T19:05:30",
+        "track_name": "Otomo",
+        "artist_name": "Bonobo, O'Flynn",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100678",
+        "additional_info": {
+            "artist_msid": "1c270fa1-6f12-4c22-9a78-5a6917f0627c",
+            "artist_names": [
+                "Bonobo",
+                "O'Flynn"
+            ],
+            "discnumber": 1,
+            "duration_ms": 371520,
+            "isrc": "GBCFB2100678",
+            "listening_from": "spotify",
+            "recording_msid": "ff62d47e-2b6a-43cc-909f-b6769766afee",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+                "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T18:59:19",
+        "track_name": "Rosewood",
+        "artist_name": "Bonobo",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100677",
+        "additional_info": {
+            "artist_msid": "2921a1a4-70d8-4e90-9857-2188f6fa1782",
+            "artist_names": [
+                "Bonobo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 242773,
+            "isrc": "GBCFB2100677",
+            "listening_from": "spotify",
+            "recording_msid": "12b7f43a-6f02-4606-8fa0-a52e330e4fd6",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T18:55:16",
+        "track_name": "Shadows",
+        "artist_name": "Bonobo, Jordan Rakei",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100676",
+        "additional_info": {
+            "artist_msid": "d53eb7c2-47ec-4fa4-ba62-8633e80fceff",
+            "artist_names": [
+                "Bonobo",
+                "Jordan Rakei"
+            ],
+            "discnumber": 1,
+            "duration_ms": 285093,
+            "isrc": "GBCFB2100676",
+            "listening_from": "spotify",
+            "recording_msid": "3b29ccd0-47e0-4852-b8f2-cce753eb7119",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+                "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T18:50:31",
+        "track_name": "Polyghost",
+        "artist_name": "Bonobo, Miguel Atwood-Ferguson",
+        "release_name": "Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH",
+        "listening_from": "spotify",
+        "isrc": "GBCFB2100530",
+        "additional_info": {
+            "artist_msid": "4186fbf4-fd96-4ad1-84a6-8b7e4ac89cd7",
+            "artist_names": [
+                "Bonobo",
+                "Miguel Atwood-Ferguson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 108800,
+            "isrc": "GBCFB2100530",
+            "listening_from": "spotify",
+            "recording_msid": "8b0598a6-e88b-4f20-9979-273323655a79",
+            "release_artist_name": "Bonobo",
+            "release_artist_names": [
+                "Bonobo"
+            ],
+            "release_msid": "6159e283-ea02-47da-a3f6-f1a346794be5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+                "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T18:43:49",
+        "track_name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
+        "artist_name": "Noyz Narcos, Gemello, Metal Carter",
+        "release_name": "VIRUS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6",
+        "listening_from": "spotify",
+        "isrc": "ITDF62177146",
+        "additional_info": {
+            "artist_msid": "e23c53fc-abef-4c02-b836-9e1375fde5f8",
+            "artist_names": [
+                "Noyz Narcos",
+                "Gemello",
+                "Metal Carter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 258665,
+            "isrc": "ITDF62177146",
+            "listening_from": "spotify",
+            "recording_msid": "ce29b184-92a6-438a-bf3f-5659a1ef2b6d",
+            "release_artist_name": "Noyz Narcos",
+            "release_artist_names": [
+                "Noyz Narcos"
+            ],
+            "release_msid": "8cb99d47-117e-4df2-9dae-ea987c7d5398",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY",
+                "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04",
+                "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T14:07:46",
+        "track_name": "Sicilienne, Op. 78",
+        "artist_name": "Gabriel Faur\u00e9, Harriet Krijgh, Kamilla Isanbaeva",
+        "release_name": "The French Album",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/7uGumfAbZ4lROA6wr0LP5E",
+        "listening_from": "spotify",
+        "isrc": "DEB261200058",
+        "additional_info": {
+            "artist_msid": "7c4fd4a7-2cc0-4048-8281-fea313d53793",
+            "artist_names": [
+                "Gabriel Faur\u00e9",
+                "Harriet Krijgh",
+                "Kamilla Isanbaeva"
+            ],
+            "discnumber": 1,
+            "duration_ms": 211920,
+            "isrc": "DEB261200058",
+            "listening_from": "spotify",
+            "recording_msid": "6f8dedd3-d360-40fc-a489-5743cd7172bb",
+            "release_artist_name": "Harriet Krijgh",
+            "release_artist_names": [
+                "Harriet Krijgh"
+            ],
+            "release_msid": "7cdeb5cc-b7ab-401b-847d-128912a11cf1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2OFiVje1NA3KyOdioI1kak",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO",
+                "https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP",
+                "https://open.spotify.com/artist/3LZBJFYsHwyMu6pnl3RvUq"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7uGumfAbZ4lROA6wr0LP5E",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:58:03",
+        "track_name": "Sylvains d'orient",
+        "artist_name": "Renaud Garcia-Fons, Claire Antonini",
+        "release_name": "Farangi (Du baroque \u00e0 l'Orient)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5wfOAgbsF3CaWNi3urW67f",
+        "listening_from": "spotify",
+        "isrc": "FR68U1810010",
+        "additional_info": {
+            "artist_msid": "36fe3b87-dc9d-4ef4-881a-e4284fce8145",
+            "artist_names": [
+                "Renaud Garcia-Fons",
+                "Claire Antonini"
+            ],
+            "discnumber": 1,
+            "duration_ms": 224554,
+            "isrc": "FR68U1810010",
+            "listening_from": "spotify",
+            "recording_msid": "79a5e9c9-3596-4ef7-97a4-b9d05146fc58",
+            "release_artist_name": "Renaud Garcia-Fons, Claire Antonini",
+            "release_artist_names": [
+                "Renaud Garcia-Fons",
+                "Claire Antonini"
+            ],
+            "release_msid": "7e8762d8-abad-4291-9445-dd485d7d43fc",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2beRN3D0I38WBoTqrUTgjZ",
+                "https://open.spotify.com/artist/5Ae7E7QhSvVBY6HQ8TIzjw"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2dF5RFy6q9IE9DpRlYZnqA",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2beRN3D0I38WBoTqrUTgjZ",
+                "https://open.spotify.com/artist/5Ae7E7QhSvVBY6HQ8TIzjw"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5wfOAgbsF3CaWNi3urW67f",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:54:18",
+        "track_name": "Capriccio brillant, Op. 22: Andante",
+        "artist_name": "Felix Mendelssohn, Matthias Kirschnereit, Michael Sanderling, Frankfurt Radio Symphony Orchestra",
+        "release_name": "Hummel - Weber - Mendelssohn",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/05W1GduItsqueo7fja8e6i",
+        "listening_from": "spotify",
+        "isrc": "DES382132006",
+        "additional_info": {
+            "artist_msid": "ff1c86e1-4267-4352-8531-02e53df765fb",
+            "artist_names": [
+                "Felix Mendelssohn",
+                "Matthias Kirschnereit",
+                "Michael Sanderling",
+                "Frankfurt Radio Symphony Orchestra"
+            ],
+            "discnumber": 1,
+            "duration_ms": 150321,
+            "isrc": "DES382132006",
+            "listening_from": "spotify",
+            "recording_msid": "37d8fa3a-4cba-49fe-8b2f-df88748ae69d",
+            "release_artist_name": "Matthias Kirschnereit, Michael Sanderling, Frankfurt Radio Symphony Orchestra",
+            "release_artist_names": [
+                "Matthias Kirschnereit",
+                "Michael Sanderling",
+                "Frankfurt Radio Symphony Orchestra"
+            ],
+            "release_msid": "f3c778e2-841e-45f9-bb76-0eba160e97ff",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd",
+                "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ",
+                "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3wGZgzMRdcYtItW45U51OR",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710",
+                "https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd",
+                "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ",
+                "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/05W1GduItsqueo7fja8e6i",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:49:35",
+        "track_name": "Maria Carolina",
+        "artist_name": "Antonio Lauro, Adam Holzman",
+        "release_name": "Lauro: Guitar Music, Vol. 1 - Venezuelan Waltzes",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/2GjLFzB8GQBjk8uBVkgGAD",
+        "listening_from": "spotify",
+        "isrc": "HKI199843602",
+        "additional_info": {
+            "artist_msid": "1ffbda1e-3b23-4759-88de-f944b5e5f88c",
+            "artist_names": [
+                "Antonio Lauro",
+                "Adam Holzman"
+            ],
+            "discnumber": 1,
+            "duration_ms": 185666,
+            "isrc": "HKI199843602",
+            "listening_from": "spotify",
+            "recording_msid": "c4b4a7d3-a345-4f4a-a695-de2ba0065d2b",
+            "release_artist_name": "Antonio Lauro, Adam Holzman",
+            "release_artist_names": [
+                "Antonio Lauro",
+                "Adam Holzman"
+            ],
+            "release_msid": "83848d0d-f519-4f87-8773-e41c00b53381",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0V0JCoSmbDzy5hwLsGYoQ7",
+                "https://open.spotify.com/artist/33Vw6qCj6LYlacbe7BkykE"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1U7J8B2DkCOYqYQSrBw4VE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0V0JCoSmbDzy5hwLsGYoQ7",
+                "https://open.spotify.com/artist/33Vw6qCj6LYlacbe7BkykE"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2GjLFzB8GQBjk8uBVkgGAD",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:46:28",
+        "track_name": "Ceffylau",
+        "artist_name": "Catrin Finch, Seckou Keita",
+        "release_name": "Clychau Dibon",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/16c7tL31q18QfNsFi6bXzR",
+        "listening_from": "spotify",
+        "isrc": "GBZUM1302506",
+        "additional_info": {
+            "artist_msid": "281a007d-0506-40d5-a842-e270af63f6ca",
+            "artist_names": [
+                "Catrin Finch",
+                "Seckou Keita"
+            ],
+            "discnumber": 1,
+            "duration_ms": 323533,
+            "isrc": "GBZUM1302506",
+            "listening_from": "spotify",
+            "recording_msid": "fa8479f3-d56a-4ee5-9d96-dbfb9bf2f4a7",
+            "release_artist_name": "Catrin Finch, Seckou Keita",
+            "release_artist_names": [
+                "Catrin Finch",
+                "Seckou Keita"
+            ],
+            "release_msid": "8a8e2b47-1033-4b6d-853e-5de3e0fe3b6e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818",
+                "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6sMLaItoTxTwETaIPYrEiv",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818",
+                "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+            ],
+            "spotify_id": "https://open.spotify.com/track/16c7tL31q18QfNsFi6bXzR",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:41:04",
+        "track_name": "Daphnis et Chloe: Part III: Lever du jour",
+        "artist_name": "Maurice Ravel, Bordeaux Opera Chorus, Bordeaux Aquitaine National Orchestra, Laurent Petitgirard",
+        "release_name": "Ravel: Daphnis and Chloe",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/1xbCmCTvzd6nhbTJIg5pFu",
+        "listening_from": "spotify",
+        "isrc": "HKI190638209",
+        "additional_info": {
+            "artist_msid": "45b49a62-aad1-4cb7-86be-dd09b9e79b8d",
+            "artist_names": [
+                "Maurice Ravel",
+                "Bordeaux Opera Chorus",
+                "Bordeaux Aquitaine National Orchestra",
+                "Laurent Petitgirard"
+            ],
+            "discnumber": 1,
+            "duration_ms": 329906,
+            "isrc": "HKI190638209",
+            "listening_from": "spotify",
+            "recording_msid": "b9943d36-2b98-46cd-afeb-ea1897c49618",
+            "release_artist_name": "Maurice Ravel, Laurent Petitgirard",
+            "release_artist_names": [
+                "Maurice Ravel",
+                "Laurent Petitgirard"
+            ],
+            "release_msid": "c7a53bd8-68ad-4fd7-a94a-9a5a81f61f59",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY",
+                "https://open.spotify.com/artist/6AX7MAhb6m7DTPADxdXNNV"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1gnnRmLMjzsvFXs8VMcyjD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY",
+                "https://open.spotify.com/artist/53aHhFiWysXpthChFMfpMc",
+                "https://open.spotify.com/artist/7vjIwUIjcuPz8U6156625N",
+                "https://open.spotify.com/artist/6AX7MAhb6m7DTPADxdXNNV"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1xbCmCTvzd6nhbTJIg5pFu",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:35:33",
+        "track_name": "5 Anniversaries: No. 5. For Susanna Kyle",
+        "artist_name": "Leonard Bernstein, Warren Lee",
+        "release_name": "Touches & Traces",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/4fuooklXL2pC6IlhphGeyy",
+        "listening_from": "spotify",
+        "isrc": "HKI191533509",
+        "additional_info": {
+            "artist_msid": "1515f4d0-e619-4884-8e20-b3fd042bab7f",
+            "artist_names": [
+                "Leonard Bernstein",
+                "Warren Lee"
+            ],
+            "discnumber": 1,
+            "duration_ms": 117573,
+            "isrc": "HKI191533509",
+            "listening_from": "spotify",
+            "recording_msid": "a3c95edb-1e3a-4be3-b2bc-494df5a366d1",
+            "release_artist_name": "Warren Lee",
+            "release_artist_names": [
+                "Warren Lee"
+            ],
+            "release_msid": "84488f7b-db75-483f-b8ab-4ecd7df25665",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/07lcKgwOWK1SC43nTl2AbW",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn",
+                "https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4fuooklXL2pC6IlhphGeyy",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:33:35",
+        "track_name": "Nocturne No. 10 In E Minor",
+        "artist_name": "Benjamin Frith, John Field",
+        "release_name": "FIELD: Piano Music, Vol. 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5Q6Yl87BTK0wbGY7XGFZhx",
+        "listening_from": "spotify",
+        "isrc": "HKI199751701",
+        "additional_info": {
+            "artist_msid": "b9e4119a-9ae1-433a-b95f-a8504f72574e",
+            "artist_names": [
+                "Benjamin Frith",
+                "John Field"
+            ],
+            "discnumber": 1,
+            "duration_ms": 192400,
+            "isrc": "HKI199751701",
+            "listening_from": "spotify",
+            "recording_msid": "37067009-9132-4755-8177-2b7b0f75af71",
+            "release_artist_name": "Benjamin Frith",
+            "release_artist_names": [
+                "Benjamin Frith"
+            ],
+            "release_msid": "31c33fa8-41f9-4ed2-b114-dae5bdd6f9e8",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5xgzLyodqgopAiAojvKxFX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X",
+                "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5Q6Yl87BTK0wbGY7XGFZhx",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:28:10",
+        "track_name": "Mercure, Scene 1: La nuit",
+        "artist_name": "Erik Satie, Orchestre Symphonique et Lyrique de Nancy, Jerome Kaltenbach",
+        "release_name": "Satie: Parade, Gymnop\u00e9dies, Mercure & Rel\u00e2che",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J",
+        "listening_from": "spotify",
+        "isrc": "HKI199810808",
+        "additional_info": {
+            "artist_msid": "fe522338-7699-488e-a23a-eb3a42610cd2",
+            "artist_names": [
+                "Erik Satie",
+                "Orchestre Symphonique et Lyrique de Nancy",
+                "Jerome Kaltenbach"
+            ],
+            "discnumber": 1,
+            "duration_ms": 73826,
+            "isrc": "HKI199810808",
+            "listening_from": "spotify",
+            "recording_msid": "601ec5eb-d40d-438a-9f9a-c25cf363f2f8",
+            "release_artist_name": "Erik Satie, Orchestre Symphonique et Lyrique de Nancy, Jerome Kaltenbach",
+            "release_artist_names": [
+                "Erik Satie",
+                "Orchestre Symphonique et Lyrique de Nancy",
+                "Jerome Kaltenbach"
+            ],
+            "release_msid": "7f768343-19f2-4932-b8a4-774c95f5d508",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK",
+                "https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR",
+                "https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK",
+                "https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR",
+                "https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:23:01",
+        "track_name": "Prelude in D Major",
+        "artist_name": "Chad Lawson",
+        "release_name": "You Finally Knew",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/1GpeprFhB1MNS1CpyN9Iyx",
+        "listening_from": "spotify",
+        "isrc": "USUG12000363",
+        "additional_info": {
+            "artist_msid": "517dc201-33a3-458b-a81d-bd1fb772a178",
+            "artist_names": [
+                "Chad Lawson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 173480,
+            "isrc": "USUG12000363",
+            "listening_from": "spotify",
+            "recording_msid": "858b2e50-47b3-46c4-a8d2-eb53dca29081",
+            "release_artist_name": "Chad Lawson",
+            "release_artist_names": [
+                "Chad Lawson"
+            ],
+            "release_msid": "3e5eddcd-4901-4d51-9153-db34f29ce868",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1GpeprFhB1MNS1CpyN9Iyx",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:20:06",
+        "track_name": "Bach, JS: Violin Sonata No. 2 in A Minor, BWV 1003: III. Andante",
+        "artist_name": "Johann Sebastian Bach, Augustin Hadelich",
+        "release_name": "Bach: Sonatas & Partitas",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/1h3wmPM8L2ChzECp9iATFT",
+        "listening_from": "spotify",
+        "isrc": "GBAYC2003483",
+        "additional_info": {
+            "artist_msid": "6a8365d8-2859-4ceb-9fcc-0507dd3a086a",
+            "artist_names": [
+                "Johann Sebastian Bach",
+                "Augustin Hadelich"
+            ],
+            "discnumber": 1,
+            "duration_ms": 331447,
+            "isrc": "GBAYC2003483",
+            "listening_from": "spotify",
+            "recording_msid": "19edd302-ece8-4d91-a310-4e6c904c504a",
+            "release_artist_name": "Johann Sebastian Bach, Augustin Hadelich",
+            "release_artist_names": [
+                "Johann Sebastian Bach",
+                "Augustin Hadelich"
+            ],
+            "release_msid": "753cf70b-e1ba-42e6-9669-ba31aacc47da",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+                "https://open.spotify.com/artist/0rXFlqrjeUnpRIj3z7IRBk"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0FDL1ctBgpoWRQJSGjRX52",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+                "https://open.spotify.com/artist/0rXFlqrjeUnpRIj3z7IRBk"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1h3wmPM8L2ChzECp9iATFT",
+            "tracknumber": 15
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:14:35",
+        "track_name": "6 Consolations, S. 172: No. 3 in D-Flat Major (Lento, placido)",
+        "artist_name": "Franz Liszt, Daniel Barenboim",
+        "release_name": "Liszt: Dreams of Love; Consolations; Sonnets of Petrarca; Rigoletto Paraphrase",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/1L4NadMj3Jj7YgGaikyhfr",
+        "listening_from": "spotify",
+        "isrc": "DEF057900552",
+        "additional_info": {
+            "artist_msid": "5221df61-ecea-4c11-a0e0-0308a3eb2eec",
+            "artist_names": [
+                "Franz Liszt",
+                "Daniel Barenboim"
+            ],
+            "discnumber": 1,
+            "duration_ms": 254000,
+            "isrc": "DEF057900552",
+            "listening_from": "spotify",
+            "recording_msid": "e1d6efe0-9ae0-4cbe-aefc-0a7320d4bbf4",
+            "release_artist_name": "Franz Liszt, Daniel Barenboim",
+            "release_artist_names": [
+                "Franz Liszt",
+                "Daniel Barenboim"
+            ],
+            "release_msid": "53ee932d-730e-4d2b-8995-267fd662964f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2",
+                "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7bn0er8NwppxxoDfQbkbNr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2",
+                "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1L4NadMj3Jj7YgGaikyhfr",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:10:20",
+        "track_name": "Bruy\u00e8res - Home Session",
+        "artist_name": "Claude Debussy, V\u00edkingur \u00d3lafsson",
+        "release_name": "Debussy: Bruy\u00e8res (Home Session)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7",
+        "listening_from": "spotify",
+        "isrc": "DEN962002990",
+        "additional_info": {
+            "artist_msid": "668bb44d-b4a4-4b3d-bb3c-3608b79194c6",
+            "artist_names": [
+                "Claude Debussy",
+                "V\u00edkingur \u00d3lafsson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 216061,
+            "isrc": "DEN962002990",
+            "listening_from": "spotify",
+            "recording_msid": "554193d9-e5c6-4e05-a9b6-6b6aaab06f6e",
+            "release_artist_name": "Claude Debussy, V\u00edkingur \u00d3lafsson",
+            "release_artist_names": [
+                "Claude Debussy",
+                "V\u00edkingur \u00d3lafsson"
+            ],
+            "release_msid": "936e752b-d357-4b36-811e-c5c1ff3ba1ae",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+                "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4BXFAXaREZ96i733A132um",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+                "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T13:06:44",
+        "track_name": "From the Bohemian Forest, Op. 68, B. 133: V. Silent Woods (Lento e molto cantabile)",
+        "artist_name": "Anton\u00edn Dvo\u0159\u00e1k, Christophe Sirodeau, Anna Zassimova",
+        "release_name": "From the Bohemian Forest, Op. 68, B. 133: V. Silent Woods (Lento e molto cantabile)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4w79DfwX6shfzRm4SSYfT2",
+        "listening_from": "spotify",
+        "isrc": "FR9W12034976",
+        "additional_info": {
+            "artist_msid": "62d0f8a3-70fa-46ce-b0e0-81c77e71c104",
+            "artist_names": [
+                "Anton\u00edn Dvo\u0159\u00e1k",
+                "Christophe Sirodeau",
+                "Anna Zassimova"
+            ],
+            "discnumber": 1,
+            "duration_ms": 291520,
+            "isrc": "FR9W12034976",
+            "listening_from": "spotify",
+            "recording_msid": "75966b3a-19cd-49e9-b1ab-f97aef59bbdf",
+            "release_artist_name": "Anton\u00edn Dvo\u0159\u00e1k, Christophe Sirodeau, Anna Zassimova",
+            "release_artist_names": [
+                "Anton\u00edn Dvo\u0159\u00e1k",
+                "Christophe Sirodeau",
+                "Anna Zassimova"
+            ],
+            "release_msid": "661703b8-cb74-4658-b59a-b93acaabb804",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF",
+                "https://open.spotify.com/artist/4s51Juk2djWXSVx8nYzHNj",
+                "https://open.spotify.com/artist/056uegbfDUHy7y8cLxvA9I"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2yhiv3OjDn1ivkC38IOfDB",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF",
+                "https://open.spotify.com/artist/4s51Juk2djWXSVx8nYzHNj",
+                "https://open.spotify.com/artist/056uegbfDUHy7y8cLxvA9I"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4w79DfwX6shfzRm4SSYfT2",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:58:36",
+        "track_name": "Siciliano (After \"Erbarme dich\" from Matth\u00e4us-Passion, BWV 244, No. 39)",
+        "artist_name": "Johann Sebastian Bach, Martin Stadtfeld",
+        "release_name": "Piano Songbook",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/5nFCdayR5pAEVvQw7ZAIuQ",
+        "listening_from": "spotify",
+        "isrc": "DEE862002968",
+        "additional_info": {
+            "artist_msid": "a4b16209-2da4-4995-a4ed-5df9d2b8ce7a",
+            "artist_names": [
+                "Johann Sebastian Bach",
+                "Martin Stadtfeld"
+            ],
+            "discnumber": 1,
+            "duration_ms": 125200,
+            "isrc": "DEE862002968",
+            "listening_from": "spotify",
+            "recording_msid": "47a0fab5-d813-48b6-bfae-3d706b266388",
+            "release_artist_name": "Martin Stadtfeld",
+            "release_artist_names": [
+                "Martin Stadtfeld"
+            ],
+            "release_msid": "781cace5-e03a-486d-b663-1f322bfa012c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4kb4g4LErw7g8iooZfxFAF",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+                "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5nFCdayR5pAEVvQw7ZAIuQ",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:56:30",
+        "track_name": "Tomorrow's Song",
+        "artist_name": "\u00d3lafur Arnalds, Lavinia Meijer",
+        "release_name": "The Glass Effect (The Music of Philip Glass & Others)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/5OLv8P0JSaXFB95rw5saRv",
+        "listening_from": "spotify",
+        "isrc": "USSM11607334",
+        "additional_info": {
+            "artist_msid": "872894c0-c692-40f1-b067-60b8dd7f8df5",
+            "artist_names": [
+                "\u00d3lafur Arnalds",
+                "Lavinia Meijer"
+            ],
+            "discnumber": 2,
+            "duration_ms": 185946,
+            "isrc": "USSM11607334",
+            "listening_from": "spotify",
+            "recording_msid": "ce198014-9c86-4fa2-8ecd-622a431f1699",
+            "release_artist_name": "Lavinia Meijer",
+            "release_artist_names": [
+                "Lavinia Meijer"
+            ],
+            "release_msid": "876bd49c-c1c6-413f-bd81-fa429f9fd7f0",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1mbU0t4SlphUSX5wlCmIao",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia",
+                "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5OLv8P0JSaXFB95rw5saRv",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:53:23",
+        "track_name": "L\u00e1grima",
+        "artist_name": "Francisco T\u00e1rrega, Julian Bream",
+        "release_name": "Romantic Guitar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/1aMeBqrCnPf1CzRXlKyNFs",
+        "listening_from": "spotify",
+        "isrc": "USBC17000114",
+        "additional_info": {
+            "artist_msid": "e15b6670-5612-42e1-8d98-e3fde5425037",
+            "artist_names": [
+                "Francisco T\u00e1rrega",
+                "Julian Bream"
+            ],
+            "discnumber": 1,
+            "duration_ms": 123426,
+            "isrc": "USBC17000114",
+            "listening_from": "spotify",
+            "recording_msid": "7a3ce94b-0ca2-4830-a540-aabd8ec70166",
+            "release_artist_name": "Julian Bream",
+            "release_artist_names": [
+                "Julian Bream"
+            ],
+            "release_msid": "fe31bbff-ec49-4aee-926f-e39cc6180f78",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0qPOwxdotqb7ODOOzhn5y3",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t",
+                "https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1aMeBqrCnPf1CzRXlKyNFs",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:50:21",
+        "track_name": "Nocturne No. 1 in E Flat Major, H.24",
+        "artist_name": "John Field, Elizabeth Joy Roe",
+        "release_name": "Field: Complete Nocturnes",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm",
+        "listening_from": "spotify",
+        "isrc": "GBF071504650",
+        "additional_info": {
+            "artist_msid": "8737ab23-a660-479b-bd04-7c4a368dbe7c",
+            "artist_names": [
+                "John Field",
+                "Elizabeth Joy Roe"
+            ],
+            "discnumber": 1,
+            "duration_ms": 221731,
+            "isrc": "GBF071504650",
+            "listening_from": "spotify",
+            "recording_msid": "edbc089e-6416-4cd2-90ba-02b96849d7fe",
+            "release_artist_name": "John Field, Elizabeth Joy Roe",
+            "release_artist_names": [
+                "John Field",
+                "Elizabeth Joy Roe"
+            ],
+            "release_msid": "016b7653-7232-41f3-a00e-9481d03af5c3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56",
+                "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56",
+                "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:46:38",
+        "track_name": "Capriccio brillant, Op. 22: Andante",
+        "artist_name": "Felix Mendelssohn, Matthias Kirschnereit, Michael Sanderling, Frankfurt Radio Symphony Orchestra",
+        "release_name": "Hummel - Weber - Mendelssohn",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/05W1GduItsqueo7fja8e6i",
+        "listening_from": "spotify",
+        "isrc": "DES382132006",
+        "additional_info": {
+            "artist_msid": "ff1c86e1-4267-4352-8531-02e53df765fb",
+            "artist_names": [
+                "Felix Mendelssohn",
+                "Matthias Kirschnereit",
+                "Michael Sanderling",
+                "Frankfurt Radio Symphony Orchestra"
+            ],
+            "discnumber": 1,
+            "duration_ms": 150321,
+            "isrc": "DES382132006",
+            "listening_from": "spotify",
+            "recording_msid": "37d8fa3a-4cba-49fe-8b2f-df88748ae69d",
+            "release_artist_name": "Matthias Kirschnereit, Michael Sanderling, Frankfurt Radio Symphony Orchestra",
+            "release_artist_names": [
+                "Matthias Kirschnereit",
+                "Michael Sanderling",
+                "Frankfurt Radio Symphony Orchestra"
+            ],
+            "release_msid": "f3c778e2-841e-45f9-bb76-0eba160e97ff",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd",
+                "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ",
+                "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3wGZgzMRdcYtItW45U51OR",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710",
+                "https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd",
+                "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ",
+                "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/05W1GduItsqueo7fja8e6i",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:44:07",
+        "track_name": "Salut d'amour, Op. 12",
+        "artist_name": "Edward Elgar, Sol Gabetta, Mario Venzago, Danish National Symphony Orchestra",
+        "release_name": "Elgar//Dvorak/Respighi/Vasks",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/7juYY67QIUIsO7xweoyMqq",
+        "listening_from": "spotify",
+        "isrc": "DEE471000027",
+        "additional_info": {
+            "artist_msid": "97c10e4a-d058-4207-bd85-bab9cd377349",
+            "artist_names": [
+                "Edward Elgar",
+                "Sol Gabetta",
+                "Mario Venzago",
+                "Danish National Symphony Orchestra"
+            ],
+            "discnumber": 1,
+            "duration_ms": 182186,
+            "isrc": "DEE471000027",
+            "listening_from": "spotify",
+            "recording_msid": "be2a12f8-9bbd-46f6-a562-6198e08f67b4",
+            "release_artist_name": "Sol Gabetta, Mario Venzago",
+            "release_artist_names": [
+                "Sol Gabetta",
+                "Mario Venzago"
+            ],
+            "release_msid": "f576cb90-d4b2-40eb-8b6d-cf8f0665c506",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN",
+                "https://open.spotify.com/artist/39lQyvfR8sc6VYCeXMkFsQ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4suS4aIWRI4FyealeVO7cz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd",
+                "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN",
+                "https://open.spotify.com/artist/39lQyvfR8sc6VYCeXMkFsQ",
+                "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7juYY67QIUIsO7xweoyMqq",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:41:05",
+        "track_name": "Deux Arabesques, L. 66, CD 74: I. Premi\u00e8re Arabesque",
+        "artist_name": "Claude Debussy, Jean-Efflam Bavouzet",
+        "release_name": "Debussy: Complete Works for Piano, Vol. 3",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/0CKertYAUevycqhVjGuewD",
+        "listening_from": "spotify",
+        "isrc": "GBLWD0804107",
+        "additional_info": {
+            "artist_msid": "f324ba4c-981d-4020-b1ad-9fd792eb5876",
+            "artist_names": [
+                "Claude Debussy",
+                "Jean-Efflam Bavouzet"
+            ],
+            "discnumber": 1,
+            "duration_ms": 244010,
+            "isrc": "GBLWD0804107",
+            "listening_from": "spotify",
+            "recording_msid": "ac47c6c8-d454-465e-85a5-afc7a2f9a561",
+            "release_artist_name": "Claude Debussy, Jean-Efflam Bavouzet",
+            "release_artist_names": [
+                "Claude Debussy",
+                "Jean-Efflam Bavouzet"
+            ],
+            "release_msid": "b7ebeed4-9ba3-4473-a9b5-8bc6eefd2563",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+                "https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/01ofr7grBeNmvO5Gh61j4j",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+                "https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0CKertYAUevycqhVjGuewD",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:37:00",
+        "track_name": "Kinderszenen, Op. 15: No. 1, Von fremden L\u00e4ndern und Menschen",
+        "artist_name": "Robert Schumann, Vladimir Horowitz",
+        "release_name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj",
+        "listening_from": "spotify",
+        "isrc": "USSM10007623",
+        "additional_info": {
+            "artist_msid": "20bf12d4-3864-4296-af15-55dc476fc212",
+            "artist_names": [
+                "Robert Schumann",
+                "Vladimir Horowitz"
+            ],
+            "discnumber": 1,
+            "duration_ms": 93386,
+            "isrc": "USSM10007623",
+            "listening_from": "spotify",
+            "recording_msid": "180e4f29-fe73-4a11-a0e7-369e21ffc279",
+            "release_artist_name": "Robert Schumann, Vladimir Horowitz",
+            "release_artist_names": [
+                "Robert Schumann",
+                "Vladimir Horowitz"
+            ],
+            "release_msid": "720cd7a2-e875-4511-ad4c-9a3608586ddc",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ",
+                "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ",
+                "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:35:26",
+        "track_name": "The Girl with the Flaxen Hair",
+        "artist_name": "Hajime Mizoguchi",
+        "release_name": "Cello Bouquet",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux",
+        "listening_from": "spotify",
+        "isrc": "JPZ921313470",
+        "additional_info": {
+            "artist_msid": "f3d1f032-c8db-427f-8f9b-51769aaa02ff",
+            "artist_names": [
+                "Hajime Mizoguchi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 182108,
+            "isrc": "JPZ921313470",
+            "listening_from": "spotify",
+            "recording_msid": "3bfe94bf-0373-4bdb-ad2a-526765155bb7",
+            "release_artist_name": "Hajime Mizoguchi",
+            "release_artist_names": [
+                "Hajime Mizoguchi"
+            ],
+            "release_msid": "69db0387-d1d2-40e7-b13b-64798d710e1e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/37MI19rLgummvAp3PFu945"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0n0T7E3Ug0OL572o7NGF5W",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/37MI19rLgummvAp3PFu945"
+            ],
+            "spotify_id": "https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:32:24",
+        "track_name": "River Flows In You",
+        "artist_name": "Yiruma",
+        "release_name": "Piano In You",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/13NC44aS3d0EFF58oVQ8T7",
+        "listening_from": "spotify",
+        "isrc": "USA371336157",
+        "additional_info": {
+            "artist_msid": "e8a8ba88-ee95-4c21-8683-4bcad323ba71",
+            "artist_names": [
+                "Yiruma"
+            ],
+            "discnumber": 2,
+            "duration_ms": 188240,
+            "isrc": "USA371336157",
+            "listening_from": "spotify",
+            "recording_msid": "e019a80a-dc05-41b1-a89f-c2c392c1a228",
+            "release_artist_name": "Various Artists",
+            "release_artist_names": [
+                "Various Artists"
+            ],
+            "release_msid": "e408c6cb-beb1-4de3-b194-45d9f5bd36aa",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5QSJvIB7Mn1xQiTHfkvxjP",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+            ],
+            "spotify_id": "https://open.spotify.com/track/13NC44aS3d0EFF58oVQ8T7",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:29:15",
+        "track_name": "The Seal Lullaby (Arr. Parkin)",
+        "artist_name": "Eric Whitacre, Isata Kanneh-Mason, Jeneba Kanneh-Mason, Braimah Kanneh-Mason, Konya Kanneh-Mason, Aminata Kanneh-Mason, Sheku Kanneh-Mason, Mariatu Kanneh-Mason",
+        "release_name": "Carnival",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 44,
+        "spotify_id": "https://open.spotify.com/track/3jUGfTl7C4fWfImfKMbUoR",
+        "listening_from": "spotify",
+        "isrc": "GBBBC2000229",
+        "additional_info": {
+            "artist_msid": "6a206192-28d4-4a51-a585-c713f317e5e2",
+            "artist_names": [
+                "Eric Whitacre",
+                "Isata Kanneh-Mason",
+                "Jeneba Kanneh-Mason",
+                "Braimah Kanneh-Mason",
+                "Konya Kanneh-Mason",
+                "Aminata Kanneh-Mason",
+                "Sheku Kanneh-Mason",
+                "Mariatu Kanneh-Mason"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218560,
+            "isrc": "GBBBC2000229",
+            "listening_from": "spotify",
+            "recording_msid": "45f7a05f-08cc-4c32-a4c3-e2b012babfc7",
+            "release_artist_name": "The Kanneh-Masons, Michael Morpurgo, Olivia Colman",
+            "release_artist_names": [
+                "The Kanneh-Masons",
+                "Michael Morpurgo",
+                "Olivia Colman"
+            ],
+            "release_msid": "f7fffe87-169b-4b75-9a09-ddf12172a6f4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/05qx39QJbnj7GaAEiCdXNK",
+                "https://open.spotify.com/artist/02J90Pp9uneyMMBviCz0BV",
+                "https://open.spotify.com/artist/1QzDPKyB0njzvNHYzUN4sq"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4YzUUdivf5HOhYSkUADuBM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL",
+                "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M",
+                "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ",
+                "https://open.spotify.com/artist/3sNaER8L3Qd0fkdP52pGUV",
+                "https://open.spotify.com/artist/1iVdpAhwFutZ7dAknlpFnM",
+                "https://open.spotify.com/artist/2SkVtEcR76YKHYZdR2wbjD",
+                "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX",
+                "https://open.spotify.com/artist/6gEI0QXhUgfCl98qna6F8K"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3jUGfTl7C4fWfImfKMbUoR",
+            "tracknumber": 44
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:25:36",
+        "track_name": "Concerto Flute and Orchestra No. 2 in D Major, K. 314: III. Rondeau - Allegro",
+        "artist_name": "Wolfgang Amadeus Mozart, James Galway, Sir Neville Marriner",
+        "release_name": "Mozart: Flute Concertos K. 313 & K. 314 and Concerto for Flute and Harp, K. 299",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/70Lt426paZfOQumap9AN1v",
+        "listening_from": "spotify",
+        "isrc": "USBC19607125",
+        "additional_info": {
+            "artist_msid": "e2bb170c-dc2b-4c7c-a9a6-1d123fea24b4",
+            "artist_names": [
+                "Wolfgang Amadeus Mozart",
+                "James Galway",
+                "Sir Neville Marriner"
+            ],
+            "discnumber": 1,
+            "duration_ms": 344573,
+            "isrc": "USBC19607125",
+            "listening_from": "spotify",
+            "recording_msid": "524df1ae-2748-493a-a0e6-ae5d205851db",
+            "release_artist_name": "Wolfgang Amadeus Mozart, James Galway, Sir Neville Marriner",
+            "release_artist_names": [
+                "Wolfgang Amadeus Mozart",
+                "James Galway",
+                "Sir Neville Marriner"
+            ],
+            "release_msid": "9f5b3a62-1ba1-4e25-bc93-6c1ade4585ab",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+                "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ",
+                "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2Lxah4AlE89dB0ISM2wpnt",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+                "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ",
+                "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+            ],
+            "spotify_id": "https://open.spotify.com/track/70Lt426paZfOQumap9AN1v",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:19:50",
+        "track_name": "Divertimento in F Major, K.138: II. Andante",
+        "artist_name": "Wolfgang Amadeus Mozart, Quatuor Van Kuijk",
+        "release_name": "Mozart: Quartets K.387 & 421 , Divertimento K.138",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/3Gz6xfyvgX59Cxjlbt1pBx",
+        "listening_from": "spotify",
+        "isrc": "FR50X1955106",
+        "additional_info": {
+            "artist_msid": "8f7f63b4-81c6-40db-9cdd-20bd3b407e1c",
+            "artist_names": [
+                "Wolfgang Amadeus Mozart",
+                "Quatuor Van Kuijk"
+            ],
+            "discnumber": 1,
+            "duration_ms": 262720,
+            "isrc": "FR50X1955106",
+            "listening_from": "spotify",
+            "recording_msid": "b9634865-5145-4470-a478-1fb00ec29829",
+            "release_artist_name": "Wolfgang Amadeus Mozart, Quatuor Van Kuijk",
+            "release_artist_names": [
+                "Wolfgang Amadeus Mozart",
+                "Quatuor Van Kuijk"
+            ],
+            "release_msid": "ede8a99f-b6bf-4192-b328-71cadbc2574f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+                "https://open.spotify.com/artist/3JskWGJqTH0wpdVErwUOub"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3s2QWZuHOCjiH4a02Uz6pU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+                "https://open.spotify.com/artist/3JskWGJqTH0wpdVErwUOub"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3Gz6xfyvgX59Cxjlbt1pBx",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:15:28",
+        "track_name": "Dawn - From \"Pride & Prejudice\" Soundtrack",
+        "artist_name": "Dario Marianelli, Jean-Yves Thibaudet",
+        "release_name": "Pride and Prejudice - OST",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW",
+        "listening_from": "spotify",
+        "isrc": "GBEKZ0500051",
+        "additional_info": {
+            "artist_msid": "14b30e8d-89b4-4662-802b-6174eeb62059",
+            "artist_names": [
+                "Dario Marianelli",
+                "Jean-Yves Thibaudet"
+            ],
+            "discnumber": 1,
+            "duration_ms": 158600,
+            "isrc": "GBEKZ0500051",
+            "listening_from": "spotify",
+            "recording_msid": "76c6ede1-5584-4d7c-952b-e9d78f5a8be3",
+            "release_artist_name": "Dario Marianelli, Jean-Yves Thibaudet",
+            "release_artist_names": [
+                "Dario Marianelli",
+                "Jean-Yves Thibaudet"
+            ],
+            "release_msid": "90794b9f-5f5d-4a32-a1e6-50d0d1e6d6bd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg",
+                "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg",
+                "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:12:48",
+        "track_name": "Three Jamaican Dances: No. 2",
+        "artist_name": "Oswald Russell, William Chapman Nyaho",
+        "release_name": "Senku - Piano Music by Composers of African Descent, Vol. 1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/67HF6y5o1UhIFUGIOPzUK5",
+        "listening_from": "spotify",
+        "isrc": "USBZ91200384",
+        "additional_info": {
+            "artist_msid": "7c30541a-4799-45b6-8fe9-51b3eab00cb6",
+            "artist_names": [
+                "Oswald Russell",
+                "William Chapman Nyaho"
+            ],
+            "discnumber": 1,
+            "duration_ms": 147586,
+            "isrc": "USBZ91200384",
+            "listening_from": "spotify",
+            "recording_msid": "40562bb9-790a-4137-9541-ce54846938a3",
+            "release_artist_name": "William Chapman Nyaho",
+            "release_artist_names": [
+                "William Chapman Nyaho"
+            ],
+            "release_msid": "96449364-8909-480e-b927-01d79bd38959",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0Ek2MOe3oScb5Fn39c8F57",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7wrHPrsAxevxCYYVZa9Vy1",
+                "https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/67HF6y5o1UhIFUGIOPzUK5",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:10:20",
+        "track_name": "Sonata for 2 Pianos in D Major, K.448/375a: III. Allegro molto",
+        "artist_name": "Wolfgang Amadeus Mozart, Murray Perahia, Radu Lupu",
+        "release_name": "Mozart & Schubert: Works for Piano Duo (Expanded Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/3AVs6Cwzs59T7wKowTnB51",
+        "listening_from": "spotify",
+        "isrc": "USSM18400315",
+        "additional_info": {
+            "artist_msid": "193d3e2b-d107-4fcd-9327-ce7be8ada50c",
+            "artist_names": [
+                "Wolfgang Amadeus Mozart",
+                "Murray Perahia",
+                "Radu Lupu"
+            ],
+            "discnumber": 1,
+            "duration_ms": 376266,
+            "isrc": "USSM18400315",
+            "listening_from": "spotify",
+            "recording_msid": "899840de-fb6b-466e-9701-766198b27e7e",
+            "release_artist_name": "Wolfgang Amadeus Mozart, Murray Perahia",
+            "release_artist_names": [
+                "Wolfgang Amadeus Mozart",
+                "Murray Perahia"
+            ],
+            "release_msid": "41e62a78-e5bc-4498-86aa-91d7e9c82a48",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+                "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6e5wXaHFIp3yAFN7sQRLln",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+                "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB",
+                "https://open.spotify.com/artist/2BoWH2w47EUxEiOuvl4mxF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3AVs6Cwzs59T7wKowTnB51",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:04:04",
+        "track_name": "Aboriginal Lullaby",
+        "artist_name": "Traditional, Amy Dickson",
+        "release_name": "Aboriginal Lullaby",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7cYVvcT0wfBnFE6RDeFRIs",
+        "listening_from": "spotify",
+        "isrc": "USSM12004041",
+        "additional_info": {
+            "artist_msid": "0c552071-24eb-4c9e-88f6-ed6140c215b7",
+            "artist_names": [
+                "Traditional",
+                "Amy Dickson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 113280,
+            "isrc": "USSM12004041",
+            "listening_from": "spotify",
+            "recording_msid": "c724a313-8c08-408d-ad8c-c6dcd9d91843",
+            "release_artist_name": "Traditional, Amy Dickson",
+            "release_artist_names": [
+                "Traditional",
+                "Amy Dickson"
+            ],
+            "release_msid": "52f2bca2-231d-4416-b7f9-afeaabebc774",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf",
+                "https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5aMHHjldNmnqUEayrOZGlj",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf",
+                "https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7cYVvcT0wfBnFE6RDeFRIs",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T12:01:39",
+        "track_name": "Nocturnes, Op. 9",
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin, Abbey Simon",
+        "release_name": "Best of Chopin",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6ueTTzezzvpDXTYeusqNoB",
+        "listening_from": "spotify",
+        "isrc": "USZDG0601180",
+        "additional_info": {
+            "artist_msid": "a8ec939f-3d16-49bf-b48e-338b2604c96d",
+            "artist_names": [
+                "Fr\u00e9d\u00e9ric Chopin",
+                "Abbey Simon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 284086,
+            "isrc": "USZDG0601180",
+            "listening_from": "spotify",
+            "recording_msid": "43924fe6-5ff4-40e9-8ef3-f47d183ce489",
+            "release_artist_name": "Fr\u00e9d\u00e9ric Chopin",
+            "release_artist_names": [
+                "Fr\u00e9d\u00e9ric Chopin"
+            ],
+            "release_msid": "2b216d27-e802-42d7-b784-1f373f8b9bf3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7tdNJVuUd9kgumyuXN5nqX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4",
+                "https://open.spotify.com/artist/1WZfpyMXeelpNlFlQxVfqI"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6ueTTzezzvpDXTYeusqNoB",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:56:55",
+        "track_name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
+        "artist_name": "Edvard Grieg, Alessio Bax",
+        "release_name": "Lullabies for Mila",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs",
+        "listening_from": "spotify",
+        "isrc": "GBLLH1643901",
+        "additional_info": {
+            "artist_msid": "d939d3c8-b1f0-4650-abcb-58b6b1a1ba65",
+            "artist_names": [
+                "Edvard Grieg",
+                "Alessio Bax"
+            ],
+            "discnumber": 1,
+            "duration_ms": 220773,
+            "isrc": "GBLLH1643901",
+            "listening_from": "spotify",
+            "recording_msid": "d686d7b0-34e3-445b-8f01-74e6a41814a3",
+            "release_artist_name": "Alessio Bax",
+            "release_artist_names": [
+                "Alessio Bax"
+            ],
+            "release_msid": "eb459503-6708-4540-b8d5-e6df17c69c24",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy",
+                "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:53:13",
+        "track_name": "Zdes' khorosho ('How Fair This Spot'), Op. 21, No. 7",
+        "artist_name": "Sergei Rachmaninoff, Pablo Ferrandez, Denis Kozhukhin",
+        "release_name": "Reflections",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe",
+        "listening_from": "spotify",
+        "isrc": "USSM12100321",
+        "additional_info": {
+            "artist_msid": "914c1ae0-a614-4fb0-a641-3bbbe4377613",
+            "artist_names": [
+                "Sergei Rachmaninoff",
+                "Pablo Ferrandez",
+                "Denis Kozhukhin"
+            ],
+            "discnumber": 1,
+            "duration_ms": 119426,
+            "isrc": "USSM12100321",
+            "listening_from": "spotify",
+            "recording_msid": "d0896120-8784-4460-9446-251cd1b20dff",
+            "release_artist_name": "Pablo Ferrandez",
+            "release_artist_names": [
+                "Pablo Ferrandez"
+            ],
+            "release_msid": "21c35d87-eff7-4290-9b92-2fa74e01bda6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51",
+                "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt",
+                "https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:51:13",
+        "track_name": "Minuet in A major, D. 334",
+        "artist_name": "Franz Schubert, Arcadi Volodos",
+        "release_name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW",
+        "listening_from": "spotify",
+        "isrc": "USSM11904041",
+        "additional_info": {
+            "artist_msid": "10fa1c27-9eff-4aa3-9524-b68c22c20b82",
+            "artist_names": [
+                "Franz Schubert",
+                "Arcadi Volodos"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193320,
+            "isrc": "USSM11904041",
+            "listening_from": "spotify",
+            "recording_msid": "da221994-c6ac-4301-9e01-b3425a5b9a5e",
+            "release_artist_name": "Franz Schubert, Arcadi Volodos",
+            "release_artist_names": [
+                "Franz Schubert",
+                "Arcadi Volodos"
+            ],
+            "release_msid": "48373527-9f2c-487f-b18c-6da71ffb89ba",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP",
+                "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP",
+                "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:48:00",
+        "track_name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "artist_name": "George Frideric Handel, Martin Stadtfeld",
+        "release_name": "Handel Variations",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG",
+        "listening_from": "spotify",
+        "isrc": "DEE861903526",
+        "additional_info": {
+            "artist_msid": "ec69bd91-d087-416a-8901-e0bcffef4fb8",
+            "artist_names": [
+                "George Frideric Handel",
+                "Martin Stadtfeld"
+            ],
+            "discnumber": 1,
+            "duration_ms": 268000,
+            "isrc": "DEE861903526",
+            "listening_from": "spotify",
+            "recording_msid": "0c65adb0-c257-4c41-90e0-623f7c69fe63",
+            "release_artist_name": "George Frideric Handel, Martin Stadtfeld",
+            "release_artist_names": [
+                "George Frideric Handel",
+                "Martin Stadtfeld"
+            ],
+            "release_msid": "74ef56f1-7fe0-4893-ac9a-70c8f988d457",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2",
+                "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2",
+                "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:43:32",
+        "track_name": "Canon and Gigue in D Major, P 37: I. Canon",
+        "artist_name": "Johann Pachelbel, Daniel Hope, Lorenza Borrani, Lucy Gould, Jonathan Cohen, Kristian Bezuidenhout, Stefan Maass, Stefan Rath",
+        "release_name": "Air - a baroque journey",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/1JKtvWIGJb0POMGEvWtQ8V",
+        "listening_from": "spotify",
+        "isrc": "DEN960901061",
+        "additional_info": {
+            "artist_msid": "a93efca7-2ef2-4737-b15b-32300844b941",
+            "artist_names": [
+                "Johann Pachelbel",
+                "Daniel Hope",
+                "Lorenza Borrani",
+                "Lucy Gould",
+                "Jonathan Cohen",
+                "Kristian Bezuidenhout",
+                "Stefan Maass",
+                "Stefan Rath"
+            ],
+            "discnumber": 1,
+            "duration_ms": 220893,
+            "isrc": "DEN960901061",
+            "listening_from": "spotify",
+            "recording_msid": "7729e7ae-4d03-419b-a53a-5dbc287fc7c6",
+            "release_artist_name": "Daniel Hope",
+            "release_artist_names": [
+                "Daniel Hope"
+            ],
+            "release_msid": "f40f72c1-b11f-4601-a62b-36f95206fab9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7mcePKkJLonpU7l3RFFEwH",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3",
+                "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur",
+                "https://open.spotify.com/artist/6uDumdUl8JzVq9EV58O0vZ",
+                "https://open.spotify.com/artist/4qhXo1SXU9cEWqthc9a12E",
+                "https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R",
+                "https://open.spotify.com/artist/2Bvd2g06Kz9rkzXaMNEtNK",
+                "https://open.spotify.com/artist/4OE0FgmZJ7YXhFGNNyFzP6",
+                "https://open.spotify.com/artist/51LkoMpGrtDSAH8JLDwjFG"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1JKtvWIGJb0POMGEvWtQ8V",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:39:50",
+        "track_name": "Armellodie",
+        "artist_name": "Olga Scheps",
+        "release_name": "Melody",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/3GfDVDXAs3sxsnfYJ2MG9z",
+        "listening_from": "spotify",
+        "isrc": "DEE861900554",
+        "additional_info": {
+            "artist_msid": "a57a4e7f-0b7a-43d7-9487-4b71be6bb175",
+            "artist_names": [
+                "Olga Scheps"
+            ],
+            "discnumber": 1,
+            "duration_ms": 280591,
+            "isrc": "DEE861900554",
+            "listening_from": "spotify",
+            "recording_msid": "17e28952-3fa4-45a6-8e56-6b8a52299f36",
+            "release_artist_name": "Olga Scheps",
+            "release_artist_names": [
+                "Olga Scheps"
+            ],
+            "release_msid": "7b3ed414-3d50-4fa3-9f57-8d48b6446be1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3GfDVDXAs3sxsnfYJ2MG9z",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:35:09",
+        "track_name": "Pavane, Op. 50 (Arr. for Cello and Orchestra)",
+        "artist_name": "Gabriel Faur\u00e9, Sol Gabetta, Charles Olivieri-Munroe",
+        "release_name": "Cantabile",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 12,
+        "spotify_id": "https://open.spotify.com/track/2Jj7izAvnOZUHBKCHv3mWk",
+        "listening_from": "spotify",
+        "isrc": "DEE470800288",
+        "additional_info": {
+            "artist_msid": "7f422fff-2fb7-490b-832e-50505e35e558",
+            "artist_names": [
+                "Gabriel Faur\u00e9",
+                "Sol Gabetta",
+                "Charles Olivieri-Munroe"
+            ],
+            "discnumber": 1,
+            "duration_ms": 336986,
+            "isrc": "DEE470800288",
+            "listening_from": "spotify",
+            "recording_msid": "7d78df82-b930-4c37-9134-3d4ec079f777",
+            "release_artist_name": "Sol Gabetta, Charles Olivieri-Munroe",
+            "release_artist_names": [
+                "Sol Gabetta",
+                "Charles Olivieri-Munroe"
+            ],
+            "release_msid": "dfd23b03-84af-4b60-87a4-9de7ccdf07e6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN",
+                "https://open.spotify.com/artist/2TiYnvF79x9EcHOXb2lbhY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1ENGIkTo7mY4QjYX7KT5te",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO",
+                "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN",
+                "https://open.spotify.com/artist/2TiYnvF79x9EcHOXb2lbhY"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2Jj7izAvnOZUHBKCHv3mWk",
+            "tracknumber": 12
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:29:00",
+        "track_name": "5 St\u00fccke im Volkston, Op. 102: II. Langsam",
+        "artist_name": "Robert Schumann, Martin Fr\u00f6st, Royal Stockholm Philharmonic Orchestra",
+        "release_name": "Roots",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/1SkOyiUembPDeyEvFy1p0c",
+        "listening_from": "spotify",
+        "isrc": "USSM11507915",
+        "additional_info": {
+            "artist_msid": "75004a9c-5429-4fd4-a4ac-51e64c8a2c11",
+            "artist_names": [
+                "Robert Schumann",
+                "Martin Fr\u00f6st",
+                "Royal Stockholm Philharmonic Orchestra"
+            ],
+            "discnumber": 1,
+            "duration_ms": 190386,
+            "isrc": "USSM11507915",
+            "listening_from": "spotify",
+            "recording_msid": "16087f0a-6407-4aba-a357-591e9e4e1400",
+            "release_artist_name": "Martin Fr\u00f6st",
+            "release_artist_names": [
+                "Martin Fr\u00f6st"
+            ],
+            "release_msid": "e3c457b9-ff55-4ce8-a871-cc4b71106c86",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2XqomEod8q8RhsSF3kll3P",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ",
+                "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF",
+                "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1SkOyiUembPDeyEvFy1p0c",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:25:50",
+        "track_name": "R\u00eaverie, L. 68",
+        "artist_name": "Claude Debussy, Julian Lloyd Webber, Royal Philharmonic Orchestra, James Judd",
+        "release_name": "Cello Moods",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/0wgqbmYhQyoL2TXGzQEg4k",
+        "listening_from": "spotify",
+        "isrc": "NLA509708204",
+        "additional_info": {
+            "artist_msid": "7d474d23-d8aa-4202-b58e-c869497c516f",
+            "artist_names": [
+                "Claude Debussy",
+                "Julian Lloyd Webber",
+                "Royal Philharmonic Orchestra",
+                "James Judd"
+            ],
+            "discnumber": 1,
+            "duration_ms": 240000,
+            "isrc": "NLA509708204",
+            "listening_from": "spotify",
+            "recording_msid": "407bc7f2-b564-45f5-a867-d2ce5d6ab805",
+            "release_artist_name": "Julian Lloyd Webber, Royal Philharmonic Orchestra, James Judd, Alexander Borodin, Alexander Glazunov, Anonymous, C\u00e9sar Franck, Claude Debussy, Edward Elgar, Fr\u00e9d\u00e9ric Chopin, Giulio Caccini, Johann Sebastian Bach, Josef Rheinberger, Jules Massenet, Luigi Boccherini, Max Bruch",
+            "release_artist_names": [
+                "Julian Lloyd Webber",
+                "Royal Philharmonic Orchestra",
+                "James Judd",
+                "Alexander Borodin",
+                "Alexander Glazunov",
+                "Anonymous",
+                "C\u00e9sar Franck",
+                "Claude Debussy",
+                "Edward Elgar",
+                "Fr\u00e9d\u00e9ric Chopin",
+                "Giulio Caccini",
+                "Johann Sebastian Bach",
+                "Josef Rheinberger",
+                "Jules Massenet",
+                "Luigi Boccherini",
+                "Max Bruch"
+            ],
+            "release_msid": "6e6aeaff-189c-4c42-99ae-f519c3e6c317",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp",
+                "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
+                "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5",
+                "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I",
+                "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u",
+                "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y",
+                "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy",
+                "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+                "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd",
+                "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4",
+                "https://open.spotify.com/artist/3LMilbpKFGjuB4mJllE5Oo",
+                "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+                "https://open.spotify.com/artist/6VqbzLwDT1yDg7ghR4jKyL",
+                "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB",
+                "https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76",
+                "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7i83TEHhrYpSdiemOVqajE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+                "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp",
+                "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
+                "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0wgqbmYhQyoL2TXGzQEg4k",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:09:24",
+        "track_name": "Cavatina",
+        "artist_name": "Stanley Myers, John Williams",
+        "release_name": "Classic Williams -- Romance of the Guitar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN",
+        "listening_from": "spotify",
+        "isrc": "USSM19602692",
+        "additional_info": {
+            "artist_msid": "804c37fe-43dc-42d7-b6d2-47cc6c7226ef",
+            "artist_names": [
+                "Stanley Myers",
+                "John Williams"
+            ],
+            "discnumber": 1,
+            "duration_ms": 188666,
+            "isrc": "USSM19602692",
+            "listening_from": "spotify",
+            "recording_msid": "212beb4e-1739-41ec-9cbb-7b0d3c4f66a1",
+            "release_artist_name": "John Williams",
+            "release_artist_names": [
+                "John Williams"
+            ],
+            "release_msid": "14dfef26-4235-41b9-a644-601112e6c739",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt",
+                "https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY"
+            ],
+            "spotify_id": "https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:06:14",
+        "track_name": "\"Was mir behagt, ist nur die muntre Jagd\" Cantata, BWV 208: 9. Schafe k\u00f6nnen sicher weiden (Arr. For Piano Four Hands by Mary Howe)",
+        "artist_name": "Johann Sebastian Bach, Lucas Jussen, Arthur Jussen",
+        "release_name": "Bach",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw",
+        "listening_from": "spotify",
+        "isrc": "NLK4J1900011",
+        "additional_info": {
+            "artist_msid": "75f188a7-f9e7-4316-a19f-0c5a64def293",
+            "artist_names": [
+                "Johann Sebastian Bach",
+                "Lucas Jussen",
+                "Arthur Jussen"
+            ],
+            "discnumber": 1,
+            "duration_ms": 255266,
+            "isrc": "NLK4J1900011",
+            "listening_from": "spotify",
+            "recording_msid": "6afb9be0-35ba-4094-9877-e29ea6a48dcf",
+            "release_artist_name": "Johann Sebastian Bach, Lucas Jussen, Arthur Jussen, Amsterdam Sinfonietta, Candida Thompson",
+            "release_artist_names": [
+                "Johann Sebastian Bach",
+                "Lucas Jussen",
+                "Arthur Jussen",
+                "Amsterdam Sinfonietta",
+                "Candida Thompson"
+            ],
+            "release_msid": "088a1d59-f2c3-41d9-a468-8aa633cec62c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+                "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI",
+                "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars",
+                "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD",
+                "https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+                "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI",
+                "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T11:01:58",
+        "track_name": "Scarborough Fair (Arr. Parkin)",
+        "artist_name": "Traditional, Sheku Kanneh-Mason, Plinio Fernandes",
+        "release_name": "Elgar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/4wlNPczIullwvmwb4x0ltz",
+        "listening_from": "spotify",
+        "isrc": "GBF071900750",
+        "additional_info": {
+            "artist_msid": "3d80728a-4dbc-4db3-a101-2cd26e9c0ac5",
+            "artist_names": [
+                "Traditional",
+                "Sheku Kanneh-Mason",
+                "Plinio Fernandes"
+            ],
+            "discnumber": 1,
+            "duration_ms": 194533,
+            "isrc": "GBF071900750",
+            "listening_from": "spotify",
+            "recording_msid": "10567798-80f5-41d6-8c05-dbeb1999cee5",
+            "release_artist_name": "Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+            "release_artist_names": [
+                "Sheku Kanneh-Mason",
+                "London Symphony Orchestra",
+                "Sir Simon Rattle"
+            ],
+            "release_msid": "df860fbf-6b1f-46d3-a4f2-64aa7ea9645d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX",
+                "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc",
+                "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf",
+                "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX",
+                "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4wlNPczIullwvmwb4x0ltz",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-02-20T10:58:13",
+        "track_name": "Prelude in G Major",
+        "artist_name": "V\u00edkingur \u00d3lafsson",
+        "release_name": "Bach Reworks (Pt. 2)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl",
+        "listening_from": "spotify",
+        "isrc": "DEN961802090",
+        "additional_info": {
+            "artist_msid": "f5c2e781-1115-49f2-9df8-a89fdb8adfb7",
+            "artist_names": [
+                "V\u00edkingur \u00d3lafsson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 234880,
+            "isrc": "DEN961802090",
+            "listening_from": "spotify",
+            "recording_msid": "e1ec791e-3584-49d7-a43f-e78f32a6f4c4",
+            "release_artist_name": "V\u00edkingur \u00d3lafsson",
+            "release_artist_names": [
+                "V\u00edkingur \u00d3lafsson"
+            ],
+            "release_msid": "b6b559c1-01e2-47cd-9e51-7282bbe9b09e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

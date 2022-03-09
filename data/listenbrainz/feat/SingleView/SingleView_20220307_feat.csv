@@ -1,0 +1,891 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1vurrDqSQA2WWH4QDEBRs9	Greentea Peng	Kali V2	GBUM72102136	43	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.248	0.752	0.0431	0.224	82.207	0.661	0.519
+3ai4sksZCy9hdFOI08RBkw	Greentea Peng	Mataji Freestyle	GBUM72102255	41	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.0607	0.816	0.71	0.0419	119.999	0.525	0.649
+7sIJOikOcPIFKSUEX8t0yc	Greentea Peng	Suffer	GBUM72102254	43	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.218	0.698	7.86e-05	0.332	79.448	0.37	0.441
+7AG7n1uz0NWw7k8QvhJhh3	Greentea Peng	Earnest	GBUM72102253	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.0453	0.626	0.00423	0.0695	139.645	0.378	0.674
+1XKmknaAseOoB7eIL1PjxC	Greentea Peng	Nah It Ain't The Same	GBUM72100357	50	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.359	0.658	0.145	0.209	169.504	0.567	0.769
+19mzaOsqn5aemxoM4yW4jN	Greentea Peng	Be Careful	GBUM72102247	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.241	0.915	0.000678	0.0804	112.495	0.485	0.287
+2fLYfQylAoti3aqxZ4E62L	Greentea Peng,SIMMY,Kid Cruise	Free My People (feat. Simmy & Kid Cruise)	GBUM72102245	49	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.13	0.848	0.633	0.0518	107.99	0.539	0.426
+6S3n2tU4UKLxgFMp4tb56d	Greentea Peng	This Sound	GBUM72102211	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.055	0.737	5.24e-05	0.135	86.931	0.828	0.798
+6V961El0b1aLA0HAFuuab9	Greentea Peng	Make Noise	GBUM72102204	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.127	0.606	6.15e-05	0.0776	136.183	0.249	0.695
+1CSaCKPIp2yCIDL3t7Fyau	Samuel Barber,Sir Simon Rattle,Berliner Philharmoniker	Barber: Adagio for Strings, Op. 11	GBAYC0902894	61	american modern classical,classical,early modern classical	0.974	0.102	0.859	0.0488	73.954	0.0308	0.0733
+2FbUitqkfxFhI4An73HzZW	Franz Schubert,Arcadi Volodos	Minuet in A major, D. 334	USSM11904041	65	classical,classical era,early romantic era	0.994	0.273	0.913	0.0493	91.621	0.174	0.00573
+1Oo7XEqkrwifJn17aA0ocF	Johannes Brahms,Arcadi Volodos	Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major	DEE861700261	67	classical,german romanticism,late romantic era	0.994	0.299	0.901	0.0478	69.043	0.0634	0.00626
+40IvETLq2Y1Su1Z0GWumRF	Camille Saint-Saëns,Gautier Capuçon,Douglas Boyd,Orchestre de chambre de Paris	Saint-Saëns / Transcr. Vidal: Le carnaval des animaux: XIII. Le cygne	GBAYC1702567	59	classical,french romanticism,late romantic era	0.972	0.213	0.926	0.0451	84.819	0.0366	0.0329
+5NGtFXVpXSvwunEIGeviY3	Erik Satie,Philippe Entremont	Gymnopédie No. 1	USSM11509437	73	classical,early avant garde,early modern classical,impressionism,post-romantic era	0.994	0.469	0.937	0.119	72.765	0.354	0.0128
+1n1TxkLPI0xJFcCjhiZcnz	Isobel Waller-Bridge	Illuminations	GBUM72100896	33	soundtrack	0.806	0.166	0.954	0.0427	67.754	0.032	0.0465
+7zHd9LxIZB8WKosSWN9Umj	Arvo Pärt,Angèle Dubeau,La Pietà	Spiegel im spiegel	CALC40600383	57	baltic classical,classical,contemporary classical,minimalism	0.707	0.123	0.00365	0.0373	84.208	0.0711	0.0644
+0S35dcoORW5woopHAmDIxU	Rebecca Dale,Royal Liverpool Philharmonic Orchestra,Clark Rundell	Materna Requiem: 6. Paradisum Interlude	GBBBA1800204	36	british contemporary classical	0.962	0.149	0.959	0.0476	136.875	0.0365	0.0209
+04F2CVACUouSEWkaApQnmf	Alexis Ffrench	Where Worlds Collide	USSM11805289	48	compositional ambient,neo-classical	0.994	0.424	0.921	0.0513	137.966	0.144	0.0523
+31cXSScPQ2Cw4DiXwCQnZq	Howard Skempton,Duncan Honeybourne	Quavers	HKI191812710	35	british contemporary classical,minimalism	0.996	0.488	0.937	0.0892	65.235	0.678	0.0041
+5O3UGMP9XJLbshKKZHsrGN	GÅEL	Mid Air	UKTE81900026	63	ambient worship,neo-classical	0.995	0.524	0.921	0.058	111.895	0.25	0.0338
+1Zv6RyHM08gyC4qvOlCZUL	Lavinia Meijer	Due tramonti	USSM11305827	60	classical harp	0.994	0.299	0.928	0.0603	105.922	0.0975	0.0319
+1UrTS3o13421j7Wq5EKJr0	Zeb Samuels,Julien Marchal	Night Wave - Julien Marchal Remix	GBE281301429	42	indie jazz	0.993	0.288	0.927	0.0519	70.523	0.162	0.00401
+16n7SjYNuffk5NK0Xxyz3b	Dengue Dengue Dengue	Yodeller	DEG932002318	38	electronica peruana,nu-cumbia,peruvian indie	0.00592	0.824	0.868	0.11	90.002	0.271	0.518
+157HG6YWfRczb2oksDZXNZ	Clap! Clap!,Domenico Candellori	Southern Dub	GBTVQ2000004	26	italian electronica	0.0034	0.743	0.862	0.0464	117.993	0.281	0.626
+7s3UwhqRMf5FgkaaKxf7yJ	ÌFÉ	Music for Egun Movement 2	FRIDO2011673	15	latintronica,puerto rican indie	0.033	0.702	0.000241	0.0351	113.004	0.843	0.729
+21RSh9AhPIAeFUXrS2W3iC	Shushupe	Amazónica	PEBQ91725282	32	electronica peruana,latintronica	0.183	0.845	0.919	0.119	107.987	0.15	0.779
+2wIZzr0b6Uoq1nYIXX9iEC	Dengue Dengue Dengue	Cocha	MXD782003917	17	electronica peruana,nu-cumbia,peruvian indie	0.167	0.802	0.36	0.0731	102.979	0.287	0.55
+5NadgnszrdqPQ8ZmXfGc0Q	Frente Cumbiero	Sondiramá	QZ5AB1984825	45	chicha,cumbia,nu-cumbia,tropical alternativo	0.192	0.73	0.912	0.0321	103.037	0.965	0.562
+0unB9lIPZzsLRwSa763hn9	Populous,Barda	Banda	USCCW1610957	20	indie electronica,italian electronica,latintronica,pop electronico,puglia indie	0.42	0.764	0.914	0.0902	94.005	0.221	0.466
+4jo5cSOcxmVHxTtZipMTHT	Dengue Dengue Dengue	Jarana y Tundete	PTEN11900023	34	electronica peruana,nu-cumbia,peruvian indie	0.218	0.874	0.786	0.0809	144.01	0.752	0.793
+3PqLBAKB57uuSxybYngMUI	PEDRO	Calores	PTEN12000002	19	kuduro	0.18	0.838	0.777	0.0468	132.032	0.409	0.704
+3RNBNV6GsdKYYPqgTuazUb	Mercedes Nasta	Paricutín	MX3741501959	46	cdmx indie	0.631	0.811	0.425	0.444	156.018	0.192	0.471
+6Qorl4Tns3GCjcbnwOnD0h	Uji	Jenga	GBGLW1800050	38	latintronica	0.259	0.796	0.836	0.227	160.024	0.413	0.403
+7G5lGcZ5Xl8OT9yIA3erlu	PEDRO,Kelman Duran	Pusha	PTEN12000003	21	kuduro	0.0553	0.794	0.626	0.0509	105.985	0.473	0.559
+1r2s2jTu2ClLhJP3V8W3Zm	PAUZA	Jungle Fever	MX3741900513	47	cuban electronic	0.0129	0.716	0.543	0.0477	120.005	0.19	0.673
+6rIjZa1PFEwGOfpMmKcnlh	Dengue Dengue Dengue	Menestra	MXD782003921	18	electronica peruana,nu-cumbia,peruvian indie	0.0187	0.547	0.604	0.118	129.994	0.114	0.524
+2fJuUSlnA81IXMA4u9coOx	Dengue Dengue Dengue	Barrabass	QZES52047051	26	electronica peruana,nu-cumbia,peruvian indie	0.458	0.792	0.927	0.0511	103.023	0.132	0.621
+4iS3nysui6BO2ljE6Z00yu	Monte	Jungla	QM6P42099331	23	tropical alternativo	0.0136	0.755	0.295	0.0753	120.003	0.391	0.498
+77y6KD405eSiX6rXCH4eWt	Sotomayor	Sin control	USCCW1610944	26	mexican indie,nu-cumbia	0.0478	0.735	0.00447	0.0507	132.997	0.754	0.428
+5x6uHnSxo3txWs2MbGbZRQ	Acid Arab,A-WA	Gul l'Abi	BE6F51601150	44	arab electronic,arab groove	0.00792	0.402	0.00016	0.0356	102.693	0.0374	0.498
+24jQYMpwrraSLf6TfE2K0U	Clap! Clap!,Martha Da'ro	Moving On	GBTVQ2000007	47	italian electronica	0.679	0.636	0.148	0.0608	92.973	0.489	0.458
+5RYXqvFgIJL4vcKQ7Fg7ZD	Bufi	Ópala	GBWUL2041255	21	mexican indie	0.0094	0.802	0.896	0.0408	114.997	0.412	0.907
+6G2BuX0EXw1ABv8Psyq7ks	Thornato,Sotomayor	La Niña Grande	USCCW1611061	32	ethnotronica,latintronica	0.00568	0.861	0.362	0.179	125.025	0.491	0.565
+5Rp8NdAkb7cnZgGjZvM69I	Tremor,Populous	Caracol - Populous Remix	QZ7R42052709	16	deep progressive trance,latintronica,nuevo folklore argentino	0.363	0.773	0.271	0.12	173.987	0.5	0.498
+6oFeHebu9Jv72wfFrC2wRm	Dengue Dengue Dengue	Ágni	PTEN11900017	30	electronica peruana,nu-cumbia,peruvian indie	0.214	0.798	0.917	0.0483	109.999	0.381	0.776
+7kb68Yr9Py4y37uLacJFXC	Quixosis,Ultra K	Las Nalgas de Venus	ES14I2020501	14	latintronica	0.00628	0.562	0.674	0.212	82.058	0.309	0.536
+7h8CexhVFZBOaC3qW1OnG6	Populous,Sotomayor	Soy Lo Que Soy	USCCW1610953	18	indie electronica,italian electronica,latintronica,pop electronico,puglia indie	0.0697	0.761	0.000189	0.132	159.979	0.509	0.641
+4nSVv5flBb0ucHTGgxiFi5	Terror/Cactus	Tambor Del Monte	QZHN81914057	37	tropical alternativo	0.225	0.894	0.864	0.235	90.029	0.468	0.428
+157HG6YWfRczb2oksDZXNZ	Clap! Clap!,Domenico Candellori	Southern Dub	GBTVQ2000004	26	italian electronica	0.0034	0.743	0.862	0.0464	117.993	0.281	0.626
+1QPF9cvYRkG90NJVoT1GDG	Clap! Clap!	Liquid Mantra	GBTVQ2000002	20	italian electronica	0.025	0.747	0.798	0.0623	139.961	0.186	0.655
+6ZJdW1sZg4zATn9EKih013	Ela Minus	el cielo no es de nadie	GBCEL1900763	38	colombian indie,latintronica,pop electronico	0.00178	0.752	0.777	0.0479	128.029	0.419	0.715
+4HJZxDr6ZL2qtYtrTD6V0M	Nihiloxica	Endongo	USA2Z1811874	41	african electronic	0.00396	0.679	0.89	0.0573	120.045	0.583	0.545
+5Q2kmykzh6TUFBBqskiHjK	Frente Cumbiero	Jaley Jaley	USANG2007652	46	chicha,cumbia,nu-cumbia,tropical alternativo	0.0754	0.692	0.0904	0.048	80.136	0.962	0.732
+7GWJkMLeNOllFRIolO1mAY	Clap! Clap!	Mandragora	GBTVQ2000006	26	italian electronica	0.00143	0.797	0.909	0.0578	125.032	0.268	0.743
+6XstqI9U6rM3dBVc70et1R	DNGDNGDNG,Dengue Dengue Dengue	Hiperbórea	DEG932002053	36	electronica peruana	0.00617	0.486	0.524	0.193	180.025	0.53	0.753
+2olLGTNlKi5hPLVulIpvst	Dengue Dengue Dengue,Mikongo,Sara Van	El Cavilante	PTEN11900022	35	electronica peruana,nu-cumbia,peruvian indie	0.0456	0.979	0.247	0.0937	119.984	0.565	0.562
+09uwIAsmoF6s4rXERDsJWS	Dengue Dengue Dengue	Yangol	PTEN12000016	20	electronica peruana,nu-cumbia,peruvian indie	0.00232	0.798	0.912	0.0536	122.114	0.0503	0.71
+5Nayr478jZWLi8eSvU0F4Q	XIII	Breathe	BEFY32100002	8		0.192	0.522	0.496	0.189	58.531	0.357	0.449
+24Uwb9ZsMs7ZL19FHpotEY	Lavinia Meijer	Saman	USSM12106916	47	classical harp	0.995	0.481	0.966	0.0638	100.542	0.125	0.182
+2TQ6uhtI3AJpfo1tJqDsxI	Georges Bizet,Seiji Ozawa,Orchestre National De France	"Bizet: Petite suite from ""Jeux d'enfants"", Op. 22, WD 39: IV. Duo ""Petit mari, petite femme"""	GBAYC8200708	36	classical,french opera,french romanticism,late romantic era	0.945	0.183	0.896	0.0452	117.017	0.0386	0.0288
+1Zv6RyHM08gyC4qvOlCZUL	Lavinia Meijer	Due tramonti	USSM11305827	60	classical harp	0.994	0.299	0.928	0.0603	105.922	0.0975	0.0319
+18VNXlRteVgchjjqaTKZmm	Giacomo Puccini,Renaud Capuçon	"Puccini: Gianni Schicchi, Act 1: ""O mio babbino caro"" (Lauretta)"	GBAYC2101698	49	classical,italian opera,italian romanticism,post-romantic era	0.924	0.294	0.885	0.0378	89.231	0.122	0.17
+69u8lZmSbO9aLBf1nYw9OA	Morten Lauridsen,Anne Akiko Meyers,Kristjan Järvi,Philharmonia Orchestra	O Magnum Mysterium (Arr. for Violin and Orchestra)	GBELX1806839	37	american contemporary classical,choral,contemporary classical	0.97	0.184	0.78	0.0445	86.867	0.0336	0.105
+3QNcGTHxCCLoHWKIake7x4	Dua Lipa	New Love	GBAHT1500500	47	dance pop,pop,uk pop	0.152	0.579	4.01e-06	0.0445	90.354	0.343	0.621
+2lOuvydCaSk8asn1HxBO9r	Dua Lipa	Be the One	GBAHT1500573	56	dance pop,pop,uk pop	0.117	0.661	1.32e-05	0.0499	87.46	0.368	0.651
+7ef4DlsgrMEH11cDZd32M6	Calvin Harris,Dua Lipa	One Kiss (with Dua Lipa)	GBARL1800368	85	dance pop,edm,electro house,house,pop,pop dance,pop rap,progressive house,uk dance	0.037	0.791	2.19e-05	0.11	123.994	0.592	0.862
+2pR4qxDdRpHfQduAg1NDS1	Andrea Carri	Stay with Me - Piano Version	ITD542100429	49	classify	0.99	0.446	0.901	0.0521	86.319	0.0788	0.2
+0tKH2CJjEBh74qXBdh8Xvl	Pianoholic	Bad Habits	ushm92143484	50	piano cover	0.976	0.414	0.906	0.0463	122.945	0.226	0.535
+7Ba0kauYzWtgc9WCO8hv2T	Power-Haus,Axel Tenner,Sebastian Pecznik	Bad Romance - Stripped Mix	GBHGV2100051	43	epicore	0.969	0.359	0.93	0.0407	148.029	0.165	0.402
+0uASyQM62OGfteRsM5bk5s	Brian Wilson	God Only Knows	GBUM72104952	46	baroque pop,brill building pop,sunshine pop	0.993	0.714	0.933	0.0386	99.13	0.144	0.0971
+1RFwVievLaxv9MF2LmUBT5	Power-Haus,Christian Reindl,Lucie Paradis	Barbie Girl	GBHGV2100047	43	epicore	0.781	0.91	0.00743	0.124	140.039	0.712	0.249
+2W2JGTBmzMyP0j4jvaogsQ	Brooklyn Duo,Dover Quartet	In the End	QZJU22100005	49	classify	0.675	0.142	0.875	0.032	96.993	0.0784	0.363
+3QZGwiUYq1X8hJKwY5kxMP	The Piano Guys	Thinking Out Loud	USQX92003974	53	bow pop	0.988	0.38	0.869	0.0326	135.548	0.188	0.145
+3aMagwbjbBUakRbCCt542s	Steve Porcaro,Boyd Meets Girl	Human Nature (Arr. R. Boyd & L. Metcalf for Cello & Guitar)	USKC61721720	47		0.978	0.564	0.88	0.0362	100.482	0.372	0.153
+6fvqtnABaU0svCjVTg7oSk	Queenz of Piano	Smells Like Teen Spirit - Piano Cover	DES382007001	44		0.755	0.543	0.867	0.0308	121.963	0.218	0.611
+5lZKq1z5jpVu7ha6zklvXS	Sean Redmond	Shake It Off (Originally Performed by Taylor Swift)	QZGWW1944231	48		0.953	0.63	0.922	0.0423	136.966	0.095	0.294
+2g2IYIXc0FDGf0HDkEC0rL	Brooklyn Duo	Dancing on My Own	QZES81911086	53	classify	0.959	0.332	0.848	0.0356	113.026	0.14	0.251
+3IoqMnXkCRPWcEGr0C5S9e	The Hampton String Quartet	Sweet Dream are Made of This	USA370506395	47		0.793	0.653	0.871	0.0484	116.327	0.448	0.265
+33lI804DgErb7NSNWwkzxa	Atlys	Perfect	QZFYW2082713	49		0.976	0.143	0.597	0.045	69.726	0.0611	0.0577
+0u8AsjbVra5aT2QNqYUEtu	Music Lab Collective	abcdefu (arr. piano)	GBUM72200471	44	classify	0.995	0.39	0.944	0.0476	78.958	0.17	0.131
+5A51C7Ank2IRW0TmhYkeoK	Vitamin String Quartet	Chandelier	USEWC1489121	52	bow pop	0.526	0.317	0.429	0.0318	173.853	0.311	0.388
+017PF4Q3l4DBUiWoXk4OWT	Dua Lipa	Break My Heart	GBAHT1901303	82	dance pop,pop,uk pop	0.167	0.73	1.39e-06	0.0884	113.011	0.467	0.729
+5776PanLfe9zLJMhDbMBgW	Gerald Finzi,Amy Dickson,Aurora Orchestra,Nicholas Collon	Lo, the full, final sacrifice, Op. 26: Amen - Instrumental	GBF071503830	61	british modern classical,early modern classical	0.949	0.198	0.924	0.0448	111.868	0.0711	0.0899
+6JPzlzHHdqIdmu28qBHdGF	Sergei Rachmaninoff,Benjamin Moser	10 Préludes, Op. 23: No. 10 in G-Flat Major - Live	DEAQ71225208	60	classical,post-romantic era,russian romanticism,ukrainian classical	0.995	0.302	0.84	0.0463	71.056	0.0452	0.00448
+5SFdpYdc4uDqkQqW7UzSqB	Robert de Visée,Thibaut García	De Visée / Transcr. Garcia: Pièces de théorbe et de luth, Suite en la mineur: IV. Sarabande	GBAYC2001975	57	baroque,french baroque	0.995	0.389	0.903	0.0444	135.595	0.294	0.0187
+12KMREUbKErP77HI7Av6Gq	William Grant Still,Fort Smith Symphony,John Jeter	"Symphony No. 1, ""Afro-American"": II. Sorrow (Adagio)"	HKI190438606	57	african-american classical,american modern classical,early modern classical,harlem renaissance	0.753	0.0618	0.69	0.0472	55.481	0.0393	0.00804
+518hKWxnCK1L1fsYRl0OB5	Gabriel Fauré,Sheku Kanneh-Mason,Isata Kanneh-Mason	Après un rêve, Op.7, No.1 (Arr. Cello & Piano)	GBF071700030	62	classical,post-romantic era	0.989	0.186	0.917	0.0456	102.639	0.0463	0.0639
+3Q1jt1WHNwsszyEAJmyaRL	Peter Gregson	Somnia	DEN962100020	55	compositional ambient,modern cello,neo-classical	0.574	0.0761	0.68	0.0444	81.738	0.0381	0.136
+6tmzIxHREnZzKSDMm6CNNS	Francis Poulenc,Daniel Müller-Schott/Robert Kulek	Poulenc: Cello Sonata, FP 143: II. Cavatine	GBAYC0102828	58	classical,neoclassicism	0.988	0.13	0.909	0.0448	77.307	0.0369	0.00924
+1YcABWwgkfrOSw8VMgDWZU	Carlos Cipa	My fellow creatures	GBAYC2002639	60	compositional ambient,neo-classical	0.995	0.321	0.908	0.0362	104.311	0.0693	0.00611
+1NechTDnTtSaciAT6gmvJQ	Clara Schumann,Anneleen Lenaerts,Dionysis Grammenos	Schumann: 12 Gedichte aus Liebesfrühling, Op. 37: No. 11: Warum willst du andre fragen	ATDJ31600009	60	early romantic era,german romanticism	0.995	0.238	0.95	0.0393	70.821	0.0394	0.00484
+43bSKCMWHIuBsUVmQcDX1J	Claude Debussy,Jean-Yves Thibaudet	Rêverie, L. 68: Rêverie	GBF079411430	65	classical,impressionism,post-romantic era	0.994	0.296	0.91	0.0394	69.44	0.0673	0.00896
+6y1FgcqMY76hCk9qLxUuy4	Adolphus Hailstork,Virginia Symphony Orchestra,Joann Falletta	3 Spirituals for Orchestra: No. 2. Kum Bab Yah	HKI191135106	61	african-american classical,american contemporary classical	0.945	0.141	0.601	0.0427	140.372	0.0386	0.00268
+6IihP5ExawBf9ddqN5fO6k	Leo Livens,Duncan Honeybourne	Moonbeams	HKI191812701	56		0.988	0.374	0.908	0.0421	63.895	0.122	0.0368
+0jOnZhF75V68VsBObWx2XO	Camille Saint-Saëns,Yo-Yo Ma,Kathryn Stott	The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)	USQX91500824	71	classical,french romanticism,late romantic era	0.986	0.169	0.86	0.0442	128.143	0.0573	0.0161
+3gCYBFexR8dQZWeu4F15eu	Edvard Grieg,Alice Sara Ott,Bavarian Radio Symphony Orchestra,Esa-Pekka Salonen	Piano Concerto in A minor, Op. 16: II. Adagio - Live	DEN961501842	61	classical,late romantic era,norwegian classical	0.981	0.172	0.902	0.0424	144.414	0.0348	0.014
+6XmozAAnvBf2VtLL53AkX0	Alexis Ffrench	Walk With Us - For Black Lives Matter	USQX92003462	59	compositional ambient,neo-classical	0.995	0.299	0.882	0.0469	168.963	0.235	0.0264
+5TtmI9sfXw4VXco0PE21mV	Frederick Delius,Royal Northern Sinfonia,David Lloyd-Jones	2 Aquarelles: Lento, ma non troppo	HKI190055512	63	classical,early modern classical,impressionism,post-romantic era	0.97	0.176	0.915	0.0406	71.673	0.0332	0.0534
+06vaPTVwFkFxCzmJDXlfx5	Peter Sculthorpe,Elena Riu	A Little Book of Hours: VI. Singing Sun	GBASH0011108	58	australian classical,contemporary classical,early modern classical	0.992	0.346	0.878	0.0537	78.891	0.318	0.00398
+5k4Eagqnz3YKdMLjSSi0DD	Pablo Casals,Harriet Krijgh,Deutsche Staatsphilharmonie Rheinland-Pfalz,Gustavo Gimeno	El cant dels ocells (Song of the Birds) (version for cello and orchestra)	DEB261400659	58	classical cello	0.917	0.16	0.232	0.0517	88.549	0.0305	0.0261
+7BUpmFlSMGK5COcnhVmsvH	Acid Arab,Cem Yıldız	Stil	BE6F51601160	51	arab electronic,arab groove	0.000269	0.806	0.795	0.0397	119.998	0.317	0.78
+5x6uHnSxo3txWs2MbGbZRQ	Acid Arab,A-WA	Gul l'Abi	BE6F51601150	44	arab electronic,arab groove	0.00792	0.402	0.00016	0.0356	102.693	0.0374	0.498
+7qKOiam6Bs1YAzotIB2lN9	Acid Arab,Rizan Said	Le Disco	BE6F51601140	30	arab electronic,arab groove	8.52e-05	0.594	0.898	0.0744	124.998	0.227	0.79
+7swoU0iXOo8m84oclQkmP4	Acid Arab	Medahat	BE6F51601130	29	arab electronic,arab groove	0.00379	0.333	0.65	0.0426	84.994	0.0817	0.527
+6rjcolCXESvf6i9BXZl7UO	Acid Arab,Sofiane Saidi	La Hafla	BE6F51601120	42	arab electronic,arab groove	0.00311	0.656	0.000148	0.0753	104.0	0.694	0.925
+2B6DN44NTCOoSG6SV7TS8N	Acid Arab	Buzq Blues	BE6F51601110	40	arab electronic,arab groove	0.0135	0.66	0.377	0.0461	122.947	0.223	0.714
+1z4wF1YNe3FphOqyD2eRqY	Saâda Bonaire	You Could Be More As You Are	SEYOK1832281	48	arab groove	0.137	0.97	0.011	0.112	110.149	0.964	0.516
+5lvKr1Tlivc0synzzGHjZ3	David Walters	Kryé Mwen	FR4EO1900120	58		0.173	0.937	0.00179	0.111	113.006	0.915	0.574
+2LIAHRIuB1rDc9VhPx70be	Myth Syzer,Ichon	Coco Love	FRX201750270	48	french hip hop,rap calme	0.523	0.728	0.00141	0.233	75.043	0.5	0.549
+52BKUSysf8n4gEY5JOkvtM	Johan Papaconstantino	J'aimerai	TCADQ1860478	46	french indie pop,french indietronica	0.541	0.699	0.114	0.0535	88.996	0.605	0.752
+5RNALwTBXcWvRek9SFDsWM	RIMON	Grace	NLPM11825922	55	alternative r&b,chill r&b,dutch r&b,indie r&b,indie soul	0.211	0.745	0.0	0.141	98.036	0.668	0.521
+4SM3EahTZvM1kBokC0pE07	Greentea Peng	Maya	GBUM72102259	42	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.475	0.594	0.000586	0.0268	83.955	0.207	0.456
+465Yx9rm9mNmzTFlojTIRs	Jean Deaux,Kehlani,ROMderful	Anytime (feat. Kehlani & ROMderful)	USUYG1257170	60	alternative r&b,chill r&b,escape room,high vibe,indie r&b,indie soul	0.34	0.794	0.0	0.312	102.484	0.335	0.428
+2xksvHleMQfe4V7XN5fJH9	Lava La Rue	Widdit	GBKPL1807999	49	alternative r&b,escape room,indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.527	0.802	0.0032	0.365	92.643	0.833	0.389
+4vt4JoGfQ1QaDeHXKxTpUI	Oscar Jerome	Do You Really	TCADR1839310	50	indie jazz,indie r&b,indie soul,neo r&b,uk contemporary jazz	0.296	0.652	0.00205	0.179	173.824	0.868	0.909
+14n6WNRYJDqXhWJKE57zln	JGrrey	For Keeps	QMBZ91943718	56	alternative r&b,indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.0118	0.717	0.000291	0.0773	102.999	0.787	0.749
+4CuNDg0YWkNiSg0DZaAKuV	Children of Zeus	Hard Work	GBMCZ0601169	53	alternative r&b,indie r&b,indie soul,manchester hip hop,uk alternative hip hop	0.159	0.64	0.0171	0.0538	81.007	0.63	0.47
+1ABIJx3A0TRbThaeK4wX84	NAYANA IZ	GROWING PAINS	GBENL2002776	51	uk alternative hip hop	0.175	0.756	1.08e-05	0.35	156.007	0.767	0.457
+6V961El0b1aLA0HAFuuab9	Greentea Peng	Make Noise	GBUM72102204	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.127	0.606	6.15e-05	0.0776	136.183	0.249	0.695
+3U8dhK8wiVtsdmj7jwUJlB	ELIZA,Jesse James Solomon	Lava/Treacle	GBKPL1974671	51	alternative r&b,indie soul,uk contemporary r&b	0.404	0.794	0.512	0.183	155.996	0.675	0.314
+4jueyRHAHwDovQi3Nlce8v	Lava La Rue	G.O.Y.D.	GBX722000268	53	alternative r&b,escape room,indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.732	0.667	0.00027	0.0554	74.998	0.587	0.623
+46UWPzBvk7TW8WDpPUtvbq	Tirzah	Inside Out	GBRTB1200139	48	alternative r&b,art pop,chamber psych,electra,electronica,escape room,experimental pop,indie soul,uk contemporary r&b	0.101	0.813	0.0944	0.0917	175.984	0.702	0.789
+3nBjn3U7kG0bMbZDpTIZEt	The Silhouettes Project,Bel Cobain,Lex Amor,illiterate	At the Bay	DEGC62002350	56	indie r&b,indie soul,uk alternative hip hop	0.841	0.384	0.00616	0.155	73.158	0.0928	0.233
+45QBDwd7BCdqCpxSj4N9tm	Ojerime	Mansur's Interlude	FRX201955623	50	alternative r&b,chill r&b,escape room,indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.966	0.553	0.87	0.0304	118.044	0.0677	0.308
+1qR5M6imIjQEFXTsai8tcR	NAYANA IZ	TNT	GBENL2002702	55	uk alternative hip hop	0.181	0.777	0.0402	0.124	144.071	0.39	0.442
+3RkdLBGzG6PIgf10eZyqzj	Greentea Peng	Sane	GBENL1902537	43	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.624	0.808	0.00768	0.204	101.0	0.675	0.653
+2M7pmbU5ye6I6LV2pVXmw7	Jean Deaux	Recipe!	USUYG1307869	66	alternative r&b,chill r&b,escape room,high vibe,indie r&b,indie soul	0.136	0.86	3.03e-06	0.117	95.023	0.96	0.783
+1bj5ZFpxGFP5ooQcctNVB4	Sampa the Great,Nadeem Din-Gabisi	Energy	FR96X1891076	61	australian hip hop,conscious hip hop,escape room,indie soul,zambian hip hop	0.17	0.493	0.000327	0.297	90.134	0.308	0.569
+4KoYmiDvEfNN4j1ILCxanS	The Silhouettes Project,Summers Sons,Majical,C.Tappin,Slim.	Free Your Mind	DEGC62002354	50	indie r&b,indie soul,uk alternative hip hop	0.75	0.753	4.65e-06	0.225	88.672	0.626	0.429
+2Mf5TqpbjwS5lPAjKBA4yJ	Lava La Rue	Magpie	GBX722000514	51	alternative r&b,escape room,indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.00371	0.55	0.295	0.0357	148.218	0.548	0.781
+0Wlxm2dYSsTWicwsHMuxcf	Liv.e	Lessons From My Mistakes...but I Lost Your Number	GBKPL2097276	51	alternative r&b,escape room,experimental hip hop,indie jazz,indie r&b,indie soul	0.322	0.295	4.16e-06	0.0823	90.918	0.233	0.487
+19mzaOsqn5aemxoM4yW4jN	Greentea Peng	Be Careful	GBUM72102247	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.241	0.915	0.000678	0.0804	112.495	0.485	0.287
+4hNgMLdda6VpNHUKdgmRMU	Yazmin Lacey	Morning Matters	QMFME1983240	60	alternative r&b,indie jazz,indie soul,jazz pop	0.519	0.452	0.0421	0.145	82.01	0.473	0.556
+1XLPk9vj45rK2pbnurZ0Wi	Oscar Jerome,Ben Hauke	No Need - Edit	FRX282120604	60	indie jazz,indie r&b,indie soul,neo r&b,uk contemporary jazz	0.0383	0.883	0.0333	0.0487	117.014	0.558	0.466
+01OOFWYoOjtceR9jCup7yM	Lord Apex,V Don	Life Goes On	FRX282064574	52	uk alternative hip hop	0.332	0.448	0.00283	0.399	170.198	0.5	0.495
+5xZU3pah1nptTzFKDJBkc9	Ojerime	I Know Now (2003)	FR10S1831540	55	alternative r&b,chill r&b,escape room,indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.365	0.737	0.00718	0.0456	131.001	0.77	0.511
+2NHVRc2gml9maFMHRgIC0y	Greentea Peng	Mr. Sun (miss da sun)	GBENL1902524	60	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.516	0.77	0.00432	0.0691	138.406	0.699	0.576
+4z9kiFW5MYJTmtsz1oBGMp	Greentea Peng	Jimtastic Blues	GBUM72102264	42	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.000554	0.787	0.512	0.0479	115.064	0.231	0.727
+0WK5LFvZcHaEhzXWHLFV7a	Greentea Peng	Sinner	GBUM72102263	39	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.274	0.677	0.0303	0.0462	118.068	0.177	0.393
+6cifnAjYxaluHyUxjrMgq8	Greentea Peng	Poor Man Skit	GBUM72102262	38	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.241	0.675	0.432	0.0706	100.041	0.5	0.503
+299xI8NKS2ZFKoHr3cfKQZ	Greentea Peng	Meditation	GBUM72102261	43	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.488	0.785	0.251	0.0365	134.936	0.484	0.484
+28ZcnLt7lO3kLdPaQHUaoI	Greentea Peng	Man Made	GBUM72102260	41	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.444	0.58	0.00317	0.055	72.029	0.146	0.342
+4SM3EahTZvM1kBokC0pE07	Greentea Peng	Maya	GBUM72102259	42	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.475	0.594	0.000586	0.0268	83.955	0.207	0.456
+1rcIb8sfuxcOsCoLqVaQhw	Greentea Peng	Dingaling	GBUM72102258	55	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.444	0.744	6.09e-05	0.216	98.358	0.655	0.614
+0z59xWwxyGVO1hbx3gBlhm	Greentea Peng	Party Hard Interlude	GBUM72102257	39	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.26	0.599	0.0147	0.0375	86.053	0.459	0.569
+6swgmEoFqdyjTSrizsZcH7	Greentea Peng	Satta	GBUM72102256	42	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.189	0.693	6.58e-06	0.287	176.084	0.792	0.691
+5uoSB6gwCcc8b6KFPiPDt9	Maryam Saleh	Nouh Al Hamam	DEQ121422799	47	arab alternative,egyptian alternative	0.00297	0.366	3.58e-06	0.0943	189.986	0.0633	0.413
+0f7iz1qAWSz61BdHTXbzvC	Elias Rahbani	Dance of Maria	FR10S2034480	50	arab groove	0.00829	0.511	0.599	0.0323	99.793	0.479	0.515
+5TrdXMDTgKg6PIzWzb74th	Acid Arab	Amal	FR08Q1500635	23	arab electronic,arab groove	0.00359	0.625	0.86	0.0517	120.008	0.326	0.823
+2hL8heHC7OBiLvnpNSllsH	Ascendant Vierge	Influenceur	GBKQU1972534	57	electro-pop francais	0.0232	0.653	0.0336	0.117	169.95	0.258	0.702
+5WmMxsMBTY2UIBDzUUPhjk	Acid Arab	Sidi Gouja	FR08Q1400524	6	arab electronic,arab groove	0.000264	0.788	0.837	0.0542	117.986	0.195	0.968
+2kptbkLBTTUOiD1HDLCa3H	Orange Blossom	Ya Sîdî	FRX471410002	55	electro dub	0.194	0.327	0.00965	0.0362	184.162	0.039	0.421
+2OtqcaKH0R8ejfaTdt1iO4	The Blaze	Opening	FR2X41884766	45	french indietronica,new french touch,tropical house	0.0253	0.707	0.54	0.0309	129.988	0.159	0.45
+69zQBZWWiWre2N7AneiVBc	Mansfield.TYA	Ni morte ni connue	FRPZ92003920	47	chanson,french indie pop,french indietronica,french rock,french synthpop,nantes indie,nouvelle chanson francaise	0.219	0.75	0.0159	0.0804	109.988	0.0355	0.795
+597X2rGKQA4nOujF7YrAbW	Muddy Monk	Si l'on ride	FR26V1633035	51	french indie pop,french indietronica	0.00117	0.432	0.000268	0.0255	79.95	0.0593	0.512
+3LFrDVeCo589RxTN6z4dW0	Oceanvs Orientalis	Revenge of the Wankers	DEBE71600342	47	ethnotronica,organic electronic,organic house,turkish electronic	0.376	0.759	0.832	0.0365	95.022	0.407	0.565
+3YACsZpsrduxGELh9Xgc9N	Viken Arman	Solar	FR59R1625543	47	ethnotronica,organic electronic,organic house	0.0441	0.729	0.791	0.0565	105.0	0.113	0.537
+5CZbPfrqPdOVnBKmCLiz6N	Acid Arab,Amel Wahby	Nassibi	BE6F51900230	26	arab electronic,arab groove	0.00402	0.604	0.00897	0.119	176.964	0.702	0.811
+16ecd9wx7WRxxYRtmLTKDm	Mansfield.TYA	Petite italie	FRPZ92003970	48	chanson,french indie pop,french indietronica,french rock,french synthpop,nantes indie,nouvelle chanson francaise	0.966	0.809	0.000469	0.0521	94.985	0.533	0.085
+0AV6NavKfgyIe7z8tU4sdy	The Blaze	Interlude	FR10S1769772	54	french indietronica,new french touch,tropical house	0.892	0.343	0.953	0.0427	164.022	0.111	0.0899
+6sTKg3qpFpADIhEMLHTGx9	Thylacine	Home	FRP621403680	53	electronica,french indie pop,french indietronica,new french touch	0.708	0.697	0.871	0.0385	119.991	0.106	0.542
+1goTiiRtaNdwiGOsSIgBA4	DakhaBrakha	Baby	TCABS1493683	53	ukrainian experimental,ukrainian folk,ukrainian indie	0.575	0.376	0.00302	0.0317	130.065	0.407	0.436
+5UJcKDEmroJxzE0ocQFKS7	islandman,Elis Dubaz	Dimitro	DKAZ71917501	50	ethnotronica,organic house,turkish electronic	0.522	0.639	0.386	0.0601	160.003	0.817	0.641
+2CqPy8tyU4fNSi7aOPRGJv	Acid Arab	Sayarat 303	BE6F51601190	28	arab electronic,arab groove	0.000194	0.447	0.936	0.052	184.509	0.0686	0.812
+6rV9DRqXn8sn6TZWWbsJm0	Jacques	Ça se voit	FR9W12134599	41	french indie pop,french indietronica	0.276	0.841	0.594	0.0676	125.973	0.471	0.524
+5iD6nNEwzIjV6UKjx4awaj	Orange Blossom	Habibi	FR9W10400187	43	electro dub	0.0614	0.495	0.0274	0.0332	89.865	0.0815	0.503
+13NJl8CmtD3PZLpsj90coa	The Blaze	Mount	FR2X41884774	44	french indietronica,new french touch,tropical house	0.852	0.514	0.457	0.0371	129.989	0.0624	0.371
+0DEvnRkyPJxfWxXgqXqFcI	Bachar Mar-Khalifé	Ya Nas	FRT091200064	47	arab alternative,arabic jazz,french indietronica	0.349	0.618	0.862	0.0356	94.036	0.59	0.402
+6IWTaTBvbRKHld6gy8Km8q	Acid Arab	Was Was	BE6F51900280	25	arab electronic,arab groove	0.0169	0.742	0.000462	0.12	123.019	0.359	0.744
+5G2pbqhXrpVbGOYoWaz04J	Kutiman,Doctor Flake	Maasai - Doctor Flake Remix	FRS182086934	46	afrobeat,israeli indie	0.0104	0.648	0.932	0.0342	101.994	0.339	0.874
+0yPlsLJNceFwpgEiYMe0tv	Charlotte Adigéry,Bolis Pupul	Blenda	UKS362100075	44	belgian electronic,belgian indie	0.0114	0.76	0.0987	0.0546	124.004	0.812	0.859
+1FLcx0TakO65t4S89j6qBj	You Man,Jérôme Voisin	When We Fall	FR59R1686692	44	electronica,french indietronica,new french touch	0.102	0.698	0.609	0.0604	114.026	0.175	0.464
+0RWDbR1CJD4NKRxSQQyu8s	FEATHERED SUN,Christopher Schwarzwälder,Nu,Raz Ohara	Ocean Tree	FR10S1670484	53	organic electronic,organic house	0.755	0.833	0.875	0.0978	160.065	0.38	0.209
+3dlmjKzqHhpf1nHAxVBdGs	Acid Arab	Mogador - Club Version	FR08Q1500633	23	arab electronic,arab groove	0.000716	0.865	0.942	0.0672	124.991	0.0376	0.66
+114GlHgCx052pssjkeNl0Q	KOMPROMAT,Adele Haenel	De mon âme à ton âme	FRU661920304	50	french indietronica,french synthpop	0.0723	0.437	0.448	0.0551	159.94	0.148	0.644
+2gL3yeSrVcdgYUgebT6TKN	islandman	Sumeru	DKAZ71917510	53	ethnotronica,organic house,turkish electronic	0.849	0.674	0.83	0.0431	93.002	0.573	0.514
+7eSZ01vwRY59uAzGt5V3lP	Oceanvs Orientalis,Ilhan Ersahin	Pire	USA2B2102041	43	ethnotronica,organic electronic,organic house,turkish electronic	0.608	0.795	0.902	0.036	114.996	0.283	0.573
+1qDIUmwpmVv15qekVMTSqa	Muddy Monk	Mylenium	FR53O2000310	51	french indie pop,french indietronica	0.735	0.28	0.000864	0.0377	120.53	0.232	0.624
+3D4uXDlmARC7wraVYnGeOk	Acid Arab,Rachid Taha	Houria	BE6F51601180	25	arab electronic,arab groove	0.000372	0.64	0.581	0.0355	160.051	0.89	0.578
+71T5GNuG8wusIahq7d9QXE	Viken Arman	Walk with Nelson	FR6V82527109	46	ethnotronica,organic electronic,organic house	0.00105	0.793	0.608	0.0492	109.998	0.676	0.701
+08sABdyACgEjOIAJg5aqCw	Arnaud Rebotini	Curiosa	FR7R61900012	47	french indietronica	0.465	0.688	0.525	0.0349	126.993	0.391	0.587
+5smfgFsXaD4F510jOD0wLa	Jacques	La vie de tous les jours	FR9W12129419	49	french indie pop,french indietronica	0.655	0.884	0.00216	0.0634	101.05	0.708	0.392
+5wHuoAin1iirmIvx5skVzA	Orange Blossom	Souffrance	FR9W10400194	47	electro dub	0.0488	0.47	0.758	0.0286	79.186	0.104	0.331
+6wW1IEFS5mRgih3A5KlgIg	Acid Arab,Ammar 808	Rajel	BE6F51900260	33	arab electronic,arab groove	5.57e-05	0.559	0.000698	0.0342	97.012	0.275	0.761
+5KXx0rWkNUyjUTTqZGa6pp	FEATHERED SUN,Nu,Raz Ohara,Jo.Ke,Acid Pauli,Christopher Schwarzwälder,Iannis Ritter	Me and My Entourage	DEPL91408013	45	organic electronic,organic house	0.0208	0.815	0.747	0.164	120.022	0.349	0.445
+4h2lnvRutg9wNGzzZ74ga7	High Tone,Ondubground	The Orientalist - Ondubground Remix	FR92U1800070	46	dub,electro dub,french dub,french reggae	0.00163	0.609	0.905	0.0269	127.997	0.421	0.663
+5QO3UJc1gF1ummP75n2b3R	Altin Gün	Goca Dünya	CHA831792503	58	dutch indie,turkish psych	0.0485	0.738	0.000728	0.0622	97.484	0.802	0.683
+5ogJoH7CMHtyxIsxExxm4B	Vitalic	Haute Definition	FRU662110401	48	alternative dance,electro house,electroclash,electronica,filter house,french indietronica,french techno,new rave	0.000403	0.837	0.649	0.0419	128.341	0.444	0.6
+7afB9uuN1t1UQArknKHaBh	islandman	Night Wind	DKAZ71712504	48	ethnotronica,organic house,turkish electronic	0.805	0.775	0.9	0.072	94.992	0.378	0.33
+47bR2GFCDsLlbX8NYbLx9U	Viken Arman	Close - Your Eyes	FRX201845051	54	ethnotronica,organic electronic,organic house	0.0586	0.809	0.901	0.0781	80.009	0.108	0.27
+0EXSjLL7A8JmwwZoSuOapP	High Tone	Mother Dubber	FR92U9900010	44	dub,electro dub,french dub,french reggae	0.00404	0.586	0.843	0.0497	82.086	0.175	0.638
+1v6wfh5bUCnOttxRUpNST2	You Man	Birdcage	FR6V82026150	57	electronica,french indietronica,new french touch	0.0124	0.669	0.924	0.0452	108.998	0.278	0.709
+5x6uHnSxo3txWs2MbGbZRQ	Acid Arab,A-WA	Gul l'Abi	BE6F51601150	44	arab electronic,arab groove	0.00792	0.402	0.00016	0.0356	102.693	0.0374	0.498
+2BIC788t4sLhFM8MpZIclI	Vitalic	Poison Lips	FRU660912602	59	alternative dance,electro house,electroclash,electronica,filter house,french indietronica,french techno,new rave	0.000322	0.63	0.635	0.0413	126.321	0.468	0.918
+1q1p0bsfEgqXDEWo1kx363	The Blaze	Prelude	FR10S1769770	51	french indietronica,new french touch,tropical house	0.0415	0.352	0.885	0.057	114.846	0.0279	0.381
+0f7iz1qAWSz61BdHTXbzvC	Elias Rahbani	Dance of Maria	FR10S2034480	50	arab groove	0.00829	0.511	0.599	0.0323	99.793	0.479	0.515
+0HqNfreDneEOMUhNuTirwq	Acid Arab	Hafla - Instrumental	FR08Q1500634	25	arab electronic,arab groove	4.54e-05	0.644	0.895	0.0386	104.001	0.487	0.843
+52BKUSysf8n4gEY5JOkvtM	Johan Papaconstantino	J'aimerai	TCADQ1860478	46	french indie pop,french indietronica	0.541	0.699	0.114	0.0535	88.996	0.605	0.752
+70l2FSI4z3iUnP7vDnG1Us	Viken Arman	Cosmos in Blue	FRX201845046	49	ethnotronica,organic electronic,organic house	0.159	0.827	0.789	0.0653	99.99	0.218	0.669
+2dHP9EkRq46gBdMjbgcRLj	FEATHERED SUN,Christopher Schwarzwälder,Nu,Raz Ohara	Miraflores	FR10S1670482	52	organic electronic,organic house	0.837	0.689	0.715	0.0601	154.022	0.139	0.286
+56cqmGid7J5wMyfXJzOEOd	You Man	Who We Are	FR59R1686691	52	electronica,french indietronica,new french touch	0.659	0.659	0.579	0.0391	95.011	0.389	0.766
+5TrdXMDTgKg6PIzWzb74th	Acid Arab	Amal	FR08Q1500635	23	arab electronic,arab groove	0.00359	0.625	0.86	0.0517	120.008	0.326	0.823
+5F8riiI1pCN7abGPmjnUUI	Acid Arab,Jawad El Garrouge	Tamuzica	BE6F51601200	29	arab electronic,arab groove	0.518	0.497	0.338	0.0517	93.44	0.608	0.546
+2CqPy8tyU4fNSi7aOPRGJv	Acid Arab	Sayarat 303	BE6F51601190	28	arab electronic,arab groove	0.000194	0.447	0.936	0.052	184.509	0.0686	0.812
+3D4uXDlmARC7wraVYnGeOk	Acid Arab,Rachid Taha	Houria	BE6F51601180	25	arab electronic,arab groove	0.000372	0.64	0.581	0.0355	160.051	0.89	0.578
+2WfTVYdHjDvFaaVLGN1wEO	Leo Brouwer,Vicente Coves	Cancion de cuna	HKI191001003	48	classical guitar,guitarra clasica,latin classical	0.993	0.315	0.947	0.0422	71.646	0.242	0.00606
+28wNE6V0e5H4CPdY83TgVy	Kurt Weill,Munich Radio Orchestra,Gerd Müller-Lorenz	Kleine Dreigroschenmusik: II. The Ballad of Mack the Knife: Moderato assai	DEB950053907	54	austro-german modernism,classical,early modern classical	0.976	0.352	0.983	0.0344	160.148	0.506	0.0335
+05W1GduItsqueo7fja8e6i	Felix Mendelssohn,Matthias Kirschnereit,Michael Sanderling,Frankfurt Radio Symphony Orchestra	Capriccio brillant, Op. 22: Andante	DES382132006	66	classical,early romantic era,german romanticism	0.991	0.247	0.967	0.0379	91.359	0.0391	0.00505
+7K89U0T12BAWUxh9gXMp4V	Francisco Tárrega,Clara Jansen	Lagrima	SE5W32110204	48	late romantic era	0.993	0.443	0.965	0.0627	67.043	0.167	0.0696
+5rDjdlYDk9rE3PMoMvQXMY	Gustav Holst,English Sinfonia,Howard Griffiths	Brook Green Suite: II. Air	HKI190707802	51	british modern classical,classical,post-romantic era	0.986	0.178	0.908	0.0439	127.406	0.09	0.0963
+7jBaUnodzhFJCMaPRC4cD7	Franz Liszt,Joseph Banowetz	6 Chants polonais, S. 480: No. 2, Frühling (Wiosna, Spring) [After Chopin's Op. 74]	HKI199704302	61	classical,late romantic era	0.994	0.407	0.949	0.0384	95.761	0.162	0.00616
+7uGumfAbZ4lROA6wr0LP5E	Gabriel Fauré,Harriet Krijgh,Kamilla Isanbaeva	Sicilienne, Op. 78	DEB261200058	57	classical,post-romantic era	0.981	0.293	0.945	0.0472	122.828	0.0994	0.0677
+74JmOn8oxrDI6msHDudTlm	Aram Khachaturian,St. Petersburg State Symphony Orchestra,Andre Anichanov	Gayane Suite No. 3: IV. Gayane's Adagio	HKI199261715	54	caucasian classical,classical,early modern classical,russian modern classical	0.979	0.1	0.788	0.0508	73.959	0.037	0.0656
+6cDytuMZ5Z4iMEhK65HiHL	John Field,Benjamin Frith	Nocturne No. 2 in C Minor	HKI199751602	53	early romantic era,irish classical	0.994	0.351	0.943	0.0388	66.921	0.0794	0.00622
+5Q6Yl87BTK0wbGY7XGFZhx	Benjamin Frith,John Field	Nocturne No. 10 In E Minor	HKI199751701	57	british classical piano,classical performance,classical piano	0.991	0.351	0.941	0.0393	64.894	0.125	0.00593
+5TKvSoHEXaCyk2GKM6pC3J	Erik Satie,Orchestre Symphonique et Lyrique de Nancy,Jerome Kaltenbach	Mercure, Scene 1: La nuit	HKI199810808	61	classical,early avant garde,early modern classical,impressionism,post-romantic era	0.932	0.143	0.0318	0.045	139.288	0.0495	0.00194
+72avKXjk0UTESGbVsxmjwG	Franz Liszt,Philip Thomson	Consolations, S172/R12: No. 2. Un poco piu mosso	HKI199704110	57	classical,late romantic era	0.992	0.28	0.795	0.0493	75.931	0.0395	0.0058
+5TGCJDjLkKg05iT1ajUE1w	Ludwig van Beethoven,Ottó Rácz,Jozsef Vajda,Sándor Berki,János Keveházi,Jeno Kevehazi	Wind Quintet in E-Flat Major, Hess 19: II. Adagio maestoso	HKI199215608	61	classical,classical era,early romantic era,german romanticism	0.995	0.15	0.936	0.0432	62.36	0.066	0.0234
+0RPconiPxIzgQy7no9vvil	George Frideric Handel,Felix Klieser,CHAARTS Chamber Artists	Rinaldo, HWV 7a, Act II, Scene 4: Lascia ch'io pianga - Arr. for French Horn	DES382106003	61	baroque,classical,early music,english baroque,german baroque	0.989	0.128	0.374	0.0437	96.923	0.0598	0.0209
+2DXLtZk2lpilXIdtZiJuTD	Felix Mendelssohn,Andreas Ottensamer,Schumann Quartett,Gunars Upatnieks	"Lieder ohne Worte, Op. 19: No. 6 Andante sostenuto ""Venetianisches Gondellied"" (Arr. Ottensamer for Clarinet and Strings)"	DEN962004660	50	classical,early romantic era,german romanticism	0.947	0.323	0.762	0.0437	83.78	0.155	0.0326
+1xbCmCTvzd6nhbTJIg5pFu	Maurice Ravel,Bordeaux Opera Chorus,Bordeaux Aquitaine National Orchestra,Laurent Petitgirard	Daphnis et Chloe: Part III: Lever du jour	HKI190638209	55	classical,early modern classical,impressionism,neoclassicism,post-romantic era	0.925	0.0704	0.911	0.0409	77.027	0.0354	0.179
+5paruQFHDU7C14ag0gjANE	Alessandro Scarlatti,Nora Fischer,Marnix Dorrestein	O Cessate Di Piagarmi (Arr. Voice & Electric Guitar)	NLX1F1800001	49	baroque,classical,early music,italian baroque,italian opera	0.985	0.418	0.00224	0.0362	135.659	0.169	0.0568
+3Gz6xfyvgX59Cxjlbt1pBx	Wolfgang Amadeus Mozart,Quatuor Van Kuijk	Divertimento in F Major, K.138: II. Andante	FR50X1955106	36	classical,classical era	0.897	0.178	0.464	0.041	92.513	0.0746	0.0913
+2GJFu2G9fhaYFrOoX9bejs	Edvard Grieg,Alessio Bax	Lyric Pieces, Book 5, Op. 54: Nocturne	GBLLH1643901	64	classical,late romantic era,norwegian classical	0.987	0.296	0.857	0.0411	72.282	0.0302	0.0435
+4JWVkr5jUjylM3hMG5zvXw	Johann Sebastian Bach,Lucas Jussen,Arthur Jussen	"""Was mir behagt, ist nur die muntre Jagd"" Cantata, BWV 208: 9. Schafe können sicher weiden (Arr. For Piano Four Hands by Mary Howe)"	NLK4J1900011	61	baroque,classical,early music,german baroque	0.995	0.527	0.882	0.0359	111.15	0.187	0.0325
+0wgqbmYhQyoL2TXGzQEg4k	Claude Debussy,Julian Lloyd Webber,Royal Philharmonic Orchestra,James Judd	Rêverie, L. 68	NLA509708204	57	classical,impressionism,post-romantic era	0.988	0.135	0.924	0.0483	63.831	0.0394	0.0428
+1GpeprFhB1MNS1CpyN9Iyx	Chad Lawson	Prelude in D Major	USUG12000363	47	compositional ambient,neo-classical,new age piano	0.933	0.244	0.85	0.0397	74.367	0.0391	0.0526
+6ueTTzezzvpDXTYeusqNoB	Frédéric Chopin,Abbey Simon	Nocturnes, Op. 9	USZDG0601180	51	classical,early romantic era,polish classical	0.979	0.375	0.901	0.0377	126.496	0.0778	0.0134
+2eSVQH8lwcrUBs7dpEj7p7	Claude Debussy,Víkingur Ólafsson	Bruyères - Home Session	DEN962002990	62	classical,impressionism,post-romantic era	0.992	0.3	0.948	0.0449	63.821	0.233	0.0405
+1aMeBqrCnPf1CzRXlKyNFs	Francisco Tárrega,Julian Bream	Lágrima	USBC17000114	54	late romantic era	0.991	0.49	0.923	0.0586	65.339	0.468	0.0211
+0wZMPhztIsuwSjCo6OalWe	Sergei Rachmaninoff,Pablo Ferrandez,Denis Kozhukhin	Zdes' khorosho ('How Fair This Spot'), Op. 21, No. 7	USSM12100321	59	classical,post-romantic era,russian romanticism,ukrainian classical	0.986	0.254	0.935	0.0431	87.033	0.0637	0.0176
+0CKertYAUevycqhVjGuewD	Claude Debussy,Jean-Efflam Bavouzet	Deux Arabesques, L. 66, CD 74: I. Première Arabesque	GBLWD0804107	60	classical,impressionism,post-romantic era	0.99	0.236	0.958	0.0374	68.855	0.0777	0.017
+7cYVvcT0wfBnFE6RDeFRIs	Traditional,Amy Dickson	Aboriginal Lullaby	USSM12004041	53	sleep	0.996	0.278	0.671	0.0476	73.268	0.454	0.00396
+2k2MprlqkmDMKKOOWGREzW	Dario Marianelli,Jean-Yves Thibaudet	"Dawn - From ""Pride & Prejudice"" Soundtrack"	GBEKZ0500051	66	compositional ambient,orchestral soundtrack,soundtrack	0.991	0.332	0.891	0.0388	78.853	0.097	0.0525
+4SXNho7ARXRuvxEIXa4uJ0	Edvard Grieg,Gothenburg Symphony Orchestra,Neeme Järvi	Holberg Suite, Op. 40: II. Sarabande (Andante)	DEF059202142	47	classical,late romantic era,norwegian classical	0.939	0.089	0.744	0.0437	86.249	0.0457	0.0248
+70Lt426paZfOQumap9AN1v	Wolfgang Amadeus Mozart,James Galway,Sir Neville Marriner	Concerto Flute and Orchestra No. 2 in D Major, K. 314: III. Rondeau - Allegro	USBC19607125	35	classical,classical era	0.98	0.436	0.892	0.0492	124.956	0.518	0.0779
+0dfAHJmRg7JtCbitsageQG	George Frideric Handel,Martin Stadtfeld	Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)	DEE861903526	55	baroque,classical,early music,english baroque,german baroque	0.993	0.253	0.916	0.0431	68.211	0.125	0.0272
+7juYY67QIUIsO7xweoyMqq	Edward Elgar,Sol Gabetta,Mario Venzago,Danish National Symphony Orchestra	Salut d'amour, Op. 12	DEE471000027	48	british modern classical,classical,late romantic era,victorian britain	0.969	0.0809	0.857	0.0481	80.479	0.0475	0.107
+13NC44aS3d0EFF58oVQ8T7	Yiruma	River Flows In You	USA371336157	57	korean instrumental,neo-classical,new age piano	0.987	0.32	0.949	0.0498	145.722	0.115	0.242
+2FbUitqkfxFhI4An73HzZW	Franz Schubert,Arcadi Volodos	Minuet in A major, D. 334	USSM11904041	65	classical,classical era,early romantic era	0.994	0.273	0.913	0.0493	91.621	0.174	0.00573
+2fYOyayT80ysO3nxw9lKXn	Wolfgang Amadeus Mozart,Sabine Meyer,Berliner Philharmoniker	Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio	GBAYC9803207	61	classical,classical era	0.976	0.15	0.191	0.0425	101.769	0.0955	0.0115
+3RgMQEnSHXSOun38D84vu7	Agustín Barrios Mangoré,John Williams	Canción de Cuna	USSM19924059	42	classical guitar,guitarra clasica,latin classical,polca paraguaya	0.992	0.389	0.935	0.0424	72.957	0.0946	0.0238
+40jTwi0A7djTFe01Di61Ux	Hajime Mizoguchi	The Girl with the Flaxen Hair	JPZ921313470	52	anime score	0.943	0.106	0.829	0.0481	82.857	0.0467	0.0533
+4wlNPczIullwvmwb4x0ltz	Traditional,Sheku Kanneh-Mason,Plinio Fernandes	Scarborough Fair (Arr. Parkin)	GBF071900750	60	sleep	0.976	0.311	0.897	0.04	116.816	0.251	0.0253
+2Jj7izAvnOZUHBKCHv3mWk	Gabriel Fauré,Sol Gabetta,Charles Olivieri-Munroe	Pavane, Op. 50 (Arr. for Cello and Orchestra)	DEE470800288	46	classical,post-romantic era	0.961	0.18	0.894	0.0387	77.044	0.0846	0.0272
+4vi9pBR7yJhBzGaNu0k1gj	Robert Schumann,Vladimir Horowitz	Kinderszenen, Op. 15: No. 1, Von fremden Ländern und Menschen	USSM10007623	58	classical,early romantic era,german romanticism	0.996	0.374	0.912	0.0533	69.813	0.386	0.00526
+05W1GduItsqueo7fja8e6i	Felix Mendelssohn,Matthias Kirschnereit,Michael Sanderling,Frankfurt Radio Symphony Orchestra	Capriccio brillant, Op. 22: Andante	DES382132006	66	classical,early romantic era,german romanticism	0.991	0.247	0.967	0.0379	91.359	0.0391	0.00505
+3GfDVDXAs3sxsnfYJ2MG9z	Olga Scheps	Armellodie	DEE861900554	55	classical piano,german classical piano	0.989	0.451	0.937	0.0558	72.033	0.0614	0.00616
+1JKtvWIGJb0POMGEvWtQ8V	Johann Pachelbel,Daniel Hope,Lorenza Borrani,Lucy Gould,Jonathan Cohen,Kristian Bezuidenhout,Stefan Maass,Stefan Rath	Canon and Gigue in D Major, P 37: I. Canon	DEN960901061	53	baroque,classical,german baroque	0.851	0.216	9.44e-05	0.0523	64.079	0.37	0.0797
+1SkOyiUembPDeyEvFy1p0c	Robert Schumann,Martin Fröst,Royal Stockholm Philharmonic Orchestra	5 Stücke im Volkston, Op. 102: II. Langsam	USSM11507915	57	classical,early romantic era,german romanticism	0.982	0.0701	0.911	0.0519	61.649	0.0622	0.0243
+3jUGfTl7C4fWfImfKMbUoR	Eric Whitacre,Isata Kanneh-Mason,Jeneba Kanneh-Mason,Braimah Kanneh-Mason,Konya Kanneh-Mason,Aminata Kanneh-Mason,Sheku Kanneh-Mason,Mariatu Kanneh-Mason	The Seal Lullaby (Arr. Parkin)	GBBBC2000229	51	21st century classical,american 21st century classical,choral,contemporary choir	0.988	0.149	0.679	0.046	80.529	0.105	0.0452
+67HF6y5o1UhIFUGIOPzUK5	Oswald Russell,William Chapman Nyaho	Three Jamaican Dances: No. 2	USBZ91200384	54		0.989	0.458	0.879	0.0453	117.004	0.219	0.0183
+4h4py9AzEuUGBTJZO4ifnm	John Field,Elizabeth Joy Roe	Nocturne No. 1 in E Flat Major, H.24	GBF071504650	60	early romantic era,irish classical	0.993	0.321	0.919	0.037	74.69	0.0632	0.0272
+4w79DfwX6shfzRm4SSYfT2	Antonín Dvořák,Christophe Sirodeau,Anna Zassimova	From the Bohemian Forest, Op. 68, B. 133: V. Silent Woods (Lento e molto cantabile)	FR9W12034976	43	classical,czech classical,late romantic era	0.992	0.356	0.913	0.0373	99.083	0.0391	0.0194
+1L4NadMj3Jj7YgGaikyhfr	Franz Liszt,Daniel Barenboim	6 Consolations, S. 172: No. 3 in D-Flat Major (Lento, placido)	DEF057900552	66	classical,late romantic era	0.993	0.368	0.922	0.035	69.363	0.085	0.00363
+28W5lTZMClVz9fLt6iiaJN	Stanley Myers,John Williams	Cavatina	USSM19602692	56		0.973	0.292	0.901	0.042	94.82	0.23	0.0332
+1h3wmPM8L2ChzECp9iATFT	Johann Sebastian Bach,Augustin Hadelich	Bach, JS: Violin Sonata No. 2 in A Minor, BWV 1003: III. Andante	GBAYC2003483	34	baroque,classical,early music,german baroque	0.994	0.188	0.0013	0.0675	71.42	0.249	0.0164
+5OLv8P0JSaXFB95rw5saRv	Ólafur Arnalds,Lavinia Meijer	Tomorrow's Song	USSM11607334	55	bow pop,compositional ambient,icelandic classical,neo-classical,neoclassical darkwave	0.983	0.438	0.936	0.0725	133.299	0.173	0.0127
+5nFCdayR5pAEVvQw7ZAIuQ	Johann Sebastian Bach,Martin Stadtfeld	"Siciliano (After ""Erbarme dich"" from Matthäus-Passion, BWV 244, No. 39)"	DEE862002968	58	baroque,classical,early music,german baroque	0.994	0.296	0.879	0.0405	79.031	0.354	0.0644
+70FROKEHubzMxSstCgaZZl	Víkingur Ólafsson	Prelude in G Major	DEN961802090	64	classical piano,nordic classical piano	0.995	0.314	0.938	0.0469	102.328	0.238	0.0249
+5bu9A6uphPWg39RC3ZKeku	Johann Sebastian Bach,Glenn Gould	Goldberg Variations, BWV 988: Aria	USSM11409807	68	baroque,classical,early music,german baroque	0.995	0.454	0.943	0.0514	130.253	0.244	0.0139
+318jLr9oY0UrxYqyUHCfBA	Jean-Philippe Rameau,Víkingur Ólafsson	The Arts and the Hours	DEN961903320	60	baroque,classical,early music,french baroque,french opera	0.995	0.415	0.938	0.0496	136.191	0.268	0.026
+7oa8fs3MOtXAFRHpGpu6BG	Colapesce,Dimartino	Cicale	IT3GN2000028	26	indie siciliano,italian alternative,italian indie pop	0.159	0.652	2.32e-06	0.0313	95.974	0.625	0.769
+0dTodnITUuZkY5gIajpYAY	Colapesce,Dimartino,Carmen Consoli	Luna Araba	IT3GN2000027	27	indie siciliano,italian alternative,italian indie pop	0.312	0.722	0.0	0.0369	123.965	0.86	0.818
+5cdAnHpUkUSaOk20SgzLZ8	Colapesce,Dimartino	Rosa e Olindo	IT3GN2000026	28	indie siciliano,italian alternative,italian indie pop	0.0236	0.232	0.0	0.046	78.438	0.441	0.852
+4LAWJfQbfeMrlX0ShqhC2a	Colapesce,Dimartino	Musica leggerissima	IT3GN2100008	69	indie siciliano,italian alternative,italian indie pop	0.012	0.676	0.0	0.0265	119.98	0.674	0.792
+65MK18S2ubwHsEg0sJ3kMi	Klangkuenstler	Dunkle Illusion	DESR41800303	41	dark techno,deep euro house,hard techno,raw techno	0.0127	0.644	0.905	0.0814	130.986	0.0793	0.982
+19jVovrS1mj0MQ5a3Fpg8C	AIROD	Universe of 90's Techno Parties	TCAEC1961257	46	french techno,raw techno	7.76e-05	0.557	0.762	0.0447	145.995	0.524	0.971
+027549yWqZS7y50vkB787P	A*S*Y*S,Kai Tracid,Tom Wax	Freedom of Expression - Dark Acid Mix	DEOI52000005	50	dark techno,raw techno	0.0196	0.7	0.844	0.0539	132.019	0.0523	0.917
+53cLYZSnsw7BeJybRHPlox	Reinier Zonneveld	Move Your Body To The Beat	GBKQU1899334	61	dark techno	0.203	0.866	0.527	0.203	133.004	0.543	0.828
+4lokwaruKSA4UVymx6JqXc	Niki Istrefi	Red Armor	UK6821735114	54	danish techno,industrial techno	0.0243	0.829	0.741	0.256	140.02	0.429	0.722
+5t0ofvbIgDJVioMnn8w3N5	Amelie Lens	Man Over Machine	BEN581900555	34	acid techno,belgian techno,dark techno,electra,minimal techno	0.152	0.695	0.938	0.0536	132.006	0.327	0.809
+6o88Tmy6Mh1tFs9mqh7GA1	ROBPM	Checkmate	ITB841900671	38	dark techno,italian techno	0.0151	0.826	0.0124	0.0864	129.989	0.201	0.698
+5EEhXlG2oUjNEycxDEsdk0	Boris Brejcha	Redemption	USUS11900412	53	german house,german techno,high-tech minimal,minimal techno,tech house	0.0133	0.809	0.908	0.0648	125.008	0.383	0.691
+0s3wIBczp6TdSJ2y8cveJl	Pan-Pot,Anfisa Letyago	Confronted - Anfisa Letyago Stranger Remix	DESR41900316	36	german techno,minimal techno,raw techno,tech house	0.0484	0.675	0.719	0.0639	128.99	0.0374	0.543
+1wQ9VD16mfP179TkACRB65	Mark Blair	I Miss The Old Kanye	CAENV1825277	50	uk house	0.132	0.797	0.881	0.112	124.981	0.457	0.846
+74okweM3DnAFy3N8eaq5vx	Schwefelgelb	Durch Die Haare Die Stirn	DEZ651702745	40	experimental techno	0.0716	0.755	0.905	0.0758	126.998	0.566	0.973
+2uQWi34NKPHpka4ldYrki4	Amelie Lens	Higher	BEN582000654	41	acid techno,belgian techno,dark techno,electra,minimal techno	0.00044	0.659	0.858	0.0444	136.028	0.0391	0.514
+4PSRQAOWsffJn6TiDT0hRd	ANNA	Dimensions	GBUR61900160	50	brazilian techno,dark techno,electra,minimal techno,tech house	0.00136	0.658	0.898	0.0549	129.992	0.039	0.97
+1eV81a6H4xDdpi8r2C4tQT	Boris Brejcha,Laura Korinth	Gravity	USUS11900298	66	german house,german techno,high-tech minimal,minimal techno,tech house	0.00149	0.783	0.769	0.0691	125.023	0.0734	0.616
+46ysV2R0UyqObMmY0IgGHc	FJAAK	Don't Leave Me	DEOE81420109	48	raw techno	0.000291	0.651	0.846	0.0519	127.991	0.295	0.761
+1hHXPeMxBtBfJnSyfLehgW	Ellen Allien	True Romantics	DEAE62000026	25	electra,electroclash,electronica,german techno,microhouse,minimal techno,tech house	0.0201	0.623	0.684	0.0271	134.007	0.377	0.536
+0ZrXNuryJ6FYjww6jU6RUm	Dusty Kid	Kollera	GBLV61900592	46	minimal techno,tech house	0.0111	0.699	0.928	0.0546	128.011	0.322	0.593
+16AWPFcIfmbrYvl4hjOVHD	Amelie Lens,Farrago	Purge	NLCK41042015	45	acid techno,belgian techno,dark techno,electra,minimal techno	0.16	0.744	0.888	0.0466	125.996	0.0694	0.593
+6X6Ow0iioCrYQSK1QDHQbC	Age Of Love,Charlotte de Witte,Enrico Sangiuliano	The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix	BEN582100445	68	bubble trance	0.0576	0.748	0.89	0.0505	130.0	0.0617	0.909
+2XfKN3awCwtV7r1DMKbT5E	Rosa Anschütz,Hior Chronik	Diopter (Hior Remix)	QM4TX2023769	44	austrian techno	0.25	0.676	0.917	0.0435	122.001	0.0399	0.725
+4UjxYMM2290d7KlCKVSOuQ	ANNA,Miss Kittin	Forever Ravers - Radio Edit	DEU671900150	45	brazilian techno,dark techno,electra,minimal techno,tech house	0.00629	0.507	0.627	0.0561	129.013	0.225	0.92
+2zDCZ8jY4kjuUZbVROHaZj	Adam Beyer,Bart Skils	Your Mind - Radio Edit	GBUR61700268	56	dark techno,minimal techno,raw techno,schranz,swedish electronic,swedish techno,techno	0.00262	0.66	0.165	0.0565	126.032	0.111	0.857
+4W6CgJobQgL9ZHGHOIVp9Q	ROBPM,MOTVS	Starkiller	ITB842000287	56	dark techno,italian techno	0.000293	0.813	0.762	0.129	130.0	0.174	0.812
+5UsfWcP6SThHlZ4oAgx7ge	Amelie Lens	Follow	DESR41700154	53	acid techno,belgian techno,dark techno,electra,minimal techno	0.0375	0.725	0.822	0.0345	128.006	0.134	0.908
+40zFqIRLUYUXTTcLtWj5BM	Dusty Kid	Kore	ITK770700008	48	minimal techno,tech house	0.0148	0.802	0.875	0.0831	127.001	0.0614	0.457
+3BfLcQOyP6ovmQFTYfhIx4	Oliver Huntemann	Nordpol	DEL021902029	47	dark techno,german techno,hamburg electronic,high-tech minimal,minimal techno,tech house	0.00724	0.778	0.895	0.0413	126.008	0.0275	0.864
+5UtKxxlSjyGoY1bODWBv05	Layton Giordani	New Generation	GBUR62000113	53	dark techno,minimal techno,tech house	0.00138	0.761	0.685	0.0415	130.005	0.0896	0.898
+6dEgGWYfEhcoHhR5zfeNN3	ANNA	Galactic Highways	GBUR61900159	42	brazilian techno,dark techno,electra,minimal techno,tech house	1.93e-05	0.673	0.783	0.0455	129.989	0.0369	0.935
+2LPwQCwT2o06dx2P1qDizN	Amelie Lens,Joyhauser	Hypnotized - Joyhauser Remix	DESR41800289	48	acid techno,belgian techno,dark techno,electra,minimal techno	0.00344	0.635	0.869	0.0447	131.001	0.208	0.859
+5wHuoAin1iirmIvx5skVzA	Orange Blossom	Souffrance	FR9W10400194	47	electro dub	0.0488	0.47	0.758	0.0286	79.186	0.104	0.331
+1v6wfh5bUCnOttxRUpNST2	You Man	Birdcage	FR6V82026150	57	electronica,french indietronica,new french touch	0.0124	0.669	0.924	0.0452	108.998	0.278	0.709
+2GJFu2G9fhaYFrOoX9bejs	Edvard Grieg,Alessio Bax	Lyric Pieces, Book 5, Op. 54: Nocturne	GBLLH1643901	64	classical,late romantic era,norwegian classical	0.987	0.296	0.857	0.0411	72.282	0.0302	0.0435
+0wZMPhztIsuwSjCo6OalWe	Sergei Rachmaninoff,Pablo Ferrandez,Denis Kozhukhin	Zdes' khorosho ('How Fair This Spot'), Op. 21, No. 7	USSM12100321	59	classical,post-romantic era,russian romanticism,ukrainian classical	0.986	0.254	0.935	0.0431	87.033	0.0637	0.0176
+2FbUitqkfxFhI4An73HzZW	Franz Schubert,Arcadi Volodos	Minuet in A major, D. 334	USSM11904041	65	classical,classical era,early romantic era	0.994	0.273	0.913	0.0493	91.621	0.174	0.00573
+0dfAHJmRg7JtCbitsageQG	George Frideric Handel,Martin Stadtfeld	Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)	DEE861903526	55	baroque,classical,early music,english baroque,german baroque	0.993	0.253	0.916	0.0431	68.211	0.125	0.0272
+1JKtvWIGJb0POMGEvWtQ8V	Johann Pachelbel,Daniel Hope,Lorenza Borrani,Lucy Gould,Jonathan Cohen,Kristian Bezuidenhout,Stefan Maass,Stefan Rath	Canon and Gigue in D Major, P 37: I. Canon	DEN960901061	53	baroque,classical,german baroque	0.851	0.216	9.44e-05	0.0523	64.079	0.37	0.0797
+3GfDVDXAs3sxsnfYJ2MG9z	Olga Scheps	Armellodie	DEE861900554	55	classical piano,german classical piano	0.989	0.451	0.937	0.0558	72.033	0.0614	0.00616
+2Jj7izAvnOZUHBKCHv3mWk	Gabriel Fauré,Sol Gabetta,Charles Olivieri-Munroe	Pavane, Op. 50 (Arr. for Cello and Orchestra)	DEE470800288	46	classical,post-romantic era	0.961	0.18	0.894	0.0387	77.044	0.0846	0.0272
+1SkOyiUembPDeyEvFy1p0c	Robert Schumann,Martin Fröst,Royal Stockholm Philharmonic Orchestra	5 Stücke im Volkston, Op. 102: II. Langsam	USSM11507915	57	classical,early romantic era,german romanticism	0.982	0.0701	0.911	0.0519	61.649	0.0622	0.0243
+0wgqbmYhQyoL2TXGzQEg4k	Claude Debussy,Julian Lloyd Webber,Royal Philharmonic Orchestra,James Judd	Rêverie, L. 68	NLA509708204	57	classical,impressionism,post-romantic era	0.988	0.135	0.924	0.0483	63.831	0.0394	0.0428
+28W5lTZMClVz9fLt6iiaJN	Stanley Myers,John Williams	Cavatina	USSM19602692	56		0.973	0.292	0.901	0.042	94.82	0.23	0.0332
+4JWVkr5jUjylM3hMG5zvXw	Johann Sebastian Bach,Lucas Jussen,Arthur Jussen	"""Was mir behagt, ist nur die muntre Jagd"" Cantata, BWV 208: 9. Schafe können sicher weiden (Arr. For Piano Four Hands by Mary Howe)"	NLK4J1900011	61	baroque,classical,early music,german baroque	0.995	0.527	0.882	0.0359	111.15	0.187	0.0325
+4wlNPczIullwvmwb4x0ltz	Traditional,Sheku Kanneh-Mason,Plinio Fernandes	Scarborough Fair (Arr. Parkin)	GBF071900750	60	sleep	0.976	0.311	0.897	0.04	116.816	0.251	0.0253
+70FROKEHubzMxSstCgaZZl	Víkingur Ólafsson	Prelude in G Major	DEN961802090	64	classical piano,nordic classical piano	0.995	0.314	0.938	0.0469	102.328	0.238	0.0249
+2fYOyayT80ysO3nxw9lKXn	Wolfgang Amadeus Mozart,Sabine Meyer,Berliner Philharmoniker	Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio	GBAYC9803207	61	classical,classical era	0.976	0.15	0.191	0.0425	101.769	0.0955	0.0115
+5bu9A6uphPWg39RC3ZKeku	Johann Sebastian Bach,Glenn Gould	Goldberg Variations, BWV 988: Aria	USSM11409807	68	baroque,classical,early music,german baroque	0.995	0.454	0.943	0.0514	130.253	0.244	0.0139
+318jLr9oY0UrxYqyUHCfBA	Jean-Philippe Rameau,Víkingur Ólafsson	The Arts and the Hours	DEN961903320	60	baroque,classical,early music,french baroque,french opera	0.995	0.415	0.938	0.0496	136.191	0.268	0.026
+4Wa0Yg5k44cz56rdmYgBj2	Annelie	Amos	NLF9E2000008	36	neo-classical	0.982	0.372	0.894	0.0378	136.524	0.212	0.0388
+2mZHhnW9724S7JUHqT0V1N	Alexander Borodin,Ken-Ichiro Kobayashi,The Arnhem Philharmonic Orchestra	ダッタン人の踊り (歌劇 イーゴリ公より) 2 娘たちの流麗な踊り	JPG200811110	53	classical,late romantic era,russian romanticism	0.985	0.19	0.814	0.0341	80.357	0.107	0.0387
+7wEql4SrP9nL5U4zxmcrVM	Johann Sebastian Bach,Leon Fleisher	Sheep May Safely Graze	USAT50426104	61	baroque,classical,early music,german baroque	0.995	0.494	0.922	0.0426	98.224	0.118	0.016
+3sAYxq1986j3ydqLv6jwUJ	Antonín Dvořák,Prague Chamber Orchestra,Petr Skvor	Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse	CZA167702329	63	classical,czech classical,late romantic era	0.755	0.0	0.889	0.0	0.0	0.0	0.0842
+4TZ7WF0j6ttJuLUkOdeFUz	Johann Pachelbel,The All Star Percussion Ensemble,Harold Farberman	Canon & Gigue in D Major, P. 37: Canon (Arr. H. Farberman for Percussion Ensemble)	USZGD1610015	45	baroque,classical,german baroque	0.625	0.59	0.00881	0.0494	135.084	0.132	0.0676
+1jrCgWRvMGiDYUKgXs99Q4	Robert Schumann,Vladimir Feltsman	Album for the Young, Op. 68: 6. Armes Waisenkind	GBAJU1500436	43	classical,early romantic era,german romanticism	0.995	0.647	0.895	0.125	65.227	0.44	0.0167
+3Y2hAo4gsZ2oknPnJcYx67	Arvo Pärt,Peter Minkler,Lura Johnson	Spiegel im Spiegel	US8271010126	44	baltic classical,classical,contemporary classical,minimalism	0.948	0.121	2.1e-05	0.0338	170.714	0.0591	0.00579
+3G0fj7kWVJZyfdxrfKz2cf	Julian Bream	Prelude in D Minor, BWV 999	USBC16500313	24	classical guitar	0.976	0.372	0.87	0.0437	87.602	0.557	0.216
+0d71p8tQDxLgdTkEHcxQyl	Gabriel Fauré,Alan Feinberg	Après un rêve, Op. 7, No. 1 (Arr. Piano)	GBF079141402	56	classical,post-romantic era	0.995	0.411	0.88	0.0406	97.841	0.0379	0.0155
+3Q1jt1WHNwsszyEAJmyaRL	Peter Gregson	Somnia	DEN962100020	55	compositional ambient,modern cello,neo-classical	0.574	0.0761	0.68	0.0444	81.738	0.0381	0.136
+3Rw0Rg4LjlYnuxIyioW3vg	Joseph Boulogne Chevalier de Saint-Georges,Zhou Qian,Toronto Chamber Orchestra,Kevin Mallon	Violin Concerto No. 10 in G Major: Largo	HKI190330305	60	classical era	0.928	0.212	0.639	0.0525	185.678	0.152	0.0517
+19LnUKbcwoy6pHm0PshRwT	Francisco Tárrega,Pablo Garibay	Capricho arabe	HKI191123603	47	late romantic era	0.992	0.384	0.926	0.0593	101.876	0.179	0.0312
+59ym7R7UFzykwU2QBPsDWi	Hélène Grimaud,Nitin Sawhney	Gnossienne No. 1 - Nitin Sawhney Version	DEN961800380	44	classical performance,classical piano,french classical piano	0.994	0.325	0.942	0.0421	136.116	0.0434	0.00984
+6FeLwmGzZvjZFtlN90r9CB	Leoš Janáček,Olena Kushpler	On an overgrown path, Book I: No. 7, Good Night!	DEAQ72108411	51	czech classical,early modern classical,post-romantic era	0.995	0.251	0.837	0.057	63.607	0.0648	0.00553
+6MWSAVqs6UJFUgDDOpy2LY	Agustín Barrios Mangoré	Romanza en Imitación al Violoncello	CAAGN1695501	39	classical guitar,guitarra clasica,latin classical,polca paraguaya	0.995	0.339	0.924	0.0448	125.233	0.678	0.0818
+55d0Yz7h9Xry77TSTbLGNu	Robert Westaway	Bouree in E Minor - J.S. Bach	USA560551126	35	classical guitar	0.994	0.629	0.933	0.0814	117.038	0.706	0.255
+3NbAsIxDL0fVgNuCLD152P	Gabriel Fauré,Katia Labèque,Marielle Labèque	Dolly, Op. 56: 1. Berceuse	NLA508692113	67	classical,post-romantic era	0.995	0.37	0.91	0.0384	62.668	0.278	0.0076
+67qRrTvylh2L7NsPrtMNDc	Jacques Offenbach,Nemanja Radulović,Camille Thomas,Double Sens	Les Contes d'Hoffmann / Act III: Barcarolle (Arr. for Violin, Cello, Piano and String Ensemble by Aleksandar Sedlar)	DEN961700610	46	classical,french opera,french romanticism,german romanticism,late romantic era,operetta	0.97	0.0923	0.81	0.0404	72.705	0.0621	0.0318
+2GjLFzB8GQBjk8uBVkgGAD	Antonio Lauro,Adam Holzman	Maria Carolina	HKI199843602	41	classical guitar,latin classical	0.988	0.287	0.876	0.0385	90.623	0.516	0.0692
+0p8gAcPkDYgzcZZwAou12B	Umitaro Abe	Scene I, Kyoto	JPZ921612255	45	japanese piano	0.756	0.199	0.7	0.0373	168.644	0.214	0.138
+5wfOAgbsF3CaWNi3urW67f	Renaud Garcia-Fons,Claire Antonini	Sylvains d'orient	FR68U1810010	51	arab folk,arabic jazz,contemporary jazz,french jazz	0.785	0.719	0.773	0.031	136.965	0.538	0.481
+4IDoLojf0Dlo8YZSApX0ps	Enrique Granados,Xavier De Maistre	Valses Poéticos H. 147, DLR 7:8: No. 1: Melódico	USBC10901077	44	early modern classical,post-romantic era	0.98	0.364	0.883	0.0591	148.709	0.149	0.0168
+5HDNrfDZXJpCLSKxB4npUB	Henry Purcell,Leopold Stokowski,Bournemouth Symphony Orchestra,José Serebrier	"Dido and Aeneas, Z. 626: When I am laid in earth, ""Dido's Lament"" (arr. L. Stokowski)"	HKI190554611	53	baroque,classical,early music,english baroque	0.92	0.0667	0.939	0.0464	73.283	0.0311	0.0287
+2LLzfpBmO40TwqM2CwytQF	Erik Satie,Giacomo Scinardo	Je te veux	ITN321817234	61	classical,early avant garde,early modern classical,impressionism,post-romantic era	0.995	0.461	0.907	0.0427	112.242	0.221	0.126
+3EOe8RpDNfj409l0Z4zymR	Alexandre Lagoya,Orchestre De La Camerata De France,Daniel Tosi	Variations sur “Jeux interdits”	FRZ039100400	37	classical guitar	0.932	0.338	0.885	0.0339	123.385	0.248	0.125
+5GeLatpepLly0qTAqP5VHm	Jean Rondeau,Laurent Muller,Alice Bourlier,Maria Mosconi,Tanguy de Williencourt	Rondeau: Paula	GBPFW1700009	48	classical performance,harpsichord	0.994	0.286	0.927	0.0392	120.107	0.0375	0.0374
+0SDMaCXNxznlIm6V2NLgCa	Percy Grainger,Andreas Brantelid,Christian Ihle Hadland	La Scandinavie: III. Polska norvégien	SEAEW1420090	42	australian classical,classical,early modern classical	0.989	0.304	0.921	0.0425	126.77	0.1	0.0589
+4fuooklXL2pC6IlhphGeyy	Leonard Bernstein,Warren Lee	5 Anniversaries: No. 5. For Susanna Kyle	HKI191533509	56	american modern classical,classical,classical performance,orchestral performance	0.995	0.419	0.95	0.0699	111.16	0.582	0.00173
+1gB7qtssuV9OCnlUnqhoYh	Pérotin,Tonus Peregrinus,Antony Pitts	Beata viscera (monophonic conductus)	HKI190433601	47	classical,early music,medieval	0.993	0.263	0.123	0.0438	103.947	0.0349	0.0733
+2WuYYACpbXgn41VaPN3IYs	George Frideric Handel,Leopold Stokowski,Bournemouth Symphony Orchestra,José Serebrier	"Messiah, HWV 56, Part I: Pastoral Symphony, ""Pifa"" (arr. L. Stokowski)"	HKI190554610	60	baroque,classical,early music,english baroque,german baroque	0.962	0.107	0.868	0.0389	91.64	0.0377	0.0329
+0BHfePcMkm1adhUeO3PLrI	Antonín Dvořák,Stefan Veselka	2 Pieces, Op. posth., B. 188: No. 1. Lullaby in G Major	HKI190401410	48	classical,czech classical,late romantic era	0.994	0.331	0.905	0.037	65.591	0.0577	0.0118
+6IuHbYWV49tArCbHBgMHl7	Georges Bizet,Orquestra Simfònica de Barcelona i Nacional de Catalunya,Pablo González	Carmen Suite No. 1 (Arr. E. Guiraud): IV. Séguedille	HKI191631804	63	classical,french opera,french romanticism,late romantic era	0.952	0.248	0.271	0.0417	176.236	0.185	0.00674
+6AEXs6H0ZPJXn0GJ6wIISe	Edvard Grieg,BBC Scottish Symphony Orchestra,Jerzy Maksymiuk	Peer Gynt Suite No. 2, Op. 55: IV. Solveigs sang (Solveig's Song)	HKI199246408	46	classical,late romantic era,norwegian classical	0.938	0.182	0.785	0.0496	49.803	0.0351	0.00856
+71MpmxCJ1TW05c7Fvv1SfI	Frédéric Chopin,Peter Jablonski	Waltz No.19 in A minor, Op.posth.	GBF079540817	63	classical,early romantic era,polish classical	0.984	0.308	0.928	0.042	69.156	0.148	0.0261
+5kbLE9EySwCysh8gd5Aco6	Sam Gendel	Sustain	US25X2100101	22	fourth world,indie jazz,indie soul	0.808	0.202	0.922	0.0311	159.85	0.164	0.393
+7dCGVIC78TYUSbiXpic39O	Vivian Koch	Enter	FR59R2153087	16		0.0283	0.47	0.96	0.0315	131.868	0.0741	0.531
+7kF2wPFh949jhWzeTyODnO	Blue Gas	Shadows From Nowhere - Original Version	ITN341600057	43		0.539	0.638	0.0347	0.0446	79.821	0.322	0.2
+5xPerWjnbYcsBXISJoZF6W	downstairs J	Adjust	USYBL2100964	12		0.166	0.783	0.841	0.105	105.959	0.869	0.573
+78Z9Kn7cDyZB5yBLfkYPLg	Lawrence	Drunken Cats	DEU672100022	10	dub techno,float house,german house,hamburg electronic,microhouse,minimal techno	0.864	0.34	0.693	0.0405	119.988	0.203	0.263
+709fUwBliv6YfdUDCxQGOf	Sprinks	Surface Tension	AUZEM1800492	3		0.516	0.798	0.841	0.169	159.96	0.588	0.481
+6CzIvlUbwqnsxjLzCbeyU4	Slauson Malone	Closed Place, Open World	QZES61971268	43	alternative hip hop,experimental hip hop,psychedelic hip hop	0.913	0.492	0.894	0.155	97.988	0.52	0.431
+2LBoJ2vQgHljpjkmphci1F	Off The Meds	Karlaplan	SE2WJ2008004	38	swedish electronic	0.63	0.797	0.862	0.0542	129.999	0.887	0.823
+7yGGGHs3tJDyvlomKVJMt6	Palazzi D'Oriente	Morgengabe	ITP841800169	10		0.186	0.66	0.369	0.132	74.993	0.101	0.598
+7CUePB3Lb3EMnNZEuQDMgN	Pole	Tangente	GBR8R2000141	34	ambient,dub techno,glitch,intelligent dance music,microhouse,minimal techno	0.0136	0.832	0.807	0.245	95.717	0.216	0.396
+0KnveRVzmgQt9Z1cfnrwuX	72-HOUR POST FIGHT	UNGLUED	ITP842000130	44	milan indie	0.0384	0.38	0.928	0.04	92.348	0.16	0.393
+2e0OmITyOVR58u1SUhjCBg	Fight Pausa,Xqz	Lirima	ITUM72000471	19		0.765	0.574	0.413	0.257	90.765	0.494	0.345
+56OIj5xtpyZKrdZ2PIHW7K	Woo	Beautiful Morning	GBLLT2119597	5	british experimental	0.915	0.64	0.921	0.0375	156.549	0.536	0.649
+6upreF4yNirvmHslvUSyab	oqbqbo	Rei	GBHLW1900337	41	deconstructed club,new isolationism	0.884	0.681	0.915	0.0736	110.006	0.373	0.563
+2GM6lVXgTKPZOTPjGa2KLK	Pretty V	Memories R Lemures	QZK6M2017962	10		0.772	0.317	0.00175	0.039	126.95	0.148	0.124
+0Ode6NaXVyTdaRwoMyLC8a	Geo Rip	Underwater Bodycam	USA2B1803887	7	ambient techno	0.659	0.53	0.543	0.0535	118.956	0.304	0.791
+1lFTuk1lzgFjy71AL3lfT5	Romare	Deliverance	GBCFB2000286	39	deep house,electronica,indie jazz,indie soul,ninja,nu jazz	0.859	0.757	0.908	0.0364	115.485	0.525	0.416
+5BqmAxUF6CN7Lfb3j5UWPq	Fatima Al Qadiri	Oubliette	GBLZC1600020	10	arab electronic,arab experimental,art pop,deconstructed club,electra,escape room,experimental electronic,fluxwork,grave wave	0.964	0.404	0.0445	0.0411	179.907	0.0921	0.325
+5HwLru1M60NugjrHJcrRr6	Ruf Dug	Tendacayou	DKAZ71579001	7		0.948	0.471	0.889	0.0841	68.537	0.266	0.308
+4cjbzAuUnhTbAg2sgH7zVO	Valentin Stip	Aveu	FR6V82165011	11		0.292	0.181	0.986	0.0388	71.175	0.0374	0.452
+3YWfx5rpmd9RkQvCBWxNe8	Molero	El Espanto En Sierra Nevada	DEX262000057	12		0.68	0.421	0.921	0.0321	140.037	0.429	0.462
+15HvXtNuyMwfXEcLSm9veD	XIII	A Wall with Hole	BEFY32100001	9		0.514	0.562	0.951	0.032	81.026	0.31	0.445
+6gX5dCwwNvnUJK1z2xf8em	Claude Bolling	Borsalino Swing - From Borsalino & Co	FRP2A7400030	44	french jazz	0.845	0.469	0.926	0.0413	159.038	0.579	0.348
+4TL9D8z4NFwMWjQa3lucIG	Clark Terry,Chico O'Farrill	Spanish Rice	USGR10400021	44	bebop,big band,jazz,jazz trumpet	0.65	0.665	0.0	0.0875	121.646	0.843	0.734
+3y7ANjEoF3HQCQt4IBu2R3	Max Roach	Lonesome Lover	USMC16147533	48	avant-garde jazz,bebop,free jazz,hard bop,jazz,jazz drums	0.45	0.262	5.94e-06	0.0368	75.027	0.411	0.434
+7xNzzXvTBzRG68G19N7iA5	Mose Allison	The Seventh Son	USFI87300074	53	jazz,jazz blues,jazz piano,soul,stride,vocal jazz	0.909	0.627	0.237	0.0338	150.358	0.955	0.403
+1YQWosTIljIvxAgHWTp7KP	The Dave Brubeck Quartet	Take Five	USSM15900108	69	bebop,jazz,jazz quartet	0.539	0.454	0.00078	0.0401	174.322	0.598	0.26
+78Z9Kn7cDyZB5yBLfkYPLg	Lawrence	Drunken Cats	DEU672100022	10	dub techno,float house,german house,hamburg electronic,microhouse,minimal techno	0.864	0.34	0.693	0.0405	119.988	0.203	0.263
+709fUwBliv6YfdUDCxQGOf	Sprinks	Surface Tension	AUZEM1800492	3		0.516	0.798	0.841	0.169	159.96	0.588	0.481
+6CzIvlUbwqnsxjLzCbeyU4	Slauson Malone	Closed Place, Open World	QZES61971268	43	alternative hip hop,experimental hip hop,psychedelic hip hop	0.913	0.492	0.894	0.155	97.988	0.52	0.431
+7yGGGHs3tJDyvlomKVJMt6	Palazzi D'Oriente	Morgengabe	ITP841800169	10		0.186	0.66	0.369	0.132	74.993	0.101	0.598
+2e0OmITyOVR58u1SUhjCBg	Fight Pausa,Xqz	Lirima	ITUM72000471	19		0.765	0.574	0.413	0.257	90.765	0.494	0.345
+56OIj5xtpyZKrdZ2PIHW7K	Woo	Beautiful Morning	GBLLT2119597	5	british experimental	0.915	0.64	0.921	0.0375	156.549	0.536	0.649
+0Ode6NaXVyTdaRwoMyLC8a	Geo Rip	Underwater Bodycam	USA2B1803887	7	ambient techno	0.659	0.53	0.543	0.0535	118.956	0.304	0.791
+4jIO4fWetRQXS6Tw1XbhWD	The Congos	Fisherman	USVPR9300309	52	dub,reggae,roots reggae,ska	0.432	0.604	0.00446	0.161	174.248	0.636	0.458
+1oEbzNZXJGUh5FpDAVZFM3	Dawn Penn	No,no,no - You Don't Love Me- No, No, No	FR6V81278098	52	rocksteady	0.554	0.78	0.00197	0.123	84.061	0.652	0.116
+5FgdPuK51WBYhuMhV0XIBg	U-Roy	Natty Rebel - Remaster 1990	GBAAA9000309	54	dub,lovers rock,old school dancehall,reggae,roots reggae,ska	0.0615	0.813	6.72e-06	0.0721	83.117	0.783	0.395
+209SbubR5uKaVzj5SeN42w	Bob Marley & The Wailers	So Much Trouble In The World	USIR27900001	62	reggae,roots reggae	0.237	0.835	0.000249	0.0814	155.714	0.904	0.552
+77nGkjmKU27LjPEF0eLUdT	Catching Flies	Daymarks	FR96X1962628	59	downtempo,electronica,indie dream pop,indie soul,vapor soul	0.266	0.579	0.734	0.0527	96.978	0.137	0.682
+7Cjwgp1aDa7gcbWKJDQAgC	Max Cooper	Reflect	FRX202018424	56	electronica,microhouse,minimal techno,modular synth,tech house	0.898	0.675	0.914	0.0369	121.003	0.146	0.422
+6iuBfHi5puZNm290jPaUBc	Jon Kennedy	Surrenderism	GBPEN0810013	54	big beat,electronica,ninja,nu jazz,trip hop,turntablism	0.176	0.741	0.911	0.0607	88.014	0.556	0.443
+59QNyVtGhYoDnpO6T1e4yR	Bonobo,O'Flynn	Otomo	GBCFB2100678	61	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.00409	0.667	0.856	0.0423	125.994	0.0392	0.841
+7nnFdyYsVwFvUXB4heKZe4	Bonobo,Kadhja Bonet	Day by Day	GBCFB2100686	56	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.109	0.641	0.412	0.0374	100.013	0.323	0.564
+3O9cDue7Dz2gkBPbfTEeHu	Bonobo	Sapien	GBCFB2100685	57	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.0107	0.742	0.866	0.0887	128.005	0.509	0.761
+3jVU4LpHVHClU0YDJ8VBqz	Bonobo	Counterpart	GBCFB2100684	58	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.604	0.676	0.826	0.0349	121.013	0.0911	0.606
+6t2gHlvw7kTK6M7M5f7S6K	Bonobo,Joji	From You	GBCFB2100683	59	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.569	0.655	0.763	0.0433	140.022	0.255	0.499
+0xIo8d1CLxARzQhaZwJ1RM	Bonobo	Age of Phase	GBCFB2100682	66	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.316	0.706	0.763	0.0361	123.993	0.377	0.697
+7mq6753542WZViD1wJ64Eo	Bonobo	Closer	GBCFB2100681	59	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.0213	0.74	0.913	0.0554	125.021	0.0716	0.708
+0PYMIPuZk9AjcmkscMeC3D	Bonobo	Elysian	GBCFB2100680	60	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.789	0.486	0.93	0.0306	94.984	0.0938	0.366
+622fSIVOm6SPcLPNOoYeJn	Bonobo,Jamila Woods	Tides	GBCFB2100679	61	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.791	0.6	0.419	0.0351	126.948	0.201	0.314
+59QNyVtGhYoDnpO6T1e4yR	Bonobo,O'Flynn	Otomo	GBCFB2100678	61	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.00409	0.667	0.856	0.0423	125.994	0.0392	0.841
+2ZaL63zLMDr6H18El2EIt9	Bonobo	Rosewood	GBCFB2100677	62	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.0668	0.757	0.485	0.0432	121.009	0.429	0.637
+7aLYQgzGLy8duSSdTJa1ik	Bonobo,Jordan Rakei	Shadows	GBCFB2100676	63	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.0913	0.658	0.393	0.036	114.029	0.593	0.576
+0JL9dXZ2tjMabWjVjeutKH	Bonobo,Miguel Atwood-Ferguson	Polyghost	GBCFB2100530	61	downtempo,electronica,jazztronica,ninja,nu jazz,trip hop	0.927	0.298	0.847	0.0367	127.917	0.0839	0.228
+5FUSmeF3iIYBXsANx5Z6A6	Noyz Narcos,Gemello,Metal Carter	VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)	ITDF62177146	63	italian hip hop,italian underground hip hop	0.129	0.594	0.0	0.383	89.791	0.369	0.879
+7uGumfAbZ4lROA6wr0LP5E	Gabriel Fauré,Harriet Krijgh,Kamilla Isanbaeva	Sicilienne, Op. 78	DEB261200058	57	classical,post-romantic era	0.981	0.293	0.945	0.0472	122.828	0.0994	0.0677
+5wfOAgbsF3CaWNi3urW67f	Renaud Garcia-Fons,Claire Antonini	Sylvains d'orient	FR68U1810010	51	arab folk,arabic jazz,contemporary jazz,french jazz	0.785	0.719	0.773	0.031	136.965	0.538	0.481
+05W1GduItsqueo7fja8e6i	Felix Mendelssohn,Matthias Kirschnereit,Michael Sanderling,Frankfurt Radio Symphony Orchestra	Capriccio brillant, Op. 22: Andante	DES382132006	66	classical,early romantic era,german romanticism	0.991	0.247	0.967	0.0379	91.359	0.0391	0.00505
+2GjLFzB8GQBjk8uBVkgGAD	Antonio Lauro,Adam Holzman	Maria Carolina	HKI199843602	41	classical guitar,latin classical	0.988	0.287	0.876	0.0385	90.623	0.516	0.0692
+16c7tL31q18QfNsFi6bXzR	Catrin Finch,Seckou Keita	Ceffylau	GBZUM1302506	43	classical harp,harp,kora,welsh folk	0.935	0.568	0.927	0.0339	136.002	0.504	0.293
+1xbCmCTvzd6nhbTJIg5pFu	Maurice Ravel,Bordeaux Opera Chorus,Bordeaux Aquitaine National Orchestra,Laurent Petitgirard	Daphnis et Chloe: Part III: Lever du jour	HKI190638209	55	classical,early modern classical,impressionism,neoclassicism,post-romantic era	0.925	0.0704	0.911	0.0409	77.027	0.0354	0.179
+4fuooklXL2pC6IlhphGeyy	Leonard Bernstein,Warren Lee	5 Anniversaries: No. 5. For Susanna Kyle	HKI191533509	56	american modern classical,classical,classical performance,orchestral performance	0.995	0.419	0.95	0.0699	111.16	0.582	0.00173
+5Q6Yl87BTK0wbGY7XGFZhx	Benjamin Frith,John Field	Nocturne No. 10 In E Minor	HKI199751701	57	british classical piano,classical performance,classical piano	0.991	0.351	0.941	0.0393	64.894	0.125	0.00593
+5TKvSoHEXaCyk2GKM6pC3J	Erik Satie,Orchestre Symphonique et Lyrique de Nancy,Jerome Kaltenbach	Mercure, Scene 1: La nuit	HKI199810808	61	classical,early avant garde,early modern classical,impressionism,post-romantic era	0.932	0.143	0.0318	0.045	139.288	0.0495	0.00194
+1GpeprFhB1MNS1CpyN9Iyx	Chad Lawson	Prelude in D Major	USUG12000363	47	compositional ambient,neo-classical,new age piano	0.933	0.244	0.85	0.0397	74.367	0.0391	0.0526
+1h3wmPM8L2ChzECp9iATFT	Johann Sebastian Bach,Augustin Hadelich	Bach, JS: Violin Sonata No. 2 in A Minor, BWV 1003: III. Andante	GBAYC2003483	34	baroque,classical,early music,german baroque	0.994	0.188	0.0013	0.0675	71.42	0.249	0.0164
+1L4NadMj3Jj7YgGaikyhfr	Franz Liszt,Daniel Barenboim	6 Consolations, S. 172: No. 3 in D-Flat Major (Lento, placido)	DEF057900552	66	classical,late romantic era	0.993	0.368	0.922	0.035	69.363	0.085	0.00363
+2eSVQH8lwcrUBs7dpEj7p7	Claude Debussy,Víkingur Ólafsson	Bruyères - Home Session	DEN962002990	62	classical,impressionism,post-romantic era	0.992	0.3	0.948	0.0449	63.821	0.233	0.0405
+4w79DfwX6shfzRm4SSYfT2	Antonín Dvořák,Christophe Sirodeau,Anna Zassimova	From the Bohemian Forest, Op. 68, B. 133: V. Silent Woods (Lento e molto cantabile)	FR9W12034976	43	classical,czech classical,late romantic era	0.992	0.356	0.913	0.0373	99.083	0.0391	0.0194
+5nFCdayR5pAEVvQw7ZAIuQ	Johann Sebastian Bach,Martin Stadtfeld	"Siciliano (After ""Erbarme dich"" from Matthäus-Passion, BWV 244, No. 39)"	DEE862002968	58	baroque,classical,early music,german baroque	0.994	0.296	0.879	0.0405	79.031	0.354	0.0644
+5OLv8P0JSaXFB95rw5saRv	Ólafur Arnalds,Lavinia Meijer	Tomorrow's Song	USSM11607334	55	bow pop,compositional ambient,icelandic classical,neo-classical,neoclassical darkwave	0.983	0.438	0.936	0.0725	133.299	0.173	0.0127
+1aMeBqrCnPf1CzRXlKyNFs	Francisco Tárrega,Julian Bream	Lágrima	USBC17000114	54	late romantic era	0.991	0.49	0.923	0.0586	65.339	0.468	0.0211
+4h4py9AzEuUGBTJZO4ifnm	John Field,Elizabeth Joy Roe	Nocturne No. 1 in E Flat Major, H.24	GBF071504650	60	early romantic era,irish classical	0.993	0.321	0.919	0.037	74.69	0.0632	0.0272
+05W1GduItsqueo7fja8e6i	Felix Mendelssohn,Matthias Kirschnereit,Michael Sanderling,Frankfurt Radio Symphony Orchestra	Capriccio brillant, Op. 22: Andante	DES382132006	66	classical,early romantic era,german romanticism	0.991	0.247	0.967	0.0379	91.359	0.0391	0.00505
+7juYY67QIUIsO7xweoyMqq	Edward Elgar,Sol Gabetta,Mario Venzago,Danish National Symphony Orchestra	Salut d'amour, Op. 12	DEE471000027	48	british modern classical,classical,late romantic era,victorian britain	0.969	0.0809	0.857	0.0481	80.479	0.0475	0.107
+0CKertYAUevycqhVjGuewD	Claude Debussy,Jean-Efflam Bavouzet	Deux Arabesques, L. 66, CD 74: I. Première Arabesque	GBLWD0804107	60	classical,impressionism,post-romantic era	0.99	0.236	0.958	0.0374	68.855	0.0777	0.017
+4vi9pBR7yJhBzGaNu0k1gj	Robert Schumann,Vladimir Horowitz	Kinderszenen, Op. 15: No. 1, Von fremden Ländern und Menschen	USSM10007623	58	classical,early romantic era,german romanticism	0.996	0.374	0.912	0.0533	69.813	0.386	0.00526
+40jTwi0A7djTFe01Di61Ux	Hajime Mizoguchi	The Girl with the Flaxen Hair	JPZ921313470	52	anime score	0.943	0.106	0.829	0.0481	82.857	0.0467	0.0533
+13NC44aS3d0EFF58oVQ8T7	Yiruma	River Flows In You	USA371336157	57	korean instrumental,neo-classical,new age piano	0.987	0.32	0.949	0.0498	145.722	0.115	0.242
+3jUGfTl7C4fWfImfKMbUoR	Eric Whitacre,Isata Kanneh-Mason,Jeneba Kanneh-Mason,Braimah Kanneh-Mason,Konya Kanneh-Mason,Aminata Kanneh-Mason,Sheku Kanneh-Mason,Mariatu Kanneh-Mason	The Seal Lullaby (Arr. Parkin)	GBBBC2000229	51	21st century classical,american 21st century classical,choral,contemporary choir	0.988	0.149	0.679	0.046	80.529	0.105	0.0452
+70Lt426paZfOQumap9AN1v	Wolfgang Amadeus Mozart,James Galway,Sir Neville Marriner	Concerto Flute and Orchestra No. 2 in D Major, K. 314: III. Rondeau - Allegro	USBC19607125	35	classical,classical era	0.98	0.436	0.892	0.0492	124.956	0.518	0.0779
+3Gz6xfyvgX59Cxjlbt1pBx	Wolfgang Amadeus Mozart,Quatuor Van Kuijk	Divertimento in F Major, K.138: II. Andante	FR50X1955106	36	classical,classical era	0.897	0.178	0.464	0.041	92.513	0.0746	0.0913
+2k2MprlqkmDMKKOOWGREzW	Dario Marianelli,Jean-Yves Thibaudet	"Dawn - From ""Pride & Prejudice"" Soundtrack"	GBEKZ0500051	66	compositional ambient,orchestral soundtrack,soundtrack	0.991	0.332	0.891	0.0388	78.853	0.097	0.0525
+67HF6y5o1UhIFUGIOPzUK5	Oswald Russell,William Chapman Nyaho	Three Jamaican Dances: No. 2	USBZ91200384	54		0.989	0.458	0.879	0.0453	117.004	0.219	0.0183
+3AVs6Cwzs59T7wKowTnB51	Wolfgang Amadeus Mozart,Murray Perahia,Radu Lupu	Sonata for 2 Pianos in D Major, K.448/375a: III. Allegro molto	USSM18400315	38	classical,classical era	0.992	0.366	0.933	0.0359	135.658	0.43	0.0603
+7cYVvcT0wfBnFE6RDeFRIs	Traditional,Amy Dickson	Aboriginal Lullaby	USSM12004041	53	sleep	0.996	0.278	0.671	0.0476	73.268	0.454	0.00396
+6ueTTzezzvpDXTYeusqNoB	Frédéric Chopin,Abbey Simon	Nocturnes, Op. 9	USZDG0601180	51	classical,early romantic era,polish classical	0.979	0.375	0.901	0.0377	126.496	0.0778	0.0134
+71p9zmTXiRaAlDjHdp45hB	Ramuntcho Matta	Ecoute... - Original Mix	GBJX38431002	6		0.846	0.835	0.851	0.124	103.477	0.528	0.468
+3FWyCP8Kb8Mlkqzs4IQW6v	Fools	Source	NLD7H2000006	14	experimental ambient	0.948	0.662	0.921	0.0298	116.01	0.317	0.428
+6oAHZv8MHX3VP2uq1IMf8M	Tetê Espíndola	Quero Quero	BRTET1800003	6	mpb,nova mpb	0.539	0.464	0.00726	0.157	111.052	0.609	0.43
+2z5AwroZbD8kk21NJeg0TM	Jeen Bassa	Latin Fingers	GB8KE1850476	3		0.504	0.639	0.685	0.221	135.854	0.576	0.611
+1CwCqMS2FU7DIwjHRJpmuh	Christopher Salvito,Nicoletta Favari,Passepartout Duo	Heartwood (Section 4)	CALVP1929677	3	icelandic classical	0.696	0.552	0.918	0.149	120.001	0.54	0.339
+4ZRQpRpeqICEqlTcDzGVWX	Lyra Pramuk	Tendril	DEU672000044	40	art pop,deconstructed club,fluxwork	0.629	0.202	0.00136	0.0285	93.201	0.124	0.243
+3Lp9aGyUscreVB3bMzQU9t	Nicolas Gaunin	Haamauruuru	QZFYW1964967	2		0.479	0.483	0.00675	0.139	69.974	0.588	0.687
+0nLCcZDXetCl5SU32opXWt	Angel Bat Dawid	Transition East	QM84B2032001	33	spiritual jazz	0.852	0.553	0.854	0.0397	133.491	0.495	0.281
+3i6Pv5PrzCRhzmyykQbKyv	Lotte Kærså & Græsrødderne	Prøv og Gør Ligesom Jeg	DEG931913571	23	bornesange	0.843	0.921	4.68e-06	0.13	120.932	0.682	0.233
+05hfb7gJqMZgyXezl6wyLW	Omma	Mojno	FR96X1968753	13	experimental synth,russian electronic,russian synthpop	0.285	0.75	0.904	0.0496	99.956	0.697	0.374
+6JzbzRmHuY2BnoUwNasBGu	Peter Zummo	Well Let Me Say Something	DEU671602062	5	post-minimalism	0.231	0.532	0.656	0.0287	148.349	0.365	0.279
+46ZwqpEjZz4KlyWSUrUvEn	noo	Rainbow Road	DEU671602270	3		0.768	0.671	0.885	0.031	122.995	0.246	0.498
+6hyxLHludIZ9TizVtb6saU	Fantastic Twins	Construire Un Igloo	DEU671701726	6	dark disco	0.666	0.895	0.922	0.0533	120.008	0.0771	0.661
+0ExeDTsJcjwsEzvj6OK6hq	Chevel	Underwater	USA2Z1810558	5	deconstructed club,experimental techno,weightless	0.899	0.175	0.492	0.0571	81.874	0.33	0.23
+5Jh76tObmR8RFoA6rbXYQz	Autechre	Melve	GBBPW9800030	19	abstract,ambient,ambient techno,deep idm,drill and bass,drone,electro,electronica,experimental,fourth world,glitch,intelligent dance music,microhouse,ninja,outsider house,techno,uk experimental electronic	0.0298	0.563	0.708	0.0981	95.754	0.77	0.22
+1BBVwL1TdpcLjHlIvgCnc4	Triad God	Babe Don't Go	ITYGV1400124	31	experimental electronic	0.278	0.543	0.0321	0.0583	85.0	0.23	0.166
+1XufIT3CrRTqh6s4Hc4DwE	Oli XL,Ecco2k	Hesitate	SE5AJ1900728	36	deconstructed club,escape room,hyperpop,new isolationism,outsider house	0.62	0.838	0.0435	0.464	143.894	0.879	0.535
+54LQnRePedxyBSmoWByQkq	Ian Isiah	Bedroom	USYBL1801663	22		0.903	0.656	0.00103	0.16	167.697	0.717	0.548
+2YSonuLD6njDji6ob1QumY	Mana	Uno E Solo	GBLZC1700060	3	experimental electronic,weightless	0.968	0.744	0.958	0.066	86.973	0.383	0.232
+7FHG31F8SzGxcpQHsRTDoI	Eartheater	Below The Clavicle	QMB622011201	46	art pop,deconstructed club,electra,escape room,experimental pop,hyperpop	0.907	0.409	0.0397	0.0306	120.314	0.105	0.276
+0Zqyok7mKkJjXJTo3jCuJb	Golden Bug,In Fields	La Main Jaune	FR0ML2000070	7	dark disco	0.576	0.587	0.855	0.0801	110.002	0.559	0.298
+3SIAMuoN4hryIxrscKU3OA	Cass.,Gianni Brezzo	Instabubu	QM4TW2066522	9	deep progressive trance	0.759	0.16	0.701	0.0505	182.062	0.043	0.28
+0VMqSQK5jUmG09dodlmXYZ	5am	Today	USYBL1902243	12		0.358	0.842	0.831	0.116	111.033	0.536	0.484
+2JHJAWv9aoKt5WCyfb7qCe	The Pilotwings	Les portes du brionnais	QM6MZ1806420	6	breaks	0.244	0.401	0.775	0.0511	84.994	0.632	0.462
+2UcVtwEcZ0vjDCdytsV6dg	Quaid	Uncanny Valley	GBQLP2000414	4		0.979	0.426	0.94	0.0514	180.117	0.858	0.247
+0JFkPdLt802NPZmJlu7aNQ	Piezo	A Touch Of	GBHLW1902720	12	experimental club	0.207	0.764	0.714	0.137	108.02	0.18	0.411
+2MobANytzm96yk9h0gzzI9	Silvia Tarozzi	Al cancello	USVML2003101	15	experimental classical,italian experimental	0.947	0.727	0.583	0.198	132.722	0.818	0.197
+3RafzRe2nSJKsHVtMW6MQr	Rochelle Jordan	Count It	USA2P1951246	34	alternative r&b,escape room,indie r&b	0.282	0.65	0.0	0.0643	110.921	0.355	0.431
+6e8JL6lOU37BAjBWegJvOt	Hyacinthe	Juice WRLD	FRR642100477	13	rap calme,rap francais nouvelle vague	0.273	0.695	0.0	0.0887	139.949	0.668	0.49
+3eGgyZaiR7KDgi8Xaj9ulC	Flash and the Pan	Walking In The Rain	AUAP07600045	46	new romantic,new wave,new wave pop,synthpop	0.914	0.576	0.14	0.0412	117.57	0.346	0.175
+5J2moNjj5aCIWlOQCgGWsE	Lifted	Cushion Beat	USYBL2101035	10		0.234	0.787	0.703	0.074	98.007	0.639	0.655
+4lCz8Tn3W49xT0zx9Z5NYw	Elder Island,Kinlaw	I Fold You - Kinlaw Remix	QM4TX2087485	22	electronica,indie soul,vapor soul	0.324	0.614	0.749	0.041	130.01	0.212	0.705
+1S2HU1FKjTyaMZp5ZSV704	Ojerime	Tangerine Dreams	FRX201955617	43	alternative r&b,chill r&b,escape room,indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.207	0.705	0.015	0.0517	127.53	0.121	0.306
+5Nz1kAN6auivGetxILKZf3	Lutto Lento	Mortal Fools	GBHLW2004130	12	polish experimental electronic	0.00167	0.813	0.257	0.057	101.986	0.171	0.235
+549VARqe57rM5u8vkzTPgs	Biig Piig	Cuenta Lo	GBARL2001133	38	indie soul,modern alternative pop	0.197	0.616	0.17	0.167	159.864	0.237	0.627
+0JMVBINkKr64EzrlH5rqY8	Valentina	Don't Say It	QZFZ32104291	12		0.197	0.756	0.407	0.139	172.095	0.601	0.416
+4KhT38bu84frcNZt8A5cXL	Pufuleti,Terfak,Zutera	LUGAR MEJOR	GBLPF6678879	18		0.985	0.338	0.735	0.0471	210.142	0.131	0.334
+6VRgvci0hYokJguaBzGZmj	Arrangement	Coconut Mango	QM24S1833735	45		0.953	0.427	0.653	0.0336	138.105	0.185	0.136
+4rCM8A21DZdVKhAYZHGTI8	cktrl	As You Are	GBKPL2026305	39	alternative r&b,indie r&b	0.0576	0.798	0.000513	0.0669	130.068	0.819	0.586
+6HmtbuPgCApFCDKPmciwAq	Facta	Sistine (Plucks)	GBHLW2100216	34	float house	0.978	0.623	0.514	0.0363	170.016	0.383	0.281
+0RMn82ovbQe1dXeMTIe2iV	Muqata'a	Shay'an Fa Shay'an	GBHLW2100068	16	middle east hip hop,palestinian hip hop	0.0371	0.478	0.849	0.107	92.798	0.329	0.307
+6HR1Uw5SD1f1m9qpH6CEQ7	Sharp Veins	Paste 1	UK8261900635	5	grimewave,weightless	0.243	0.745	0.855	0.0476	114.967	0.0611	0.524
+5htbUDJvcaOUZTqPQXp66m	Poirier Marshall Partners	STRAS4	UKB9U1500096	4		0.494	0.761	0.753	0.0985	158.052	0.483	0.307
+0jTxTi1bxA2NunT0QPFFjC	K.S. Eden	Gathering Dust	BEIX82000084	6	british experimental	0.993	0.512	0.895	0.0358	132.782	0.801	0.506
+3lzdPn58pcY45TBniPZse1	Not Waving,Marie Davidson	Hold On	UK8261900643	40	fluxwork,italian experimental,new isolationism,outsider house	0.732	0.481	0.786	0.0431	120.032	0.106	0.302
+7rbk1HGXOAt1Yo76rau40W	Yu Su,Knopha	Xiu - 宫廷 version	FR2X42199769	15	canadian electronic,float house,fourth world	0.0171	0.633	0.856	0.0426	161.989	0.524	0.57
+1wFwoLWIziDAKzGgE8SwP6	Sara Berts	Remolinos	ITSAB2100003	6		0.963	0.55	0.904	0.0376	157.889	0.775	0.752
+0iv4BGKr8nxhztI5NFBNLG	Howie Lee	Birdy Island	GBNQA2100006	33	chinese electronic,chinese experimental	0.945	0.462	0.959	0.0319	160.157	0.187	0.486
+2a5nbywdFqIUKEmkYbhUbX	Cucina Povera	EKR	BGA472114531	11	experimental ambient,finnish experimental,fluxwork,fourth world,new isolationism,scottish electronic,scottish indie	0.969	0.637	0.783	0.0414	85.174	0.329	0.11
+3VEoVVKjDXs4vLZ0eWR9WM	Dave Saved	Red Storm	UK8261900666	5		0.168	0.831	0.776	0.178	90.007	0.76	0.837
+4qgd0MsDs7w6Eng8Ov1GCf	bar italia	tenet	USYBL2100851	18		0.556	0.644	5.84e-05	0.0238	80.01	0.663	0.575
+01iglyLhCYZYlCqAxY8Vfz	Scott Gilmore	E70 No. 01	BEN581700090	37	experimental electronic,fourth world	0.758	0.615	0.92	0.0402	143.401	0.906	0.466
+1tXGwtoqAwW2tsYZE9B3Iu	Laraaji	I Can Only Bliss Out (F'Days)	USCW61807911	41	ambient,art rock,compositional ambient,drone,fourth world	0.422	0.549	0.206	0.0526	138.95	0.628	0.449
+3Rq8mraCMd24NeBLtGSzsO	The Mechanical Man	Nightfall	QZFP52125370	3		0.445	0.753	7.77e-05	0.169	90.03	0.507	0.46
+0ddfxoOr4FRVpWuR6n5N83	Cosha	Hot Tub	UK8XM2000011	21	irish pop	0.524	0.721	0.00798	0.318	89.998	0.725	0.407
+28Ykh9f8Fg5TCEZ4lp5p6N	Oklou	god's chariots	GBKPL2015015	48	art pop,deconstructed club,electropop,escape room,hyperpop	0.93	0.67	0.811	0.0837	94.262	0.0529	0.475
+41XT2xRCJW7Bcfi7Fva6h4	upsammy	Flutter	NLTH62100026	41	bleep techno,experimental house	0.00462	0.515	0.857	0.0325	159.978	0.624	0.691
+7lBNUj1Tt9z7rx5Y1UVV3T	Body-San	Parallels	USA2B2101847	9	lo-fi house	0.336	0.706	0.912	0.0579	104.983	0.235	0.733
+7ryaaDcKQSyYJf8LtBcCeU	Suzanne Kraft	On Our Hands	UK6821909034	15	balearic,float house,fourth world	0.695	0.815	0.0865	0.0342	107.573	0.904	0.505
+2Nq8gEPSjszcePWB7hS1zb	Domenique Dumont	Sans cesse, mon chéri	FR96X1815219	61	fluxwork	0.702	0.871	0.654	0.0364	123.015	0.944	0.54
+5huiQnObT4OxWkW6sLUTar	PiroPiro	Pepe's Commercial Break	QZK6F2026333	3		0.92	0.378	0.537	0.0521	96.251	0.038	0.0984
+3GOlSdMstk2YHQF4IXx8JG	D.K.	Days of Steam	FRX201717921	13	float house,fourth world	0.459	0.788	0.0397	0.0321	115.968	0.34	0.546
+5Iz4YP8JIokn7JVIqhkjnu	Elysia Crampton,Fanny Pankara Chuquimia	Crest (feat. Fanny Pankara Chuquimia)	QMB622010110	22	collage pop,deconstructed club,electra,fluxwork,new isolationism	0.811	0.326	0.0148	0.0544	135.172	0.344	0.659
+3C577pIvUmFN02Dgshfg3S	Tirzah	Send Me	GBCEL2100186	40	alternative r&b,art pop,chamber psych,electra,electronica,escape room,experimental pop,indie soul,uk contemporary r&b	0.0704	0.791	0.218	0.0688	167.659	0.616	0.521
+1jRYM9wViXlwbhW7jaJAmV	Young Echo	Here	DEZ651720990	10	bristol electronic,experimental electronic	0.826	0.298	2.94e-05	0.031	96.707	0.17	0.306
+7fg8gMMJHvm5bTkDh1V0ys	Jaze Baqti	Talentless But Connected	QZES52144143	6		0.103	0.755	0.189	0.109	75.365	0.761	0.35
+71Yuu3jQmT90tVJhP6nsTT	Young Druid	Fugue	UKBCM1700304	4		0.0159	0.524	0.843	0.025	84.1	0.179	0.448
+6yBGuez6pjBuDCAZJOq65L	Al Dobson Jr.	Xingu	UKB8U1500029	21	indie jazz	0.105	0.875	0.938	0.169	120.013	0.831	0.742
+1KRNinMZ37zFITv0i1nqOR	Lorenzo Senni	Canone Infinito	GBBPW2000013	28	deconstructed club,italian experimental	0.827	0.632	0.903	0.034	135.965	0.257	0.292
+0BuobeiCWrKv0OPKngNSHK	Barker	Utility	DELG71401093	32	ambient techno,float house,outsider house	0.375	0.761	0.877	0.0489	139.985	0.205	0.772
+1Kmk7XEOfvOd08IOGzgpEX	Jlin	Carbon 12	USA2B1801831	8	afrofuturism,art pop,deconstructed club,electra,fluxwork,footwork,intelligent dance music,uk bass	0.03	0.727	0.862	0.0743	157.011	0.392	0.567
+13UcFZWheX5QKYY2F2seYT	Nídia	Emotions	DEX262000309	5	batida,electra,fluxwork,multidisciplinary	0.259	0.611	0.746	0.258	130.002	0.14	0.513
+1SnUcuWvOFQRPE94rCAkrO	Maria Rita Stumpf,Paulo Santos Uakti,Decio Ramos	Cântico Brasileiro No. 1	BX0I91800004	8	musica eletronica brasileira	0.0464	0.636	0.0861	0.0627	106.542	0.868	0.709
+1fZVESavtLzQoW6vGNh9ML	King Tubby	Monkey Sample - Dubwise Version	JPR221300298	3	dub,reggae,roots reggae,ska	0.0314	0.769	0.922	0.07	81.171	0.589	0.29
+3t8MzL10wHiqPFxJAhEwwX	Georgia	Desta Tinanitina Mata	GBQLP1901448	2	experimental electronic	0.0698	0.862	0.737	0.156	116.977	0.393	0.324
+40kE8Axj03N454mkbhr7Gy	DJ Sports	Stellar Clusters	GBQLP1700260	12	ambient house,experimental house	0.838	0.71	0.798	0.0517	152.032	0.683	0.475
+1vurrDqSQA2WWH4QDEBRs9	Greentea Peng	Kali V2	GBUM72102136	43	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.248	0.752	0.0431	0.224	82.207	0.661	0.519
+3ai4sksZCy9hdFOI08RBkw	Greentea Peng	Mataji Freestyle	GBUM72102255	41	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.0607	0.816	0.71	0.0419	119.999	0.525	0.649
+7sIJOikOcPIFKSUEX8t0yc	Greentea Peng	Suffer	GBUM72102254	43	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.218	0.698	7.86e-05	0.332	79.448	0.37	0.441
+7AG7n1uz0NWw7k8QvhJhh3	Greentea Peng	Earnest	GBUM72102253	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.0453	0.626	0.00423	0.0695	139.645	0.378	0.674
+1XKmknaAseOoB7eIL1PjxC	Greentea Peng	Nah It Ain't The Same	GBUM72100357	50	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.359	0.658	0.145	0.209	169.504	0.567	0.769
+19mzaOsqn5aemxoM4yW4jN	Greentea Peng	Be Careful	GBUM72102247	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.241	0.915	0.000678	0.0804	112.495	0.485	0.287
+2fLYfQylAoti3aqxZ4E62L	Greentea Peng,SIMMY,Kid Cruise	Free My People (feat. Simmy & Kid Cruise)	GBUM72102245	49	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.13	0.848	0.633	0.0518	107.99	0.539	0.426
+6S3n2tU4UKLxgFMp4tb56d	Greentea Peng	This Sound	GBUM72102211	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.055	0.737	5.24e-05	0.135	86.931	0.828	0.798
+6V961El0b1aLA0HAFuuab9	Greentea Peng	Make Noise	GBUM72102204	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.127	0.606	6.15e-05	0.0776	136.183	0.249	0.695
+2zDCZ8jY4kjuUZbVROHaZj	Adam Beyer,Bart Skils	Your Mind - Radio Edit	GBUR61700268	56	dark techno,minimal techno,raw techno,schranz,swedish electronic,swedish techno,techno	0.00262	0.66	0.165	0.0565	126.032	0.111	0.857
+1HtxzquFkwKr64tOmArANs	Paula Temple	Raging Earth	DECY51901418	34	electra,hard techno,minimal dub	0.00255	0.591	0.729	0.0567	131.01	0.0351	0.686
+1h4bq2MqFYoAu9XVXwZbKD	ROBPM	Seat Belt	ITB841900005	53	dark techno,italian techno	0.0036	0.823	0.854	0.0417	129.942	0.0814	0.767
+4lc5oFyk3SUxwj3ilptwNU	Pan-Pot,Joseph Capriati	Fugitives - Joseph Capriati Remix	DESR41400056	43	german techno,minimal techno,raw techno,tech house	0.000381	0.727	0.606	0.0741	126.002	0.213	0.689
+4t1DXTyp454P6uY7FL29rg	Amelie Lens	Drift	DESR41700115	45	acid techno,belgian techno,dark techno,electra,minimal techno	0.0673	0.793	0.941	0.0682	127.993	0.0599	0.476
+553HOkDZQktOEBKvxTBPS1	Plastikman,Richie Hawtin	Spastik	CAM261800030	42	acid house,detroit techno,dub techno,intelligent dance music,microhouse,minimal techno,tech house,techno	0.0015	0.795	0.939	0.0856	126.274	0.0397	0.989
+4PSRQAOWsffJn6TiDT0hRd	ANNA	Dimensions	GBUR61900160	50	brazilian techno,dark techno,electra,minimal techno,tech house	0.00136	0.658	0.898	0.0549	129.992	0.039	0.97
+5YDbSfN5oKWBoeyf9nBA38	Sam Paganini	Rave	GBUR61200238	60	deep minimal techno,italian techno,minimal techno,tech house	0.000137	0.763	0.909	0.044	124.989	0.33	0.807
+0OUU3JfuXy4bU18ROT5AED	Adam Beyer,Pig&Dan	Capsule	GBUR61700055	42	dark techno,minimal techno,raw techno,schranz,swedish electronic,swedish techno,techno	0.000399	0.8	0.902	0.0861	127.003	0.505	0.722
+5UsfWcP6SThHlZ4oAgx7ge	Amelie Lens	Follow	DESR41700154	53	acid techno,belgian techno,dark techno,electra,minimal techno	0.0375	0.725	0.822	0.0345	128.006	0.134	0.908
+22ShJy9sVmW4MmsyH3btcX	Hiatus Kaiyote	Creations Part One	USSM11500135	38	alternative r&b,australian r&b,indie jazz,indie soul,shiver pop	0.978	0.457	0.00162	0.508	54.903	0.221	0.418
+4fcvLmCmut3Qqxz7k31iVx	Hiatus Kaiyote	Laputa	USSM11409076	41	alternative r&b,australian r&b,indie jazz,indie soul,shiver pop	0.576	0.709	3.54e-06	0.071	106.046	0.635	0.37
+7wlcweEsneQgizqNOrUqJE	Hiatus Kaiyote	Shaolin Monk Motherfunk	USSM11500134	46	alternative r&b,australian r&b,indie jazz,indie soul,shiver pop	0.134	0.415	0.00255	0.0823	96.1	0.573	0.463
+3NqwLwpzbpyvXB2wJE0Oe6	Hiatus Kaiyote	Choose Your Weapon	USSM11500133	40	alternative r&b,australian r&b,indie jazz,indie soul,shiver pop	0.289	0.579	0.403	0.148	79.448	0.071	0.289
+4JvEicQI7CxOJxuI0xtpim	Charlotte Day Wilson	Mountains	QM6N22167781	61	alternative r&b,canadian contemporary r&b,indie r&b,indie soul,neo soul	0.77	0.54	0.0239	0.0524	117.976	0.141	0.399
+5duZe3kHUqNENd97WYqmYL	Little Dragon	Another Lover	GBCFB2000028	61	alternative dance,alternative r&b,art pop,chillwave,downtempo,electronica,electropop,gothenburg indie,indie soul,indietronica,new rave,nu jazz,swedish electropop,swedish synthpop,trip hop	0.198	0.643	0.025	0.0528	80.983	0.324	0.547
+5kRtgmFJe5MD2e83HmaiEY	KAYTRANADA	Vex Oh - Instrumental	USRC12002876	37	escape room,indie soul,lgbtq+ hip hop	0.0648	0.885	0.916	0.125	112.464	0.578	0.496
+2KBo6O5rkNdtYT3wYjkEkq	Slum Village	Fall In Love	USBCE1010011	67	alternative hip hop,detroit hip hop,hip hop,neo soul	0.0486	0.796	0.00584	0.164	91.212	0.784	0.543
+5yfHDmZHjMw2gLjbghG90V	Darius	Hot Hands	FR9W11400559	68	filter house,indie soul,jazz house,nu disco	0.0498	0.849	0.00634	0.0437	109.991	0.35	0.558
+2GWMfWHvLixgTo9s5NGn3w	Raveena	Still Dreaming	USUYG1252030	61	alternative r&b,chill r&b,high vibe,indie r&b,indie soul	0.478	0.745	0.1	0.0511	120.056	0.134	0.318
+7thhWP37F1tHFcrnwLNaao	Noname	Rainforest	QM24S2101222	63	alternative r&b,chicago rap,escape room,hip hop,indie soul,underground hip hop	0.26	0.531	0.00949	0.372	92.06	0.7	0.546
+7iEKaA9Kkn9JfqyKb9HEvR	Cleo Sol	Shine	UKMEH2000084	58	alternative r&b,chill r&b,high vibe,indie r&b,indie soul,uk contemporary r&b,uk funky	0.686	0.742	0.517	0.0392	140.0	0.601	0.504
+5Wbjjde5ez7sx22OtmrXKV	Leven Kali	Smile	USUYG1142909	58	alternative r&b,chill r&b,indie r&b,indie soul,r&b	0.192	0.772	0.00175	0.099	104.969	0.635	0.551
+0lO5zEKJ60lvz8X192p3WK	Lou Phelps	MUST BE	QZNMT2097409	58	canadian hip hop	0.311	0.576	0.0	0.419	107.18	0.861	0.874
+6h7jn2jE2EqJadOkDXsDJh	Terrace Martin,Robert Glasper,9th Wonder,Kamasi Washington,Dinner Party,Phoelix	Sleepless Nights (feat. Phoelix)	USUYG1312543	65	alternative r&b,indie soul	0.492	0.652	0.0863	0.0446	91.518	0.249	0.671
+1knUACOt5yfNAYn7gnYQVt	Charlotte Day Wilson	Work	CAK471601701	72	alternative r&b,canadian contemporary r&b,indie r&b,indie soul,neo soul	0.522	0.623	0.211	0.0311	129.949	0.158	0.296
+0nKiPnnqn6bfn8sPOZJGs8	Noname	Self	QM24S1834470	60	alternative r&b,chicago rap,escape room,hip hop,indie soul,underground hip hop	0.855	0.809	0.000977	0.252	92.132	0.811	0.541
+5FIRCztpLYutxxmzUEgXZc	Darius,Duñe	FEELS RIGHT	FR9W12112201	65	filter house,indie soul,jazz house,nu disco	0.178	0.79	0.0174	0.0478	123.045	0.464	0.591
+5uTjNzGKCQ50synrf9dWmT	Little Dragon	Ritual Union	GBEWK1100037	65	alternative dance,alternative r&b,art pop,chillwave,downtempo,electronica,electropop,gothenburg indie,indie soul,indietronica,new rave,nu jazz,swedish electropop,swedish synthpop,trip hop	0.0381	0.7	0.00527	0.0324	144.035	0.796	0.738
+7Bhs5TjC7FouUwrKVBdSpW	Flying Lotus,Thundercat	Black Gold	GBBPW2100099	57	afrofuturism,alternative hip hop,electronica,escape room,experimental hip hop,glitch,glitch hop,hip hop,intelligent dance music,jazztronica,psychedelic hip hop,wonky	0.0234	0.412	0.826	0.298	86.115	0.464	0.916
+0cciBj4236w1xByzZvn92D	Free Nationals,Daniel Caesar,Unknown Mortal Orchestra	Beauty & Essex	USUYG1220022	74	alternative r&b,indie soul	0.284	0.552	8.2e-05	0.0542	69.709	0.718	0.741
+2pOEcXFeoDdS7RAsrACVTn	Darius,Benny Sings	RISE	FRX452102758	58	filter house,indie soul,jazz house,nu disco	0.0969	0.767	0.653	0.174	102.009	0.185	0.527
+7oeNO6HoCTIHIuoNUp2Ur4	Knxwledge	kometostai.aintreallynootherwaytoputitro	US2S71554001	58	abstract beats,alternative hip hop,alternative r&b,hip hop,indie soul,wonky	0.399	0.576	0.0513	0.0755	78.244	0.438	0.636
+6RQ0i7rApnnWSI8uEiGVVF	Cleo Sol	Why Don't You	TCADB1791147	64	alternative r&b,chill r&b,high vibe,indie r&b,indie soul,uk contemporary r&b,uk funky	0.136	0.43	0.0905	0.15	54.585	0.599	0.592
+1CNLGKbPPRdmGOgEuCioOR	Flying Lotus	Survivors	GBBPW2100125	57	afrofuturism,alternative hip hop,electronica,escape room,experimental hip hop,glitch,glitch hop,hip hop,intelligent dance music,jazztronica,psychedelic hip hop,wonky	0.13	0.571	0.813	0.0646	152.017	0.0369	0.601
+1BkK2fQUGALz7AaOSo7Swh	Terrace Martin,Robert Glasper,9th Wonder,Kamasi Washington,Dinner Party,Phoelix	Love You Bad (feat. Phoelix)	USUYG1312544	62	alternative r&b,indie soul	0.0201	0.775	0.18	0.1	89.553	0.646	0.767
+465Yx9rm9mNmzTFlojTIRs	Jean Deaux,Kehlani,ROMderful	Anytime (feat. Kehlani & ROMderful)	USUYG1257170	60	alternative r&b,chill r&b,escape room,high vibe,indie r&b,indie soul	0.34	0.794	0.0	0.312	102.484	0.335	0.428
+1rfGO3N4DPGodJLSSY9Re5	Ravyn Lenae	Sticky	USAT21705065	61	alternative r&b,chill r&b,escape room,indie r&b,indie soul,neo soul,r&b	0.0339	0.712	0.000384	0.0538	120.016	0.573	0.846
+1UrxBDCv9kDRIBUc2oskNR	Free Nationals,Anderson .Paak,T.Nava	Gidget	USUYG1280327	66	alternative r&b,indie soul	0.00644	0.755	7.93e-05	0.0556	98.003	0.786	0.756
+6HOTOZfCzhjUnrEetcsLAN	Flying Lotus	Using What You Got	GBBPW2100114	57	afrofuturism,alternative hip hop,electronica,escape room,experimental hip hop,glitch,glitch hop,hip hop,intelligent dance music,jazztronica,psychedelic hip hop,wonky	0.0314	0.661	0.894	0.113	85.786	0.736	0.625
+3dvRD7tnKF9Kxocks07jue	Terrace Martin,Arin Ray,Elena Pinderhughes	Beige	USUYG1285748	67	alternative r&b,indie soul	0.297	0.773	0.00954	0.0862	170.04	0.555	0.579
+03eo7njiwkkNVjQSzZqFf7	IAMDDB	Urban Jazz	QM7281843514	57	alternative r&b,uk contemporary r&b	0.272	0.551	3.36e-05	0.325	152.192	0.147	0.661
+3XRosKfSgFSDIb6YVpApIl	LION BABE	Treat Me Like Fire	GBUM71400592	60	alternative r&b,electropop,escape room,high vibe,indie r&b,indie soul	0.198	0.671	0.0057	0.0665	91.961	0.323	0.65
+1CbxG199T0fzfUV5EO7aPV	Free Nationals,Chronixx	Eternal Light	USUYG1276413	75	alternative r&b,indie soul	0.648	0.793	0.000132	0.271	141.85	0.898	0.465
+3hGc6zv9LgSxGrIlhFdfT6	Darius	Espoir	FR9W11400557	64	filter house,indie soul,jazz house,nu disco	0.0955	0.6	0.913	0.0555	106.892	0.037	0.617
+3KsS9NkC5ZlPAIWpGoL5Sx	Flying Lotus	Crust	GBBPW2100108	66	afrofuturism,alternative hip hop,electronica,escape room,experimental hip hop,glitch,glitch hop,hip hop,intelligent dance music,jazztronica,psychedelic hip hop,wonky	0.576	0.676	0.867	0.0811	106.515	0.226	0.408
+1ux778Ljln0QEitz2fB4PH	Terrace Martin,Robert Glasper,9th Wonder,Kamasi Washington,Dinner Party	First Responders	USUYG1312546	61	alternative r&b,indie soul	0.144	0.645	0.461	0.142	95.49	0.542	0.816
+70kdJnm1X6eEM8DbWa8Mnc	KAYTRANADA,Syd	YOU'RE THE ONE	GBBKS1600023	71	escape room,indie soul,lgbtq+ hip hop	0.0323	0.824	0.00286	0.332	118.048	0.253	0.396
+2M7pmbU5ye6I6LV2pVXmw7	Jean Deaux	Recipe!	USUYG1307869	66	alternative r&b,chill r&b,escape room,high vibe,indie r&b,indie soul	0.136	0.86	3.03e-06	0.117	95.023	0.96	0.783
+3bt6rnq9mCrq1XStEcGaNl	Free Nationals,Benny Sings	Apartment	USUYG1280326	60	alternative r&b,indie soul	0.34	0.736	0.048	0.0465	162.065	0.909	0.816
+2GnhkfBcDsFdG1MQILHM3j	Darius,WAYNE SNOW	EQUILIBRIUM	FR10S2035156	67	filter house,indie soul,jazz house,nu disco	0.682	0.738	0.928	0.0817	118.047	0.474	0.508
+3Czw867MbvBiyEd1QCvjmq	Terrace Martin,Robert Glasper,9th Wonder,Kamasi Washington,Dinner Party,Phoelix	From My Heart and My Soul (feat. Phoelix)	USUYG1312545	62	alternative r&b,indie soul	0.117	0.696	0.157	0.0904	93.07	0.615	0.538
+3cwOPJzYmfA2tKX43rGxrj	KAYTRANADA	Hot Jazzybelle	DEQ121217678	42	escape room,indie soul,lgbtq+ hip hop	0.143	0.683	0.421	0.347	118.001	0.197	0.64
+7xn9uXfYkFXfMJgaQxgbCN	KAYTRANADA,Pharrell Williams	Midsection	USRC11903735	50	escape room,indie soul,lgbtq+ hip hop	0.017	0.686	0.000831	0.207	103.956	0.409	0.769
+7K1dTX1ydI3RMXTQU6dkgD	KAYTRANADA	September 21	USRC11903734	46	escape room,indie soul,lgbtq+ hip hop	0.00275	0.743	0.913	0.18	103.151	0.0494	0.465
+4cOVTA2GfYTHw99AJDQpHo	KAYTRANADA,Tinashe	The Worst In Me	USRC11903733	61	escape room,indie soul,lgbtq+ hip hop	0.00936	0.784	0.000132	0.402	109.978	0.59	0.645
+209SbubR5uKaVzj5SeN42w	Bob Marley & The Wailers	So Much Trouble In The World	USIR27900001	62	reggae,roots reggae	0.237	0.835	0.000249	0.0814	155.714	0.904	0.552
+3DSmKmCgRH7vSmdZXBbH4P	Jars Of Bees	Wandering	QZAKB1910624	56		0.721	0.215	0.941	0.0409	139.983	0.0829	0.128
+4OQ4Hhvd1fKTFiqhYHnUeR	Abyssé	Ritual	SE5W32103233	57		0.888	0.168	0.956	0.052	114.182	0.0356	0.0231
+1XOc1T0peSL0F5UF6J5xJJ	Von Goo	Inner Universe	SE4RG2208001	58		0.984	0.18	0.884	0.0498	65.361	0.251	0.0819
+7CGtdNBijQGEvkZeLU4699	Moira Kent	Everyday Peace	SE5IB1900403	56	tone	0.925	0.194	0.898	0.04	76.547	0.0378	0.0795
+2TcvA5WlWyZdLMdQrX05LG	Allana Johnson	Breathing Star	SE4RG1905901	54	background music	0.867	0.157	0.888	0.0377	86.352	0.104	0.163
+663LF9heB9sWluligQWpG8	Golga Nesh	Pure And Calm	SE4RG2209101	54		0.952	0.166	0.974	0.0421	63.797	0.135	0.093
+1RM8shXinDriSL1trnsh9H	Voyage Control	Agape	SE5W32102933	60		0.973	0.229	0.947	0.0359	80.226	0.192	0.0128
+1h7XRTgZYY0TYDjYDnLfju	Light Bin	Moment of Clarity	SE5IB1900802	62		0.917	0.18	0.94	0.0324	64.105	0.0713	0.18
+1XBRmzrGn8tZxPYmGb2CXa	Michel LeBond	Rest Repair	SE4RG2082203	51	atmosphere,background music	0.989	0.189	0.853	0.0407	70.944	0.0365	0.0992
+6gfL880RuRTk3toqkVxjGO	Yue Yan Jen	星星之火可以燎原 - Where there is life, there is hope	SE5W32101932	57		0.779	0.131	0.804	0.0398	69.261	0.038	0.131
+69q6xPYxLjv79PfJXUVJ3a	Through the Clouds	Imaginary Worlds	US66W2200096	50		0.928	0.0747	0.782	0.0403	177.974	0.0492	0.169
+2qY229WUHhY4sWfPxeXZrg	Zen Atlas	Passed the Heliosphere	QZAKB2132210	49	sleep	0.941	0.0895	0.829	0.0581	67.721	0.0472	0.0663
+5QQayYC3j9fRybo6YoiNmi	John Ocean	Song of the Mountains	SE4RG1926002	49	background music	0.981	0.114	0.965	0.0443	90.722	0.0339	0.186
+2LCJEUpAFLETtWCCcA4VKv	The Tides	New Beginning	QZJDZ1900001	50	background music	0.884	0.254	0.94	0.0526	137.801	0.0392	0.333
+2RFKUV4kldNDEYE3RkNtpE	12dust	Rosemary	SE5W31905702	50		0.882	0.324	0.815	0.035	97.902	0.0315	0.0413
+2GW2FdCD7NePDJ4GFaEnpP	Keeva Craig	Hope Street	SE5W32104076	58		0.883	0.0953	0.901	0.0516	74.807	0.0847	0.00488
+1sab9eLTbZCDOHxFAnO00e	Calma	Essence	SE4RG1917501	52	background music	0.964	0.207	0.955	0.0393	93.356	0.0359	0.17
+4E1jg7m6rq4ofqfoKQ16LN	Amber Virena	Transcendence	SE5IB1701567	56	background music	0.945	0.164	0.802	0.0436	129.503	0.0887	0.0105
+3IIJBXhYKDDRk5UAaSSacY	Yonder Dale	These Steady Hands	SE5Q51829058	52	background music,calming instrumental,focus	0.825	0.349	0.894	0.0326	67.995	0.389	0.294
+76aOwjgXrk9f8SPhDcLXWz	Places Within	Stills	SE5IB2118235	53		0.967	0.298	0.937	0.0428	75.84	0.132	0.0297
+1UhtIQE0XsYAWeopYuQ4r3	DJ Francesco	La canzone del capitano	ITD420400085	45	italian adult pop	0.0536	0.749	0.0	0.0575	101.997	0.756	0.918
+1B8gboy4Jzxt5MxZPHfW6F	Après La Classe	Paris	ITE010208183	54	italian reggae	0.00748	0.646	0.0	0.0661	151.308	0.746	0.819
+6LEIAGml1CJg1WwDgwoi9u	Sergio Caputo	Un sabato italiano	ITR008300191	43	classic italian pop,italian adult pop	0.683	0.533	0.0	0.0659	112.34	0.59	0.548
+7zjbF7hSWzhdYIYp3ANmax	Neri Per Caso	Le Ragazze	ITE039500002	49	classic italian pop,italian adult pop	0.776	0.515	0.0	0.0357	96.191	0.378	0.259
+1Sr4RnfU7JVaRKuhNrfI5h	Ornella Vanoni,Toquinho,Vinícius de Moraes	La voglia, la pazzia	ITR007601026	54	classic italian pop,italian adult pop,italian lounge	0.895	0.4	7.89e-06	0.0504	88.706	0.77	0.47
+2Ef73KZoTCmkABkxetqQ17	Pino Daniele	A Me Me Piace 'O Blues - Remastered 2008	ITD000800076	48	canzone d'autore,canzone napoletana,classic italian pop,folk rock italiano,italian adult pop	0.246	0.751	1.51e-05	0.23	118.433	0.91	0.896
+0PUb2ayVE7D5c85MQEXkVU	Fred Bongusto	Spaghetti, pollo, insalatina e una tazzina di caffè	ITB006700224	36	classic italian pop,italian lounge	0.814	0.627	2.49e-06	0.166	110.409	0.724	0.525
+0ekMehNXQgeMJXfCPrlTTf	Frankie HI-NRG MC,Riccardo Sinigallia	Quelli che benpensano (feat. Riccardo Sinigallia)	ITB009700230	56	italian underground hip hop,rap italiano old school,rap napoletano	0.0292	0.705	0.00041	0.131	89.005	0.631	0.729
+2eawcwJbEmSjBt4FR6MGuS	Neri Per Caso,Neffa	Prima Di Andare Via (feat. Neffa)	ITB000800030	24	classic italian pop,italian adult pop	0.399	0.845	0.0	0.0692	99.995	0.922	0.41
+6eQ68Gkpa5wsPaNpMWKI9x	Pino Daniele	Dubbi non ho - 2017 Remaster	ITR001700156	56	canzone d'autore,canzone napoletana,classic italian pop,folk rock italiano,italian adult pop	0.67	0.725	0.0293	0.0287	87.283	0.444	0.52
+6CfDbn6INwMPR7VHn4ZSkj	Neri Per Caso	Viva La Mamma	ITE039500003	35	classic italian pop,italian adult pop	0.624	0.763	0.0	0.212	165.068	0.941	0.457
+29cDz9LLpr0qOur3ZkhNsg	Paola & Chiara	Vamos a bailar (Esta vida nueva) - Festivalbar Cut	ITM000102302	53	italian adult pop	0.0683	0.669	8.65e-06	0.0379	116.021	0.515	0.902
+4mmca2Uijyz34GDPwyrJH9	Raphael Gualazzi	Reality And Fantasy - Radio Edit	ITZ041000042	48		0.862	0.813	0.000686	0.0301	107.953	0.97	0.598
+09A9SaxoI4nsOxrQKUVlTl	Selton	Voglia di infinito	ITKZ91500017	43	italian alternative,italian indie pop,milan indie	0.0834	0.596	0.0	0.097	133.04	0.576	0.804
+7MPOPmb2GcInulIlgqB6Hy	Eugenio Bennato	Che il Mediterraneo sia	ITE320800281	49	italian folk	0.428	0.683	0.000165	0.0436	106.025	0.635	0.517
+01udps08d3S2VlMnk6R8my	Neri Per Caso	Donne	ITE039500008	34	classic italian pop,italian adult pop	0.778	0.577	0.0	0.0461	103.487	0.532	0.463
+5dpZZzyJCuxWbyMiHRv32G	Marina Rei	Primavera (You To Me Are Everything)	ITPOO9700059	53	italian adult pop	0.0991	0.669	0.0	0.068	105.972	0.833	0.948
+3uyzarwYMuh0QTiZxTBIJq	Piotta	Supercafone - '99	ITC899900015	53	italian reggae,rap italiano old school	0.0243	0.757	0.155	0.148	100.958	0.678	0.715
+2gCJwO6fcVj1b84kymI52P	Gabriella Ferri	Remedios	QMFMF2129324	47	classic italian pop	0.591	0.609	0.0	0.101	136.958	0.789	0.519
+0xNyVOkBW848Tx2WItnimt	Fred Buscaglione	Juke box	ITD015802964	47	classic italian pop,swing italiano	0.917	0.711	2.72e-06	0.26	142.462	0.764	0.42
+6gwLtpIJ9xpgu37Nk0O7hy	Neri Per Caso	Sentimento Pentimento	ITE039500006	44	classic italian pop,italian adult pop	0.413	0.811	0.0	0.202	97.143	0.879	0.58
+6gwLtpIJ9xpgu37Nk0O7hy	Neri Per Caso	Sentimento Pentimento	ITE039500006	44	classic italian pop,italian adult pop	0.413	0.811	0.0	0.202	97.143	0.879	0.58
+7sgtBWt16QwAqoxW9cQJtT	Joomanji	Impediment (feat. Lindsay Olsen)	uscgj1340496	31	indie jazz,indie soul	0.577	0.607	0.36	0.15	92.341	0.436	0.313
+42a9PRYAL2RkEVlFyJnlMT	Zanma	Poutchi	FR4EO1600050	20		0.421	0.723	0.0502	0.174	196.736	0.954	0.456
+4B7XidpBnA9OgzLEZFxouW	Beatslaya,Stein Westt,Chalice Serrano	The Qall	QMQ891200127	5		0.617	0.734	0.0036	0.322	82.061	0.511	0.801
+0vcU69YeboKQAcNCJLSxm6	Benedek	Ryukyu	QMHG41689002	15	synth funk	0.427	0.729	0.869	0.0364	88.994	0.799	0.645
+5eKGk09UXh0y0CrR4EUhFQ	El Columpio Asesino	Preparada	QM7281985601	50	latin rock,spanish indie pop,spanish noise pop	0.00134	0.697	0.00858	0.035	128.972	0.83	0.606
+7DZH1CPVd42VqISX5Q3nW8	Joe Crepúsculo	Discoteca en ruinas	ES79A2016403	33	indie catala,latin rock,spanish indie pop,spanish noise pop	0.00346	0.687	0.0221	0.0311	107.978	0.902	0.849
+2t8tn3a5Jo1XTkaiqH0Ba2	Amatria	Un Amor	ES65D1900011	44	latin rock,spanish indie pop,spanish modern rock,spanish noise pop	0.103	0.816	0.00628	0.0441	93.986	0.63	0.651
+0GARcbxLIOmzrs0lHpuvmi	Carlos Sadness,Bomba Estéreo	Aloha	ES5021901671	54	spanish indie pop,spanish pop	0.102	0.801	0.000212	0.102	131.998	0.597	0.901
+45gpJxviKRBsQo1lDZ03Xf	Keren Ann	Jardin d'hiver	FRZ119900470	65	chanson,dutch pop,nouvelle chanson francaise	0.792	0.805	0.612	0.0463	115.014	0.547	0.307
+2kptbkLBTTUOiD1HDLCa3H	Orange Blossom	Ya Sîdî	FRX471410002	55	electro dub	0.194	0.327	0.00965	0.0362	184.162	0.039	0.421
+1aZaXTze8QrC4R4qqE21pG	Khaled Mouzanar	Mreyte Ya Mreyte	FR47Q0706250	46	arab folk,lebanese indie	0.887	0.306	0.123	0.0386	118.29	0.105	0.143
+4KJHTdyIUdhKEuZdV3UuWR	René Aubry	Séduction	FR6V81743783	59	compositional ambient	0.989	0.583	0.928	0.0413	100.003	0.401	0.193
+0lI4NU85a2bxlPVfzjOuTc	Marbert Rocel	Song For You	DEM091200053	56	leipzig indie	0.124	0.924	0.171	0.133	123.027	0.761	0.415
+4Abirka1cnsMtWOMhpwKx5	Charles Pasi	A Man I Know	FR10S1409293	58	french indie pop	0.5	0.744	0.0775	0.029	113.032	0.0819	0.391
+0bTVrDHZ8ddqq8qdrdHiQz	Mathieu Boogaerts	Avant que je m'ennuie	FR79W1200210	56	chanson,french indie pop,french indietronica,french rock,nouvelle chanson francaise	0.662	0.84	0.383	0.111	143.917	0.552	0.312
+6e65fH1wClamA2QPI5HUi3	Portico Quartet	Prickly Pear	GBVEN1000037	58	british jazz,compositional ambient,contemporary jazz,electronica,indie jazz,jazz quartet,neo-classical,new tribe,nu jazz	0.965	0.4	0.944	0.0338	164.165	0.268	0.245
+0eUPlkkyw9P6wZt9zaOVFb	Orange Blossom	Mexico	FRX471410008	44	electro dub	0.124	0.238	0.00154	0.0363	191.799	0.416	0.539
+7eNSFI98UnXDhx0RSE8GG9	Hindi Zahra	Beautiful Tango - Unplugged	FR9W11102789	56	world	0.911	0.752	0.000913	0.0783	122.262	0.332	0.207
+3DmHaJ9zYKj5Snos05lkVF	Rory Gallagher	Bad Penny	GBUM71706771	63	album rock,blues,blues rock,british blues,classic rock,country rock,electric blues,hard rock,modern blues,rock,roots rock	0.0974	0.252	0.00881	0.0646	199.738	0.689	0.729
+6kPxXhjSvy8RsmZBAJUiFs	The Byrds	You Ain't Goin' Nowhere	USSM16800127	60	art rock,beatlesque,blues rock,brill building pop,classic rock,cosmic american,country rock,folk,folk rock,mellow gold,psychedelic rock,rock,roots rock,soft rock	0.109	0.512	0.00225	0.0449	132.495	0.7	0.426
+6MOEQCtAWNSCmvg3SFKF5y	Donovan	Season of the Witch	USSM19916827	67	art rock,british folk,british invasion,classic rock,folk,folk rock,glam rock,mellow gold,psychedelic folk,psychedelic rock,rock,roots rock,scottish singer-songwriter,singer-songwriter	0.159	0.516	0.00957	0.0288	99.735	0.694	0.513
+4oarDDCWsSnX2WOIRKuQo1	Jimi Hendrix	Up From The Skies	USQX90900752	47	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.603	0.659	0.0214	0.202	144.965	0.413	0.635
+6o21UfW2RHkzzleZGLfFpK	The Yardbirds,Eric Clapton	For Your Love - 2015 Remaster	GBAWA0515289	62	album rock,art rock,blues rock,british blues,british invasion,classic rock,country rock,electric blues,folk rock,hard rock,merseybeat,psychedelic rock,rock,roots rock,symphonic rock	0.24	0.288	0.0	0.0428	94.445	0.617	0.62
+1qRA5BS78u3gME0loMl9AA	Buffalo Springfield	For What It's Worth	USEE10170607	78	blues rock,classic rock,country rock,folk,folk rock,mellow gold,psychedelic rock,rock,roots rock,soft rock	0.406	0.653	0.0209	0.0497	98.883	0.822	0.519
+5x7Oxaa9EEIx9nw17CC5yW	B.B. King	Chains And Things	USMC17046303	60	blues,blues rock,classic rock,electric blues,jazz blues,soul blues,traditional blues	0.593	0.56	0.195	0.0314	79.537	0.341	0.241
+2wnjZXcAT3rCjjqxLeHjv7	Freddie King	Going Down	USSH49500017	64	blues,blues rock,classic rock,electric blues,texas blues,traditional blues	0.0339	0.565	0.000119	0.0365	167.936	0.637	0.526
+2HUZVffVPXvqnrml0gXggp	Howlin' Wolf	Smokestack Lightnin'	USMC15646854	64	blues,blues rock,chicago blues,classic rock,delta blues,harmonica blues,memphis blues,traditional blues	0.844	0.661	0.000128	0.043	146.118	0.588	0.342
+5H6Jp0syB5yEPk7SWYdlmk	Jimi Hendrix	The Wind Cries Mary	USQX90900771	66	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.348	0.499	0.0286	0.0501	80.086	0.339	0.495
+107K6xieSp2ihzoA2vTv2q	Blind Faith	Can't Find My Way Home	NLF056990018	58	blues rock,british blues,classic rock,country rock,electric blues,folk rock,roots rock,supergroup	0.858	0.561	0.00185	0.0343	88.276	0.579	0.257
+4RGxUjaCmVtD30pIhtEi7w	Donovan	Sunshine Superman	USSM19805194	64	art rock,british folk,british invasion,classic rock,folk,folk rock,glam rock,mellow gold,psychedelic folk,psychedelic rock,rock,roots rock,scottish singer-songwriter,singer-songwriter	0.122	0.629	9.72e-06	0.0299	132.783	0.627	0.677
+042v1NacbKJzCyi6nBme7T	Buffalo Springfield	Mr. Soul	USEE10170619	59	blues rock,classic rock,country rock,folk,folk rock,mellow gold,psychedelic rock,rock,roots rock,soft rock	0.108	0.674	6.48e-06	0.0384	133.789	0.961	0.706
+7j02rdE5RVtNcNMuLGY5SS	Howlin' Wolf	Spoonful	USMC16051851	59	blues,blues rock,chicago blues,classic rock,delta blues,harmonica blues,memphis blues,traditional blues	0.669	0.821	1.39e-05	0.0487	119.039	0.824	0.376
+1Eolhana7nKHYpcYpdVcT5	Jimi Hendrix	Little Wing	USQX90900757	73	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.181	0.515	0.00278	0.0768	70.776	0.426	0.534
+5xx86iI1KjBEkw2AbQmu2r	Jimi Hendrix	Highway Chile	USQX90900778	37	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.276	0.435	0.000626	0.141	138.528	0.652	0.938
+5ygQD0fcj0vRGx9KUBENtT	Jimi Hendrix	The Wind Cries Mary	USQX90900771	46	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.353	0.502	0.00806	0.0502	79.383	0.302	0.49
+7v21gImg3Mml9NpkRgWihX	Jimi Hendrix	51st Anniversary	USQX90900777	35	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.13	0.439	0.00948	0.0557	134.07	0.269	0.81
+20US4JIykUvnFpxMXp0lWv	Jimi Hendrix	Purple Haze	USQX90900765	53	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.0068	0.527	0.723	0.0759	108.57	0.458	0.891
+544FmlHVkzNrnkmCfYHLVb	Jimi Hendrix	Stone Free	USQX90900776	38	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.016	0.548	0.000118	0.0541	133.701	0.841	0.837
+0OQcEcs36ckWOB1nywhmBV	Jimi Hendrix	Hey Joe	USQX90900767	53	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.00422	0.351	0.441	0.0366	166.656	0.504	0.764
+3YTTBONdXJOXMCQP7vvPuY	Jimi Hendrix	Are You Experienced?	USQX90900775	38	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.0265	0.399	0.00973	0.125	82.821	0.435	0.769
+3nCkf5CB7Xjy6VrfJQnUvB	Jimi Hendrix	Remember	USQX90900780	36	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.04	0.735	0.0254	0.0424	99.145	0.754	0.771
+73ZOw1zRRlEbEdGPgBjA01	Jimi Hendrix	Third Stone From The Sun	USQX90900773	38	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.0229	0.218	0.771	0.0571	84.087	0.422	0.763
+72wtjcPwWVpP4PVcNcl30v	Jimi Hendrix	Fire	USQX90900772	42	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.00156	0.486	0.0213	0.122	153.462	0.577	0.944
+7jDhN4HgZjrirHMo3fofn3	Jimi Hendrix	May This Be Love	USQX90900769	39	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.207	0.517	0.148	0.0682	95.38	0.482	0.609
+2z7kBHh4EQmY8OsD5JfxKk	Jimi Hendrix	I Don't Live Today	USQX90900770	37	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.00464	0.347	0.902	0.119	111.554	0.426	0.919
+1fbK6qvv0PghESZsg0Kasi	Jimi Hendrix	Love Or Confusion	USQX90900768	38	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.0133	0.266	0.913	0.0648	110.468	0.495	0.884
+2RUGdg80MApSer2rx7JrZr	Jimi Hendrix	Can You See Me	USQX90900779	38	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.219	0.571	0.136	0.0461	134.277	0.921	0.816
+7bbf6izisrvlYdFVGeV8q9	Jimi Hendrix	Red House	USQX90900781	43	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.587	0.36	0.0777	0.143	198.958	0.43	0.532
+6DRtSttaJsE8fstgTRll3p	Jimi Hendrix	Manic Depression	USQX90900766	42	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.0132	0.351	0.0619	0.129	149.687	0.747	0.969
+4sQdW03IQh3tsZeBELdt5G	Jimi Hendrix	Foxey Lady	USQX90900774	47	acid rock,album rock,blues rock,classic rock,hard rock,proto-metal,psychedelic rock,rock	0.0612	0.507	0.157	0.0386	98.061	0.587	0.851
+5Q2Im8o4RthlAMkvUMYwGj	The Doors	Love Street	USEE19900745	58	acid rock,classic rock,psychedelic rock,rock	0.687	0.709	0.0	0.0397	118.821	0.483	0.305
+3bWGaqVeYKMlLss40mPgNn	The Doors	Hello, I Love You	USEE19900744	63	acid rock,classic rock,psychedelic rock,rock	0.029	0.597	0.0	0.0425	117.835	0.963	0.554
+0jOnZhF75V68VsBObWx2XO	Camille Saint-Saëns,Yo-Yo Ma,Kathryn Stott	The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)	USQX91500824	71	classical,french romanticism,late romantic era	0.986	0.169	0.86	0.0442	128.143	0.0573	0.0161
+3kYyPciITqUlRNqQ2remSG	Dmitri Shostakovich,Vassily Sinaisky,BBC Philharmonic	The Gadfly Suite, Op. 97: VIII. Romance	GBLWD0404013	43	classical,compositional ambient,russian modern classical	0.914	0.0856	0.571	0.0478	75.825	0.0354	0.0362
+6kielg9pAlREPv4fnFaT91	Reynaldo Hahn,Albrecht Mayer,Academy of St. Martin in the Fields,Mathias Mönius	A Chloris (Arr. For Cor Anglais & Orchestra)	GBBBA1043080	37	french romanticism,operetta,post-romantic era	0.968	0.176	0.958	0.0402	86.704	0.074	0.0416
+5xa9OEvqxxibm31ClABYQ6	Wolfgang Amadeus Mozart,Christoph Koncz,Les Musiciens du Louvre	Violin Concerto No. 3 in G Major, K. 216: II. Adagio	USQX92003219	38	classical,classical era	0.916	0.149	0.000472	0.0385	174.08	0.0848	0.0464
+3JdD9wqvohYMjK6BmEHtTP	Erik Satie,Gautier Capuçon,Jerome Ducros,Adrien Perruchon,Orchestre de chambre de Paris	Satie / Orch. Ducros: Gymnopédie No. 1	GBAYC2002212	67	classical,early avant garde,early modern classical,impressionism,post-romantic era	0.942	0.0921	0.94	0.0513	166.979	0.039	0.0183
+1NechTDnTtSaciAT6gmvJQ	Clara Schumann,Anneleen Lenaerts,Dionysis Grammenos	Schumann: 12 Gedichte aus Liebesfrühling, Op. 37: No. 11: Warum willst du andre fragen	ATDJ31600009	60	early romantic era,german romanticism	0.995	0.238	0.95	0.0393	70.821	0.0394	0.00484
+1cdNMfQzAhyChjFUwXfYxL	Joachim Raff,Bamberg Symphony,Hans Stadlmair	"Symphony No. 3 in F Major, Op. 153, ""Im Walde"": II. Abteilung: In der Dammerung. Traumerei: Largo"	CH0040000310	36	german romanticism,late romantic era	0.966	0.0691	0.929	0.0433	75.967	0.0368	0.0188
+1DsqYVJjTCfYmxOnlDPQPr	Claude Debussy,Joshua Bell	Beau soir, L. 6 (Arranged for Violin and Piano by Jascha Heifetz)	USSM10603091	38	classical,impressionism,post-romantic era	0.99	0.196	0.933	0.0415	81.582	0.0365	0.0496
+7eiTrJ0Q60aF5XeUqgUoDB	Frédéric Chopin,Johannes Moser,Ewa Kupiec	Cello Sonata in G Minor, Op. 65: III. Largo	DEA551033252	36	classical,early romantic era,polish classical	0.985	0.155	0.941	0.0392	84.774	0.0473	0.0056
+2u89h3u1Q9DGFSGkOEmGga	Bedřich Smetana,William Howard	Bagatelles et impromptus: VII. Love	GBYDS1600036	35	classical,czech classical,late romantic era	0.995	0.207	0.909	0.0366	70.736	0.103	0.00805
+36BiPe234qbAkX7kKxCF8z	Johann Sebastian Bach,Murray Perahia	Wachet auf, ruft uns die Stimme, No. 2, BWV 645	USSM19908798	41	baroque,classical,early music,german baroque	0.995	0.252	0.849	0.0427	135.694	0.343	0.0148
+6tOJ0ShJiEx6XXUQ0NgbYj	Felix Mendelssohn,Doric String Quartet	String Quartet No. 3, Op. 44 No. 1, MWV R30: II. Menuetto. Up poco allegretto	GBLWD2105106	36	classical,early romantic era,german romanticism	0.924	0.194	0.253	0.0535	110.244	0.058	0.0205
+2H4M3lyO2rJFQw33idCk1X	Buju Banton	Hills And Valleys	USVPR9705090	58	dancehall,lovers rock,modern reggae,old school dancehall,reggae,reggae fusion,roots reggae	0.477	0.687	0.0	0.162	72.082	0.742	0.544
+2C7V873vI6fomP10lVwcfm	Barrington Levy	Don't Give Up	GB5KW1801274	55	dub,lovers rock,reggae,reggae fusion,roots reggae	0.0551	0.83	1.64e-05	0.0953	140.569	0.837	0.467
+2rahWhhubhQMhG6coo7Vu9	Bob Marley & The Wailers	Kaya	USIR27800258	62	reggae,roots reggae	0.0346	0.827	2.67e-05	0.0633	97.548	0.83	0.601
+4llIZen1Cn4mi3DJm2Lqlz	Gregory Isaacs	Cool Down The Pace	USIR28200043	61	dub,lovers rock,reggae,roots reggae	0.122	0.87	0.0514	0.248	75.895	0.933	0.299
+5wgy309XNqFkqj8MMDquvj	Stephen Marley,Capleton	Break Us Apart	USUM71105948	59	modern reggae,reggae,roots reggae	0.0273	0.864	0.0	0.251	122.139	0.72	0.596
+2Jko3yQgktaKnFcmyLv3g7	Third World	1865 (96º In The Shade)	GBAPA7700002	56	dub,lovers rock,reggae,reggae fusion,roots reggae	0.0314	0.918	0.000153	0.15	131.84	0.803	0.393
+70idjVtmzhvE1tXgHYEF2y	Ini Kamoze	World-A-Reggae	USNF98210002	57	dub,reggae,reggae fusion,roots reggae	0.0105	0.863	0.000774	0.0601	73.724	0.382	0.457
+7578oiL9J6tFHXEjfCXFAS	Eek-A-Mouse	Wa-Do-Dem	GBBZV8101363	55	dub,reggae,roots reggae	0.376	0.855	0.0	0.0595	77.514	0.81	0.602
+2eHOlLD5glnSYlfWXYGTbd	Bob Marley & The Wailers	Positive Vibration	USIR27600001	63	reggae,roots reggae	0.0184	0.918	0.00166	0.0564	131.884	0.49	0.37
+4iZxFlcCg5Z6bVYsxqiT61	Barrington Levy	Black Roses	USTKX1100212	57	dub,lovers rock,reggae,reggae fusion,roots reggae	0.0558	0.801	0.00861	0.0814	84.793	0.877	0.516
+6KGggJ08SRmMuJojRYM4Lv	Max Romeo,The Upsetters	Chase The Devil	USIR27600022	65	dub,reggae,rocksteady,roots reggae,ska	0.183	0.825	0.0	0.211	150.243	0.744	0.62
+0GGPUysb8GpCG76dQH63te	Culture	The International Herb	GBAAA7900428	55	dub,lovers rock,reggae,roots reggae,ska	0.0585	0.825	0.0	0.337	127.686	0.687	0.433
+3ciMXKwXlLCFcQCyhKblZs	Steel Pulse	Roller Skates	USEE19901168	55	dub,reggae,roots reggae,uk reggae	0.232	0.833	0.0	0.238	78.689	0.807	0.575
+7nT9lGk3bf5rvnVbzPIE3N	Collie Buddz	Love & Reggae	TCADQ1876607	61	dancehall,jawaiian,modern reggae,reggae,reggae fusion,roots reggae	0.0136	0.743	0.0	0.163	77.958	0.628	0.576
+0di7hMT6o1ogeUN1XDB9Ft	Desmond Dekker	Israelites	GBAJE6800413	59	jamaican ska,reggae,rocksteady,ska,ska revival	0.225	0.743	0.000586	0.0581	74.095	0.972	0.541
+2K4opmyBf45LWNP2ucm7Df	Barrington Levy	Under Me Sensi	GBBZV0601240	53	dub,lovers rock,reggae,reggae fusion,roots reggae	0.0199	0.688	0.0	0.137	75.728	0.501	0.653
+6EmP97fPXI3aiHnrsHuj08	Bob Marley & The Wailers	Rat Race	USIR27600010	59	reggae,roots reggae	0.067	0.704	2.96e-06	0.423	76.298	0.711	0.38
+7vp89zcbYncoBCbX5HA3tZ	Bunny Wailer	Dream Land	USIR20180507	64	dub,lovers rock,reggae,roots reggae	0.175	0.782	0.000294	0.363	72.339	0.89	0.43
+1Bsl6Jw7bJtQ4pc7OQREog	Stephen Marley,Mos Def	Hey Baby	USUM70621652	63	modern reggae,reggae,roots reggae	0.105	0.718	1.03e-05	0.263	185.025	0.634	0.595
+4tAovg61pSYsjkdXi3MWtX	Jimmy Cliff	Many Rivers To Cross	USAM10200240	55	dub,reggae,roots reggae	0.718	0.405	0.00305	0.0654	137.691	0.119	0.284
+0czsQ1YOT71kdVfyFoTy3U	Steel Pulse	Your House	USEE19901171	58	dub,reggae,roots reggae,uk reggae	0.057	0.707	4.25e-06	0.0879	154.118	0.966	0.716
+4abVwdCy5QUcyI3KS2lMJK	Barrington Levy	Here I Come	GBBZV8751730	62	dub,lovers rock,reggae,reggae fusion,roots reggae	0.161	0.586	0.0	0.0825	170.743	0.693	0.663
+0d5kLB4iMx2208UwieUzNa	Tribal Seeds	The Garden	ushm20928946	58	reggae,reggae rock,roots reggae,west coast reggae	0.0814	0.849	0.000378	0.0586	149.914	0.895	0.703
+1efuoLEUL1K0D96d63svRO	Bob Marley & The Wailers	Easy Skanking	USIR27800257	62	reggae,roots reggae	0.0159	0.824	3.12e-06	0.0384	126.238	0.581	0.522
+7nnxlucFOovCdayN8JcrVZ	The Wailers	Put It On	GBAAN7300129	55	dub,reggae,roots reggae,ska	0.418	0.794	0.272	0.0757	90.112	0.869	0.539
+6pVlTCKpUK1TGfWtaWWcSx	The Gladiators	Soul Rebel - 1990 Digital Remaster	GBAAA9000280	54	dub,reggae,roots reggae,ska	0.021	0.822	0.000302	0.0422	84.3	0.698	0.324
+2gvyIHua7cS9L53NvHfa9c	Bob Marley & The Wailers	Natural Mystic	USIR27700008	67	reggae,roots reggae	0.0515	0.868	6.95e-05	0.34	131.193	0.795	0.281
+5uPYEStMW3KsXnnLV7iCTw	Peter Tosh,John Benitez	Johnny B. Goode - 2002 Remaster	GBAYE0200090	65	dub,reggae,roots reggae	0.0299	0.749	0.000168	0.0544	145.169	0.959	0.849
+7LOAChK8Lkj8ZdF1LuhNWP	Desmond Dekker,ACES	007 (Shanty Town)	GBAJE6600282	59	jamaican ska,reggae,rocksteady,ska,ska revival	0.155	0.831	0.262	0.0601	101.681	0.826	0.65
+5xVhxCt6RZ1RLNflBYeuwV	Israel Vibration	Natty Dread	FR5R00900466	57	dub,reggae,roots reggae	0.0225	0.916	0.0	0.185	136.02	0.756	0.666
+34Jqj42hsT3O3N8yihE3B6	The Wailers	Burnin' And Lootin'	GBAAN7390008	59	dub,reggae,roots reggae,ska	0.0639	0.891	1.93e-05	0.348	133.217	0.821	0.399
+30ELPvO4DH57Rq2kgj7a8e	Burning Spear	Marcus Garvey	USIR27500001	57	dub,reggae,roots reggae,ska	0.129	0.7	0.000891	0.0687	91.558	0.578	0.473
+2Wv7ETWvaAmsQT2hk0Hk76	Dennis Brown	Lips of Wine	GBAJE7000678	55	dub,lovers rock,old school dancehall,reggae,roots reggae,ska	0.121	0.858	0.000376	0.0411	105.114	0.93	0.473
+1q8gelFgFYUwoWpQV7WNCe	Toots & The Maytals	54-46 Was My Number	USIR20300108	60	reggae,rocksteady,ska	0.18	0.685	0.0	0.0568	160.448	0.597	0.36
+4mSa4FTQnnlrSMkbHUdo7B	Desmond Dekker,The Aces	Fu Man Chu	GBAJE6800416	54	jamaican ska,reggae,rocksteady,ska,ska revival	0.524	0.763	0.00034	0.0856	83.755	0.675	0.391
+209SbubR5uKaVzj5SeN42w	Bob Marley & The Wailers	So Much Trouble In The World	USIR27900001	62	reggae,roots reggae	0.237	0.835	0.000249	0.0814	155.714	0.904	0.552
+0t1uStHetivmybat71m0Lv	Israel Vibration	My Master's Will	FR6V81478759	57	dub,reggae,roots reggae	0.153	0.857	0.0	0.242	143.757	0.737	0.537
+2EISedV2npKMtvygkykV2r	Toots & The Maytals	Pressure Drop	GBAWA0378497	56	reggae,rocksteady,ska	0.603	0.653	0.0	0.0369	146.296	0.986	0.459
+0hebjXwdDFHS1kHDQ82HZr	Wailing Souls	Jah Give Us Life	GBBZV8704802	54	dub,lovers rock,old school dancehall,reggae,roots reggae,ska	0.0521	0.76	0.000932	0.0578	144.678	0.962	0.568
+4mSa4FTQnnlrSMkbHUdo7B	Desmond Dekker,The Aces	Fu Man Chu	GBAJE6800416	54	jamaican ska,reggae,rocksteady,ska,ska revival	0.524	0.763	0.00034	0.0856	83.755	0.675	0.391
+2qmHhaOmlcKDeGfipGhF1j	Bob Marley & The Wailers	Africa Unite	USIR27900006	64	reggae,roots reggae	0.191	0.904	0.00179	0.116	127.57	0.751	0.431
+5cTsXX5qwa6zmG80OCz4hR	Bob Marley & The Wailers	Ride Natty Ride	USIR27900008	61	reggae,roots reggae	0.0837	0.922	0.00424	0.0787	125.033	0.939	0.61
+6kAye2WmX9RVnheY3QmF54	Bob Marley & The Wailers	Ambush In The Night	USIR27900009	49	reggae,roots reggae	0.325	0.92	0.0206	0.203	119.478	0.806	0.461
+6xbtDXk8utIS8rOWD0X9XA	Bob Marley & The Wailers	Babylon System	USIR27900004	57	reggae,roots reggae	0.121	0.766	0.0	0.125	91.392	0.725	0.429
+5ApfJDLibIoWL0mRZ5uOKu	Bob Marley & The Wailers	Zimbabwe	USIR27900002	62	reggae,roots reggae	0.0901	0.932	0.00156	0.0853	125.238	0.77	0.611
+3Ui4BMHapr00Iul1kB7lHC	Bob Marley & The Wailers	One Drop	USIR27900007	66	reggae,roots reggae	0.12	0.901	1.05e-05	0.237	121.244	0.828	0.478
+7rCOQjHqD2ArkKvoemDG54	Bob Marley & The Wailers	Survival	USIR27900005	48	reggae,roots reggae	0.163	0.906	1.52e-06	0.223	142.103	0.751	0.587
+1Gb2wkjjyJBPFBnF0Cl5Ni	Bob Marley & The Wailers	"Ride Natty Ride - 12"" Mix"	USIR27900406	44	reggae,roots reggae	0.129	0.881	0.000112	0.0371	125.988	0.943	0.733
+0uMvm0efKsaADso8NO7pk1	Bob Marley & The Wailers	Top Rankin'	USIR27900003	48	reggae,roots reggae	0.115	0.874	3.33e-06	0.0975	134.866	0.742	0.371
+6xde1uNyEiLOs545PjATUJ	Bob Marley & The Wailers	Wake Up And Live	USIR27900010	49	reggae,roots reggae	0.166	0.934	0.0131	0.071	134.211	0.962	0.5
+2n7b2QunjscltD9m6WAwif	CYBEREALITYライフ,Architecture In Tokyo	MELTNET	QZNWW2014923	12	future funk,mallsoft,vaporwave	0.0952	0.441	0.49	0.0685	193.926	0.424	0.872
+18ohQLwM21kmk6t1QvD6yD	豊平区民Toyohirakumin	Phenomenon	USA2P1520586	27	hardvapour,mallsoft,vaporwave	0.939	0.29	0.944	0.0347	77.281	0.582	0.701
+744D95MXJOmZq0q0EI01zF	Infinity Frequencies	Breeze	GBXS51312803	32	mallsoft,vaporwave	0.115	0.588	0.973	0.035	93.693	0.0698	0.645
+6IY5o2TKrtJZkeqGJmU608	Eyeliner	Closeness	uscgh1658444	23	future funk,hardvapour,vaporwave	0.00111	0.659	0.126	0.0401	99.486	0.7	0.797
+30kHEJIejHJDC8knVow5sE	CYBEREALITYライフ,ULTRA ULTRA	TELECOM CRUISE	QZNWW2014926	9	future funk,mallsoft,vaporwave	0.0282	0.249	0.817	0.0344	68.665	0.0633	0.619
+20CZDX4inkjL8BIlcJaLvh	Infinity Frequencies	Continental	GBXS51312817	15	mallsoft,vaporwave	0.00457	0.58	0.8	0.0559	109.126	0.806	0.997
+2X8j1vYJaJZ1vIRp7csg2y	luxury elite	S.W.A.K.	USQY51588378	52	chillsynth,mallsoft,slushwave,vaporwave	0.327	0.727	0.33	0.108	82.962	0.389	0.484
+7wRIOehAeJMt2l28GS5nas	U2	Bullet The Blue Sky - Live	GBUM71700892	39	irish rock,permanent wave,rock	0.0244	0.38	0.0229	0.0539	77.464	0.369	0.738
+3RxrdgLVyENtIesgO7M0yJ	U2	MLK - Live	GBUM71700898	40	irish rock,permanent wave,rock	0.672	0.125	0.00241	0.0327	147.847	0.0703	0.306
+6O9tZdjb9TneFWsqT8KCYW	U2	Medley: I Still Haven’t Found What I’m Looking For / Exodus - Live	GBUM71700895	42	irish rock,permanent wave,rock	0.146	0.417	0.0	0.0391	99.831	0.338	0.778
+5KE3eRamgPx3VpY77uTiYo	U2	Trip Through Your Wires - Live	GBUM71700904	41	irish rock,permanent wave,rock	0.00466	0.401	0.0	0.046	114.011	0.457	0.871
+6sPhFkiaV0HNM7daKybHpe	U2	I Will Follow - Live	GBUM71700890	43	irish rock,permanent wave,rock	0.00123	0.234	1e-05	0.0581	140.236	0.49	0.902
+7zNI77Hq75Ne7JQg2efwAs	U2	Where The Streets Have No Name - Live	GBUM71700886	48	irish rock,permanent wave,rock	0.0255	0.373	0.00092	0.0729	128.1	0.139	0.857
+0hyTCepHLrkjWBtczMxUxZ	U2	Mothers Of The Disappeared	GBUM70709785	46	irish rock,permanent wave,rock	0.121	0.524	0.863	0.033	103.568	0.0399	0.25
+5I5XfaTmAxWlJzg8Eynjby	U2	Exit	GBUM70709782	44	irish rock,permanent wave,rock	0.0315	0.295	0.785	0.041	117.932	0.0392	0.308
+3w3qWhplVQcO5aGU6Ipdhq	U2	One Tree Hill	GBUM70709786	51	irish rock,permanent wave,rock	0.23	0.596	0.107	0.0365	123.213	0.248	0.581
+6yXoCR2tdhuqClB4HyxzOq	U2	Trip Through Your Wires	GBUM70709790	45	irish rock,permanent wave,rock	0.00142	0.44	0.00715	0.0327	110.641	0.489	0.701
+1AQYE6CcYKlzM8e9Df5i1g	U2	In God's Country	GBUM70709784	56	irish rock,permanent wave,rock	0.0071	0.497	6.69e-05	0.0324	125.919	0.607	0.704
+2G4F5Fc0DUFkkODwhWnbmt	U2	Red Hill Mining Town	GBUM70709787	52	irish rock,permanent wave,rock	0.153	0.335	0.00272	0.0343	137.152	0.377	0.68
+4MLPCRYNhDIKcRjzS54ceu	U2	Running To Stand Still	GBUM70709789	56	irish rock,permanent wave,rock	0.861	0.537	0.0259	0.0287	94.634	0.229	0.199
+12w7q5JN7tf22TzQtQiiBN	U2	Bullet The Blue Sky	GBUM70709772	56	irish rock,permanent wave,rock	0.00735	0.364	0.399	0.0441	152.509	0.451	0.638
+6ADSaE87h8Y3lccZlBJdXH	U2	With Or Without You - Remastered	GBUM70709792	82	irish rock,permanent wave,rock	0.000202	0.54	0.355	0.0285	110.171	0.113	0.429
+6wpGqhRvJGNNXwWlPmkMyO	U2	I Still Haven't Found What I'm Looking For	GBUM70709783	80	irish rock,permanent wave,rock	0.0135	0.564	0.00191	0.0368	100.894	0.657	0.774
+4qgZs0RNjdzKAS22lP0QjY	U2	Where The Streets Have No Name - Remastered	GBUM70709791	71	irish rock,permanent wave,rock	0.00976	0.49	0.0046	0.0366	125.812	0.292	0.724
+1XKmknaAseOoB7eIL1PjxC	Greentea Peng	Nah It Ain't The Same	GBUM72100357	50	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.359	0.658	0.145	0.209	169.504	0.567	0.769
+19mzaOsqn5aemxoM4yW4jN	Greentea Peng	Be Careful	GBUM72102247	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.241	0.915	0.000678	0.0804	112.495	0.485	0.287
+2fLYfQylAoti3aqxZ4E62L	Greentea Peng,SIMMY,Kid Cruise	Free My People (feat. Simmy & Kid Cruise)	GBUM72102245	49	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.13	0.848	0.633	0.0518	107.99	0.539	0.426
+6S3n2tU4UKLxgFMp4tb56d	Greentea Peng	This Sound	GBUM72102211	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.055	0.737	5.24e-05	0.135	86.931	0.828	0.798
+6V961El0b1aLA0HAFuuab9	Greentea Peng	Make Noise	GBUM72102204	44	indie r&b,indie soul,uk alternative hip hop,uk contemporary r&b	0.127	0.606	6.15e-05	0.0776	136.183	0.249	0.695
+6aD8MeXrjHNz7YgrTLHhyA	Edward Elgar,Sofja Gülbadamova	Serenade for Strings in E Minor, Op. 20: II. Larghetto	DEAD62004705	40	british modern classical,classical,late romantic era,victorian britain	0.995	0.428	0.924	0.0709	69.108	0.0934	0.003
+4M0hZaXRCWJb7zwWbOKx7f	Camille Saint-Saëns,Fine Arts Quartet,Cristina Ortiz	Piano Quintet in A Minor, Op. 14: II. Andante sostenuto	HKI191248807	37	classical,french romanticism,late romantic era	0.98	0.166	0.417	0.0427	72.154	0.0525	0.0127
+2YC6GfJ4Bl25Lob1g7mc2h	Johann Christian Bach,Anastasia Injushina,Hamburger Camerata,Ralf Gothoni	Keyboard Concerto in E-Flat Major, Op. 7, No. 5, W. C59: II. Andante	FINDE1200230	39	classical era	0.983	0.23	0.915	0.0482	84.56	0.109	0.0361
+2mhrcoxXxHzQ4fW31wqoa4	Hacker Farm	Bluebeam	GBWSQ1300120	0	hauntology	0.519	0.305	0.316	0.162	166.01	0.128	0.815
+7LDlHCgLwQWNBXyh6eHz8D	Jonny Maybury,Paul Snowden,Simon McCorry,Psychological Strategy Board	Sudden Flash of Space Protection	UKLSS1900019	0		0.896	0.172	0.956	0.217	162.98	0.0527	0.694
+75bE2qyPeZzBiopKmi0YkY	Brooks and O'Hagan	Mulcair	GBGSV1400332	2	hauntology	0.813	0.555	0.786	0.0302	179.956	0.34	0.417
+3BF8T72zCs3LGzptrg2gYO	John Foxx and The Belbury Circle,John Foxx,The Belbury Circle	Almost There	GBGSV1300292	3	hauntology	0.496	0.604	0.00499	0.0364	117.98	0.692	0.493
+1kkwJyZZlp9WEmJvcQ0CZn	Pye Corner Audio with The Advisory Circle,Pye Corner Audio,The Advisory Circle	Cloud Control	GBGSV1100228	19	hauntology	0.372	0.546	0.302	0.0303	119.234	0.637	0.434
+2U8Js7bRCiStQDejK5EHzJ	Thanet	Sky Science	GBYET1100319	0	british experimental,hauntology,uk experimental electronic	0.947	0.218	0.935	0.0453	173.739	0.0391	0.108
+7IzhM5WwEHk5YUfKLeBhWO	Paddy Kingsland	"Castrovalva Suite (From ""Castrovalva"")"	GBAJC8200036	8	hauntology,theme	0.888	0.239	0.917	0.0377	81.459	0.091	0.121
+3r2Lxl4C5B0kf7FIkUOC4C	The British Space Group	An Unearthly Decade	usdy41645232	0	hauntology	0.101	0.74	0.0352	0.0419	120.038	0.286	0.529
+5y3rn7I5Xeouc64VsDKIxd	Jeff Keen	Rayday	GBKTV0402181	0	hauntology,outsider	0.995	0.486	0.547	0.231	104.128	0.565	0.711
+1kicGDJLTVfe3kM7WzQ4St	Ursula Bogner	Sonne = Blackbox	DELA21100095	12	hauntology	0.99	0.33	0.914	0.0438	90.959	0.601	0.517
+6tgMa0rm14MzbecMAM5KTu	Children Of Alice	The Liminal Space	GBBPW1600182	18	hauntology,uk experimental electronic	0.984	0.288	0.889	0.13	120.58	0.314	0.401
+3WWOniXQOWprUhfWkIsmXe	The BBC Radiophonic Workshop	Veils and Mirrors	GBCAD1801930	12	british electroacoustic,british soundtrack,hauntology,theme	0.989	0.127	0.976	0.0907	73.766	0.0384	0.0639
+76uDRSGHAWGV2aYLnesjyO	Belbury Poly and Moon Wiring Club,Belbury Poly,Moon Wiring Club	Portals and Parallels	GBGSV1000193	4	hauntology	0.163	0.561	0.937	0.0327	98.001	0.797	0.723
+3SliuInyApsQsaDwCDbbvY	Beautify Junkyards	Reverie	GBGSV2000565	33	hauntology,modern psychedelic folk	0.721	0.545	0.817	0.0333	111.011	0.177	0.647
+48TvQuVmKUIHjg7F9RiN8i	John Baker	Dial M For Murder	GBKTV0400174	0	acousmatic,hauntology,theme	0.77	0.308	0.00641	0.283	78.616	0.169	0.8
+4nD1tdU9OE7aTbsygsi85U	Dudley Simpson	"The Android Invasion Episodes 3 and 4 (From ""The Android Invasion"")"	GBAJC7500026	5	hauntology,theme	0.935	0.331	0.646	0.0412	124.946	0.0332	0.143
+5a7TKRBOr7g5W4Up8LwaFe	ToiToiToi	A Travel Agent's Dream	GBGSV1700400	21	hauntology	0.155	0.624	0.382	0.0729	156.264	0.865	0.537
+48NWSjvLSqKHo7ao4OfR17	Mount Vernon Arts Lab	Hobgoblins	GBGSV0700112	6	british experimental,hauntology,uk experimental electronic	0.227	0.206	0.0407	0.0431	138.532	0.182	0.366
+7c4wdkw6EuHBtI6fVgn53o	KWJAZ	A Certain Sprout (Bonus Track)	USA2Z1210348	3	hauntology	0.98	0.289	0.82	0.0339	112.736	0.0517	0.277
+17EYnO5wdMXknsD9Xmqpc7	Emeralds	The Cycle Of Abuse	ATE691010102	20	ambient,berlin school,cleveland indie,drone,hauntology	0.898	0.176	0.875	0.0319	90.405	0.142	0.4
+5ptUaNpdUua9PJSdiqNwBK	Blanck Mass	Please	US5NR1717403	33	abstractro,drone,fluxwork,hauntology,mandible,uk experimental electronic	0.00665	0.251	0.149	0.0452	115.761	0.047	0.501
+0IQ6t8aPNT2qjrNHc1x6DG	Tristram Cary	The Ambush	GBAJC6400012	1	acousmatic,british soundtrack,electroacoustic composition,hauntology,theme	0.954	0.228	0.88	0.0466	73.904	0.08	0.132
+4e09seMli7tAi2UcXy5lkm	Pye Corner Audio	Hollow Earth	GBGSV1800484	42	ambient,chamber psych,hauntology,intelligent dance music,modular synth	0.165	0.45	0.947	0.0336	106.009	0.0719	0.722
+5Xak5fmy089t0FYmh3VJiY	Pearl Jam	Black	USSM19100412	77	grunge,permanent wave,rock	0.323	0.36	0.0	0.0308	77.15	0.2	0.684
+0fiB5cRA2lngpF06X1Ou4u	Dirty Pretty Things	Bang Bang You're Dead	GBUM70600400	55	modern rock,new rave	0.00724	0.307	5.02e-06	0.0586	151.708	0.434	0.784
+2PLi7OmleXPNBrGLon3sUy	The Temper Trap	Sweet Disposition	GBZUZ0900013	73	alternative dance,australian indie,indie rock,modern rock,pop rock	0.0765	0.542	0.252	0.0429	129.09	0.305	0.813
+5T9ir6tlqhhbKVzIC0ssbs	Babyshambles	Delivery	GBAYE0702487	53	britpop,modern rock,new rave	0.00252	0.501	3.78e-05	0.0377	140.905	0.753	0.909
+0NrXd3e8BRWhpyy9nsDQLF	Kaiser Chiefs	Modern Way	GBDVX0400061	49	alternative rock,modern rock,rock	0.0302	0.536	1.06e-05	0.0393	147.585	0.294	0.764
+6BveiUac0BhnHB14wgi1lg	Reverend And The Makers	Heavyweight Champion of the World	GBENL0700793	60	britpop,modern rock,sheffield indie	0.00606	0.546	2.7e-05	0.0407	132.969	0.761	0.838
+0yEhNqCwEfy8LHUmnZoHpP	The Dandy Warhols	Bohemian Like You	USCA20000241	73	alternative dance,alternative rock,indie rock,modern rock,rock	0.00315	0.584	0.772	0.0344	131.275	0.694	0.931
+7mAF2MJdbNT75VrVcgwT6F	The Futureheads	Hounds of Love	GBFFS0400061	58	alternative dance,british indie rock,dance-punk,indie rock,modern rock,new rave,north east england indie	0.0329	0.36	1.18e-06	0.117	168.214	0.424	0.895
+20j7B6mL9gnNvG3ic6Vwh5	The Hives	Hate To Say I Told You So	SEVHC0007060	72	alternative rock,garage rock,garage rock revival,modern rock,new rave,rock,swedish garage rock,swedish hard rock,swedish indie rock	0.00126	0.459	0.00881	0.0612	135.826	0.419	0.931
+2fAIfPLrPUTW1AmJRR428Q	Kaiser Chiefs	Ruby	GBDVX0600080	72	alternative rock,modern rock,rock	0.00673	0.451	4.85e-06	0.0512	93.416	0.448	0.939
+7cHhpJV9fC2AqgdiLvq1AO	Cassius	Toop Toop	FR01Q0600001	58	alternative dance,disco house,electro house,electronica,filter house,new rave	0.089	0.769	2.83e-06	0.266	131.989	0.916	0.836
+6KQI2wgkkFz4fjNxvdhHEt	Eyeliner	Los Angeles	ushm82079756	31	future funk,hardvapour,vaporwave	0.00341	0.494	0.903	0.0416	119.94	0.373	0.821
+4CwByRtQjwkrnOjWNINV0z	luxury elite	Island	GBXS51312703	34	chillsynth,mallsoft,slushwave,vaporwave	0.228	0.721	0.856	0.0518	145.623	0.61	0.707
+38k3otUd41zKhvUvZU7iUZ	luxury elite	Totally Rad	GBXS51312708	43	chillsynth,mallsoft,slushwave,vaporwave	0.271	0.609	0.921	0.0386	110.357	0.538	0.77
+7pA0O30dFe3XUQIRKXN1KZ	Eyeliner	Scenery	uscgh1658445	12	future funk,hardvapour,vaporwave	0.00941	0.664	0.825	0.0424	119.979	0.461	0.894
+6fNr3izG9ck0T3lQgUS6Rf	luxury elite	Bubblegum (Bonus Track)	USA2P1349896	22	chillsynth,mallsoft,slushwave,vaporwave	0.00509	0.734	0.0256	0.065	135.237	0.6	0.685
+2X8j1vYJaJZ1vIRp7csg2y	luxury elite	S.W.A.K.	USQY51588378	52	chillsynth,mallsoft,slushwave,vaporwave	0.327	0.727	0.33	0.108	82.962	0.389	0.484
+4J7SsXCIQHG5tPc9gbUKz2	CYBEREALITYライフ	LONELY HEARTS	QZNWW2014918	12	future funk,mallsoft,vaporwave	0.0188	0.648	0.183	0.0283	120.12	0.645	0.311
+18ohQLwM21kmk6t1QvD6yD	豊平区民Toyohirakumin	Phenomenon	USA2P1520586	27	hardvapour,mallsoft,vaporwave	0.939	0.29	0.944	0.0347	77.281	0.582	0.701
+2n7b2QunjscltD9m6WAwif	CYBEREALITYライフ,Architecture In Tokyo	MELTNET	QZNWW2014923	12	future funk,mallsoft,vaporwave	0.0952	0.441	0.49	0.0685	193.926	0.424	0.872
+09Y1oU16bH9WllukYJABBF	Eyeliner	Sneakers for Men	usdy41569417	32	future funk,hardvapour,vaporwave	0.0196	0.687	0.714	0.0326	97.233	0.387	0.637
+7bG7f71TyS7Nzq9zgvS2ch	luxury elite	Daphne	USA2P1349892	22	chillsynth,mallsoft,slushwave,vaporwave	0.0412	0.437	0.962	0.045	172.821	0.485	0.945
+6xZnsP05w8OADEhx1f5XYg	Kuhn	Slime Beach	GBWTT1102801	11		0.136	0.42	0.0968	0.0983	139.364	0.46	0.82
+3Z91OpmQI4OAb9GYCPZA4E	Sami Baha	Cash Rain	USA2B1801338	7		0.595	0.91	0.483	0.0527	110.992	0.266	0.346
+6IVjF6tfGdFBZr4wXhMRtC	Samthing Soweto,Sha Sha,DJ Maphorisa,Kabza De Small	Akulaleki	ZA08C1900013	45	afro soul,amapiano,south african alternative,south african pop,south african pop dance	0.143	0.895	0.0726	0.0882	116.013	0.341	0.674
+6LJ3ssTaKNgSzVMefSKcOS	Nkom Bivoué	Zeun Ya Yop	BE6IR2021002	5		0.13	0.815	0.876	0.0504	126.514	0.434	0.838
+16ibh1BzWD8AjpB3AxkpgE	K-Lone	Barbarossa	GBHLW1801226	33	float house,uk bass,uk experimental electronic	0.248	0.689	0.888	0.0402	139.972	0.752	0.581
+4CxY5U5b2wVg8tqQsBseRe	Kazitexx	Number One	QZHZ32111191	1		0.241	0.729	0.0645	0.211	142.993	0.314	0.449
+4tBdLWvYYr5IjJpvwiZr85	SOPHIE,Autechre	BIPP - Autechre Mx	GB7CH2100001	42	art pop,dance pop,deconstructed club,electropop,escape room,hyperpop,pop,transpop	0.000997	0.859	0.0125	0.0624	104.287	0.41	0.398
+4tBdLWvYYr5IjJpvwiZr85	SOPHIE,Autechre	BIPP - Autechre Mx	GB7CH2100001	42	art pop,dance pop,deconstructed club,electropop,escape room,hyperpop,pop,transpop	0.000997	0.859	0.0125	0.0624	104.287	0.41	0.398
+28kfrHXGnhtzQaznrgPl1F	Vegyn,Retro X	You Owe Me	GBKPL1967223	33	art pop,electronica,escape room,experimental hip hop	0.779	0.753	0.0626	0.0526	130.016	0.465	0.62
+2hKLu5akQZ9BbrCQVXM2cZ	WizKid	Daddy Yo	USRC11602780	51	afro dancehall,afropop,azonto,nigerian hip hop,nigerian pop	0.234	0.819	1.74e-05	0.0682	98.968	0.81	0.839
+0NMEIRvTNNjlTRQB7rUYt4	Branko	Movimento	PTEN11900002	25	moombahton	0.212	0.85	0.565	0.0711	96.979	0.582	0.31
+24BLbKyr3DlTGeov4Goes7	Mr. Mitch	Falcon Paradise	FRIDO2011689	16	uk experimental electronic,weightless	0.00426	0.6	0.497	0.601	213.147	0.519	0.42
+5RplAumrnS8IuLu9I22rKz	R.A.P. Ferreira	LEAVING HELL	US25X2000104	46	alternative hip hop,experimental hip hop	0.239	0.599	0.399	0.205	129.952	0.648	0.723
+0mRtv3pnmPiN2mDMzYzWt2	Jai Paul	Str8 Outta Mumbai	GBBKS1100338	52	escape room,indie soul	0.0621	0.399	0.0	0.379	70.928	0.569	0.743
+4B7XidpBnA9OgzLEZFxouW	Beatslaya,Stein Westt,Chalice Serrano	The Qall	QMQ891200127	5		0.617	0.734	0.0036	0.322	82.061	0.511	0.801
+5cSy3p8dUpcYcbbgsQGHou	Al Nather	Abu Bakr	QZFZ21963219	29	arabic hip hop,middle east hip hop,palestinian hip hop	0.257	0.482	0.872	0.0534	110.109	0.318	0.418
+2vnq6ycAbhOejVkNaK6HMC	Sango	Tamborzão (Intro)	TCACJ1595685	22	abstract beats,alternative r&b,escape room,indie soul,vapor twitch	0.213	0.761	0.000237	0.326	130.25	0.369	0.607
+7lsKSVsUuL3rscC3nziHgo	Riddlore	Afro Sample	UGA262000006	7	african electronic	0.00653	0.727	0.336	0.0678	113.008	0.365	0.527
+5x6uHnSxo3txWs2MbGbZRQ	Acid Arab,A-WA	Gul l'Abi	BE6F51601150	44	arab electronic,arab groove	0.00792	0.402	0.00016	0.0356	102.693	0.0374	0.498
+5psjYKH1SHT7W4M8b0x6fx	DAM	Jasadik-Hom	GBCEJ1900038	23	arabic hip hop,conscious hip hop,middle east hip hop,palestinian alternative,palestinian hip hop,palestinian pop	0.125	0.85	1.42e-05	0.268	138.0	0.76	0.609
+3tytFz2vqnLMK9cJj46G7I	Okmalumkoolkat	Amalobola (Slow Jam Sase Mlazi)	ZAC011600271	29	afro soul,south african alternative,south african hip hop,south african pop	0.471	0.753	0.0	0.261	117.996	0.364	0.256
+3Lx6lyMirY0NjsPpErnAQF	Blacksea Não Maya,Dj Noronha	Estranhos e Loucos	DEX262000320	5	batida,fluxwork	0.219	0.786	0.368	0.0519	130.962	0.435	0.846
+0tdA3tsJ4n6rJuiId3KrOP	Mk.gee	cz	USUM72003018	54	alternative r&b,indie soul,vapor soul	0.598	0.734	0.835	0.123	91.064	0.714	0.552
+6GRB9bgASUJoIZ5wwyDUMZ	Proc Fiskal	Humancargoe Estt	GBLZC2100034	17	deconstructed club,footwork,scottish electronic,uk bass	0.131	0.596	0.00624	0.0905	152.968	0.481	0.473
+5J7N3Zf7DK6DVZ4EOw8DJK	NAPPYNAPPA	BAGZ 4 TH LOST	GBNEQ2000067	9		0.418	0.747	0.0	0.222	90.088	0.476	0.631
+0gBGh8GBRmYKeTYWdpJX3b	Lala &ce,Pucci Jr	Ar15	QZDA81972557	42	french hip hop,rap calme	0.224	0.56	4.09e-06	0.509	84.129	0.32	0.48
+6mpkgM6Y49j4XmwZjkFJyR	Novelist	Different Shoes	CAGOO1981481	22	grime,uk alternative hip hop	0.00281	0.854	0.122	0.279	147.897	0.695	0.723
+2iP8FMwiwvZJeDN6PtLZt9	Madd	Stylo	QZDA41834439	40	arabic hip hop,moroccan pop,rap maroc	0.155	0.811	0.0	0.252	129.957	0.397	0.557
+03dVEzQgPlltehUS8Ts0JW	Merca Bae,BK Beats	Néctar	USA2P2117919	4	trap catala	0.641	0.769	0.859	0.0624	128.019	0.494	0.391
+48AzWA59anYH1bUH2Xc9o8	Quintorigo	La Nonna Di Frederick Lo Portava Al Mare	ITH000000500	44	folk rock italiano,italian alternative	0.743	0.712	2.73e-06	0.0596	120.078	0.695	0.484
+7M3TXxtE8YzewyQwCcHRBS	luxury elite	Classy	USA2P1349886	21	chillsynth,mallsoft,slushwave,vaporwave	0.0195	0.911	0.81	0.0775	136.907	0.871	0.544
+0Ip2pWYQmo8NUxKql20QPk	Lone	Jaded	BEZ351400043	58	chillwave,downtempo,electronica,float house,intelligent dance music,lo-fi house,microhouse,ninja,uk bass,wonky	0.738	0.642	0.737	0.0389	94.998	0.0869	0.286
+05Zxi2CBJcNMT5kFUFNmED	Phil Gerus	Surfing the Wave	DEP961200097	33	future funk,vaporwave	0.171	0.751	0.216	0.285	98.605	0.55	0.544
+6wa9fNCxde5J7Ls1cy2HSQ	Nmesh	New Jack City	USQY51795693	15	dreampunk,hardvapour,mallsoft,vaporwave	0.000847	0.444	0.868	0.0678	196.761	0.571	0.974
+3mj7E6F965FjTWfonHCSlQ	Trushinitas	T.V Party	QZK6Q1967456	19	future funk,hardvapour,slushwave,vaporwave	0.000313	0.696	0.923	0.0406	92.995	0.552	0.824
+1Dl4Miz5fJoqYyDFrZaKL7	architecture in tokyo	HUMID AIR	GB-SMU-32-97533	36	future funk,hardvapour,vaporwave	0.0108	0.643	0.836	0.0296	133.869	0.681	0.44
+121uL9YV3dp091ji4C1HHP	Gloomcvlt	Lux	GB-SMU-16-02672	21	hardvapour,vaporwave	0.000222	0.616	0.848	0.0339	95.021	0.157	0.671
+5kmCOjS1qFzdCvJcxwf1dG	James Ferraro	Adventures in Green Foot Printing	GBGCA1300201	38	abstractro,deconstructed club,experimental pop,hauntology,outsider house,rochester ny indie,vaporwave	0.682	0.658	0.194	0.0281	126.931	0.966	0.877
+3j0qQ14e4ovDTJgmfjINRn	Sean Downey	▲.†. CONNECTORMATION .†.▲	USLZJ1584431	19	vaporwave	0.644	0.548	0.937	0.0279	149.909	0.444	0.758
+6SnBojZWkrxPC6cPWwRC95	KyonPalm	cityscape	QZ5FN1908624	23	hardvapour,vaporwave	0.00389	0.584	0.707	0.0453	81.43	0.38	0.351
+75yCe90kIkOg9pPGpJpSfe	18 Carat Affair	PG / VG	QZ5FN1916121	20	chillwave,hardvapour,vaporwave	0.144	0.577	0.574	0.0695	121.948	0.269	0.186
+4ZmX61pdJ79jgGL6z5jFXd	architecture in tokyo	SUMMER NEVER ENDS	GB-SMU-32-97534	44	future funk,hardvapour,vaporwave	0.0389	0.495	0.898	0.0351	93.859	0.685	0.748
+1jNkotv08DZDv2uZC6ZW3V	luxury elite	Jam City USA (Bonus Track)	USA2P1349897	20	chillsynth,mallsoft,slushwave,vaporwave	0.176	0.721	0.879	0.0508	156.266	0.684	0.852
+7bG7f71TyS7Nzq9zgvS2ch	luxury elite	Daphne	USA2P1349892	22	chillsynth,mallsoft,slushwave,vaporwave	0.0412	0.437	0.962	0.045	172.821	0.485	0.945
+48rG7kZhhzwI11lYbYVKnQ	luxury elite	Strut	USQY51588387	29	chillsynth,mallsoft,slushwave,vaporwave	0.0509	0.792	0.854	0.0804	94.859	0.883	0.762
+4FUbYhtlXGoqiqNc5xy2rl	CYBEREALITYライフ	オーロラ3.0	USA2P1394899	19	future funk,mallsoft,vaporwave	0.868	0.473	0.827	0.0619	119.861	0.402	0.458
+70iRRnfn8tbjLdXq6OyKru	CYBEREALITYライフ	NEONITES	QZNWW2014927	10	future funk,mallsoft,vaporwave	0.333	0.832	0.645	0.112	79.953	0.5	0.428
+09Y1oU16bH9WllukYJABBF	Eyeliner	Sneakers for Men	usdy41569417	32	future funk,hardvapour,vaporwave	0.0196	0.687	0.714	0.0326	97.233	0.387	0.637
+7yxxRfkcHNnXFxMcnu8S65	luxury elite	Vanity	USA2P1349882	22	chillsynth,mallsoft,slushwave,vaporwave	0.0517	0.79	0.819	0.101	82.818	0.941	0.756
+1Xi9r2SYPehI4OFnd4gktP	CYBEREALITYライフ	New Life Now	USA2P1394891	23	future funk,mallsoft,vaporwave	0.0761	0.689	0.441	0.048	105.002	0.952	0.716
+7pA0O30dFe3XUQIRKXN1KZ	Eyeliner	Scenery	uscgh1658445	12	future funk,hardvapour,vaporwave	0.00941	0.664	0.825	0.0424	119.979	0.461	0.894
+68oejRUdB6e9631m5VM4h0	Infinity Frequencies	Identification	GBXS51312804	29	mallsoft,vaporwave	0.944	0.671	0.191	0.0437	102.659	0.971	0.617
+3G0M4G6zZS3Mg2WKch0EWm	Eyeliner	High Heels	usdy41569419	22	future funk,hardvapour,vaporwave	0.114	0.861	0.697	0.0648	105.03	0.419	0.442
+4WrOJrhnfaQ9PTEBH8iEGo	Infinity Frequencies	Close	GBXS51312819	16	mallsoft,vaporwave	0.901	0.359	0.811	0.0518	199.982	0.662	0.573
+0CqMVdwTUxYLQZVLNee2eP	Eyeliner	Eyeliner	uscgh1658449	19	future funk,hardvapour,vaporwave	0.000561	0.596	0.937	0.035	135.706	0.74	0.9
+1EGFCxKCQ3isMnlPzEW8G1	Frédéric Chopin,Nelson Freire	Nocturne No.1 in B flat minor, Op.9 No.1	GBBBA0942301	56	classical,early romantic era,polish classical	0.982	0.354	0.906	0.0385	61.202	0.0381	0.0179
+6kielg9pAlREPv4fnFaT91	Reynaldo Hahn,Albrecht Mayer,Academy of St. Martin in the Fields,Mathias Mönius	A Chloris (Arr. For Cor Anglais & Orchestra)	GBBBA1043080	37	french romanticism,operetta,post-romantic era	0.968	0.176	0.958	0.0402	86.704	0.074	0.0416
+6uca1BHKM5wqzp6GYQRkpp	Wolfgang Amadeus Mozart,Albrecht Mayer,Fabian Müller	Die Zauberflöte, K. 620: Ach, ich fühl's, es ist verschwunden (Arr. Spindler for Oboe and Piano)	DEN962101350	47	classical,classical era	0.993	0.279	0.938	0.0397	93.441	0.104	0.0455
+1eUMjPofs5R6PotojRzniV	Franz Liszt,Michael Korstick	Annees de pelerinage, 1st year, Switzerland, S160/R10: No. 9. Les cloches de Geneve (The Bells of Geneva)	DEB200747809	38	classical,late romantic era	0.985	0.345	0.857	0.049	129.6	0.0518	0.0085
+3le18KtMaLe7NdqEoVwfJq	Ludwig van Beethoven,Gianluca Cascioli,Ensemble Resonanz,Riccardo Minasi	"Piano Concerto ""No. 6"" in D Major, Op. 61a: II. Larghetto"	FR7JM1968050	35	classical,classical era,early romantic era,german romanticism	0.981	0.299	0.81	0.0441	102.003	0.056	0.0229
+3kYyPciITqUlRNqQ2remSG	Dmitri Shostakovich,Vassily Sinaisky,BBC Philharmonic	The Gadfly Suite, Op. 97: VIII. Romance	GBLWD0404013	43	classical,compositional ambient,russian modern classical	0.914	0.0856	0.571	0.0478	75.825	0.0354	0.0362
+1NechTDnTtSaciAT6gmvJQ	Clara Schumann,Anneleen Lenaerts,Dionysis Grammenos	Schumann: 12 Gedichte aus Liebesfrühling, Op. 37: No. 11: Warum willst du andre fragen	ATDJ31600009	60	early romantic era,german romanticism	0.995	0.238	0.95	0.0393	70.821	0.0394	0.00484
+56uWqDzSqIMbdi3ItnG481	Sergei Rachmaninoff,Nikolaj Znaider	Vocalise, Op. 34, No. 14	USBC10200821	47	classical,post-romantic era,russian romanticism,ukrainian classical	0.974	0.168	0.246	0.0481	102.674	0.0399	0.0613
+17gz8bmRy8HDUf6AZBnD5K	Arcangelo Corelli,The English Concert,Trevor Pinnock	"Concerto grosso in G Minor, Op. 6, No. 8, ""Fatto per la Notte di Natale"": III. Adagio - Allegro - Adagio"	DEF058703543	47	baroque,classical,early music,italian baroque	0.926	0.197	0.721	0.0455	120.682	0.133	0.0911
+3JdD9wqvohYMjK6BmEHtTP	Erik Satie,Gautier Capuçon,Jerome Ducros,Adrien Perruchon,Orchestre de chambre de Paris	Satie / Orch. Ducros: Gymnopédie No. 1	GBAYC2002212	67	classical,early avant garde,early modern classical,impressionism,post-romantic era	0.942	0.0921	0.94	0.0513	166.979	0.039	0.0183
+6VnSkysUFuLEayG0LIQlVF	Claude Debussy,Kathryn Stott	Deux Arabesques, L66: No. 1: Andantino con moto	GBARU8700007	52	classical,impressionism,post-romantic era	0.99	0.272	0.924	0.0365	73.368	0.0743	0.0132
+4wdRWXtt5SVGokz7ld4vGS	Gabriel Fauré,Pablo Ferrandez,Julien Quentin	Après un rêve - NIGHT SESSIONS	USSM12106492	45	classical,post-romantic era	0.99	0.223	0.934	0.0417	100.285	0.0561	0.177
+5xa9OEvqxxibm31ClABYQ6	Wolfgang Amadeus Mozart,Christoph Koncz,Les Musiciens du Louvre	Violin Concerto No. 3 in G Major, K. 216: II. Adagio	USQX92003219	38	classical,classical era	0.916	0.149	0.000472	0.0385	174.08	0.0848	0.0464
+4ksxLnn1ymLGRKnwhba45Y	Johann Sebastian Bach,Lang Lang	"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""On a G String"" (Arr. for Piano)"	USSM11004840	55	baroque,classical,early music,german baroque	0.996	0.5	0.949	0.0622	114.76	0.133	0.0104
+1wFoG9wRb1XHGR5VqGUh6v	Daphne Oram	Four Aspects	FR6V89301799	15	acousmatic,avant-garde,british electroacoustic,british experimental,electroacoustic composition,hauntology,musique concrete,theme	0.889	0.22	0.938	0.103	87.814	0.0629	0.301
+5bFyYQTrWUxVElcPWTjfDv	Leyland Kirby	Departure	DEU671101947	12	british experimental,hauntology	0.653	0.119	0.917	0.0376	83.235	0.109	0.433
+0sOgV3tE9fwviYwr6ySZBr	Roj	Inhale. Exhale. Love!	GBGSV0900175	3	british experimental,hauntology,uk experimental electronic	0.899	0.185	0.944	0.041	84.543	0.371	0.511
+3sWZ6MkpX3xnrgHFABtJIZ	Jeff Keen	Rayday Readings	GBKTV0402192	0	hauntology,outsider	0.973	0.421	0.786	0.202	189.9	0.323	0.777
+42w6JAxB7llX7yIZJp6p8k	Akira Rabelais	Notturno (Loverly)	ushm21416072	21	ambient,avant-garde,drone,hauntology,lowercase,sound art	0.987	0.143	0.98	0.0535	138.04	0.0165	0.000651
+0SxrRiPi9jqOhISdjBelfU	Actress,London Contemporary Orchestra	Hubble	GBCFB1800124	31	art pop,deconstructed club,electronica,float house,fluxwork,footwork,future garage,hauntology,intelligent dance music,microhouse,outsider house,uk bass,wonky	0.386	0.789	0.845	0.11	116.516	0.322	0.567
+6GyMhT8Hm5PHGAT4gr6oB3	Listening Center	Portable Electronic Musical Instrument - Willie Mays SOC Edit	DK4YA1300507	4	hauntology	0.00934	0.777	0.883	0.074	125.133	0.0659	0.848
+5LRFjZ3lyfo7tlDAPuiL7V	Hype Williams	Break4love	GBGCA1100012	35	deconstructed club,experimental pop,hauntology,new isolationism,outsider house,vaporwave	0.969	0.102	0.964	0.0353	85.303	0.051	0.0917
+14qbmTWC5FgCWv1Pasd0FO	The Pattern Forms	Black Rain	GBGSV1600387	8	hauntology	0.002	0.62	0.0263	0.051	115.069	0.281	0.596
+6Y29BVuOV3mk21WLPFELU7	Delia Derbyshire	Pot au Feu - BBC Version	QMFMF2052919	34	british electroacoustic,british soundtrack,hauntology,theme	0.788	0.516	0.0379	0.0902	151.231	0.407	0.44
+6HJwjhLGEqZJdLsbJlwzoO	Vernon Elliott	Cruising Theme	GBKTV0400104	8	hauntology	0.992	0.492	0.888	0.0513	167.525	0.684	0.135
+0sL2R6ESjBcVCbmC6xwzb4	The Conet Project	The Swedish Rhapsody	UK6821700201	17	hauntology	0.971	0.461	0.176	0.265	92.697	0.418	0.613

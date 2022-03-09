@@ -91,7 +91,7 @@ def write_stats(df, outfile):
         file.write("\nFeature statistics\n")
         file.write(df.describe().to_string())
 
-    return track_found
+    return track_found, genres_found, artist_found
 
 def analyze_user_temporal(username, temporal_feat):
     """
@@ -176,9 +176,9 @@ def analyze_logs(username, date, out_dir):
     
     start = datetime.strptime(date, "%Y%m%d")
 
-    (Day, N, EM, P_mean, P_std, A_mean, A_std,
+    (Day, N, EM, A_EM, G_EM, P_mean, P_std, A_mean, A_std,
         D_mean, D_std, I_mean, I_std, T_mean, T_std) = ([], [], [], [], [], [],
-        [], [], [], [], [], [], [])
+        [], [], [], [], [], [], [], [], [])
 
     while start > end:
         start_str = start.strftime("%Y-%m-%d")
@@ -207,10 +207,12 @@ def analyze_logs(username, date, out_dir):
             T_std.append(0)
             print ("{}: No listening logs found!".format(start_str))
         else:
-            track_found = write_stats(df, outfile)
+            track_found, genres_found, artist_found = write_stats(df, outfile)
             Day.append(start_str)
             N.append(len(df.index))
             EM.append(len(track_found))
+            A_EM.extend(artist_found)
+            G_EM.extend(genres_found)
             P_mean.append(df.popularity.mean())
             P_std.append(df.popularity.std())
             A_mean.append(df.acousticness.mean())
@@ -244,6 +246,8 @@ def analyze_logs(username, date, out_dir):
         D_mean, D_std, I_mean, I_std, T_mean, T_std)
 
     analyze_user_temporal(username, temporal_feat)
+
+    print(len(set(A_EM)), len(set(G_EM)))
 
 
 def arg_parser():

@@ -1,0 +1,45 @@
+Electronic artists found: fat jon, Patrice Rushen
+Electronic genres found: post-disco, downtempo, disco
+Electronic music logs found: 6.90% 
+
+Top genres
+	1: lo-fi jazzhop (11.59%)
+	2: indie soul (4.35%)
+	3: chillhop (2.90%)
+	4: jazz boom bap (2.90%)
+	5: escape room (2.90%)
+Top artists
+	1: daniel sabater (2.86%)
+	2: Elffire (2.86%)
+	3: Soul Food Horns (2.86%)
+	4: Patrice Rushen (2.86%)
+	5: Birthh (2.86%)
+Top country
+	1: DE (17.24%)
+	2: QM (13.79%)
+	3: GB (10.34%)
+	4: US (10.34%)
+	5: SE (6.90%)
+Top record
+	1: Q02 (10.34%)
+	2: ZC6 (6.90%)
+	3: OPM (6.90%)
+	4: 9Z6 (3.45%)
+	5: DA7 (3.45%)
+Top year
+	1: 21 (34.48%)
+	2: 19 (17.24%)
+	3: 22 (13.79%)
+	4: 20 (10.34%)
+	5: 12 (3.45%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
+mean    53.896552      0.447338      0.657690          0.411966     0.090290  123.189448   0.506034   0.458483
+std      8.788567      0.322576      0.160033          0.405794     0.087019   37.740339   0.231182   0.210263
+min     27.000000      0.004020      0.363000          0.000000     0.028100   75.020000   0.158000   0.178000
+25%     49.000000      0.153000      0.613000          0.004030     0.042700   87.981000   0.296000   0.290000
+50%     53.000000      0.604000      0.676000          0.333000     0.060100  113.818000   0.505000   0.436000
+75%     58.000000      0.741000      0.763000          0.860000     0.080400  154.013000   0.718000   0.560000
+max     70.000000      0.905000      0.918000          0.944000     0.417000  185.007000   0.962000   0.885000

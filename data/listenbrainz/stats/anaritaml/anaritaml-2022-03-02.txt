@@ -1,0 +1,40 @@
+Electronic artists found: John Summit,SIDEPIECE, Hot Chip,Jarvis Cocker, Sam Feldt,Rita Ora
+Electronic genres found: chillwave, deep house, electronica, electro house, tropical house
+Electronic music logs found: 60.00% 
+
+Top genres
+	1: edm (8.00%)
+	2: electro house (8.00%)
+	3: pop dance (8.00%)
+	4: dance pop (4.00%)
+	5: pop (4.00%)
+Top artists
+	1: SIDEPIECE (10.00%)
+	2: Colin Hay (10.00%)
+	3: Luude (10.00%)
+	4: Hot Chip (10.00%)
+	5: John Summit (10.00%)
+Top country
+	1: US (40.00%)
+	2: GB (40.00%)
+	3: AU (20.00%)
+Top record
+	1: QX9 (40.00%)
+	2: CEL (20.00%)
+	3: DCB (20.00%)
+	4: CPZ (20.00%)
+Top year
+	1: 20 (60.00%)
+	2: 21 (20.00%)
+	3: 17 (20.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo   valence    energy
+count    5.000000      5.000000       5.00000          5.000000     5.000000    5.00000  5.000000  5.000000
+mean    63.400000      0.063656       0.63880          0.005073     0.129460  124.60200  0.521120  0.812200
+std     26.292585      0.057361       0.18947          0.010589     0.061632   32.24224  0.299365  0.119565
+min     19.000000      0.003280       0.30800          0.000000     0.049600   81.01900  0.038600  0.652000
+25%     62.000000      0.012000       0.67300          0.000002     0.080700  121.99500  0.453000  0.729000
+50%     71.000000      0.077000       0.69000          0.000332     0.151000  122.02300  0.623000  0.861000
+75%     81.000000      0.083000       0.75000          0.001030     0.172000  126.00700  0.675000  0.869000
+max     84.000000      0.143000       0.77300          0.024000     0.194000  171.96600  0.816000  0.950000

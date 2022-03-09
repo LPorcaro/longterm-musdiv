@@ -1,0 +1,44 @@
+Electronic artists found: Marshmello,Bastille, Years & Years, Marshmello,Demi Lovato, Anne-Marie
+Electronic genres found: brostep, progressive electro house, tropical house
+Electronic music logs found: 7.69% 
+
+Top genres
+	1: pop (22.49%)
+	2: dance pop (19.14%)
+	3: post-teen pop (11.48%)
+	4: electropop (4.78%)
+	5: pop rock (4.31%)
+Top artists
+	1: American Authors (2.56%)
+	2: Troye Sivan (2.56%)
+	3: Jonas Brothers (2.56%)
+	4: Hailee Steinfeld (2.56%)
+	5: Bastille (2.56%)
+Top country
+	1: US (84.62%)
+	2: GB (11.54%)
+	3: AU (1.92%)
+	4: QM (1.92%)
+Top record
+	1: UM7 (32.69%)
+	2: UG1 (13.46%)
+	3: SM1 (11.54%)
+	4: AT2 (11.54%)
+	5: HR1 (7.69%)
+Top year
+	1: 18 (17.31%)
+	2: 17 (13.46%)
+	3: 19 (9.62%)
+	4: 14 (9.62%)
+	5: 21 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   52.000000     52.000000     52.000000         52.000000    52.000000   52.000000  52.000000  52.000000
+mean    77.423077      0.093013      0.651731          0.000204     0.089300  121.927173   0.594442   0.758365
+std      7.494694      0.151566      0.117847          0.000843     0.073813   26.203231   0.207255   0.140756
+min     57.000000      0.000569      0.284000          0.000000     0.030100   82.014000   0.100000   0.317000
+25%     72.000000      0.006268      0.603250          0.000000     0.042875  102.070250   0.441000   0.703250
+50%     78.500000      0.028600      0.661000          0.000000     0.060300  120.473500   0.618500   0.790500
+75%     84.000000      0.092225      0.717750          0.000004     0.117000  138.433250   0.746750   0.844000
+max     90.000000      0.658000      0.935000          0.005770     0.374000  191.702000   0.969000   0.951000

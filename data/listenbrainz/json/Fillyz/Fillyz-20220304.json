@@ -1,0 +1,464 @@
+[
+    {
+        "listened_at": "2022-03-04T15:45:57",
+        "track_name": "Lost Prayer",
+        "artist_name": "Zakk Wylde",
+        "release_name": "Book Of Shadows II",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/4nFZn2UqltykzjMu0F4z1P",
+        "listening_from": "spotify",
+        "isrc": "USKO11600009",
+        "additional_info": {
+            "artist_msid": "0b1b9271-34a3-473d-9ffb-adc9f2f831b5",
+            "artist_names": [
+                "Zakk Wylde"
+            ],
+            "discnumber": 1,
+            "duration_ms": 270280,
+            "isrc": "USKO11600009",
+            "listening_from": "spotify",
+            "recording_msid": "8c4eba11-509c-4d19-aacb-e65f45b6b914",
+            "release_artist_name": "Zakk Wylde",
+            "release_artist_names": [
+                "Zakk Wylde"
+            ],
+            "release_msid": "0f59930d-a50e-4df3-9f0a-aa9faf360e4c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/32UWpOh0dxIw6VopkvUJ9t",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4nFZn2UqltykzjMu0F4z1P",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:41:26",
+        "track_name": "Army of the Night",
+        "artist_name": "Powerwolf",
+        "release_name": "Blessed & Possessed",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela",
+        "listening_from": "spotify",
+        "isrc": "ATN261558603",
+        "additional_info": {
+            "artist_msid": "f7d59008-1490-44a6-a6da-9a965108526c",
+            "artist_names": [
+                "Powerwolf"
+            ],
+            "discnumber": 1,
+            "duration_ms": 201386,
+            "isrc": "ATN261558603",
+            "listening_from": "spotify",
+            "recording_msid": "eec10ea8-b58b-4ff4-94f2-921fbd4f5e06",
+            "release_artist_name": "Powerwolf",
+            "release_artist_names": [
+                "Powerwolf"
+            ],
+            "release_msid": "75cf46a8-8a8c-4f11-b978-05bb51b7dadd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:37:33",
+        "track_name": "The Chosen Ones",
+        "artist_name": "Dream Evil",
+        "release_name": "Dragonslayer",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/7FQvFYg88JndjHvd5tBxwI",
+        "listening_from": "spotify",
+        "isrc": "US4E40402206",
+        "additional_info": {
+            "artist_msid": "2d6e3002-fbf7-4fa5-a38f-c58ba12349b2",
+            "artist_names": [
+                "Dream Evil"
+            ],
+            "discnumber": 1,
+            "duration_ms": 302533,
+            "isrc": "US4E40402206",
+            "listening_from": "spotify",
+            "recording_msid": "79f27c56-918e-41de-9ddd-42b2cff24da3",
+            "release_artist_name": "Dream Evil",
+            "release_artist_names": [
+                "Dream Evil"
+            ],
+            "release_msid": "4f3a13f5-81d9-4cca-b091-567e06769e1e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/75e23vS6UP1bZWkVphKGiD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7FQvFYg88JndjHvd5tBxwI",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:32:37",
+        "track_name": "Universe on Fire",
+        "artist_name": "Gloryhammer",
+        "release_name": "Space 1992: Rise of the Chaos Wizards",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/3e77C0bCaFIUXNFxI075D9",
+        "listening_from": "spotify",
+        "isrc": "ATN261562108",
+        "additional_info": {
+            "artist_msid": "5403f426-6780-4f87-a4b2-58b4a9b39e5c",
+            "artist_names": [
+                "Gloryhammer"
+            ],
+            "discnumber": 1,
+            "duration_ms": 246493,
+            "isrc": "ATN261562108",
+            "listening_from": "spotify",
+            "recording_msid": "974d5fa0-bcd8-4661-b409-bba56380c018",
+            "release_artist_name": "Gloryhammer",
+            "release_artist_names": [
+                "Gloryhammer"
+            ],
+            "release_msid": "bd83a116-e642-49fa-a71d-ae4f311a6c31",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7qWnaraivuWsZrWPPBYTnC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3e77C0bCaFIUXNFxI075D9",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:28:19",
+        "track_name": "Diggy Diggy Hole",
+        "artist_name": "Wind Rose",
+        "release_name": "Wintersaga",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/0FDY2EHOv32kUoqplU1hdY",
+        "listening_from": "spotify",
+        "isrc": "ATN261985904",
+        "additional_info": {
+            "artist_msid": "99faa111-05cd-4a13-b093-8c1e217e04c3",
+            "artist_names": [
+                "Wind Rose"
+            ],
+            "discnumber": 1,
+            "duration_ms": 315986,
+            "isrc": "ATN261985904",
+            "listening_from": "spotify",
+            "recording_msid": "de5b7b94-4767-4971-ac4c-5d156a19c0c4",
+            "release_artist_name": "Wind Rose",
+            "release_artist_names": [
+                "Wind Rose"
+            ],
+            "release_msid": "cf57795b-062d-4f4e-b6ab-bf5008af7e24",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/41qphLDtonmyZmvO5gnoui",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0FDY2EHOv32kUoqplU1hdY",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:22:48",
+        "track_name": "Chains of Fury",
+        "artist_name": "Manimal",
+        "release_name": "Chains of Fury",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3mWpUooYBCQzcNaWTuVSGm",
+        "listening_from": "spotify",
+        "isrc": "DEU602109601",
+        "additional_info": {
+            "artist_msid": "001220f9-f13b-4ccd-accd-5f87c4256658",
+            "artist_names": [
+                "Manimal"
+            ],
+            "discnumber": 1,
+            "duration_ms": 246480,
+            "isrc": "DEU602109601",
+            "listening_from": "spotify",
+            "recording_msid": "b6a617a6-1dbb-459b-8479-390a8e919a9d",
+            "release_artist_name": "Manimal",
+            "release_artist_names": [
+                "Manimal"
+            ],
+            "release_msid": "cebb581b-7027-48d3-a160-7d102059ae2a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/61K1NTLjHvIR9beka1NrVJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3mWpUooYBCQzcNaWTuVSGm",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:17:33",
+        "track_name": "Venerate Me",
+        "artist_name": "HammerFall",
+        "release_name": "Venerate Me",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J",
+        "listening_from": "spotify",
+        "isrc": "ATN262203105",
+        "additional_info": {
+            "artist_msid": "70b2e0d6-2c39-4044-bd88-1c1ad31fd21a",
+            "artist_names": [
+                "HammerFall"
+            ],
+            "discnumber": 1,
+            "duration_ms": 283338,
+            "isrc": "ATN262203105",
+            "listening_from": "spotify",
+            "recording_msid": "31ff253d-21cc-4772-b062-192e2d6faa0f",
+            "release_artist_name": "HammerFall",
+            "release_artist_names": [
+                "HammerFall"
+            ],
+            "release_msid": "e7aabbe1-b9a4-4f40-b382-3c2cfc8c2a4c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:12:49",
+        "track_name": "House of Mirrors",
+        "artist_name": "Arch Enemy",
+        "release_name": "House of Mirrors",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR",
+        "listening_from": "spotify",
+        "isrc": "SEVKO2200007",
+        "additional_info": {
+            "artist_msid": "6de4fa2c-05f1-44ce-a769-e1adeee81abe",
+            "artist_names": [
+                "Arch Enemy"
+            ],
+            "discnumber": 1,
+            "duration_ms": 220426,
+            "isrc": "SEVKO2200007",
+            "listening_from": "spotify",
+            "recording_msid": "0a2ec882-50a6-42d0-8a94-eeae74fe0fb5",
+            "release_artist_name": "Arch Enemy",
+            "release_artist_names": [
+                "Arch Enemy"
+            ],
+            "release_msid": "8bfcb2d1-5b56-4b3c-8658-4b2327549432",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:09:09",
+        "track_name": "Heavy Metal Never Dies",
+        "artist_name": "Iron Savior",
+        "release_name": "The Landing",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh",
+        "listening_from": "spotify",
+        "isrc": "DEU601103715",
+        "additional_info": {
+            "artist_msid": "525ddee2-7d01-44b4-ae81-fafcf69343f1",
+            "artist_names": [
+                "Iron Savior"
+            ],
+            "discnumber": 1,
+            "duration_ms": 254386,
+            "isrc": "DEU601103715",
+            "listening_from": "spotify",
+            "recording_msid": "8ebab8d8-349e-4a75-b788-a111fab1648a",
+            "release_artist_name": "Iron Savior",
+            "release_artist_names": [
+                "Iron Savior"
+            ],
+            "release_msid": "bdac614d-1ac2-4270-b0d4-29d3713c1be0",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2UhgoMIFgbaiLHuiB0qjHU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T15:04:22",
+        "track_name": "Lucifer",
+        "artist_name": "Avantasia",
+        "release_name": "Ghostlights",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/0CIAROs18qpnm9jewGJ7lS",
+        "listening_from": "spotify",
+        "isrc": "DED831501113",
+        "additional_info": {
+            "artist_msid": "27823661-8221-48bf-99dd-ca2a5afed5c1",
+            "artist_names": [
+                "Avantasia"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228465,
+            "isrc": "DED831501113",
+            "listening_from": "spotify",
+            "recording_msid": "a13ff626-4fc5-4b34-a998-43ebaa3a7c09",
+            "release_artist_name": "Avantasia",
+            "release_artist_names": [
+                "Avantasia"
+            ],
+            "release_msid": "6bf6ace6-a3f5-49f2-8c7f-42d19b9e363b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/52suum9Rfc4TItwAV3OhIJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0CIAROs18qpnm9jewGJ7lS",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-03-04T14:59:38",
+        "track_name": "King for a Day",
+        "artist_name": "Battle Beast",
+        "release_name": "Bringer of Pain",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q",
+        "listening_from": "spotify",
+        "isrc": "DED831601546",
+        "additional_info": {
+            "artist_msid": "bffe8fdb-5723-4525-afd6-3b90df5f524b",
+            "artist_names": [
+                "Battle Beast"
+            ],
+            "discnumber": 1,
+            "duration_ms": 275439,
+            "isrc": "DED831601546",
+            "listening_from": "spotify",
+            "recording_msid": "c56d54e9-59ee-40d4-8d5d-64c03a5b1655",
+            "release_artist_name": "Battle Beast",
+            "release_artist_names": [
+                "Battle Beast"
+            ],
+            "release_msid": "70b42057-af22-44a1-a3d1-905c9ab29b79",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7kKRJsnK1SPmR6d0ZFEAbS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q",
+            "tracknumber": 3
+        },
+        "username": null
+    }
+]

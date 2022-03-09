@@ -1,0 +1,44 @@
+Electronic artists found: Clean Bandit,Zara Larsson
+Electronic genres found: uk funky, tropical house
+Electronic music logs found: 2.86% 
+
+Top genres
+	1: pop (39.08%)
+	2: post-teen pop (10.34%)
+	3: dance pop (6.90%)
+	4: boy band (6.90%)
+	5: talent show (5.75%)
+Top artists
+	1: Panic! At The Disco (5.26%)
+	2: Harry Styles (5.26%)
+	3: Conan Gray (5.26%)
+	4: MARINA (5.26%)
+	5: 5 Seconds of Summer (5.26%)
+Top country
+	1: US (57.14%)
+	2: GB (37.14%)
+	3: DE (2.86%)
+	4: TC (2.86%)
+Top record
+	1: HMU (28.57%)
+	2: UG1 (20.00%)
+	3: SM1 (14.29%)
+	4: UM7 (11.43%)
+	5: CA2 (2.86%)
+Top year
+	1: 19 (28.57%)
+	2: 17 (17.14%)
+	3: 14 (11.43%)
+	4: 20 (8.57%)
+	5: 15 (8.57%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   35.000000     35.000000     35.000000         35.000000    35.000000   35.000000  35.000000  35.000000
+mean    76.971429      0.244408      0.533086          0.000239     0.042886  125.654314   0.401546   0.640657
+std      6.736580      0.284514      0.121519          0.000995     0.019278   34.966948   0.184128   0.195804
+min     65.000000      0.000219      0.263000          0.000000     0.026200   69.387000   0.051100   0.240000
+25%     72.500000      0.020750      0.450000          0.000000     0.031300   95.059500   0.250000   0.544500
+50%     77.000000      0.140000      0.553000          0.000000     0.036600  124.038000   0.403000   0.623000
+75%     81.500000      0.274500      0.623000          0.000006     0.046400  147.527500   0.529000   0.800000
+max     90.000000      0.920000      0.715000          0.005600     0.112000  190.028000   0.850000   0.930000

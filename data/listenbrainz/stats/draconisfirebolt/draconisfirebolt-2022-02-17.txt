@@ -1,0 +1,45 @@
+Electronic artists found: Steve Aoki,Louis Tomlinson, Arctic Monkeys
+Electronic genres found: electro house, permanent wave, tropical house
+Electronic music logs found: 2.25% 
+
+Top genres
+	1: pop (44.32%)
+	2: alt z (5.11%)
+	3: dance pop (5.11%)
+	4: indie pop (5.11%)
+	5: post-teen pop (5.11%)
+Top artists
+	1: Peach PRC (2.86%)
+	2: Arctic Monkeys (2.86%)
+	3: Panic! At The Disco (2.86%)
+	4: Harry Styles (2.86%)
+	5: Conan Gray (2.86%)
+Top country
+	1: US (73.03%)
+	2: GB (22.47%)
+	3: QM (2.25%)
+	4: QZ (1.12%)
+	5: NL (1.12%)
+Top record
+	1: SM1 (29.21%)
+	2: UG1 (21.35%)
+	3: HMU (10.11%)
+	4: UM7 (6.74%)
+	5: AT2 (4.49%)
+Top year
+	1: 19 (39.33%)
+	2: 17 (16.85%)
+	3: 21 (11.24%)
+	4: 20 (11.24%)
+	5: 13 (5.62%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   89.000000     89.000000     89.000000         89.000000    89.000000   89.000000  89.000000  89.000000
+mean    75.393258      0.338436      0.542596          0.020293     0.043545  117.725135   0.388085   0.562551
+std     10.687310      0.329644      0.132390          0.106493     0.019777   27.393607   0.225719   0.207932
+min     37.000000      0.000289      0.217000          0.000000     0.023200   68.534000   0.048800   0.154000
+25%     71.000000      0.023700      0.449000          0.000000     0.031900   95.946000   0.206000   0.382000
+50%     77.000000      0.210000      0.545000          0.000002     0.037700  119.845000   0.390000   0.574000
+75%     82.000000      0.658000      0.628000          0.000110     0.046900  139.883000   0.508000   0.724000
+max     95.000000      0.947000      0.777000          0.864000     0.132000  180.917000   0.965000   0.932000

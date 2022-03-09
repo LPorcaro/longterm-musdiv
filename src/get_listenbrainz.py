@@ -10,7 +10,7 @@ from pylistenbrainz.errors import ListenBrainzAPIException
 from datetime import datetime, timedelta
 from tqdm import tqdm 
 
-max_ts = datetime.now()
+max_ts = datetime.now() - timedelta(hours=96)
 min_ts = max_ts - timedelta(hours=24)
 
 date_time = max_ts.strftime("%Y%m%d")
