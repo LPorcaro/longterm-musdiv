@@ -1,0 +1,45 @@
+Electronic artists found: Arctic Monkeys
+Electronic genres found: permanent wave
+Electronic music logs found: 3.33% 
+
+Top genres
+	1: pop (15.00%)
+	2: neo-classical (15.00%)
+	3: dance pop (10.00%)
+	4: background piano (10.00%)
+	5: art pop (5.00%)
+Top artists
+	1: Harry Styles (3.33%)
+	2: Amélie Doret (3.33%)
+	3: Amy Macdonald (3.33%)
+	4: Jonathan Beaujean (3.33%)
+	5: Gabríel Ólafs (3.33%)
+Top country
+	1: SE (53.33%)
+	2: US (16.67%)
+	3: QZ (13.33%)
+	4: GB (10.00%)
+	5: QM (3.33%)
+Top record
+	1: XGF (23.33%)
+	2: 5IB (13.33%)
+	3: AKB (10.00%)
+	4: SM1 (6.67%)
+	5: 5W3 (6.67%)
+Top year
+	1: 21 (50.00%)
+	2: 20 (23.33%)
+	3: 13 (6.67%)
+	4: 22 (6.67%)
+	5: 19 (3.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   30.000000     30.000000      30.00000         30.000000    30.000000   30.000000  30.000000  30.000000
+mean    60.900000      0.854375       0.38790          0.736984     0.043263  124.997800   0.312613   0.179781
+std     11.210678      0.312816       0.15072          0.373278     0.016037   39.598618   0.249153   0.267361
+min     47.000000      0.000564       0.13600          0.000000     0.032100   68.204000   0.037400   0.007120
+25%     54.000000      0.977000       0.26150          0.860750     0.037175   96.011000   0.128000   0.036325
+50%     57.000000      0.988000       0.35300          0.909000     0.040500  121.353000   0.252000   0.057350
+75%     63.750000      0.993000       0.50200          0.940750     0.043625  137.595250   0.414500   0.134750
+max     89.000000      0.996000       0.72000          0.976000     0.124000  218.971000   0.860000   0.882000

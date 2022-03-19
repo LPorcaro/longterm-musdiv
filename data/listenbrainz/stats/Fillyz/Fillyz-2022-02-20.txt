@@ -3,11 +3,11 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: folk metal (14.29%)
-	2: german metal (14.29%)
-	3: german power metal (14.29%)
-	4: melodic metal (14.29%)
-	5: metal (14.29%)
+	1: folk metal (16.67%)
+	2: german metal (16.67%)
+	3: german power metal (16.67%)
+	4: melodic metal (16.67%)
+	5: neo classical metal (16.67%)
 Top artists
 	1: Orden Ogan (100.00%)
 Top country
@@ -20,10 +20,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness   tempo  valence  energy
 count         1.0      1.000000         1.000           1.00000       1.0000    1.00    1.000   1.000
-mean         26.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
+mean         27.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
 std           NaN           NaN           NaN               NaN          NaN     NaN      NaN     NaN
-min          26.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
-25%          26.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
-50%          26.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
-75%          26.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
-max          26.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
+min          27.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
+25%          27.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
+50%          27.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
+75%          27.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959
+max          27.0      0.000202         0.305           0.00144       0.0917  176.02    0.123   0.959

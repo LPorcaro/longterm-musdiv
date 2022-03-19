@@ -51,6 +51,9 @@ def parse_json(username):
                 user_listens.append(listen)
                 found_listens.append(listen["listened_at"])
 
+    if not user_listens:
+        print("User '{}': JSON file not found".format(username))
+        return
 
     outfile_info = json_file.replace(".json", ".csv")
 
@@ -125,17 +128,20 @@ def parse_json(username):
             # Get track features
             tracks_feat = sp.audio_features(tids_split)
             for track_feat in tracks_feat:
-                acousticness = float(track_feat['acousticness'])
-                danceability = float(track_feat['danceability'])
-                instrumentalness = float(track_feat['instrumentalness'])
-                speechiness = float(track_feat['speechiness'])
-                tempo = float(track_feat['tempo'])
-                valence = float(track_feat['valence'])
-                energy = float(track_feat['energy'])
+                row_out2 = []
+                if track_feat != None:
+                    acousticness = float(track_feat['acousticness'])
+                    danceability = float(track_feat['danceability'])
+                    instrumentalness = float(track_feat['instrumentalness'])
+                    speechiness = float(track_feat['speechiness'])
+                    tempo = float(track_feat['tempo'])
+                    valence = float(track_feat['valence'])
+                    energy = float(track_feat['energy'])
 
-                row_out2 = [acousticness, danceability,
-                            instrumentalness, speechiness, tempo,
-                            valence, energy]
+                    row_out2 = [acousticness, danceability,
+                                instrumentalness, speechiness, tempo,
+                                valence, energy]
+
 
                 rows2.append(row_out2)
 

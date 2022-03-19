@@ -1,0 +1,45 @@
+Electronic artists found: Danger
+Electronic genres found: darksynth, electro house
+Electronic music logs found: 11.11% 
+
+Top genres
+	1: power metal (20.83%)
+	2: metal (18.06%)
+	3: swedish power metal (15.28%)
+	4: swedish metal (13.89%)
+	5: melodic metal (6.94%)
+Top artists
+	1: Star-Lord Band (11.11%)
+	2: Manimal (11.11%)
+	3: Danger (11.11%)
+	4: Yohann Boudreault (11.11%)
+	5: Gloryhammer (11.11%)
+Top country
+	1: SE (55.56%)
+	2: AT (16.67%)
+	3: US (11.11%)
+	4: FR (11.11%)
+	5: DE (5.56%)
+Top record
+	1: 6HE (50.00%)
+	2: N26 (16.67%)
+	3: 9W1 (11.11%)
+	4: 2EG (5.56%)
+	5: 4E4 (5.56%)
+Top year
+	1: 22 (44.44%)
+	2: 15 (16.67%)
+	3: 21 (16.67%)
+	4: 18 (11.11%)
+	5: 14 (5.56%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    62.833333      0.004931      0.480222          0.043220     0.057128  125.395000   0.440556   0.930833
+std      7.155829      0.008020      0.073886          0.120254     0.024064   34.598127   0.158874   0.059580
+min     51.000000      0.000007      0.327000          0.000000     0.028700   76.994000   0.112000   0.734000
+25%     56.250000      0.000173      0.444750          0.000000     0.035600   96.021500   0.344750   0.922750
+50%     64.000000      0.000820      0.479000          0.000005     0.055600  117.047500   0.498000   0.940000
+75%     69.000000      0.005005      0.546750          0.001235     0.069775  155.552750   0.575750   0.968500
+max     72.000000      0.027100      0.592000          0.489000     0.108000  185.977000   0.626000   0.992000

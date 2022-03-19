@@ -10,26 +10,28 @@ from pylistenbrainz.errors import ListenBrainzAPIException
 from datetime import datetime, timedelta
 from tqdm import tqdm 
 
-max_ts = datetime.now() - timedelta(hours=96)
-min_ts = max_ts - timedelta(hours=24)
-
-date_time = max_ts.strftime("%Y%m%d")
-
 
 def get_listen_logs(username, out_dir):
     """
     """
-    tot_listes = client.get_user_listen_count(username)
-    if tot_listes > 100:
-        tot_listes = 100
+    listens_count = client.get_user_listen_count(username)
+    listens = []
 
-    listens = client.get_listens(username=username, 
-                                 min_ts=int(min_ts.timestamp()),
-                                 count=tot_listes)
+    max_ts = int(datetime.now().timestamp())
+    date_time = datetime.now().strftime("%Y%m%d")
 
-    for listen in tqdm(listens):
-        listen.__dict__['listened_at'] = datetime.fromtimestamp(
-            listen.__dict__['listened_at']).isoformat()
+    while len(listens) < listens_count:
+        listens_batch = client.get_listens(username=username, 
+                                           max_ts=max_ts,
+                                           count=100)
+
+        max_ts = listens_batch[-1].__dict__['listened_at']
+
+        for listen in tqdm(listens_batch):
+            listen.__dict__['listened_at'] = datetime.fromtimestamp(
+                listen.__dict__['listened_at']).isoformat()
+
+        listens.extend(listens_batch)
 
     # Serializing json 
     json_object = json.dumps([x.__dict__ for x in listens], indent=4)

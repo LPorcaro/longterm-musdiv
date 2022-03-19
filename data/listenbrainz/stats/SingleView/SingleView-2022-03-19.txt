@@ -1,0 +1,40 @@
+Electronic artists found: Cassius, KOKOKO!
+Electronic genres found: electro house, electronica, disco house, african electronic
+Electronic music logs found: 15.38% 
+
+Top genres
+	1: beatlesque (13.56%)
+	2: british invasion (13.56%)
+	3: classic rock (13.56%)
+	4: merseybeat (13.56%)
+	5: psychedelic rock (13.56%)
+Top artists
+	1: Cassius (14.29%)
+	2: The Beatles (14.29%)
+	3: KOKOKO! (14.29%)
+	4: Seth XVI (14.29%)
+	5: Jain (14.29%)
+Top country
+	1: GB (76.92%)
+	2: FR (23.08%)
+Top record
+	1: UM7 (61.54%)
+	2: MCZ (7.69%)
+	3: 01Q (7.69%)
+	4: GNS (7.69%)
+	5: 10S (7.69%)
+Top year
+	1: 15 (76.92%)
+	2: 06 (15.38%)
+	3: 17 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count    13.00000     13.000000     13.000000         13.000000    13.000000   13.000000  13.000000  13.000000
+mean     56.00000      0.203897      0.653385          0.120156     0.066138  119.624615   0.580923   0.691308
+std      13.17194      0.161859      0.174532          0.201699     0.066234   13.948562   0.223243   0.160478
+min      29.00000      0.001410      0.386000          0.000002     0.026100   99.396000   0.218000   0.375000
+25%      57.00000      0.089000      0.498000          0.000005     0.029400  109.608000   0.466000   0.607000
+50%      60.00000      0.186000      0.679000          0.000599     0.037600  116.068000   0.550000   0.656000
+75%      61.00000      0.378000      0.769000          0.143000     0.070400  131.989000   0.676000   0.823000
+max      78.00000      0.437000      0.955000          0.530000     0.266000  147.207000   0.962000   0.892000

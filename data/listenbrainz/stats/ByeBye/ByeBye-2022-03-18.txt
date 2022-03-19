@@ -1,0 +1,38 @@
+Electronic artists found: Atitude 67,Gabriel O Pensador,Analaga
+Electronic genres found: funk carioca
+Electronic music logs found: 40.00% 
+
+Top genres
+	1: funk carioca (13.33%)
+	2: pagode (13.33%)
+	3: pop nacional (13.33%)
+	4: sertanejo pop (13.33%)
+	5: classic rock (13.33%)
+Top artists
+	1: maxtaylor (20.00%)
+	2: Analaga (20.00%)
+	3: Queen (20.00%)
+	4: Gabriel O Pensador (20.00%)
+	5: Atitude 67 (20.00%)
+Top country
+	1: BR (40.00%)
+	2: GB (40.00%)
+	3: QZ (20.00%)
+Top record
+	1: UM7 (80.00%)
+	2: DA6 (20.00%)
+Top year
+	1: 20 (40.00%)
+	2: 10 (40.00%)
+	3: 18 (20.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    5.000000      5.000000       5.00000          5.000000     5.000000    5.000000  5.000000  5.000000
+mean    48.400000      0.252760       0.79600          0.105247     0.151920  134.820400  0.711400  0.698800
+std     20.243517      0.178246       0.12125          0.144009     0.053474   23.294277  0.038843  0.159827
+min     27.000000      0.096900       0.68600          0.000000     0.059600  109.958000  0.677000  0.526000
+25%     27.000000      0.096900       0.71900          0.000000     0.161000  109.958000  0.677000  0.526000
+50%     54.000000      0.269000       0.71900          0.000233     0.161000  147.113000  0.697000  0.772000
+75%     67.000000      0.269000       0.92800          0.263000     0.189000  147.113000  0.753000  0.835000
+max     67.000000      0.532000       0.92800          0.263000     0.189000  159.960000  0.753000  0.835000

@@ -1,5 +1,5 @@
-Electronic artists found: MC L da Vinte,MC Gury, Pk,L7NNON,Mun-Ra, Xamã,Neo Beats,Matuê, Jojo Maronttinni, Mc Leozin, Pk,Luísa Sonza, Pk,LUDMILLA, Mc Jacaré, Xamã,Gustah,Neo Beats, Junior Lord, Bhaskar,Hungria Hip Hop, Mc Th,Xamã,WC no Beat,Pep Starling
-Electronic genres found: brazilian bass, funk carioca
+Electronic artists found: Pk,L7NNON,Mun-Ra, Jojo Maronttinni, Mc Th,Xamã,WC no Beat,Pep Starling, Xamã,Gustah,Neo Beats, Bhaskar,Hungria Hip Hop, Pk,LUDMILLA, Pk,Luísa Sonza, Xamã,Neo Beats,Matuê, Mc Jacaré, Mc Leozin, Junior Lord, MC L da Vinte,MC Gury
+Electronic genres found: funk carioca, brazilian bass
 Electronic music logs found: 50.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: trap funk (6.90%)
 	5: funk ostentacao (5.17%)
 Top artists
-	1: Joyner Lucas (2.70%)
-	2: Luísa Sonza (2.70%)
-	3: Gustah (2.70%)
-	4: Matuê (2.70%)
-	5: Mc Jacaré (2.70%)
+	1: Jojo Maronttinni (2.63%)
+	2: Dan K (2.63%)
+	3: Mc Jacaré (2.63%)
+	4: L7NNON (2.63%)
+	5: Konai (2.63%)
 Top country
 	1: BR (29.17%)
 	2: QZ (25.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   24.000000     24.000000     24.000000         24.000000    24.000000   24.000000  24.000000  24.000000
-mean    63.833333      0.303122      0.703333          0.000119     0.173713  117.878667   0.557042   0.649292
-std     11.169316      0.221160      0.138328          0.000314     0.120207   30.559566   0.221910   0.130773
-min     46.000000      0.000616      0.417000          0.000000     0.030600   72.573000   0.147000   0.434000
-25%     53.750000      0.195500      0.631250          0.000000     0.058675   91.538250   0.438250   0.563250
-50%     63.500000      0.272500      0.731000          0.000000     0.165000  124.441500   0.597000   0.612500
-75%     71.250000      0.378750      0.813500          0.000089     0.246750  136.190750   0.689250   0.754250
+mean    64.458333      0.303038      0.703375          0.000119     0.174129  117.878667   0.557292   0.649333
+std     11.108082      0.221177      0.138385          0.000314     0.120496   30.559566   0.222015   0.130744
+min     47.000000      0.000616      0.417000          0.000000     0.030600   72.573000   0.147000   0.434000
+25%     54.750000      0.195500      0.631250          0.000000     0.058675   91.538250   0.438250   0.563500
+50%     64.500000      0.271500      0.731000          0.000000     0.165000  124.441500   0.597000   0.612500
+75%     72.250000      0.378750      0.813500          0.000089     0.249250  136.190750   0.689250   0.754250
 max     92.000000      0.841000      0.933000          0.001510     0.431000  186.581000   0.910000   0.864000

@@ -116,8 +116,6 @@ def analyze_user_temporal(username, temporal_feat):
             label='EM Track')
       
     # plt.grid(linestyle='--')
-    ax[0, 0].set_xticks(r + width/2)
-    ax[0, 0].set_xticklabels(Day)
     ax[0, 0].legend()
 
     ax[0, 0].set_title('Tracks count VS Electronic Music')
@@ -141,6 +139,9 @@ def analyze_user_temporal(username, temporal_feat):
     ax[2, 1].errorbar(Day, T_mean, T_std, fmt=fmt)
     ax[2, 1].set_ylim([0,200])
     ax[2, 1].set_title('BPM')
+
+    ax[2, 0].tick_params(axis="x", which="both", rotation=90)
+    ax[2, 1].tick_params(axis="x", rotation=90)
 
     fig.suptitle(username)
 
@@ -247,7 +248,8 @@ def analyze_logs(username, date, out_dir):
 
     analyze_user_temporal(username, temporal_feat)
 
-    print(len(set(A_EM)), len(set(G_EM)))
+    print("Unique Electronic Music Artists: {}".format(len(set(A_EM))))
+    print("Unique Electronic Music Genres: {}".format(len(set(G_EM))))
 
 
 def arg_parser():

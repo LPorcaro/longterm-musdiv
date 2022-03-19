@@ -1,40 +1,44 @@
-Electronic artists found: John Summit,SIDEPIECE, Hot Chip,Jarvis Cocker, Sam Feldt,Rita Ora
-Electronic genres found: chillwave, deep house, electronica, electro house, tropical house
-Electronic music logs found: 60.00% 
+Electronic artists found: Rezz,Metric, Joel Corry, La Roux,GAMPER & DADONI, Don Diablo,Imanbek,Trevor Daniel, Hot Chip,Jarvis Cocker, Joel Corry,Mabel, ILLENIUM,iann dior, John Summit,SIDEPIECE, Sam Feldt,Rita Ora, Topic,A7S, Andrew Rayel, Galantis,David Guetta,Little Mix
+Electronic genres found: progressive house, uplifting trance, melodic dubstep, future house, canadian electronic, chillwave, electronica, deep house, electro house, tropical house
+Electronic music logs found: 75.00% 
 
 Top genres
-	1: edm (8.00%)
-	2: electro house (8.00%)
-	3: pop dance (8.00%)
-	4: dance pop (4.00%)
-	5: pop (4.00%)
+	1: edm (11.90%)
+	2: pop dance (10.71%)
+	3: dance pop (8.33%)
+	4: tropical house (8.33%)
+	5: electro house (7.14%)
 Top artists
-	1: SIDEPIECE (10.00%)
-	2: Colin Hay (10.00%)
-	3: Luude (10.00%)
-	4: Hot Chip (10.00%)
-	5: John Summit (10.00%)
+	1: Chico Rose (3.23%)
+	2: Never Sleeps (3.23%)
+	3: AUDREY NUNA (3.23%)
+	4: Rezz (3.23%)
+	5: Don Diablo (3.23%)
 Top country
-	1: US (40.00%)
-	2: GB (40.00%)
-	3: AU (20.00%)
+	1: US (31.25%)
+	2: GB (25.00%)
+	3: NL (12.50%)
+	4: CY (6.25%)
+	5: DE (6.25%)
 Top record
-	1: QX9 (40.00%)
-	2: CEL (20.00%)
-	3: DCB (20.00%)
-	4: CPZ (20.00%)
+	1: UM7 (12.50%)
+	2: QX9 (12.50%)
+	3: A22 (6.25%)
+	4: 4ZF (6.25%)
+	5: AHS (6.25%)
 Top year
-	1: 20 (60.00%)
-	2: 21 (20.00%)
-	3: 17 (20.00%)
+	1: 21 (50.00%)
+	2: 20 (37.50%)
+	3: 19 (6.25%)
+	4: 17 (6.25%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness      tempo   valence    energy
-count    5.000000      5.000000       5.00000          5.000000     5.000000    5.00000  5.000000  5.000000
-mean    63.400000      0.063656       0.63880          0.005073     0.129460  124.60200  0.521120  0.812200
-std     26.292585      0.057361       0.18947          0.010589     0.061632   32.24224  0.299365  0.119565
-min     19.000000      0.003280       0.30800          0.000000     0.049600   81.01900  0.038600  0.652000
-25%     62.000000      0.012000       0.67300          0.000002     0.080700  121.99500  0.453000  0.729000
-50%     71.000000      0.077000       0.69000          0.000332     0.151000  122.02300  0.623000  0.861000
-75%     81.000000      0.083000       0.75000          0.001030     0.172000  126.00700  0.675000  0.869000
-max     84.000000      0.143000       0.77300          0.024000     0.194000  171.96600  0.816000  0.950000
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean    70.062500      0.080197      0.631625          0.001770     0.083531  121.506500   0.528037   0.796188
+std     17.121015      0.069130      0.128373          0.005975     0.063736   22.652445   0.208855   0.084924
+min     19.000000      0.003280      0.308000          0.000000     0.030900   79.887000   0.038600   0.652000
+25%     62.000000      0.018900      0.550000          0.000000     0.042550  121.009000   0.447250   0.740250
+50%     72.000000      0.080000      0.676500          0.000004     0.047850  123.992500   0.575000   0.784000
+75%     82.250000      0.105750      0.710250          0.000097     0.114250  125.275750   0.666750   0.857250
+max     92.000000      0.223000      0.789000          0.024000     0.218000  171.966000   0.816000   0.950000

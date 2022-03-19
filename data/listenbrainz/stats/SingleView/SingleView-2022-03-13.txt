@@ -1,0 +1,41 @@
+Electronic artists found: Jackie Mittoo, U-Roy, Derrick Harriott,The Chosen Few
+Electronic genres found: dub
+Electronic music logs found: 50.00% 
+
+Top genres
+	1: rocksteady (15.62%)
+	2: reggae (12.50%)
+	3: ska (12.50%)
+	4: dub (9.38%)
+	5: lovers rock (9.38%)
+Top artists
+	1: Lester Sterling (12.50%)
+	2: The Slickers (12.50%)
+	3: Derrick Harriott (12.50%)
+	4: The Chosen Few (12.50%)
+	5: Stranger Cole (12.50%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: AJE (33.33%)
+	2: AAA (16.67%)
+	3: AAN (16.67%)
+	4: VVQ (16.67%)
+	5: HWT (16.67%)
+Top year
+	1: 90 (16.67%)
+	2: 72 (16.67%)
+	3: 19 (16.67%)
+	4: 05 (16.67%)
+	5: 70 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo  valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.00000  6.000000
+mean    44.666667      0.235583      0.811333          0.292882     0.080167  115.102833  0.86000  0.547500
+std     15.042163      0.155324      0.108452          0.384578     0.038431   37.525025  0.10289  0.091897
+min     26.000000      0.061500      0.673000          0.000007     0.055500   74.095000  0.71700  0.395000
+25%     31.250000      0.124250      0.748250          0.007115     0.056225   87.148250  0.79650  0.507250
+50%     50.500000      0.202000      0.788500          0.102850     0.065100  106.798000  0.85650  0.569500
+75%     54.750000      0.351750      0.890250          0.554000     0.081550  144.099000  0.94800  0.604000
+max     60.000000      0.448000      0.959000          0.872000     0.155000  165.795000  0.97500  0.649000

@@ -1,0 +1,45 @@
+Electronic artists found: Galantis,JVKE
+Electronic genres found: electro house, tropical house
+Electronic music logs found: 7.14% 
+
+Top genres
+	1: pop (18.18%)
+	2: bedroom pop (6.06%)
+	3: modern rock (6.06%)
+	4: bedroom soul (6.06%)
+	5: edm (6.06%)
+Top artists
+	1: jackwoods (6.67%)
+	2: Still Woozy (6.67%)
+	3: The Jungle Giants (6.67%)
+	4: Cosmo's Midnight (6.67%)
+	5: Surfaces (6.67%)
+Top country
+	1: US (28.57%)
+	2: AU (21.43%)
+	3: GB (21.43%)
+	4: QZ (21.43%)
+	5: TC (7.14%)
+Top record
+	1: KPL (14.29%)
+	2: UM7 (14.29%)
+	3: AT2 (14.29%)
+	4: NE3 (7.14%)
+	5: ANL (7.14%)
+Top year
+	1: 20 (35.71%)
+	2: 21 (35.71%)
+	3: 19 (14.29%)
+	4: 17 (7.14%)
+	5: 22 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   14.000000     14.000000     14.000000         14.000000    14.000000   14.000000  14.000000  14.000000
+mean    64.928571      0.202209      0.730000          0.089578     0.081779  129.279286   0.703857   0.702143
+std      9.152253      0.216360      0.084595          0.223187     0.054712   23.836327   0.100378   0.104857
+min     49.000000      0.001330      0.568000          0.000000     0.030900  106.000000   0.499000   0.522000
+25%     60.250000      0.038825      0.673750          0.000103     0.052475  117.942500   0.629500   0.654000
+50%     65.500000      0.160500      0.746500          0.002380     0.060000  119.988000   0.703000   0.697500
+75%     71.000000      0.256000      0.795250          0.062450     0.088925  136.179000   0.776750   0.747750
+max     79.000000      0.821000      0.834000          0.838000     0.215000  199.785000   0.860000   0.940000

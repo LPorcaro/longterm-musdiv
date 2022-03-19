@@ -1,0 +1,36 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: detroit hip hop (16.67%)
+	2: hip hop (16.67%)
+	3: rap (16.67%)
+	4: rap baiano (16.67%)
+	5: trap baiano (16.67%)
+Top artists
+	1: Eminem (9.09%)
+	2: Salve Malak (9.09%)
+	3: Pineapple StormTv (9.09%)
+	4: Caio Luccas (9.09%)
+	5: Filipe Ret (9.09%)
+Top country
+	1: US (50.00%)
+	2: BX (50.00%)
+Top record
+	1: UM7 (50.00%)
+	2: 6Y6 (50.00%)
+Top year
+	1: 09 (50.00%)
+	2: 22 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence   energy
+count    2.000000      2.000000      2.000000               2.0     2.000000    2.000000  2.000000  2.00000
+mean    78.000000      0.351000      0.681500               0.0     0.060450  112.026500  0.420500  0.68050
+std      5.656854      0.141421      0.064347               0.0     0.014354   28.355689  0.065761  0.02192
+min     74.000000      0.251000      0.636000               0.0     0.050300   91.976000  0.374000  0.66500
+25%     76.000000      0.301000      0.658750               0.0     0.055375  102.001250  0.397250  0.67275
+50%     78.000000      0.351000      0.681500               0.0     0.060450  112.026500  0.420500  0.68050
+75%     80.000000      0.401000      0.704250               0.0     0.065525  122.051750  0.443750  0.68825
+max     82.000000      0.451000      0.727000               0.0     0.070600  132.077000  0.467000  0.69600
