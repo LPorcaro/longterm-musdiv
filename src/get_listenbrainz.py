@@ -9,32 +9,71 @@ import argparse
 from pylistenbrainz.errors import ListenBrainzAPIException
 from datetime import datetime, timedelta
 from tqdm import tqdm 
+from operator import itemgetter
 
 
 def get_listen_logs(username, out_dir):
     """
     """
-    listens_count = client.get_user_listen_count(username)
-    listens = []
-
-    max_ts = int(datetime.now().timestamp())
     date_time = datetime.now().strftime("%Y%m%d")
 
-    while len(listens) < listens_count:
-        listens_batch = client.get_listens(username=username, 
-                                           max_ts=max_ts,
-                                           count=100)
+    if os.path.exists(out_dir):
+        user_folder = os.path.join(out_dir, username)
+        for json_file in sorted(os.listdir(user_folder), reverse=True):
+            infile = os.path.join(user_folder, json_file)
+            with open(infile, 'r') as inf:
+                listens = json.load(inf)
+            last_listen = listens[0]
+            last_listen_date = last_listen['listened_at']
+            last_listen_obj = datetime.fromisoformat(last_listen_date)
+            break
 
-        max_ts = listens_batch[-1].__dict__['listened_at']
+        listens = []
+        listens_batch_flag = 1
+        min_ts = (int(last_listen_obj.timestamp()))
 
-        for listen in tqdm(listens_batch):
-            listen.__dict__['listened_at'] = datetime.fromtimestamp(
-                listen.__dict__['listened_at']).isoformat()
+        while listens_batch_flag:
+            listens_batch = client.get_listens(username=username,
+                                               min_ts=min_ts,
+                                               count=100)
 
-        listens.extend(listens_batch)
+            if len(listens_batch) == 0:
+                listens_batch_flag = 0
+                break
+
+            min_ts = listens_batch[0].__dict__['listened_at']
+
+            for listen in tqdm(listens_batch):
+                listen.__dict__['listened_at'] = datetime.fromtimestamp(
+                    listen.__dict__['listened_at']).isoformat()
+
+            listens.extend(listens_batch)
+
+    else:
+        listens_count = client.get_user_listen_count(username)
+        listens = []
+        max_ts = int(datetime.now().timestamp())
+
+        while len(listens) < listens_count:
+            listens_batch = client.get_listens(username=username,
+                                               max_ts=max_ts,
+                                               count=100)
+
+            max_ts = listens_batch[-1].__dict__['listened_at']
+
+            for listen in tqdm(listens_batch):
+                listen.__dict__['listened_at'] = datetime.fromtimestamp(
+                    listen.__dict__['listened_at']).isoformat()
+
+            listens.extend(listens_batch)
+
+    listens = sorted([x.__dict__ for x in listens], 
+                     key=itemgetter('listened_at'),
+                     reverse=True)
+
 
     # Serializing json 
-    json_object = json.dumps([x.__dict__ for x in listens], indent=4)
+    json_object = json.dumps([x for x in listens], indent=4)
 
     # Writing to sample.json
     out_dir = os.path.join(out_dir, username)

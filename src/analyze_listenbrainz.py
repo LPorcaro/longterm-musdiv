@@ -19,6 +19,8 @@ INFO_DIR = "../data/listenbrainz/info"
 
 end = datetime.strptime("20220216", "%Y%m%d")
 
+NOT_EM_GENRE = ['permanent wave']
+
 def search_em_genres(df):
     """
     """
@@ -40,6 +42,8 @@ def search_em_genres(df):
             stringmatch = [x for x in genres_list if genre in x]
             if stringmatch:
                 genres_found += stringmatch
+
+    genres_found = [x for x in genres_found if x not in NOT_EM_GENRE]
 
     return genres_found, genres_list
 

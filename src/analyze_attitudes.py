@@ -39,10 +39,10 @@ ARTIS_FEATS = {"att1:1": "Gender",
                }
 
 
-IAT_FOLDER = "../data/iat"
-ATT_FILE = "../data/attitudes/data.csv"
-ATT_FILE_P_OUT = "../data/attitudes/participants_{}.csv".format(date_time)
-ATT_FILE_F_OUT = "../data/attitudes/features_{}.csv".format(date_time)
+IAT_FOLDER = "../data/iat/1st"
+ATT_FILE = "../data/attitudes/1st/g1_1st.csv"
+ATT_FILE_P_OUT = "../data/attitudes/1st/g1_1st_part_{}.csv".format(date_time)
+ATT_FILE_F_OUT = "../data/attitudes/1st/g1_1st_feat_{}.csv".format(date_time)
 
 
 def analyze_iat(infile):
