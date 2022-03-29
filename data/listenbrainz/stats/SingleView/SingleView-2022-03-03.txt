@@ -1,6 +1,6 @@
-Electronic artists found: Beautify Junkyards, Daphne Oram, The Conet Project, Delia Derbyshire, Pearl Jam, Emeralds, Belbury Poly and Moon Wiring Club,Belbury Poly,Moon Wiring Club, Hype Williams, Thanet, Tristram Cary, Children Of Alice, Paddy Kingsland, Actress,London Contemporary Orchestra, Mount Vernon Arts Lab, Leyland Kirby, Jeff Keen, Pye Corner Audio, Hacker Farm, Vernon Elliott, Blanck Mass, The Pattern Forms, John Baker, Roj, KWJAZ, Ursula Bogner, Listening Center, Brooks and O'Hagan, The British Space Group, Dmitri Shostakovich,Vassily Sinaisky,BBC Philharmonic, ToiToiToi, The BBC Radiophonic Workshop, John Foxx and The Belbury Circle,John Foxx,The Belbury Circle, Dudley Simpson, Akira Rabelais, Pye Corner Audio with The Advisory Circle,Pye Corner Audio,The Advisory Circle
-Electronic genres found: drone, wonky, deconstructed club, outsider house, microhouse, uk experimental electronic, permanent wave, berlin school, lowercase, ambient, future garage, electronica, hauntology, vaporwave, uk bass
-Electronic music logs found: 80.00% 
+Electronic artists found: Delia Derbyshire, Pye Corner Audio with The Advisory Circle,Pye Corner Audio,The Advisory Circle, Jeff Keen, Listening Center, Dudley Simpson, John Baker, Thanet, ToiToiToi, Mount Vernon Arts Lab, Leyland Kirby, The Pattern Forms, Roj, Vernon Elliott, The Conet Project, Akira Rabelais, Belbury Poly and Moon Wiring Club,Belbury Poly,Moon Wiring Club, Beautify Junkyards, Ursula Bogner, Pye Corner Audio, Daphne Oram, Brooks and O'Hagan, Blanck Mass, Dmitri Shostakovich,Vassily Sinaisky,BBC Philharmonic, Children Of Alice, Hype Williams, The BBC Radiophonic Workshop, Paddy Kingsland, The British Space Group, Hacker Farm, Actress,London Contemporary Orchestra, KWJAZ, Tristram Cary, John Foxx and The Belbury Circle,John Foxx,The Belbury Circle, Emeralds
+Electronic genres found: microhouse, outsider house, deconstructed club, lowercase, wonky, berlin school, uk bass, hauntology, uk experimental electronic, vaporwave, electronica, ambient, new isolationism, future garage, drone
+Electronic music logs found: 77.78% 
 
 Top genres
 	1: hauntology (26.36%)
@@ -9,11 +9,11 @@ Top genres
 	4: british experimental (3.88%)
 	5: uk experimental electronic (3.88%)
 Top artists
-	1: Pye Corner Audio with The Advisory Circle (1.43%)
-	2: Beautify Junkyards (1.43%)
-	3: Gabriel Fauré (1.43%)
-	4: Daphne Oram (1.43%)
-	5: Arcangelo Corelli (1.43%)
+	1: Sergei Rachmaninoff (1.43%)
+	2: Delia Derbyshire (1.43%)
+	3: Paul Snowden (1.43%)
+	4: Kathryn Stott (1.43%)
+	5: Jeff Keen (1.43%)
 Top country
 	1: GB (57.78%)
 	2: US (15.56%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   45.000000     45.000000     45.000000         45.000000    45.000000   45.000000  45.000000  45.000000
-mean    21.911111      0.721089      0.349082          0.637755     0.074429  116.236533   0.229916   0.377955
-std     21.225866      0.341139      0.195848          0.369568     0.065970   33.740931   0.232573   0.272504
+mean    22.066667      0.721089      0.349082          0.637755     0.074429  116.236533   0.229916   0.377955
+std     21.207203      0.341139      0.195848          0.369568     0.065970   33.740931   0.232573   0.272504
 min      0.000000      0.002000      0.085600          0.000000     0.030200   70.821000   0.016500   0.000651
 25%      4.000000      0.496000      0.197000          0.302000     0.037600   87.814000   0.052700   0.108000
-50%     15.000000      0.899000      0.289000          0.845000     0.045300  114.760000   0.133000   0.417000
-75%     38.000000      0.974000      0.500000          0.935000     0.074000  138.040000   0.323000   0.596000
+50%     16.000000      0.899000      0.289000          0.845000     0.045300  114.760000   0.133000   0.417000
+75%     39.000000      0.974000      0.500000          0.935000     0.074000  138.040000   0.323000   0.596000
 max     77.000000      0.996000      0.789000          0.980000     0.283000  189.900000   0.865000   0.848000

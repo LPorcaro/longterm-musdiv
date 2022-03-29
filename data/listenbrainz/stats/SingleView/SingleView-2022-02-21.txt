@@ -1,19 +1,19 @@
 Electronic artists found: Geo Rip, Lawrence
-Electronic genres found: hamburg electronic, microhouse, minimal techno, tech house, ambient techno, dub techno
+Electronic genres found: microhouse, minimal techno, ambient techno, minimal tech house, hamburg electronic, dub techno
 Electronic music logs found: 28.57% 
 
 Top genres
-	1: dub techno (7.69%)
-	2: float house (7.69%)
-	3: german house (7.69%)
-	4: hamburg electronic (7.69%)
-	5: microhouse (7.69%)
+	1: dub techno (8.33%)
+	2: float house (8.33%)
+	3: german house (8.33%)
+	4: hamburg electronic (8.33%)
+	5: microhouse (8.33%)
 Top artists
-	1: Geo Rip (12.50%)
-	2: Palazzi D'Oriente (12.50%)
-	3: Woo (12.50%)
-	4: Sprinks (12.50%)
-	5: Lawrence (12.50%)
+	1: Fight Pausa (12.50%)
+	2: Slauson Malone (12.50%)
+	3: Palazzi D'Oriente (12.50%)
+	4: Geo Rip (12.50%)
+	5: Woo (12.50%)
 Top country
 	1: IT (28.57%)
 	2: DE (14.29%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
 count    7.000000      7.000000      7.000000          7.000000     7.000000    7.000000  7.000000  7.000000
-mean    13.857143      0.688286      0.576286          0.667714     0.120643  117.028429  0.392286  0.508286
-std     13.740798      0.265043      0.144515          0.229379     0.081736   32.240639  0.188894  0.183176
+mean    14.285714      0.688286      0.576286          0.667714     0.120643  117.028429  0.392286  0.508286
+std     14.103360      0.265043      0.144515          0.229379     0.081736   32.240639  0.188894  0.183176
 min      3.000000      0.186000      0.340000          0.369000     0.037500   74.993000  0.101000  0.263000
 25%      6.000000      0.587500      0.511000          0.478000     0.047000   94.376500  0.253500  0.388000
-50%     10.000000      0.765000      0.574000          0.693000     0.132000  118.956000  0.494000  0.481000
-75%     14.500000      0.888500      0.650000          0.867500     0.162000  138.268500  0.528000  0.623500
-max     43.000000      0.915000      0.798000          0.921000     0.257000  159.960000  0.588000  0.791000
+50%     11.000000      0.765000      0.574000          0.693000     0.132000  118.956000  0.494000  0.481000
+75%     15.000000      0.888500      0.650000          0.867500     0.162000  138.268500  0.528000  0.623500
+max     44.000000      0.915000      0.798000          0.921000     0.257000  159.960000  0.588000  0.791000

@@ -1,19 +1,19 @@
-Electronic artists found: The Ethiopians, Derrick Harriott, Derrick Harriott,The Chosen Few, The Heptones, The Techniques, Tommy McCook,The Supersonics, The Congos
+Electronic artists found: The Heptones, The Congos, Derrick Harriott, The Ethiopians, Tommy McCook,The Supersonics, The Techniques, Derrick Harriott,The Chosen Few
 Electronic genres found: dub
 Electronic music logs found: 22.86% 
 
 Top genres
-	1: rocksteady (9.72%)
-	2: classical (9.03%)
-	3: ska (8.33%)
-	4: jamaican ska (7.64%)
-	5: reggae (7.64%)
+	1: rocksteady (9.79%)
+	2: classical (9.09%)
+	3: ska (8.39%)
+	4: jamaican ska (7.69%)
+	5: reggae (7.69%)
 Top artists
-	1: Lord Tanamo (1.67%)
-	2: Michael Sanderling (1.67%)
-	3: Neeme Järvi (1.67%)
-	4: Edvard Grieg (1.67%)
-	5: The Heptones (1.67%)
+	1: The Heptones (1.67%)
+	2: Lloyd Robinson (1.67%)
+	3: Sergei Rachmaninoff (1.67%)
+	4: Julian Bream (1.67%)
+	5: William Chapman Nyaho (1.67%)
 Top country
 	1: GB (45.71%)
 	2: US (25.71%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   35.000000     35.000000     35.000000         35.000000    35.000000   35.000000  35.000000  35.000000
-mean    49.885714      0.676120      0.535486          0.548827     0.070420   98.771771   0.463326   0.226670
-std     12.016585      0.379174      0.260221          0.432561     0.053893   29.145553   0.328777   0.248433
-min     19.000000      0.030800      0.089000          0.000000     0.032200   63.821000   0.030200   0.003630
+mean    50.314286      0.676120      0.535486          0.548827     0.070420   98.771771   0.463326   0.226670
+std     11.671412      0.379174      0.260221          0.432561     0.053893   29.145553   0.328777   0.248433
+min     21.000000      0.030800      0.089000          0.000000     0.032200   63.821000   0.030200   0.003630
 25%     43.000000      0.363500      0.298000          0.008280     0.042200   75.781500   0.146000   0.024850
-50%     52.000000      0.973000      0.490000          0.857000     0.048300   90.778000   0.468000   0.064400
-75%     59.000000      0.991000      0.807000          0.922500     0.078300  118.718500   0.766000   0.427000
+50%     53.000000      0.973000      0.490000          0.857000     0.048300   90.778000   0.468000   0.064400
+75%     59.500000      0.991000      0.807000          0.922500     0.078300  118.718500   0.766000   0.427000
 max     66.000000      0.996000      0.903000          0.967000     0.295000  174.248000   0.974000   0.725000

@@ -1,19 +1,19 @@
-Electronic artists found: Arctic Monkeys
-Electronic genres found: permanent wave
-Electronic music logs found: 9.52% 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
 
 Top genres
-	1: hip hop tuga (8.20%)
-	2: alternative metal (6.56%)
-	3: nu metal (6.56%)
-	4: rap metal (6.56%)
-	5: modern rock (4.92%)
+	1: hip hop tuga (8.06%)
+	2: alternative metal (6.45%)
+	3: nu metal (6.45%)
+	4: rap metal (6.45%)
+	5: modern rock (4.84%)
 Top artists
-	1: Bispo (4.55%)
-	2: Slow J (4.55%)
-	3: Maroon 5 (4.55%)
-	4: BONES (4.55%)
-	5: Saint Chaos (4.55%)
+	1: Arctic Monkeys (4.55%)
+	2: Monsta (4.55%)
+	3: Hi-Rez (4.55%)
+	4: Slow J (4.55%)
+	5: Skrizzly Adams (4.55%)
 Top country
 	1: US (33.33%)
 	2: TC (14.29%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
-mean    61.190476      0.297495      0.639952          0.041043     0.140924  113.229286   0.467729   0.624324
-std     17.010641      0.280115      0.109895          0.171649     0.167705   31.827369   0.205957   0.213392
+mean    61.571429      0.297495      0.639952          0.041043     0.140924  113.229286   0.467729   0.624324
+std     17.115991      0.280115      0.109895          0.171649     0.167705   31.827369   0.205957   0.213392
 min     35.000000      0.003710      0.478000          0.000000     0.023500   73.435000   0.070300   0.015800
 25%     46.000000      0.114000      0.548000          0.000000     0.050600   85.030000   0.405000   0.532000
 50%     58.000000      0.186000      0.627000          0.000000     0.080900   97.984000   0.445000   0.636000
 75%     77.000000      0.508000      0.712000          0.000263     0.134000  140.108000   0.577000   0.705000
-max     88.000000      0.969000      0.847000          0.787000     0.761000  164.079000   0.871000   0.978000
+max     89.000000      0.969000      0.847000          0.787000     0.761000  164.079000   0.871000   0.978000

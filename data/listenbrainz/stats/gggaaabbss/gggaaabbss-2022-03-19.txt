@@ -1,0 +1,43 @@
+Electronic artists found: Lost Frequencies,Calum Scott, Mabel,Jax Jones,Galantis
+Electronic genres found: tropical house
+Electronic music logs found: 10.00% 
+
+Top genres
+	1: pop (25.42%)
+	2: post-teen pop (13.56%)
+	3: dance pop (10.17%)
+	4: hip hop (3.39%)
+	5: rap (3.39%)
+Top artists
+	1: Stubby (3.12%)
+	2: Anna Margaret (3.12%)
+	3: Jason Evigan (3.12%)
+	4: Lost Frequencies (3.12%)
+	5: Doja Cat (3.12%)
+Top country
+	1: US (75.00%)
+	2: GB (20.00%)
+	3: BE (5.00%)
+Top record
+	1: WD1 (25.00%)
+	2: UM7 (20.00%)
+	3: QX9 (10.00%)
+	4: AT2 (10.00%)
+	5: RC1 (10.00%)
+Top year
+	1: 21 (30.00%)
+	2: 22 (20.00%)
+	3: 17 (10.00%)
+	4: 09 (10.00%)
+	5: 00 (5.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   20.000000     20.000000     20.000000         20.000000     20.00000   20.000000  20.000000  20.000000
+mean    82.550000      0.149960      0.612750          0.000193      0.08870  136.901250   0.621600   0.739900
+std     14.001786      0.151022      0.163988          0.000658      0.06861   29.484365   0.237783   0.119505
+min     60.000000      0.000007      0.333000          0.000000      0.03170   82.030000   0.232000   0.496000
+25%     69.000000      0.032475      0.500000          0.000000      0.04985  119.732500   0.459250   0.657000
+50%     87.000000      0.091100      0.666500          0.000000      0.06115  130.014500   0.678500   0.729500
+75%     95.250000      0.232000      0.706000          0.000019      0.10700  164.448500   0.833750   0.807000
+max     97.000000      0.515000      0.843000          0.002940      0.34200  185.539000   0.942000   0.965000

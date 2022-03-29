@@ -1,0 +1,17 @@
+Feature,Median,IQR
+Relaxing,2.5,1.0
+Commuting,3.5,1.0
+Partying,5.0,0.25
+Running,4.0,1.0
+Shopping,3.0,2.0
+Sleeping,1.5,1.0
+Studying,2.0,0.5
+Working,3.0,2.5
+Tempo,4.5,1.25
+Danceability,4.5,1.0
+Acousticness,2.5,1.5
+Instrumentalness,3.0,0.25
+Gender,3.5,1.0
+Skin,3.0,0.25
+Origin,3.5,1.0
+Age,2.0,2.0

@@ -1,19 +1,19 @@
-Electronic artists found: Zedd,Maren Morris,Grey, Years & Years, Jonas Blue,Liam Payne,Lennon Stella, Marshmello,Bastille, Anne-Marie, Marshmello,Demi Lovato
-Electronic genres found: complextro, german techno, brostep, electro house, tropical house
+Electronic artists found: Anne-Marie, Marshmello,Bastille, Marshmello,Demi Lovato, Years & Years, Jonas Blue,Liam Payne,Lennon Stella, Zedd,Maren Morris,Grey
+Electronic genres found: tropical house, german techno, complextro, electro house, brostep
 Electronic music logs found: 8.45% 
 
 Top genres
-	1: pop (21.58%)
-	2: dance pop (17.63%)
-	3: post-teen pop (10.07%)
-	4: electropop (4.68%)
-	5: pop rock (3.96%)
+	1: pop (21.66%)
+	2: dance pop (17.33%)
+	3: post-teen pop (10.11%)
+	4: electropop (4.69%)
+	5: pop rock (3.97%)
 Top artists
-	1: American Authors (1.82%)
-	2: Harry Styles (1.82%)
-	3: Lizzo (1.82%)
-	4: Carly Rae Jepsen (1.82%)
-	5: WALK THE MOON (1.82%)
+	1: The Greatest Showman Ensemble (1.82%)
+	2: Katy Perry (1.82%)
+	3: Demi Lovato (1.82%)
+	4: Ariana Grande (1.82%)
+	5: MKTO (1.82%)
 Top country
 	1: US (73.24%)
 	2: GB (16.90%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   71.000000     71.000000     71.000000         71.000000    71.000000   71.000000  71.000000  71.000000
-mean    77.647887      0.104033      0.645535          0.002174     0.085470  122.610282   0.585211   0.748127
-std      7.393237      0.146672      0.118751          0.015667     0.070719   27.256690   0.208159   0.141134
+mean    77.718310      0.104033      0.645535          0.002174     0.085470  122.610282   0.585211   0.748127
+std      7.424252      0.146672      0.118751          0.015667     0.070719   27.256690   0.208159   0.141134
 min     57.000000      0.000569      0.284000          0.000000     0.026000   79.052000   0.100000   0.317000
 25%     72.000000      0.007010      0.596500          0.000000     0.041850  102.571500   0.441000   0.668000
 50%     78.000000      0.038400      0.652000          0.000000     0.057100  119.930000   0.618000   0.786000

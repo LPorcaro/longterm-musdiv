@@ -1,0 +1,44 @@
+Electronic artists found: Jax Jones,MNEK, Lost Frequencies,Calum Scott, Tiësto,KAROL G, Gabry Ponte,LUM!X,Prezioso, Kygo,DNCE, Tiësto,Ava Max, Joel Corry,Jax Jones,Charli XCX,Saweetie
+Electronic genres found: tropical house, italo dance, slap house, eurodance, electro house, brostep
+Electronic music logs found: 46.67% 
+
+Top genres
+	1: pop (15.28%)
+	2: dance pop (12.50%)
+	3: edm (8.33%)
+	4: pop dance (8.33%)
+	5: tropical house (8.33%)
+Top artists
+	1: Ava Max (3.85%)
+	2: Prezioso (3.85%)
+	3: Charli XCX (3.85%)
+	4: INNA (3.85%)
+	5: Lost Frequencies (3.85%)
+Top country
+	1: US (46.67%)
+	2: CY (13.33%)
+	3: UK (6.67%)
+	4: QM (6.67%)
+	5: BE (6.67%)
+Top record
+	1: UM7 (33.33%)
+	2: A11 (13.33%)
+	3: AT2 (6.67%)
+	4: RC1 (6.67%)
+	5: 4ZF (6.67%)
+Top year
+	1: 21 (40.00%)
+	2: 22 (33.33%)
+	3: 20 (20.00%)
+	4: 15 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   15.000000     15.000000      15.00000         15.000000    15.000000   15.000000  15.000000  15.000000
+mean    85.066667      0.123263       0.70820          0.000529     0.071727  116.347600   0.565600   0.759267
+std      8.110546      0.140745       0.09524          0.001923     0.051933   19.964105   0.216633   0.084572
+min     69.000000      0.000745       0.52200          0.000000     0.031800   94.979000   0.213000   0.628000
+25%     82.500000      0.025350       0.65950          0.000000     0.041800  103.097000   0.433500   0.704500
+50%     87.000000      0.045200       0.75400          0.000000     0.047800  117.953000   0.523000   0.763000
+75%     89.500000      0.182000       0.77150          0.000015     0.082300  122.487500   0.736500   0.792000
+max     96.000000      0.515000       0.81400          0.007470     0.221000  176.105000   0.956000   0.922000

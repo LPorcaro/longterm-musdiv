@@ -1,19 +1,19 @@
-Electronic artists found: Tiësto,Ava Max, Lost Frequencies,Calum Scott, Coldplay,BTS, PEDRO SAMPAIO,Mc Pedrinho
-Electronic genres found: slap house, permanent wave, brostep, funk carioca, tropical house
-Electronic music logs found: 7.84% 
+Electronic artists found: PEDRO SAMPAIO,Mc Pedrinho, Lost Frequencies,Calum Scott, Tiësto,Ava Max
+Electronic genres found: tropical house, funk carioca, brostep, slap house
+Electronic music logs found: 5.88% 
 
 Top genres
-	1: pop (23.88%)
-	2: dance pop (5.97%)
-	3: trap latino (5.22%)
-	4: latin (3.73%)
-	5: reggaeton (3.73%)
+	1: pop (24.24%)
+	2: dance pop (6.06%)
+	3: trap latino (4.55%)
+	4: latin (3.79%)
+	5: reggaeton (3.79%)
 Top artists
-	1: Doja Cat (1.43%)
-	2: SZA (1.43%)
-	3: ACRAZE (1.43%)
-	4: Coldplay (1.43%)
-	5: Rauw Alejandro (1.43%)
+	1: Ava Max (1.43%)
+	2: Ariana Grande (1.43%)
+	3: Stephanie Beatriz (1.43%)
+	4: Aitana (1.43%)
+	5: Farruko (1.43%)
 Top country
 	1: US (64.71%)
 	2: GB (15.69%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.000000  51.000000
-mean    91.764706      0.192982      0.662000          0.003146     0.088849  127.380529   0.523957   0.657216
-std      6.068239      0.205935      0.137563          0.013008     0.078216   34.142651   0.247093   0.148561
+mean    91.941176      0.192982      0.662000          0.003146     0.088849  127.380529   0.523957   0.657216
+std      6.084116      0.205935      0.137563          0.013008     0.078216   34.142651   0.247093   0.148561
 min     59.000000      0.001460      0.345000          0.000000     0.025900   71.378000   0.084900   0.133000
 25%     90.500000      0.022450      0.581500          0.000000     0.040050  101.792000   0.384000   0.590000
 50%     93.000000      0.104000      0.671000          0.000002     0.065100  121.963000   0.494000   0.691000

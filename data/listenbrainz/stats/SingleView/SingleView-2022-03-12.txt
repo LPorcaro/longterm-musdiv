@@ -1,5 +1,5 @@
-Electronic artists found: Daniel Haaksman,Cibelle,Kelman Duran, Dario Marianelli,Jean-Yves Thibaudet, Mssingno, Ycee, Muslimgauze, Jlin, Vegyn,Retro X, Dinamarca,La Favi, Chants, Lunice, Bahwee, Citizen Boy,ANT the Artist,Simore, MHYSA, Lechuga Zafiro,Linn da Quebrada, DJ Python, SOPHIE,Autechre, Guzz, Mr. Mitch,P Money, Against All Logic, RSD, MC L da Vinte,MC Gury, WizKid
-Electronic genres found: experimental electronic, compositional ambient, electronic trap, footwork, dub metal, deep dubstep, bristol electronic, glitch hop, wonky, azonto, deconstructed club, microhouse, classic dubstep, ambient house, ambient industrial, organic electronic, electronica, outsider house, new isolationism, uk experimental electronic, chinese electronic, dark ambient, gqom, funk carioca, uk bass
+Electronic artists found: Dinamarca,La Favi, Lechuga Zafiro,Linn da Quebrada, Ycee, Vegyn,Retro X, Lunice, Bahwee, Daniel Haaksman,Cibelle,Kelman Duran, Dario Marianelli,Jean-Yves Thibaudet, Guzz, SOPHIE,Autechre, MHYSA, MC L da Vinte,MC Gury, Jlin, Muslimgauze, Mr. Mitch,P Money, Chants, Against All Logic, Citizen Boy,ANT the Artist,Simore, WizKid, DJ Python, Mssingno, RSD
+Electronic genres found: wonky, glitch hop, uk bass, classic dubstep, dark ambient, compositional ambient, organic electronic, deconstructed club, deep dubstep, experimental electronic, funk carioca, outsider house, chinese electronic, gqom, ambient industrial, electronica, dub metal, new isolationism, bristol electronic, footwork, azonto, microhouse, uk experimental electronic, electronic trap, ambient house
 Electronic music logs found: 23.16% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: baroque (2.49%)
 	5: late romantic era (2.07%)
 Top artists
-	1: Simore (0.62%)
-	2: Merca Bae (0.62%)
-	3: Gbmnutron (0.62%)
-	4: John Williams (0.62%)
-	5: La Favi (0.62%)
+	1: Compay Segundo (0.62%)
+	2: Francisco Tárrega (0.62%)
+	3: Martin Fröst (0.62%)
+	4: Traditional (0.62%)
+	5: Daniel Hope (0.62%)
 Top country
 	1: US (33.68%)
 	2: GB (15.79%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   95.000000     95.000000     95.000000         95.000000    95.000000   95.000000  95.000000  95.000000
-mean    38.536842      0.542698      0.562105          0.459130     0.093904  108.330337   0.408812   0.434227
-std     21.147813      0.387442      0.226816          0.429538     0.100553   30.763573   0.272870   0.323350
+mean    38.705263      0.542698      0.562105          0.459130     0.093904  108.330337   0.408812   0.434227
+std     21.133252      0.387442      0.226816          0.429538     0.100553   30.763573   0.272870   0.323350
 min      2.000000      0.000533      0.070100          0.000000     0.035000   58.531000   0.033900   0.003630
-25%     20.500000      0.160000      0.374500          0.001440     0.043400   85.920000   0.191000   0.036850
+25%     21.000000      0.160000      0.374500          0.001440     0.043400   85.920000   0.191000   0.036850
 50%     42.000000      0.492000      0.577000          0.496000     0.053300  106.984000   0.359000   0.495000
 75%     55.000000      0.981000      0.753500          0.901000     0.092900  125.286000   0.602000   0.724500
 max     78.000000      0.996000      0.973000          0.967000     0.631000  200.032000   0.972000   0.956000

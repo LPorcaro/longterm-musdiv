@@ -1,5 +1,5 @@
-Electronic artists found: Adam Beyer,Bart Skils, Darius,WAYNE SNOW, Amelie Lens, Little Dragon, Plastikman,Richie Hawtin, Darius, Cleo Sol, ROBPM, Darius,Duñe, Flying Lotus,Thundercat, Darius,Benny Sings, Knxwledge, ANNA, Paula Temple, Flying Lotus, Adam Beyer,Pig&Dan, Sam Paganini, Pan-Pot,Joseph Capriati
-Electronic genres found: acid house, schranz, swedish electronic, jazztronica, chillwave, dub techno, glitch hop, wonky, microhouse, detroit techno, uk funky, tech house, electronica, glitch, trip hop, downtempo, techno, jazz house, nu disco, acid techno, minimal techno
+Electronic artists found: Adam Beyer,Bart Skils, ANNA, Knxwledge, Darius, Paula Temple, Plastikman,Richie Hawtin, Sam Paganini, Flying Lotus,Thundercat, Flying Lotus, Pan-Pot,Joseph Capriati, Little Dragon, ROBPM, Adam Beyer,Pig&Dan, Cleo Sol, Darius,WAYNE SNOW, Darius,Duñe, Amelie Lens, Darius,Benny Sings
+Electronic genres found: wonky, glitch hop, acid techno, acid house, chillwave, trip hop, jazz house, swedish electronic, tech house, downtempo, jazztronica, glitch, detroit techno, schranz, electronica, dub techno, techno, nu disco, microhouse, uk funky, minimal techno
 Electronic music logs found: 30.00% 
 
 Top genres
@@ -9,10 +9,10 @@ Top genres
 	4: indie r&b (5.60%)
 	5: lgbtq+ hip hop (5.60%)
 Top artists
-	1: Free Nationals (1.49%)
-	2: Leven Kali (1.49%)
-	3: Bart Skils (1.49%)
-	4: Cleo Sol (1.49%)
+	1: Sam Paganini (1.49%)
+	2: Flying Lotus (1.49%)
+	3: T.Nava (1.49%)
+	4: Kamasi Washington (1.49%)
 	5: ROBPM (1.49%)
 Top country
 	1: US (47.50%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
 count   80.000000     80.000000     80.000000         80.000000    80.000000   80.000000  80.00000  80.000000
-mean    56.000000      0.189762      0.699263          0.297125     0.154439  111.659288   0.45238   0.637900
-std      9.559938      0.222282      0.111048          0.375347     0.126334   23.609633   0.26001   0.165682
+mean    56.237500      0.189762      0.699263          0.297125     0.154439  111.659288   0.45238   0.637900
+std      9.485824      0.222282      0.111048          0.375347     0.126334   23.609633   0.26001   0.165682
 min     35.000000      0.000137      0.412000          0.000000     0.031100   54.585000   0.03510   0.287000
-25%     49.250000      0.030225      0.638750          0.000618     0.055575   95.947500   0.21900   0.525000
+25%     49.500000      0.030225      0.638750          0.000618     0.055575   95.947500   0.21900   0.525000
 50%     57.500000      0.128500      0.721000          0.045550     0.094700  109.000000   0.47950   0.649500
 75%     63.000000      0.263000      0.784750          0.714750     0.212750  126.009500   0.63525   0.767500
 max     75.000000      0.978000      0.915000          0.941000     0.513000  176.084000   0.96000   0.989000

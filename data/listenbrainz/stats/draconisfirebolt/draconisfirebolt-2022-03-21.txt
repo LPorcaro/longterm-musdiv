@@ -1,0 +1,44 @@
+Electronic artists found: Marshmello,Jonas Brothers
+Electronic genres found: progressive electro house, brostep
+Electronic music logs found: 2.86% 
+
+Top genres
+	1: pop (32.29%)
+	2: alt z (12.50%)
+	3: dance pop (11.46%)
+	4: indie pop (8.33%)
+	5: post-teen pop (6.25%)
+Top artists
+	1: Katy Perry (3.45%)
+	2: Demi Lovato (3.45%)
+	3: Ariana Grande (3.45%)
+	4: The Weeknd (3.45%)
+	5: Marshmello (3.45%)
+Top country
+	1: US (65.71%)
+	2: QM (20.00%)
+	3: GB (11.43%)
+	4: TC (2.86%)
+Top record
+	1: UG1 (28.57%)
+	2: BZ9 (17.14%)
+	3: UM7 (11.43%)
+	4: AT2 (8.57%)
+	5: SM1 (8.57%)
+Top year
+	1: 21 (37.14%)
+	2: 20 (34.29%)
+	3: 19 (20.00%)
+	4: 22 (5.71%)
+	5: 98 (2.86%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   35.000000     35.000000     35.000000         35.000000    35.000000   35.000000  35.000000  35.000000
+mean    73.285714      0.343867      0.585057          0.007353     0.082289  128.135771   0.486886   0.548471
+std     16.216497      0.356249      0.137587          0.030256     0.080594   35.800081   0.221414   0.249777
+min     48.000000      0.001080      0.309000          0.000000     0.027700   77.737000   0.107000   0.069000
+25%     58.000000      0.023000      0.491000          0.000000     0.037600   93.269500   0.318500   0.479500
+50%     77.000000      0.226000      0.614000          0.000000     0.049500  127.107000   0.439000   0.612000
+75%     89.000000      0.584000      0.701500          0.000006     0.085050  165.297000   0.631000   0.726500
+max     96.000000      0.986000      0.781000          0.175000     0.361000  184.009000   0.956000   0.882000

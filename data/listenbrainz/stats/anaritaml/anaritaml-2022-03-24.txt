@@ -1,0 +1,45 @@
+Electronic artists found: MEDUZA,Hozier, Don Diablo,Galantis, Swedish House Mafia,Ty Dolla $ign,070 Shake, Michael Brun,Kah-Lo, Martin Garrix,Tove Lo, Jonas Blue,LÉON, Sonny Fodera,Ella Eyre, Товарищ Астроном, Oliver Heldens,Party Pupils,MAX
+Electronic genres found: future house, tropical house, sovietwave, electro house, progressive house
+Electronic music logs found: 41.67% 
+
+Top genres
+	1: pop dance (9.30%)
+	2: edm (8.14%)
+	3: pop (8.14%)
+	4: dance pop (8.14%)
+	5: tropical house (6.98%)
+Top artists
+	1: Don Diablo (2.44%)
+	2: L Devine (2.44%)
+	3: Melanie Faye (2.44%)
+	4: The Weeknd (2.44%)
+	5: Kah-Lo (2.44%)
+Top country
+	1: US (33.33%)
+	2: GB (29.17%)
+	3: QZ (16.67%)
+	4: ZZ (8.33%)
+	5: NL (8.33%)
+Top record
+	1: UG1 (12.50%)
+	2: UM7 (8.33%)
+	3: OPM (8.33%)
+	4: AHT (8.33%)
+	5: 8LD (4.17%)
+Top year
+	1: 20 (54.17%)
+	2: 21 (25.00%)
+	3: 19 (8.33%)
+	4: 18 (8.33%)
+	5: 22 (4.17%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   24.000000     24.000000     24.000000         24.000000    24.000000   24.000000  24.000000  24.000000
+mean    67.000000      0.189636      0.720208          0.106735     0.090021  117.315125   0.577917   0.698250
+std     16.916676      0.211240      0.105988          0.252651     0.087407   15.687320   0.214053   0.135593
+min     18.000000      0.003690      0.451000          0.000000     0.030900   84.931000   0.142000   0.452000
+25%     62.500000      0.023750      0.674500          0.000000     0.037325  109.733750   0.492750   0.564750
+50%     67.000000      0.121500      0.705000          0.000004     0.055200  120.584500   0.615000   0.716500
+75%     76.500000      0.269500      0.798250          0.032390     0.110500  125.282000   0.692750   0.818250
+max     92.000000      0.671000      0.889000          0.895000     0.419000  149.929000   0.967000   0.924000

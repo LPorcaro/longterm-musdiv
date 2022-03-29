@@ -1,19 +1,19 @@
-Electronic artists found: Arctic Monkeys
-Electronic genres found: permanent wave
-Electronic music logs found: 0.70% 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (45.63%)
-	2: rock (6.08%)
-	3: modern rock (5.70%)
-	4: dance pop (4.18%)
-	5: post-teen pop (4.18%)
+	1: pop (46.15%)
+	2: rock (6.15%)
+	3: modern rock (5.77%)
+	4: post-teen pop (4.23%)
+	5: dance pop (3.08%)
 Top artists
-	1: Dylan (3.85%)
-	2: Harry Styles (3.85%)
-	3: Amy Macdonald (3.85%)
-	4: Peach PRC (3.85%)
-	5: Alec Benjamin (3.85%)
+	1: MKTO (3.85%)
+	2: Arctic Monkeys (3.85%)
+	3: Dylan (3.85%)
+	4: Imagine Dragons (3.85%)
+	5: Lizzy McAlpine (3.85%)
 Top country
 	1: GB (80.42%)
 	2: US (17.48%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  143.000000    143.000000    143.000000        143.000000   143.000000  143.000000  143.000000  143.000000
-mean    70.258741      0.150007      0.553503          0.005318     0.048479  118.294594    0.444413    0.636217
-std      6.575363      0.184296      0.083558          0.020830     0.041946   32.148825    0.182309    0.135137
+mean    70.272727      0.150007      0.553503          0.005318     0.048479  118.294594    0.444413    0.636217
+std      6.592977      0.184296      0.083558          0.020830     0.041946   32.148825    0.182309    0.135137
 min     54.000000      0.000204      0.284000          0.000000     0.024800   62.302000    0.179000    0.266000
 25%     66.000000      0.019600      0.509000          0.000000     0.030600   88.987000    0.279000    0.568500
 50%     69.000000      0.057300      0.541000          0.000000     0.032300  124.949000    0.408000    0.648000

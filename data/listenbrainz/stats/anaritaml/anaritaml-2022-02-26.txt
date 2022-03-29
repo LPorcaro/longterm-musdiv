@@ -1,6 +1,6 @@
-Electronic artists found: Oasis
-Electronic genres found: permanent wave
-Electronic music logs found: 5.71% 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
 
 Top genres
 	1: pop (11.76%)
@@ -9,11 +9,11 @@ Top genres
 	4: bedroom pop (4.90%)
 	5: canadian contemporary r&b (3.92%)
 Top artists
-	1: Doja Cat (3.23%)
-	2: SZA (3.23%)
-	3: FINNEAS (3.23%)
-	4: H.E.R. (3.23%)
-	5: Jessie Reyez (3.23%)
+	1: Ariana Grande (3.23%)
+	2: The Cat Empire (3.23%)
+	3: The Weeknd (3.23%)
+	4: Jessie Reyez (3.23%)
+	5: Doja Cat (3.23%)
 Top country
 	1: US (37.14%)
 	2: GB (34.29%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   35.000000     35.000000     35.000000         35.000000    35.000000   35.000000  35.000000  35.000000
-mean    71.257143      0.340470      0.548171          0.026095     0.067426  119.302800   0.540600   0.617314
-std     14.667577      0.299900      0.150553          0.113810     0.090424   36.060052   0.209319   0.218310
+mean    71.457143      0.340470      0.548171          0.026095     0.067426  119.302800   0.540600   0.617314
+std     14.651526      0.299900      0.150553          0.113810     0.090424   36.060052   0.209319   0.218310
 min     33.000000      0.000409      0.277000          0.000000     0.028600   57.860000   0.151000   0.116000
 25%     64.000000      0.053000      0.395000          0.000000     0.037200  100.135500   0.391000   0.466000
 50%     76.000000      0.312000      0.552000          0.000006     0.045700  114.016000   0.527000   0.695000

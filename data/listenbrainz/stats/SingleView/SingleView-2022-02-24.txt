@@ -1,19 +1,19 @@
-Electronic artists found: Portico Quartet, Orange Blossom, René Aubry
-Electronic genres found: electro dub, electronica, new tribe, compositional ambient
+Electronic artists found: Portico Quartet, René Aubry, Orange Blossom
+Electronic genres found: compositional ambient, electro dub, electronica, new tribe
 Electronic music logs found: 9.09% 
 
 Top genres
-	1: classic rock (10.59%)
-	2: blues rock (9.35%)
-	3: rock (9.03%)
-	4: psychedelic rock (8.72%)
-	5: album rock (6.85%)
+	1: classic rock (10.73%)
+	2: blues rock (9.46%)
+	3: rock (9.15%)
+	4: psychedelic rock (8.83%)
+	5: album rock (6.94%)
 Top artists
-	1: Freddie King (4.76%)
-	2: Eric Clapton (4.76%)
-	3: Rory Gallagher (4.76%)
-	4: Charles Pasi (4.76%)
-	5: Orange Blossom (4.76%)
+	1: Eric Clapton (4.76%)
+	2: The Yardbirds (4.76%)
+	3: The Byrds (4.76%)
+	4: Khaled Mouzanar (4.76%)
+	5: Howlin' Wolf (4.76%)
 Top country
 	1: US (70.45%)
 	2: FR (18.18%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   44.000000     44.000000     44.000000         44.000000    44.000000   44.000000  44.000000  44.000000
-mean    52.977273      0.323128      0.526114          0.180622     0.064923  124.539455   0.534270   0.572386
-std     11.316768      0.323891      0.176166          0.303605     0.040188   33.238998   0.221552   0.237762
-min     35.000000      0.001560      0.218000          0.000000     0.028800   70.776000   0.039000   0.143000
+mean    53.113636      0.323128      0.526114          0.180622     0.064923  124.539455   0.534270   0.572386
+std     11.266777      0.323891      0.176166          0.303605     0.040188   33.238998   0.221552   0.237762
+min     36.000000      0.001560      0.218000          0.000000     0.028800   70.776000   0.039000   0.143000
 25%     42.750000      0.038475      0.389250          0.001383     0.038550   99.079500   0.415250   0.387250
 50%     56.000000      0.187500      0.516500          0.021100     0.047500  118.930000   0.525500   0.536500
 75%     61.250000      0.595500      0.654500          0.160500     0.076125  144.179000   0.690250   0.769500

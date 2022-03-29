@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: italian adult pop (18.06%)
-	2: classic italian pop (18.06%)
-	3: background music (9.72%)
-	4: spanish indie pop (5.56%)
-	5: latin rock (4.17%)
+	1: italian adult pop (18.31%)
+	2: classic italian pop (18.31%)
+	3: background music (9.86%)
+	4: spanish indie pop (5.63%)
+	5: latin rock (4.23%)
 Top artists
-	1: Keeva Craig (1.96%)
-	2: Carlos Sadness (1.96%)
-	3: Bomba Estéreo (1.96%)
-	4: Fred Bongusto (1.96%)
-	5: DJ Francesco (1.96%)
+	1: Vinícius de Moraes (1.96%)
+	2: Gabriella Ferri (1.96%)
+	3: 12dust (1.96%)
+	4: Pino Daniele (1.96%)
+	5: Zen Atlas (1.96%)
 Top country
 	1: IT (42.00%)
 	2: SE (32.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   50.000000     50.000000     50.000000         50.000000    50.000000   50.000000  50.000000  50.000000
-mean    47.500000      0.606424      0.490750          0.388211     0.081886  104.706840   0.468728   0.422304
-std     11.754721      0.350935      0.265114          0.439813     0.069981   29.831439   0.339095   0.298915
+mean    47.600000      0.606424      0.490750          0.388211     0.081886  104.706840   0.468728   0.422304
+std     11.695106      0.350935      0.265114          0.439813     0.069981   29.831439   0.339095   0.298915
 min      5.000000      0.001340      0.074700          0.000000     0.028700   63.797000   0.031500   0.004880
-25%     44.250000      0.402500      0.197250          0.000003     0.039425   86.584750   0.085700   0.139000
+25%     45.000000      0.402500      0.197250          0.000003     0.039425   86.584750   0.085700   0.139000
 50%     50.000000      0.748500      0.601500          0.025700     0.047950   98.948500   0.523500   0.456500
 75%     54.750000      0.911500      0.724500          0.887000     0.100000  117.830000   0.768500   0.635250
 max     62.000000      0.989000      0.845000          0.974000     0.322000  196.736000   0.970000   0.948000

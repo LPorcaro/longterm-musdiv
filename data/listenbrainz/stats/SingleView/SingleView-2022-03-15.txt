@@ -1,19 +1,19 @@
-Electronic artists found: Morton Feldman,Aki Takahashi, Giya Kancheli,Anna Gourari, György Ligeti,Pierre-Laurent Aimard
-Electronic genres found: drone, compositional ambient
+Electronic artists found: György Ligeti,Pierre-Laurent Aimard, Morton Feldman,Aki Takahashi, Giya Kancheli,Anna Gourari
+Electronic genres found: compositional ambient, drone
 Electronic music logs found: 2.31% 
 
 Top genres
-	1: classical (19.04%)
-	2: post-romantic era (11.81%)
-	3: early modern classical (10.84%)
-	4: impressionism (10.60%)
-	5: neoclassicism (5.54%)
+	1: classical (19.13%)
+	2: early modern classical (12.59%)
+	3: post-romantic era (11.86%)
+	4: impressionism (10.65%)
+	5: neoclassicism (5.57%)
 Top artists
-	1: Orchestre de Chambre de Lausanne (0.41%)
-	2: Peter Sculthorpe (0.41%)
-	3: Jean Sibelius (0.41%)
-	4: Lithuanian National Symphony Orchestra (0.41%)
-	5: James Ehnes (0.41%)
+	1: William Alwyn (0.41%)
+	2: Tatjana Masurenko (0.41%)
+	3: Christopher Lyndon-Gee (0.41%)
+	4: Emma Yoon (0.41%)
+	5: Pro Arte Orchestra (0.41%)
 Top country
 	1: HK (36.15%)
 	2: GB (20.77%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  130.000000    130.000000    130.000000        130.000000   130.000000  130.000000  130.000000  130.000000
-mean    44.400000      0.969546      0.272333          0.790377     0.049829   93.383100    0.158121    0.046415
-std     12.935499      0.042649      0.148133          0.269819     0.017792   29.833022    0.170716    0.077830
+mean    44.753846      0.969546      0.272333          0.790377     0.049829   93.383100    0.158121    0.046415
+std     12.685866      0.042649      0.148133          0.269819     0.017792   29.833022    0.170716    0.077830
 min      6.000000      0.743000      0.061800          0.000003     0.031700   55.481000    0.031100    0.000885
-25%     36.250000      0.963250      0.150000          0.812000     0.040900   71.356500    0.038100    0.006185
+25%     37.000000      0.963250      0.150000          0.812000     0.040900   71.356500    0.038100    0.006185
 50%     45.000000      0.989500      0.248000          0.903000     0.044300   82.281000    0.078500    0.013500
 75%     55.000000      0.994000      0.373000          0.934750     0.050800  108.795750    0.214500    0.046900
 max     67.000000      0.996000      0.712000          0.986000     0.138000  176.236000    0.695000    0.495000

@@ -1,19 +1,19 @@
-Electronic artists found: Lost Frequencies,Calum Scott, Coldplay,BTS
-Electronic genres found: permanent wave, tropical house
-Electronic music logs found: 9.09% 
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: tropical house
+Electronic music logs found: 4.54% 
 
 Top genres
-	1: pop (21.43%)
-	2: uk pop (5.36%)
-	3: trap latino (5.36%)
-	4: dance pop (3.57%)
-	5: latin (3.57%)
+	1: pop (21.82%)
+	2: uk pop (5.45%)
+	3: dance pop (3.64%)
+	4: latin (3.64%)
+	5: reggaeton (3.64%)
 Top artists
-	1: ACRAZE (2.63%)
-	2: Doja Cat (2.63%)
-	3: Rauw Alejandro (2.63%)
-	4: Coldplay (2.63%)
-	5: Dr. Dre (2.63%)
+	1: Farruko (2.63%)
+	2: Stephanie Beatriz (2.63%)
+	3: GAYLE (2.63%)
+	4: Lost Frequencies (2.63%)
+	5: Doja Cat (2.63%)
 Top country
 	1: US (68.18%)
 	2: GB (22.73%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   22.000000     22.000000     22.000000         22.000000    22.000000   22.000000  22.000000  22.000000
-mean    93.409091      0.188968      0.711500          0.002699     0.086614  124.579636   0.566636   0.699773
-std      3.607652      0.175132      0.125005          0.011522     0.066693   33.237490   0.225645   0.133615
+mean    93.500000      0.188968      0.711500          0.002699     0.086614  124.579636   0.566636   0.699773
+std      3.569047      0.175132      0.125005          0.011522     0.066693   33.237490   0.225645   0.133615
 min     86.000000      0.006140      0.345000          0.000000     0.028200   77.011000   0.130000   0.366000
 25%     91.000000      0.036125      0.620750          0.000000     0.045250   96.744750   0.449000   0.645250
 50%     95.000000      0.154000      0.739000          0.000003     0.072750  121.947500   0.529000   0.726000
