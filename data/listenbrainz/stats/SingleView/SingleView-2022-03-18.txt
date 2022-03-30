@@ -1,5 +1,5 @@
-Electronic artists found: William Basinski, Debit, Verraco, Gotan Project, Arp, Kelly Moran, Lord Of The Isles, Smoke City, Cucina Povera, Amon Tobin, Saloli, Murcof, Philip Glass,Nicolas Horvath, Ludovico Einaudi, Nate Young, Loscil, De-Phazz, Boozoo Bajou, Seefeel
-Electronic genres found: wonky, trip hop, experimental techno, deconstructed club, downtempo, scottish electronic, colombian electronic, big beat, jazztronica, glitch, outsider house, tijuana electronic, electronica, dub techno, hauntology, new isolationism, microhouse, minimal techno, ambient, drone
+Electronic artists found: Lord Of The Isles, William Basinski, Smoke City, Ludovico Einaudi, Amon Tobin, Seefeel, Boozoo Bajou, Loscil, Verraco, Debit, Arp, Philip Glass,Nicolas Horvath, Murcof, Kelly Moran, Cucina Povera, Saloli, Nate Young, Gotan Project, De-Phazz
+Electronic genres found: ambient, wonky, outsider house, big beat, electronica, hauntology, minimal techno, dub techno, trip hop, new isolationism, microhouse, drone, glitch, tijuana electronic, jazztronica, colombian electronic, deconstructed club, scottish electronic, experimental techno, downtempo
 Electronic music logs found: 63.04% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: neotango (4.48%)
 	5: trip hop (3.98%)
 Top artists
-	1: Edward Wolanin (2.13%)
-	2: Bruce Levingston (2.13%)
-	3: William Basinski (2.13%)
-	4: Kathryn Stott (2.13%)
-	5: Bajofondo (2.13%)
+	1: Komodo Kolektif (2.13%)
+	2: Lord Of The Isles (2.13%)
+	3: Bruce Levingston (2.13%)
+	4: John Gribben (2.13%)
+	5: Kathryn Stott (2.13%)
 Top country
 	1: FR (23.91%)
 	2: US (21.74%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   46.000000     46.000000     46.000000         46.000000    46.000000   46.000000  46.000000  46.000000
-mean    40.152174      0.589126      0.488207          0.749439     0.068243  107.058500   0.281080   0.364584
-std     13.683676      0.403381      0.263283          0.275411     0.061011   30.063382   0.262335   0.262321
+mean    40.217391      0.589126      0.488207          0.749439     0.068243  107.058500   0.281080   0.364584
+std     13.670590      0.403381      0.263283          0.275411     0.061011   30.063382   0.262335   0.262321
 min     15.000000      0.000410      0.088500          0.001180     0.028000   62.988000   0.033200   0.003100
 25%     31.000000      0.088750      0.260000          0.734250     0.036700   84.926750   0.059400   0.083650
-50%     37.500000      0.775500      0.460000          0.874500     0.044400  103.919500   0.148500   0.428000
-75%     47.750000      0.973000      0.708250          0.922000     0.057575  122.119250   0.513500   0.538000
+50%     38.000000      0.775500      0.460000          0.874500     0.044400  103.919500   0.148500   0.428000
+75%     48.000000      0.973000      0.708250          0.922000     0.057575  122.119250   0.513500   0.538000
 max     72.000000      0.994000      0.891000          0.980000     0.293000  179.953000   0.933000   0.951000

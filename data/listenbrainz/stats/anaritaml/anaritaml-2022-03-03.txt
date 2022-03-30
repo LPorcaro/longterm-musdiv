@@ -1,19 +1,19 @@
 Electronic artists found: Regard,Troye Sivan,Tate McRae, Daya
-Electronic genres found: electro house, tropical house, slap house
+Electronic genres found: tropical house, slap house, electro house
 Electronic music logs found: 8.70% 
 
 Top genres
-	1: pop (24.10%)
-	2: dance pop (12.05%)
-	3: electropop (8.43%)
-	4: post-teen pop (4.82%)
-	5: alt z (4.82%)
+	1: pop (24.39%)
+	2: dance pop (12.20%)
+	3: electropop (8.54%)
+	4: post-teen pop (4.88%)
+	5: alt z (4.88%)
 Top artists
-	1: Marshmello (3.45%)
-	2: Lennon Stella (3.45%)
-	3: Doja Cat (3.45%)
-	4: Conan Gray (3.45%)
-	5: LANY (3.45%)
+	1: Conan Gray (3.45%)
+	2: Bazzi (3.45%)
+	3: Disclosure (3.45%)
+	4: SZA (3.45%)
+	5: benny blanco (3.45%)
 Top country
 	1: US (60.87%)
 	2: GB (26.09%)
@@ -34,8 +34,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
-mean    72.521739      0.147853      0.684130          0.000205     0.071352  108.454957   0.589000   0.653174
-std     11.800884      0.171140      0.079024          0.000597     0.063792   20.884114   0.171385   0.102421
+mean    72.478261      0.147853      0.684130          0.000205     0.071352  108.454957   0.589000   0.653174
+std     11.843178      0.171140      0.079024          0.000597     0.063792   20.884114   0.171385   0.102421
 min     52.000000      0.002420      0.493000          0.000000     0.028400   74.474000   0.202000   0.435000
 25%     63.000000      0.028900      0.666500          0.000000     0.036700   97.067000   0.504000   0.580500
 50%     73.000000      0.059200      0.697000          0.000001     0.050200  106.064000   0.569000   0.689000

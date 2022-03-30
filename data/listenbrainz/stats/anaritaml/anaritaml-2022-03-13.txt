@@ -1,19 +1,19 @@
-Electronic artists found: Surf Mesa,Emilee
-Electronic genres found: tropical house
-Electronic music logs found: 4.00% 
+Electronic artists found: Bang Gang, Surf Mesa,Emilee
+Electronic genres found: trip hop, tropical house
+Electronic music logs found: 8.00% 
 
 Top genres
-	1: pop (13.11%)
-	2: bedroom pop (6.56%)
-	3: indie soul (4.92%)
-	4: indie pop (3.28%)
-	5: electropop (3.28%)
+	1: pop (12.90%)
+	2: bedroom pop (6.45%)
+	3: indie soul (4.84%)
+	4: indie pop (3.23%)
+	5: electropop (3.23%)
 Top artists
-	1: Lana Del Rey (3.23%)
-	2: Jessie Reyez (3.23%)
-	3: Arlo Parks (3.23%)
-	4: FKJ (3.23%)
-	5: Surf Mesa (3.23%)
+	1: Lee Brave (3.23%)
+	2: Arlo Parks (3.23%)
+	3: Ezra Furman (3.23%)
+	4: Bang Gang (3.23%)
+	5: Sufjan Stevens (3.23%)
 Top country
 	1: US (36.00%)
 	2: GB (24.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence    energy
 count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.00000
-mean    63.280000      0.436400      0.609360          0.039093     0.087288  125.115520   0.484360   0.52484
-std     14.760646      0.293907      0.167377          0.112914     0.110748   37.597269   0.193557   0.16654
-min     38.000000      0.037100      0.215000          0.000000     0.026400   75.451000   0.143000   0.20300
-25%     52.000000      0.198000      0.506000          0.000000     0.034600   97.003000   0.330000   0.38400
+mean    63.440000      0.436400      0.609360          0.039093     0.087288  125.115520   0.484360   0.52484
+std     14.781971      0.293907      0.167377          0.112914     0.110748   37.597269   0.193557   0.16654
+min     39.000000      0.037100      0.215000          0.000000     0.026400   75.451000   0.143000   0.20300
+25%     53.000000      0.198000      0.506000          0.000000     0.034600   97.003000   0.330000   0.38400
 50%     61.000000      0.351000      0.633000          0.000023     0.059000  112.050000   0.502000   0.54600
 75%     75.000000      0.617000      0.742000          0.000484     0.088200  144.982000   0.624000   0.68400
-max     87.000000      0.968000      0.845000          0.431000     0.567000  210.164000   0.868000   0.77400
+max     88.000000      0.968000      0.845000          0.431000     0.567000  210.164000   0.868000   0.77400

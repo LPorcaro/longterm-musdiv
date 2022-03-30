@@ -1,5 +1,5 @@
 Electronic artists found: Surf Mesa,Emilee, James Carter
-Electronic genres found: tropical house, deep house
+Electronic genres found: deep house, tropical house
 Electronic music logs found: 10.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: tropical house (5.00%)
 	5: alt z (5.00%)
 Top artists
-	1: Wavey (3.70%)
-	2: Eloi El (3.70%)
-	3: Jeremy Zucker (3.70%)
-	4: Flora Vida (3.70%)
-	5: Surf Mesa (3.70%)
+	1: Selena Gomez (3.70%)
+	2: James Carter (3.70%)
+	3: Tazzy (3.70%)
+	4: Eloi El (3.70%)
+	5: Blake Rose (3.70%)
 Top country
 	1: QZ (15.00%)
 	2: US (15.00%)
@@ -37,9 +37,9 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence    energy
 count   20.000000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.00000
 mean    62.500000      0.274028      0.681650          0.091889     0.095485  110.537300   0.441610   0.56845
-std     13.457536      0.248386      0.116834          0.216979     0.098289   17.927627   0.194961   0.15009
+std     13.732405      0.248386      0.116834          0.216979     0.098289   17.927627   0.194961   0.15009
 min     39.000000      0.004220      0.384000          0.000000     0.024600   68.936000   0.052200   0.31300
-25%     51.750000      0.089675      0.641250          0.000015     0.042775  105.739750   0.257500   0.47000
+25%     52.500000      0.089675      0.641250          0.000015     0.042775  105.739750   0.257500   0.47000
 50%     65.500000      0.189000      0.675000          0.000923     0.049850  112.007500   0.475500   0.54000
 75%     72.000000      0.424000      0.765250          0.083800     0.105250  116.495750   0.579250   0.68950
-max     82.000000      0.882000      0.863000          0.934000     0.421000  142.967000   0.738000   0.84900
+max     83.000000      0.882000      0.863000          0.934000     0.421000  142.967000   0.738000   0.84900

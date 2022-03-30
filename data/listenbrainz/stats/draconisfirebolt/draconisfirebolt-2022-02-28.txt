@@ -1,19 +1,19 @@
-Electronic artists found: Anne-Marie, Marshmello,Bastille, Marshmello,Demi Lovato, Years & Years, Jonas Blue,Liam Payne,Lennon Stella, Zedd,Maren Morris,Grey
-Electronic genres found: tropical house, german techno, complextro, electro house, brostep
+Electronic artists found: Jonas Blue,Liam Payne,Lennon Stella, Zedd,Maren Morris,Grey, Marshmello,Demi Lovato, Marshmello,Bastille, Anne-Marie, Years & Years
+Electronic genres found: tropical house, brostep, electro house, german techno, complextro
 Electronic music logs found: 8.45% 
 
 Top genres
-	1: pop (21.66%)
-	2: dance pop (17.33%)
-	3: post-teen pop (10.11%)
-	4: electropop (4.69%)
-	5: pop rock (3.97%)
+	1: pop (21.82%)
+	2: dance pop (17.45%)
+	3: post-teen pop (10.18%)
+	4: electropop (4.36%)
+	5: pop rock (4.00%)
 Top artists
-	1: The Greatest Showman Ensemble (1.82%)
-	2: Katy Perry (1.82%)
-	3: Demi Lovato (1.82%)
-	4: Ariana Grande (1.82%)
-	5: MKTO (1.82%)
+	1: Sara Bareilles (1.82%)
+	2: Taylor Swift (1.82%)
+	3: Lizzo (1.82%)
+	4: Zedd (1.82%)
+	5: Panic! At The Disco (1.82%)
 Top country
 	1: US (73.24%)
 	2: GB (16.90%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   71.000000     71.000000     71.000000         71.000000    71.000000   71.000000  71.000000  71.000000
-mean    77.718310      0.104033      0.645535          0.002174     0.085470  122.610282   0.585211   0.748127
-std      7.424252      0.146672      0.118751          0.015667     0.070719   27.256690   0.208159   0.141134
+mean    77.929577      0.104033      0.645535          0.002174     0.085470  122.610282   0.585211   0.748127
+std      7.422599      0.146672      0.118751          0.015667     0.070719   27.256690   0.208159   0.141134
 min     57.000000      0.000569      0.284000          0.000000     0.026000   79.052000   0.100000   0.317000
-25%     72.000000      0.007010      0.596500          0.000000     0.041850  102.571500   0.441000   0.668000
-50%     78.000000      0.038400      0.652000          0.000000     0.057100  119.930000   0.618000   0.786000
+25%     73.000000      0.007010      0.596500          0.000000     0.041850  102.571500   0.441000   0.668000
+50%     79.000000      0.038400      0.652000          0.000000     0.057100  119.930000   0.618000   0.786000
 75%     84.000000      0.158500      0.715000          0.000019     0.108150  138.908500   0.735000   0.855000
 max     91.000000      0.658000      0.935000          0.132000     0.374000  191.702000   0.969000   0.951000

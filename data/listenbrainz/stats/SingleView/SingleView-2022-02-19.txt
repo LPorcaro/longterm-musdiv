@@ -1,4 +1,4 @@
-Electronic artists found: Dario Marianelli,Jean-Yves Thibaudet, Peter Gregson, Chad Lawson, Ólafur Arnalds,Lavinia Meijer
+Electronic artists found: Ólafur Arnalds,Lavinia Meijer, Dario Marianelli,Jean-Yves Thibaudet, Peter Gregson, Chad Lawson
 Electronic genres found: compositional ambient, neoclassical darkwave
 Electronic music logs found: 4.21% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: baroque (4.71%)
 	5: early music (4.35%)
 Top artists
-	1: Renaud Garcia-Fons (0.52%)
-	2: Nora Fischer (0.52%)
-	3: Francisco Tárrega (0.52%)
-	4: Martin Fröst (0.52%)
-	5: Chad Lawson (0.52%)
+	1: Quatuor Van Kuijk (0.52%)
+	2: Peter Jablonski (0.52%)
+	3: Julian Bream (0.52%)
+	4: Amy Dickson (0.52%)
+	5: Gustav Holst (0.52%)
 Top country
 	1: US (22.11%)
 	2: DE (22.11%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   95.000000     95.000000     95.000000         95.000000    95.000000   95.000000  95.000000  95.000000
-mean    52.568421      0.927659      0.307679          0.761677     0.044951   96.749642   0.193112   0.081533
-std     10.039976      0.184455      0.153353          0.302921     0.013019   32.025617   0.188982   0.167034
+mean    52.547368      0.927659      0.307679          0.761677     0.044951   96.749642   0.193112   0.081533
+std     10.014637      0.184455      0.153353          0.302921     0.013019   32.025617   0.188982   0.167034
 min     25.000000      0.012000      0.000000          0.000000     0.000000    0.000000   0.000000   0.001730
 25%     47.000000      0.961500      0.194500          0.786500     0.038600   72.493500   0.059450   0.013650
 50%     54.000000      0.988000      0.304000          0.895000     0.042700   91.359000   0.118000   0.028700
-75%     60.500000      0.993500      0.379500          0.930500     0.048750  121.467500   0.243000   0.067650
+75%     60.000000      0.993500      0.379500          0.930500     0.048750  121.467500   0.243000   0.067650
 max     69.000000      0.996000      0.722000          0.983000     0.125000  185.678000   0.860000   0.852000

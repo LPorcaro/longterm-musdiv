@@ -1,19 +1,19 @@
-Electronic artists found: PEDRO SAMPAIO,Mc Pedrinho, Lost Frequencies,Calum Scott, Tiësto,Ava Max
-Electronic genres found: tropical house, funk carioca, brostep, slap house
+Electronic artists found: Tiësto,Ava Max, Lost Frequencies,Calum Scott, PEDRO SAMPAIO,Mc Pedrinho
+Electronic genres found: funk carioca, tropical house, brostep, slap house
 Electronic music logs found: 5.88% 
 
 Top genres
-	1: pop (24.24%)
-	2: dance pop (6.06%)
-	3: trap latino (4.55%)
-	4: latin (3.79%)
-	5: reggaeton (3.79%)
+	1: pop (23.70%)
+	2: dance pop (5.93%)
+	3: trap latino (5.19%)
+	4: latin (3.70%)
+	5: reggaeton (3.70%)
 Top artists
-	1: Ava Max (1.43%)
-	2: Ariana Grande (1.43%)
-	3: Stephanie Beatriz (1.43%)
-	4: Aitana (1.43%)
-	5: Farruko (1.43%)
+	1: Adassa (1.43%)
+	2: Encanto - Cast (1.43%)
+	3: Olivia Rodrigo (1.43%)
+	4: Dove Cameron (1.43%)
+	5: Lil Nas X (1.43%)
 Top country
 	1: US (64.71%)
 	2: GB (15.69%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.000000  51.000000
-mean    91.941176      0.192982      0.662000          0.003146     0.088849  127.380529   0.523957   0.657216
-std      6.084116      0.205935      0.137563          0.013008     0.078216   34.142651   0.247093   0.148561
+mean    92.235294      0.192982      0.662000          0.003146     0.088849  127.380529   0.523957   0.657216
+std      6.031876      0.205935      0.137563          0.013008     0.078216   34.142651   0.247093   0.148561
 min     59.000000      0.001460      0.345000          0.000000     0.025900   71.378000   0.084900   0.133000
-25%     90.500000      0.022450      0.581500          0.000000     0.040050  101.792000   0.384000   0.590000
-50%     93.000000      0.104000      0.671000          0.000002     0.065100  121.963000   0.494000   0.691000
+25%     91.000000      0.022450      0.581500          0.000000     0.040050  101.792000   0.384000   0.590000
+50%     94.000000      0.104000      0.671000          0.000002     0.065100  121.963000   0.494000   0.691000
 75%     95.000000      0.296000      0.763000          0.000081     0.091500  152.023500   0.692500   0.763500
 max    100.000000      0.695000      0.908000          0.075200     0.404000  205.863000   0.956000   0.893000

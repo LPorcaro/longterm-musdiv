@@ -1,19 +1,19 @@
 Electronic artists found: Duke Dumont,Jax Jones
-Electronic genres found: electro house, destroy techno, tropical house, progressive house
+Electronic genres found: destroy techno, tropical house, progressive house, electro house
 Electronic music logs found: 2.50% 
 
 Top genres
-	1: pop (27.10%)
-	2: post-teen pop (15.89%)
-	3: dance pop (15.89%)
-	4: electropop (3.74%)
-	5: bedroom pop (2.80%)
+	1: pop (27.36%)
+	2: post-teen pop (16.04%)
+	3: dance pop (16.04%)
+	4: electropop (3.77%)
+	5: bedroom pop (2.83%)
 Top artists
-	1: MKTO (2.13%)
-	2: Katy Perry (2.13%)
-	3: Demi Lovato (2.13%)
-	4: Ariana Grande (2.13%)
-	5: Stephanie Beatriz (2.13%)
+	1: Encanto - Cast (2.13%)
+	2: Conan Gray (2.13%)
+	3: Taylor Swift (2.13%)
+	4: Dove Cameron (2.13%)
+	5: Imagine Dragons (2.13%)
 Top country
 	1: US (87.50%)
 	2: GB (7.50%)
@@ -35,9 +35,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   40.000000     40.000000     40.000000         40.000000    40.000000   40.000000  40.000000  40.000000
-mean    77.225000      0.148584      0.639900          0.000290     0.086373  122.854450   0.578725   0.704150
-std     11.481284      0.181863      0.133321          0.001311     0.072008   28.121661   0.206410   0.148506
-min     53.000000      0.000168      0.333000          0.000000     0.026200   67.526000   0.120000   0.259000
+mean    77.425000      0.148584      0.639900          0.000290     0.086373  122.854450   0.578725   0.704150
+std     11.383496      0.181863      0.133321          0.001311     0.072008   28.121661   0.206410   0.148506
+min     54.000000      0.000168      0.333000          0.000000     0.026200   67.526000   0.120000   0.259000
 25%     69.000000      0.010375      0.560500          0.000000     0.040400  106.555750   0.453250   0.608750
 50%     77.500000      0.087550      0.673500          0.000000     0.052350  124.009500   0.598000   0.741500
 75%     86.250000      0.220750      0.733500          0.000000     0.113250  141.790500   0.757750   0.798250

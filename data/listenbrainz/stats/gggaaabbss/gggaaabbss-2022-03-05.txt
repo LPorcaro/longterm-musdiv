@@ -1,5 +1,5 @@
-Electronic artists found: Special D., Anitta, Anne-Marie,Little Mix, JP Cooper,Mark Ralph, Galantis, Martin Garrix,Bonn
-Electronic genres found: tropical house, eurodance, hands up, electro house, funk carioca, progressive house, happy hardcore
+Electronic artists found: Anitta, Special D., JP Cooper,Mark Ralph, Anne-Marie,Little Mix, Galantis, Martin Garrix,Bonn
+Electronic genres found: tropical house, eurodance, funk carioca, electro house, hands up, progressive house, happy hardcore
 Electronic music logs found: 13.04% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop rap (3.61%)
 	5: electropop (3.61%)
 Top artists
-	1: Ludacris (1.82%)
-	2: GAYLE (1.82%)
-	3: Lauv (1.82%)
-	4: Boyce Avenue (1.82%)
-	5: The Weeknd (1.82%)
+	1: Martin Garrix (1.82%)
+	2: Conan Gray (1.82%)
+	3: Sueco (1.82%)
+	4: Post Malone (1.82%)
+	5: Camila Cabello (1.82%)
 Top country
 	1: US (65.22%)
 	2: GB (21.74%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   46.000000     46.000000     46.000000         46.000000    46.000000   46.000000  46.000000  46.000000
-mean    77.000000      0.117037      0.653935          0.021083     0.096815  121.389522   0.556461   0.694761
-std     11.354881      0.166658      0.146609          0.082767     0.092580   27.080917   0.207177   0.148297
-min     51.000000      0.000070      0.239000          0.000000     0.025300   67.526000   0.059200   0.267000
+mean    77.086957      0.117037      0.653935          0.021083     0.096815  121.389522   0.556461   0.694761
+std     11.317295      0.166658      0.146609          0.082767     0.092580   27.080917   0.207177   0.148297
+min     52.000000      0.000070      0.239000          0.000000     0.025300   67.526000   0.059200   0.267000
 25%     69.000000      0.013450      0.561750          0.000000     0.040875  104.120000   0.416000   0.617000
 50%     77.000000      0.042000      0.688500          0.000000     0.057150  119.943000   0.535000   0.709000
 75%     85.750000      0.175250      0.737500          0.000010     0.112000  142.237250   0.718500   0.798500

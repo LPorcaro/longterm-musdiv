@@ -1,5 +1,5 @@
 Electronic artists found: Steve Aoki,Louis Tomlinson
-Electronic genres found: electro house, tropical house
+Electronic genres found: tropical house, electro house
 Electronic music logs found: 0.95% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: social media pop (11.24%)
 	5: dance pop (3.37%)
 Top artists
-	1: Ariana Grande (3.12%)
-	2: MKTO (3.12%)
-	3: Arctic Monkeys (3.12%)
-	4: Joshua Bassett (3.12%)
-	5: Conan Gray (3.12%)
+	1: Conan Gray (3.12%)
+	2: Taylor Swift (3.12%)
+	3: Amy Macdonald (3.12%)
+	4: Peter Hollens (3.12%)
+	5: Panic! At The Disco (3.12%)
 Top country
 	1: US (79.05%)
 	2: GB (18.10%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  105.000000    105.000000     105.00000        105.000000   105.000000  105.000000  105.000000  105.000000
-mean    74.695238      0.310241       0.51659          0.013714     0.050539  119.901990    0.344639    0.531752
-std      9.386082      0.272528       0.11352          0.091873     0.064543   25.472576    0.241324    0.197054
+mean    74.828571      0.310241       0.51659          0.013714     0.050539  119.901990    0.344639    0.531752
+std      9.434447      0.272528       0.11352          0.091873     0.064543   25.472576    0.241324    0.197054
 min     38.000000      0.000289       0.21700          0.000000     0.023200   68.534000    0.048800    0.197000
 25%     72.000000      0.060000       0.44900          0.000000     0.033100   99.048000    0.123000    0.390000
 50%     73.000000      0.256000       0.46400          0.000000     0.036300  130.110000    0.266000    0.449000

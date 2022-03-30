@@ -7,8 +7,8 @@ import json
 import argparse
 
 from pylistenbrainz.errors import ListenBrainzAPIException
-from datetime import datetime, timedelta
-from tqdm import tqdm 
+from datetime import datetime
+from tqdm import tqdm
 from operator import itemgetter
 
 
@@ -16,9 +16,8 @@ def get_listen_logs(username, out_dir):
     """
     """
     date_time = datetime.now().strftime("%Y%m%d")
-
-    if os.path.exists(out_dir):
-        user_folder = os.path.join(out_dir, username)
+    user_folder = os.path.join(out_dir, username)
+    if os.path.exists(user_folder):
         for json_file in sorted(os.listdir(user_folder), reverse=True):
             infile = os.path.join(user_folder, json_file)
             with open(infile, 'r') as inf:
@@ -50,8 +49,10 @@ def get_listen_logs(username, out_dir):
             listens.extend(listens_batch)
 
     else:
-        listens_count = client.get_user_listen_count(username)
+        os.makedirs(user_folder)
+
         listens = []
+        listens_count = client.get_user_listen_count(username)
         max_ts = int(datetime.now().timestamp())
 
         while len(listens) < listens_count:
@@ -67,12 +68,11 @@ def get_listen_logs(username, out_dir):
 
             listens.extend(listens_batch)
 
-    listens = sorted([x.__dict__ for x in listens], 
+    listens = sorted([x.__dict__ for x in listens],
                      key=itemgetter('listened_at'),
                      reverse=True)
 
-
-    # Serializing json 
+    # Serializing json
     json_object = json.dumps([x for x in listens], indent=4)
 
     # Writing to sample.json
@@ -84,7 +84,7 @@ def get_listen_logs(username, out_dir):
     with open(outfile, "w") as outf:
         outf.write(json_object)
 
-    print("User '{}': Found {} listen events".format(username, len(listens)))    
+    print("User '{}': Found {} listen events".format(username, len(listens)))
 
 
 def arg_parser():
@@ -100,6 +100,7 @@ def arg_parser():
     args = parser.parse_args()
 
     return args
+
 
 if __name__ == "__main__":
 

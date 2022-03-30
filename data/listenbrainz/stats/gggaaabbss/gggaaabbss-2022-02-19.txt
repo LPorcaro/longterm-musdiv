@@ -1,19 +1,19 @@
-Electronic artists found: The Chainsmokers,Coldplay, Zara Larsson, Clean Bandit,Zara Larsson, Clean Bandit,Sean Paul,Anne-Marie, Alesso,Katy Perry, Sigala,Ella Eyre
-Electronic genres found: electro house, uk funky, tropical house
+Electronic artists found: Alesso,Katy Perry, Clean Bandit,Zara Larsson, Clean Bandit,Sean Paul,Anne-Marie, The Chainsmokers,Coldplay, Sigala,Ella Eyre, Zara Larsson
+Electronic genres found: tropical house, uk funky, electro house
 Electronic music logs found: 8.96% 
 
 Top genres
-	1: pop (25.66%)
-	2: dance pop (17.70%)
-	3: post-teen pop (9.73%)
-	4: electropop (3.98%)
-	5: pop rock (3.54%)
+	1: pop (25.55%)
+	2: dance pop (17.62%)
+	3: post-teen pop (9.69%)
+	4: electropop (3.96%)
+	5: pop rock (3.52%)
 Top artists
-	1: Nicki Minaj (1.39%)
-	2: Katy Perry (1.39%)
-	3: Demi Lovato (1.39%)
-	4: Sigala (1.39%)
-	5: Jason Derulo (1.39%)
+	1: Taylor Swift (1.39%)
+	2: Selena Gomez (1.39%)
+	3: Quavo (1.39%)
+	4: Adam Levine (1.39%)
+	5: Imagine Dragons (1.39%)
 Top country
 	1: US (73.13%)
 	2: GB (23.88%)
@@ -34,10 +34,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   67.000000     67.000000     67.000000      6.700000e+01    67.000000   67.000000  67.000000  67.000000
-mean    80.238806      0.141731      0.668358      4.039371e-03     0.088870  124.079851   0.600061   0.692448
-std      7.299003      0.171125      0.116224      2.279507e-02     0.078709   27.948903   0.227140   0.142430
-min     65.000000      0.003700      0.259000      0.000000e+00     0.026900   77.011000   0.095100   0.318000
+mean    80.373134      0.141731      0.668358      4.039371e-03     0.088870  124.079851   0.600061   0.692448
+std      7.283930      0.171125      0.116224      2.279507e-02     0.078709   27.948903   0.227140   0.142430
+min     66.000000      0.003700      0.259000      0.000000e+00     0.026900   77.011000   0.095100   0.318000
 25%     75.500000      0.026100      0.626000      0.000000e+00     0.042350  102.513000   0.447500   0.618000
 50%     81.000000      0.073500      0.693000      0.000000e+00     0.054200  119.959000   0.546000   0.712000
-75%     84.000000      0.198500      0.728000      6.600000e-07     0.102000  142.542000   0.817000   0.798000
+75%     85.000000      0.198500      0.728000      6.600000e-07     0.102000  142.542000   0.817000   0.798000
 max     98.000000      0.896000      0.874000      1.340000e-01     0.314000  194.169000   0.969000   0.912000

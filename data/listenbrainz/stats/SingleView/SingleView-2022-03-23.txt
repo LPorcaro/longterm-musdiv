@@ -1,45 +1,45 @@
-Electronic artists found: Jon Sable, Sea Oleena, Biosphere, Steve Reich,Ensemble Signal, Rei Harakami, Squarepusher, Ben Lukas Boysen, Jay Daniel, Lone, Project Pablo, Ryuichi Sakamoto, Pole, Moomin, K. Leimer, O'Flynn, Pye Corner Audio, Ryuichi Sakamoto,Jaques Morelenbaum,Judy Kang, Agua Re, Roedelius,Arnold Kasar, Susumu Yokota, Nils Frahm,Remy Van Kesteren, David Sylvian, Apparat, Project Pablo,Patrick Holland, Daphni, Roger Eno, Meredith Monk,Bruce Brubaker,Ursula Oppens, Leon Vynehall, Murcof,Vanessa Wagner, Ana Roxanne, Aleksandir
-Electronic genres found: japanese jazztronica, wonky, japanese electronic, uk bass, italo house, chillwave, trip hop, nz electronic, future garage, new wave pop, downtempo, drone, solo wave, experimental electronic, glitch, detroit techno, berlin school, tijuana electronic, deep house, new wave, electronica, dub techno, hauntology, canadian electronic, neoclassical darkwave, microhouse, minimal techno, ambient, ambient house
-Electronic music logs found: 58.57% 
+Electronic artists found: K. Leimer, Jay Daniel, David Sylvian, Project Pablo, Jon Sable, Nils Frahm,Remy Van Kesteren, Steve Reich,Ensemble Signal, Lone, Aleksandir, Leon Vynehall, Rei Harakami, Ryuichi Sakamoto,Jaques Morelenbaum,Judy Kang, Sea Oleena, Apparat, Pye Corner Audio, Ryuichi Sakamoto, Roger Eno, Daphni, O'Flynn, Bella Boo, Pole, Squarepusher, Ana Roxanne, Ben Lukas Boysen, Biosphere, Murcof,Vanessa Wagner, Susumu Yokota, Meredith Monk,Bruce Brubaker,Ursula Oppens, Agua Re, Project Pablo,Patrick Holland, Roedelius,Arnold Kasar, Moomin
+Electronic genres found: ambient, wonky, deep house, experimental electronic, detroit techno, electronica, new wave, hauntology, italo house, japanese jazztronica, minimal techno, dub techno, trip hop, microhouse, drone, glitch, canadian electronic, tijuana electronic, japanese electronic, ambient house, chillwave, swedish electronic, future garage, berlin school, uk bass, neoclassical darkwave, nz electronic, solo wave, downtempo
+Electronic music logs found: 59.16% 
 
 Top genres
-	1: compositional ambient (5.00%)
-	2: electronica (4.64%)
-	3: float house (3.93%)
-	4: fourth world (3.93%)
-	5: ambient (3.57%)
+	1: compositional ambient (4.91%)
+	2: electronica (4.56%)
+	3: float house (4.21%)
+	4: ambient (3.86%)
+	5: fourth world (3.86%)
 Top artists
-	1: Jon Sable (1.54%)
-	2: Sea Oleena (1.54%)
-	3: Yoko Suzuki (1.54%)
-	4: Biosphere (1.54%)
-	5: Chicoria (1.54%)
+	1: Pascal Schumacher (1.52%)
+	2: K. Leimer (1.52%)
+	3: DJ Gengis (1.52%)
+	4: Ensemble Signal (1.52%)
+	5: Jay Daniel (1.52%)
 Top country
-	1: GB (27.14%)
-	2: IT (21.43%)
-	3: JP (11.43%)
-	4: QZ (8.57%)
-	5: US (5.71%)
+	1: GB (26.76%)
+	2: IT (21.13%)
+	3: JP (11.27%)
+	4: QZ (8.45%)
+	5: US (5.63%)
 Top record
-	1: LGE (10.00%)
-	2: UM7 (7.14%)
-	3: AAA (7.14%)
-	4: CFB (4.29%)
-	5: B60 (4.29%)
+	1: LGE (9.86%)
+	2: UM7 (7.04%)
+	3: AAA (7.04%)
+	4: CFB (4.23%)
+	5: B60 (4.23%)
 Top year
-	1: 21 (17.14%)
-	2: 17 (15.71%)
-	3: 15 (11.43%)
-	4: 16 (10.00%)
-	5: 18 (8.57%)
+	1: 21 (16.90%)
+	2: 17 (15.49%)
+	3: 15 (11.27%)
+	4: 18 (9.86%)
+	5: 16 (9.86%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   70.000000     70.000000     70.000000         70.000000    70.000000   70.000000  70.000000  70.000000
-mean    40.842857      0.621293      0.486656          0.625307     0.078087  110.224800   0.306604   0.388188
-std     13.472071      0.384825      0.202118          0.385647     0.080840   33.527637   0.271139   0.300181
-min     10.000000      0.000710      0.092900          0.000000     0.026600   36.959000   0.024500   0.003260
-25%     32.000000      0.183500      0.337250          0.152325     0.037300   84.134750   0.069900   0.111250
-50%     39.000000      0.819000      0.494000          0.859000     0.045600  109.230500   0.231000   0.355500
-75%     50.000000      0.962000      0.625250          0.907750     0.059325  125.004750   0.493000   0.638500
-max     71.000000      0.996000      0.832000          0.971000     0.351000  183.955000   0.965000   0.945000
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
+count   71.000000     71.000000     71.000000         71.000000    71.000000   71.00000  71.000000  71.000000
+mean    41.253521      0.624331      0.492407          0.629275     0.079776  110.13707   0.313342   0.389143
+std     13.085126      0.382923      0.206438          0.384339     0.081512   33.29550   0.275117   0.298138
+min     11.000000      0.000710      0.092900          0.000000     0.026600   36.95900   0.024500   0.003260
+25%     32.000000      0.191000      0.340500          0.218550     0.037400   84.38150   0.070400   0.112500
+50%     40.000000      0.822000      0.499000          0.861000     0.045700  107.29800   0.238000   0.360000
+75%     50.000000      0.961000      0.636500          0.907500     0.059750  125.00250   0.496000   0.637000
+max     72.000000      0.996000      0.895000          0.971000     0.351000  183.95500   0.965000   0.945000

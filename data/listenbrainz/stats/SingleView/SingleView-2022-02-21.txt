@@ -1,5 +1,5 @@
 Electronic artists found: Geo Rip, Lawrence
-Electronic genres found: microhouse, minimal techno, ambient techno, minimal tech house, hamburg electronic, dub techno
+Electronic genres found: microhouse, minimal tech house, ambient techno, hamburg electronic, minimal techno, dub techno
 Electronic music logs found: 28.57% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: hamburg electronic (8.33%)
 	5: microhouse (8.33%)
 Top artists
-	1: Fight Pausa (12.50%)
-	2: Slauson Malone (12.50%)
-	3: Palazzi D'Oriente (12.50%)
-	4: Geo Rip (12.50%)
-	5: Woo (12.50%)
+	1: Slauson Malone (12.50%)
+	2: Fight Pausa (12.50%)
+	3: Lawrence (12.50%)
+	4: Palazzi D'Oriente (12.50%)
+	5: Geo Rip (12.50%)
 Top country
 	1: IT (28.57%)
 	2: DE (14.29%)
@@ -36,7 +36,7 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
 count    7.000000      7.000000      7.000000          7.000000     7.000000    7.000000  7.000000  7.000000
 mean    14.285714      0.688286      0.576286          0.667714     0.120643  117.028429  0.392286  0.508286
-std     14.103360      0.265043      0.144515          0.229379     0.081736   32.240639  0.188894  0.183176
+std     14.020393      0.265043      0.144515          0.229379     0.081736   32.240639  0.188894  0.183176
 min      3.000000      0.186000      0.340000          0.369000     0.037500   74.993000  0.101000  0.263000
 25%      6.000000      0.587500      0.511000          0.478000     0.047000   94.376500  0.253500  0.388000
 50%     11.000000      0.765000      0.574000          0.693000     0.132000  118.956000  0.494000  0.481000

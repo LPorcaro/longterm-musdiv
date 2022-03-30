@@ -1,0 +1,45 @@
+Electronic artists found: Yung Bae,Cosmo's Midnight, Galantis,JVKE
+Electronic genres found: tropical house, future funk, electro house
+Electronic music logs found: 12.50% 
+
+Top genres
+	1: indie pop (6.67%)
+	2: dance pop (6.67%)
+	3: pop (6.67%)
+	4: modern rock (4.44%)
+	5: indie r&b (4.44%)
+Top artists
+	1: Cautious Clay (3.85%)
+	2: Claud (3.85%)
+	3: sophie meiers (3.85%)
+	4: Melanie Faye (3.85%)
+	5: Galantis (3.85%)
+Top country
+	1: US (56.25%)
+	2: GB (18.75%)
+	3: QM (12.50%)
+	4: AU (6.25%)
+	5: QZ (6.25%)
+Top record
+	1: KPL (18.75%)
+	2: UG1 (12.50%)
+	3: AR1 (12.50%)
+	4: SM1 (12.50%)
+	5: 5BK (6.25%)
+Top year
+	1: 20 (43.75%)
+	2: 21 (31.25%)
+	3: 19 (12.50%)
+	4: 15 (6.25%)
+	5: 13 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count    16.00000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean     67.25000      0.166244      0.710688          0.019043     0.095238  116.342250   0.699187   0.651125
+std      10.34408      0.144267      0.103430          0.046167     0.079046   26.044208   0.120205   0.091288
+min      49.00000      0.033900      0.515000          0.000000     0.027800   91.025000   0.499000   0.459000
+25%      60.25000      0.068300      0.626000          0.000003     0.038475  104.256000   0.630250   0.620500
+50%      66.50000      0.102950      0.725000          0.000021     0.058600  110.989500   0.698000   0.663500
+75%      74.50000      0.211000      0.796250          0.004262     0.154250  115.751000   0.744500   0.684750
+max      88.00000      0.437000      0.888000          0.157000     0.300000  199.785000   0.967000   0.780000

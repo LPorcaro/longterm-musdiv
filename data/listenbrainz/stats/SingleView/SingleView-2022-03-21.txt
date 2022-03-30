@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: outlaw country (17.00%)
-	2: arkansas country (15.02%)
-	3: folk (3.95%)
-	4: country rock (3.95%)
-	5: acoustic blues (2.77%)
+	1: outlaw country (16.93%)
+	2: arkansas country (14.96%)
+	3: folk (3.94%)
+	4: country rock (3.94%)
+	5: acoustic blues (2.76%)
 Top artists
-	1: Bill Monroe & His Blue Grass Boys (3.45%)
-	2: Johnny Cash (3.45%)
-	3: Billy Lee Riley (3.45%)
-	4: Billy Joe Shaver (3.45%)
-	5: Blind Willie Johnson (3.45%)
+	1: Roger Miller (3.45%)
+	2: Wayne Hancock (3.45%)
+	3: The Blasters (3.45%)
+	4: Fatboy (3.45%)
+	5: Billy Lee Riley (3.45%)
 Top country
 	1: US (88.57%)
 	2: GB (4.29%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   70.000000     70.000000     70.000000         70.000000    70.000000   70.000000  70.000000  70.000000
-mean    46.885714      0.678506      0.580486          0.020655     0.050013  120.579914   0.608314   0.432626
-std     12.954259      0.289994      0.144667          0.066406     0.047712   28.039177   0.241698   0.212123
+mean    47.057143      0.678506      0.580486          0.020655     0.050013  120.579914   0.608314   0.432626
+std     12.966943      0.289994      0.144667          0.066406     0.047712   28.039177   0.241698   0.212123
 min     25.000000      0.024600      0.201000          0.000000     0.026700   76.321000   0.144000   0.042300
 25%     40.250000      0.526500      0.497500          0.000005     0.031725  100.273500   0.406000   0.284000
 50%     45.000000      0.796000      0.604500          0.000123     0.035600  115.249000   0.627500   0.393000
-75%     52.000000      0.917250      0.682750          0.001520     0.047300  133.924750   0.792250   0.584750
+75%     52.750000      0.917250      0.682750          0.001520     0.047300  133.924750   0.792250   0.584750
 max     78.000000      0.983000      0.834000          0.343000     0.369000  190.071000   0.966000   0.917000

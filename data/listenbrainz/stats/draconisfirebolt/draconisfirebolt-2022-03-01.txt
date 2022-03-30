@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (21.12%)
-	2: post-teen pop (10.56%)
-	3: dance pop (10.56%)
-	4: pop rock (6.83%)
-	5: modern rock (6.21%)
+	1: pop (20.61%)
+	2: post-teen pop (10.30%)
+	3: dance pop (10.30%)
+	4: pop rock (6.67%)
+	5: modern rock (6.06%)
 Top artists
-	1: MKTO (5.26%)
-	2: Dylan (5.26%)
-	3: WALK THE MOON (5.26%)
-	4: Maggie Lindemann (5.26%)
-	5: Imagine Dragons (5.26%)
+	1: Taylor Swift (5.26%)
+	2: Amy Macdonald (5.26%)
+	3: Imagine Dragons (5.26%)
+	4: Panic! At The Disco (5.26%)
+	5: MKTO (5.26%)
 Top country
 	1: US (47.17%)
 	2: GB (35.85%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   53.000000     53.000000     53.000000         53.000000    53.000000   53.000000  53.000000  53.000000
-mean    79.566038      0.182097      0.598509          0.010098     0.070309  123.021604   0.586679   0.744887
-std      7.412332      0.238813      0.117691          0.035164     0.044378   27.638005   0.163869   0.167761
+mean    79.905660      0.182097      0.598509          0.010098     0.070309  123.021604   0.586679   0.744887
+std      7.411696      0.238813      0.117691          0.035164     0.044378   27.638005   0.163869   0.167761
 min     68.000000      0.000569      0.448000          0.000000     0.026000   79.052000   0.208000   0.338000
 25%     74.000000      0.013500      0.494000          0.000000     0.032300  102.071000   0.455000   0.634000
 50%     79.000000      0.062200      0.578000          0.000000     0.052300  124.949000   0.648000   0.783000

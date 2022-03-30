@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (12.24%)
-	2: modern rock (10.20%)
-	3: chill r&b (8.16%)
-	4: alternative r&b (6.12%)
-	5: indie pop (4.08%)
+	1: pop (12.00%)
+	2: modern rock (10.00%)
+	3: chill r&b (8.00%)
+	4: alternative r&b (6.00%)
+	5: indie pop (4.00%)
 Top artists
-	1: Melanie Faye (3.23%)
-	2: Forrest. (3.23%)
-	3: Sarah Kinsley (3.23%)
-	4: Doja Cat (3.23%)
-	5: Claud (3.23%)
+	1: Ryce (3.23%)
+	2: Cautious Clay (3.23%)
+	3: Jungle (3.23%)
+	4: Claud (3.23%)
+	5: sophie meiers (3.23%)
 Top country
 	1: US (30.43%)
 	2: GB (26.09%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
-mean    69.652174      0.310363      0.640304          0.097522     0.077865  126.096348   0.609000   0.568478
-std     13.805825      0.312640      0.144838          0.243919     0.064458   30.657133   0.243982   0.161042
+mean    69.608696      0.310363      0.640304          0.097522     0.077865  126.096348   0.609000   0.568478
+std     13.885045      0.312640      0.144838          0.243919     0.064458   30.657133   0.243982   0.161042
 min     44.000000      0.003040      0.329000          0.000000     0.027700   77.579000   0.160000   0.195000
 25%     62.000000      0.067700      0.540000          0.000003     0.032000  110.103500   0.397500   0.483000
 50%     71.000000      0.213000      0.707000          0.000158     0.065200  120.111000   0.686000   0.594000

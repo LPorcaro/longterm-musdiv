@@ -1,19 +1,19 @@
-Electronic artists found: Blood Orange, Secundus, Rimarimba, Oli XL,Ecco2k, Elder Island,Kinlaw, Mndsgn, Jlin, DJ Raff, Young Echo, Oklou, DJ Olive, Jay Daniel
-Electronic genres found: outsider house, deconstructed club, detroit techno, wonky, experimental ambient, uk bass, electronica chilena, chillwave, electronica, experimental electronic, grimewave, new isolationism, bristol electronic, footwork, illbient
+Electronic artists found: Young Echo, Rimarimba, Blood Orange, Jay Daniel, Mndsgn, Jlin, Oli XL,Ecco2k, Oklou, DJ Raff, Secundus, Elder Island,Kinlaw, DJ Olive
+Electronic genres found: electronica, bristol electronic, uk bass, illbient, wonky, outsider house, grimewave, footwork, chillwave, experimental electronic, electronica chilena, detroit techno, deconstructed club, experimental ambient, new isolationism
 Electronic music logs found: 24.49% 
 
 Top genres
 	1: classical (7.76%)
-	2: late romantic era (5.17%)
-	3: art pop (4.31%)
+	2: art pop (5.17%)
+	3: late romantic era (5.17%)
 	4: escape room (4.31%)
 	5: indie soul (4.31%)
 Top artists
-	1: Julian Bream (1.37%)
-	2: Antonín Dvořák (1.37%)
-	3: Francisco Tárrega (1.37%)
-	4: Laurent Petitgirard (1.37%)
-	5: Christopher Ferreira (1.37%)
+	1: Pale Spring (1.37%)
+	2: Jaze Baqti (1.37%)
+	3: Young Echo (1.37%)
+	4: Dijit (1.37%)
+	5: Jay Daniel (1.37%)
 Top country
 	1: US (20.41%)
 	2: GB (20.41%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   49.000000     49.000000     49.000000         49.000000    49.000000   49.000000  49.000000  49.000000
-mean    32.612245      0.606341      0.575584          0.596857     0.097731  115.468449   0.362139   0.359853
-std     20.535352      0.366889      0.179198          0.393849     0.086374   34.807999   0.264052   0.270080
+mean    32.816327      0.606341      0.575584          0.596857     0.097731  115.468449   0.362139   0.359853
+std     20.445735      0.366889      0.179198          0.393849     0.086374   34.807999   0.264052   0.270080
 min      1.000000      0.000823      0.070400          0.000000     0.030900   63.975000   0.030200   0.005180
-25%     10.000000      0.273000      0.490000          0.083600     0.043000   90.007000   0.169000   0.032500
-50%     41.000000      0.650000      0.617000          0.854000     0.065100  111.150000   0.284000   0.439000
+25%     11.000000      0.273000      0.490000          0.083600     0.043000   90.007000   0.169000   0.032500
+50%     42.000000      0.650000      0.617000          0.854000     0.065100  111.150000   0.284000   0.439000
 75%     50.000000      0.989000      0.721000          0.913000     0.109000  140.064000   0.510000   0.561000
 max     64.000000      0.996000      0.838000          0.962000     0.464000  193.845000   0.969000   0.906000

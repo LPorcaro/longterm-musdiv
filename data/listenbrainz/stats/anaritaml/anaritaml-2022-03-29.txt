@@ -1,0 +1,45 @@
+Electronic artists found: Galantis,Lucas & Steve,ILIRA, Anthony Keyrouz,ZANA, Armin van Buuren, MOTi,BODYWORX, Lucas Estrada,Moonshine,Heleen, Anthony Keyrouz,Paradigm, Tom Enzy,Wilhelmina, Madism,Brendan Mills, Joel Corry,RAYE,David Guetta, Lucky Luke
+Electronic genres found: tropical house, slap house, lithuanian electronic, deep house, electro house, arab electronic, progressive house
+Electronic music logs found: 25.64% 
+
+Top genres
+	1: pop (14.42%)
+	2: pop dance (10.58%)
+	3: chill r&b (6.73%)
+	4: nyc pop (6.73%)
+	5: edm (5.77%)
+Top artists
+	1: Scala & Kolacny Brothers (2.00%)
+	2: Grace VanderWaal (2.00%)
+	3: Brendan Mills (2.00%)
+	4: Aili (2.00%)
+	5: Wilhelmina (2.00%)
+Top country
+	1: NL (25.64%)
+	2: QM (20.51%)
+	3: US (15.38%)
+	4: GB (12.82%)
+	5: QZ (10.26%)
+Top record
+	1: T2H (12.82%)
+	2: 24S (7.69%)
+	3: PLR (5.13%)
+	4: MJG (5.13%)
+	5: RC1 (5.13%)
+Top year
+	1: 20 (20.51%)
+	2: 21 (20.51%)
+	3: 19 (17.95%)
+	4: 22 (17.95%)
+	5: 18 (12.82%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   39.000000     39.000000     39.000000      3.900000e+01    39.000000   39.000000  39.000000  39.000000
+mean    62.512821      0.348670      0.675615      9.602484e-02     0.080856  116.237026   0.403051   0.648590
+std     15.557824      0.358919      0.103021      2.497536e-01     0.064918   19.105704   0.200066   0.210889
+min     20.000000      0.000208      0.415000      0.000000e+00     0.027300   78.088000   0.159000   0.155000
+25%     54.000000      0.034550      0.627500      8.350000e-07     0.039100  105.634000   0.237500   0.506500
+50%     62.000000      0.183000      0.678000      4.300000e-05     0.063600  120.159000   0.343000   0.716000
+75%     71.500000      0.682500      0.744500      2.020000e-02     0.091700  126.025000   0.586000   0.808500
+max     95.000000      0.988000      0.889000      9.300000e-01     0.338000  174.367000   0.785000   0.963000

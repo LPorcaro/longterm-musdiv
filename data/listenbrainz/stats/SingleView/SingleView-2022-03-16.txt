@@ -1,19 +1,19 @@
-Electronic artists found: 회사AUTO, Incorporeal Visions Deluxe, Infinity Frequencies, Donor Lens, Neon95, 豊平区民Toyohirakumin, Ólafur Arnalds,Alice Sara Ott, Tendencies, Haircuts for Men, Phil Gerus, Perla Blue, 18 Carat Affair, Dan Mason ダン·メイソン
-Electronic genres found: neoclassical darkwave, mallsoft, chillwave, vaporwave, hardvapour, compositional ambient, future funk
+Electronic artists found: Donor Lens, Ólafur Arnalds,Alice Sara Ott, 회사AUTO, Perla Blue, Neon95, 豊平区民Toyohirakumin, Haircuts for Men, Tendencies, 18 Carat Affair, Dan Mason ダン·メイソン, Phil Gerus, Infinity Frequencies, Incorporeal Visions Deluxe
+Electronic genres found: mallsoft, vaporwave, neoclassical darkwave, compositional ambient, chillwave, hardvapour, future funk
 Electronic music logs found: 45.16% 
 
 Top genres
-	1: classical (15.22%)
-	2: vaporwave (13.04%)
-	3: mallsoft (7.61%)
-	4: future funk (6.52%)
-	5: hardvapour (6.52%)
+	1: classical (14.89%)
+	2: vaporwave (12.77%)
+	3: hardvapour (8.51%)
+	4: mallsoft (7.45%)
+	5: future funk (6.38%)
 Top artists
-	1: Daniel Reuss (1.82%)
-	2: Alexandre Tharaud (1.82%)
-	3: Donor Lens (1.82%)
-	4: Yo-Yo Ma (1.82%)
-	5: Freiburger Barockorchester (1.82%)
+	1: 회사AUTO (1.82%)
+	2: Orchestre des Champs-Élysées (1.82%)
+	3: Perla Blue (1.82%)
+	4: 豊平区民Toyohirakumin (1.82%)
+	5: Maxim Rysanov (1.82%)
 Top country
 	1: FR (25.81%)
 	2: US (19.35%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   31.000000     31.000000     31.000000         31.000000    31.000000   31.000000  31.000000  31.000000
-mean    40.806452      0.672551      0.404774          0.689044     0.075523  102.228258   0.276058   0.325441
-std     12.668647      0.350270      0.239369          0.340810     0.069912   31.193152   0.282848   0.325183
+mean    40.838710      0.672551      0.404774          0.689044     0.075523  102.228258   0.276058   0.325441
+std     12.649366      0.350270      0.239369          0.340810     0.069912   31.193152   0.282848   0.325183
 min     15.000000      0.004570      0.089700          0.000000     0.029500   35.995000   0.031300   0.004530
-25%     34.500000      0.466500      0.194500          0.623000     0.040800   85.709000   0.043050   0.024400
+25%     34.000000      0.466500      0.194500          0.623000     0.040800   85.709000   0.043050   0.024400
 50%     39.000000      0.799000      0.402000          0.840000     0.044500   98.605000   0.101000   0.150000
 75%     45.500000      0.977000      0.595000          0.919000     0.056000  117.100000   0.424000   0.570000
 max     78.000000      0.995000      0.832000          0.956000     0.285000  189.545000   0.962000   0.997000

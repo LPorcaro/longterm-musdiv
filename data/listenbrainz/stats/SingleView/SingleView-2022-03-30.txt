@@ -1,0 +1,42 @@
+Electronic artists found: Populous, Acid Arab,Radia Menel
+Electronic genres found: arab electronic, indie electronica, italian electronica, pop electronico
+Electronic music logs found: 33.33% 
+
+Top genres
+	1: arab alternative (12.50%)
+	2: arab groove (12.50%)
+	3: french indietronica (12.50%)
+	4: nubian traditional (6.25%)
+	5: sudanese pop (6.25%)
+Top artists
+	1: Populous (12.50%)
+	2: KOMPROMAT (12.50%)
+	3: Ammar 808 (12.50%)
+	4: Mehdi Nassouli (12.50%)
+	5: Alsarah & The Nubatones (12.50%)
+Top country
+	1: US (33.33%)
+	2: BE (33.33%)
+	3: FR (33.33%)
+Top record
+	1: CCW (33.33%)
+	2: 8HC (16.67%)
+	3: 6F5 (16.67%)
+	4: U66 (16.67%)
+	5: T09 (16.67%)
+Top year
+	1: 16 (33.33%)
+	2: 19 (33.33%)
+	3: 18 (16.67%)
+	4: 15 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    34.500000      0.146712      0.714500          0.357726     0.073183  122.694833  0.579000  0.631000
+std     10.251829      0.265244      0.110437          0.336514     0.043581   34.785080  0.244247  0.073438
+min     21.000000      0.001220      0.603000          0.000654     0.038200   74.008000  0.216000  0.529000
+25%     28.750000      0.008988      0.640500          0.103025     0.041825  110.749250  0.446250  0.601500
+50%     35.000000      0.038150      0.694500          0.289000     0.054650  119.539500  0.579500  0.624500
+75%     37.500000      0.101400      0.746250          0.588000     0.095450  131.281750  0.789250  0.655000
+max     51.000000      0.681000      0.909000          0.839000     0.145000  180.067000  0.838000  0.749000
