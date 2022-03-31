@@ -2,131 +2,174 @@
 # -*- coding: utf-8 -*-
 
 import os
-import csv
 import pandas as pd
-from datetime import datetime
+import matplotlib.pyplot as plt
 
-now = datetime.now()
-date_time = now.strftime("%Y%m%d")
+ATT_FOLDER = "../data/attitudes"
 
-CONTEXTS = {"af1:1":"Relaxing",
-            "af1:2":"Commuting",
-            "af1:3":"Partying",
-            "af1:4":"Running",
-            "af1:5":"Shopping",
-            "af1:6":"Sleeping",
-            "af1:7":"Studying",
-            "af1:8":"Working",
-            }
-
-GUTTMAN = ["guttman:1",
-           "guttman:2",
-           "guttman:3",
-           "guttman:4",
-           "guttman:5"
-           ]
-
-TRACK_FEATS = {"att0:1": "Tempo",
-               "att0:2": "Danceability",
-               "att0:3": "Acousticness",
-               "att0:4": "Instrumentalness"
-               }
-
-ARTIS_FEATS = {"att1:1": "Gender",
-               "att1:2": "Skin",
-               "att1:3": "Origin",
-               "att1:4": "Age"
-               }
+CONTEXTS = ["Relaxing", "Commuting", "Partying", "Running","Shopping",
+            "Sleeping", "Studying", "Working"]
+TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
+ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
+ROUNDS =  ["00", "01", "02"]
+GROUPS = ["g1", "g2"]
 
 
-IAT_FOLDER = "../data/iat/1st"
-ATT_FILE = "../data/attitudes/1st/g1_1st.csv"
-ATT_FILE_P_OUT = "../data/attitudes/1st/g1_1st_part_{}.csv".format(date_time)
-ATT_FILE_F_OUT = "../data/attitudes/1st/g1_1st_feat_{}.csv".format(date_time)
-
-
-def analyze_iat(infile):
+def import_data(tdata):
     """
     """
-    infile = os.path.join(IAT_FOLDER, infile)
+    dfs = []
+    df_join = pd.DataFrame()    
+    for att_round in ROUNDS:
+        for group in GROUPS:
+            group_infile = "{}_{}_{}.csv".format(group, att_round, tdata)
+            infile = os.path.join(ATT_FOLDER, att_round, group_infile)
+            df = pd.read_csv(infile)
+            df = df.assign(group=[group for x in df.index],
+                           att_round=[att_round for x in df.index])
+            dfs.append(df)
+    df_join = pd.concat(dfs, ignore_index=True)
 
-    df = pd.DataFrame(columns = ["block", "block_num", "item", "rt", "status"])
+    return df_join
 
-    with open(infile, 'r') as inf:
-        _reader = csv.reader(inf, delimiter=" ")
 
-        for row in _reader:
-            block, block_num, item, rt, status = row
+def plot_scores():
+    """
+    """
 
-            if block_num == "2" or block_num == "4":
-                continue
-            elif int(rt) < 350:
-                continue
-            elif int(rt) >= 3000:
-                continue
+    # Plot D-score
+    for group, c in zip(GROUPS, ["b","g"]):
+        df_group = df_join_att[df_join_att.group == group]
 
-            df.loc[len(df)] = [block, block_num, item, int(rt), int(status)]
+        for pid in df_group.PROLIFIC_PID.unique():
+            x = [1,2,3]
+            y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)].d_score.item() for att_round in ROUNDS]
+            plt.plot(x, y, c=c, label=group)
 
-    pen_left = round(df[df.block == "mix_compatible"].rt.mean() + 400)
-    pen_right = round(df[df.block == "mix_incompatible"].rt.mean() + 400)
+    plt.title('D-score')
+    plt.xticks(x,['Pre', '1 week', "2 week"], horizontalalignment='right')
+    plt.ylim([-1,1])
+    plt.legend()
+    plt.grid()
+    plt.show()
 
-    df.loc[(df.status == 2) & (df.block == "mix_compatible"), 'rt'] = pen_left
-    df.loc[(df.status == 2) & (df.block == "mix_incompatible"), 'rt'] = pen_right
+    # Plot O-score
+    for group, c in zip(GROUPS, ["b","g"]):
+        df_group = df_join_att[df_join_att.group == group]
 
-    avg_left = df[df.block == "mix_compatible"].rt.mean()
-    avg_right = df[df.block == "mix_incompatible"].rt.mean()
-    all_std = df[df.status == 1].rt.std()
+        for pid in df_group.PROLIFIC_PID.unique():
+            x = range(3)
+            y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)].o_score.item() for att_round in ROUNDS]
+            plt.plot(x, y, c=c, label=group)
 
-    dscore = (avg_left - avg_right) / all_std
+    plt.title('O-score')
+    plt.xticks(x,['Pre', '1 week', "2 week"], horizontalalignment='right')
+    plt.legend()
+    plt.grid()
+    plt.show()
 
-    return round(dscore, 3)
+    # Plot o-score VS d-score
+    fig, axs = plt.subplots(1,3,sharey=True)
+    for n, att_round in enumerate(ROUNDS):
+        df_round = df_join_att[df_join_att.att_round == att_round]
+        for group, c in zip(GROUPS, ["b","g"]):
+            x = df_round[df_round.group == group].o_score
+            y = df_round[df_round.group == group].d_score
+            axs[n].scatter(x, y, label=group, s=50, c=c, marker='x')
 
+        axs[n].legend(loc=2)
+        axs[n].hlines(y=0, color='r', xmin=-2, xmax=6, linestyle='-')
+        axs[n].vlines(x=2.5, color='r', ymin=-1, ymax=1, linestyle='-')
+        axs[n].set_ylim(-1,1)
+        axs[n].set_xlim(-0.5,5.5)
+
+    axs[1].set_xlabel("O-score")
+    axs[0].set_ylabel("D-score")
+
+    axs[0].set_title(label="Pre")
+    axs[1].set_title(label="01")
+    axs[2].set_title(label="02")
+    plt.show()
 
 
 
 if __name__ == "__main__":
 
-    df = pd.read_csv(ATT_FILE, delimiter='\t')
+    df_join_att = import_data("scores")
+    df_join_cntx = import_data("cntx")
+
+    plot_scores() 
 
 
-    with open(ATT_FILE_F_OUT, "w+") as outf:
-        _writer = csv.writer(outf)
-        _writer.writerow(["Feature", "Median", "IQR"])
-    
-        for item in CONTEXTS:
-            count, mean, std, _min, q1, q2, q3, _max = df[item].describe()
-            _writer.writerow([CONTEXTS[item], q2, q3-q1])
-
-        
-        for item in TRACK_FEATS:
-            count, mean, std, _min, q1, q2, q3, _max = df[item].describe()
-            _writer.writerow([TRACK_FEATS[item], q2, q3-q1])
-
-        
-        for item in ARTIS_FEATS:
-            count, mean, std, _min, q1, q2, q3, _max = df[item].describe()
-            _writer.writerow([ARTIS_FEATS[item], q2, q3-q1])
-
-
-    open_scores = []
-    dscores = []
-    for part_id in df.PROLIFIC_PID.values:
-        df_part = df[df.PROLIFIC_PID == part_id]
-        
-        s_o = 0
-        for gut in GUTTMAN:
-            ans = df_part[gut].item()
-            if ans == 1:
-                s_o +=1
-
-        open_scores.append(s_o)
-
-        dscores.append(analyze_iat(df_part["testexperiment:1"].item()))
+    fig, axs = plt.subplots(2,4, sharex=True, sharey=True)
+    axs = axs.reshape(-1)
+    for column, ax in zip(CONTEXTS, axs):
+        bp_dict = df_join_cntx.boxplot(by=['group','att_round'],
+                                       column=column,
+                                       layout=(2,2),
+                                       return_type='both',
+                                       patch_artist = True,
+                                       ax=ax)
+        ax.set_yticklabels(['Disagree', '', '', '', 'Agree'])
+        ax.set_yticks([1,2,3,4,5])
+        ax.set_xlabel('')
+        colors = ['r','b', 'b', 'r', 'y', 'y']
+        for row_key, (ax,row) in bp_dict.iteritems():
+            for i, box in enumerate(row['boxes']):
+                box.set_facecolor(colors[i])
+        plt.suptitle("In which contexts would you listen to Electronic Music?")
+    plt.show()
 
 
-    df_out = pd.DataFrame()
-    df_out = df_out.assign(prolific_pid=df.PROLIFIC_PID.values,
-                           d_scores=dscores,
-                           openess_score=open_scores)
 
-    df_out.to_csv(ATT_FILE_P_OUT, index=False)
+    fig, axs = plt.subplots(2,2, sharex=True)
+    axs = axs.reshape(-1)
+    for column, ax in zip(TRACK_FEATS, axs):
+        bp_dict = df_join_cntx.boxplot(by=['group','att_round'],
+                                       column=column,
+                                       layout=(2,2),
+                                       return_type='both',
+                                       patch_artist = True,
+                                       ax=ax)
+        if column == 'Tempo':
+            ax.set_yticklabels(['Slow', '', '', '', 'Fast'])
+        else:
+            ax.set_yticklabels(['Low', '', '', '', 'High'])
+
+        ax.set_xlabel('')
+        ax.set_yticks([1,2,3,4,5])
+        colors = ['r','b', 'b', 'r', 'y', 'y']
+        for row_key, (ax,row) in bp_dict.iteritems():
+            for i, box in enumerate(row['boxes']):
+                box.set_facecolor(colors[i])
+        plt.suptitle("Which features do you associate Electronic Music?")
+    plt.show()
+
+
+
+    fig, axs = plt.subplots(2,2, sharex=True)
+    axs = axs.reshape(-1)
+    for column, ax in zip(ARTIST_FEATS, axs):
+        bp_dict = df_join_cntx.boxplot(by=['group','att_round'],
+                                       column=column,
+                                       layout=(2,2),
+                                       return_type='both',
+                                       patch_artist = True,
+                                       ax=ax)
+        if column == 'Gender':
+            ax.set_yticklabels(['Female', '', '', '', 'Male'])
+        elif column == 'Skin':
+            ax.set_yticklabels(['White', '', '', '', 'Black'])
+        elif column == 'Origin':
+            ax.set_yticklabels(['Low-income', '', '', '', 'High-income'])
+        elif column == 'Age':
+            ax.set_yticklabels(['<40', '', '', '', '>40'])
+        ax.set_xlabel('')
+        ax.set_yticks([1,2,3,4,5])
+        colors = ['r','b', 'b', 'r', 'y', 'y']
+        for row_key, (ax,row) in bp_dict.iteritems():
+            for i, box in enumerate(row['boxes']):
+                box.set_facecolor(colors[i])
+        plt.suptitle("Which characteristics do you associate Electronic Music artists?")
+    plt.show()
+

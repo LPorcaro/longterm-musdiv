@@ -12,7 +12,6 @@ from datetime import datetime
 from pylistenbrainz.errors import ListenBrainzAPIException
 from spotipy.oauth2 import SpotifyClientCredentials
 
-
 JSON_DIR = "../data/listenbrainz/json"
 INFO_DIR = "../data/listenbrainz/info"
 FEAT_DIR = "../data/listenbrainz/feat"
