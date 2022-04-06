@@ -1,5 +1,5 @@
 Electronic artists found: Clean Bandit,Zara Larsson
-Electronic genres found: tropical house, uk funky
+Electronic genres found: uk funky, tropical house
 Electronic music logs found: 1.59% 
 
 Top genres
@@ -9,10 +9,10 @@ Top genres
 	4: boy band (5.07%)
 	5: talent show (3.62%)
 Top artists
-	1: Conan Gray (3.23%)
-	2: Taylor Swift (3.23%)
-	3: Amy Macdonald (3.23%)
-	4: YUNGBLUD (3.23%)
+	1: Lorde (3.23%)
+	2: Phoebe Bridgers (3.23%)
+	3: Harry Styles (3.23%)
+	4: Zara Larsson (3.23%)
 	5: Panic! At The Disco (3.23%)
 Top country
 	1: US (57.14%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   63.000000     63.000000     63.000000         63.000000    63.000000   63.000000  63.000000  63.000000
-mean    76.857143      0.300700      0.549762          0.008666     0.051778  119.535048   0.412605   0.610667
-std      8.302462      0.323766      0.125675          0.052891     0.059997   32.083825   0.210247   0.215740
+mean    77.142857      0.300700      0.549762          0.008666     0.051778  119.535048   0.412605   0.610667
+std      8.389427      0.323766      0.125675          0.052891     0.059997   32.083825   0.210247   0.215740
 min     63.000000      0.000092      0.218000          0.000000     0.025900   70.060000   0.051100   0.183000
 25%     69.500000      0.018700      0.484000          0.000000     0.030650   93.522500   0.229500   0.468500
 50%     78.000000      0.185000      0.565000          0.000000     0.035300  120.001000   0.411000   0.628000

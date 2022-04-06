@@ -1,0 +1,45 @@
+Electronic artists found: Atitude 67,Gabriel O Pensador,Analaga
+Electronic genres found: funk carioca
+Electronic music logs found: 4.00% 
+
+Top genres
+	1: gymcore (28.57%)
+	2: post-screamo (14.29%)
+	3: hip hop tuga (7.14%)
+	4: alternative metal (7.14%)
+	5: trap tuga (4.76%)
+Top artists
+	1: Gabriel O Pensador (4.35%)
+	2: Awaken the Giant (4.35%)
+	3: Saving Abel (4.35%)
+	4: Ruivo (4.35%)
+	5: Dillaz (4.35%)
+Top country
+	1: TC (44.00%)
+	2: us (20.00%)
+	3: US (12.00%)
+	4: PT (8.00%)
+	5: QZ (4.00%)
+Top record
+	1: ADK (16.00%)
+	2: cgj (12.00%)
+	3: ACM (8.00%)
+	4: hm2 (8.00%)
+	5: UM7 (8.00%)
+Top year
+	1: 17 (20.00%)
+	2: 20 (12.00%)
+	3: 19 (12.00%)
+	4: 21 (12.00%)
+	5: 16 (12.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.000000
+mean    48.280000      0.111394      0.516360          0.000449     0.091412  117.550280   0.463144   0.829000
+std     13.208331      0.218267      0.127328          0.001497     0.070166   25.459586   0.178734   0.180565
+min     14.000000      0.000037      0.180000          0.000000     0.033800   80.992000   0.046600   0.344000
+25%     44.000000      0.000821      0.451000          0.000000     0.055800   95.979000   0.298000   0.835000
+50%     47.000000      0.007200      0.516000          0.000000     0.064400  114.945000   0.527000   0.874000
+75%     52.000000      0.054500      0.599000          0.000034     0.096100  136.477000   0.595000   0.939000
+max     75.000000      0.744000      0.719000          0.006850     0.346000  170.147000   0.697000   0.978000

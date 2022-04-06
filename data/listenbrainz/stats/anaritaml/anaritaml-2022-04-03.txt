@@ -1,0 +1,45 @@
+Electronic artists found: Surf Mesa,Emilee, Jubël,NEIMY, Diana Ross, Ella Henderson, Kwabs, Cheryl Lynn
+Electronic genres found: disco, post-disco, deep house, tropical house
+Electronic music logs found: 13.64% 
+
+Top genres
+	1: pop (8.28%)
+	2: soul (4.83%)
+	3: pop rock (4.14%)
+	4: dance pop (3.45%)
+	5: funk (3.45%)
+Top artists
+	1: Powfu (1.89%)
+	2: Surf Mesa (1.89%)
+	3: Justin Bieber (1.89%)
+	4: Harry Styles (1.89%)
+	5: BANNERS (1.89%)
+Top country
+	1: US (61.36%)
+	2: QZ (15.91%)
+	3: GB (13.64%)
+	4: SE (4.55%)
+	5: UK (2.27%)
+Top record
+	1: SM1 (20.45%)
+	2: UM7 (11.36%)
+	3: QX9 (4.55%)
+	4: AT2 (4.55%)
+	5: MO1 (4.55%)
+Top year
+	1: 17 (11.36%)
+	2: 21 (11.36%)
+	3: 14 (9.09%)
+	4: 19 (6.82%)
+	5: 18 (6.82%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   44.000000     44.000000     44.000000         44.000000    44.000000   44.000000  44.000000  44.000000
+mean    73.318182      0.269272      0.654500          0.036577     0.078205  112.600318   0.559205   0.626273
+std     13.665051      0.269436      0.129224          0.138821     0.090730   25.695086   0.238488   0.199204
+min     28.000000      0.002710      0.371000          0.000000     0.026300   74.988000   0.133000   0.172000
+25%     68.750000      0.074075      0.573000          0.000000     0.036850   94.830500   0.346250   0.511000
+50%     76.500000      0.150000      0.666500          0.000000     0.050350  107.454000   0.567000   0.635000
+75%     83.000000      0.387750      0.754750          0.000125     0.074350  124.216500   0.759000   0.809500
+max     92.000000      0.981000      0.851000          0.742000     0.516000  173.585000   0.968000   0.956000

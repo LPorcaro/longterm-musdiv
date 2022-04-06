@@ -1,0 +1,45 @@
+Electronic artists found: HUGEL,Cumbiafrica, Wankelmut,Emma Louise,MK, From Overseas, Sam Feldt,Sigma,Gia Koka, Lights & Motion
+Electronic genres found: ambient guitar, tropical house, electro house, compositional ambient, deep house
+Electronic music logs found: 23.81% 
+
+Top genres
+	1: pop (6.67%)
+	2: tropical house (6.67%)
+	3: background music (4.44%)
+	4: focus (4.44%)
+	5: dance pop (4.44%)
+Top artists
+	1: MK (3.03%)
+	2: Sam Feldt (3.03%)
+	3: Mac Miller (3.03%)
+	4: Pharrell Williams (3.03%)
+	5: Remi Wolf (3.03%)
+Top country
+	1: SE (28.57%)
+	2: US (28.57%)
+	3: GB (14.29%)
+	4: QZ (9.52%)
+	5: TC (9.52%)
+Top record
+	1: 5W3 (14.29%)
+	2: 5Q5 (9.52%)
+	3: UG1 (9.52%)
+	4: AKB (4.76%)
+	5: ADK (4.76%)
+Top year
+	1: 20 (47.62%)
+	2: 19 (19.05%)
+	3: 21 (9.52%)
+	4: 13 (9.52%)
+	5: 22 (4.76%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    62.666667      0.522781      0.538429          0.471014     0.051571  109.543905   0.385800   0.425114
+std     10.570399      0.362911      0.250814          0.461004     0.039059   25.180036   0.321464   0.283724
+min     49.000000      0.000701      0.109000          0.000000     0.030700   64.105000   0.038400   0.041800
+25%     55.000000      0.224000      0.320000          0.000046     0.034700   91.025000   0.082800   0.180000
+50%     59.000000      0.436000      0.632000          0.742000     0.038300  116.524000   0.316000   0.466000
+75%     69.000000      0.890000      0.718000          0.928000     0.043300  127.007000   0.670000   0.649000
+max     86.000000      0.976000      0.888000          0.967000     0.195000  140.031000   0.967000   0.928000

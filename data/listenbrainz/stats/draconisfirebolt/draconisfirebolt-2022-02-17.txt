@@ -1,5 +1,5 @@
 Electronic artists found: Steve Aoki,Louis Tomlinson
-Electronic genres found: tropical house, electro house
+Electronic genres found: electro house, tropical house
 Electronic music logs found: 1.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: post-teen pop (5.13%)
 	5: indie pop (4.62%)
 Top artists
-	1: Conan Gray (2.56%)
-	2: Taylor Swift (2.56%)
-	3: Amy Macdonald (2.56%)
-	4: Peter Hollens (2.56%)
-	5: Olivia Rodrigo (2.56%)
+	1: Phoebe Bridgers (2.56%)
+	2: Harry Styles (2.56%)
+	3: Ariana Grande (2.56%)
+	4: BANNERS (2.56%)
+	5: Ross Lynch (2.56%)
 Top country
 	1: US (73.00%)
 	2: GB (23.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  100.000000    100.000000     100.00000      1.000000e+02   100.000000  100.000000  100.000000  100.000000
-mean    76.580000      0.331904       0.54789      1.806110e-02     0.053756  117.779790    0.396396    0.566940
-std     10.436126      0.324953       0.12868      1.006052e-01     0.067677   28.233677    0.228693    0.212557
+mean    77.060000      0.331904       0.54789      1.806110e-02     0.053756  117.779790    0.396396    0.566940
+std     10.498504      0.324953       0.12868      1.006052e-01     0.067677   28.233677    0.228693    0.212557
 min     38.000000      0.000289       0.21700      0.000000e+00     0.023200   68.534000    0.048800    0.154000
-25%     72.750000      0.023700       0.45600      0.000000e+00     0.031800   95.074750    0.207500    0.377500
-50%     78.000000      0.210000       0.55350      7.300000e-07     0.038200  119.396000    0.390000    0.577500
+25%     73.000000      0.023700       0.45600      0.000000e+00     0.031800   95.074750    0.207500    0.377500
+50%     79.000000      0.210000       0.55350      7.300000e-07     0.038200  119.396000    0.390000    0.577500
 75%     83.000000      0.658000       0.62875      4.022500e-05     0.047800  139.883000    0.569000    0.725000
 max     95.000000      0.947000       0.77700      8.640000e-01     0.519000  182.162000    0.965000    0.932000

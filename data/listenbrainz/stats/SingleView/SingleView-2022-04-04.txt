@@ -1,0 +1,44 @@
+Electronic artists found: Damon Albarn, Thom Yorke, Atoms For Peace, Fugazi, Slint
+Electronic genres found: electronic rock, solo wave, dc hardcore, downtempo, post-hardcore, glitch pop, electronica
+Electronic music logs found: 30.84% 
+
+Top genres
+	1: oxford indie (12.25%)
+	2: alternative rock (8.43%)
+	3: rock (8.23%)
+	4: art rock (7.63%)
+	5: melancholia (7.43%)
+Top artists
+	1: Jamie xx (2.86%)
+	2: Blawan (2.86%)
+	3: The Smile (2.86%)
+	4: Modeselektor (2.86%)
+	5: Slint (2.86%)
+Top country
+	1: GB (64.49%)
+	2: US (19.63%)
+	3: TC (13.08%)
+	4: IT (2.80%)
+Top record
+	1: 4YG (25.23%)
+	2: U4B (17.76%)
+	3: AYE (15.89%)
+	4: ACN (11.21%)
+	5: RE1 (9.35%)
+Top year
+	1: 18 (23.36%)
+	2: 11 (17.76%)
+	3: 03 (15.89%)
+	4: 97 (12.15%)
+	5: 16 (11.21%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  107.000000    107.000000    107.000000        107.000000   107.000000  107.000000  107.000000  107.000000
+mean    44.971963      0.342802      0.415908          0.363977     0.117559  116.774299    0.287217    0.590492
+std     13.975354      0.375931      0.187507          0.393290     0.130864   35.624702    0.231695    0.284445
+min     25.000000      0.000121      0.088300          0.000000     0.025800   62.489000    0.027100    0.052500
+25%     33.000000      0.026600      0.253000          0.000005     0.034800   85.807500    0.083100    0.329500
+50%     42.000000      0.129000      0.410000          0.098100     0.050600  113.826000    0.221000    0.595000
+75%     55.000000      0.791000      0.545000          0.796000     0.165000  136.931500    0.428000    0.875000
+max     81.000000      0.995000      0.832000          0.986000     0.757000  196.107000    0.875000    0.996000

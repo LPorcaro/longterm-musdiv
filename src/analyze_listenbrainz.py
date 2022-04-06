@@ -112,7 +112,7 @@ def write_stats(df, outfile):
         for c, el in enumerate(Counter(isrc_year_list).most_common(5)):
             row = "\t{}: {} ({:.2f}%)\n".format(
                 c+1, el[0], el[1]*100/len(isrc_year_list))
-            file.write()
+            file.write(row)
 
         file.write("\nFeature statistics\n")
         file.write(df.describe().to_string())
@@ -127,7 +127,7 @@ def analyze_user_temporal(username, temporal_feat):
         D_mean, D_std, I_mean, I_std, T_mean, T_std) = temporal_feat
 
     fig, ax = plt.subplots(3, 2, sharex=True)
-    fmt = '--'
+    fmt = 'none'
     n = len(Day)
     r = np.arange(n)
     width = 0.25

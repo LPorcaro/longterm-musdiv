@@ -1,5 +1,5 @@
-Electronic artists found: Jonas Blue,Liam Payne,Lennon Stella, Zedd,Maren Morris,Grey, Marshmello,Demi Lovato, Marshmello,Bastille, Anne-Marie, Years & Years
-Electronic genres found: tropical house, brostep, electro house, german techno, complextro
+Electronic artists found: Anne-Marie, Jonas Blue,Liam Payne,Lennon Stella, Years & Years, Marshmello,Demi Lovato, Zedd,Maren Morris,Grey, Marshmello,Bastille
+Electronic genres found: tropical house, electro house, german techno, brostep, complextro
 Electronic music logs found: 8.45% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: electropop (4.36%)
 	5: pop rock (4.00%)
 Top artists
-	1: Sara Bareilles (1.82%)
-	2: Taylor Swift (1.82%)
-	3: Lizzo (1.82%)
-	4: Zedd (1.82%)
-	5: Panic! At The Disco (1.82%)
+	1: Miley Cyrus (1.82%)
+	2: Sofia Carson (1.82%)
+	3: Harry Styles (1.82%)
+	4: Ariana Grande (1.82%)
+	5: Liam Payne (1.82%)
 Top country
 	1: US (73.24%)
 	2: GB (16.90%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   71.000000     71.000000     71.000000         71.000000    71.000000   71.000000  71.000000  71.000000
-mean    77.929577      0.104033      0.645535          0.002174     0.085470  122.610282   0.585211   0.748127
-std      7.422599      0.146672      0.118751          0.015667     0.070719   27.256690   0.208159   0.141134
+mean    78.000000      0.104033      0.645535          0.002174     0.085470  122.610282   0.585211   0.748127
+std      7.446955      0.146672      0.118751          0.015667     0.070719   27.256690   0.208159   0.141134
 min     57.000000      0.000569      0.284000          0.000000     0.026000   79.052000   0.100000   0.317000
 25%     73.000000      0.007010      0.596500          0.000000     0.041850  102.571500   0.441000   0.668000
 50%     79.000000      0.038400      0.652000          0.000000     0.057100  119.930000   0.618000   0.786000

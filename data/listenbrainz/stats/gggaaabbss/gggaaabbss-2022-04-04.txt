@@ -1,0 +1,45 @@
+Electronic artists found: Duke Dumont,Jax Jones, Galantis,David Guetta,Little Mix, Joel Corry,RAYE,David Guetta, Alesso,Katy Perry, Jubël,NEIMY, Marshmello,Demi Lovato, Martin Garrix,Bonn
+Electronic genres found: tropical house, electro house, progressive house, destroy techno, brostep, deep house
+Electronic music logs found: 22.22% 
+
+Top genres
+	1: pop (23.93%)
+	2: dance pop (17.09%)
+	3: pop dance (6.84%)
+	4: edm (5.98%)
+	5: tropical house (5.98%)
+Top artists
+	1: Doja Cat (2.38%)
+	2: Harry Styles (2.38%)
+	3: Justin Bieber (2.38%)
+	4: Seeb (2.38%)
+	5: Maroon 5 (2.38%)
+Top country
+	1: US (75.00%)
+	2: GB (11.11%)
+	3: UK (5.56%)
+	4: SG (2.78%)
+	5: PT (2.78%)
+Top record
+	1: UG1 (22.22%)
+	2: UM7 (19.44%)
+	3: AT2 (16.67%)
+	4: RC1 (11.11%)
+	5: SM1 (5.56%)
+Top year
+	1: 21 (44.44%)
+	2: 20 (16.67%)
+	3: 18 (8.33%)
+	4: 19 (5.56%)
+	5: 10 (5.56%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   36.000000     36.000000     36.000000         36.000000    36.000000   36.000000  36.000000  36.000000
+mean    80.083333      0.155855      0.626833          0.000367     0.074597  124.750611   0.511833   0.708306
+std     11.007465      0.210533      0.132185          0.001416     0.064868   28.073560   0.198171   0.162584
+min     51.000000      0.000168      0.314000          0.000000     0.028600   67.526000   0.137000   0.190000
+25%     75.000000      0.018025      0.557750          0.000000     0.034875  107.253000   0.378500   0.611250
+50%     81.000000      0.084250      0.658500          0.000000     0.058850  122.558500   0.493000   0.751000
+75%     89.000000      0.198000      0.700750          0.000003     0.080075  140.970250   0.638250   0.824500
+max     97.000000      0.940000      0.894000          0.007840     0.314000  192.205000   0.881000   0.936000

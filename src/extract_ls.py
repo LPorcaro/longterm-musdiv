@@ -8,6 +8,7 @@ import zipfile
 LS_FOLDER = "/home/lorenzoporcaro/Downloads/longterm/LS"
 LS_OUT = "../data/ls"
 
+
 if __name__ == "__main__":
     
     for infile in os.listdir(LS_FOLDER):
