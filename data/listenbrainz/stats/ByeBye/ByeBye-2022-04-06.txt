@@ -1,0 +1,39 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: rebel blues (27.27%)
+	2: modern alternative rock (18.18%)
+	3: modern rock (18.18%)
+	4: rock (18.18%)
+	5: dance pop (9.09%)
+Top artists
+	1: Thomas Collins (12.50%)
+	2: The Score (12.50%)
+	3: Justin Timberlake (12.50%)
+	4: Oh The Larceny (12.50%)
+	5: Timbaland (12.50%)
+Top country
+	1: US (83.33%)
+	2: GB (16.67%)
+Top record
+	1: 43C (33.33%)
+	2: UM7 (33.33%)
+	3: WB1 (16.67%)
+	4: BPP (16.67%)
+Top year
+	1: 16 (66.67%)
+	2: 09 (16.67%)
+	3: 18 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    67.000000      0.087898      0.607667          0.029830     0.054850  115.550667  0.662000  0.843500
+std     16.468151      0.129475      0.106295          0.043592     0.009077   31.515232  0.066408  0.058226
+min     34.000000      0.001290      0.485000          0.000000     0.046500   78.001000  0.602000  0.781000
+25%     70.000000      0.002185      0.515000          0.000010     0.046700   86.758000  0.612000  0.796500
+50%     72.000000      0.007405      0.632000          0.003485     0.054350  122.547000  0.642000  0.843000
+75%     76.250000      0.193735      0.659000          0.066240     0.062000  142.594250  0.698250  0.872250
+max     77.000000      0.255000      0.753000          0.086000     0.065200  146.104000  0.767000  0.931000

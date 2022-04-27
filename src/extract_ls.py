@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import zipfile
 
-LS_FOLDER = "/home/lorenzoporcaro/Downloads/longterm/LS"
+LS_FOLDER = "/home/lorenzo/Downloads/longterm/psytoolkit/LS"
 LS_OUT = "../data/ls"
 
 

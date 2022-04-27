@@ -1,19 +1,19 @@
-Electronic artists found: Jubël,NEIMY, DJ Snake,Ozuna,Megan Thee Stallion,LISA
-Electronic genres found: electronic trap, deep house, tropical house
+Electronic artists found: DJ Snake,Ozuna,Megan Thee Stallion,LISA, Jubël,NEIMY
+Electronic genres found: electronic trap, tropical house, deep house
 Electronic music logs found: 6.90% 
 
 Top genres
-	1: pop (18.37%)
-	2: dance pop (18.37%)
-	3: pop rap (9.18%)
-	4: post-teen pop (6.12%)
-	5: rap (4.08%)
+	1: pop (18.18%)
+	2: dance pop (18.18%)
+	3: pop rap (9.09%)
+	4: post-teen pop (6.06%)
+	5: rap (4.04%)
 Top artists
 	1: Doja Cat (3.03%)
-	2: DJ Snake (3.03%)
-	3: Ariana Grande (3.03%)
-	4: The Kid LAROI (3.03%)
-	5: Måneskin (3.03%)
+	2: Britney Spears (3.03%)
+	3: J Balvin (3.03%)
+	4: LISA (3.03%)
+	5: Bea Miller (3.03%)
 Top country
 	1: US (72.41%)
 	2: QM (10.34%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
-mean    79.758621      0.064213      0.714759          0.001361     0.115076  123.646724   0.541731   0.728483
-std      8.749103      0.075658      0.139849          0.004857     0.103169   22.648426   0.216316   0.126870
+mean    79.344828      0.064213      0.714759          0.001361     0.115076  123.646724   0.541731   0.728483
+std      8.591008      0.075658      0.139849          0.004857     0.103169   22.648426   0.216316   0.126870
 min     56.000000      0.000170      0.424000          0.000000     0.032900   89.990000   0.095200   0.454000
 25%     74.000000      0.010700      0.646000          0.000000     0.049100  109.056000   0.357000   0.643000
 50%     80.000000      0.031900      0.731000          0.000000     0.064400  123.977000   0.573000   0.733000
-75%     86.000000      0.099000      0.814000          0.000000     0.129000  134.002000   0.677000   0.837000
+75%     84.000000      0.099000      0.814000          0.000000     0.129000  134.002000   0.677000   0.837000
 max     93.000000      0.270000      0.935000          0.025000     0.375000  170.058000   0.924000   0.937000

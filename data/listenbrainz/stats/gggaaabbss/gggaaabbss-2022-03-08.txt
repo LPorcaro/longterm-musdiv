@@ -1,19 +1,19 @@
-Electronic artists found: Duke Dumont,Jax Jones, Cascada, Kygo,Zara Larsson,Tyga, Galantis, Rudimental,James Arthur, Anne-Marie,Little Mix
-Electronic genres found: eurodance, tropical house, melbourne bounce international, electro house, german techno, progressive house, uk funky, destroy techno
+Electronic artists found: Cascada, Rudimental,James Arthur, Galantis, Kygo,Zara Larsson,Tyga, Duke Dumont,Jax Jones, Anne-Marie,Little Mix
+Electronic genres found: german techno, electro house, progressive house, destroy techno, melbourne bounce international, tropical house, eurodance, uk funky
 Electronic music logs found: 9.84% 
 
 Top genres
-	1: pop (21.24%)
-	2: dance pop (16.58%)
-	3: post-teen pop (6.22%)
-	4: electropop (4.66%)
-	5: uk pop (4.15%)
+	1: pop (21.13%)
+	2: dance pop (16.49%)
+	3: post-teen pop (6.19%)
+	4: electropop (4.64%)
+	5: uk pop (4.12%)
 Top artists
-	1: Nicki Minaj (1.64%)
-	2: Saweetie (1.64%)
-	3: Kygo (1.64%)
-	4: Doja Cat (1.64%)
-	5: Jamelia (1.64%)
+	1: Polo G (1.64%)
+	2: Galantis (1.64%)
+	3: Nicki Minaj (1.64%)
+	4: Micky Skeel (1.64%)
+	5: Pixie Lott (1.64%)
 Top country
 	1: US (59.02%)
 	2: GB (27.87%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   61.000000     61.000000     61.000000         61.000000    61.000000   61.000000  61.000000  61.000000
-mean    73.196721      0.127196      0.665754          0.009544     0.106805  124.663787   0.524790   0.672934
-std     15.051932      0.168048      0.130179          0.051773     0.089896   29.922166   0.217443   0.147808
+mean    72.590164      0.127196      0.665754          0.009544     0.106805  124.663787   0.524790   0.672934
+std     14.862006      0.168048      0.130179          0.051773     0.089896   29.922166   0.217443   0.147808
 min     27.000000      0.000070      0.262000          0.000000     0.029900   67.526000   0.059200   0.267000
-25%     65.000000      0.010300      0.617000          0.000000     0.043300  103.948000   0.382000   0.584000
+25%     63.000000      0.010300      0.617000          0.000000     0.043300  103.948000   0.382000   0.584000
 50%     76.000000      0.051300      0.690000          0.000000     0.069400  120.837000   0.484000   0.690000
 75%     83.000000      0.178000      0.757000          0.000060     0.132000  144.888000   0.699000   0.781000
-max    100.000000      0.839000      0.957000          0.344000     0.341000  189.857000   0.912000   0.951000
+max     97.000000      0.839000      0.957000          0.344000     0.341000  189.857000   0.912000   0.951000

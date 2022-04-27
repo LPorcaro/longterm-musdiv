@@ -1,5 +1,5 @@
 Electronic artists found: James Hersey,filous, Bang Gang
-Electronic genres found: trip hop, tropical house
+Electronic genres found: tropical house, trip hop
 Electronic music logs found: 5.41% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: dance pop (4.17%)
 	5: lo-fi beats (4.17%)
 Top artists
-	1: Anna of the North (2.22%)
-	2: KLIM (2.22%)
-	3: TiMT (2.22%)
-	4: James Hersey (2.22%)
-	5: Sarcastic Sounds (2.22%)
+	1: KLIM (2.22%)
+	2: Jeremy Zucker (2.22%)
+	3: Drxnk (2.22%)
+	4: Anna of the North (2.22%)
+	5: No. 18 (2.22%)
 Top country
 	1: US (35.14%)
 	2: QM (16.22%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   37.000000     37.000000     37.000000         37.000000    37.000000   37.000000  37.000000  37.000000
-mean    57.648649      0.533097      0.647811          0.364729     0.078362  104.038676   0.454622   0.413081
-std     10.031108      0.315430      0.156623          0.418302     0.080843   28.611490   0.221736   0.188832
+mean    57.594595      0.533097      0.647811          0.364729     0.078362  104.038676   0.454622   0.413081
+std     10.040085      0.315430      0.156623          0.418302     0.080843   28.611490   0.221736   0.188832
 min     40.000000      0.016500      0.212000          0.000000     0.026400   72.500000   0.159000   0.104000
 25%     51.000000      0.204000      0.549000          0.000026     0.039000   81.080000   0.278000   0.275000
 50%     55.000000      0.545000      0.650000          0.015500     0.049000   92.165000   0.398000   0.377000

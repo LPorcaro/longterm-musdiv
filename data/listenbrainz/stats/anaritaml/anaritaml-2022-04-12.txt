@@ -1,0 +1,45 @@
+Electronic artists found: Calvin Harris,Tom Grennan, Sam Feldt,Rita Ora, Swedish House Mafia,The Weeknd, Anna Lunoe, Afrojack,David Guetta, Galantis,JVKE, MEDUZA,Dermot Kennedy, DJ Snake,Rick Ross,Rich Brian, Swedish House Mafia,Ty Dolla $ign,070 Shake, Alison Wonderland,Valentino Khan
+Electronic genres found: electronic trap, progressive electro house, bass house, electro house, progressive house, dutch house, nu disco, tropical house
+Electronic music logs found: 27.78% 
+
+Top genres
+	1: pop (12.41%)
+	2: edm (6.21%)
+	3: pop dance (5.52%)
+	4: dance pop (5.52%)
+	5: electro house (4.83%)
+Top artists
+	1: The Jungle Giants (2.04%)
+	2: Benny Sings (2.04%)
+	3: Dermot Kennedy (2.04%)
+	4: Galantis (2.04%)
+	5: Surfaces (2.04%)
+Top country
+	1: US (52.78%)
+	2: GB (19.44%)
+	3: QZ (8.33%)
+	4: AU (5.56%)
+	5: QM (5.56%)
+Top record
+	1: AT2 (11.11%)
+	2: UG1 (11.11%)
+	3: KPL (8.33%)
+	4: QX9 (8.33%)
+	5: UM7 (8.33%)
+Top year
+	1: 21 (44.44%)
+	2: 20 (36.11%)
+	3: 19 (5.56%)
+	4: 13 (2.78%)
+	5: 06 (2.78%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   36.000000     36.000000     36.000000         36.000000    36.000000   36.000000  36.000000  36.000000
+mean    67.194444      0.169145      0.700944          0.064499     0.067308  124.478639   0.573250   0.689278
+std     11.720116      0.219706      0.141673          0.213802     0.059129   21.393555   0.246417   0.146225
+min     49.000000      0.000576      0.211000          0.000000     0.029500   93.993000   0.109000   0.393000
+25%     57.750000      0.020925      0.628750          0.000000     0.035600  113.034250   0.432000   0.592000
+50%     65.000000      0.075950      0.723000          0.000001     0.046850  120.957000   0.639000   0.712000
+75%     78.000000      0.214750      0.782250          0.001061     0.059975  127.252500   0.784500   0.764500
+max     91.000000      0.867000      0.938000          0.876000     0.261000  183.977000   0.967000   0.994000

@@ -1,5 +1,5 @@
-Electronic artists found: Lost Frequencies,Calum Scott, Tiësto,Ava Max, Jax Jones,MNEK, Kygo,DNCE, Tiësto,KAROL G, Gabry Ponte,LUM!X,Prezioso, Joel Corry,Jax Jones,Charli XCX,Saweetie
-Electronic genres found: eurodance, tropical house, electro house, italo dance, slap house, brostep
+Electronic artists found: Kygo,DNCE, Gabry Ponte,LUM!X,Prezioso, Joel Corry,Jax Jones,Charli XCX,Saweetie, Jax Jones,MNEK, Lost Frequencies,Calum Scott, Tiësto,KAROL G, Tiësto,Ava Max
+Electronic genres found: italo dance, brostep, electro house, slap house, tropical house, eurodance
 Electronic music logs found: 46.67% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop dance (8.22%)
 	5: tropical house (8.22%)
 Top artists
-	1: Saweetie (3.85%)
-	2: LUM!X (3.85%)
-	3: Kygo (3.85%)
+	1: Joel Corry (3.85%)
+	2: Calum Scott (3.85%)
+	3: Camila Cabello (3.85%)
 	4: DNCE (3.85%)
-	5: Camila Cabello (3.85%)
+	5: Saweetie (3.85%)
 Top country
 	1: US (46.67%)
 	2: CY (13.33%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   15.000000     15.000000      15.00000         15.000000    15.000000   15.000000  15.000000  15.000000
-mean    85.866667      0.123263       0.70820          0.000529     0.071727  116.347600   0.565600   0.759267
-std      7.781541      0.140745       0.09524          0.001923     0.051933   19.964105   0.216633   0.084572
-min     71.000000      0.000745       0.52200          0.000000     0.031800   94.979000   0.213000   0.628000
-25%     83.500000      0.025350       0.65950          0.000000     0.041800  103.097000   0.433500   0.704500
+mean    85.466667      0.123263       0.70820          0.000529     0.071727  116.347600   0.565600   0.759267
+std      8.025554      0.140745       0.09524          0.001923     0.051933   19.964105   0.216633   0.084572
+min     69.000000      0.000745       0.52200          0.000000     0.031800   94.979000   0.213000   0.628000
+25%     82.500000      0.025350       0.65950          0.000000     0.041800  103.097000   0.433500   0.704500
 50%     88.000000      0.045200       0.75400          0.000000     0.047800  117.953000   0.523000   0.763000
-75%     90.500000      0.182000       0.77150          0.000015     0.082300  122.487500   0.736500   0.792000
+75%     90.000000      0.182000       0.77150          0.000015     0.082300  122.487500   0.736500   0.792000
 max     96.000000      0.515000       0.81400          0.007470     0.221000  176.105000   0.956000   0.922000

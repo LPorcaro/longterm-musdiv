@@ -1,5 +1,5 @@
-Electronic artists found: James Carter, Surf Mesa,Emilee
-Electronic genres found: deep house, tropical house
+Electronic artists found: Surf Mesa,Emilee, James Carter
+Electronic genres found: deep tropical house, tropical house, deep house
 Electronic music logs found: 10.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: tropical house (5.00%)
 	5: alt z (5.00%)
 Top artists
-	1: Surf Mesa (3.70%)
-	2: Vandelux (3.70%)
-	3: James Carter (3.70%)
-	4: Alex Maher (3.70%)
-	5: Julia Michaels (3.70%)
+	1: Jeremy Zucker (3.70%)
+	2: Eloi El (3.70%)
+	3: Jane Good (3.70%)
+	4: Samuel Miller (3.70%)
+	5: Blake Rose (3.70%)
 Top country
 	1: QZ (15.00%)
 	2: US (15.00%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence    energy
 count   20.000000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.00000
-mean    62.500000      0.274028      0.681650          0.091889     0.095485  110.537300   0.441610   0.56845
-std     13.732405      0.248386      0.116834          0.216979     0.098289   17.927627   0.194961   0.15009
+mean    62.400000      0.274028      0.681650          0.091889     0.095485  110.537300   0.441610   0.56845
+std     13.612688      0.248386      0.116834          0.216979     0.098289   17.927627   0.194961   0.15009
 min     39.000000      0.004220      0.384000          0.000000     0.024600   68.936000   0.052200   0.31300
 25%     52.500000      0.089675      0.641250          0.000015     0.042775  105.739750   0.257500   0.47000
 50%     65.500000      0.189000      0.675000          0.000923     0.049850  112.007500   0.475500   0.54000

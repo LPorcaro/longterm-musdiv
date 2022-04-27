@@ -1,0 +1,44 @@
+Electronic artists found: Sigala,James Arthur, Anne-Marie,Little Mix, Alesso,Katy Perry
+Electronic genres found: tropical house, electro house
+Electronic music logs found: 5.36% 
+
+Top genres
+	1: pop (26.67%)
+	2: dance pop (10.67%)
+	3: alt z (7.33%)
+	4: electropop (4.67%)
+	5: pop rock (4.00%)
+Top artists
+	1: Sara Madeira (1.72%)
+	2: Rihanna (1.72%)
+	3: Polo G (1.72%)
+	4: Alexandre Carvalho (1.72%)
+	5: Alec Benjamin (1.72%)
+Top country
+	1: US (75.00%)
+	2: GB (19.64%)
+	3: QZ (3.57%)
+	4: NL (1.79%)
+Top record
+	1: UM7 (26.79%)
+	2: SM1 (12.50%)
+	3: WD1 (10.71%)
+	4: AT2 (8.93%)
+	5: UG1 (7.14%)
+Top year
+	1: 21 (48.21%)
+	2: 20 (12.50%)
+	3: 19 (8.93%)
+	4: 18 (8.93%)
+	5: 22 (5.36%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   56.000000     56.000000     56.000000         56.000000    56.000000   56.000000  56.000000  56.000000
+mean    77.732143      0.261719      0.599964          0.004600     0.088409  126.222196   0.455607   0.610589
+std     16.503984      0.253770      0.138021          0.029480     0.079416   35.073553   0.255481   0.163395
+min     28.000000      0.000341      0.334000          0.000000     0.026900   75.171000   0.059200   0.267000
+25%     73.750000      0.038000      0.488000          0.000000     0.037025   94.480750   0.220500   0.519250
+50%     82.000000      0.203500      0.603500          0.000000     0.048100  122.330000   0.446000   0.612000
+75%     87.250000      0.451500      0.707750          0.000018     0.126250  150.168500   0.653750   0.699250
+max    100.000000      0.877000      0.883000          0.219000     0.311000  205.593000   0.956000   0.975000

@@ -21,32 +21,39 @@ end = datetime.strptime("20220216", "%Y%m%d")
 NOT_EM_GENRE = ['permanent wave']
 
 
-def search_em_genres(df):
+def search_EM_genres(df):
     """
     """
-    EM_genres = []
+    EM_wiki_genres = []
     with open(WIKI_GENRES) as inf:
         _reader = csv.reader(inf)
         for row in _reader:
-            EM_genres.append(row[0].lower())
-    EM_genres.append("electronic")
+            EM_wiki_genres.append(row[0].lower())
+    EM_wiki_genres.append("electronic")
 
-    genres_list = [x.split(",") for x in df.genres.values
-                   if pd.isnull(x) is False and x != 'Empty']
-    genres_list = [y for l in genres_list for y in l]
-
-    genres_found = []
-    for genre in EM_genres:
-        if genre in genres_list:
-            genres_found.append(genre)
+    genres_all = []
+    genres_EM = []
+    for genre in df.genres.values:
+        if pd.isnull(genre):
+            continue
+        elif genre == 'Empty':
+            continue
         else:
-            stringmatch = [x for x in genres_list if genre in x]
-            if stringmatch:
-                genres_found += stringmatch
+            genres = genre.split(',')
+            genres_all.extend(genres)
+            g_EM_found = [x for x in genres if x in EM_wiki_genres]
+            genres_EM.extend(g_EM_found)
+            # String Match
+            for g in genres:
+                if g in g_EM_found:
+                    continue
+                for x in EM_wiki_genres:
+                    if x in g:
+                        genres_EM.append(g)
 
-    genres_found = [x for x in genres_found if x not in NOT_EM_GENRE]
+    genres_EM = [x for x in genres_EM if x not in NOT_EM_GENRE]
 
-    return genres_found, genres_list
+    return genres_EM, genres_all
 
 
 def write_stats(df, outfile):
@@ -57,7 +64,7 @@ def write_stats(df, outfile):
         file.close()
     else:
         df.genres.fillna('Empty', inplace=True)
-        genres_found, genres_list = search_em_genres(df)
+        genres_found, genres_list = search_EM_genres(df)
 
         if genres_found:
             track_found = df[df.genres.str.contains(

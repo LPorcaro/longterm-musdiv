@@ -1,0 +1,45 @@
+Electronic artists found: Regard,Troye Sivan,Tate McRae, Tom Grennan, Patrice Rushen, Marshmello,Jonas Brothers
+Electronic genres found: brostep, electro house, disco, slap house, post-disco, progressive electro house, tropical house
+Electronic music logs found: 15.15% 
+
+Top genres
+	1: pop (18.56%)
+	2: dance pop (9.28%)
+	3: electropop (4.12%)
+	4: alternative r&b (3.09%)
+	5: chill r&b (3.09%)
+Top artists
+	1: Jay Som (2.63%)
+	2: Captain Sensible (2.63%)
+	3: Doja Cat (2.63%)
+	4: Lil Nas X (2.63%)
+	5: Cherish (2.63%)
+Top country
+	1: US (54.55%)
+	2: GB (21.21%)
+	3: QZ (9.09%)
+	4: QM (6.06%)
+	5: ZZ (3.03%)
+Top record
+	1: UM7 (18.18%)
+	2: RC1 (12.12%)
+	3: UG1 (12.12%)
+	4: AT2 (9.09%)
+	5: FZ2 (3.03%)
+Top year
+	1: 21 (45.45%)
+	2: 20 (27.27%)
+	3: 19 (12.12%)
+	4: 01 (3.03%)
+	5: 16 (3.03%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   33.000000     33.000000     33.000000         33.000000    33.000000   33.000000  33.000000  33.000000
+mean    69.666667      0.207625      0.697394          0.034717     0.065685  118.151364   0.593727   0.640364
+std     17.209494      0.256315      0.101731          0.162086     0.045985   25.168807   0.185024   0.144525
+min     31.000000      0.002260      0.409000          0.000000     0.024300   74.474000   0.159000   0.329000
+25%     55.000000      0.020900      0.676000          0.000000     0.036400  103.116000   0.512000   0.525000
+50%     72.000000      0.083300      0.703000          0.000001     0.052200  114.044000   0.623000   0.686000
+75%     87.000000      0.282000      0.746000          0.000015     0.078700  124.988000   0.728000   0.738000
+max     95.000000      0.955000      0.918000          0.930000     0.220000  180.386000   0.962000   0.858000

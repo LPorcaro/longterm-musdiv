@@ -1,19 +1,19 @@
-Electronic artists found: Travis Scott,HVME, Lost Frequencies,Calum Scott, Alok,Steve Aoki,Lars Martin, Tujamo, Diplo,TSHA,Kareen Lomax, Timmy Trumpet,Blinkie,Bright Sparks, Robbie Rivera,David Tort,Lyon Monster, Alan Walker,Imanbek, Alok,Alan Walker,KIDDO, Alesso,Katy Perry, Alok, The Knocks,Totally Enormous Extinct Dinosaurs, Joel Corry,David Guetta,Bryson Tiller, Alok,John Legend,Joel Corry, Tinlicker,Helsloot, Tiësto,Ava Max, Kygo,DNCE, Tiësto,KAROL G, Alex Gaudino,Crystal Waters, Felix Jaehn,The Stickmen Project,Calum Scott, John Summit, ATB,Topic,A7S, MEDUZA,Hozier, Dimitri Vegas & Like Mike,Timmy Trumpet,Edward Maya, Jonas Blue,Why Don't We, Gabry Ponte,R3HAB,Timmy Trumpet, Regard,Years & Years, Martin Jensen,Cheat Codes,Theresa Rex, Martin Garrix,Zedd, Alok,ALOTT,APOPHIS, Joel Corry,Jax Jones,Charli XCX,Saweetie, KSHMR,DIVINE,LIT killah,Jeremy Oceans,Karra, Purple Disco Machine,Eyelar, Louis The Child,Aluna, Swedish House Mafia,The Weeknd, Diplo,Miguel, Regard, Alok,John Martin, SAINt JHN,Imanbek, Gabry Ponte,LUM!X,Prezioso, Armin van Buuren,The Stickmen Project, Becky Hill,Galantis, Aaron Smith,Krono,Luvli, Chris Lorenzo,Vintage Culture,High Jinx, Dubdogz,JØRD,Jasmine Pace
-Electronic genres found: chicago house, brazilian bass, funky house, slap house, progressive house, danish electronic, nu disco, eurodance, bass house, electro house, brostep, tech house, tropical house, tribal house, moombahton, deep house, melbourne bounce, disco house, italo dance, german techno
+Electronic artists found: Alesso,Katy Perry, Gabry Ponte,LUM!X,Prezioso, Jonas Blue,Why Don't We, Martin Jensen,Cheat Codes,Theresa Rex, Martin Garrix,Zedd, Joel Corry,Jax Jones,Charli XCX,Saweetie, Joel Corry,David Guetta,Bryson Tiller, Alok,John Legend,Joel Corry, Alok,Steve Aoki,Lars Martin, Alok,Alan Walker,KIDDO, Felix Jaehn,The Stickmen Project,Calum Scott, Louis The Child,Aluna, Kygo,DNCE, Chris Lorenzo,Vintage Culture,High Jinx, John Summit, Travis Scott,HVME, Alok,John Martin, MEDUZA,Hozier, Gabry Ponte,R3HAB,Timmy Trumpet, Swedish House Mafia,The Weeknd, Regard,Years & Years, Dimitri Vegas & Like Mike,Timmy Trumpet,Edward Maya, Diplo,TSHA,Kareen Lomax, Alok, Tiësto,KAROL G, Tinlicker,Helsloot, Tujamo, ATB,Topic,A7S, Timmy Trumpet,Blinkie,Bright Sparks, KSHMR,DIVINE,LIT killah,Jeremy Oceans,Karra, Becky Hill,Galantis, Diplo,Miguel, Alex Gaudino,Crystal Waters, Regard, The Knocks,Totally Enormous Extinct Dinosaurs, Robbie Rivera,David Tort,Lyon Monster, SAINt JHN,Imanbek, Purple Disco Machine,Eyelar, Dubdogz,JØRD,Jasmine Pace, Aaron Smith,Krono,Luvli, Alan Walker,Imanbek, Lost Frequencies,Calum Scott, Armin van Buuren,The Stickmen Project, Alok,ALOTT,APOPHIS, Tiësto,Ava Max
+Electronic genres found: chicago house, melbourne bounce, progressive electro house, tropical house, danish electronic, disco house, slap house, funky house, italo dance, brostep, deep house, bass house, tribal house, nu disco, melbourne bounce international, funky tech house, tech house, eurodance, moombahton, german techno, brazilian bass, electro house, progressive house
 Electronic music logs found: 60.00% 
 
 Top genres
-	1: edm (9.97%)
-	2: pop dance (9.30%)
-	3: tropical house (7.64%)
-	4: electro house (7.31%)
-	5: pop (7.31%)
+	1: edm (9.93%)
+	2: pop dance (9.27%)
+	3: tropical house (7.62%)
+	4: electro house (7.28%)
+	5: pop (7.28%)
 Top artists
-	1: TSHA (0.72%)
-	2: ATB (0.72%)
-	3: Karra (0.72%)
-	4: Travis Scott (0.72%)
-	5: Alex Gaudino (0.72%)
+	1: Joel Corry (0.72%)
+	2: KSHMR (0.72%)
+	3: Jonas Blue (0.72%)
+	4: Nina Vlu (0.72%)
+	5: Dimitri Vegas & Like Mike (0.72%)
 Top country
 	1: US (18.67%)
 	2: GB (16.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   75.000000     75.000000     75.000000         75.000000    75.000000   75.000000  75.000000  75.000000
-mean    71.186667      0.104843      0.718640          0.121379     0.072907  122.190360   0.483337   0.790893
-std     14.024779      0.151383      0.104746          0.242788     0.061098    8.544311   0.216581   0.111506
+mean    71.200000      0.104843      0.718640          0.121379     0.072907  122.190360   0.483337   0.790893
+std     14.035669      0.151383      0.104746          0.242788     0.061098    8.544311   0.216581   0.111506
 min     35.000000      0.000223      0.320000          0.000000     0.027300   95.063000   0.032000   0.435000
 25%     63.000000      0.013400      0.660500          0.000005     0.040150  120.065500   0.334500   0.740500
 50%     71.000000      0.034200      0.727000          0.000814     0.049700  123.985000   0.478000   0.797000
-75%     82.500000      0.135500      0.785000          0.058350     0.081650  125.973000   0.657000   0.874500
+75%     83.000000      0.135500      0.785000          0.058350     0.081650  125.973000   0.657000   0.874500
 max     96.000000      0.691000      0.957000          0.903000     0.389000  165.492000   0.942000   0.989000

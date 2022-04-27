@@ -9,7 +9,7 @@ ATT_DIR = "../data/attitudes/"
 
 if __name__ == "__main__":
 
-    att_round = "03"
+    att_round = "04"
 
     ATT_DIR = os.path.join(ATT_DIR, att_round)
     infile = os.path.join(ATT_DIR, 'all.csv')

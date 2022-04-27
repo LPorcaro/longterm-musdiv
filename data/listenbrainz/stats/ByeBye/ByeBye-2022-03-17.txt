@@ -1,5 +1,5 @@
 Electronic artists found: Diplo,Lil Xan, PEDRO SAMPAIO,Mc Pedrinho
-Electronic genres found: moombahton, electro house, funk carioca, tropical house
+Electronic genres found: moombahton, tropical house, electro house, funk carioca
 Electronic music logs found: 9.52% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: trap tuga (3.77%)
 	5: hip hop (3.77%)
 Top artists
-	1: ArtBySeven (4.00%)
-	2: Armandinho (4.00%)
-	3: Slow J (4.00%)
-	4: Merkules (4.00%)
-	5: Doobie (4.00%)
+	1: Gabriel Froede (4.00%)
+	2: Bingx (4.00%)
+	3: Jake Paul (4.00%)
+	4: Fame on Fire (4.00%)
+	5: Dino d'Santiago (4.00%)
 Top country
 	1: PT (23.81%)
 	2: QM (19.05%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
-mean    51.000000      0.228301      0.679857          0.045162     0.115700  108.421333   0.482143   0.634143
-std     18.286607      0.249329      0.152724          0.113985     0.123434   23.455675   0.235438   0.165938
+mean    50.904762      0.228301      0.679857          0.045162     0.115700  108.421333   0.482143   0.634143
+std     18.283612      0.249329      0.152724          0.113985     0.123434   23.455675   0.235438   0.165938
 min     23.000000      0.000101      0.427000          0.000000     0.030100   73.897000   0.163000   0.356000
 25%     37.000000      0.022500      0.534000          0.000000     0.045000   87.023000   0.268000   0.528000
 50%     47.000000      0.130000      0.715000          0.000022     0.078800  109.967000   0.442000   0.623000

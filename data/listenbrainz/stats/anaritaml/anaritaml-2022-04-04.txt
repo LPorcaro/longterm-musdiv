@@ -1,5 +1,5 @@
-Electronic artists found: Calvin Harris,Rihanna, Kygo,Justin Jesso, Tom Gregory
-Electronic genres found: progressive house, electro house, tropical house
+Electronic artists found: Kygo,Justin Jesso, Calvin Harris,Rihanna, Tom Gregory
+Electronic genres found: tropical house, electro house, progressive house
 Electronic music logs found: 7.89% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: rap (4.12%)
 	5: modern rock (4.12%)
 Top artists
-	1: Pink Sweat$ (1.89%)
-	2: Kygo (1.89%)
-	3: Royel Otis (1.89%)
-	4: Miguel (1.89%)
-	5: The Kid LAROI (1.89%)
+	1: Rihanna (1.89%)
+	2: HXNS (1.89%)
+	3: ODIE (1.89%)
+	4: Blake Rose (1.89%)
+	5: spill tab (1.89%)
 Top country
 	1: US (47.37%)
 	2: GB (18.42%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   38.000000     38.000000     38.000000         38.000000    38.000000   38.000000  38.000000  38.000000
-mean    69.473684      0.149601      0.688921          0.042658     0.098068  120.098895   0.555392   0.691026
-std     13.524226      0.157613      0.099397          0.143169     0.084277   26.648461   0.236355   0.162529
+mean    69.736842      0.149601      0.688921          0.042658     0.098068  120.098895   0.555392   0.691026
+std     13.554064      0.157613      0.099397          0.143169     0.084277   26.648461   0.236355   0.162529
 min     31.000000      0.001460      0.464000          0.000000     0.027700   68.976000   0.084900   0.320000
 25%     61.000000      0.023700      0.620500          0.000000     0.041650  102.000000   0.385250   0.583750
-50%     71.000000      0.089100      0.717500          0.000004     0.064650  118.437500   0.591500   0.707500
+50%     71.500000      0.089100      0.717500          0.000004     0.064650  118.437500   0.591500   0.707500
 75%     78.250000      0.210250      0.767000          0.000436     0.116000  132.483250   0.738000   0.819000
 max     95.000000      0.599000      0.834000          0.799000     0.429000  171.910000   0.967000   0.928000

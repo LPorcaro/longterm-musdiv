@@ -9,6 +9,7 @@ import pingouin as pg
 import plot_likert as pl
 
 from scipy.stats import pearsonr,spearmanr
+from tabulate import tabulate
 
 ATT_FOLDER = "../data/attitudes"
 LS_FOLDER = "../data/ls"
@@ -17,13 +18,14 @@ CONTEXTS = ["Relaxing", "Commuting", "Partying", "Running","Shopping",
             "Sleeping", "Studying", "Working"]
 TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
 ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
-ROUNDS =  ["00", "01", "02", "03"]
-ROUNDS_LAB = ['Pre', '1 week', "2 week", "3 week"]
+ROUNDS =  ["00", "01", "02", "03", "04"]
+ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4"]
 GROUPS = ["g1", "g2"]
 SESSION1 = [str(x).zfill(2) for x in range(1,6)]
 SESSION2 = [str(x).zfill(2) for x in range(6,11)]
 SESSION3 = [str(x).zfill(2) for x in range(11,16)]
-SESSIONS = [SESSION1, SESSION2, SESSION3]
+SESSION4 = [str(x).zfill(2) for x in range(16,21)]
+SESSIONS = [SESSION1, SESSION2, SESSION3, SESSION4]
 
 
 def import_data(tdata):
@@ -82,16 +84,16 @@ def plot_scores(df):
     """
     """
     # Plot D-score Individual
-    fig, axs = plt.subplots(2,4,sharey=True,sharex=True)
+    fig, axs = plt.subplots(2, 4,sharey=True,sharex=True)
     for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
         df_group = df[df.group == group]
         for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
-            x = range(4)
+            x = range(len(ROUNDS))
             y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
                  ].d_score.item() for att_round in ROUNDS]
             axs[n,m].plot(x, y, c=c, label=group)
             axs[n,m].set_xticks(x)
-            axs[n,m].set_xticklabels(['Pre', '1 week', "2 week", "3 week"])
+            axs[n,m].set_xticklabels(ROUNDS_LAB)
             axs[n,m].set_title(pid)
             axs[n,m].grid()
     axs[0,0].set_ylabel('D-score')
@@ -104,12 +106,12 @@ def plot_scores(df):
     for group, c in zip(GROUPS, ["b","g"]):
         df_group = df[df.group == group]
         for pid in df_group.PROLIFIC_PID.unique():
-            x = range(4)
+            x = range(len(ROUNDS))
             y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
                  ].d_score.item() for att_round in ROUNDS]
             plt.plot(x, y, c=c, label=group)
     plt.title('D-score')
-    plt.xticks(x,['Pre', '1 week', "2 week", "3 week"], horizontalalignment='right')
+    plt.xticks(x, ROUNDS_LAB, horizontalalignment='right')
     plt.legend()
     plt.grid()
     plt.ylim([-1,1])
@@ -122,7 +124,7 @@ def plot_scores(df):
         df_group = df[df.group == group]
         for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
 
-            x = range(4)
+            x = range(len(ROUNDS))
             y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
                  ].d_score.item() for att_round in ROUNDS]
 
@@ -145,12 +147,12 @@ def plot_scores(df):
     for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
         df_group = df[df.group == group]
         for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
-            x = range(4)
+            x = range(len(ROUNDS))
             y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
                  ].o_score.item() for att_round in ROUNDS]
             axs[n,m].plot(x, y, c=c, label=group)
             axs[n,m].set_xticks(x)
-            axs[n,m].set_xticklabels(['Pre', '1 week', "2 week", "3 week"])
+            axs[n,m].set_xticklabels(ROUNDS_LAB)
             axs[n,m].set_title(pid)
             axs[n,m].grid()
     axs[0,0].set_ylabel('O-score')
@@ -162,12 +164,12 @@ def plot_scores(df):
     for group, c in zip(GROUPS, ["b","g"]):
         df_group = df[df.group == group]
         for pid in df_group.PROLIFIC_PID.unique():
-            x = range(4)
+            x = range(len(ROUNDS))
             y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
                  ].o_score.item() for att_round in ROUNDS]
             plt.plot(x, y, c=c, label=group)
     plt.title('O-score')
-    plt.xticks(x,['Pre', '1 week', "2 week", "3 week"], horizontalalignment='right')
+    plt.xticks(x, ROUNDS_LAB, horizontalalignment='right')
     plt.legend()
     plt.grid()
     plt.show()
@@ -179,7 +181,7 @@ def plot_scores(df):
         df_group = df[df.group == group]
         for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
 
-            x = range(4)
+            x = range(len(ROUNDS))
             y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
                  ].o_score.item() for att_round in ROUNDS]
 
@@ -198,7 +200,7 @@ def plot_scores(df):
     plt.show()
 
     # Plot o-score VS d-score
-    fig, axs = plt.subplots(1,4,sharey=True)
+    fig, axs = plt.subplots(1,len(ROUNDS),sharey=True)
     for n, att_round in enumerate(ROUNDS):
         df_round = df[df.att_round == att_round]
         for group, c in zip(GROUPS, ["b","g"]):
@@ -222,6 +224,7 @@ def plot_scores(df):
 def plot_cntx(df):
     """
     """
+    colors = ['r','b', 'b','b', 'b', 'r', 'g','g', 'g', 'g']
     # Plot Context Boxplots
     fig, axs = plt.subplots(2,4, sharex=True, sharey=True)
     axs = axs.reshape(-1)
@@ -236,14 +239,13 @@ def plot_cntx(df):
         ax.set_yticks([1,2,3,4,5])
         ax.set_xlabel('')
         ax.tick_params(rotation=50)
-        colors = ['r','b', 'b','b', 'r', 'g', 'g', 'g']
         for row_key, (ax,row) in bp_dict.iteritems():
             for i, box in enumerate(row['boxes']):
                 box.set_facecolor(colors[i])
         plt.suptitle("In which contexts would you listen to Electronic Music?")
     plt.show()
     # Plot Context Likert
-    fig, axs = plt.subplots(2,4, sharey=True,  sharex=True)
+    fig, axs = plt.subplots(2,5, sharey=True,  sharex=True)
     for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
         for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
             df_cut = df[(df.att_round == att_round) & (df.group == group)][CONTEXTS]
@@ -278,14 +280,13 @@ def plot_cntx(df):
 
         ax.set_xlabel('')
         ax.set_yticks([1,2,3,4,5])
-        colors = ['r','b', 'b','b', 'r', 'g', 'g', 'g']
         for row_key, (ax,row) in bp_dict.iteritems():
             for i, box in enumerate(row['boxes']):
                 box.set_facecolor(colors[i])
         plt.suptitle("Which features do you associate Electronic Music?")
     plt.show()
     # Plot Tracks Likert
-    fig, axs = plt.subplots(2,4, sharey=True,  sharex=True)
+    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True,  sharex=True)
     for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
         for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
             df_cut = df[(df.att_round == att_round) & (df.group == group)][TRACK_FEATS]
@@ -323,14 +324,13 @@ def plot_cntx(df):
             ax.set_yticklabels(['<40', '', '', '', '>40'])
         ax.set_xlabel('')
         ax.set_yticks([1,2,3,4,5])
-        colors = ['r','b', 'b','b', 'r', 'g', 'g', 'g']
         for row_key, (ax,row) in bp_dict.iteritems():
             for i, box in enumerate(row['boxes']):
                 box.set_facecolor(colors[i])
         plt.suptitle("Which characteristics do you associate Electronic Music artists?")
     plt.show()
     # Plot Artists Likert
-    fig, axs = plt.subplots(2,4, sharey=True, sharex=True)
+    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True, sharex=True)
     for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
         for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
             df_cut = df[(df.att_round == att_round) & (df.group == group)][ARTIST_FEATS]
@@ -348,11 +348,51 @@ def plot_cntx(df):
     plt.show()
 
 
+    # INTRA-RATER CORRELATION
+    for feat in [CONTEXTS, TRACK_FEATS, ARTIST_FEATS]:
+        print()
+        print(feat)
+        for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
+            print(group)
+            CorrMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
+            for r1,_ in enumerate(ROUNDS):
+                for r2,_ in enumerate(ROUNDS):
+                    if r1 == r2:
+                        rho_mean = 1
+                    elif r1 > r2:
+                        continue
+                    else:
+                        rhos = []
+                        df_group = df[df.group == group]
+                        df_join_pid = df_group.groupby(by='PROLIFIC_PID')
+
+                        for m, (pid, df_pid) in enumerate(df_join_pid):
+                            a = df_pid[df_pid.att_round==ROUNDS[r1]][feat].values[0]
+                            b = df_pid[df_pid.att_round==ROUNDS[r2]][feat].values[0]
+
+                            if (a == b).all():
+                                rho = 1
+                            else:
+                                rho,p = pearsonr(a,b)
+                            
+                            if np.isnan(rho):
+                                continue
+
+                            rhos.append(rho)    
+
+                        rho_mean = np.average(rhos)
+
+                    CorrMatrix[r1,r2] = CorrMatrix[r2, r1] = rho_mean
+
+            print(tabulate(CorrMatrix, headers=ROUNDS_LAB, tablefmt="github"))
+
+
+
 def plot_mixed(df1, df2):
     """
     """
     # O-score VS Playlist
-    fig, axs = plt.subplots(1,3,sharey=True)
+    fig, axs = plt.subplots(1,len(ROUNDS[1:]),sharey=True)
     for n, (att_round, session) in enumerate(zip(ROUNDS[1:], SESSIONS)):
         df_round = df1[df1.att_round == att_round]
         df_session = df2[df2.session.isin(session)]
@@ -370,10 +410,11 @@ def plot_mixed(df1, df2):
     axs[0].set_title(label="Week 1")
     axs[1].set_title(label="Week 2")
     axs[2].set_title(label="Week 3")
+    axs[3].set_title(label="Week 4")
     plt.show()
 
     # Like VS Playlist
-    fig, axs = plt.subplots(1,3,sharey=True)
+    fig, axs = plt.subplots(1,len(ROUNDS[1:]),sharey=True)
     for n, (att_round, session) in enumerate(zip(ROUNDS[1:], SESSIONS)):
         df_round = df1[df1.att_round == att_round]
         df_session = df2[df2.session.isin(session)]
@@ -391,10 +432,11 @@ def plot_mixed(df1, df2):
     axs[0].set_title(label="Week 1")
     axs[1].set_title(label="Week 2")
     axs[2].set_title(label="Week 3")
+    axs[3].set_title(label="Week 4")
     plt.show()
 
     # Like VS Familiarity
-    fig, axs = plt.subplots(1,3,sharey=True)
+    fig, axs = plt.subplots(1,len(ROUNDS[1:]),sharey=True)
     for n, (att_round, session) in enumerate(zip(ROUNDS[1:], SESSIONS)):
         df_round = df1[df1.att_round == att_round]
         df_session = df2[df2.session.isin(session)]
@@ -412,10 +454,11 @@ def plot_mixed(df1, df2):
     axs[0].set_title(label="Week 1")
     axs[1].set_title(label="Week 2")
     axs[2].set_title(label="Week 3")
+    axs[3].set_title(label="Week 4")
     plt.show()
 
     # D-score VS Like
-    fig, axs = plt.subplots(1,3,sharey=True)
+    fig, axs = plt.subplots(1,len(ROUNDS[1:]),sharey=True)
     for n, (att_round, session) in enumerate(zip(ROUNDS[1:], SESSIONS)):
         df_round = df1[df1.att_round == att_round]
         df_session = df2[df2.session.isin(session)]
@@ -433,6 +476,7 @@ def plot_mixed(df1, df2):
     axs[0].set_title(label="Week 1")
     axs[1].set_title(label="Week 2")
     axs[2].set_title(label="Week 3")
+    axs[3].set_title(label="Week 4")
     plt.show()
 
 
@@ -469,7 +513,7 @@ def plot_correlation(df):
                     CorrMatrix[c1,c2] = CorrMatrix[c2, c1] = s
             
             print(group, att)
-            print(CorrMatrix)
+            print(tabulate(CorrMatrix, headers=ROUNDS_LAB, tablefmt="github"))
 
 
     # Plot D-score
@@ -553,12 +597,12 @@ def plot_ls(df):
         df_join_ls_group = df[df.group == group]
         df_join_pid = df_join_ls_group.groupby(by='PROLIFIC_PID')
         for m,(pid, df_pid) in enumerate(df_join_pid):
-            axs[n,m].plot(range(1, 16), np.cumsum(df_pid.playlist), c=c, label=group)
+            axs[n,m].plot(range(1, 21), np.cumsum(df_pid.playlist), c=c, label=group)
             axs[n,m].set_ylim(0,15)
             axs[n,m].set_xlim(1,15)
             axs[n,m].set_title(pid)
-            axs[n,m].set_yticks(np.arange(1, 16))
-            axs[n,m].set_xticks(np.arange(1, 16))
+            axs[n,m].set_yticks(np.arange(1, 21))
+            axs[n,m].set_xticks(np.arange(1, 21))
             axs[n,m].grid()
             axs[n,m].legend(loc=2)
     plt.suptitle('Playlist Interacted (cumulative)')
@@ -571,10 +615,10 @@ def plot_ls(df):
         df_join_ls_group = df[df.group == group]
         df_join_pid = df_join_ls_group.groupby(by='PROLIFIC_PID')
         for m,(pid, df_pid) in enumerate(df_join_pid):
-            axs[n,m].plot(range(1, 16), np.cumsum(df_pid.familiarity), c=c, label=group)
+            axs[n,m].plot(range(1, 21), np.cumsum(df_pid.familiarity), c=c, label=group)
             axs[n,m].set_title(pid)
-            axs[n,m].set_yticks(np.arange(-11, 11))
-            axs[n,m].set_xticks(np.arange(1, 16))
+            axs[n,m].set_yticks(np.arange(-16, 9))
+            axs[n,m].set_xticks(np.arange(1, 21))
             axs[n,m].grid()
             axs[n,m].legend(loc=2)
 
@@ -589,10 +633,10 @@ def plot_ls(df):
         df_join_ls_group = df[df.group == group]
         df_join_pid = df_join_ls_group.groupby(by='PROLIFIC_PID')
         for m,(pid, df_pid) in enumerate(df_join_pid):
-            axs[n,m].plot(range(1, 16), np.cumsum(df_pid.like), c=c, label=group)
+            axs[n,m].plot(range(1, 21), np.cumsum(df_pid.like), c=c, label=group)
             axs[n,m].set_title(pid)
-            axs[n,m].set_yticks(np.arange(-1, 15))
-            axs[n,m].set_xticks(np.arange(1, 16))
+            axs[n,m].set_yticks(np.arange(-1, 24))
+            axs[n,m].set_xticks(np.arange(1, 21))
             axs[n,m].grid()
             axs[n,m].legend(loc=2)
 
@@ -611,35 +655,13 @@ if __name__ == "__main__":
 
 
     # plot_scores(df_join_att)
-    # plot_correlation(df_join_att)
-    # plot_cntx(df_join_cntx)
+    plot_correlation(df_join_att)
+    plot_cntx(df_join_cntx)
     # plot_mixed(df_join_att, df_join_ls)
     # plot_ls(df_join_ls)
     
 
 
-    # INTRACORRELATION
-    for feat in [CONTEXTS, TRACK_FEATS, ARTIST_FEATS]:
-        print()
-        for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
-            print(group)
-            for r,_ in enumerate(ROUNDS[:-1]):
-                rhos = []
-                print(r)
-                df_group = df_join_cntx[df_join_cntx.group == group]
-                df_join_pid = df_group.groupby(by='PROLIFIC_PID')
-                for m, (pid, df_pid) in enumerate(df_join_pid):
-                    a = df_pid[df_pid.att_round==ROUNDS[r]][feat].values[0]
-                    b = df_pid[df_pid.att_round==ROUNDS[r+1]][feat].values[0]
 
-                    if (a == b).all():
-                        rho = 1
-                    else:
-                        rho,p = spearmanr(a,b)
-    
-                    print(a,b)
-                    print(rho)
-                    rhos.append(rho)    
 
-                print(np.average(rhos), np.std(rhos))
-        
+

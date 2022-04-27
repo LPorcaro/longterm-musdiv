@@ -1,19 +1,19 @@
-Electronic artists found: Acid Arab,A-WA, Il Est Vilaine, Hello Psychaleppo, Cassius, You Man, You Man,Jérôme Voisin, Pongo, Acid Arab,Les Filles de Illighadad, islandman,Elis Dubaz, Populous, Acid Arab,Fred Avril,Shadi Khries, Acid Arab, Muslimgauze, Acid Arab,Rachid Taha, Catnapp,Modeselektor, Orange Blossom, Chinese Man, Acid Arab,Cem Yıldız
-Electronic genres found: dark disco, indie electronica, italian electronica, disco house, african electronic, electro dub, deconstructed club, dub metal, electro house, pop electronico, electro swing, new isolationism, arab electronic, ambient industrial, dark ambient, turkish electronic, electronica
+Electronic artists found: Pongo, islandman,Elis Dubaz, Acid Arab,Fred Avril,Shadi Khries, Muslimgauze, Acid Arab,A-WA, Chinese Man, Hello Psychaleppo, Orange Blossom, Acid Arab,Rachid Taha, You Man,Jérôme Voisin, Catnapp,Modeselektor, Il Est Vilaine, Acid Arab,Les Filles de Illighadad, Acid Arab,Cem Yıldız, Cassius, Acid Arab, You Man, Populous
+Electronic genres found: indie electronica, dub metal, dark ambient, intelligent dance music, pop electronico, ambient industrial, disco house, italian electronica, electronica, african electronic, deconstructed club, new isolationism, turkish electronic, electro dub, electro house, arab electronic, dark disco, big beat, electro swing
 Electronic music logs found: 58.70% 
 
 Top genres
-	1: arab groove (17.14%)
-	2: arab electronic (11.43%)
-	3: french indietronica (5.71%)
-	4: electronica (5.71%)
-	5: new french touch (4.76%)
+	1: arab groove (16.98%)
+	2: arab electronic (11.32%)
+	3: french indietronica (5.66%)
+	4: electronica (5.66%)
+	5: new french touch (4.72%)
 Top artists
-	1: Liraz (2.78%)
-	2: Fred Avril (2.78%)
-	3: Thornato (2.78%)
-	4: Rachid Taha (2.78%)
-	5: Shadi Khries (2.78%)
+	1: A-WA (2.78%)
+	2: Rachid Taha (2.78%)
+	3: Muslimgauze (2.78%)
+	4: Hello Psychaleppo (2.78%)
+	5: islandman (2.78%)
 Top country
 	1: FR (36.96%)
 	2: BE (21.74%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   46.000000     46.000000      46.00000         46.000000    46.000000   46.000000  46.000000  46.000000
-mean    35.108696      0.160755       0.64513          0.464944     0.086654  121.989022   0.437157   0.615043
-std     12.737047      0.213423       0.13480          0.363237     0.083800   27.925997   0.276457   0.156581
+mean    35.000000      0.160755       0.64513          0.464944     0.086654  121.989022   0.437157   0.615043
+std     12.722683      0.213423       0.13480          0.363237     0.083800   27.925997   0.276457   0.156581
 min     10.000000      0.000045       0.30100          0.000003     0.027600   77.051000   0.037400   0.269000
 25%     26.250000      0.008013       0.58975          0.044025     0.038725  101.199000   0.223000   0.507500
-50%     36.500000      0.054100       0.66000          0.580000     0.050400  118.270500   0.399000   0.606000
+50%     36.000000      0.054100       0.66000          0.580000     0.050400  118.270500   0.399000   0.606000
 75%     43.750000      0.260250       0.72125          0.827000     0.070550  131.987000   0.640750   0.729750
 max     58.000000      0.681000       0.90900          0.926000     0.365000  198.007000   0.963000   0.950000

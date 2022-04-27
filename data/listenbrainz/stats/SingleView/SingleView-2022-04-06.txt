@@ -1,0 +1,45 @@
+Electronic artists found: Sylvester,Psychemagik, Mirror People,Psychemagik, Eddie C, Ultramarine, Eddie C,Dr. Mike Roma, Lindstrøm,Prins Thomas
+Electronic genres found: ambient house, folktronica, canadian electronic, microhouse, norwegian space disco, disco, hi-nrg, nu disco, electronica, post-disco
+Electronic music logs found: 30.00% 
+
+Top genres
+	1: balearic (21.52%)
+	2: electro (12.66%)
+	3: filter house (12.66%)
+	4: canadian electronic (10.13%)
+	5: canadian house (10.13%)
+Top artists
+	1: EARL GLAY P (4.35%)
+	2: Mark Barrott (4.35%)
+	3: Daft Punk (4.35%)
+	4: Nu Guinea (4.35%)
+	5: Sylvester (4.35%)
+Top country
+	1: GB (52.50%)
+	2: DE (22.50%)
+	3: US (5.00%)
+	4: QZ (2.50%)
+	5: TC (2.50%)
+Top record
+	1: DUW (25.00%)
+	2: U67 (20.00%)
+	3: SMU (10.00%)
+	4: JX3 (10.00%)
+	5: SWL (5.00%)
+Top year
+	1: 07 (27.50%)
+	2: 39 (10.00%)
+	3: 19 (10.00%)
+	4: 16 (10.00%)
+	5: 17 (5.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   40.000000     40.000000     40.000000         40.000000    40.000000   40.000000  40.000000  40.000000
+mean    27.250000      0.164432      0.647650          0.621735     0.062187  117.867975   0.501777   0.598000
+std     15.458381      0.229020      0.126867          0.337479     0.036612   27.184727   0.259453   0.190127
+min      6.000000      0.000056      0.381000          0.000182     0.027900   79.997000   0.055000   0.222000
+25%     15.750000      0.007340      0.576000          0.321000     0.037475   98.928000   0.302750   0.485000
+50%     22.500000      0.038900      0.651000          0.804000     0.050550  116.515000   0.464000   0.653500
+75%     40.250000      0.210250      0.748750          0.867250     0.068300  126.257000   0.712000   0.753250
+max     58.000000      0.859000      0.896000          0.953000     0.176000  219.814000   0.972000   0.856000

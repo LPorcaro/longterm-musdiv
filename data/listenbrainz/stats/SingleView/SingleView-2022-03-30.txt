@@ -1,5 +1,5 @@
-Electronic artists found: Gang Starr,M.O.P., Sister Sledge, Acid Arab,Radia Menel, Gang Starr,Hannibal, Populous, Gang Starr,Inspectah Deck, KRS-One, Gang Starr,Big Shug,Freddie Foxxx, Acid Arab, Gang Starr, Orange Blossom, Lemon Jelly, Acid Arab,Hasan Minawi
-Electronic genres found: indie electronica, italian electronica, trip hop, electro dub, disco, downtempo, pop electronico, hardcore hip hop, arab electronic, post-disco, electronica
+Electronic artists found: Gang Starr,Hannibal, Acid Arab,Hasan Minawi, Acid Arab,Radia Menel, Lemon Jelly, KRS-One, Orange Blossom, Gang Starr,M.O.P., Gang Starr,Inspectah Deck, Gang Starr, Sister Sledge, Gang Starr,Big Shug,Freddie Foxxx, Acid Arab, Populous
+Electronic genres found: downtempo, pop electronico, indie electronica, trip hop, disco, arab electronic, electro dub, hardcore hip hop, italian electronica, electronica, post-disco
 Electronic music logs found: 63.89% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: gangster rap (9.20%)
 	5: hardcore hip hop (9.20%)
 Top artists
-	1: Liraz (4.17%)
-	2: Radia Menel (4.17%)
-	3: Mallek Mohamed (4.17%)
-	4: Bachar Mar-Khalifé (4.17%)
-	5: Sister Sledge (4.17%)
+	1: Inspectah Deck (4.17%)
+	2: Bachar Mar-Khalifé (4.17%)
+	3: Elias Rahbani (4.17%)
+	4: Freddie Foxxx (4.17%)
+	5: Big Shug (4.17%)
 Top country
 	1: US (52.78%)
 	2: FR (16.67%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   36.000000     36.000000     36.000000         36.000000    36.000000   36.000000  36.000000  36.000000
-mean    41.194444      0.186308      0.681028          0.214327     0.174456  118.262833   0.609947   0.672028
-std     14.657654      0.232395      0.135367          0.332109     0.141006   32.690494   0.247859   0.148711
+mean    41.000000      0.186308      0.681028          0.214327     0.174456  118.262833   0.609947   0.672028
+std     14.776429      0.232395      0.135367          0.332109     0.141006   32.690494   0.247859   0.148711
 min     15.000000      0.000044      0.301000          0.000000     0.027600   74.008000   0.044700   0.319000
-25%     34.000000      0.017950      0.615000          0.000000     0.046025   92.729000   0.504500   0.576250
+25%     33.750000      0.017950      0.615000          0.000000     0.046025   92.729000   0.504500   0.576250
 50%     38.000000      0.095600      0.705000          0.000160     0.120000  105.981500   0.649000   0.658000
-75%     52.000000      0.220500      0.780250          0.325500     0.284250  134.402000   0.796750   0.783250
+75%     51.250000      0.220500      0.780250          0.325500     0.284250  134.402000   0.796750   0.783250
 max     69.000000      0.736000      0.909000          0.926000     0.453000  192.019000   0.911000   0.950000

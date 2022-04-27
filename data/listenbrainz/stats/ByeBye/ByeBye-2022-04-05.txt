@@ -1,5 +1,5 @@
-Electronic artists found: Diplo,Lil Xan, Atitude 67,Gabriel O Pensador,Analaga, PEDRO SAMPAIO,Mc Pedrinho
-Electronic genres found: moombahton, electro house, funk carioca, tropical house
+Electronic artists found: Diplo,Lil Xan, PEDRO SAMPAIO,Mc Pedrinho, Atitude 67,Gabriel O Pensador,Analaga
+Electronic genres found: moombahton, tropical house, electro house, funk carioca
 Electronic music logs found: 6.52% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: modern rock (4.00%)
 	5: detroit hip hop (3.00%)
 Top artists
-	1: Chyna (2.70%)
-	2: Gabriel O Pensador (2.70%)
-	3: Green Day (2.70%)
-	4: Oh The Larceny (2.70%)
-	5: Deezy (2.70%)
+	1: Green Day (2.70%)
+	2: Oh The Larceny (2.70%)
+	3: Ivandro (2.70%)
+	4: Cult To Follow (2.70%)
+	5: Monsta (2.70%)
 Top country
 	1: PT (39.13%)
 	2: US (28.26%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   46.000000     46.000000     46.000000         46.000000    46.000000   46.000000  46.000000  46.000000
-mean    54.782609      0.270436      0.673630          0.012195     0.110713  119.297130   0.459826   0.641761
-std     16.029020      0.291347      0.138348          0.054113     0.095046   27.129883   0.184330   0.172377
+mean    54.586957      0.270436      0.673630          0.012195     0.110713  119.297130   0.459826   0.641761
+std     15.991075      0.291347      0.138348          0.054113     0.095046   27.129883   0.184330   0.172377
 min     23.000000      0.000101      0.393000          0.000000     0.030100   73.897000   0.156000   0.318000
 25%     46.000000      0.005880      0.580500          0.000000     0.049300   93.734000   0.318250   0.502000
 50%     50.000000      0.109450      0.693000          0.000023     0.070900  119.430000   0.442000   0.637000

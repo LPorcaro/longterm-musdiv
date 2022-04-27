@@ -1,5 +1,5 @@
-Electronic artists found: Duke Dumont,Jax Jones, Galantis,David Guetta,Little Mix, Galantis, HRVY,Matoma, Rudimental,James Arthur, Azealia Banks,Lazy Jay
-Electronic genres found: hip house, tropical house, electro house, progressive house, uk funky, destroy techno
+Electronic artists found: Rudimental,James Arthur, Galantis, Galantis,David Guetta,Little Mix, HRVY,Matoma, Duke Dumont,Jax Jones, Azealia Banks,Lazy Jay
+Electronic genres found: electro house, progressive house, hip house, tropical house, destroy techno, uk funky
 Electronic music logs found: 13.64% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: uk pop (4.29%)
 	5: electropop (4.29%)
 Top artists
-	1: Saweetie (2.04%)
-	2: Collins (2.04%)
-	3: Stephanie Beatriz (2.04%)
-	4: Ariana Grande (2.04%)
-	5: Rudimental (2.04%)
+	1: HRVY (2.04%)
+	2: Galantis (2.04%)
+	3: Matoma (2.04%)
+	4: Collins (2.04%)
+	5: Casey Lowry (2.04%)
 Top country
 	1: US (63.64%)
 	2: GB (31.82%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   44.000000     44.000000     44.000000         44.000000    44.000000   44.000000  44.000000  44.000000
-mean    76.363636      0.128525      0.641455          0.029041     0.099441  123.851568   0.548386   0.688068
-std     10.901442      0.162243      0.114510          0.094434     0.087320   31.224565   0.239765   0.138425
+mean    75.454545      0.128525      0.641455          0.029041     0.099441  123.851568   0.548386   0.688068
+std     10.656267      0.162243      0.114510          0.094434     0.087320   31.224565   0.239765   0.138425
 min     52.000000      0.000070      0.239000          0.000000     0.026200   67.526000   0.120000   0.450000
 25%     67.000000      0.011203      0.576750          0.000000     0.038775  102.257500   0.370000   0.589250
-50%     76.000000      0.073250      0.665000          0.000000     0.075650  120.422500   0.485000   0.673000
-75%     86.000000      0.180000      0.706500          0.000022     0.104500  139.208500   0.777750   0.790000
-max     95.000000      0.859000      0.846000          0.403000     0.314000  205.863000   0.931000   0.972000
+50%     75.500000      0.073250      0.665000          0.000000     0.075650  120.422500   0.485000   0.673000
+75%     85.250000      0.180000      0.706500          0.000022     0.104500  139.208500   0.777750   0.790000
+max     93.000000      0.859000      0.846000          0.403000     0.314000  205.863000   0.931000   0.972000

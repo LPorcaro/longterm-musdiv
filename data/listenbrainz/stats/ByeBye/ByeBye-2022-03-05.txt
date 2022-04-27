@@ -1,5 +1,5 @@
-Electronic artists found: Blasterjaxx,Jebroer, Dimitri Vegas & Like Mike,R3HAB,Prezioso, MOTi,JGUAR, W&W,Blasterjaxx, Dynoro,Gigi D'Agostino
-Electronic genres found: tropical house, electro house, slap house, progressive house, dutch house
+Electronic artists found: MOTi,JGUAR, Dimitri Vegas & Like Mike,R3HAB,Prezioso, Blasterjaxx,Jebroer, Dynoro,Gigi D'Agostino, W&W,Blasterjaxx
+Electronic genres found: progressive electro house, electro house, dutch house, progressive house, slap house, tropical house
 Electronic music logs found: 35.71% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: hip hop tuga (7.41%)
 	5: big room (5.56%)
 Top artists
-	1: MOTi (6.25%)
-	2: Gigi D'Agostino (6.25%)
-	3: Ivandro (6.25%)
-	4: Dynoro (6.25%)
-	5: Dillaz (6.25%)
+	1: Gigi D'Agostino (6.25%)
+	2: Jebroer (6.25%)
+	3: Prezioso (6.25%)
+	4: Tom MacDonald (6.25%)
+	5: W&W (6.25%)
 Top country
 	1: PT (35.71%)
 	2: NL (21.43%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   14.000000     14.000000     14.000000      1.400000e+01    14.000000   14.000000  14.000000  14.000000
-mean    62.785714      0.273061      0.681286      1.940022e-02     0.118964  133.301286   0.373571   0.706571
-std      9.617121      0.288380      0.157904      4.984306e-02     0.096657   23.516263   0.154487   0.205291
+mean    62.642857      0.273061      0.681286      1.940022e-02     0.118964  133.301286   0.373571   0.706571
+std      9.596531      0.288380      0.157904      4.984306e-02     0.096657   23.516263   0.154487   0.205291
 min     49.000000      0.000526      0.388000      0.000000e+00     0.040500  113.460000   0.163000   0.348000
 25%     57.250000      0.010052      0.568000      8.750000e-07     0.058750  116.258500   0.190000   0.553000
 50%     61.500000      0.200500      0.724500      1.405000e-05     0.087400  124.967000   0.453500   0.762000
-75%     69.500000      0.464000      0.798750      3.530250e-03     0.136000  147.574500   0.499250   0.861500
+75%     69.000000      0.464000      0.798750      3.530250e-03     0.136000  147.574500   0.499250   0.861500
 max     83.000000      0.843000      0.876000      1.710000e-01     0.333000  194.956000   0.537000   0.971000

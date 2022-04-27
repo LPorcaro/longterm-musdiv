@@ -1,5 +1,5 @@
-Electronic artists found: SAINt JHN,Imanbek, Topic,A7S, Zedd,Kehlani, Joel Corry,MNEK, Gryffin,Maia Wright, HRVY,Matoma, John K,Kelsea Ballerini, Gryffin,OneRepublic
-Electronic genres found: tropical house, electro house, german techno, slap house, complextro
+Electronic artists found: Gryffin,Maia Wright, Topic,A7S, Zedd,Kehlani, HRVY,Matoma, Gryffin,OneRepublic, Joel Corry,MNEK, SAINt JHN,Imanbek, John K,Kelsea Ballerini
+Electronic genres found: german techno, complextro, electro house, slap house, tropical house
 Electronic music logs found: 13.85% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop rap (4.95%)
 	5: electropop (4.46%)
 Top artists
-	1: Miley Cyrus (1.33%)
-	2: Kehlani (1.33%)
-	3: Harry Styles (1.33%)
-	4: Justin Bieber (1.33%)
-	5: Ana Encarnação (1.33%)
+	1: Joel Corry (1.33%)
+	2: Diogo Pinto (1.33%)
+	3: Rihanna (1.33%)
+	4: Pedro Leitão (1.33%)
+	5: Alexandre Carvalho (1.33%)
 Top country
 	1: US (75.38%)
 	2: GB (10.77%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   65.000000     65.000000     65.000000         65.000000    65.000000   65.000000  65.000000  65.000000
-mean    68.969231      0.184801      0.635154          0.002807     0.096149  127.085262   0.568908   0.675538
-std     21.112770      0.211665      0.134078          0.016663     0.086921   32.537550   0.214464   0.169698
+mean    68.569231      0.184801      0.635154          0.002807     0.096149  127.085262   0.568908   0.675538
+std     21.366569      0.211665      0.134078          0.016663     0.086921   32.537550   0.214464   0.169698
 min     20.000000      0.000168      0.334000          0.000000     0.026700   75.171000   0.127000   0.041000
-25%     57.000000      0.028300      0.552000          0.000000     0.037800   99.988000   0.444000   0.561000
+25%     55.000000      0.028300      0.552000          0.000000     0.037800   99.988000   0.444000   0.561000
 50%     76.000000      0.117000      0.662000          0.000000     0.055800  121.975000   0.574000   0.706000
 75%     84.000000      0.274000      0.710000          0.000017     0.127000  145.999000   0.728000   0.816000
-max     95.000000      0.872000      0.957000          0.132000     0.463000  205.593000   0.942000   0.917000
+max    100.000000      0.872000      0.957000          0.132000     0.463000  205.593000   0.942000   0.917000

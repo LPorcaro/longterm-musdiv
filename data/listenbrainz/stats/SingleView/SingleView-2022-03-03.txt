@@ -1,5 +1,5 @@
-Electronic artists found: Leyland Kirby, Belbury Poly and Moon Wiring Club,Belbury Poly,Moon Wiring Club, Akira Rabelais, ToiToiToi, Pye Corner Audio, Pye Corner Audio with The Advisory Circle,Pye Corner Audio,The Advisory Circle, The British Space Group, John Foxx and The Belbury Circle,John Foxx,The Belbury Circle, Emeralds, Paddy Kingsland, Mount Vernon Arts Lab, Daphne Oram, Hype Williams, Blanck Mass, The Pattern Forms, Hacker Farm, Listening Center, Delia Derbyshire, Ursula Bogner, The Conet Project, Tristram Cary, Jeff Keen, The BBC Radiophonic Workshop, KWJAZ, John Baker, Actress,London Contemporary Orchestra, Vernon Elliott, Dudley Simpson, Dmitri Shostakovich,Vassily Sinaisky,BBC Philharmonic, Beautify Junkyards, Children Of Alice, Roj, Brooks and O'Hagan, Thanet
-Electronic genres found: microhouse, vaporwave, uk experimental electronic, deconstructed club, ambient, outsider house, wonky, berlin school, lowercase, uk bass, drone, future garage, hauntology, electronica
+Electronic artists found: The Pattern Forms, KWJAZ, Children Of Alice, Akira Rabelais, Pye Corner Audio, ToiToiToi, Delia Derbyshire, Roj, Ursula Bogner, Brooks and O'Hagan, Leyland Kirby, Hype Williams, The Conet Project, Jeff Keen, The BBC Radiophonic Workshop, The British Space Group, Listening Center, Dmitri Shostakovich,Vassily Sinaisky,BBC Philharmonic, Pye Corner Audio with The Advisory Circle,Pye Corner Audio,The Advisory Circle, Emeralds, Tristram Cary, Thanet, Daphne Oram, Actress,London Contemporary Orchestra, Blanck Mass, Beautify Junkyards, Hacker Farm, John Foxx and The Belbury Circle,John Foxx,The Belbury Circle, Paddy Kingsland, John Baker, Vernon Elliott, Belbury Poly and Moon Wiring Club,Belbury Poly,Moon Wiring Club, Mount Vernon Arts Lab, Dudley Simpson
+Electronic genres found: intelligent dance music, compositional ambient, ambient, uk experimental electronic, lowercase, deconstructed club, vaporwave, uk bass, future garage, microhouse, wonky, hauntology, outsider house, drone, electronica, berlin school
 Electronic music logs found: 77.78% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: british experimental (3.85%)
 	5: uk experimental electronic (3.85%)
 Top artists
-	1: Leyland Kirby (1.43%)
-	2: Paul Snowden (1.43%)
-	3: Psychological Strategy Board (1.43%)
-	4: Akira Rabelais (1.43%)
-	5: Pye Corner Audio with The Advisory Circle (1.43%)
+	1: Erik Satie (1.43%)
+	2: Dionysis Grammenos (1.43%)
+	3: The Pattern Forms (1.43%)
+	4: Gabriel Fauré (1.43%)
+	5: KWJAZ (1.43%)
 Top country
 	1: GB (57.78%)
 	2: US (15.56%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   45.000000     45.000000     45.000000         45.000000    45.000000   45.000000  45.000000  45.000000
-mean    22.200000      0.721089      0.349082          0.637755     0.074429  116.236533   0.229916   0.377955
-std     21.365435      0.341139      0.195848          0.369568     0.065970   33.740931   0.232573   0.272504
+mean    22.133333      0.721089      0.349082          0.637755     0.074429  116.236533   0.229916   0.377955
+std     21.270552      0.341139      0.195848          0.369568     0.065970   33.740931   0.232573   0.272504
 min      0.000000      0.002000      0.085600          0.000000     0.030200   70.821000   0.016500   0.000651
 25%      4.000000      0.496000      0.197000          0.302000     0.037600   87.814000   0.052700   0.108000
 50%     16.000000      0.899000      0.289000          0.845000     0.045300  114.760000   0.133000   0.417000
-75%     40.000000      0.974000      0.500000          0.935000     0.074000  138.040000   0.323000   0.596000
+75%     39.000000      0.974000      0.500000          0.935000     0.074000  138.040000   0.323000   0.596000
 max     78.000000      0.996000      0.789000          0.980000     0.283000  189.900000   0.865000   0.848000

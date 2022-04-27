@@ -1,5 +1,5 @@
-Electronic artists found: Don Diablo,Imanbek,Trevor Daniel, Joel Corry,Mabel, Topic,A7S, Joel Corry, Galantis,David Guetta,Little Mix, Hot Chip,Jarvis Cocker, Rezz,Metric, Andrew Rayel, La Roux,GAMPER & DADONI, John Summit,SIDEPIECE, Sam Feldt,Rita Ora, ILLENIUM,iann dior
-Electronic genres found: canadian electronic, tropical house, electronica, melodic dubstep, electro house, future house, chillwave, progressive house, uplifting trance, deep house
+Electronic artists found: Joel Corry,Mabel, Joel Corry, John Summit,SIDEPIECE, Topic,A7S, Rezz,Metric, La Roux,GAMPER & DADONI, Galantis,David Guetta,Little Mix, Sam Feldt,Rita Ora, Don Diablo,Imanbek,Trevor Daniel, ILLENIUM,iann dior, Andrew Rayel, Hot Chip,Jarvis Cocker
+Electronic genres found: melodic dubstep, canadian electronic, future house, progressive electro house, deep house, electro house, progressive house, uplifting trance, chillwave, electronica, tropical house
 Electronic music logs found: 75.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: tropical house (8.14%)
 	5: electro house (6.98%)
 Top artists
-	1: Sam Feldt (3.23%)
-	2: DJ Snake (3.23%)
-	3: GAMPER & DADONI (3.23%)
-	4: Trevor Daniel (3.23%)
-	5: AUDREY NUNA (3.23%)
+	1: Joel Corry (3.23%)
+	2: Chico Rose (3.23%)
+	3: Galantis (3.23%)
+	4: Don Diablo (3.23%)
+	5: Luude (3.23%)
 Top country
 	1: US (31.25%)
 	2: GB (25.00%)
@@ -34,11 +34,11 @@ Top year
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count    16.00000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
-mean     69.93750      0.080197      0.631625          0.001770     0.083531  121.506500   0.528037   0.796188
-std      17.04296      0.069130      0.128373          0.005975     0.063736   22.652445   0.208855   0.084924
-min      20.00000      0.003280      0.308000          0.000000     0.030900   79.887000   0.038600   0.652000
-25%      62.00000      0.018900      0.550000          0.000000     0.042550  121.009000   0.447250   0.740250
-50%      72.50000      0.080000      0.676500          0.000004     0.047850  123.992500   0.575000   0.784000
-75%      82.00000      0.105750      0.710250          0.000097     0.114250  125.275750   0.666750   0.857250
-max      92.00000      0.223000      0.789000          0.024000     0.218000  171.966000   0.816000   0.950000
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean    69.750000      0.080197      0.631625          0.001770     0.083531  121.506500   0.528037   0.796188
+std     16.870092      0.069130      0.128373          0.005975     0.063736   22.652445   0.208855   0.084924
+min     20.000000      0.003280      0.308000          0.000000     0.030900   79.887000   0.038600   0.652000
+25%     62.000000      0.018900      0.550000          0.000000     0.042550  121.009000   0.447250   0.740250
+50%     72.500000      0.080000      0.676500          0.000004     0.047850  123.992500   0.575000   0.784000
+75%     81.250000      0.105750      0.710250          0.000097     0.114250  125.275750   0.666750   0.857250
+max     91.000000      0.223000      0.789000          0.024000     0.218000  171.966000   0.816000   0.950000

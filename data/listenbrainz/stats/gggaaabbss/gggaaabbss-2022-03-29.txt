@@ -1,19 +1,19 @@
-Electronic artists found: Sam Fischer,Demi Lovato, Alesso,Katy Perry, Lost Frequencies,Calum Scott
-Electronic genres found: electro house, tropical house
+Electronic artists found: Alesso,Katy Perry, Sam Fischer,Demi Lovato, Lost Frequencies,Calum Scott
+Electronic genres found: tropical house, electro house
 Electronic music logs found: 4.69% 
 
 Top genres
-	1: pop (26.56%)
-	2: dance pop (15.10%)
-	3: post-teen pop (9.38%)
-	4: boy band (5.21%)
-	5: uk pop (4.69%)
+	1: pop (26.42%)
+	2: dance pop (15.03%)
+	3: post-teen pop (9.33%)
+	4: boy band (5.18%)
+	5: uk pop (4.66%)
 Top artists
-	1: Saweetie (1.96%)
-	2: Doja Cat (1.96%)
-	3: Ariana Grande (1.96%)
-	4: Fat Max Gsus (1.96%)
-	5: Camila Cabello (1.96%)
+	1: Calum Scott (1.96%)
+	2: Alexandre Carvalho (1.96%)
+	3: Doja Cat (1.96%)
+	4: Justus Bennetts (1.96%)
+	5: Silk Sonic (1.96%)
 Top country
 	1: US (60.94%)
 	2: GB (28.12%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   64.000000     64.000000     64.000000         64.000000    64.000000   64.000000  64.000000  64.000000
-mean    79.578125      0.183727      0.621766          0.009822     0.106581  124.746734   0.492186   0.676391
-std     14.631782      0.222907      0.125613          0.055631     0.102003   26.886436   0.233164   0.160771
+mean    78.812500      0.183727      0.621766          0.009822     0.106581  124.746734   0.492186   0.676391
+std     14.628603      0.222907      0.125613          0.055631     0.102003   26.886436   0.233164   0.160771
 min     21.000000      0.000168      0.374000          0.000000     0.026900   63.050000   0.084900   0.127000
-25%     76.000000      0.021875      0.532750          0.000000     0.043325  110.075500   0.320750   0.585000
-50%     81.000000      0.083350      0.633500          0.000000     0.062250  122.954500   0.483000   0.674500
-75%     88.250000      0.248000      0.687500          0.000003     0.121000  141.512250   0.677000   0.797000
-max    100.000000      0.859000      0.935000          0.391000     0.463000  205.593000   0.956000   0.951000
+25%     75.750000      0.021875      0.532750          0.000000     0.043325  110.075500   0.320750   0.585000
+50%     82.000000      0.083350      0.633500          0.000000     0.062250  122.954500   0.483000   0.674500
+75%     88.000000      0.248000      0.687500          0.000003     0.121000  141.512250   0.677000   0.797000
+max     97.000000      0.859000      0.935000          0.391000     0.463000  205.593000   0.956000   0.951000

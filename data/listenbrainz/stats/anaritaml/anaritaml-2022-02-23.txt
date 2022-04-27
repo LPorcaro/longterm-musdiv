@@ -1,19 +1,19 @@
-Electronic artists found: Patrice Rushen, fat jon
-Electronic genres found: disco, post-disco, downtempo
+Electronic artists found: fat jon, Patrice Rushen
+Electronic genres found: post-disco, downtempo, disco
 Electronic music logs found: 6.67% 
 
 Top genres
-	1: lo-fi jazzhop (10.45%)
-	2: indie soul (4.48%)
-	3: chillhop (2.99%)
-	4: jazz boom bap (2.99%)
-	5: escape room (2.99%)
+	1: lo-fi jazzhop (10.61%)
+	2: indie soul (4.55%)
+	3: chillhop (3.03%)
+	4: jazz boom bap (3.03%)
+	5: escape room (3.03%)
 Top artists
-	1: Miyuki Kuzuoka (2.78%)
-	2: maye (2.78%)
-	3: Arlo Parks (2.78%)
-	4: Matthias Bublath (2.78%)
-	5: Jr. Wellness (2.78%)
+	1: Benny Sings (2.78%)
+	2: fat jon (2.78%)
+	3: Miyuki Kuzuoka (2.78%)
+	4: Melody's Echo Chamber (2.78%)
+	5: Twit One (2.78%)
 Top country
 	1: DE (16.67%)
 	2: QM (13.33%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   30.000000     30.000000     30.000000         30.000000    30.000000   30.000000  30.000000  30.000000
-mean    54.133333      0.434623      0.660033          0.430401     0.088753  121.750100   0.497167   0.451567
-std      9.111317      0.324525      0.157773          0.411321     0.085919   37.912662   0.232295   0.210050
+mean    53.900000      0.434623      0.660033          0.430401     0.088753  121.750100   0.497167   0.451567
+std      8.774375      0.324525      0.157773          0.411321     0.085919   37.912662   0.232295   0.210050
 min     27.000000      0.004020      0.363000          0.000000     0.028100   75.020000   0.158000   0.178000
 25%     50.000000      0.097500      0.613000          0.004030     0.043075   84.903750   0.294500   0.274250
-50%     53.500000      0.505000      0.679500          0.370500     0.060050  113.006000   0.500500   0.430000
+50%     53.000000      0.505000      0.679500          0.370500     0.060050  113.006000   0.500500   0.430000
 75%     58.000000      0.740250      0.763000          0.863000     0.077150  153.005000   0.716750   0.558750
 max     71.000000      0.905000      0.918000          0.965000     0.417000  185.007000   0.962000   0.885000
