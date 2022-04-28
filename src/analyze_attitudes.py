@@ -20,7 +20,7 @@ TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
 ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
 ROUNDS =  ["00", "01", "02", "03", "04"]
 ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4"]
-GROUPS = ["g1", "g2"]
+GROUPS = ["HD", "LD"]
 SESSION1 = [str(x).zfill(2) for x in range(1,6)]
 SESSION2 = [str(x).zfill(2) for x in range(6,11)]
 SESSION3 = [str(x).zfill(2) for x in range(11,16)]
@@ -102,20 +102,20 @@ def plot_scores(df):
     axs[1,0].legend() 
     plt.ylim([-1,1])
     plt.show()
-    # Plot D-score joint
-    for group, c in zip(GROUPS, ["b","g"]):
-        df_group = df[df.group == group]
-        for pid in df_group.PROLIFIC_PID.unique():
-            x = range(len(ROUNDS))
-            y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
-                 ].d_score.item() for att_round in ROUNDS]
-            plt.plot(x, y, c=c, label=group)
-    plt.title('D-score')
-    plt.xticks(x, ROUNDS_LAB, horizontalalignment='right')
-    plt.legend()
-    plt.grid()
-    plt.ylim([-1,1])
-    plt.show()
+    # # Plot D-score joint
+    # for group, c in zip(GROUPS, ["b","g"]):
+    #     df_group = df[df.group == group]
+    #     for pid in df_group.PROLIFIC_PID.unique():
+    #         x = range(len(ROUNDS))
+    #         y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
+    #              ].d_score.item() for att_round in ROUNDS]
+    #         plt.plot(x, y, c=c, label=group)
+    # plt.title('D-score')
+    # plt.xticks(x, ROUNDS_LAB, horizontalalignment='right')
+    # plt.legend()
+    # plt.grid()
+    # plt.ylim([-1,1])
+    # plt.show()
     # Plot Slope D-score
     fig, axs = plt.subplots()
     for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
@@ -160,19 +160,19 @@ def plot_scores(df):
     axs[0,0].legend()
     axs[1,0].legend() 
     plt.show()
-    # Plot O-score join
-    for group, c in zip(GROUPS, ["b","g"]):
-        df_group = df[df.group == group]
-        for pid in df_group.PROLIFIC_PID.unique():
-            x = range(len(ROUNDS))
-            y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
-                 ].o_score.item() for att_round in ROUNDS]
-            plt.plot(x, y, c=c, label=group)
-    plt.title('O-score')
-    plt.xticks(x, ROUNDS_LAB, horizontalalignment='right')
-    plt.legend()
-    plt.grid()
-    plt.show()
+    # # Plot O-score join
+    # for group, c in zip(GROUPS, ["b","g"]):
+    #     df_group = df[df.group == group]
+    #     for pid in df_group.PROLIFIC_PID.unique():
+    #         x = range(len(ROUNDS))
+    #         y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
+    #              ].o_score.item() for att_round in ROUNDS]
+    #         plt.plot(x, y, c=c, label=group)
+    # plt.title('O-score')
+    # plt.xticks(x, ROUNDS_LAB, horizontalalignment='right')
+    # plt.legend()
+    # plt.grid()
+    # plt.show()
     # Plot Slope O-score
     fig, axs = plt.subplots()
     for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
@@ -385,7 +385,6 @@ def plot_cntx(df):
                     CorrMatrix[r1,r2] = CorrMatrix[r2, r1] = rho_mean
 
             print(tabulate(CorrMatrix, headers=ROUNDS_LAB, tablefmt="github"))
-
 
 
 def plot_mixed(df1, df2):
@@ -605,6 +604,7 @@ def plot_ls(df):
             axs[n,m].set_xticks(np.arange(1, 21))
             axs[n,m].grid()
             axs[n,m].legend(loc=2)
+            axs[n,m].tick_params(axis="x", which="both", rotation=90)
     plt.suptitle('Playlist Interacted (cumulative)')
     plt.legend()
     plt.show()
@@ -621,6 +621,7 @@ def plot_ls(df):
             axs[n,m].set_xticks(np.arange(1, 21))
             axs[n,m].grid()
             axs[n,m].legend(loc=2)
+            axs[n,m].tick_params(axis="x", which="both", rotation=90)
 
     plt.suptitle('Track Familiarity (cumulative)')
     plt.legend()
@@ -639,6 +640,7 @@ def plot_ls(df):
             axs[n,m].set_xticks(np.arange(1, 21))
             axs[n,m].grid()
             axs[n,m].legend(loc=2)
+            axs[n,m].tick_params(axis="x", which="both", rotation=90)
 
     plt.suptitle('Track Liked (cumulative)')
     plt.legend()

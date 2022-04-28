@@ -43,6 +43,9 @@ ARTIST_FEATS = {"att1:1": "Gender",
 IAT_FOLDER = "../data/iat"
 ATT_FOLDER = "../data/attitudes"
 
+ROUNDS =  ["00", "01", "02", "03", "04"]
+
+GROUPS = ["HD", "LD"]
 
 def analyze_iat(iat_path):
     """
@@ -162,7 +165,7 @@ if __name__ == "__main__":
         group = args.group_name
         parse(att_round, group)
     else:
-        for att_round in ['00', '01', '02']:
-            for group in ['g1', 'g2']:
+        for att_round in ROUNDS:
+            for group in GROUPS:
                 parse(att_round, group)
 

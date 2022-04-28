@@ -3,30 +3,32 @@
 
 import os
 import csv
+import argparse
 
 
-ATT_DIR = "../data/attitudes/"
+ROUNDS =  ["00", "01", "02", "03", "04"]
 
-if __name__ == "__main__":
 
-    att_round = "04"
-
+def extract(att_round):
+    """
+    """
+    ATT_DIR = "../data/attitudes/"
     ATT_DIR = os.path.join(ATT_DIR, att_round)
     infile = os.path.join(ATT_DIR, 'all.csv')
-    outf_g1 = os.path.join(ATT_DIR, 'g1_{}.csv'.format(att_round))
-    outf_g2 = os.path.join(ATT_DIR, 'g2_{}.csv'.format(att_round))
+    outf_g1 = os.path.join(ATT_DIR, 'HD_{}.csv'.format(att_round))
+    outf_g2 = os.path.join(ATT_DIR, 'LD_{}.csv'.format(att_round))
 
-    g1, g2 = [], []
+    HD, LD = [], []
 
-    with open("../data/g1_PID.csv", 'r') as inf:
+    with open("../data/HD_PID.csv", 'r') as inf:
         _reader = csv.reader(inf)
         for row in _reader:
-            g1.append(row[0])
+            HD.append(row[0])
 
-    with open("../data/g2_PID.csv", 'r') as inf:
+    with open("../data/LD_PID.csv", 'r') as inf:
         _reader = csv.reader(inf)
         for row in _reader:
-            g2.append(row[0])
+            LD.append(row[0])
 
 
     with open(outf_g1, "w+") as outf1, open(outf_g2, "w+") as outf2, open(infile, 'r') as inf:
@@ -40,7 +42,32 @@ if __name__ == "__main__":
         _writer2.writerow(header)
 
         for row in _reader:
-            if row[23] in g1:
+            if row[23] in HD:
                 _writer1.writerow(row)
-            elif row[23] in g2:
-                _writer2.writerow(row)
+            elif row[23] in LD:
+                _writer2.writerow(row)   
+
+
+def arg_parser():
+    """
+    """
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-r", "--round", type=str, dest='round_name',
+                        help="Round name")
+    parser.add_argument("-a", "--all", action='store_true', dest='all',
+                        help="Parse all")
+    args = parser.parse_args()
+
+    return args
+
+
+if __name__ == "__main__":
+
+    args = arg_parser()
+
+    if not args.all:
+        att_round = args.round_name
+        extract(att_round)
+    else:
+        for att_round in ROUNDS:
+            extract(att_round)
