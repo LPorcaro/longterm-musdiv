@@ -1,3 +1,0 @@
-username,phase,genres_unique,genres_count,EM_genres_unique,EM_genres_unique(%),EM_genres_count,EM_genres_count(%),EM_genres_top_head(%),gini_genres,gini_EM_genres,artists_unique,artists_count,EM_artists_unique,EM_artists_unique(%),EM_artists_count,EM_artists_count(%),EM_artists_top_head(%),gini_artists,gini_EM_artists,tracks_unique,tracks_count,EM_tracks_unique,EM_tracks_unique(%),EM_tracks_count,EM_tracks_count(%),EM_tracks_top_head(%),gini_tracks,gini_EM_tracks
-SingleView,PRE,541,3556,116,21.44,958,26.94,5.36,0.41,0.37,1001,1839,373,37.26,589,32.03,5.79,0.38,0.32,939,1162,404,43.02,459,39.5,6.92,0.38,0.35
-SingleView,COND,511,4017,112,21.92,1133,28.21,5.28,0.47,0.41,1033,1870,282,27.3,530,28.34,6.58,0.38,0.36,1083,1205,408,37.67,439,36.43,4.52,0.34,0.34

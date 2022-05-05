@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+This script takes as input the prescreening data from PsyToolKit
+and computes the domain knowledge and openess score. As output,
+it gives the input data plus the columns with the scores computed.
+"""
+
 import pandas as pd
 import csv
 
@@ -54,7 +60,7 @@ GUTTMAN = ["guttman:1",
            ]
 
 infile = "../data/prescreening/data.csv"
-outfile = "../data/prescreening/data_new.csv"
+outfile = "../data/prescreening/data_enriched.csv"
 
 def get_weight(ans):
     """

@@ -1,5 +1,5 @@
-Electronic artists found: Kygo,Ellie Goulding, Anne-Marie,Little Mix, Calvin Harris,Ellie Goulding
-Electronic genres found: tropical house, electro house, progressive house
+Electronic artists found: Kygo,Ellie Goulding, Calvin Harris,Ellie Goulding, Anne-Marie,Little Mix
+Electronic genres found: electro house, tropical house, progressive house
 Electronic music logs found: 4.05% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: electropop (4.69%)
 	5: viral pop (3.65%)
 Top artists
-	1: Telmo Miranda (1.27%)
-	2: Guida (1.27%)
-	3: Andy Grammer (1.27%)
-	4: 5 Seconds of Summer (1.27%)
-	5: OneRepublic (1.27%)
+	1: Harry Styles (1.27%)
+	2: Saweetie (1.27%)
+	3: Nicki Minaj (1.27%)
+	4: Vânia Pereira (1.27%)
+	5: Carolina Gaitán - La Gaita (1.27%)
 Top country
 	1: US (72.97%)
 	2: GB (21.62%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   74.000000     74.000000     74.000000         74.000000    74.000000   74.000000  74.000000  74.000000
-mean    71.175676      0.221751      0.605270          0.000100     0.098266  133.585257   0.520300   0.653770
-std     19.393092      0.239207      0.136259          0.000333     0.087255   31.647080   0.225106   0.152306
+mean    72.229730      0.221751      0.605270          0.000100     0.098266  133.585257   0.520300   0.653770
+std     19.145118      0.239207      0.136259          0.000333     0.087255   31.647080   0.225106   0.152306
 min     30.000000      0.000168      0.291000          0.000000     0.026200   74.772000   0.059200   0.230000
-25%     63.500000      0.030500      0.540500          0.000000     0.046425  109.942000   0.373000   0.561750
+25%     65.250000      0.030500      0.540500          0.000000     0.046425  109.942000   0.373000   0.561750
 50%     76.000000      0.172500      0.602000          0.000000     0.060650  137.543500   0.511500   0.658500
-75%     86.750000      0.299750      0.700250          0.000006     0.118000  153.652000   0.693000   0.770750
+75%     87.500000      0.299750      0.700250          0.000006     0.118000  153.652000   0.693000   0.770750
 max    100.000000      0.915000      0.839000          0.002580     0.463000  205.863000   0.950000   0.916000

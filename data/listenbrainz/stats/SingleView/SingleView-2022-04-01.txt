@@ -1,19 +1,19 @@
-Electronic artists found: The Herbaliser, 9 Lazy 9, Hidden Orchestra, architecture in tokyo,Macross 82-99, Obskür, Ludovico Einaudi,Marco Decimo, Cassius, Funki Porcini, Yppah, Onra, Étienne de Crécy, Benny Benassi,The Biz, Yung Bae,Natvnomvzik, The Bucketheads, Tiga, Luke Howard,Jess Gillam,Jess Gillam Ensemble, Tim Deluxe,Sam Obernik, Spiller,Sophie Ellis-Bextor, Blockhead, Funkstar De Luxe, DJ Krush
-Electronic genres found: downtempo, intelligent dance music, danish electronic, hardvapour, trip hop, disco house, minimal techno, australian ambient, electronica, compositional ambient, canadian electronic, jazztronica, vaporwave, irish electronic, chillwave, electro house, wonky, hip house, big beat, future funk
+Electronic artists found: Tiga, Yung Bae,Natvnomvzik, Spiller,Sophie Ellis-Bextor, Obskür, Hidden Orchestra, Funki Porcini, Onra, Ludovico Einaudi,Marco Decimo, 9 Lazy 9, Yppah, Tim Deluxe,Sam Obernik, The Bucketheads, Luke Howard,Jess Gillam,Jess Gillam Ensemble, Benny Benassi,The Biz, Cassius, Funkstar De Luxe, DJ Krush, Blockhead, Étienne de Crécy, The Herbaliser, architecture in tokyo,Macross 82-99
+Electronic genres found: wonky, disco house, danish electronic, minimal techno, compositional ambient, electro house, australian ambient, electronica, future funk, hardvapour, chillwave, intelligent dance music, vaporwave, canadian electronic, downtempo, jazztronica, big beat, hip house, trip hop, irish electronic
 Electronic music logs found: 32.86% 
 
 Top genres
-	1: classical (10.57%)
-	2: electronica (4.88%)
-	3: post-romantic era (4.47%)
-	4: modern rock (4.47%)
-	5: permanent wave (4.47%)
+	1: classical (10.61%)
+	2: electronica (4.90%)
+	3: post-romantic era (4.49%)
+	4: modern rock (4.49%)
+	5: permanent wave (4.49%)
 Top artists
-	1: Erik Satie (1.04%)
-	2: Alexandre Tharaud (1.04%)
-	3: Gabriel Fauré (1.04%)
-	4: Eddie Johns (1.04%)
-	5: Sofja Gülbadamova (1.04%)
+	1: Myd (1.04%)
+	2: Eivind Aadland (1.04%)
+	3: Nathanaël Gouin (1.04%)
+	4: MoodBlast (1.04%)
+	5: Starjunk 95 (1.04%)
 Top country
 	1: GB (52.86%)
 	2: FR (20.00%)
@@ -37,7 +37,7 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   70.000000     70.000000     70.000000         70.000000    70.000000   70.000000  70.000000  70.000000
 mean    52.728571      0.472653      0.448553          0.584112     0.074430  111.283414   0.309241   0.430719
-std     10.968891      0.452986      0.244453          0.390152     0.084312   30.138228   0.276875   0.373417
+std     10.983415      0.452986      0.244453          0.390152     0.084312   30.138228   0.276875   0.373417
 min     30.000000      0.000007      0.078300          0.000002     0.025500   62.225000   0.030800   0.003000
 25%     45.250000      0.008828      0.254250          0.105675     0.038425   84.587250   0.077175   0.029675
 50%     51.500000      0.355500      0.405000          0.831500     0.046900  121.085500   0.196000   0.441500

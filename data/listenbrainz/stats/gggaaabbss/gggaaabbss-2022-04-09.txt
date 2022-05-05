@@ -1,19 +1,19 @@
-Electronic artists found: Anitta,Lexa,Luísa Sonza,Rebecca, Lexa,PEDRO SAMPAIO, Pabllo Vittar, Luísa Sonza,Pabllo Vittar,Anitta, LUDMILLA, MC Kevinho, Anitta,PEDRO SAMPAIO, Mc João, Major Lazer,Anitta,Pabllo Vittar, Naiara Azevedo,Maiara & Maraisa
-Electronic genres found: moombahton, tropical house, electro house, funk carioca
+Electronic artists found: Pabllo Vittar, Lexa,PEDRO SAMPAIO, Major Lazer,Anitta,Pabllo Vittar, Naiara Azevedo,Maiara & Maraisa, LUDMILLA, MC Kevinho, Anitta,PEDRO SAMPAIO, Mc João, Anitta,Lexa,Luísa Sonza,Rebecca, Luísa Sonza,Pabllo Vittar,Anitta
+Electronic genres found: electro house, funk carioca, tropical house, moombahton
 Electronic music logs found: 12.09% 
 
 Top genres
-	1: pop (23.51%)
-	2: post-teen pop (17.53%)
-	3: dance pop (13.94%)
-	4: hollywood (7.57%)
-	5: funk carioca (3.98%)
+	1: pop (23.23%)
+	2: post-teen pop (17.32%)
+	3: dance pop (13.78%)
+	4: hollywood (7.48%)
+	5: funk carioca (3.94%)
 Top artists
-	1: China Anne McClain (1.14%)
-	2: Luis Peixoto (1.14%)
-	3: Imagine Dragons (1.14%)
-	4: LUDMILLA (1.14%)
-	5: Vanessa Hudgens (1.14%)
+	1: Ross Lynch (1.14%)
+	2: Harry Styles (1.14%)
+	3: Cast of Mamma Mia! The Movie (1.14%)
+	4: Ashley Lilley (1.14%)
+	5: Sharpay Evans (1.14%)
 Top country
 	1: US (70.33%)
 	2: GB (12.09%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   91.000000     91.000000     91.000000         91.000000    91.000000   91.000000  91.000000  91.000000
-mean    67.373626      0.157277      0.650253          0.000512     0.077384  129.757198   0.626824   0.750967
-std     14.750253      0.183885      0.140548          0.002784     0.055527   28.406571   0.188188   0.154669
+mean    68.318681      0.157277      0.650253          0.000512     0.077384  129.757198   0.626824   0.750967
+std     14.975446      0.183885      0.140548          0.002784     0.055527   28.406571   0.188188   0.154669
 min     37.000000      0.000653      0.332000          0.000000     0.025400   76.039000   0.218000   0.225000
 25%     57.000000      0.024550      0.541000          0.000000     0.038550  112.535500   0.488000   0.687500
-50%     66.000000      0.081400      0.676000          0.000000     0.056200  129.385000   0.662000   0.767000
-75%     77.000000      0.240000      0.757000          0.000014     0.096850  147.447500   0.770500   0.861000
+50%     67.000000      0.081400      0.676000          0.000000     0.056200  129.385000   0.662000   0.767000
+75%     77.500000      0.240000      0.757000          0.000014     0.096850  147.447500   0.770500   0.861000
 max    100.000000      0.767000      0.913000          0.025000     0.266000  185.539000   0.964000   0.977000

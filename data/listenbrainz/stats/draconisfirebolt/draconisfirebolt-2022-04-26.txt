@@ -1,0 +1,38 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: pop (40.74%)
+	2: english indie rock (18.52%)
+	3: boy band (7.41%)
+	4: post-teen pop (7.41%)
+	5: talent show (7.41%)
+Top artists
+	1: Louis Tomlinson (25.00%)
+	2: One Direction (25.00%)
+	3: Catfish and the Bottlemen (25.00%)
+	4: Only The Poets (25.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: HMU (64.71%)
+	2: KPL (29.41%)
+	3: UM7 (5.88%)
+Top year
+	1: 19 (64.71%)
+	2: 17 (11.76%)
+	3: 13 (5.88%)
+	4: 18 (5.88%)
+	5: 16 (5.88%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   17.000000     17.000000     17.000000         17.000000    17.000000   17.000000  17.000000  17.000000
+mean    62.823529      0.119775      0.554824          0.000187     0.036112  121.903412   0.478882   0.699824
+std     10.187218      0.181800      0.081849          0.000704     0.006829   25.892835   0.223182   0.125999
+min     46.000000      0.000204      0.403000          0.000000     0.028000   75.027000   0.174000   0.466000
+25%     51.000000      0.016600      0.516000          0.000000     0.030800  100.073000   0.279000   0.648000
+50%     66.000000      0.053600      0.559000          0.000000     0.034200  126.031000   0.508000   0.703000
+75%     70.000000      0.109000      0.593000          0.000003     0.041000  142.065000   0.595000   0.780000
+max     79.000000      0.736000      0.730000          0.002910     0.051100  155.082000   0.935000   0.896000

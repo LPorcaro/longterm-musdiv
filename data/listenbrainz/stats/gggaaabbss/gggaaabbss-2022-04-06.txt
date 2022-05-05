@@ -1,5 +1,5 @@
-Electronic artists found: Clean Bandit,Zara Larsson, Diplo,TSHA,Kareen Lomax, Becky Hill,David Guetta, Alesso,CORSAK, Tiësto,Ava Max, John K,Kelsea Ballerini
-Electronic genres found: brostep, moombahton, electro house, slap house, tropical house, uk funky
+Electronic artists found: Clean Bandit,Zara Larsson, John K,Kelsea Ballerini, Becky Hill,David Guetta, Diplo,TSHA,Kareen Lomax, Alesso,CORSAK, Tiësto,Ava Max
+Electronic genres found: slap house, electro house, moombahton, uk funky, brostep, tropical house
 Electronic music logs found: 9.09% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: glee club (7.34%)
 	5: hollywood (7.34%)
 Top artists
-	1: Gwyneth Paltrow (1.79%)
-	2: Lewis Capaldi (1.79%)
-	3: Kelly Clarkson (1.79%)
-	4: DaBaby (1.79%)
-	5: Doja Cat (1.79%)
+	1: Dua Lipa (1.79%)
+	2: Taylor Swift (1.79%)
+	3: Shawn Mendes (1.79%)
+	4: Myke Towers (1.79%)
+	5: Saweetie (1.79%)
 Top country
 	1: US (77.27%)
 	2: GB (15.15%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   66.000000     66.000000     66.000000         66.000000    66.000000   66.000000  66.000000  66.000000
-mean    71.727273      0.158001      0.660712          0.007009     0.075858  121.414197   0.550998   0.703227
-std     16.478000      0.222856      0.132208          0.036475     0.073185   23.755530   0.230729   0.173453
+mean    72.287879      0.158001      0.660712          0.007009     0.075858  121.414197   0.550998   0.703227
+std     16.869422      0.222856      0.132208          0.036475     0.073185   23.755530   0.230729   0.173453
 min     38.000000      0.000168      0.357000          0.000000     0.027000   75.002000   0.084900   0.324000
 25%     57.500000      0.008350      0.572000          0.000000     0.037550  104.252250   0.356500   0.592000
-50%     77.500000      0.056200      0.672000          0.000000     0.051800  121.997500   0.560500   0.732000
-75%     84.000000      0.204750      0.750000          0.000030     0.074575  132.514000   0.731500   0.843000
+50%     78.500000      0.056200      0.672000          0.000000     0.051800  121.997500   0.560500   0.732000
+75%     85.750000      0.204750      0.750000          0.000030     0.074575  132.514000   0.731500   0.843000
 max    100.000000      0.833000      0.957000          0.263000     0.463000  176.000000   0.962000   0.968000

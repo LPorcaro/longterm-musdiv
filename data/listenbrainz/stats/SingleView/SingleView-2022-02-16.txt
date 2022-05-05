@@ -1,5 +1,5 @@
-Electronic artists found: Nihiloxica, PEDRO, PEDRO,Kelman Duran, GÅEL, Dengue Dengue Dengue, Ela Minus, Dengue Dengue Dengue,Mikongo,Sara Van, Alexis Ffrench, Tremor,Populous, Acid Arab,A-WA, DNGDNGDNG,Dengue Dengue Dengue, Populous,Sotomayor, Clap! Clap!, Populous,Barda, Clap! Clap!,Domenico Candellori, Clap! Clap!,Martha Da'ro, Shushupe, PAUZA
-Electronic genres found: compositional ambient, ambient worship, pop electronico, deep progressive trance, indie electronica, arab electronic, electronica peruana, kuduro, italian electronica, cuban electronic, african electronic
+Electronic artists found: Clap! Clap!,Domenico Candellori, Populous,Barda, Dengue Dengue Dengue, Ela Minus, GÅEL, Tremor,Populous, Alexis Ffrench, Dengue Dengue Dengue,Mikongo,Sara Van, Populous,Sotomayor, Nihiloxica, PEDRO,Kelman Duran, PEDRO, Shushupe, PAUZA, Acid Arab,A-WA, DNGDNGDNG,Dengue Dengue Dengue, Clap! Clap!,Martha Da'ro, Clap! Clap!
+Electronic genres found: indie electronica, compositional ambient, italian electronica, arab electronic, cuban electronic, electronica peruana, african electronic, kuduro, ambient worship, pop electronico, deep progressive trance
 Electronic music logs found: 48.15% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: classical (6.56%)
 	5: peruvian indie (6.56%)
 Top artists
-	1: ÌFÉ (1.54%)
-	2: Erik Satie (1.54%)
-	3: A-WA (1.54%)
-	4: GÅEL (1.54%)
-	5: Sir Simon Rattle (1.54%)
+	1: Dengue Dengue Dengue (1.54%)
+	2: Acid Arab (1.54%)
+	3: Camille Saint-Saëns (1.54%)
+	4: Sotomayor (1.54%)
+	5: Arvo Pärt (1.54%)
 Top country
 	1: GB (29.63%)
 	2: US (22.22%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   54.000000     54.000000     54.000000         54.000000    54.000000   54.000000  54.000000  54.000000
-mean    37.759259      0.408123      0.592759          0.682187     0.085457  110.164037   0.318228   0.418657
-std     15.379397      0.419441      0.247175          0.320166     0.072019   27.795722   0.245712   0.283667
-min      8.000000      0.001430      0.102000          0.000160     0.032100   58.531000   0.030800   0.004010
+mean    37.796296      0.408123      0.592759          0.682187     0.085457  110.164037   0.318228   0.418657
+std     15.379942      0.419441      0.247175          0.320166     0.072019   27.795722   0.245712   0.283667
+min      9.000000      0.001430      0.102000          0.000160     0.032100   58.531000   0.030800   0.004010
 25%     26.000000      0.014875      0.407500          0.503000     0.047625   90.008750   0.122750   0.066625
 50%     37.000000      0.203000      0.709000          0.862000     0.055450  108.993000   0.276000   0.498000
 75%     46.000000      0.957750      0.795500          0.916250     0.092825  125.030250   0.471750   0.637250

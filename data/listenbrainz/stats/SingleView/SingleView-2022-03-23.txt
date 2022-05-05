@@ -1,5 +1,5 @@
-Electronic artists found: Daphni, O'Flynn, Ryuichi Sakamoto,Jaques Morelenbaum,Judy Kang, Jay Daniel, Pye Corner Audio, Murcof,Vanessa Wagner, Leon Vynehall, Aleksandir, Project Pablo,Patrick Holland, Sea Oleena, Lone, David Sylvian, Agua Re, K. Leimer, Ryuichi Sakamoto, Steve Reich,Ensemble Signal, Ana Roxanne, Rei Harakami, Roedelius,Arnold Kasar, Apparat, Ben Lukas Boysen, Moomin, Nils Frahm,Remy Van Kesteren, Squarepusher, Meredith Monk,Bruce Brubaker,Ursula Oppens, Project Pablo, Biosphere, Susumu Yokota, Jon Sable, Pole, Bella Boo, Roger Eno
-Electronic genres found: downtempo, nz electronic, experimental electronic, future garage, microhouse, experimental ambient, tijuana electronic, intelligent dance music, neoclassical darkwave, uk bass, trip hop, nordic ambient, minimal techno, electronica, j-ambient, glitch, new wave, compositional ambient, ambient, japanese jazztronica, ambient pop, canadian electronic, deep house, japanese electronic, italo house, berlin school, ambient house, dub techno, chillwave, wonky, hauntology, swedish electronic, drone, solo wave, detroit techno
+Electronic artists found: Moomin, Biosphere, Pole, O'Flynn, Nils Frahm,Remy Van Kesteren, Leon Vynehall, Roedelius,Arnold Kasar, Rei Harakami, Murcof,Vanessa Wagner, Project Pablo, Jay Daniel, Susumu Yokota, Steve Reich,Ensemble Signal, Aleksandir, Ana Roxanne, Agua Re, Meredith Monk,Bruce Brubaker,Ursula Oppens, Squarepusher, Ben Lukas Boysen, K. Leimer, Project Pablo,Patrick Holland, Pye Corner Audio, Sea Oleena, Daphni, David Sylvian, Lone, Bella Boo, Apparat, Roger Eno, Ryuichi Sakamoto,Jaques Morelenbaum,Judy Kang, Ryuichi Sakamoto, Jon Sable
+Electronic genres found: wonky, deep house, new wave, minimal techno, microhouse, ambient, compositional ambient, drone, neoclassical darkwave, electronica, future garage, uk bass, nz electronic, swedish electronic, experimental ambient, dub techno, tijuana electronic, chillwave, detroit techno, intelligent dance music, glitch, berlin school, j-ambient, canadian electronic, experimental electronic, japanese electronic, japanese jazztronica, downtempo, ambient pop, trip hop, italo house, solo wave, nordic ambient, hauntology, ambient house
 Electronic music logs found: 59.16% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: ambient (3.86%)
 	5: fourth world (3.86%)
 Top artists
-	1: Daphni (1.52%)
-	2: ARIETE (1.52%)
-	3: Judy Kang (1.52%)
-	4: Erik Satie (1.52%)
-	5: Chilly Gonzales (1.52%)
+	1: Judy Kang (1.52%)
+	2: Moomin (1.52%)
+	3: Biosphere (1.52%)
+	4: Pole (1.52%)
+	5: Depha Beat (1.52%)
 Top country
 	1: GB (26.76%)
 	2: IT (21.13%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
 count   71.000000     71.000000     71.000000         71.000000    71.000000   71.00000  71.000000  71.000000
-mean    41.253521      0.624331      0.492407          0.629275     0.079776  110.13707   0.313342   0.389143
-std     13.085126      0.382923      0.206438          0.384339     0.081512   33.29550   0.275117   0.298138
+mean    41.084507      0.624331      0.492407          0.629275     0.079776  110.13707   0.313342   0.389143
+std     13.218760      0.382923      0.206438          0.384339     0.081512   33.29550   0.275117   0.298138
 min     11.000000      0.000710      0.092900          0.000000     0.026600   36.95900   0.024500   0.003260
-25%     32.000000      0.191000      0.340500          0.218550     0.037400   84.38150   0.070400   0.112500
+25%     31.500000      0.191000      0.340500          0.218550     0.037400   84.38150   0.070400   0.112500
 50%     40.000000      0.822000      0.499000          0.861000     0.045700  107.29800   0.238000   0.360000
 75%     50.000000      0.961000      0.636500          0.907500     0.059750  125.00250   0.496000   0.637000
 max     72.000000      0.996000      0.895000          0.971000     0.351000  183.95500   0.965000   0.945000

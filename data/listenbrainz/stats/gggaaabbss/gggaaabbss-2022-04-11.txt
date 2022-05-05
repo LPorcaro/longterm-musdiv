@@ -1,19 +1,19 @@
-Electronic artists found: Alesso,Katy Perry, Anne-Marie,Little Mix, Tiësto,Ava Max
-Electronic genres found: slap house, tropical house, brostep, electro house
+Electronic artists found: Anne-Marie,Little Mix, Alesso,Katy Perry, Tiësto,Ava Max
+Electronic genres found: slap house, electro house, brostep, tropical house
 Electronic music logs found: 5.08% 
 
 Top genres
-	1: pop (14.50%)
-	2: modern rock (13.00%)
-	3: dance pop (12.00%)
-	4: rock (6.50%)
-	5: post-teen pop (6.00%)
+	1: pop (14.43%)
+	2: modern rock (12.94%)
+	3: dance pop (11.94%)
+	4: post-teen pop (6.47%)
+	5: rock (6.47%)
 Top artists
-	1: Shoba Narayan (2.38%)
-	2: Ari Afsar (2.38%)
-	3: Anne-Marie (2.38%)
-	4: Rachelle Ann Go (2.38%)
-	5: lovelytheband (2.38%)
+	1: Dua Lipa (2.38%)
+	2: Shoba Narayan (2.38%)
+	3: Twenty One Pilots (2.38%)
+	4: MAX (2.38%)
+	5: Taylor Swift (2.38%)
 Top country
 	1: US (67.80%)
 	2: GB (16.95%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   59.000000     59.000000     59.000000         59.000000    59.000000   59.000000  59.000000  59.000000
-mean    72.169492      0.063046      0.606153          0.000028     0.103788  124.934542   0.570915   0.778102
-std     10.530993      0.134843      0.146010          0.000135     0.089252   32.203679   0.171811   0.147750
+mean    72.576271      0.063046      0.606153          0.000028     0.103788  124.934542   0.570915   0.778102
+std     10.869450      0.134843      0.146010          0.000135     0.089252   32.203679   0.171811   0.147750
 min     46.000000      0.000558      0.271000          0.000000     0.027800   77.009000   0.101000   0.280000
 25%     66.000000      0.005625      0.501000          0.000000     0.051100   99.999000   0.466500   0.709500
-50%     72.000000      0.019400      0.596000          0.000000     0.070900  119.965000   0.570000   0.833000
-75%     78.000000      0.066550      0.664000          0.000000     0.115500  156.007000   0.672500   0.887000
+50%     73.000000      0.019400      0.596000          0.000000     0.070900  119.965000   0.570000   0.833000
+75%     79.000000      0.066550      0.664000          0.000000     0.115500  156.007000   0.672500   0.887000
 max    100.000000      0.918000      0.963000          0.001010     0.463000  184.353000   0.965000   0.951000

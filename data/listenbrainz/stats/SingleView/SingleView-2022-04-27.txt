@@ -1,0 +1,38 @@
+Electronic artists found: Roger Eno,Scoring Berlin, Niklas Paschburg,Andy Barlow, Balmorhea, Tony Anderson
+Electronic genres found: ambient, neoclassical darkwave, compositional ambient, ambient worship
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: compositional ambient (18.75%)
+	2: ambient worship (12.50%)
+	3: instrumental worship (12.50%)
+	4: ambient (6.25%)
+	5: art rock (6.25%)
+Top artists
+	1: Scoring Berlin (16.67%)
+	2: Andy Barlow (16.67%)
+	3: Roger Eno (16.67%)
+	4: Tony Anderson (16.67%)
+	5: Balmorhea (16.67%)
+Top country
+	1: DE (60.00%)
+	2: GB (40.00%)
+Top record
+	1: N96 (40.00%)
+	2: KPL (40.00%)
+	3: G93 (20.00%)
+Top year
+	1: 19 (60.00%)
+	2: 21 (20.00%)
+	3: 22 (20.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness     tempo   valence    energy
+count    5.000000      5.000000      5.000000          5.000000     5.000000   5.00000  5.000000  5.000000
+mean    44.800000      0.961200      0.396600          0.912800     0.034160  77.98780  0.062800  0.123660
+std      5.848077      0.006261      0.125209          0.033841     0.003393  14.13596  0.054696  0.073506
+min     37.000000      0.952000      0.218000          0.874000     0.028300  62.74800  0.034100  0.036300
+25%     40.000000      0.959000      0.336000          0.897000     0.034800  68.63600  0.034100  0.052000
+50%     49.000000      0.961000      0.403000          0.897000     0.034800  72.57100  0.036600  0.160000
+75%     49.000000      0.967000      0.513000          0.941000     0.036000  92.99200  0.049200  0.185000
+max     49.000000      0.967000      0.513000          0.955000     0.036900  92.99200  0.160000  0.185000

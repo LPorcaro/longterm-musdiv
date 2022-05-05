@@ -1,5 +1,5 @@
 Electronic artists found: Jubël,NEIMY, JP Cooper,Astrid S
-Electronic genres found: tropical house, deep house
+Electronic genres found: deep house, tropical house
 Electronic music logs found: 10.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop (7.58%)
 	5: uk pop (4.55%)
 Top artists
-	1: Thomas Rhett (6.67%)
-	2: One Direction (6.67%)
-	3: Queen (6.67%)
-	4: Ed Sheeran (6.67%)
-	5: Jubël (6.67%)
+	1: No Doubt (6.67%)
+	2: JP Cooper (6.67%)
+	3: Patrik Jean (6.67%)
+	4: Thomas Rhett (6.67%)
+	5: Queen (6.67%)
 Top country
 	1: US (65.00%)
 	2: GB (25.00%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   20.000000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.000000
-mean    61.300000      0.257737      0.595950          0.000481     0.073090  128.445650   0.580100   0.694295
-std     15.593858      0.262210      0.147081          0.001619     0.049902   30.445747   0.230104   0.256662
+mean    61.000000      0.257736      0.595950          0.000481     0.073090  128.445650   0.580100   0.694295
+std     15.778066      0.262210      0.147081          0.001619     0.049902   30.445747   0.230104   0.256662
 min     38.000000      0.001330      0.275000          0.000000     0.025600   76.039000   0.193000   0.054900
 25%     46.750000      0.027425      0.516000          0.000000     0.041725  107.079750   0.423000   0.561500
 50%     59.000000      0.198000      0.620000          0.000000     0.062150  127.474500   0.572500   0.786000

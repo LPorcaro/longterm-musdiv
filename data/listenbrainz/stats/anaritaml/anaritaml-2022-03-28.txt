@@ -1,5 +1,5 @@
-Electronic artists found: chromonicci, Rezz,PVRIS, Oliver Heldens,Party Pupils,MAX, Jax Jones,Au/Ra, Joel Corry,Jax Jones,Charli XCX,Saweetie, Sam Feldt,Rita Ora, KSHMR,Stefy De Cicco,MKLA, TroyBoi,Healthy Chill, Lane 8,Kasablanca, Joel Corry,MNEK, Valentino Khan,Nitti Gritti, R3HAB,GATTÜSO, Swedish House Mafia,Ty Dolla $ign,070 Shake
-Electronic genres found: brostep, moombahton, canadian electronic, progressive electro house, electronic trap, future house, future bass, electro house, dutch house, progressive house, bass house, slap house, tropical house
+Electronic artists found: TroyBoi,Healthy Chill, Oliver Heldens,Party Pupils,MAX, Lane 8,Kasablanca, KSHMR,Stefy De Cicco,MKLA, Joel Corry,Jax Jones,Charli XCX,Saweetie, chromonicci, Rezz,PVRIS, Swedish House Mafia,Ty Dolla $ign,070 Shake, Sam Feldt,Rita Ora, Joel Corry,MNEK, R3HAB,GATTÜSO, Jax Jones,Au/Ra, Valentino Khan,Nitti Gritti
+Electronic genres found: slap house, progressive house, electro house, future house, bass house, moombahton, brostep, progressive electro house, canadian electronic, future bass, electronic trap, tropical house, dutch house
 Electronic music logs found: 48.15% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop dance (7.48%)
 	5: tropical house (7.48%)
 Top artists
-	1: Joel Corry (1.89%)
-	2: KSHMR (1.89%)
-	3: Jackson Wang (1.89%)
-	4: Galantis (1.89%)
-	5: R3HAB (1.89%)
+	1: Swedish House Mafia (1.89%)
+	2: MAX (1.89%)
+	3: Lil Mosey (1.89%)
+	4: Jax Jones (1.89%)
+	5: MKLA (1.89%)
 Top country
 	1: US (37.04%)
 	2: NL (25.93%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
-mean    69.148148      0.194896      0.718519          0.177948     0.077781  125.312926   0.572074   0.652963
-std     13.323501      0.238846      0.111688          0.331718     0.066830   21.028382   0.248193   0.187932
+mean    68.851852      0.194896      0.718519          0.177948     0.077781  125.312926   0.572074   0.652963
+std     13.201701      0.238846      0.111688          0.331718     0.066830   21.028382   0.248193   0.187932
 min     40.000000      0.003740      0.366000          0.000000     0.025900   84.991000   0.122000   0.300000
 25%     64.000000      0.024050      0.661000          0.000000     0.043850  117.480000   0.387000   0.468000
-50%     70.000000      0.083000      0.744000          0.000011     0.056500  124.075000   0.653000   0.692000
+50%     66.000000      0.083000      0.744000          0.000011     0.056500  124.075000   0.653000   0.692000
 75%     78.500000      0.321000      0.790000          0.065150     0.072750  133.728000   0.781000   0.817500
 max     94.000000      0.798000      0.888000          0.908000     0.296000  172.022000   0.905000   0.960000

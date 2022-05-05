@@ -1,5 +1,5 @@
-Electronic artists found: Broadcast, Brian Eno, Ludovico Einaudi, Siriusmo, Aphex Twin, Stars Of The Lid, trentemøller, Nils Frahm, Tim Hecker, Plaid,Benet Walsh
-Electronic genres found: intelligent dance music, danish electronic, ambient, uk experimental electronic, compositional ambient, neoclassical darkwave, warm drone, microhouse, chillwave, hauntology, minimal techno, new isolationism, drone, experimental ambient, electronica
+Electronic artists found: Ludovico Einaudi, Stars Of The Lid, Tim Hecker, Siriusmo, Nils Frahm, trentemøller, Broadcast, Brian Eno, Aphex Twin, Plaid,Benet Walsh
+Electronic genres found: uk experimental electronic, minimal techno, microhouse, ambient, chillwave, compositional ambient, new isolationism, drone, intelligent dance music, electronica, neoclassical darkwave, warm drone, hauntology, experimental ambient, danish electronic
 Electronic music logs found: 88.89% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: danish electronic (8.97%)
 	5: danish electropop (8.97%)
 Top artists
-	1: Broadcast (6.25%)
-	2: Benet Walsh (6.25%)
-	3: Riccardo Chiaberta (6.25%)
-	4: Brian Eno (6.25%)
-	5: Ludovico Einaudi (6.25%)
+	1: Ludovico Einaudi (6.25%)
+	2: Moonfish (6.25%)
+	3: Stars Of The Lid (6.25%)
+	4: Riccardo Chiaberta (6.25%)
+	5: Stephan Moccio (6.25%)
 Top country
 	1: DE (59.26%)
 	2: GB (25.93%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
-mean    43.407407      0.473878      0.479107          0.827541     0.052456  117.685148   0.170719   0.308833
-std     12.564478      0.405371      0.210407          0.231146     0.045522   28.914363   0.138379   0.236214
+mean    43.296296      0.473878      0.479107          0.827541     0.052456  117.685148   0.170719   0.308833
+std     12.430777      0.405371      0.210407          0.231146     0.045522   28.914363   0.138379   0.236214
 min     26.000000      0.013300      0.062900          0.014100     0.027100   67.250000   0.032400   0.002290
 25%     32.500000      0.088800      0.315500          0.857500     0.036600  104.716000   0.078450   0.071400
 50%     42.000000      0.277000      0.534000          0.885000     0.039700  118.016000   0.102000   0.398000

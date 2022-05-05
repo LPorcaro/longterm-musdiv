@@ -1,0 +1,41 @@
+Electronic artists found: MEDUZA,Dermot Kennedy, Hot Chip,Jarvis Cocker, Calvin Harris, Paul Woolford,Amber Mark
+Electronic genres found: chillwave, progressive house, electro house, electronica, tropical house
+Electronic music logs found: 25.00% 
+
+Top genres
+	1: pop (16.90%)
+	2: dance pop (12.68%)
+	3: post-teen pop (4.23%)
+	4: pop dance (4.23%)
+	5: pop rock (4.23%)
+Top artists
+	1: Dua Lipa (4.76%)
+	2: Phoenix (4.76%)
+	3: Jonas Brothers (4.76%)
+	4: Paul Woolford (4.76%)
+	5: Whitney Houston (4.76%)
+Top country
+	1: US (56.25%)
+	2: GB (37.50%)
+	3: FR (6.25%)
+Top record
+	1: UM7 (25.00%)
+	2: AT2 (18.75%)
+	3: AHT (6.25%)
+	4: ARL (6.25%)
+	5: CEN (6.25%)
+Top year
+	1: 20 (56.25%)
+	2: 21 (31.25%)
+	3: 11 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence    energy
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.00000
+mean    69.750000      0.089289      0.681375          0.053252     0.074494  119.193500   0.598562   0.75950
+std     19.108462      0.150242      0.059022          0.209545     0.056490   13.029197   0.241492   0.14569
+min     20.000000      0.000237      0.576000          0.000000     0.029200   87.981000   0.183000   0.41300
+25%     63.750000      0.005723      0.630750          0.000000     0.035500  115.247000   0.435750   0.70300
+50%     76.000000      0.021400      0.693500          0.000000     0.044250  121.500000   0.640000   0.76950
+75%     80.000000      0.086525      0.710750          0.000003     0.102575  127.954000   0.784500   0.87050
+max     95.000000      0.554000      0.789000          0.839000     0.220000  140.069000   0.919000   0.93400

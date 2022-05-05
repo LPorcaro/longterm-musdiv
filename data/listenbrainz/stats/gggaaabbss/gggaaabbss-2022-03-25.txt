@@ -1,5 +1,5 @@
 Electronic artists found: Duke Dumont,Jax Jones
-Electronic genres found: tropical house, destroy techno, electro house, progressive house
+Electronic genres found: electro house, tropical house, progressive house, destroy techno
 Electronic music logs found: 2.38% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: dance pop (6.58%)
 	5: hollywood (5.26%)
 Top artists
-	1: Sara Madeira (1.79%)
-	2: Diogo Pinto (1.79%)
-	3: Samuel E. Wright (1.79%)
-	4: Polo G (1.79%)
-	5: Pedro Leitão (1.79%)
+	1: Encanto - Elenco (1.79%)
+	2: Jax Jones (1.79%)
+	3: Ana Cloe (1.79%)
+	4: Pedro Gonalves (1.79%)
+	5: Saweetie (1.79%)
 Top country
 	1: US (78.57%)
 	2: GB (11.90%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   42.000000     42.000000     42.000000         42.000000    42.000000   42.000000  42.000000  42.000000
-mean    52.428571      0.360115      0.632238          0.066831     0.112979  122.302381   0.528186   0.555707
-std     21.193813      0.318427      0.135976          0.225355     0.079799   36.485695   0.198412   0.188196
+mean    53.547619      0.360115      0.632238          0.066831     0.112979  122.302381   0.528186   0.555707
+std     21.422808      0.318427      0.135976          0.225355     0.079799   36.485695   0.198412   0.188196
 min     20.000000      0.000168      0.336000          0.000000     0.033700   68.723000   0.081900   0.073700
 25%     32.500000      0.039925      0.525500          0.000000     0.047500   91.795500   0.433250   0.468250
-50%     44.500000      0.299500      0.669000          0.000000     0.075100  119.983000   0.537500   0.569500
-75%     69.500000      0.539000      0.729750          0.000180     0.180250  139.998000   0.691750   0.710500
-max     97.000000      0.992000      0.887000          0.922000     0.306000  205.593000   0.912000   0.849000
+50%     46.500000      0.299500      0.669000          0.000000     0.075100  119.983000   0.537500   0.569500
+75%     70.500000      0.539000      0.729750          0.000180     0.180250  139.998000   0.691750   0.710500
+max    100.000000      0.992000      0.887000          0.922000     0.306000  205.593000   0.912000   0.849000

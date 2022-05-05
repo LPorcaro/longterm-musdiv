@@ -1,5 +1,5 @@
-Electronic artists found: Clean Bandit,Mabel,24kGoldn, PEDRO SAMPAIO,Mc Pedrinho
-Electronic genres found: tropical house, uk funky, funk carioca
+Electronic artists found: PEDRO SAMPAIO,Mc Pedrinho, Clean Bandit,Mabel,24kGoldn
+Electronic genres found: uk funky, funk carioca, tropical house
 Electronic music logs found: 15.79% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: dance pop (3.92%)
 	5: edm (3.92%)
 Top artists
-	1: Gabriel Froede (3.33%)
-	2: Lil Tjay (3.33%)
-	3: Pop Smoke (3.33%)
-	4: Vintage Culture (3.33%)
-	5: Crazy Town (3.33%)
+	1: Vintage Culture (3.33%)
+	2: Mc Pedrinho (3.33%)
+	3: Vado Más Ki Ás (3.33%)
+	4: Armandinho (3.33%)
+	5: 24kGoldn (3.33%)
 Top country
 	1: US (21.05%)
 	2: GB (15.79%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
 count   19.000000     19.000000     19.000000         19.000000    19.000000   19.00000  19.000000  19.000000
-mean    62.421053      0.227789      0.722632          0.001476     0.099511  117.63300   0.536789   0.629842
-std     18.518207      0.225672      0.100596          0.006350     0.088088   24.98066   0.251767   0.132375
+mean    60.631579      0.227789      0.722632          0.001476     0.099511  117.63300   0.536789   0.629842
+std     18.601704      0.225672      0.100596          0.006350     0.088088   24.98066   0.251767   0.132375
 min     29.000000      0.013000      0.480000          0.000000     0.032200   89.97600   0.145000   0.355000
 25%     49.000000      0.041300      0.712000          0.000002     0.040000   98.86600   0.325500   0.585000
 50%     60.000000      0.130000      0.723000          0.000008     0.077000  103.47800   0.544000   0.623000
-75%     80.000000      0.369000      0.778500          0.000029     0.103000  137.60000   0.678000   0.705000
+75%     74.500000      0.369000      0.778500          0.000029     0.103000  137.60000   0.678000   0.705000
 max     92.000000      0.737000      0.899000          0.027700     0.368000  179.79800   0.946000   0.894000

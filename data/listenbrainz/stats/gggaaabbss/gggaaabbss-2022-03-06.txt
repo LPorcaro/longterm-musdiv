@@ -1,4 +1,4 @@
-Electronic artists found: PEDRO SAMPAIO,Mc Pedrinho, DJ Fresh, Anitta,PEDRO SAMPAIO, PEDRO SAMPAIO, Anitta
+Electronic artists found: PEDRO SAMPAIO, PEDRO SAMPAIO,Mc Pedrinho, Anitta,PEDRO SAMPAIO, DJ Fresh, Anitta
 Electronic genres found: drum and bass, funk carioca
 Electronic music logs found: 13.89% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: post-teen pop (6.19%)
 	5: pop rap (5.31%)
 Top artists
-	1: Don Omar (2.44%)
-	2: Rihanna (2.44%)
-	3: DJ Fresh (2.44%)
-	4: Rauw Alejandro (2.44%)
-	5: Álvaro De Luna (2.44%)
+	1: Casey Lowry (2.44%)
+	2: Mc Pedrinho (2.44%)
+	3: Saweetie (2.44%)
+	4: Mc Creu (2.44%)
+	5: Black Eyed Peas (2.44%)
 Top country
 	1: US (50.00%)
 	2: GB (13.89%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   36.000000     36.000000     36.000000         36.000000    36.000000   36.000000  36.000000  36.000000
-mean    74.555556      0.132232      0.700556          0.000935     0.083058  125.760139   0.682722   0.776111
-std     14.496195      0.115238      0.090862          0.004270     0.046023   27.140421   0.178268   0.117425
+mean    75.305556      0.132232      0.700556          0.000935     0.083058  125.760139   0.682722   0.776111
+std     14.522533      0.115238      0.090862          0.004270     0.046023   27.140421   0.178268   0.117425
 min     36.000000      0.000168      0.451000          0.000000     0.030700   67.526000   0.295000   0.451000
-25%     68.000000      0.031875      0.657250          0.000000     0.041725  103.947000   0.564500   0.697750
-50%     77.500000      0.107000      0.721000          0.000000     0.072450  128.509000   0.712000   0.791000
-75%     82.500000      0.205500      0.762250          0.000026     0.112500  142.235250   0.818000   0.863250
+25%     68.750000      0.031875      0.657250          0.000000     0.041725  103.947000   0.564500   0.697750
+50%     78.000000      0.107000      0.721000          0.000000     0.072450  128.509000   0.712000   0.791000
+75%     84.250000      0.205500      0.762250          0.000026     0.112500  142.235250   0.818000   0.863250
 max     95.000000      0.422000      0.877000          0.025000     0.182000  179.951000   0.956000   0.948000

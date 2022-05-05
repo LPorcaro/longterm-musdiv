@@ -1,0 +1,38 @@
+Electronic artists found: Dimitri Vegas & Like Mike,R3HAB,Prezioso
+Electronic genres found: electro house, tropical house, progressive electro house
+Electronic music logs found: 25.00% 
+
+Top genres
+	1: detroit hip hop (9.52%)
+	2: gangster rap (9.52%)
+	3: hip hop (9.52%)
+	4: pop rap (9.52%)
+	5: rap (9.52%)
+Top artists
+	1: R3HAB (20.00%)
+	2: Prezioso (20.00%)
+	3: Green Day (20.00%)
+	4: Dimitri Vegas & Like Mike (20.00%)
+	5: Bad Meets Evil (20.00%)
+Top country
+	1: US (75.00%)
+	2: BE (25.00%)
+Top record
+	1: UM7 (50.00%)
+	2: G85 (25.00%)
+	3: RE1 (25.00%)
+Top year
+	1: 11 (50.00%)
+	2: 22 (25.00%)
+	3: 09 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.000000  4.000000  4.000000
+mean    69.500000      0.054625      0.563250          0.000035     0.165000  130.526500  0.395000  0.844000
+std      3.316625      0.023786      0.207603          0.000071     0.134398   19.636881  0.072083  0.068717
+min     65.000000      0.038800      0.268000          0.000000     0.035500  119.149000  0.338000  0.742000
+25%     68.750000      0.038800      0.528250          0.000000     0.055750  119.149000  0.338000  0.838750
+50%     70.000000      0.045300      0.615000          0.000000     0.171750  121.589000  0.377000  0.871000
+75%     70.750000      0.061125      0.650000          0.000035     0.281000  132.966500  0.434000  0.876250
+max     73.000000      0.089100      0.755000          0.000141     0.281000  159.779000  0.488000  0.892000

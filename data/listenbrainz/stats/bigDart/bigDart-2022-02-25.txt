@@ -1,19 +1,19 @@
-Electronic artists found: Alesso,Katy Perry, Gabry Ponte,LUM!X,Prezioso, Years & Years,Galantis, Becky Hill,Topic, Alok,Sofi Tukker,INNA, Sam Feldt,Rita Ora, MEDUZA,Dermot Kennedy, HVME, Mabel, Mufasa & Hypeman,Dopamine, Chris Lorenzo,LP Giobbi,High Jinx, Gabry Ponte,Aloe Blacc, Regard,Troye Sivan,Tate McRae,Topic, Dillon Francis,Aleyna Tilki, Tiësto,KAROL G, Tungevaag,Kid Ink,Brennan Heart, ATB,Topic,A7S, Tiësto, Joshwa,Lee Foss, SLANDER,Dylan Matthew,Tiësto, La Roux,GAMPER & DADONI, Jax Jones,MNEK, Afrojack,Lucas & Steve,DubVision, Alan Walker,Benjamin Ingrosso, Lost Frequencies,Calum Scott, Becky Hill,David Guetta, Swedish House Mafia,Ty Dolla $ign,070 Shake, Tiësto,Ava Max
-Electronic genres found: italo dance, brostep, moombahton, german techno, electronic trap, uk tech house, bass house, electro house, dutch house, progressive house, dubstep, slap house, electronica, eurodance, progressive electro house, tropical house
+Electronic artists found: Alok,Sofi Tukker,INNA, Tungevaag,Kid Ink,Brennan Heart, HVME, Jax Jones,MNEK, MEDUZA,Dermot Kennedy, Years & Years,Galantis, Tiësto,KAROL G, ATB,Topic,A7S, La Roux,GAMPER & DADONI, Becky Hill,David Guetta, Gabry Ponte,LUM!X,Prezioso, Swedish House Mafia,Ty Dolla $ign,070 Shake, Lost Frequencies,Calum Scott, Tiësto,Ava Max, Chris Lorenzo,LP Giobbi,High Jinx, Joshwa,Lee Foss, Afrojack,Lucas & Steve,DubVision, SLANDER,Dylan Matthew,Tiësto, Becky Hill,Topic, Alan Walker,Benjamin Ingrosso, Mabel, Dillon Francis,Aleyna Tilki, Mufasa & Hypeman,Dopamine, Regard,Troye Sivan,Tate McRae,Topic, Sam Feldt,Rita Ora, Tiësto, Gabry Ponte,Aloe Blacc, Alesso,Katy Perry
+Electronic genres found: slap house, german techno, italo dance, uk tech house, progressive house, electro house, bass house, electronica, moombahton, eurodance, brostep, progressive electro house, dubstep, electronic trap, tropical house, dutch house
 Electronic music logs found: 58.33% 
 
 Top genres
-	1: pop dance (10.09%)
-	2: edm (8.72%)
-	3: pop (8.72%)
-	4: dance pop (8.26%)
-	5: tropical house (7.80%)
+	1: pop dance (10.14%)
+	2: edm (8.76%)
+	3: pop (8.76%)
+	4: dance pop (8.29%)
+	5: tropical house (7.83%)
 Top artists
-	1: Icona Pop (1.12%)
-	2: JC Stewart (1.12%)
-	3: Jonasu (1.12%)
-	4: Dua Lipa (1.12%)
-	5: Dylan Matthew (1.12%)
+	1: Jax Jones (1.12%)
+	2: Mufasa & Hypeman (1.12%)
+	3: Calum Scott (1.12%)
+	4: Charli XCX (1.12%)
+	5: Felix Jaehn (1.12%)
 Top country
 	1: GB (37.50%)
 	2: US (14.58%)
@@ -34,8 +34,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   48.000000     48.000000     48.000000         48.000000    48.000000   48.000000  48.000000  48.000000
-mean    77.791667      0.100192      0.709125          0.032785     0.083369  123.840792   0.501454   0.800771
-std     10.289342      0.122177      0.095366          0.124623     0.071257    6.918700   0.203081   0.090599
+mean    77.750000      0.100192      0.709125          0.032785     0.083369  123.840792   0.501454   0.800771
+std     10.242797      0.122177      0.095366          0.124623     0.071257    6.918700   0.203081   0.090599
 min     55.000000      0.000645      0.414000          0.000000     0.030200  100.014000   0.039800   0.595000
 25%     69.750000      0.019700      0.668750          0.000000     0.038400  121.773500   0.407500   0.753500
 50%     77.000000      0.055550      0.732500          0.000027     0.051950  124.520500   0.508500   0.799000

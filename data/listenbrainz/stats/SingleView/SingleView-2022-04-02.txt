@@ -1,5 +1,5 @@
-Electronic artists found: Nujabes,Apani B, µ-Ziq, Andy Stott, Nujabes,Cise Star,Akin, Nujabes,Shing02, Nujabes, Nujabes,Uyama Hiroto, Leon Vynehall, Hong Kong Express, Uyama Hiroto, Nujabes,Pase Rock, Nujabes,Substantial, Two Lone Swordsmen, Ólafur Arnalds,Alice Sara Ott, ２８１４, Lone, Brian Eno, Kelly Lee Owens, Rei Harakami, Autechre, Daedelus, Squarepusher, Nujabes,Terry Callier, Biosphere, Susumu Yokota, Aphex Twin, Tomaga, Plaid
-Electronic genres found: techno, uk experimental electronic, downtempo, glitch hop, future garage, microhouse, slushwave, experimental ambient, intelligent dance music, neoclassical darkwave, ambient techno, uk bass, hardvapour, trip hop, outsider house, nordic ambient, minimal techno, j-ambient, electronica, glitch, compositional ambient, ambient, japanese jazztronica, dreampunk, deconstructed club, deep house, japanese electronic, jazztronica, ambient house, vaporwave, dub techno, chillwave, wonky, drone
+Electronic artists found: Biosphere, Tomaga, µ-Ziq, Nujabes,Uyama Hiroto, Ólafur Arnalds,Alice Sara Ott, Leon Vynehall, Rei Harakami, Brian Eno, Plaid, Aphex Twin, Nujabes,Apani B, Susumu Yokota, ２８１４, Nujabes,Shing02, Andy Stott, Autechre, Kelly Lee Owens, Squarepusher, Nujabes,Pase Rock, Hong Kong Express, Nujabes, Uyama Hiroto, Two Lone Swordsmen, Lone, Nujabes,Substantial, Daedelus, Nujabes,Cise Star,Akin, Nujabes,Terry Callier
+Electronic genres found: wonky, deep house, techno, uk experimental electronic, minimal techno, microhouse, ambient, compositional ambient, drone, neoclassical darkwave, electronica, uk bass, future garage, outsider house, hardvapour, experimental ambient, dub techno, chillwave, intelligent dance music, glitch, vaporwave, j-ambient, dreampunk, japanese electronic, japanese jazztronica, downtempo, jazztronica, ambient techno, ambient house, trip hop, glitch hop, nordic ambient, slushwave, deconstructed club
 Electronic music logs found: 73.61% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: downtempo (4.53%)
 	5: jazz rap (4.53%)
 Top artists
-	1: Tamara Anna Cislowska (1.49%)
-	2: Johannes Fritzsch (1.49%)
-	3: Alexandre Tharaud (1.49%)
-	4: Amy Beach (1.49%)
-	5: Gerald Finzi (1.49%)
+	1: Biosphere (1.49%)
+	2: Tasmanian Symphony Orchestra (1.49%)
+	3: Amy Dickson (1.49%)
+	4: Pase Rock (1.49%)
+	5: Tomaga (1.49%)
 Top country
 	1: JP (26.39%)
 	2: BE (23.61%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   72.000000     72.000000     72.000000         72.000000    72.000000   72.000000  72.000000  72.000000
-mean    50.333333      0.543590      0.508601          0.757028     0.071051  106.557778   0.375296   0.447176
-std      7.641621      0.358302      0.210168          0.254457     0.081234   27.270805   0.288549   0.294480
+mean    50.347222      0.543590      0.508601          0.757028     0.071051  106.557778   0.375296   0.447176
+std      7.621614      0.358302      0.210168          0.254457     0.081234   27.270805   0.288549   0.294480
 min     35.000000      0.000199      0.068000          0.000000     0.029200   60.171000   0.018800   0.001100
 25%     45.750000      0.197750      0.333250          0.686250     0.035350   92.548500   0.094025   0.159500
 50%     49.000000      0.606000      0.584000          0.877500     0.043250  101.757000   0.327500   0.473500

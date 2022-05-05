@@ -1,5 +1,5 @@
-Electronic artists found: Giya Kancheli,Anna Gourari, Morton Feldman,Aki Takahashi, György Ligeti,Pierre-Laurent Aimard
-Electronic genres found: compositional ambient, drone
+Electronic artists found: Giya Kancheli,Anna Gourari, György Ligeti,Pierre-Laurent Aimard, Morton Feldman,Aki Takahashi
+Electronic genres found: drone, compositional ambient
 Electronic music logs found: 2.31% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: impressionism (10.65%)
 	5: neoclassicism (5.57%)
 Top artists
-	1: Erik Satie (0.41%)
-	2: Gerd Müller-Lorenz (0.41%)
-	3: Jamie Phillips (0.41%)
-	4: Gabriel Fauré (0.41%)
-	5: Katia Labèque (0.41%)
+	1: Peter Dickinson (0.41%)
+	2: Thomas Larcher (0.41%)
+	3: Stepan Simonian (0.41%)
+	4: Warren Lee (0.41%)
+	5: Alessandro Stella (0.41%)
 Top country
 	1: HK (36.15%)
 	2: GB (20.77%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  130.000000    130.000000    130.000000        130.000000   130.000000  130.000000  130.000000  130.000000
-mean    44.876923      0.969546      0.272333          0.790377     0.049829   93.383100    0.158121    0.046415
-std     12.467020      0.042649      0.148133          0.269819     0.017792   29.833022    0.170716    0.077830
+mean    44.646154      0.969546      0.272333          0.790377     0.049829   93.383100    0.158121    0.046415
+std     12.291588      0.042649      0.148133          0.269819     0.017792   29.833022    0.170716    0.077830
 min      6.000000      0.743000      0.061800          0.000003     0.031700   55.481000    0.031100    0.000885
 25%     37.000000      0.963250      0.150000          0.812000     0.040900   71.356500    0.038100    0.006185
 50%     45.000000      0.989500      0.248000          0.903000     0.044300   82.281000    0.078500    0.013500

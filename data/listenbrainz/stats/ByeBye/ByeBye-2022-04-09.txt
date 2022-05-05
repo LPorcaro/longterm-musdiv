@@ -1,5 +1,5 @@
 Electronic artists found: MAKJ,Timmy Trumpet,Andrew W.K.
-Electronic genres found: progressive electro house, melbourne bounce, electro house
+Electronic genres found: electro house, progressive electro house, melbourne bounce
 Electronic music logs found: 4.76% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: underground hip hop (6.52%)
 	5: trap tuga (6.52%)
 Top artists
-	1: Kibow (3.23%)
-	2: Polo G (3.23%)
-	3: Yung SpaceGhost (3.23%)
-	4: T-Rex (3.23%)
-	5: Lil Mosey (3.23%)
+	1: Yung Juse (3.23%)
+	2: Timmy Trumpet (3.23%)
+	3: Lil Mosey (3.23%)
+	4: Kibow (3.23%)
+	5: Dillaz (3.23%)
 Top country
 	1: US (42.86%)
 	2: PT (23.81%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
-mean    60.666667      0.318551      0.721048          0.000573     0.131019  113.779571   0.433248   0.630476
-std     14.022601      0.257914      0.089336          0.001237     0.099184   22.099368   0.218514   0.176718
+mean    60.857143      0.318551      0.721048          0.000573     0.131019  113.779571   0.433248   0.630476
+std     13.726929      0.257914      0.089336          0.001237     0.099184   22.099368   0.218514   0.176718
 min     35.000000      0.002600      0.563000          0.000000     0.036100   80.897000   0.047100   0.269000
 25%     49.000000      0.068500      0.640000          0.000000     0.051200   97.020000   0.255000   0.494000
 50%     63.000000      0.308000      0.735000          0.000000     0.081600  104.991000   0.437000   0.648000

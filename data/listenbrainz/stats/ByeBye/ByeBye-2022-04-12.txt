@@ -1,42 +1,43 @@
-Electronic artists found: Timmy Trumpet, Blasterjaxx,Kevu, Timmy Trumpet,KSHMR,Zafrir
-Electronic genres found: electro house, dutch house, slap house, melbourne bounce, melbourne bounce international
-Electronic music logs found: 57.14% 
+Electronic artists found: Timmy Trumpet, Timmy Trumpet,KSHMR,Zafrir, Blasterjaxx,Kevu
+Electronic genres found: slap house, melbourne bounce international, electro house, melbourne bounce, dutch house
+Electronic music logs found: 44.44% 
 
 Top genres
-	1: big room (9.76%)
-	2: edm (9.76%)
-	3: pop dance (9.76%)
-	4: dutch house (4.88%)
-	5: electro house (4.88%)
+	1: big room (9.52%)
+	2: edm (9.52%)
+	3: pop dance (9.52%)
+	4: dutch house (4.76%)
+	5: electro house (4.76%)
 Top artists
-	1: Timmy Trumpet (12.50%)
-	2: Iron Maiden (12.50%)
-	3: KSHMR (12.50%)
-	4: Blasterjaxx (12.50%)
-	5: Zafrir (12.50%)
+	1: Timmy Trumpet (8.33%)
+	2: Bullet For My Valentine (8.33%)
+	3: Mirai (8.33%)
+	4: Blasterjaxx (8.33%)
+	5: The Score (8.33%)
 Top country
-	1: NL (57.14%)
-	2: GB (28.57%)
-	3: US (14.29%)
+	1: NL (44.44%)
+	2: US (22.22%)
+	3: GB (22.22%)
+	4: TC (11.11%)
 Top record
-	1: 4VT (28.57%)
-	2: Z54 (28.57%)
-	3: CHB (14.29%)
-	4: UM7 (14.29%)
-	5: A2P (14.29%)
+	1: 4VT (22.22%)
+	2: Z54 (22.22%)
+	3: SM1 (11.11%)
+	4: AFA (11.11%)
+	5: CHB (11.11%)
 Top year
-	1: 21 (42.86%)
-	2: 18 (28.57%)
-	3: 20 (14.29%)
-	4: 22 (14.29%)
+	1: 20 (33.33%)
+	2: 21 (33.33%)
+	3: 18 (22.22%)
+	4: 22 (11.11%)
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
-count    7.000000      7.000000        7.0000          7.000000     7.000000    7.000000  7.000000  7.000000
-mean    63.000000      0.012494        0.5080          0.114566     0.056529  135.476000  0.335714  0.860429
-std      6.582806      0.012328        0.1340          0.164224     0.012751   21.845198  0.264601  0.141961
-min     56.000000      0.000077        0.2850          0.000000     0.040300   97.625000  0.087000  0.638000
-25%     59.000000      0.003940        0.4370          0.000035     0.047200  128.017500  0.108500  0.790000
-50%     62.000000      0.010100        0.5670          0.009090     0.055700  129.999000  0.269000  0.908000
-75%     65.000000      0.018800        0.5815          0.221400     0.067400  152.313500  0.538000  0.963000
-max     75.000000      0.031800        0.6670          0.350000     0.070500  160.046000  0.701000  0.971000
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    61.222222      0.120384      0.543778          0.089290     0.074567  127.870333  0.327222  0.786111
+std     11.486707      0.252000      0.138056          0.150807     0.057140   28.142681  0.229936  0.192073
+min     37.000000      0.000077      0.285000          0.000000     0.040300   72.522000  0.087000  0.515000
+25%     57.000000      0.004940      0.500000          0.000014     0.051400  126.036000  0.130000  0.638000
+50%     62.000000      0.010100      0.567000          0.001650     0.055700  129.999000  0.280000  0.904000
+75%     65.000000      0.031800      0.622000          0.092800     0.069700  144.871000  0.407000  0.963000
+max     76.000000      0.763000      0.716000          0.350000     0.224000  160.046000  0.701000  0.971000

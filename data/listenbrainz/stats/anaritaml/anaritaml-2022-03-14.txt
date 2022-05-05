@@ -3,17 +3,17 @@ Electronic genres found: future funk
 Electronic music logs found: 3.45% 
 
 Top genres
-	1: pop (8.82%)
-	2: indietronica (5.88%)
-	3: modern rock (5.88%)
-	4: indie soul (5.88%)
-	5: indie pop (5.88%)
+	1: pop (8.96%)
+	2: indietronica (5.97%)
+	3: modern rock (5.97%)
+	4: indie soul (5.97%)
+	5: indie pop (5.97%)
 Top artists
-	1: Biig Piig (2.94%)
-	2: HXNS (2.94%)
-	3: Cannons (2.94%)
-	4: Lorde (2.94%)
-	5: Emmy Meli (2.94%)
+	1: Goth Babe (2.94%)
+	2: JAWNY (2.94%)
+	3: Cautious Clay (2.94%)
+	4: Electric Guest (2.94%)
+	5: Maude Latour (2.94%)
 Top country
 	1: US (41.38%)
 	2: GB (27.59%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
-mean    70.103448      0.209746      0.731414          0.042660     0.116610  120.640414   0.684759   0.611379
-std     11.459073      0.172227      0.095943          0.152943     0.122109   28.478562   0.163640   0.139342
+mean    69.931034      0.209746      0.731414          0.042660     0.116610  120.640414   0.684759   0.611379
+std     11.432819      0.172227      0.095943          0.152943     0.122109   28.478562   0.163640   0.139342
 min     49.000000      0.008930      0.509000          0.000000     0.027800   80.870000   0.319000   0.439000
 25%     62.000000      0.078700      0.674000          0.000000     0.042800  101.003000   0.569000   0.493000
 50%     69.000000      0.163000      0.737000          0.000075     0.087900  114.979000   0.672000   0.580000

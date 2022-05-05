@@ -1,5 +1,5 @@
-Electronic artists found: PEDRO SAMPAIO,Mc Pedrinho, Anitta,Justin Quiles, Naiara Azevedo,Ivete Sangalo, Anitta,PEDRO SAMPAIO, Lost Frequencies,Calum Scott, DENNIS,MC Kevinho, MC Du Black,DJ 2F, MC Kekel, PEDRO SAMPAIO, Naiara Azevedo,Maiara & Maraisa, Anitta, MC Kevin o Chris
-Electronic genres found: tropical house, funk carioca
+Electronic artists found: MC Du Black,DJ 2F, DENNIS,MC Kevinho, Naiara Azevedo,Ivete Sangalo, MC Kekel, Naiara Azevedo,Maiara & Maraisa, PEDRO SAMPAIO, MC Kevin o Chris, PEDRO SAMPAIO,Mc Pedrinho, Anitta,PEDRO SAMPAIO, Anitta, Lost Frequencies,Calum Scott, Anitta,Justin Quiles
+Electronic genres found: funk carioca, tropical house
 Electronic music logs found: 21.31% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: funk carioca (5.73%)
 	5: pagode baiano (4.69%)
 Top artists
-	1: Don Omar (2.00%)
-	2: Calum Scott (2.00%)
-	3: Maiara & Maraisa (2.00%)
-	4: MC Kevinho (2.00%)
-	5: Doja Cat (2.00%)
+	1: Dua Lipa (2.00%)
+	2: Gustavo Mioto (2.00%)
+	3: DENNIS (2.00%)
+	4: J Balvin (2.00%)
+	5: Mc Pedrinho (2.00%)
 Top country
 	1: US (29.51%)
 	2: BR (29.51%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   61.000000     61.000000     61.000000         61.000000    61.000000   61.000000  61.000000  61.000000
-mean    72.836066      0.264382      0.705508          0.000554     0.102303  128.040098   0.613164   0.709803
-std     21.601837      0.242029      0.126467          0.002112     0.074154   28.579639   0.200884   0.151750
-min     12.000000      0.001780      0.345000          0.000000     0.031700   80.936000   0.131000   0.164000
+mean    73.426230      0.264380      0.705590          0.000554     0.102328  128.040098   0.612984   0.710328
+std     22.075219      0.242031      0.126392          0.002112     0.074133   28.579639   0.200849   0.152269
+min     12.000000      0.001660      0.345000          0.000000     0.031700   80.936000   0.131000   0.164000
 25%     65.000000      0.085700      0.603000          0.000000     0.053000  107.088000   0.463000   0.636000
-50%     78.000000      0.201000      0.733000          0.000000     0.074800  124.026000   0.657000   0.731000
-75%     90.000000      0.323000      0.789000          0.000024     0.128000  149.995000   0.741000   0.806000
-max     97.000000      0.872000      0.924000          0.014300     0.389000  181.862000   0.942000   0.933000
+50%     78.000000      0.201000      0.733000          0.000000     0.074800  124.026000   0.646000   0.731000
+75%     92.000000      0.323000      0.789000          0.000024     0.128000  149.995000   0.741000   0.806000
+max    100.000000      0.872000      0.924000          0.014300     0.389000  181.862000   0.942000   0.933000
