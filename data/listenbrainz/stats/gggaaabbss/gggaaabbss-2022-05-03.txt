@@ -1,0 +1,43 @@
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: tropical house
+Electronic music logs found: 4.76% 
+
+Top genres
+	1: pop (25.93%)
+	2: dance pop (11.11%)
+	3: deep underground hip hop (5.56%)
+	4: kentucky hip hop (5.56%)
+	5: rap (5.56%)
+Top artists
+	1: Dove Cameron (5.00%)
+	2: Elley Duhé (5.00%)
+	3: Arcane (5.00%)
+	4: Lizzo (5.00%)
+	5: Calum Scott (5.00%)
+Top country
+	1: US (85.71%)
+	2: GB (9.52%)
+	3: BE (4.76%)
+Top record
+	1: AT2 (33.33%)
+	2: SM1 (28.57%)
+	3: UM7 (9.52%)
+	4: RC1 (9.52%)
+	5: QX9 (4.76%)
+Top year
+	1: 22 (57.14%)
+	2: 21 (23.81%)
+	3: 14 (4.76%)
+	4: 17 (4.76%)
+	5: 19 (4.76%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.00000  21.000000  21.000000
+mean    90.523810      0.202781      0.681810          0.000322     0.094852  126.89100   0.519233   0.637905
+std      8.997883      0.191318      0.174488          0.000700     0.067954   37.15023   0.261068   0.093899
+min     71.000000      0.011300      0.345000          0.000000     0.038600   77.01100   0.089900   0.442000
+25%     85.000000      0.085800      0.520000          0.000000     0.055700  106.99800   0.324000   0.563000
+50%     95.000000      0.130000      0.714000          0.000007     0.076800  108.96600   0.546000   0.626000
+75%     96.000000      0.342000      0.824000          0.000335     0.102000  173.93000   0.662000   0.731000
+max    100.000000      0.742000      0.905000          0.002940     0.306000  185.72700   0.956000   0.783000

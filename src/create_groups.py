@@ -9,7 +9,7 @@ import numpy as np
 infile = "../data/prescreening/prescreening_compact.csv"
 
 FEAT_DIFF = ['AVG_DK_SCORE','OPEN_SCORE', 'LIST_TIME', 'EM_LISTEN', 'TASTE_VARIED', 'EM_VARIED']
-WEIGHTS = [0.4, 0.2, 0.1, 0.1, 0.1, 0.1]
+WEIGHTS = [0.35, 0.35, 0.1, 0.1, 0.1, 0.1]
 
 if __name__ == "__main__":
 

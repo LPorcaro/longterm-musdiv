@@ -9,11 +9,11 @@ Top genres
 	4: post-teen pop (7.35%)
 	5: canadian pop (4.41%)
 Top artists
-	1: Avicii (7.69%)
-	2: Dylan (7.69%)
-	3: Catfish and the Bottlemen (7.69%)
-	4: Solfeggio Healing Frequencies MT (7.69%)
-	5: Louis Tomlinson (7.69%)
+	1: One Direction (7.69%)
+	2: Sound Bath (7.69%)
+	3: Louis Tomlinson (7.69%)
+	4: WALK THE MOON (7.69%)
+	5: Catfish and the Bottlemen (7.69%)
 Top country
 	1: GB (59.38%)
 	2: US (15.62%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   32.000000     32.000000     32.000000         32.000000    32.000000   32.000000  32.000000  32.000000
-mean    66.343750      0.243987      0.471256          0.174334     0.048941  112.411062   0.356269   0.587669
-std     11.295473      0.355222      0.169283          0.348015     0.034148   30.918511   0.238584   0.277815
+mean    66.312500      0.243987      0.471256          0.174334     0.048941  112.411062   0.356269   0.587669
+std     11.312105      0.355222      0.169283          0.348015     0.034148   30.918511   0.238584   0.277815
 min     25.000000      0.000204      0.068200          0.000000     0.028000   62.302000   0.029000   0.052200
 25%     63.750000      0.008360      0.455500          0.000000     0.032200   81.236750   0.200750   0.481000
 50%     68.000000      0.030000      0.509500          0.000000     0.041350  115.001000   0.346000   0.690500

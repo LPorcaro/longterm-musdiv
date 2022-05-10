@@ -1,19 +1,19 @@
 Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet
-Electronic genres found: eurodance, italo dance, slap house
+Electronic genres found: eurodance, slap house, italo dance
 Electronic music logs found: 7.69% 
 
 Top genres
-	1: detroit hip hop (25.71%)
-	2: hip hop (25.71%)
-	3: rap (25.71%)
-	4: pop rap (2.86%)
-	5: eurodance (2.86%)
+	1: detroit hip hop (25.00%)
+	2: hip hop (25.00%)
+	3: rap (25.00%)
+	4: pop rap (2.78%)
+	5: edm (2.78%)
 Top artists
-	1: Timmy Trumpet (9.09%)
-	2: R3HAB (9.09%)
-	3: Eminem (9.09%)
-	4: 50 Cent (9.09%)
-	5: Ivan B (9.09%)
+	1: Ivan B (9.09%)
+	2: Sam The Kid (9.09%)
+	3: Dr. Dre (9.09%)
+	4: Gabry Ponte (9.09%)
+	5: Eminem (9.09%)
 Top country
 	1: US (76.92%)
 	2: TC (7.69%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   13.000000     13.000000     13.000000         13.000000    13.000000   13.000000  13.000000  13.000000
-mean    58.923077      0.190025      0.661923          0.000609     0.238477  117.291538   0.533385   0.749385
-std     14.767428      0.144982      0.173523          0.001405     0.156314   34.161751   0.189347   0.140434
+mean    58.846154      0.190025      0.661923          0.000609     0.238477  117.291538   0.533385   0.749385
+std     14.696066      0.144982      0.173523          0.001405     0.156314   34.161751   0.189347   0.140434
 min     25.000000      0.000176      0.398000          0.000000     0.031600   68.423000   0.227000   0.490000
 25%     54.000000      0.052200      0.516000          0.000000     0.084000   97.487000   0.456000   0.614000
 50%     55.000000      0.208000      0.655000          0.000000     0.202000  106.995000   0.565000   0.790000
-75%     72.000000      0.319000      0.727000          0.000185     0.414000  132.077000   0.601000   0.873000
+75%     71.000000      0.319000      0.727000          0.000185     0.414000  132.077000   0.601000   0.873000
 max     82.000000      0.453000      0.957000          0.003800     0.449000  170.903000   0.913000   0.956000

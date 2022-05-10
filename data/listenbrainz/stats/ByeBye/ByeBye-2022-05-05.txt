@@ -1,0 +1,45 @@
+Electronic artists found: Xzibit,Erick Sermon,J. Ro,Tash, Xzibit,Eminem,Nate Dogg
+Electronic genres found: hardcore hip hop
+Electronic music logs found: 6.90% 
+
+Top genres
+	1: hip hop tuga (10.34%)
+	2: rap (8.05%)
+	3: hip hop (6.90%)
+	4: pop rap (6.90%)
+	5: alternative metal (5.75%)
+Top artists
+	1: B-Real (2.94%)
+	2: Five Finger Death Punch (2.94%)
+	3: Grits (2.94%)
+	4: La Coka Nostra (2.94%)
+	5: Britney Spears (2.94%)
+Top country
+	1: US (51.72%)
+	2: PT (27.59%)
+	3: ES (6.90%)
+	4: NL (6.90%)
+	5: TC (3.45%)
+Top record
+	1: UM7 (13.79%)
+	2: IR1 (10.34%)
+	3: DPK (6.90%)
+	4: H84 (6.90%)
+	5: 71G (6.90%)
+Top year
+	1: 08 (13.79%)
+	2: 22 (10.34%)
+	3: 09 (10.34%)
+	4: 02 (10.34%)
+	5: 00 (6.90%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
+mean    56.068966      0.155992      0.680276          0.017310     0.192055  111.405034   0.605034   0.746517
+std     17.914342      0.181296      0.130804          0.072045     0.143717   29.955904   0.200761   0.175414
+min     25.000000      0.000247      0.443000          0.000000     0.025300   76.998000   0.145000   0.410000
+25%     39.000000      0.016500      0.579000          0.000000     0.062500   92.077000   0.445000   0.638000
+50%     59.000000      0.092000      0.675000          0.000005     0.136000   99.017000   0.609000   0.738000
+75%     71.000000      0.207000      0.774000          0.000227     0.301000  129.113000   0.769000   0.895000
+max     81.000000      0.694000      0.899000          0.388000     0.490000  190.325000   0.924000   0.989000

@@ -1,4 +1,4 @@
-Electronic artists found: PEDRO SAMPAIO, Alesso,Katy Perry, PEDRO SAMPAIO,Mc Pedrinho, Anne-Marie,Little Mix
+Electronic artists found: PEDRO SAMPAIO, Alesso,Katy Perry, Anne-Marie,Little Mix, PEDRO SAMPAIO,Mc Pedrinho
 Electronic genres found: electro house, funk carioca, tropical house
 Electronic music logs found: 15.38% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: uk pop (7.87%)
 	5: pop rap (4.49%)
 Top artists
-	1: Dua Lipa (4.00%)
-	2: Jack & Jack (4.00%)
-	3: Taylor Swift (4.00%)
-	4: Mc Pedrinho (4.00%)
-	5: Harry Styles (4.00%)
+	1: Mc Pedrinho (4.00%)
+	2: Sean Paul (4.00%)
+	3: Sia (4.00%)
+	4: Alesso (4.00%)
+	5: Camila Cabello (4.00%)
 Top country
 	1: US (50.00%)
 	2: GB (38.46%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   26.000000     26.000000     26.000000         26.000000    26.000000   26.000000  26.000000  26.000000
-mean    80.230769      0.108786      0.683500          0.005930     0.083935  122.764308   0.594962   0.696808
-std      9.530195      0.099412      0.117452          0.029390     0.056192   25.626524   0.174565   0.141246
+mean    80.153846      0.108786      0.683500          0.005930     0.083935  122.764308   0.594962   0.696808
+std      9.561139      0.099412      0.117452          0.029390     0.056192   25.626524   0.174565   0.141246
 min     62.000000      0.002200      0.367000          0.000000     0.029600   82.989000   0.301000   0.450000
 25%     75.250000      0.025150      0.627500          0.000000     0.046300  103.219750   0.489250   0.591500
 50%     81.500000      0.073650      0.714000          0.000000     0.058550  121.971000   0.600500   0.703000

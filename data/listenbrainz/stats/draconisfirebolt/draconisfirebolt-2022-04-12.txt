@@ -3,17 +3,17 @@ Electronic genres found: new wave
 Electronic music logs found: 2.74% 
 
 Top genres
-	1: pop (30.38%)
-	2: alt z (6.96%)
-	3: rock (6.33%)
-	4: modern rock (5.70%)
-	5: post-teen pop (5.06%)
+	1: pop (30.57%)
+	2: alt z (7.01%)
+	3: rock (6.37%)
+	4: modern rock (5.73%)
+	5: post-teen pop (5.10%)
 Top artists
-	1: Taylor Swift (3.03%)
-	2: Harry Styles (3.03%)
-	3: Imagine Dragons (3.03%)
-	4: James Arthur (3.03%)
-	5: Phoebe Bridgers (3.03%)
+	1: Alec Benjamin (3.03%)
+	2: Keane (3.03%)
+	3: Cheat Codes (3.03%)
+	4: Imagine Dragons (3.03%)
+	5: Kings of Leon (3.03%)
 Top country
 	1: GB (56.16%)
 	2: US (31.51%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   73.000000     73.000000     73.000000         73.000000    73.000000   73.000000  73.000000  73.000000
-mean    73.876712      0.227617      0.563356          0.020374     0.062770  118.837753   0.450715   0.621781
-std      9.281022      0.283630      0.110343          0.089691     0.055579   34.395747   0.196633   0.166920
+mean    73.972603      0.227617      0.563356          0.020374     0.062770  118.837753   0.450715   0.621781
+std      9.234556      0.283630      0.110343          0.089691     0.055579   34.395747   0.196633   0.166920
 min     61.000000      0.000204      0.218000          0.000000     0.026000   62.302000   0.059200   0.255000
 25%     67.000000      0.019600      0.503000          0.000000     0.030800   88.987000   0.279000   0.520000
 50%     70.000000      0.097300      0.559000          0.000000     0.036500  118.993000   0.455000   0.634000

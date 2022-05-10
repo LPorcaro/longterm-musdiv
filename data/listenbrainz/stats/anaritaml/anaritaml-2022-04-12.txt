@@ -1,5 +1,5 @@
-Electronic artists found: Galantis,JVKE, Afrojack,David Guetta, Calvin Harris,Tom Grennan, Alison Wonderland,Valentino Khan, Swedish House Mafia,Ty Dolla $ign,070 Shake, Sam Feldt,Rita Ora, DJ Snake,Rick Ross,Rich Brian, Swedish House Mafia,The Weeknd, Anna Lunoe, MEDUZA,Dermot Kennedy
-Electronic genres found: nu disco, progressive house, electro house, bass house, progressive electro house, electronic trap, tropical house, dutch house
+Electronic artists found: Calvin Harris,Tom Grennan, Swedish House Mafia,Ty Dolla $ign,070 Shake, MEDUZA,Dermot Kennedy, Galantis,JVKE, Sam Feldt,Rita Ora, Alison Wonderland,Valentino Khan, Anna Lunoe, Afrojack,David Guetta, Swedish House Mafia,The Weeknd, DJ Snake,Rick Ross,Rich Brian
+Electronic genres found: progressive house, bass house, tropical house, progressive electro house, dutch house, electronic trap, nu disco, electro house
 Electronic music logs found: 27.03% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: dance pop (5.44%)
 	5: electro house (4.76%)
 Top artists
-	1: Swedish House Mafia (2.00%)
-	2: Tom Grennan (2.00%)
-	3: Jack Harlow (2.00%)
-	4: LANY (2.00%)
-	5: Beirut (2.00%)
+	1: Alison Wonderland (2.00%)
+	2: Valentino Khan (2.00%)
+	3: TELYKast (2.00%)
+	4: Blu DeTiger (2.00%)
+	5: DJ Khaled (2.00%)
 Top country
 	1: US (54.05%)
 	2: GB (18.92%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   37.000000     37.000000     37.000000         37.000000    37.000000   37.000000  37.000000  37.000000
-mean    67.297297      0.168142      0.689270          0.062756     0.066932  126.014324   0.561811   0.691297
-std     11.659200      0.216719      0.156705          0.211078     0.058347   23.070087   0.252738   0.144702
+mean    67.270270      0.168142      0.689270          0.062756     0.066932  126.014324   0.561811   0.691297
+std     11.653918      0.216719      0.156705          0.211078     0.058347   23.070087   0.252738   0.144702
 min     47.000000      0.000576      0.211000          0.000000     0.029500   93.993000   0.109000   0.393000
 25%     58.000000      0.021200      0.619000          0.000000     0.035900  114.039000   0.423000   0.595000
 50%     65.000000      0.083000      0.722000          0.000001     0.047900  121.792000   0.634000   0.716000

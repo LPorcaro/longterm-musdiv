@@ -19,7 +19,7 @@ INFO_DIR = "../data/listenbrainz/info"
 
 end = datetime.strptime("20220216", "%Y%m%d")
 
-NOT_EM_GENRE = ['permanent wave']
+NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca']
 
 PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220216", "20220314"]]
 COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220315", "20220412"]]
@@ -32,22 +32,24 @@ TRACKS = "../data/input/random_tracklist_20220104.csv"
 LIST_DIV = "../data/lists/track_list_div_20220208_112025.csv"
 LIST_NOT_DIV = "../data/lists/track_list_not_div_20220208_112025.csv"
 
+OUTFILE_1 = "../data/listenbrainz/results/logs_analysis.csv"
+OUTFILE_2 = "../data/listenbrainz/results/logs_diff_analysis.csv"
 
-HEADER = ["username", "phase",
-          "genres_unique", "genres_count", "EM_genres_unique", "EM_genres_unique(%)", 
-          "EM_genres_count","EM_genres_count(%)", "EM_genres_top_head(%)", "Jaccard_top5_genres",
+HEADER = ["username", 'group',"phase",
+          "genres_unique", "genres_count", "EM_genres_unique", "EM_genres_unique_p", 
+          "EM_genres_count","EM_genres_count_p", "EM_genres_top_head_p", "Jaccard_top5_genres",
           "Jaccard_top10_genres", "Jaccard_top20_genres","gini_genres", "gini_EM_genres",
-          "artists_unique", "artists_count", "EM_artists_unique", "EM_artists_unique(%)", 
-          "EM_artists_count","EM_artists_count(%)", "EM_artists_top_head(%)", "Jaccard_top5_artists",
+          "artists_unique", "artists_count", "EM_artists_unique", "EM_artists_unique_p", 
+          "EM_artists_count","EM_artists_count_p", "EM_artists_top_head_p", "Jaccard_top5_artists",
           "Jaccard_top10_artists", "Jaccard_top20_artists", "gini_artists", "gini_EM_artists",
-          "tracks_unique", "tracks_count", "EM_tracks_unique", "EM_tracks_unique(%)", 
-          "EM_tracks_count","EM_tracks_count(%)", "EM_tracks_top_head(%)", "Jaccard_top5_tracks",
+          "tracks_unique", "tracks_count", "EM_tracks_unique", "EM_tracks_unique_p", 
+          "EM_tracks_count","EM_tracks_count_p", "EM_tracks_top_head_p", "Jaccard_top5_tracks",
           "Jaccard_top10_tracks", "Jaccard_top20_tracks","gini_tracks", "gini_EM_tracks"]
 
-HEADER_DIFF = ['username', 'phase',
-               'nov genres', 'nov genres (%)', 'nov EM genres', 'nov EM genres (%)',
-               'nov artists', 'nov artists (%)', 'nov EM artists', 'nov EM artists (%)',
-               'nov tracks', 'nov tracks (%)', 'nov EM tracks', 'nov EM tracks (%)',
+HEADER_DIFF = ['username', 'group', 'phase',
+               'nov genres', 'nov genres_p', 'nov EM genres', 'nov EM genres_p',
+               'nov artists', 'nov artists_p', 'nov EM artists', 'nov EM artists_p',
+               'nov tracks', 'nov tracks_p', 'nov EM tracks', 'nov EM tracks_p',
                'match artists', 'match tracks']
 
 
@@ -199,14 +201,18 @@ def run(username, rows):
 
     if username not in HD + LD:
         print("### User not found : {}".format(username))
-        return rows      
+        return rows
+    elif username in HD:
+        group = 'HD'
+    elif username in LD:
+        group = 'LD'     
     
     for df, phase in zip([df_PRE, df_COND, df_POST], ["PRE", "COND", "POST"]):
         print("##### {} #####".format(phase))
-        print("####### GENRES")
+        print("GENRES")
         genres_EM, genres_all = search_EM_genres(df)
         if genres_all == []:
-            row = [username, phase] + [0 for x in range(36)]
+            row = [username, group, phase] + [0 for x in range(36)]
         else:
             ca_EM = Counter(genres_EM)
             cg_all = Counter(genres_all)
@@ -231,7 +237,7 @@ def run(username, rows):
             g_jac_top_10 = round(jaccard(ca_EM.most_common()[:10], cg_all.most_common()[:10]),2)
             g_jac_top_20 = round(jaccard(ca_EM.most_common()[:20], cg_all.most_common()[:20]),2)
 
-            print("####### ARTISTS")
+            print("ARTISTS")
             artists_EM, artists_all = search_EM_artists(df, genres_EM)
             ca_EM = Counter(artists_EM)
             ca_all = Counter(artists_all)
@@ -257,7 +263,7 @@ def run(username, rows):
             a_jac_top_10 = round(jaccard(ca_EM.most_common()[:10], ca_all.most_common()[:10]),2)
             a_jac_top_20 = round(jaccard(ca_EM.most_common()[:20], ca_all.most_common()[:20]),2)
 
-            print("####### TRACKS")
+            print("TRACKS")
             tracks_EM, tracks_all = search_EM_tracks(df, genres_EM)
             ct_EM = Counter(tracks_EM)
             ct_all = Counter(tracks_all)
@@ -284,7 +290,7 @@ def run(username, rows):
             t_jac_top_20 = round(jaccard(ct_EM.most_common()[:20], ct_all.most_common()[:20]),2)
 
 
-            row = [username, phase,
+            row = [username, group, phase,
                    g_all_unq, g_all_cnt, g_EM_unq, g_EM_unq_p, g_EM_cnt, g_EM_cnt_p, g_top20_int, g_jac_top_5, g_jac_top_10, g_jac_top_20, g_gini_all, g_gini_EM,
                    a_all_unq, a_all_cnt, a_EM_unq, a_EM_unq_p, a_EM_cnt, a_EM_cnt_p, a_top20_int, a_jac_top_5, a_jac_top_10, a_jac_top_20, a_gini_all, a_gini_EM,
                    t_all_unq, t_all_cnt, t_EM_unq, t_EM_unq_p, t_EM_cnt, t_EM_cnt_p, t_top20_int, t_jac_top_5, t_jac_top_10, t_jac_top_20, t_gini_all, t_gini_EM]
@@ -302,6 +308,19 @@ def run_diff(username, rows):
 
     a_hd, t_hd, a_ld, t_ld = import_lists()
 
+    if username not in HD + LD:
+        print("### User not found : {}".format(username))
+        return rows
+    elif username in HD:
+        artist_tomatch = a_hd
+        track_tomatch = t_hd
+        group = 'HD'
+    elif username in LD:
+        artist_tomatch = a_ld
+        track_tomatch = t_ld
+        group = 'LD'     
+
+
     COMBO = [[df_PRE, df_COND], [pd.concat([df_PRE, df_COND], ignore_index=True), df_POST]]
     COMBO_LABEL = ["COND", "POST"]
 
@@ -312,7 +331,7 @@ def run_diff(username, rows):
         genres_EM_2, genres_all_2 = search_EM_genres(df_2)
 
         if genres_all_2 == []:
-            row = [username, combo_l] + [0 for x in range(14)]
+            row = [username, group, combo_l] + [0 for x in range(14)]
         else:
             diff_EM_genres = int(len(set(genres_EM_2).difference(set(genres_EM_1))))
             try:
@@ -347,21 +366,10 @@ def run_diff(username, rows):
             diff_all_tracks_p = round(diff_all_tracks*100 / len(set(tracks_all_2)),2)
             # print(diff_EM_tracks,diff_EM_tracks_p, diff_all_tracks, diff_all_tracks_p)
 
-            # Matches
-            if username in HD:
-                artist_tomatch = a_hd
-                track_tomatch = t_hd
-            elif username in LD:
-                artist_tomatch = a_ld
-                track_tomatch = t_ld
-            else:
-                print("### User not found : {}".format(username))
-                continue
-
             artist_match = len(set(artists_EM_2).intersection(artist_tomatch))
             track_match = len(set(tracks_EM_2).intersection(track_tomatch))
 
-            row = [username, combo_l,
+            row = [username, group, combo_l,
                    diff_all_genres, diff_all_genres_p, diff_EM_genres, diff_EM_genres_p,
                    diff_all_artists, diff_all_artists_p, diff_EM_artists,diff_EM_artists_p,
                    diff_all_tracks, diff_all_tracks_p, diff_EM_tracks,diff_EM_tracks_p,
@@ -408,17 +416,17 @@ if __name__ == "__main__":
         infile.close()
 
         for line in lines:
+            print("-------------")
             username = line.strip()
             rows = run(username, rows)
             rows_diff = run_diff(username, rows_diff)
 
-    with open("../data/listenbrainz/results/logs_analysis.csv", 'w+') as outf:
+    with open(OUTFILE_1, 'w+') as outf:
         _writer = csv.writer(outf)
         _writer.writerow(HEADER)
         for row in rows:
             _writer.writerow(row)
-
-    with open("../data/listenbrainz/results/logs_diff_analysis.csv", 'w+') as outf:
+    with open(OUTFILE_2, 'w+') as outf:
         _writer = csv.writer(outf)
         _writer.writerow(HEADER_DIFF)
         for row in rows_diff:

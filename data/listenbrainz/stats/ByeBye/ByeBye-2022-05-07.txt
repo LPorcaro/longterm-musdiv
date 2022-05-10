@@ -1,0 +1,45 @@
+Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet, PEDRO SAMPAIO,Mc Pedrinho
+Electronic genres found: eurodance, slap house, italo dance, funk carioca
+Electronic music logs found: 13.04% 
+
+Top genres
+	1: rap (13.21%)
+	2: trap (7.55%)
+	3: deep underground hip hop (5.66%)
+	4: kentucky hip hop (5.66%)
+	5: hip hop tuga (5.66%)
+Top artists
+	1: Mc Pedrinho (4.76%)
+	2: Gabry Ponte (4.76%)
+	3: Lil Mosey (4.76%)
+	4: Crypt (4.76%)
+	5: Joey Nato (4.76%)
+Top country
+	1: US (34.78%)
+	2: QZ (21.74%)
+	3: PT (13.04%)
+	4: TC (8.70%)
+	5: IT (8.70%)
+Top record
+	1: AT2 (21.74%)
+	2: UM7 (17.39%)
+	3: ES8 (13.04%)
+	4: V95 (8.70%)
+	5: FZ4 (8.70%)
+Top year
+	1: 22 (43.48%)
+	2: 21 (34.78%)
+	3: 20 (8.70%)
+	4: 10 (4.35%)
+	5: 16 (4.35%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
+mean    59.000000      0.229514      0.750391          0.011952     0.156513  107.546652   0.498174   0.646652
+std     23.419106      0.211619      0.159853          0.054739     0.101546   23.921708   0.200729   0.181333
+min     30.000000      0.000616      0.398000          0.000000     0.038300   74.590000   0.255000   0.318000
+25%     34.500000      0.025400      0.726000          0.000000     0.073000   98.974000   0.324000   0.554000
+50%     61.000000      0.205000      0.774000          0.000010     0.122000  103.804000   0.487000   0.602000
+75%     74.000000      0.296000      0.887000          0.000130     0.260000  108.478000   0.673000   0.791000
+max     95.000000      0.714000      0.928000          0.263000     0.329000  163.118000   0.892000   0.956000

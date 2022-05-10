@@ -1,19 +1,19 @@
-Electronic artists found: Hilight Tribe,Vini Vici, Xzibit,Erick Sermon,J. Ro,Tash, Gabry Ponte,R3HAB,Timmy Trumpet, Fat Joe,Ja Rule,Ashanti
-Electronic genres found: slap house, italo dance, eurodance, psychedelic trance, hardcore hip hop
+Electronic artists found: Fat Joe,Ja Rule,Ashanti, Gabry Ponte,R3HAB,Timmy Trumpet, Xzibit,Erick Sermon,J. Ro,Tash, Hilight Tribe,Vini Vici
+Electronic genres found: slap house, italo dance, psychedelic trance, hardcore hip hop, eurodance
 Electronic music logs found: 13.51% 
 
 Top genres
-	1: rap (11.71%)
-	2: pop rap (10.81%)
-	3: hip hop (8.11%)
-	4: gangster rap (3.60%)
-	5: detroit hip hop (3.60%)
+	1: rap (11.50%)
+	2: pop rap (10.62%)
+	3: hip hop (7.96%)
+	4: gangster rap (3.54%)
+	5: detroit hip hop (3.54%)
 Top artists
-	1: Timmy Trumpet (1.96%)
-	2: Ashanti (1.96%)
-	3: Gabry Ponte (1.96%)
-	4: Bezegol (1.96%)
-	5: Erick Sermon (1.96%)
+	1: Ja Rule (1.96%)
+	2: Merkules (1.96%)
+	3: Hopsin (1.96%)
+	4: Tech N9ne (1.96%)
+	5: Don Toliver (1.96%)
 Top country
 	1: US (54.05%)
 	2: QM (10.81%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   37.000000     37.000000     37.000000         37.000000    37.000000   37.000000  37.000000  37.000000
-mean    63.513514      0.126038      0.686757          0.020488     0.167816  119.276973   0.507049   0.744054
-std     14.928760      0.134152      0.161259          0.114750     0.125515   29.518741   0.218887   0.129510
+mean    63.459459      0.126038      0.686757          0.020488     0.167816  119.276973   0.507049   0.744054
+std     14.898909      0.134152      0.161259          0.114750     0.125515   29.518741   0.218887   0.129510
 min     25.000000      0.000616      0.382000          0.000000     0.030900   65.988000   0.072800   0.454000
 25%     55.000000      0.013200      0.600000          0.000000     0.061200   95.848000   0.331000   0.659000
 50%     69.000000      0.093400      0.725000          0.000000     0.131000  119.969000   0.487000   0.752000

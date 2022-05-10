@@ -1,5 +1,5 @@
-Electronic artists found: Galantis,David Guetta,Little Mix, Anne-Marie,Little Mix, Alesso,Katy Perry, Tiësto,Ava Max
-Electronic genres found: electro house, slap house, tropical house, brostep
+Electronic artists found: Tiësto,Ava Max, Alesso,Katy Perry, Anne-Marie,Little Mix, Galantis,David Guetta,Little Mix
+Electronic genres found: slap house, electro house, brostep, tropical house
 Electronic music logs found: 9.43% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: hollywood (4.07%)
 	5: talent show (2.91%)
 Top artists
-	1: Dua Lipa (1.72%)
-	2: Taylor Swift (1.72%)
-	3: Harry Styles (1.72%)
-	4: Imagine Dragons (1.72%)
-	5: Ross Lynch (1.72%)
+	1: Grace Phipps (1.72%)
+	2: Anika Noni Rose (1.72%)
+	3: Dove Cameron (1.72%)
+	4: Samuel E. Wright (1.72%)
+	5: Jason Evigan (1.72%)
 Top country
 	1: US (77.36%)
 	2: GB (13.21%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   53.000000     53.000000     53.000000         53.000000    53.000000   53.000000  53.000000  53.000000
-mean    82.735849      0.183252      0.631887          0.000099     0.082851  123.508396   0.556887   0.688132
-std      9.483084      0.221007      0.127560          0.000332     0.065583   30.893310   0.189594   0.145831
+mean    82.698113      0.183252      0.631887          0.000099     0.082851  123.508396   0.556887   0.688132
+std      9.492071      0.221007      0.127560          0.000332     0.065583   30.893310   0.189594   0.145831
 min     64.000000      0.001080      0.334000          0.000000     0.028400   77.011000   0.127000   0.272000
 25%     76.000000      0.031100      0.535000          0.000000     0.043100   97.028000   0.441000   0.602000
 50%     81.000000      0.090200      0.647000          0.000000     0.054500  121.223000   0.557000   0.706000

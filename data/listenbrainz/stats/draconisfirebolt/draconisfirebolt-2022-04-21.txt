@@ -9,11 +9,11 @@ Top genres
 	4: talent show (8.62%)
 	5: english indie rock (6.90%)
 Top artists
-	1: Catfish and the Bottlemen (14.29%)
-	2: Only The Poets (14.29%)
-	3: Harry Styles (14.29%)
-	4: Louis Tomlinson (14.29%)
-	5: One Direction (14.29%)
+	1: One Direction (14.29%)
+	2: Harry Styles (14.29%)
+	3: Louis Tomlinson (14.29%)
+	4: Catfish and the Bottlemen (14.29%)
+	5: Joshua Bassett (14.29%)
 Top country
 	1: GB (92.86%)
 	2: US (7.14%)
@@ -33,8 +33,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   28.000000     28.000000     28.000000         28.000000    28.000000   28.000000  28.000000  28.000000
-mean    66.392857      0.136752      0.564571          0.001654     0.037179  120.942536   0.468714   0.674250
-std      8.820596      0.176888      0.079936          0.006764     0.007367   21.833613   0.203261   0.137084
+mean    66.250000      0.136752      0.564571          0.001654     0.037179  120.942536   0.468714   0.674250
+std      8.897045      0.176888      0.079936          0.006764     0.007367   21.833613   0.203261   0.137084
 min     46.000000      0.000204      0.403000          0.000000     0.025900   79.052000   0.123000   0.390000
 25%     65.500000      0.018850      0.526500          0.000000     0.030750  106.748000   0.319500   0.626750
 50%     69.500000      0.097300      0.568000          0.000000     0.035750  121.468000   0.508000   0.671000

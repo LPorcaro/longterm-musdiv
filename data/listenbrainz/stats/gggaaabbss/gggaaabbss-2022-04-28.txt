@@ -1,0 +1,44 @@
+Electronic artists found: Anne-Marie,Little Mix
+Electronic genres found: tropical house
+Electronic music logs found: 5.00% 
+
+Top genres
+	1: pop (16.07%)
+	2: dance pop (12.50%)
+	3: post-teen pop (10.71%)
+	4: disney portugues (8.93%)
+	5: trap queen (8.93%)
+Top artists
+	1: Jonathan Groff (4.76%)
+	2: Guida (4.76%)
+	3: João Pedro Gonçalves (4.76%)
+	4: Lizzo (4.76%)
+	5: Pedro Bargado (4.76%)
+Top country
+	1: US (80.00%)
+	2: GB (10.00%)
+	3: SE (5.00%)
+	4: QM (5.00%)
+Top record
+	1: WD1 (25.00%)
+	2: QX9 (25.00%)
+	3: AT2 (20.00%)
+	4: SM1 (10.00%)
+	5: UM7 (5.00%)
+Top year
+	1: 22 (20.00%)
+	2: 21 (15.00%)
+	3: 19 (10.00%)
+	4: 16 (10.00%)
+	5: 10 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   20.000000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean    59.050000      0.253357      0.645150          0.000165     0.077770  128.013000   0.594045   0.675650
+std     26.516083      0.242091      0.158087          0.000322     0.048354   25.262788   0.195066   0.170229
+min     26.000000      0.006110      0.293000          0.000000     0.025300   83.729000   0.081900   0.355000
+25%     34.500000      0.094350      0.549250          0.000000     0.049900  110.325000   0.537250   0.536750
+50%     50.000000      0.160000      0.627500          0.000000     0.062850  121.953500   0.617000   0.731000
+75%     80.500000      0.360750      0.815000          0.000170     0.090075  144.298750   0.724500   0.746500
+max    100.000000      0.888000      0.836000          0.001010     0.221000  173.930000   0.915000   0.974000

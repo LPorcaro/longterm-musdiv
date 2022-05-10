@@ -1,4 +1,4 @@
-Electronic artists found: Obie Trice, Xzibit,Eminem,Nate Dogg, Royce Da 5'9"
+Electronic artists found: Royce Da 5'9", Xzibit,Eminem,Nate Dogg, Obie Trice
 Electronic genres found: hardcore hip hop
 Electronic music logs found: 12.00% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: pop rap (7.22%)
 	5: hip hop tuga (7.22%)
 Top artists
-	1: Papillon (3.45%)
-	2: Monsta (3.45%)
-	3: Obie Trice (3.45%)
-	4: Dillaz (3.45%)
-	5: Avril Lavigne (3.45%)
+	1: Linkin Park (3.45%)
+	2: WC (3.45%)
+	3: Kid Cudi (3.45%)
+	4: Obie Trice (3.45%)
+	5: Royce Da 5'9" (3.45%)
 Top country
 	1: US (68.00%)
 	2: PT (16.00%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.000000
-mean    61.120000      0.211039      0.620720          0.000216     0.187668  112.564000   0.555200   0.755640
-std     15.284306      0.232948      0.134443          0.000567     0.121948   31.244738   0.182756   0.180365
+mean    61.080000      0.211039      0.620720          0.000216     0.187668  112.564000   0.555200   0.755640
+std     15.239532      0.232948      0.134443          0.000567     0.121948   31.244738   0.182756   0.180365
 min     24.000000      0.000220      0.427000          0.000000     0.033800   77.987000   0.267000   0.413000
 25%     53.000000      0.052500      0.524000          0.000000     0.081400   85.873000   0.399000   0.677000
 50%     61.000000      0.124000      0.586000          0.000001     0.208000  104.655000   0.571000   0.848000

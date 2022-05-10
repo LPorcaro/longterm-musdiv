@@ -1,5 +1,5 @@
-Electronic artists found: Don Diablo,Galantis, Substance,Vainqueur, Товарищ Астроном, MEDUZA,Hozier, Oliver Heldens,Party Pupils,MAX, Sonny Fodera,Ella Eyre, Swedish House Mafia,Ty Dolla $ign,070 Shake, Jonas Blue,LÉON, Martin Garrix,Tove Lo, Michael Brun,Kah-Lo
-Electronic genres found: microhouse, progressive house, electro house, future house, sovietwave, progressive electro house, tropical house, dub techno
+Electronic artists found: Michael Brun,Kah-Lo, Swedish House Mafia,Ty Dolla $ign,070 Shake, Товарищ Астроном, Substance,Vainqueur, Don Diablo,Galantis, Jonas Blue,LÉON, MEDUZA,Hozier, Martin Garrix,Tove Lo, Oliver Heldens,Party Pupils,MAX, Sonny Fodera,Ella Eyre
+Electronic genres found: progressive house, future house, sovietwave, microhouse, tropical house, dub techno, progressive electro house, electro house
 Electronic music logs found: 44.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: dance pop (8.05%)
 	5: tropical house (6.90%)
 Top artists
-	1: Dua Lipa (2.33%)
-	2: Swedish House Mafia (2.33%)
-	3: MAX (2.33%)
-	4: Cautious Clay (2.33%)
-	5: Maude Latour (2.33%)
+	1: Route 94 (2.33%)
+	2: Oliver Heldens (2.33%)
+	3: Товарищ Астроном (2.33%)
+	4: Michael Brun (2.33%)
+	5: Kah-Lo (2.33%)
 Top country
 	1: US (32.00%)
 	2: GB (28.00%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness      tempo   valence     energy
 count   25.000000     25.000000     25.000000         25.000000    25.000000   25.00000  25.00000  25.000000
-mean    64.960000      0.182374      0.723800          0.136385     0.088312  117.68632   0.57484   0.689240
-std     18.970328      0.209956      0.105299          0.288360     0.085992   15.46877   0.21011   0.140175
+mean    64.720000      0.182374      0.723800          0.136385     0.088312  117.68632   0.57484   0.689240
+std     18.729478      0.209956      0.105299          0.288360     0.085992   15.46877   0.21011   0.140175
 min     18.000000      0.003690      0.451000          0.000000     0.030900   84.93100   0.14200   0.452000
 25%     60.000000      0.021200      0.680000          0.000000     0.037700  111.98600   0.49400   0.564000
 50%     66.000000      0.114000      0.708000          0.000004     0.053900  121.05800   0.61000   0.715000

@@ -1,5 +1,5 @@
-Electronic artists found: Steve Aoki,MT11, Zafrir,Afrojack, KSHMR,Jake Reese, SCNDL, Becky Hill, Gareth Emery,Annabel, Kozah, Alan Walker,Au/Ra,Tomine Harket, Dynoro,Gigi D'Agostino, Don Diablo,Alex Clare, Jayda G
-Electronic genres found: slap house, melbourne bounce international, progressive house, electro house, future house, uplifting trance, deep house, melbourne bounce, melodic dubstep, progressive electro house, canadian electronic, progressive trance, tropical house
+Electronic artists found: Alan Walker,Au/Ra,Tomine Harket, Becky Hill, SCNDL, Jayda G, KSHMR,Jake Reese, Steve Aoki,MT11, Dynoro,Gigi D'Agostino, Gareth Emery,Annabel, Kozah, Zafrir,Afrojack, Don Diablo,Alex Clare
+Electronic genres found: slap house, progressive house, canadian electronic, melbourne bounce international, future house, deep house, tropical house, melodic dubstep, melbourne bounce, progressive electro house, uplifting trance, electro house, progressive trance
 Electronic music logs found: 64.71% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: tropical house (8.47%)
 	5: dance pop (6.78%)
 Top artists
-	1: Clayton Jones (3.23%)
-	2: Wasiu (3.23%)
-	3: Dynoro (3.23%)
-	4: Naeleck (3.23%)
-	5: Jayda G (3.23%)
+	1: Alex Clare (3.23%)
+	2: Clayton Jones (3.23%)
+	3: Jayda G (3.23%)
+	4: Alan Walker (3.23%)
+	5: Oddity (3.23%)
 Top country
 	1: FR (35.29%)
 	2: NL (23.53%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   17.000000     17.000000     17.000000         17.000000    17.000000   17.000000  17.000000  17.000000
-mean    56.176471      0.108262      0.637353          0.151736     0.086847  132.463353   0.455547   0.819824
-std     10.248386      0.099489      0.104564          0.321255     0.062438   19.912854   0.228787   0.125168
+mean    56.117647      0.108262      0.637353          0.151736     0.086847  132.463353   0.455547   0.819824
+std     10.294916      0.099489      0.104564          0.321255     0.062438   19.912854   0.228787   0.125168
 min     41.000000      0.003250      0.425000          0.000000     0.028300  102.015000   0.061300   0.489000
-25%     49.000000      0.015900      0.549000          0.000002     0.050200  123.964000   0.388000   0.794000
+25%     48.000000      0.015900      0.549000          0.000002     0.050200  123.964000   0.388000   0.794000
 50%     55.000000      0.101000      0.658000          0.000028     0.065800  126.021000   0.447000   0.848000
 75%     62.000000      0.176000      0.694000          0.019600     0.089900  132.008000   0.655000   0.897000
 max     82.000000      0.305000      0.787000          0.875000     0.264000  170.008000   0.856000   0.960000

@@ -1,5 +1,5 @@
-Electronic artists found: Jubël,NEIMY, Gryffin,Maia Wright, Anne-Marie,Little Mix, Marshmello,Halsey, Mabel, Alesso,Katy Perry
-Electronic genres found: electro house, deep house, brostep, progressive electro house, tropical house
+Electronic artists found: Mabel, Alesso,Katy Perry, Anne-Marie,Little Mix, Jubël,NEIMY, Marshmello,Halsey, Gryffin,Maia Wright
+Electronic genres found: deep house, brostep, tropical house, progressive electro house, electro house
 Electronic music logs found: 12.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop dance (3.45%)
 	5: electropop (3.45%)
 Top artists
-	1: Shawn Mendes (1.92%)
-	2: Harry Styles (1.92%)
-	3: Ross Lynch (1.92%)
-	4: Sara Kays (1.92%)
-	5: James Arthur (1.92%)
+	1: Mabel (1.92%)
+	2: Grace Phipps (1.92%)
+	3: Britney Spears (1.92%)
+	4: Jason Evigan (1.92%)
+	5: Cher Lloyd (1.92%)
 Top country
 	1: US (68.00%)
 	2: GB (14.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   50.000000     50.000000     50.000000         50.000000    50.000000   50.000000  50.000000  50.000000
-mean    77.600000      0.179921      0.655460          0.050364     0.092256  124.717960   0.544998   0.707056
-std     12.707061      0.267675      0.114293          0.201742     0.090318   24.895748   0.229249   0.207083
+mean    77.320000      0.179921      0.655460          0.050364     0.092256  124.717960   0.544998   0.707056
+std     12.803762      0.267675      0.114293          0.201742     0.090318   24.895748   0.229249   0.207083
 min     32.000000      0.000079      0.378000          0.000000     0.030500   78.680000   0.084900   0.088800
-25%     73.500000      0.017925      0.596250          0.000000     0.042675  103.228750   0.422250   0.619500
-50%     79.000000      0.078650      0.676500          0.000000     0.055650  122.129000   0.557000   0.760500
+25%     73.000000      0.017925      0.596250          0.000000     0.042675  103.228750   0.422250   0.619500
+50%     78.500000      0.078650      0.676500          0.000000     0.055650  122.129000   0.557000   0.760500
 75%     84.250000      0.188750      0.721750          0.000007     0.097700  140.757000   0.741500   0.858000
 max     96.000000      0.992000      0.926000          0.884000     0.463000  174.111000   0.910000   0.951000

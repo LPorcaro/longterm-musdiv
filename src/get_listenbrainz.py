@@ -22,6 +22,9 @@ def get_listen_logs(username, out_dir):
             infile = os.path.join(user_folder, json_file)
             with open(infile, 'r') as inf:
                 listens = json.load(inf)
+            if not listens:
+                print("User '{}': Found {} listen events".format(username, len(listens)))
+                return
             last_listen = listens[0]
             last_listen_date = last_listen['listened_at']
             last_listen_obj = datetime.fromisoformat(last_listen_date)

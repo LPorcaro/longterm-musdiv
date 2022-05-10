@@ -1,0 +1,45 @@
+Electronic artists found: Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, DJ Matt D,Menor MC,MC GP,Vulgo FK
+Electronic genres found: funk carioca, tropical house
+Electronic music logs found: 6.25% 
+
+Top genres
+	1: rap (17.58%)
+	2: hip hop (7.69%)
+	3: deep underground hip hop (7.69%)
+	4: kentucky hip hop (7.69%)
+	5: pop rap (6.59%)
+Top artists
+	1: B-Real (2.70%)
+	2: Russ (2.70%)
+	3: Dopamine (2.70%)
+	4: Lil Mosey (2.70%)
+	5: Riton (2.70%)
+Top country
+	1: US (71.88%)
+	2: SE (9.38%)
+	3: PT (9.38%)
+	4: TC (3.12%)
+	5: GB (3.12%)
+Top record
+	1: AT2 (21.88%)
+	2: UM7 (18.75%)
+	3: IR1 (9.38%)
+	4: SM1 (9.38%)
+	5: 7ED (9.38%)
+Top year
+	1: 22 (18.75%)
+	2: 20 (18.75%)
+	3: 19 (18.75%)
+	4: 17 (9.38%)
+	5: 21 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   32.000000     32.000000     32.000000         32.000000    32.000000   32.000000  32.000000  32.000000
+mean    64.968750      0.197947      0.716344          0.000093     0.174494  114.548187   0.520438   0.657062
+std     13.693616      0.264673      0.133087          0.000215     0.145496   28.268711   0.242099   0.166091
+min     43.000000      0.000864      0.443000          0.000000     0.030000   76.394000   0.100000   0.328000
+25%     53.750000      0.022000      0.574750          0.000000     0.054500   91.622500   0.330250   0.578000
+50%     70.000000      0.104400      0.736500          0.000000     0.117500  106.049000   0.531500   0.691000
+75%     77.250000      0.255000      0.802250          0.000009     0.256000  138.258500   0.734750   0.743000
+max     85.000000      0.902000      0.923000          0.000758     0.588000  183.602000   0.892000   0.922000

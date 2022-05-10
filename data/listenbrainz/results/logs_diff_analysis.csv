@@ -1,13 +1,13 @@
-username,phase,nov genres,nov genres (%),nov EM genres,nov EM genres (%),nov artists,nov artists (%),nov EM artists,nov EM artists (%),nov tracks,nov tracks (%),nov EM tracks,nov EM tracks (%),match artists,match tracks
-draconisfirebolt,COND,11,16.67,2,33.33,77,56.62,3,50.0,119,52.42,3,75.0,0,0
-draconisfirebolt,POST,10,18.18,2,66.67,56,46.67,5,83.33,68,44.44,4,80.0,0,0
-Fillyz,COND,0,0.0,0,0,1,8.33,0,0,11,32.35,0,0,0,0
-Fillyz,POST,0,0.0,0,0,0,0.0,0,0,1,11.11,0,0,0,0
-gggaaabbss,COND,111,48.05,11,52.38,278,59.66,65,70.65,430,70.15,53,76.81,0,0
-gggaaabbss,POST,26,17.93,0,0.0,47,21.76,3,15.79,127,41.23,3,25.0,0,0
-anaritaml,COND,95,46.12,14,53.85,311,77.36,80,81.63,296,82.45,54,90.0,3,2
-anaritaml,POST,33,28.7,1,11.11,86,59.31,34,82.93,73,60.33,21,91.3,0,0
-ByeBye,COND,55,37.41,5,55.56,170,69.11,18,100.0,198,80.16,7,100.0,0,0
-ByeBye,POST,36,26.67,4,30.77,96,45.5,16,53.33,128,69.95,11,73.33,0,0
-bigDart,COND,93,51.96,15,46.88,404,78.14,127,69.4,355,87.22,90,83.33,0,0
-bigDart,POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+username,group,phase,nov genres,nov genres_p,nov EM genres,nov EM genres_p,nov artists,nov artists_p,nov EM artists,nov EM artists_p,nov tracks,nov tracks_p,nov EM tracks,nov EM tracks_p,match artists,match tracks
+draconisfirebolt,LD,COND,11,16.67,2,33.33,77,56.62,3,50.0,119,52.42,3,75.0,0,0
+draconisfirebolt,LD,POST,11,18.03,2,66.67,70,50.72,5,83.33,85,41.26,4,80.0,0,0
+Fillyz,LD,COND,0,0.0,0,0,1,8.33,0,0,11,32.35,0,0,0,0
+Fillyz,LD,POST,0,0.0,0,0,0,0.0,0,0,11,34.38,0,0,0,0
+gggaaabbss,HD,COND,111,48.05,11,55.0,278,59.66,48,66.67,430,70.15,31,73.81,0,0
+gggaaabbss,HD,POST,34,19.43,0,0.0,74,25.52,6,22.22,210,46.98,4,33.33,0,0
+anaritaml,HD,COND,95,46.12,14,53.85,311,77.36,80,81.63,296,82.45,54,90.0,3,2
+anaritaml,HD,POST,39,26.9,0,0.0,140,60.34,10,58.82,143,66.2,7,77.78,0,0
+ByeBye,LD,COND,55,37.41,5,62.5,170,69.11,9,100.0,198,80.16,4,100.0,0,0
+ByeBye,LD,POST,54,29.83,8,53.33,170,50.3,21,72.41,219,64.99,14,87.5,0,0
+bigDart,HD,COND,93,51.96,15,48.39,404,78.14,112,74.67,355,87.22,82,90.11,0,0
+bigDart,HD,POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-Electronic artists found: Anitta,PEDRO SAMPAIO, PEDRO SAMPAIO,Mc Pedrinho, Lost Frequencies,Calum Scott, Tiësto,Ava Max
+Electronic artists found: Tiësto,Ava Max, Anitta,PEDRO SAMPAIO, PEDRO SAMPAIO,Mc Pedrinho, Lost Frequencies,Calum Scott
 Electronic genres found: slap house, funk carioca, brostep, tropical house
 Electronic music logs found: 7.14% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: uk pop (3.45%)
 	5: rap (3.45%)
 Top artists
-	1: Dua Lipa (1.67%)
-	2: Jack Harlow (1.67%)
-	3: Shawn Mendes (1.67%)
-	4: Imagine Dragons (1.67%)
-	5: Harry Styles (1.67%)
+	1: PNAU (1.67%)
+	2: Guida (1.67%)
+	3: Dove Cameron (1.67%)
+	4: Elley Duhé (1.67%)
+	5: Mc Pedrinho (1.67%)
 Top country
 	1: US (69.64%)
 	2: GB (14.29%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   56.000000     56.000000     56.000000      5.600000e+01    56.000000   56.000000  56.000000  56.000000
-mean    77.357143      0.255136      0.638589      2.107331e-02     0.083354  124.177750   0.543854   0.653750
-std     22.903298      0.285214      0.163378      1.272392e-01     0.064214   31.727342   0.254298   0.157227
+mean    77.464286      0.255136      0.638589      2.107331e-02     0.083354  124.177750   0.543854   0.653750
+std     22.977431      0.285214      0.163378      1.272392e-01     0.064214   31.727342   0.254298   0.157227
 min     30.000000      0.005810      0.293000      0.000000e+00     0.028000   77.011000   0.081900   0.222000
 25%     63.000000      0.037750      0.526750      0.000000e+00     0.045950   96.737000   0.334500   0.563000
 50%     89.500000      0.108000      0.663000      6.350000e-07     0.060650  119.459500   0.550000   0.688500
-75%     94.250000      0.383750      0.757250      2.545000e-05     0.096300  147.859750   0.745500   0.781500
+75%     95.000000      0.383750      0.757250      2.545000e-05     0.096300  147.859750   0.745500   0.781500
 max    100.000000      0.987000      0.905000      9.420000e-01     0.313000  185.727000   0.956000   0.948000

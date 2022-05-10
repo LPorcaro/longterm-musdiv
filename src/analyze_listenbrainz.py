@@ -18,7 +18,7 @@ INFO_DIR = "../data/listenbrainz/info"
 
 end = datetime.strptime("20220216", "%Y%m%d")
 
-NOT_EM_GENRE = ['permanent wave']
+NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca']
 
 
 def search_EM_genres(df):
