@@ -1,6 +1,6 @@
-Electronic artists found: Ananda,Mala Rodríguez,Joker Beats,DaniLeigh, Moby, Atitude 67,Gabriel O Pensador,Analaga
-Electronic genres found: downtempo, electronica, funk carioca
-Electronic music logs found: 4.22% 
+Electronic artists found: Moby
+Electronic genres found: electronica, downtempo
+Electronic music logs found: 1.41% 
 
 Top genres
 	1: hip hop tuga (14.74%)
@@ -9,11 +9,11 @@ Top genres
 	4: pop rap (5.13%)
 	5: hip hop (5.13%)
 Top artists
-	1: Hunter (1.09%)
-	2: Daan Mc (1.09%)
-	3: Outlawz (1.09%)
-	4: Jelly Roll (1.09%)
-	5: Struggle Jennings (1.09%)
+	1: Bruno Mars (1.09%)
+	2: L7NNON (1.09%)
+	3: Jack Harlow (1.09%)
+	4: Linkin Park (1.09%)
+	5: James Blunt (1.09%)
 Top country
 	1: US (36.62%)
 	2: PT (26.76%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   71.000000     71.000000     71.000000         71.000000    71.000000   71.000000  71.000000  71.000000
-mean    57.521127      0.278853      0.677648          0.006076     0.146504  123.997028   0.513394   0.643211
-std     17.566087      0.255135      0.143467          0.043977     0.121406   33.823885   0.188314   0.168481
+mean    56.830986      0.278853      0.677648          0.006076     0.146504  123.997028   0.513394   0.643211
+std     17.466691      0.255135      0.143467          0.043977     0.121406   33.823885   0.188314   0.168481
 min     19.000000      0.000026      0.185000          0.000000     0.024900   74.934000   0.145000   0.318000
-25%     45.000000      0.047450      0.628000          0.000000     0.054150   96.068000   0.363000   0.502500
+25%     44.500000      0.047450      0.628000          0.000000     0.054150   96.068000   0.363000   0.502500
 50%     54.000000      0.212000      0.719000          0.000002     0.093300  123.986000   0.487000   0.637000
-75%     73.000000      0.482500      0.773000          0.000086     0.226000  144.509500   0.654000   0.773500
+75%     71.000000      0.482500      0.773000          0.000086     0.226000  144.509500   0.654000   0.773500
 max     87.000000      0.836000      0.916000          0.369000     0.450000  205.895000   0.963000   0.988000

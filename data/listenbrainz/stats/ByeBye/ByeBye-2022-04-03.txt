@@ -1,6 +1,6 @@
-Electronic artists found: Atitude 67,Gabriel O Pensador,Analaga
-Electronic genres found: funk carioca
-Electronic music logs found: 4.00% 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
 
 Top genres
 	1: gymcore (27.27%)
@@ -9,11 +9,11 @@ Top genres
 	4: alternative metal (6.82%)
 	5: hard alternative (6.82%)
 Top artists
-	1: Live My Last (4.35%)
-	2: Gabriel O Pensador (4.35%)
-	3: My Darkest Days (4.35%)
-	4: Skillet (4.35%)
-	5: Wet Bed Gang (4.35%)
+	1: Subtil (4.35%)
+	2: Ruivo (4.35%)
+	3: Saving Abel (4.35%)
+	4: Zakk Wylde (4.35%)
+	5: BROACH (4.35%)
 Top country
 	1: TC (44.00%)
 	2: us (20.00%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.000000
-mean    47.680000      0.111394      0.516360          0.000449     0.091412  117.550280   0.463144   0.829000
-std     12.361634      0.218267      0.127328          0.001497     0.070166   25.459586   0.178734   0.180565
+mean    46.960000      0.111394      0.516360          0.000449     0.091412  117.550280   0.463144   0.829000
+std     12.745849      0.218267      0.127328          0.001497     0.070166   25.459586   0.178734   0.180565
 min     14.000000      0.000037      0.180000          0.000000     0.033800   80.992000   0.046600   0.344000
 25%     44.000000      0.000821      0.451000          0.000000     0.055800   95.979000   0.298000   0.835000
 50%     47.000000      0.007200      0.516000          0.000000     0.064400  114.945000   0.527000   0.874000

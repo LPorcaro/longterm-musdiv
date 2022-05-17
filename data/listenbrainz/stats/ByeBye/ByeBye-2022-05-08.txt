@@ -1,6 +1,6 @@
-Electronic artists found: Danni Gato,Vado Más Ki Ás, PEDRO SAMPAIO, DJ Matt D,Menor MC,MC GP,Vulgo FK
-Electronic genres found: kuduro, funk carioca
-Electronic music logs found: 25.00% 
+Electronic artists found: Danni Gato,Vado Más Ki Ás
+Electronic genres found: kuduro
+Electronic music logs found: 8.33% 
 
 Top genres
 	1: funk carioca (7.14%)
@@ -9,11 +9,11 @@ Top genres
 	4: pop rap (7.14%)
 	5: kuduro (3.57%)
 Top artists
-	1: Tom MacDonald (5.26%)
-	2: J Balvin (5.26%)
-	3: Black Eyed Peas (5.26%)
-	4: MC GP (5.26%)
-	5: PEDRO SAMPAIO (5.26%)
+	1: Shahmen (5.26%)
+	2: Jack Harlow (5.26%)
+	3: Adam Calhoun (5.26%)
+	4: T.I. (5.26%)
+	5: Danni Gato (5.26%)
 Top country
 	1: QZ (25.00%)
 	2: US (25.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   12.000000     12.000000     12.000000         12.000000    12.000000   12.000000  12.000000  12.000000
-mean    54.750000      0.157034      0.752083          0.000066     0.160983  121.560250   0.545333   0.657833
-std     16.917581      0.150997      0.153306          0.000218     0.159315   26.493235   0.176606   0.133726
+mean    55.500000      0.157034      0.752083          0.000066     0.160983  121.560250   0.545333   0.657833
+std     17.748239      0.150997      0.153306          0.000218     0.159315   26.493235   0.176606   0.133726
 min     32.000000      0.000377      0.441000          0.000000     0.027600   93.991000   0.295000   0.446000
 25%     38.750000      0.031975      0.691750          0.000000     0.054125   99.718000   0.384000   0.581250
-50%     60.000000      0.129000      0.782000          0.000000     0.115500  113.525500   0.540500   0.649000
-75%     67.000000      0.210000      0.878750          0.000007     0.180750  132.066000   0.673000   0.768500
-max     78.000000      0.532000      0.902000          0.000758     0.588000  170.020000   0.818000   0.850000
+50%     60.500000      0.129000      0.782000          0.000000     0.115500  113.525500   0.540500   0.649000
+75%     67.750000      0.210000      0.878750          0.000007     0.180750  132.066000   0.673000   0.768500
+max     79.000000      0.532000      0.902000          0.000758     0.588000  170.020000   0.818000   0.850000

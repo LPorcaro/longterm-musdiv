@@ -1,5 +1,5 @@
-Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet, Timmy Trumpet,Savage, Timmy Trumpet
-Electronic genres found: slap house, melbourne bounce international, italo dance, melbourne bounce, eurodance
+Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet, Timmy Trumpet, Timmy Trumpet,Savage
+Electronic genres found: melbourne bounce, melbourne bounce international, eurodance, italo dance, slap house
 Electronic music logs found: 73.33% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: big room (7.41%)
 	5: dance pop (7.41%)
 Top artists
-	1: Savage (11.11%)
-	2: Merkules (11.11%)
-	3: Gabry Ponte (11.11%)
-	4: Valdo (11.11%)
-	5: Ivandro (11.11%)
+	1: Valdo (11.11%)
+	2: Savage (11.11%)
+	3: Pouya (11.11%)
+	4: Timmy Trumpet (11.11%)
+	5: Gabry Ponte (11.11%)
 Top country
 	1: IT (33.33%)
 	2: AU (26.67%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   15.000000     15.000000     15.000000         15.000000    15.000000   15.000000  15.000000  15.000000
-mean    61.666667      0.052790      0.670533          0.105009     0.174887  115.331533   0.447533   0.819000
-std     12.782056      0.077467      0.219126          0.177271     0.117596   13.667378   0.194954   0.187006
+mean    61.533333      0.052790      0.670533          0.105009     0.174887  115.331533   0.447533   0.819000
+std     13.054100      0.077467      0.219126          0.177271     0.117596   13.667378   0.194954   0.187006
 min     28.000000      0.009350      0.398000          0.000000     0.032200   89.976000   0.269000   0.444000
 25%     59.000000      0.009350      0.398000          0.000041     0.078550  106.581000   0.269000   0.649500
 50%     67.000000      0.015700      0.667000          0.003800     0.142000  125.041000   0.388000   0.956000

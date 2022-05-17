@@ -1,19 +1,19 @@
-Electronic artists found: Clean Bandit,Mabel,24kGoldn, Gabry Ponte,R3HAB,Timmy Trumpet, R3HAB,Mike Williams, Gabry Ponte,LUM!X,Prezioso
-Electronic genres found: slap house, italo dance, tropical house, progressive electro house, dutch house, eurodance, uk funky, electro house
+Electronic artists found: Gabry Ponte,LUM!X,Prezioso, Gabry Ponte,R3HAB,Timmy Trumpet, R3HAB,Mike Williams, Clean Bandit,Mabel,24kGoldn
+Electronic genres found: eurodance, uk funky, italo dance, electro house, dutch house, progressive electro house, slap house, tropical house
 Electronic music logs found: 29.41% 
 
 Top genres
-	1: social media pop (11.76%)
-	2: slap house (7.84%)
-	3: edm (5.88%)
-	4: eurodance (5.88%)
-	5: italo dance (5.88%)
+	1: social media pop (12.00%)
+	2: slap house (8.00%)
+	3: edm (6.00%)
+	4: eurodance (6.00%)
+	5: italo dance (6.00%)
 Top artists
-	1: Mabel (3.70%)
-	2: 24kGoldn (3.70%)
-	3: Mandragora (3.70%)
-	4: Gabry Ponte (3.70%)
-	5: Don Toliver (3.70%)
+	1: Don Toliver (3.70%)
+	2: Adam Calhoun (3.70%)
+	3: Snoop Dogg (3.70%)
+	4: Joey Nato (3.70%)
+	5: Thomas Collins (3.70%)
 Top country
 	1: QZ (41.18%)
 	2: IT (17.65%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   17.000000     17.000000     17.000000         17.000000    17.000000   17.000000  17.000000  17.000000
-mean    54.764706      0.174455      0.654824          0.024248     0.167941  112.277941   0.495906   0.800471
-std     22.434709      0.212585      0.138776          0.085977     0.116180   29.883389   0.267234   0.152848
+mean    54.647059      0.174455      0.654824          0.024248     0.167941  112.277941   0.495906   0.800471
+std     22.324149      0.212585      0.138776          0.085977     0.116180   29.883389   0.267234   0.152848
 min     29.000000      0.001210      0.352000          0.000000     0.034400   74.920000   0.051400   0.494000
 25%     34.000000      0.020900      0.605000          0.000000     0.058000   81.999000   0.263000   0.705000
 50%     56.000000      0.034200      0.670000          0.000000     0.141000  106.581000   0.473000   0.896000

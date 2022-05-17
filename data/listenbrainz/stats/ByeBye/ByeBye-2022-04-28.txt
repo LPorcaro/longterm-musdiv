@@ -1,6 +1,6 @@
-Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet, Xamã,Gustah,Neo Beats, DMX
-Electronic genres found: slap house, italo dance, hardcore hip hop, funk carioca, eurodance
-Electronic music logs found: 12.00% 
+Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet
+Electronic genres found: slap house, italo dance, eurodance
+Electronic music logs found: 4.00% 
 
 Top genres
 	1: hip hop tuga (8.06%)
@@ -9,11 +9,11 @@ Top genres
 	4: rap (6.45%)
 	5: alternative metal (6.45%)
 Top artists
-	1: Merkules (3.33%)
-	2: Kappa Jotta (3.33%)
-	3: DMX (3.33%)
-	4: Gabry Ponte (3.33%)
-	5: Green Day (3.33%)
+	1: DMX (3.33%)
+	2: Bruno Mars (3.33%)
+	3: Kappa Jotta (3.33%)
+	4: Shaman's Harvest (3.33%)
+	5: Adam Calhoun (3.33%)
 Top country
 	1: US (36.00%)
 	2: PT (24.00%)
@@ -35,11 +35,11 @@ Top year
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
-count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.00000  25.000000
-mean    56.280000      0.235311      0.624800          0.001060     0.156988  120.955200   0.45584   0.720960
-std     17.196221      0.245292      0.158668          0.004223     0.127204   36.506161   0.20241   0.162386
-min     25.000000      0.000616      0.179000          0.000000     0.026300   74.590000   0.14400   0.442000
-25%     39.000000      0.009350      0.533000          0.000000     0.048200   89.976000   0.31400   0.609000
-50%     54.000000      0.151000      0.644000          0.000005     0.100000  120.038000   0.43400   0.696000
-75%     71.000000      0.378000      0.744000          0.000057     0.263000  143.734000   0.51600   0.877000
-max     82.000000      0.749000      0.859000          0.021000     0.414000  186.151000   0.91300   0.961000
+count    25.00000     25.000000     25.000000         25.000000    25.000000   25.000000  25.00000  25.000000
+mean     55.88000      0.235311      0.624800          0.001060     0.156988  120.955200   0.45584   0.720960
+std      17.21753      0.245292      0.158668          0.004223     0.127204   36.506161   0.20241   0.162386
+min      24.00000      0.000616      0.179000          0.000000     0.026300   74.590000   0.14400   0.442000
+25%      39.00000      0.009350      0.533000          0.000000     0.048200   89.976000   0.31400   0.609000
+50%      54.00000      0.151000      0.644000          0.000005     0.100000  120.038000   0.43400   0.696000
+75%      69.00000      0.378000      0.744000          0.000057     0.263000  143.734000   0.51600   0.877000
+max      82.00000      0.749000      0.859000          0.021000     0.414000  186.151000   0.91300   0.961000

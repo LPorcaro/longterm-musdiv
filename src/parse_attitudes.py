@@ -43,7 +43,7 @@ ARTIST_FEATS = {"att1:1": "Gender",
 IAT_FOLDER = "../data/iat"
 ATT_FOLDER = "../data/attitudes"
 
-ROUNDS =  ["00", "01", "02", "03", "04"]
+ROUNDS =  ["00", "01", "02", "03", "04", "10"]
 
 GROUPS = ["HD", "LD"]
 

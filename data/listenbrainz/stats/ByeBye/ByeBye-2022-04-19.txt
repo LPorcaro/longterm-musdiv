@@ -1,6 +1,6 @@
-Electronic artists found: Fat Joe,Ja Rule,Ashanti, Mc Th,Xamã,WC no Beat,Pep Starling, Xamã,Gustah,Neo Beats
-Electronic genres found: hardcore hip hop, funk carioca
-Electronic music logs found: 8.57% 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
 
 Top genres
 	1: hip hop tuga (11.58%)
@@ -9,11 +9,11 @@ Top genres
 	4: pop rock (5.26%)
 	5: post-grunge (5.26%)
 Top artists
-	1: Ja Rule (2.63%)
-	2: Kappa Jotta (2.63%)
-	3: MC Cabelinho (2.63%)
-	4: Johnny Virtus (2.63%)
-	5: Tred (2.63%)
+	1: MC Cabelinho (2.63%)
+	2: Bielzin (2.63%)
+	3: Kappa Jotta (2.63%)
+	4: WC no Beat (2.63%)
+	5: Subtil (2.63%)
 Top country
 	1: US (37.14%)
 	2: PT (25.71%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   35.000000     35.000000     35.000000         35.000000    35.000000   35.000000  35.000000  35.000000
-mean    51.742857      0.273442      0.612314          0.000811     0.180934  118.458371   0.561266   0.694771
-std     22.484430      0.262411      0.146998          0.003850     0.161995   34.894175   0.210244   0.172056
+mean    51.400000      0.273442      0.612314          0.000811     0.180934  118.458371   0.561266   0.694771
+std     22.267359      0.262411      0.146998          0.003850     0.161995   34.894175   0.210244   0.172056
 min      7.000000      0.000032      0.295000          0.000000     0.027600   79.045000   0.072300   0.410000
 25%     28.000000      0.021500      0.497500          0.000000     0.054000   89.144000   0.454500   0.534000
 50%     59.000000      0.251000      0.664000          0.000000     0.091600  105.081000   0.516000   0.696000
-75%     73.000000      0.520000      0.731500          0.000003     0.278500  137.157000   0.645000   0.808000
+75%     72.000000      0.520000      0.731500          0.000003     0.278500  137.157000   0.645000   0.808000
 max     82.000000      0.773000      0.835000          0.022600     0.544000  196.264000   0.960000   0.988000

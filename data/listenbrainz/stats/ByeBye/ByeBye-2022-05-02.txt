@@ -1,19 +1,19 @@
-Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet, PEDRO SAMPAIO,Mc Pedrinho, Clean Bandit,Mabel,24kGoldn, Hippie Sabotage, Xzibit,Erick Sermon,J. Ro,Tash
-Electronic genres found: slap house, italo dance, tropical house, electronic trap, hardcore hip hop, funk carioca, eurodance, uk funky
-Electronic music logs found: 9.52% 
+Electronic artists found: Gabry Ponte,R3HAB,Timmy Trumpet, Clean Bandit,Mabel,24kGoldn, Hippie Sabotage
+Electronic genres found: eurodance, uk funky, italo dance, electronic trap, slap house, tropical house
+Electronic music logs found: 6.35% 
 
 Top genres
-	1: rap (7.78%)
-	2: hip hop (6.67%)
-	3: hip hop tuga (6.11%)
-	4: pop rap (5.00%)
-	5: dance pop (3.89%)
+	1: rap (7.82%)
+	2: hip hop (6.70%)
+	3: hip hop tuga (6.15%)
+	4: pop rap (5.03%)
+	5: dance pop (3.91%)
 Top artists
-	1: Mabel (1.41%)
-	2: Merkules (1.41%)
-	3: 24kGoldn (1.41%)
-	4: Crazy Town (1.41%)
-	5: Jimmy P (1.41%)
+	1: Kappa Jotta (1.41%)
+	2: Xzibit (1.41%)
+	3: Jack Harlow (1.41%)
+	4: Don Toliver (1.41%)
+	5: Chief Kelly (1.41%)
 Top country
 	1: US (38.10%)
 	2: QZ (17.46%)
@@ -35,11 +35,11 @@ Top year
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   63.000000     63.000000     63.000000         63.000000    63.000000   63.000000  63.000000  63.000000
-mean    56.825397      0.263718      0.694048          0.024524     0.162978  114.677079   0.489295   0.629429
-std     17.299580      0.233100      0.152858          0.121004     0.121741   29.991497   0.201920   0.171622
-min     16.000000      0.000616      0.339000          0.000000     0.026500   55.007000   0.036900   0.318000
-25%     39.000000      0.058650      0.610000          0.000000     0.066900   94.267000   0.329000   0.502500
-50%     60.000000      0.205000      0.734000          0.000000     0.110000  106.581000   0.486000   0.634000
-75%     68.500000      0.419000      0.782500          0.000150     0.260000  136.102500   0.615000   0.754000
-max     95.000000      0.853000      0.928000          0.844000     0.546000  183.602000   0.946000   0.956000
+count    63.00000     63.000000     63.000000         63.000000    63.000000   63.000000  63.000000  63.000000
+mean     56.47619      0.263718      0.694048          0.024524     0.162978  114.677079   0.489295   0.629429
+std      17.41510      0.233100      0.152858          0.121004     0.121741   29.991497   0.201920   0.171622
+min      16.00000      0.000616      0.339000          0.000000     0.026500   55.007000   0.036900   0.318000
+25%      39.00000      0.058650      0.610000          0.000000     0.066900   94.267000   0.329000   0.502500
+50%      60.00000      0.205000      0.734000          0.000000     0.110000  106.581000   0.486000   0.634000
+75%      67.50000      0.419000      0.782500          0.000150     0.260000  136.102500   0.615000   0.754000
+max      95.00000      0.853000      0.928000          0.844000     0.546000  183.602000   0.946000   0.956000

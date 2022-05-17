@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (6.90%)
-	2: rap (5.17%)
-	3: hip hop tuga (5.17%)
-	4: dark trap (3.45%)
-	5: dance pop (3.45%)
+	1: pop (7.02%)
+	2: rap (5.26%)
+	3: hip hop tuga (5.26%)
+	4: dark trap (3.51%)
+	5: dance pop (3.51%)
 Top artists
-	1: Don Toliver (3.57%)
-	2: Thomas Collins (3.57%)
-	3: Madonna (3.57%)
-	4: Motörhead (3.57%)
-	5: Lil Mosey (3.57%)
+	1: Deezy (3.57%)
+	2: Timbaland (3.57%)
+	3: Don Toliver (3.57%)
+	4: Maroon 5 (3.57%)
+	5: MAGNUS (3.57%)
 Top country
 	1: US (42.86%)
 	2: ES (14.29%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
-mean    53.619048      0.316565      0.660714          0.000566     0.131562  119.280524   0.477619   0.655762
-std     15.406090      0.250579      0.151814          0.001560     0.130926   34.444340   0.171879   0.164480
+mean    52.619048      0.316565      0.660714          0.000566     0.131562  119.280524   0.477619   0.655762
+std     14.938126      0.250579      0.151814          0.001560     0.130926   34.444340   0.171879   0.164480
 min     34.000000      0.004870      0.389000          0.000000     0.027000   73.897000   0.202000   0.386000
 25%     38.000000      0.024000      0.605000          0.000000     0.046500   92.131000   0.376000   0.567000
 50%     50.000000      0.442000      0.713000          0.000000     0.081600  119.973000   0.426000   0.663000
