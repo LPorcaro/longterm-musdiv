@@ -1,0 +1,334 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+2Q2El9wpZcH191YKF9sr3b	Natos y Waor,Recycled J	Más Alcohol	GBMA22181255	51	rap underground espanol,spanish hip hop,urbano espanol	0.00243	0.67	0.0	0.0322	120.037	0.514	0.79
+4yGusLC2fJbi1N3hcJNbAP	Natos y Waor	Generación perdida	ESA011800905	46	rap underground espanol,spanish hip hop,urbano espanol	0.355	0.679	1.09e-06	0.309	89.903	0.372	0.752
+6lmIGfqylVAv6xrHbZxgoh	Jaime Lorente,Natos y Waor	Guapo y Loco	QM4TW2262379	53		0.000174	0.859	0.00033	0.0797	127.969	0.936	0.629
+6zSeaEIsIRRatRUPiO2dpe	Natos y Waor,Recycled J	Nosotros	GBMA22152494	52	rap underground espanol,spanish hip hop,urbano espanol	0.184	0.749	4.1e-06	0.0671	85.004	0.494	0.681
+6sCpFl8TbpEmpzxnbT0lmD	Natos y Waor	Underground Kings	ESA011718780	42	rap underground espanol,spanish hip hop,urbano espanol	0.0651	0.793	2.55e-05	0.188	119.97	0.404	0.812
+5WRAMAgMUQwRgS2bjJDtQN	Natos y Waor	Niño de cristal	ESA011800903	37	rap underground espanol,spanish hip hop,urbano espanol	0.24	0.726	0.0	0.306	87.903	0.791	0.84
+5qIBuXKwgZhRq3sYrI3e8F	Natos y Waor	Malas Noticias	ESA011510436	37	rap underground espanol,spanish hip hop,urbano espanol	0.398	0.691	0.0	0.0618	130.055	0.189	0.614
+6JBAaUVq9KQaZB1xElTLXh	Natos y Waor,Costa	RocknRollas	ESA011510441	43	rap underground espanol,spanish hip hop,urbano espanol	0.00284	0.628	7.1e-05	0.204	124.862	0.219	0.765
+4MonThJItfsXWPFIvAT5EX	Natos y Waor	Bicho raro	ESA011800902	53	rap underground espanol,spanish hip hop,urbano espanol	0.688	0.682	0.0	0.109	91.023	0.586	0.803
+260fBuGy4zZwHVHtd9YtLL	Natos y Waor,Denom	Alfa y omega	ESA011800901	39	rap underground espanol,spanish hip hop,urbano espanol	0.0807	0.721	0.0	0.179	129.979	0.0804	0.606
+5lZnYYBvzQMOqeYkauXyIf	Obrint Pas,Xavi Sarrià	Si tanque els ulls	ES8021100017	30	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.0273	0.313	0.0	0.12	99.978	0.206	0.925
+1ggHZ50pkx9V7WMqmrZbAv	Agarrate Catalina	Dios - En Vivo	UYM120600331	19	folklore uruguayo,murga,rock uruguayo	0.513	0.566	0.0	0.459	164.362	0.563	0.715
+0eZSak8OwiytjwfDfjshjF	Aspencat	Queden matinades	GB5EA1300580	19	indie valenciana,musica catalana,rap catala,reggae catala,ska catala,ska espanol	0.00488	0.705	0.0	0.0679	127.931	0.648	0.604
+4CHQw1nTONii8fD8TuCsh9	IRA	Peligro	ES71G1864826	25	rap latina,rap politico	0.491	0.804	0.0	0.259	124.008	0.907	0.869
+3eS4KYsgjQOkjQsULPKQtK	Tribade	Mujeres	ES8021800503	28	musica catalana,rap latina,trap catala	0.24	0.642	0.0	0.3	81.589	0.595	0.659
+52PVGjg5sUhfs9PHiSl02c	Duki	Ley de Atracción	AREZZ2100043	61	argentine hip hop,trap argentino,trap latino,trap triste	0.196	0.776	6.41e-05	0.0703	92.014	0.726	0.683
+4pbxBCFpbL5RvRr45Tn2sw	Tremenda Jauría	Con Tol Deskaro	ES20S1600047	39	musica catalana,rap latina	0.47	0.652	0.0	0.125	89.311	0.849	0.798
+7hoqetchgDnr0Dj8Xc3dOr	Tremenda Jauría,El Chavez	Goza la Trama	ES20S1600054	30	musica catalana,rap latina	0.118	0.789	0.0	0.0556	94.017	0.809	0.751
+5rRfn3Iq8cb63IVtekGzH4	Sara Hebe,Ramiro Jota	Los Golpes	ART0G1207234	19	argentine indie,rap latina,rap politico	0.166	0.7	0.0	0.171	123.037	0.64	0.844
+0Kt9sF46S7DFKrQOsXqidV	My Chemical Romance	Blood - End Credits	USRE10800512	54	emo,pop punk	0.97	0.737	0.0	0.135	123.979	0.82	0.399
+3Leaxdal1wAyjdeB6zm3W7	No Te Va Gustar	La Soledad	UYB140700009	25	latin alternative,latin rock,rock en espanol,rock uruguayo	0.000204	0.497	0.000553	0.0257	89.966	0.216	0.68
+5QOTrE9GlYMqUkfTmtXuZC	Lágrimas De Sangre,Silvia Tomás	Círculo Perfecto	ES7311600096	18	musica catalana,rap catala,rap galego,spanish hip hop	0.127	0.622	0.0	0.0519	85.174	0.475	0.803
+1eHGsCdAWh1Ffowzacpfoi	Buena Vista Social Club	Candela	GBBGU9700950	59	latin jazz,musica tradicional cubana,world	0.719	0.525	0.000168	0.0354	101.045	0.814	0.619
+4szQkW1CDHqbRZGltXJdd3	Mahmood	Soldi	ITUM71900060	65	italian pop	0.0361	0.729	0.0	0.0483	95.065	0.349	0.589
+05WcYNSHMxuM7ryv5sKIjX	Natos y Waor	Hasta el amanecer	GBLFP2089056	49	rap underground espanol,spanish hip hop,urbano espanol	0.258	0.712	5.61e-06	0.101	80.026	0.509	0.627
+19OsDvOm2hw28Bqg7wo4Ox	Natos y Waor	Cicatrices	ESA011717707	60	rap underground espanol,spanish hip hop,urbano espanol	0.695	0.718	0.0	0.345	120.04	0.27	0.814
+7n9wQhcKrTY6tjLubweeFk	Natos y Waor	Problemas	ESA011510433	46	rap underground espanol,spanish hip hop,urbano espanol	0.331	0.635	0.0	0.25	160.032	0.532	0.7
+2Hu521YQNROLGSi1anmYD7	Natos y Waor	Promiscuidad	ESA011510444	34	rap underground espanol,spanish hip hop,urbano espanol	0.0952	0.475	0.0	0.0804	174.13	0.839	0.913
+2fbsphYROgFAz7B2AIiIp0	Natos y Waor	A Corazón Abierto	ESA011510445	40	rap underground espanol,spanish hip hop,urbano espanol	0.176	0.727	0.0	0.099	130.01	0.608	0.682
+3fTPnf1cNtC8k6nrT0j9wm	Natos y Waor,Recycled J	Sudores fríos	GBMA22184276	60	rap underground espanol,spanish hip hop,urbano espanol	0.0174	0.887	0.0105	0.262	115.982	0.397	0.65
+0WH5ePGTyegKPYb1rhRKXr	Natos y Waor,Dope D.O.D.	Wild West	ESA011510443	31	rap underground espanol,spanish hip hop,urbano espanol	0.0122	0.649	0.0	0.328	140.038	0.371	0.828
+4OxNBWxf5Xz5oSVPqvkSh4	Natos y Waor,ReCycled	Delirium	ESA011510434	46	rap underground espanol,spanish hip hop,urbano espanol	0.0738	0.693	0.0	0.31	171.965	0.585	0.661
+1u3V6iGzqPNGh6JNm3MDZs	Natos y Waor	Bestsellers	ESA011800909	36	rap underground espanol,spanish hip hop,urbano espanol	0.293	0.773	0.000734	0.189	103.953	0.14	0.523
+1fOYtsFfEOvQVFuFwLUnVI	Natos y Waor,Recycled J	Cuestión de Fe	GBMA22184273	47	rap underground espanol,spanish hip hop,urbano espanol	0.118	0.845	0.0	0.0903	140.994	0.239	0.789
+0cv4aSlZcTOoJ86zrM0iGv	Natos y Waor	Lágrimas Negras	ESA011510440	43	rap underground espanol,spanish hip hop,urbano espanol	0.0924	0.495	7.93e-06	0.0746	89.819	0.163	0.598
+5fJaZ5BRO8BToNWfJhOIie	Natos y Waor	Botella para dos	ESA011718088	43	rap underground espanol,spanish hip hop,urbano espanol	0.717	0.607	0.0	0.445	89.335	0.369	0.784
+0O4bCG1TnGt4rARJOFfa1N	Natos y Waor,Recycled J	Dime que sí	GBMA22184309	51	rap underground espanol,spanish hip hop,urbano espanol	0.0131	0.687	2.77e-05	0.0599	170.067	0.104	0.627
+6rwYZI7sVX2fIdTmc27flL	Miranda,Hard GZ,Dualy	Volver	ES71G2056657	55	rap espanol,urbano espanol	0.511	0.652	0.0	0.312	100.02	0.451	0.677
+37KLoLkhcJMe7Odsstah0V	Nikone	Welcome	QM6N21734752	54	rap espanol,spanish hip hop,urbano espanol	0.0467	0.662	0.0	0.338	82.97	0.407	0.653
+3m0Ax3MM6hR2Kv1XEEJFpz	Deco Mdz	Me basta con mirarte	QZMEM2150438	53	rap espanol	0.744	0.695	0.0	0.215	136.087	0.415	0.54
+0TcHENybtIPcEPfr4bSPpA	FERNANDOCOSTA,Blasfem,Dollar Selmouni	Pa que lo gocen (feat. Dollar Selmouni & Blasfem)	ESA011810553	55	rap espanol,spanish hip hop	0.35	0.678	0.0	0.107	90.02	0.281	0.627
+3lhBtkwoZuzjaykxbQvQzX	Anier,Miranda,Dualy	Ojalá	USA2P2162167	46	rap espanol,urbano espanol	0.575	0.641	0.0	0.291	101.058	0.516	0.737
+2dt8G6Jx5Ngp5WKvZQoXf1	Mayo 214,La Cantera	Mar de Males	ES71G1924920	54	rap espanol,urbano espanol	0.918	0.622	1.64e-06	0.26	107.077	0.209	0.453
+4gFxJbsFvf0L97TlkGW04k	Kaze,Shoda Monkas	Cómete Mi Éxito	ushm82139101	54	rap espanol,rap underground espanol,spanish hip hop,urbano espanol	0.0596	0.833	4.96e-06	0.279	171.022	0.849	0.8
+2PZuFDO3jh5RHLX6CGEpsW	Carrion GodBle$$,Saske	True Love	QZNJV2075706	50	rap espanol	0.481	0.482	0.0	0.77	78.171	0.455	0.915
+6Jq1PlZ9SlBYWVszBcR8Ja	EZVIT 810	Me Encanta Tu Encanto	QMDA72188893	51	rap espanol	0.476	0.748	0.0	0.26	127.59	0.411	0.827
+5RwF8yjTv6LvpCjJL8yjkL	EZVIT 810,Lu Decker,Calero LDN	Cada Motivo	QM4TX2174466	57	rap espanol	0.801	0.712	0.0	0.187	125.028	0.139	0.519
+1OzXgYzPRco0NvqcDEnCRG	Hard GZ,Antony Z	Barquito de Vela	ES94B2200102	50	rap espanol,rap politico,rap underground espanol	0.31	0.629	0.000426	0.0805	90.02	0.842	0.777
+1lGYUNCN2k5CGF4PzpRYt9	EZVIT 810	No Me Renta II	QMFMF2126595	52	rap espanol	0.669	0.906	3.52e-06	0.231	110.021	0.55	0.61
+6F4Q1QRbspGB4MrJHT1H1i	Aleman,Rels B	Mírame Ma	QMDA72154013	69	mexican hip hop,trap mexicano	0.278	0.797	0.0	0.306	85.99	0.637	0.53
+041HMUFTmzYC0c7pAilzKD	EZVIT 810	Barco de Papel	ES5052200125	45	rap espanol	0.479	0.824	0.0	0.286	103.997	0.469	0.667
+2uodmGkOcpgzObLo1cdSPh	Emporio,MOL	Pa Siempre	QZNWS2094787	56	rap espanol	0.76	0.903	0.0	0.552	116.122	0.807	0.511
+4EJsIX4tuc3qRTZhEYsTbE	Al Safir	Shars 2019	QZHNA1978072	55	rap espanol,urbano espanol	0.743	0.489	0.0	0.191	99.059	0.811	0.599
+0RSpDN3ywn433Ax7AEmciT	EZVIT 810,Luani	Mi Condena	QM4TX2200186	50	rap espanol	0.482	0.703	0.0	0.168	129.919	0.645	0.757
+6oU0ts0UfSzBAxKsd0pPdN	Al Safir	Animal	QZK6H2098668	55	rap espanol,urbano espanol	0.364	0.694	0.0	0.441	99.986	0.623	0.702
+7w91FpEfNhusidwN3Xz7hK	Arce,Nadal015	Kazike	ES94B2200076	49	rap espanol,spanish hip hop,urbano espanol	0.821	0.609	0.0	0.256	179.812	0.87	0.811
+1eg8EWKfaRltn806sZvuDa	Delaossa	Mal Agüero	UYB282130003	57	boom bap espanol,rap canario,rap espanol,urbano espanol	0.208	0.594	0.0	0.0813	174.988	0.241	0.656
+4iaNmAvcZ6sPGvgZ6vQQdx	Quevedo,Linton	Ahora y Siempre	SE62M2128790	73	rap canario,trap latino	0.716	0.659	0.0	0.0825	118.964	0.416	0.629
+6Z1tZjQzSgEVoLYc5FE7pw	Hard GZ,Nikone,Dualy	Lo Real	ES94B2000216	54	rap espanol,rap politico,rap underground espanol	0.297	0.684	1.92e-06	0.128	100.095	0.575	0.567
+2py8CbfQ8NvoXK4hIGhEHP	FERNANDOCOSTA,Sherry Fino	Hasta Cuando	ZZOPM2223482	60	rap espanol,spanish hip hop	0.158	0.588	0.0	0.139	95.645	0.265	0.598
+01T6sBu7sH9ptbJcDw43Go	Ayax y Prok,Blasfem	Zenit	ZZOPM2230581	53	rap politico,urbano espanol	0.252	0.628	0.0	0.319	91.934	0.614	0.907
+7mzNtZ87Ha6gc1YZCQfA6c	Ayax y Prok,Dollar Selmouni	Guajiro	ZZOPM2118196	56	rap politico,urbano espanol	0.077	0.781	0.0	0.103	116.078	0.627	0.9
+2OazFN4VRGMQe09Z71Yqqa	Al Safir	Shars 2020	QZNWX2052546	59	rap espanol,urbano espanol	0.244	0.772	1.84e-06	0.237	95.048	0.473	0.586
+06OhdnxdHRkRT39NleZJbs	Delaossa	Santo	UYB282230005	53	boom bap espanol,rap canario,rap espanol,urbano espanol	0.227	0.395	0.0	0.146	174.682	0.702	0.695
+7lly9m8Wwi6crkqGLlvEz2	Ayax y Prok,Blasfem	La Góndola	ZZOPM2221607	54	rap politico,urbano espanol	0.111	0.69	0.0	0.345	84.893	0.595	0.75
+0ECx1tOxvuJi9NYFwYazAl	FERNANDOCOSTA,Delaossa	Fumando Serio	ZZOPM2225087	59	rap espanol,spanish hip hop	0.108	0.752	0.0	0.0599	94.984	0.638	0.525
+7cVPzL9iPXkMaHb8NvwvR3	Natos y Waor	Cicatrices	ESA011717707	49	rap underground espanol,spanish hip hop,urbano espanol	0.695	0.718	0.0	0.345	120.04	0.27	0.814
+5BopknbHSxEm9Ohcs4IbGu	Delaossa,KIDDO,J.Moods	Veneno	QZHZ32052793	64	boom bap espanol,rap canario,rap espanol,urbano espanol	0.615	0.637	0.0	0.187	91.784	0.708	0.723
+3PT3XdQNh80MzaI4C8WAab	FERNANDOCOSTA,Dollar Selmouni	Oye	ZZOPM2229122	58	rap espanol,spanish hip hop	0.314	0.588	0.0	0.105	93.621	0.962	0.675
+1bfOcFmmu06ov59w5asDV4	Eduardo Darnauchans,Fernando Cabrera	Como los Desconsolados	UYS059700166	15	canto popular uruguayo,sefardi	0.84	0.529	0.069	0.0674	182.321	0.0855	0.131
+0aJYiisXm1nJR65ThanIOd	Los Prolijos	Los Conejos Gigantes	UYB141723205	7	rock uruguayo	0.186	0.644	1.62e-05	0.0398	125.966	0.812	0.525
+0zBSPVQqgemLZlpLMWeinW	Dino Gastón Ciarlo	Pasa el tiempo	UYB262100036	20	musica popular uruguaya,rock uruguayo	0.00327	0.54	0.769	0.0343	128.006	0.827	0.854
+4UkgRhcMjTyNdzMvxDXCV7	Sofía Alvez	Rompí	GBSMU6518020	15	musica popular uruguaya	0.948	0.781	0.0	0.194	124.199	0.536	0.1
+6vLd9i3kBS9W6aUdNlcj3L	Pascual Márquez	Distracciones	QZHN92204796	9		0.418	0.738	0.0	0.0331	90.126	0.694	0.415
+60TfEdBYxwPbplIhCQ8wT5	Pascual Márquez	Pereza (Con Uno)	QZHN92204807	6		0.694	0.498	0.0	0.0792	80.349	0.677	0.446
+1BMQndS16a1pm0WFGs3fD2	Pascual Márquez	18 POP	QZHN92204806	7		0.176	0.738	0.0	0.0389	129.981	0.624	0.445
+4hNB7LZLzya48PMQZsdhEO	Pascual Márquez	Telemundo!	QZHN92204805	6		0.404	0.694	0.0	0.0553	74.997	0.835	0.672
+5oAOw3jInJukKPWu4FyeAs	Pascual Márquez	Gracias Jor	QZHN92204803	7		0.524	0.563	0.000102	0.0751	86.952	0.638	0.41
+4mTawTbjGVkbRiV5KX4ejG	Pascual Márquez	Fractal de Enero	QZHN92204801	7		0.888	0.521	4.24e-05	0.0466	159.8	0.146	0.0698
+2U8odJkAIVHcqxGsbjsNrD	Pascual Márquez	Mandarinas	QZHN92204800	7		0.524	0.611	1.68e-05	0.0468	97.006	0.381	0.331
+5M4tkRPzMtcbw9uy7mC4L4	Pascual Márquez	Tus Queridos Con Tus Juegos	QZHN92204799	7		0.794	0.916	0.000567	0.0559	118.087	0.907	0.401
+6Jv0d6USVFpEdii0CvmW3V	Pascual Márquez	Bizcocho y Cocaína	QZHN92204798	8		0.408	0.857	8.78e-06	0.0666	93.135	0.621	0.331
+53ffSOTHGxU4gDZi0HP77d	Pascual Márquez	Paredes Parlanchinas	QZHN92204797	8		0.323	0.596	3.57e-06	0.0667	151.351	0.955	0.467
+4vxIlJvkgPbex93Oef6CQH	Los De Marras	Compadre	ES8241428003	39	punk urbano,spanish punk	0.0744	0.407	1.03e-05	0.108	164.816	0.741	0.922
+75lisbgzhfJdIt5YdPuAWP	Jorge Drexler	La edad del cielo	ES5039900218	53	cantautor,latin afrobeat,latin alternative,latin rock,rock en espanol	0.588	0.668	0.000391	0.0405	147.446	0.282	0.261
+5SDyb4MxJpeUoE9PF6UTsE	Natos y Waor,Recycled J	Pecados	ESA011800904	49	rap underground espanol,spanish hip hop,urbano espanol	0.688	0.405	0.00404	0.43	196.089	0.638	0.836
+4YKP5UKFofcfW7EMjIsVvG	Dillom	LA PRIMERA	ARR4B2100012	61	trap argentino	0.467	0.762	0.00147	0.172	173.924	0.335	0.647
+5SkiVFWCP3NPEgNk3PaL2I	C. Tangana,Jorge Drexler	Nominao	ES5022100009	60	urbano espanol	0.596	0.679	2.99e-06	0.247	176.093	0.72	0.36
+5tA30UTCxd4n5Fzaz4p6WK	La Raíz	De Mar en Mar	ES8241142203	39	musica catalana,ska espanol,spanish punk	0.088	0.748	0.0	0.0393	99.024	0.956	0.884
+0WMEvbM0oQQ44VNskb2paN	No Te Va Gustar,Mandrake Wolf	Cosa Linda	UYB140900125	29	latin alternative,latin rock,rock en espanol,rock uruguayo	0.128	0.562	8.24e-05	0.0347	170.0	0.761	0.656
+6RUr6r5OexrMOYDtgu1QtS	C. Tangana,Toquinho	Comerte Entera	ES5022001202	63	urbano espanol	0.516	0.824	1.91e-06	0.106	124.085	0.345	0.399
+7C3q6qJnLkIo9cJjTLW5JD	Los De Marras	Sexo en la Calle	ES8241428207	43	punk urbano,spanish punk	0.0971	0.42	0.0	0.0791	140.05	0.71	0.905
+3T9KkjCU2gdOJdWSHZ0ENU	Agarrate Catalina	"Bajada 2008 ""Un Camión Que Se Va"" Con la Gente - En Vivo"	UYM121500888	6	folklore uruguayo,murga,rock uruguayo	0.704	0.335	0.0	0.326	144.723	0.0321	0.995
+3OczQ4zT2hapBpmABPK5Xq	Tremenda Jauría	Codo a Codo	ES8021800084	28	musica catalana,rap latina	0.1	0.66	0.0	0.0511	93.005	0.517	0.928
+5PbdY2hLY1C7wwxuqM09kD	La Pegatina	No som d'aquí	ES5151500756	29	musica catalana,rumba catalana,spanish pop	0.000661	0.591	2.47e-06	0.0449	175.98	0.672	0.953
+42KO9tQqeN1sdPelPxRUXv	mafalda	Agua Negra	QMDA61582588	19	musica catalana,punk catala	0.0934	0.68	0.0	0.0699	92.539	0.726	0.852
+5al92fiat1Emm17oCNxl4d	Pascual Márquez	Lista de Compras	QZHN92204802	6		0.836	0.815	2.85e-05	0.0594	92.022	0.908	0.378
+4UjqoyfmarLo3Ub3LE19eC	Ska-P	El Vals del Obrero	ES5029601029	57	ska,spanish rock	0.0418	0.505	1.12e-06	0.0685	102.097	0.674	0.835
+5MitIEzWEpMEQvwTha3JTp	At Versaris	El Meu Paradís	ES8020900016	14	indie catala,musica catalana,rap catala,rock catala	0.0704	0.718	0.0	0.29	170.893	0.645	0.772
+4zt7ubDuqnVm1uAldCMcVC	La Gossa Sorda	Fa Tres Anys	ES8241427207	15	musica catalana,musica valenciana,reggae catala,rock catala	0.0896	0.824	0.000724	0.0775	97.514	0.591	0.907
+2sh1xOwspaLyUoRnfaXUE0	Jaime Roos	Amándote (En Vivo)	ARF109700489	33	canto popular uruguayo,folklore uruguayo,musica popular uruguaya	0.741	0.683	0.00802	0.141	91.366	0.809	0.764
+1Crj1zkRMpsEjb9NOR6Zof	Bizarrap,L-Gante	L-Gante: Bzrp Music Sessions, Vol.38	UYB282101014	73	argentine hip hop,pop venezolano,trap argentino,trap latino	0.368	0.553	1.36e-05	0.257	87.913	0.761	0.819
+3QxCvkqWdkMqy3CPxOhZ24	Nothing But Thieves	Lover, Please Stay	GBARL1500804	53	alternative pop rock,modern alternative rock,modern rock,rock	0.952	0.269	0.0	0.0334	83.967	0.118	0.122
+7nXutPtu8epp2VJ300iN2A	Bizarrap,L-Gante,Pablo Lescano	Pinta	UYB282101024	61	argentine hip hop,pop venezolano,trap argentino,trap latino	0.187	0.733	0.0	0.157	88.059	0.941	0.896
+2vDEhA4hLNWq8L01PinW11	mafalda	El Precio de los Libros	USV291365910	14	musica catalana,punk catala	0.0257	0.442	0.0	0.0618	125.123	0.312	0.822
+0oXayY4FITj74glMpCIXfY	Kaze,Dj Figu	Grande	ushm81819382	34	rap espanol,rap underground espanol,spanish hip hop,urbano espanol	0.038	0.82	0.0	0.208	113.988	0.343	0.678
+2ctjDCCg1wHoQSjIJ8p6U4	Plan B	Candy	USB271311099	68	latin,reggaeton,trap latino	0.252	0.897	0.0	0.147	95.981	0.542	0.864
+1984D5gJLsxAkZaF5fSdGG	No Te Va Gustar	Chau	UYH121000003	23	latin alternative,latin rock,rock en espanol,rock uruguayo	0.0162	0.875	0.000186	0.0362	95.996	0.926	0.367
+1YU0TEHr0XhrTV62JrhrLn	Adala,Paula Bu	Barrio	ESA011818556	17	indie catala,musica catalana,reggae catala	0.695	0.662	0.0	0.303	80.049	0.562	0.584
+2iLZUYfWFuSwPxOXdLHiwo	Jaime Roos	Colombina - Remastered	UYB141602705	38	canto popular uruguayo,folklore uruguayo,musica popular uruguaya	0.613	0.41	0.0	0.116	58.115	0.603	0.607
+79JBefRfPhg9kFx0Gc0len	No Te Va Gustar	Alba	UYH121400022	44	latin alternative,latin rock,rock en espanol,rock uruguayo	0.264	0.701	5.91e-05	0.0249	126.347	0.746	0.718
+3hGtjSJQ76HkWzeUkekKGY	Nicki Nicole	Colocao	UYB282000001	52	argentine hip hop,r&b argentino,trap argentino,trap latino	0.321	0.809	0.0	0.0555	90.078	0.565	0.703
+28gJYZVVvChuttPstsyqiE	No Te Va Gustar,Ruben Rada	Tirano (En Vivo)	UYB140710314	21	latin alternative,latin rock,rock en espanol,rock uruguayo	0.416	0.545	8.18e-05	0.054	94.934	0.428	0.774
+3vVVgJLNjWEZCVFreVfeWF	María Escarmiento	Amorfoda - Operación Triunfo 2018	ES5701801303	28	eurovision,latin talent show	0.72	0.596	0.0	0.0402	128.094	0.303	0.468
+4DxXBw1RdlSiECPOB5ttvk	Christina Aguilera	Nasty Naughty Boy	USRC10600415	38	dance pop,pop,post-teen pop	0.104	0.367	0.0	0.113	112.589	0.291	0.744
+5crUoUnVrtjHaHHhDQuf8z	Pedrina y Rio	Enamorada	USA2P1400261	48	colombian indie	0.42	0.832	0.0011	0.0405	130.006	0.733	0.735
+0FVPq7QbvLI8a6mixwQaqI	Mikky Ekko	Pull Me Down	USRC11201355	34	nashville indie	0.232	0.489	2.22e-06	0.143	72.177	0.337	0.673
+4EROxQ47IZNf5fOFC3MbA0	Dillom,L-Gante	HEGEMONICA	ARR4B2100013	60	trap argentino	0.149	0.743	0.0	0.221	183.937	0.567	0.528
+2TEnceAmZQR6bLLo5Fx7q9	El Cuarteto De Nos	Calma Vladimir	ARF101700028	44	argentine rock,latin alternative,latin rock,rock en espanol,rock uruguayo	0.0235	0.355	0.0	0.245	198.237	0.386	0.753
+5qEDalpZyEJd2eXSjWH7Sp	KeTeKalles	Esencia	QM6P41825998	37		0.396	0.586	0.0	0.448	96.265	0.497	0.343
+0NoFZ4BKeZw0qLDEC90hMc	La Vela Puerca	En EL Limbo	ARF140400103	50	latin alternative,latin rock,rock en espanol,rock uruguayo	0.201	0.322	0.195	0.0321	152.749	0.248	0.387
+7aWvqrR67SYAS3PVUQxQG6	María Escarmiento	La Tóxica	QMDA72132148	23	eurovision,latin talent show	0.168	0.9	0.0221	0.0495	96.977	0.537	0.527
+2Hmp58YaxVnw0EDNUEIBco	La Gossa Sorda	Vianants	ES8240803610	15	musica catalana,musica valenciana,reggae catala,rock catala	0.00189	0.467	0.00636	0.0452	192.027	0.788	0.955
+7aKXQCV7TaA56bnhXTxJFn	Ayax y Prok	Reproches	ESA011714577	58	rap politico,urbano espanol	0.419	0.696	0.0	0.316	93.123	0.38	0.909
+4t94YslMxQqppW2Sl2HGp5	Natos y Waor,Charlie Hijos Bastardos	Balada	ESA011800907	35	rap underground espanol,spanish hip hop,urbano espanol	0.581	0.638	0.0	0.419	85.059	0.638	0.637
+0LYTFu1369d52bk7FttbHX	ZOO	#Faena (RadioMacramé) [Bonus Track]	ES8021400142	35	mestissatge,musica catalana,rap catala,rap politico	0.0895	0.903	0.0	0.303	120.012	0.963	0.691
+3vbWUU5dSzoEQdBETUwVqF	Los Chikos del Maiz	Valerie Solanas (Stop Making Stupid People Famous)	ES6081940901	21	rap politico,spanish hip hop	0.0115	0.71	0.0	0.126	86.034	0.292	0.716
+5dgA6aIoYJvTz48qAI0rPf	Natos y Waor,Nic	Calavera no chilla	ESA011707912	46	rap underground espanol,spanish hip hop,urbano espanol	0.326	0.668	9.88e-06	0.043	84.033	0.366	0.736
+12NW2sUhBFz5VUxDZTp3Op	Los Auténticos Decadentes	Corazón	ARF039501198	60	argentine rock,cuarteto,latin alternative,latin rock,rock en espanol,ska argentino	0.489	0.702	3.24e-06	0.044	90.415	0.855	0.773
+7EuTocv7nS1UOrP8aEw4bR	ZOO,JazzWoman	Cançons D'ofrena	ES8021800103	30	mestissatge,musica catalana,rap catala,rap politico	0.0411	0.571	1.7e-06	0.115	173.659	0.334	0.681
+2AopGpS4uQVcVpTWTOpbel	mafalda,Funkiwis	Acción Directa Musical 3.0 - Bonus Track	ES8241924815	14	musica catalana,punk catala	0.144	0.817	0.0	0.091	105.023	0.881	0.914
+7057Egcjsw7astr2p0bitn	Alfredo Zitarrosa	Doña Soledad	ARF100200759	38	cantautor,canto popular uruguayo,folklore argentino,folklore uruguayo,nueva cancion,trova	0.849	0.676	0.000528	0.129	109.834	0.92	0.392
+3xqvVuO8IoxlHeMmBWI4wl	Alba Reche	La Llorona - Operación Triunfo 2018	ES5701801156	25	latin talent show,latin viral pop	0.78	0.503	0.0	0.0282	135.007	0.402	0.448
+21Kcx0eQvTOGcimntZSnol	Carlos Puebla Y Sus Tradicionales	Hasta siempre, comandante	USB8U1064328	33		0.898	0.758	0.00113	0.0321	111.308	0.528	0.392
+6EGrWlL3IY7HnabhBaZcRR	Natos y Waor	Camarón	ESA011510438	41	rap underground espanol,spanish hip hop,urbano espanol	0.0565	0.525	3.1e-06	0.431	141.72	0.26	0.804
+1FMpRkWP9rKKLudEIbiLgz	Natos y Waor,Chaman	Martes 13	ESA011510439	43	rap underground espanol,spanish hip hop,urbano espanol	0.565	0.632	1.1e-05	0.162	90.839	0.133	0.67
+6ZrbHTz1c4ElAGeafjRohu	Los Chikos del Maiz,Evaristo Paramos	Putas y Maricones	ES6081441407	33	rap politico,spanish hip hop	0.0757	0.82	0.0	0.294	90.961	0.742	0.919
+23puOXeFHkKRATkMDwOVf5	Natos y Waor,Suite Soprano	Dreams	ESA011510442	36	rap underground espanol,spanish hip hop,urbano espanol	0.719	0.566	2.24e-05	0.212	107.14	0.443	0.648
+7xyYsOvq5Ec3P4fr6mM9fD	Muse	Hysteria	GBCVT0300083	69	modern rock,permanent wave,rock	0.000456	0.412	0.0026	0.0575	93.162	0.455	0.92
+04AKY7jEgVhEfTP64Q7qpx	Lágrimas De Sangre,E.A.M.,Still Ill,Neidos,Microbio	Guerra Mental (Societat d'algun Troll)	ES16E1900009	17	musica catalana,rap catala,rap galego,spanish hip hop	0.2	0.669	0.0	0.25	95.957	0.961	0.872
+5sbw5zIz9ck2pOEDXUR0QU	Buena Vista Social Club	Chan Chan	GBBGU9700150	67	latin jazz,musica tradicional cubana,world	0.833	0.396	0.00534	0.0356	165.647	0.679	0.496
+2nwHN5TM4OBdrwCUSx0wnE	Los Ángeles Azules,Nicki Nicole	Otra Noche	MX1722101437	77	gruperas inmortales,musica mexicana,nu-cumbia,tropical	0.347	0.612	0.0	0.0344	92.02	0.635	0.709
+35LdDKNMwvKftENaj1WIwF	El Cuarteto De Nos	Enamorado tuyo	ARF111200009	59	argentine rock,latin alternative,latin rock,rock en espanol,rock uruguayo	0.00239	0.611	0.000224	0.0234	95.995	0.666	0.826
+5fyumwKFp00s5LUmJZmMvw	Los De Marras	Superinferiores	ES8241729105	28	punk urbano,spanish punk	0.162	0.708	0.000673	0.077	116.958	0.57	0.87
+6KEb17S00Inf0v1qYDgUAj	Duki,Bizarrap	Malbec	AREZZ2100010	70	argentine hip hop,trap argentino,trap latino,trap triste	0.574	0.705	0.0	0.0357	122.991	0.444	0.692
+1QjfU3jkGInap7Vm9lVJIQ	Los Auténticos Decadentes,Mon Laferte	Amor (Ft. Mon Laferte) - MTV Unplugged	ARF471800079	58	argentine rock,cuarteto,latin alternative,latin rock,rock en espanol,ska argentino	0.0274	0.62	0.0	0.0361	92.881	0.601	0.717
+086myS9r57YsLbJpU0TgK9	Arctic Monkeys	Why'd You Only Call Me When You're High?	GBCEL1300370	83	garage rock,permanent wave,rock,sheffield indie	0.0483	0.691	1.13e-05	0.0368	92.004	0.8	0.631
+6HGQjMLdsh9OWC0l40zRg1	María Escarmiento,Kabasaki	Por la Noche	QM6P42172744	29	eurovision,latin talent show	0.08	0.804	0.118	0.137	99.972	0.231	0.508
+2yuSCj2QBvtWKI6lQgmTy7	No Te Va Gustar,Germán Daffunchio	Desde Hace un Sueño	UYH121200031	37	latin alternative,latin rock,rock en espanol,rock uruguayo	0.417	0.585	0.0081	0.031	115.993	0.168	0.741
+2O33Pd0OXOvNpa0MHHRT73	La Gossa Sorda	Cavallers	ES8241024710	12	musica catalana,musica valenciana,reggae catala,rock catala	0.0509	0.722	0.0	0.0624	97.47	0.59	0.776
+5oO3drDxtziYU2H1X23ZIp	Rihanna	Love On The Brain	QM5FT1600120	80	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.0717	0.509	1.08e-05	0.0471	172.006	0.378	0.637
+0WCoTrlhrgtYTxjLbchrDv	The White Stripes	Seven Nation Army - Live	GBBKS0900501	34	alternative rock,blues rock,detroit rock,garage rock,modern blues rock,modern rock,permanent wave,punk blues,rock	0.0918	0.297	0.139	0.0936	131.385	0.0703	0.754
+6oyDBy5YLu010HMlfu3HrC	La Raíz,Hechos Contra El Decoro	Una Selva Asesina	ES8021600039	30	musica catalana,ska espanol,spanish punk	0.0127	0.731	0.0	0.055	98.005	0.578	0.844
+6LmYQRK040sXv0OHji6Smg	Green Day	21 Guns - Live at Shoreline Amphitheatre, Mountain View, CA, 9/4/10	USRE11100034	25	permanent wave,punk	0.0791	0.253	0.0	0.0404	170.301	0.328	0.751
+4IkdPZGKMz1njJlCcjDLKe	La Vela Puerca	José Sabía	ARF140100193	35	latin alternative,latin rock,rock en espanol,rock uruguayo	0.271	0.399	0.0	0.114	128.721	0.705	0.829
+550rQQCGkrTzvp4SfpOPzx	Pentatonix	Hallelujah	USRC11601833	61	a cappella	0.454	0.322	0.0	0.0356	118.669	0.366	0.377
+09LdDueNE7WJZN4o2KzWDa	No Te Va Gustar	Por el Agua	UYH121200027	28	latin alternative,latin rock,rock en espanol,rock uruguayo	0.00748	0.774	5.9e-05	0.0478	104.973	0.884	0.802
+5iurOuYvSA2I9xAPD6M57A	La Gossa Sorda,Paula Bam Bam	El Forn Dels Borratxos	ES8241427212	17	musica catalana,musica valenciana,reggae catala,rock catala	0.0575	0.734	6.8e-06	0.0949	82.486	0.71	0.694
+655QAfdhzs2uNgDs7YSxPW	La Raíz,La Vela Puerca	Se Abrió la Vela	ES8241142208	32	musica catalana,ska espanol,spanish punk	0.0358	0.833	7.54e-06	0.047	92.98	0.755	0.758
+0DjSa6czo5ywsf6iCtZW5A	Ska-P	Cannabis	ES5029601034	55	ska,spanish rock	0.176	0.563	8.24e-06	0.0543	120.884	0.952	0.913
+0pR6N68RkIGKxitlTqraZ3	Mon Laferte	Tormento	MXUM71501996	54	latin,latin alternative,latin pop	0.209	0.483	0.0	0.0257	72.967	0.288	0.385
+4DT0LPAOwvN8vKXsKHeRLn	Aspencat	Quan caminàvem	GB5EA1300577	41	indie valenciana,musica catalana,rap catala,reggae catala,ska catala,ska espanol	0.0251	0.705	0.0	0.0507	95.042	0.828	0.805
+04R5ijf14FzrVAfsYnW7aQ	Adala	Saber Tornar	ESA011518691	24	indie catala,musica catalana,reggae catala	0.545	0.615	0.0	0.16	84.679	0.533	0.53
+1rZQzXPYZxPv6AjfCz4oBP	Ska-P	Colores	ES71G1857838	48	ska,spanish rock	0.0292	0.732	0.000377	0.0277	104.994	0.833	0.832
+7oySelE0Cb5q1TBBSPZJT2	Migrantes,Oscu,Rombai,Agapornis,Alico,Nico Valdi	Si Me Tomo una Cerveza - Remix	QMFME2089999	62	cumbia pop	0.249	0.634	0.0	0.0406	84.909	0.726	0.711
+5zzbORcD0GwLY0wQHP1Xs1	J Balvin,Mr Eazi	Arcoíris	USUM72001736	55	latin,reggaeton,reggaeton colombiano,trap latino	0.0853	0.731	0.0	0.0721	92.971	0.393	0.787
+7efyDVJM7aCSgT2sPVIQ8M	Colectivo Panamera,Rozalén	Te llevo dentro (feat. Rozalén) - Mix 2019	ES5151900711	45		0.0843	0.735	0.0	0.26	175.024	0.92	0.626
+6yWTn4C3fzjbLxzVvHdQz5	No Te Va Gustar,Cucho Parisi	Esta Plaga	UYB140800053	35	latin alternative,latin rock,rock en espanol,rock uruguayo	0.000394	0.559	1.97e-05	0.0613	177.935	0.652	0.949
+4LAj0B7XK4lAmmI70kJsSC	Arianna Puello	Juana Kalamidad	ES6940600640	33	rap underground espanol,spanish hip hop	0.106	0.821	0.0	0.174	104.307	0.962	0.801
+6lVIubLaetv8EP3ClUhghT	Rapsusklei,Hazhe	Jazz Elak Olé	ES71G1734629	42	boom bap espanol,rap conciencia,spanish hip hop	0.0218	0.588	0.0	0.102	91.553	0.761	0.795
+3596tuuFcSMZ0vzxcI8tgd	Obrint Pas	Jota valenciana	ES8021100025	13	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.275	0.639	0.0	0.046	125.907	0.509	0.708
+0dDqNmSEXTh8S2DoLAGwJe	Talco	Bella ciao	DES871415816	42	indie veneto,italian ska,ska espanol	0.0475	0.228	0.00128	0.0666	178.572	0.159	0.765
+0oOtMlpjUuGIKyUYeohkBQ	Machete en Boca,Miguel Pérez	Lerele	ES71G1841653	8	rap catala,rap latina	0.0898	0.554	0.0	0.204	90.176	0.62	0.869
+1DtrlY4mOFrtuqgMYjXVJL	ZOO,Annie Garcés,Ciudad Jara	Rituales de Santería	ES8021700048	43	mestissatge,musica catalana,rap catala,rap politico	0.166	0.724	0.0	0.0494	108.099	0.435	0.792
+5yHH30LPZDDkOOgbjcN8s0	Green Day	¡Viva La Gloria! - Live at SuperPages.com Center, Dallas, TX, 8/26/10	USRE11100025	19	permanent wave,punk	0.00616	0.217	2.4e-05	0.245	94.57	0.134	0.984
+7MIsPuvwB7Ha5dQTobLDOm	Sara Hebe,Ramiro Jota	Por Favor	ART0G1207241	14	argentine indie,rap latina,rap politico	0.000164	0.323	0.0	0.0977	200.075	0.763	0.986
+37gQsnjlhLtuIs2owuTUdW	Obrint Pas	No Hi Ha Demà	ES8020600129	11	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.0653	0.794	3.86e-06	0.0348	90.019	0.919	0.638
+4ioHxVbdQrfvTRWPoi7Yu0	Obrint Pas	Caça de bruixes	ES8020600200	13	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.0312	0.356	0.0	0.114	171.336	0.35	0.879
+35KmOEIUqAGn02t7n4qaIr	J Balvin	Morado	USUM71924691	62	latin,reggaeton,reggaeton colombiano,trap latino	0.131	0.885	1.77e-05	0.0848	97.003	0.78	0.68
+0xqJSWg41nCd8RRyvxCjfg	Obrint Pas	El Foc I La Paraula	ES8020600125	14	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.00489	0.483	0.0	0.0332	183.025	0.884	0.89
+6Wuv7MrhesuDsuGv8vcrOd	Death Cab for Cutie	Soul Meets Body	USAT20504676	53	alternative rock,indie pop,indie rock,modern rock,pop rock,washington indie	0.124	0.63	0.000432	0.0251	128.133	0.717	0.772
+6nIGMTqiL0cZYyNa8gzj0e	Issam Alnajjar	Hadal Ahbek	USL4Q2071965	56	indonesian viral pop	0.172	0.828	0.0	0.0363	94.996	0.439	0.498
+1oumohrgUQCuklap89QlLQ	ZOO	Impresentables	ES8021700044	35	mestissatge,musica catalana,rap catala,rap politico	0.00824	0.813	8.12e-05	0.112	129.946	0.599	0.888
+0YMqaRrbjivJEwtr2tTGsL	Obrint Pas,Xavi Sarrià	La vida sense tu	ES8021100013	33	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.491	0.689	0.0	0.0495	104.986	0.685	0.869
+0q156LgpKx3UmWBGCFKwDb	Kaze	Rap	ushm81692612	40	rap espanol,rap underground espanol,spanish hip hop,urbano espanol	0.501	0.625	0.0	0.337	77.031	0.849	0.731
+7EAra8Jr0wc6o4rzu1ttmD	La Raíz	Vendrás	ES8241142210	22	musica catalana,ska espanol,spanish punk	0.00603	0.845	0.0	0.095	145.919	0.893	0.694
+4QB3WRZCWXvdB04Aqvermj	Tremenda Jauría	Esta Noche	ES20S1600046	37	musica catalana,rap latina	0.163	0.65	0.0	0.322	199.808	0.916	0.797
+0Zh3tKIphLOvQux4dA6PFZ	My Chemical Romance	Mama	USRE10602910	66	emo,pop punk	0.0136	0.236	0.0	0.0939	208.951	0.303	0.799
+7bfdxqroNmzOnpGfYML8dH	La Trampa	Las Décimas	UYB141716902	32	rock uruguayo	0.0136	0.617	0.0	0.0559	155.04	0.551	0.754
+2otXts9tTEyAyh0PONbl3t	Vendetta	Botella de Ron	ES21A1200126	35	german metal,ska espanol,thrash metal	0.0884	0.592	0.000219	0.137	160.002	0.793	0.912
+6jiIbURHc7D8lEjY257bu6	Guaynaa,Los Ángeles Azules	Cumbia A La Gente	USUM72104719	53	latin,perreo,reggaeton,reggaeton flow,trap latino	0.291	0.67	0.0	0.118	179.99	0.88	0.835
+5lpH5KLpd60tzjYGpwLwQw	La Gossa Sorda	Diuen	ES8240803608	25	musica catalana,musica valenciana,reggae catala,rock catala	0.0768	0.484	8.99e-06	0.17	194.782	0.967	0.913
+6hf0RpxTbOprT5nnwzkk8e	J Balvin,Maria Becerra	Qué Más Pues?	QZM5U2100064	78	latin,reggaeton,reggaeton colombiano,trap latino	0.0261	0.891	0.000354	0.106	101.968	0.768	0.819
+5kxVyCgEUND7E2QKG7JmoF	Arctic Monkeys	Teddy Picker	GBCEL0700064	65	garage rock,permanent wave,rock,sheffield indie	0.000286	0.637	0.000889	0.0882	150.1	0.823	0.963
+7BWA91W2iu3uMMKNQU0EPE	Obrint Pas	No hem oblidat	ES8020600211	13	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.0902	0.422	5.37e-06	0.17	177.622	0.581	0.782
+3xl7FVmcIyZHQEISkNnnEB	Kase.O	Mc Escandaloso Xposito	ES6081142314	36	rap politico,spanish hip hop	0.0585	0.726	0.0	0.22	177.968	0.929	0.482
+16hFtaK9fJNr7Y54FBdRyF	Kase.O,Soziedad Alkoholika	Esto No Para (Versión Soziedad Alkoholika)	ES6081841607	30	rap politico,spanish hip hop	0.000233	0.533	0.0	0.0695	93.001	0.863	0.974
+1ZgMsA55GIY7ICkQh5MILA	Beach House	Space Song	USSUB1512203	73	baltimore indie,dream pop,dreamo,modern dream pop	0.233	0.507	0.139	0.0294	147.065	0.6	0.79
+4fO1Vq6QsNmWkEkLhc4ACk	Alfredo Zitarrosa	El Violín de Becho	ARF109800785	35	cantautor,canto popular uruguayo,folklore argentino,folklore uruguayo,nueva cancion,trova	0.934	0.462	0.0803	0.0719	111.788	0.294	0.312
+6NvTrHPQYgiBy7a9vvCPNa	Lucas Sugo,Larbanois & Carrero	Cuando Cante el Gallo Azul - En Vivo	UYM121602521	39	canto popular uruguayo,cumbia pop,cumbia uruguaya	0.543	0.652	1.78e-06	0.0778	146.655	0.811	0.775
+0JOUrhZGMCx3lk9VosAQWl	Ozuna,Daddy Yankee,Plan B	El Desorden	USB271700114	59	latin,puerto rican pop,reggaeton,trap latino	0.22	0.838	1.31e-05	0.0891	164.04	0.889	0.81
+4SJHHpKhcuXwDsCsPqshXj	Rauw Alejandro,Chencho Corleone	El Efecto	QM4TX1940916	74	puerto rican pop,trap latino	0.406	0.849	0.0	0.159	84.041	0.893	0.781
+5YYW3yRktprLRr47WK219Y	Rochy RD,Myke Towers,Nicki Nicole	Ella No Es Tuya - Remix	USSD12100003	72	dembow,dominican pop,rap dominicano,trap latino	0.39	0.585	0.0	0.288	97.041	0.962	0.611
+1B7Wxx58QV4xrCjxI4Uu3i	Nicki Nicole,Trueno,Bizarrap	Dangerous	UYB282100023	65	argentine hip hop,r&b argentino,trap argentino,trap latino	0.727	0.66	0.0	0.0461	91.94	0.626	0.539
+3TBZtPqL5tuOk5QYH9WvvK	Duki,Ak4:20,Juhn,Juanka	BICI	UYB282140004	64	argentine hip hop,trap argentino,trap latino,trap triste	0.0399	0.761	0.0	0.262	174.014	0.826	0.751
+1b62AO1IzcVr5SOgoguc9o	Eladio Carrion,Bizarrap,Duki	Sin Frenos	QMDA72165835	68	trap boricua,trap latino,trap triste	0.0723	0.657	0.0	0.0482	145.022	0.75	0.702
+42Gzfqnfpk7Pp1ydM60eNn	Maria Becerra	Felices x Siempre	QMCE32200146	75	pop argentino	0.375	0.771	0.00974	0.123	100.089	0.256	0.467
+7iXJg4IUyrWont5YSQrbKP	Reik,Maria Becerra	Los Tragos	MXF012100322	76	latin,latin arena pop,latin pop,mexican pop	0.115	0.557	1.11e-06	0.0638	93.9	0.681	0.7
+6D2TCm4nf5nxAcdGJ7w3QP	J Balvin,Maria Becerra	Qué Más Pues?	QZM5U2100064	74	latin,reggaeton,reggaeton colombiano,trap latino	0.0272	0.903	0.000311	0.095	102.014	0.732	0.817
+0cOa970mzTWAxKtltpkpLc	TINI,Maria Becerra	Miénteme	USHR12141512	80	latin pop,pop argentino	0.161	0.85	5.01e-06	0.0674	92.003	0.916	0.541
+4TGwERXRlyQtBdggYTHo6j	Tiago PZK,LIT killah,Maria Becerra,Nicki Nicole	Entre Nosotros (Remix) [con Nicki Nicole]	AR3N42100008	81	trap argentino	0.401	0.7	0.0	0.0433	170.106	0.605	0.438
+2ijef6ni2amuunRoKTlgww	Becky G,Natti Natasha	Sin Pijama	USSD11800157	68	dance pop,latin,latin viral pop,pop,rap latina,reggaeton	0.354	0.791	2.93e-05	0.0464	94.014	0.82	0.745
+5mcYWxQAAlqGAhEPqVMMR5	Aitana	En El Coche	ES5702200098	73	latin pop,latin talent show,spanish pop	0.15	0.856	1.13e-06	0.0952	128.03	0.893	0.65
+0JcNysfWVWaMS7R6vzGB2k	Carlos Vives,Sebastian Yatra	Robarte un Beso	USSD11700301	72	champeta,colombian pop,latin,latin pop,tropical,vallenato	0.0824	0.742	0.0	0.0482	95.046	0.652	0.859
+1lxswgIpzV6HhENRvkflES	Farruko,Ky-Mani Marley	Chillax (feat. Ky-Mani Marley)	USSD11500378	67	latin,latin hip hop,reggaeton,trap latino	0.0724	0.827	0.0	0.0766	92.057	0.512	0.646
+3grxgV6Ot8KqtysApjYLs1	Justin Bieber,J Balvin	Sorry - Latino Remix	USUM71517619	57	canadian pop,pop	0.146	0.642	0.0	0.0454	100.075	0.495	0.753
+0MIcPSq9n2z5H8TAfEstri	Ozuna,J Balvin	Quiero Repetir	USXDR1700557	65	latin,puerto rican pop,reggaeton,trap latino	0.103	0.608	0.0	0.368	97.626	0.482	0.753
+7MHN1aCFtLXjownGhvEQlF	Manuel Turizo	Una Lady Como Tú	USSD11700117	67	colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino	0.549	0.788	0.0	0.0434	94.983	0.86	0.477
+4N1c5rmWOzRmB9SMacr5wB	Abraham Mateo,Farruko,Christian Daniel	Loco Enamorado	ES5021701658	58	dominican pop,latin,latin arena pop,latin pop,latin viral pop,reggaeton,spanish pop	0.226	0.69	0.0	0.0588	94.0	0.731	0.872
+6J1R5wtPXiHiwiPstOSI56	Alex Sensation,Ozuna	Que Va	USUM71703862	65	latin,latin pop,reggaeton,trap latino	0.148	0.766	0.0	0.0538	91.03	0.831	0.827
+4l3xGFwoTinvYxsePytOOf	Nacho,Yandel,Bad Bunny,Mambo Kingz,DJ Luian	Báilame - Remix	USUM71708122	70	latin,latin pop,pop venezolano,reggaeton	0.269	0.646	4.16e-06	0.0983	191.954	0.762	0.865
+07YFRv1Rj2iTtA7NY3CTcY	Zion & Lennox	Embriágame	USWL11600241	52	latin,latin hip hop,reggaeton,trap latino	0.0886	0.65	1.81e-05	0.0319	90.998	0.603	0.741
+5Uel5PmPBZICA0TQTI912U	IAmChino,Pitbull,Yandel,El Chacal	Ay Mi Dios	USNPW1600229	72	cubaton,reggaeton	0.169	0.761	0.0	0.0682	92.034	0.814	0.829
+0mlAOSILGRys2IbvyOT5VJ	Luis Fonsi,Demi Lovato	Échame La Culpa	USUM71712163	70	latin,latin pop,puerto rican pop	0.0391	0.733	0.0	0.0389	96.006	0.649	0.897
+6ifUES3keWjwXgae8pXI3o	Danny Ocean	Me Rehúso	USWL11900076	75	latin,pop venezolano,reggaeton,trap latino	0.0231	0.744	0.0	0.0677	104.823	0.426	0.804
+1ri9ZUkBJVFUdgwzCnfcYs	Becky G,KAROL G	MAMIII	USRC12200425	91	dance pop,latin,latin viral pop,pop,rap latina,reggaeton	0.0934	0.843	0.0	0.0803	93.991	0.899	0.7
+6hH6QJ9ZAO0Z6m7PfvLoXW	ROSALÍA	CHICKEN TERIYAKI	USSM12109221	74	r&b en espanol	0.454	0.788	0.000141	0.115	97.936	0.558	0.4
+2Gq636OOGgxCTqEuzCZhsa	Bizarrap,Tiago PZK	Tiago PZK: Bzrp Music Sessions, Vol. 48	UYB282101025	84	argentine hip hop,pop venezolano,trap argentino,trap latino	0.47	0.656	0.0	0.315	96.474	0.755	0.823
+2FYGZDfsAnNsrm1gVbyKnG	ROSALÍA	SAOKO	USSM12109218	77	r&b en espanol	0.79	0.827	2.45e-05	0.265	99.988	0.734	0.768
+0Bv7O6fmZk3GrNQFYJaXPn	La Pantera,Quevedo,Juseph,Abhir Hathi,Bejo,Cruz Cafuné,EL IMA	Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]	ES5152101308	84	rap canario	0.438	0.672	9.29e-06	0.3	173.974	0.739	0.745
+3HIGqZR9qU0fzhEkYZkQvX	Rauwlito	Cuando pasas...	UKXN22166975	57		0.091	0.775	0.00437	0.176	106.057	0.363	0.825
+6P096SaOzrgGxs8NWOfX7M	Tiago PZK,Trueno	Salimo de Noche	AR3N42100003	80	trap argentino	0.294	0.669	1.83e-05	0.0526	83.803	0.784	0.628
+1LiN0Z98FkR1t0m8KmLcAH	Anuel AA,Haze	Amanece	USDXS1806044	70	latin,reggaeton,reggaeton flow,trap boricua,trap latino	0.437	0.79	0.0	0.0425	94.039	0.889	0.631
+0SqqAgdovOE24BzxIClpjw	Bad Bunny	Yo Perreo Sola	QM4TX2030934	77	latin,reggaeton,trap latino	0.021	0.86	6.54e-05	0.0695	97.014	0.453	0.758
+27RSJHEA99Y0Vsow7nA37A	Sech,Jhay Cortez	911 - Remix	QM9WM2100036	76	latin,panamanian pop,reggaeton,trap latino	0.165	0.816	0.0	0.0398	93.02	0.784	0.71
+23tOd7fgSTzYqxC8yrIfF0	Ms Nina,Tomasa del Real	Y Dime (feat. Tomasa del Real)	QM7281884882	43	neoperreo,perreo,rap latina	0.0475	0.649	2.82e-05	0.0357	93.011	0.513	0.927
+7uF2XRp2srFB1mvTMEChoh	Justin Quiles,Daddy Yankee,El Alfa	PAM	USWL12000133	53	latin,reggaeton,trap latino	0.296	0.888	0.000638	0.0809	112.957	0.795	0.834
+78kygHp1dvW1kncYjBgbe1	Ryan Castro	Mujeriego	COSO12100328	83	trap colombiano,trap latino	0.0628	0.758	0.0	0.125	79.949	0.92	0.621
+2uflssWlCaJ6CbTMOsUpNI	Bad Bunny	Aguacero	QM6MZ2214886	85	latin,reggaeton,trap latino	0.423	0.861	0.000592	0.0743	121.391	0.668	0.645
+4tYFy8ALRjIZvnvSLw5lxN	Bad Bunny,Rauw Alejandro	Party	QM6MZ2214885	89	latin,reggaeton,trap latino	0.0151	0.829	0.000543	0.0897	97.013	0.471	0.799
+5Eax0qFko2dh7Rl2lYs3bx	Bad Bunny	Efecto	QM6MZ2214884	86	latin,reggaeton,trap latino	0.141	0.801	1.73e-05	0.0516	98.047	0.234	0.475
+1797zYiX4cKosMH836X9Gt	Bad Bunny,Tony Dize	La Corriente	QM6MZ2214883	86	latin,reggaeton,trap latino	0.229	0.663	0.0	0.195	196.12	0.579	0.786
+31i56LZnwE6uSu3exoHjtB	Bad Bunny	Neverita	QM6MZ2214882	86	latin,reggaeton,trap latino	0.0706	0.876	0.0	0.0478	122.016	0.428	0.498
+41oY4WCTj5kccfesTVFnvN	Bad Bunny,Jhay Cortez	Tarot	QM6MZ2214881	88	latin,reggaeton,trap latino	0.0225	0.795	0.0	0.0419	114.011	0.419	0.684
+5kVZxyMY1gfdCLiChsfjn1	Bad Bunny	Yo No Soy Celoso	QM6MZ2214880	87	latin,reggaeton,trap latino	0.275	0.872	0.0	0.0492	142.004	0.93	0.588
+5CzixCxDkRXX9mScCmah8O	Bad Bunny	Un Ratito	QM6MZ2214879	87	latin,reggaeton,trap latino	0.305	0.787	4.55e-05	0.0532	93.05	0.222	0.546
+1IHWl5LamUGEuP4ozKQSXZ	Bad Bunny	Tití Me Preguntó	QM6MZ2214878	89	latin,reggaeton,trap latino	0.0993	0.65	0.000291	0.253	106.672	0.187	0.715
+6Sq7ltF9Qa7SNFBsV5Cogx	Bad Bunny,Chencho Corleone	Me Porto Bonito	QM6MZ2214877	90	latin,reggaeton,trap latino	0.0901	0.911	2.68e-05	0.0817	92.005	0.425	0.712
+1dm6z1fWB0cErMszU25dy2	Bad Bunny	Después de la Playa	QM6MZ2214876	89	latin,reggaeton,trap latino	0.356	0.564	0.0	0.307	78.293	0.607	0.903
+6Xom58OOXk2SoU711L2IXO	Bad Bunny	Moscow Mule	QM6MZ2214875	92	latin,reggaeton,trap latino	0.294	0.804	1.18e-06	0.0333	99.968	0.292	0.674
+6puxHBNwu2Nmm7uD3Rd2MP	C. Tangana	Mala Mujer	ES5021701596	62	urbano espanol	0.238	0.836	2.19e-05	0.133	100.974	0.473	0.731
+6bQ5823aHmFVKLZW8E7rRo	Duki,De La Ghetto,Quevedo	Si Quieren Frontear	UYB282240008	84	argentine hip hop,trap argentino,trap latino,trap triste	0.125	0.789	0.0	0.23	81.536	0.476	0.837
+3IAfUEeaXRX9s9UdKOJrFI	Anitta	Envolver	USWL12100576	90	funk carioca,funk pop,pagode baiano,pop nacional	0.152	0.812	0.00254	0.0833	91.993	0.396	0.736
+3k3NWokhRRkEPhCzPmV8TW	Bad Bunny,Bomba Estéreo	Ojitos Lindos	QM6MZ2214888	90	latin,reggaeton,trap latino	0.08	0.647	1.34e-06	0.0413	79.928	0.268	0.686
+4xC0tT0RbwEumKFMvA2LGY	Dopebwoy,Bizzey	Salaris (feat. Bizzey)	NLG661800619	42	dutch hip hop,dutch rap pop	0.18	0.898	1.96e-05	0.263	95.943	0.563	0.685
+6AF2otB2Ln0cBvjeaerb26	Zahara	Tuyo	ES71G1840201	43	cantautor,latin rock,spanish indie pop,spanish pop,spanish rock	0.743	0.648	6.84e-05	0.0276	117.0	0.552	0.433
+7fz7HrFRF4y8YEe0duWTDW	Trueno,Duki	PANAMÁ	ARRWN2000051	65	argentine hip hop,bases de freestyle,trap argentino,trap latino	0.402	0.723	4.29e-05	0.0433	128.082	0.269	0.568
+5jDs6uDSL9NRudlTDbOYt7	Tremenda Jauría,Panxo Zoo	Flow Partisano	ES20S1700001	22	musica catalana,rap latina	0.0109	0.846	5.73e-05	0.217	111.028	0.467	0.865
+3yIieRctUCgdUfDyk4adWX	Aquabella	Levan Polka	DEA711400048	43		0.932	0.92	0.0	0.0868	98.046	0.927	0.23
+4utIwSD6l2IxfjsLPRN6Zt	Adala	Malafici	ESA011818553	30	indie catala,musica catalana,reggae catala	0.264	0.678	0.0	0.331	75.055	0.696	0.625
+67pqYhviehS6U1jEJsB3xS	No Te Va Gustar	Me Cuesta Creer	UYB140700007	38	latin alternative,latin rock,rock en espanol,rock uruguayo	0.0024	0.57	0.0	0.0593	155.0	0.889	0.775
+3K2Q79x3zdTI0MZ57KOkfV	mafalda,Combo Calada	Ya Te Llamaremos	ES71G1844962	16	musica catalana,punk catala	0.00684	0.669	0.0	0.0538	146.987	0.888	0.844
+7akliXWlmVjT4szNNMMnJa	Obrint Pas	Perdut als carrers del món	ES8021100015	16	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.0906	0.608	1.25e-06	0.121	107.039	0.559	0.967
+6u9GgwXbMs5jJlA29zGHu5	Manu Chao	Me Quedo Contigo (Si Me Das A Elegir) - Live Baïonarena	FR84R0900330	56	latin alternative,world	0.0176	0.316	4.24e-05	0.348	176.547	0.725	0.958
+4Tv8mqQc83OsQVXO4I0FTA	La Pegatina	Lloverá y yo veré	ES7311300037	52	musica catalana,rumba catalana,spanish pop	0.0161	0.465	0.0	0.0499	176.035	0.728	0.775
+0jQeeagQzLudWIZnIg4dZJ	Adala	Quantes Pluges	ES20S1600107	18	indie catala,musica catalana,reggae catala	0.0634	0.861	0.000537	0.0723	60.015	0.641	0.526
+1zSIujtvCLYjWMI24ZPhCC	Tremenda Jauría	El Botín	CH6542009009	18	musica catalana,rap latina	0.0807	0.737	1.73e-06	0.0713	106.02	0.369	0.864
+1220WyyWeiCcoJJd7Cv3fK	No Te Va Gustar	Ángel con campera	UYH121000001	13	latin alternative,latin rock,rock en espanol,rock uruguayo	0.0656	0.744	0.000551	0.0295	119.964	0.78	0.763
+03a359wbiUsjN9h6yzXvmS	Duki,KHEA	She Don't Give a Fo	QZ5FN1767793	77	argentine hip hop,trap argentino,trap latino,trap triste	0.345	0.854	0.0	0.14	119.938	0.342	0.556
+2q0k5EsonFQ2dgzpfUJRpu	La Vela Puerca	Llenos De Magia	ARF140400093	54	latin alternative,latin rock,rock en espanol,rock uruguayo	0.00129	0.411	0.0	0.0475	169.003	0.553	0.908
+7ju0I6nbkKwHRnsYKLtOhG	Memphis La Blusera	La flor más bella - En Vivo	ARF850400138	42	argentine rock,blues latinoamericano,latin alternative,latin rock,rock en espanol,rock nacional	0.15	0.57	1.94e-06	0.045	119.421	0.645	0.948
+5o2gwaRb8YwAbcsn1VNc66	Kase.O,Xhelazz,Sho-Hai	Viejos Ciegos (con Xhelazz y Sho-hai)	ES6081641206	47	rap politico,spanish hip hop	0.0736	0.736	0.0	0.37	180.034	0.871	0.815
+0937IXPkSlckRCq1WoHSEl	Mon Laferte,Guaynaa	Plata Ta Tá	MXUM71903840	51	latin,latin alternative,latin pop	0.156	0.813	0.0366	0.163	95.026	0.539	0.796
+2cZCEXw6jd7RHCIxEgeYuC	Elane,Lia Kali,DAAX	Belcebú	ES8022100133	25	rap underground espanol	0.66	0.636	5.99e-06	0.634	169.519	0.616	0.51
+4kbuE2mhuowZ6AB0nnVhTD	La Pegatina,D´Callaos	Alosque (feat. D'Callaos)	ES7310900004	44	musica catalana,rumba catalana,spanish pop	0.256	0.594	0.0	0.183	119.85	0.66	0.827
+6ZOcbKub95XSDESsKKuH41	Rauw Alejandro,Chencho Corleone	Desesperados	USSD12100779	86	puerto rican pop,trap latino	0.356	0.869	0.00125	0.0783	90.02	0.511	0.694
+3Yt1ovsh3v3VEzRuhI1TL5	WizKid	Joro	USRC11901068	65	afro dancehall,afropop,azonto,nigerian hip hop,nigerian pop	0.253	0.686	0.000904	0.257	189.998	0.587	0.694
+0kc4G5tEdtmTB0w3gYmb01	Residente,Soko	Desencuentro (feat. Soko)	USSD11700063	56	venezuelan hip hop	0.0854	0.379	0.00446	0.0798	159.83	0.361	0.775
+4BEhcrk2jVbzp0DSrnE2zj	No Te Va Gustar	Hasta Nunca	UYH121200034	32	latin alternative,latin rock,rock en espanol,rock uruguayo	0.905	0.629	0.13	0.029	90.981	0.599	0.505
+55SDauaBnxY86XsVfztdCU	Snow Tha Product	Confleis (No Soy Santa)	TCAFD2050831	37	rap latina,trap queen	0.188	0.865	1.77e-05	0.0889	95.052	0.711	0.696
+70LLyzO7jT6DsQvCwwHDch	Maria Becerra	Mi Debilidad	QMCE32100529	65	pop argentino	0.172	0.74	0.000237	0.0601	94.02	0.645	0.649
+2ef7XomwU78POte7kOv9Ex	Machete en Boca	No Quiero Mas Na	ES71G1841654	21	rap catala,rap latina	0.579	0.693	0.0	0.207	94.943	0.699	0.805
+0hQ12tPnlI0ujeRjTka99V	Tribade	Sabotage	ES8022000201	17	musica catalana,rap latina,trap catala	0.492	0.707	0.0	0.392	153.158	0.242	0.716
+3SQ0cJoeaKoDY924FeUSiR	La Gossa Sorda	De Cara a la Paret	ES8241427202	21	musica catalana,musica valenciana,reggae catala,rock catala	0.00699	0.586	8.45e-05	0.053	176.972	0.754	0.949
+37Tmv4NnfQeb0ZgUC4fOJj	Dire Straits	Sultans Of Swing	GBF089601041	78	album rock,classic rock,mellow gold,rock,soft rock	0.0614	0.733	0.0367	0.0307	148.174	0.931	0.794
+2N2yrmodOnVF10mKvItC9P	Guns N' Roses	Don't Cry (Original)	USGF19141504	73	glam metal,hard rock,rock	0.00182	0.456	0.00379	0.0327	124.635	0.243	0.59
+2zZzdFy53wlCV8nLWs9cLN	Tribade	Adicciones	ES8021900004	19	musica catalana,rap latina,trap catala	0.459	0.901	5.98e-06	0.0952	134.043	0.497	0.543
+2lHxZg55ssoKPyy3oFR8Dc	La Trampa	El Poeta Dice la Verdad	UYB141716903	38	rock uruguayo	0.00681	0.514	0.0	0.037	159.901	0.626	0.85
+2ES9JejkdhQJUX3zN5tXcn	Ciudad Jara,La Vela Puerca,Colectivo Panamera,ZOO,TéCanela,La Raíz,Road Ramos,Nativa	Las Manos	ES8022000010	41	indie valenciana,musica catalana	0.683	0.518	0.0	0.165	185.958	0.621	0.721
+0DS9CDhO4EczI7AmlX5Rnt	No Te Va Gustar	Rata	UYB140800057	36	latin alternative,latin rock,rock en espanol,rock uruguayo	0.0257	0.608	4.49e-06	0.0445	159.995	0.846	0.883
+0DINYYMM175gOFwcP0hvlK	Green Day	The Forgotten	USRE11200498	17	permanent wave,punk	0.128	0.534	0.0	0.0272	132.041	0.0742	0.425
+12l2Hmu2yqUXPkEO6nIYzi	Green Day	Stray Heart - Demo	USRE11400077	30	permanent wave,punk	0.116	0.53	2.62e-06	0.041	103.944	0.551	0.875
+1oHSE4AbYVSThV5XgwlGzC	No Te Va Gustar	Vivir Muriendo (En Vivo)	UYB140710306	35	latin alternative,latin rock,rock en espanol,rock uruguayo	0.0582	0.734	0.00253	0.0311	116.066	0.63	0.602
+1mcEQsoTHFEhmaOyqzTwQr	Aspencat	Nit d'esperança	GB5EA1300574	22	indie valenciana,musica catalana,rap catala,reggae catala,ska catala,ska espanol	0.00986	0.684	0.0	0.042	89.967	0.471	0.813
+3Y22nXvtIKrhA9TahdwT26	At Versaris	La Mazorca En Barna (Feat. Nega)	ES8020900011	6	indie catala,musica catalana,rap catala,rock catala	0.487	0.745	0.0	0.257	100.013	0.794	0.87
+7KKcYwOgUMO6ES73fHNHmb	María Escarmiento,Eigen Risico,Paula	Cada Vez Más Mayor	QM6MZ2166754	30	eurovision,latin talent show	0.832	0.709	0.824	0.0501	143.967	0.458	0.542
+7dRfobhDNnsEgB2ZArxA1f	Buena Vista Social Club	El Cuarto de Tula	GBBGU9700350	60	latin jazz,musica tradicional cubana,world	0.595	0.552	0.000409	0.0454	104.776	0.858	0.664
+5VmoRnclAlBtbt1Icr0PY1	Onda Vaga	Mambeado	ARJ870800012	53	argentine indie,argentine rock,latin alternative,latin rock,rock en espanol,rock nacional	0.766	0.724	0.0	0.0414	87.515	0.956	0.783
+4FEsm7tbVlPJ57wvSCf99u	Lágrimas De Sangre	La Gente	ES7311600091	49	musica catalana,rap catala,rap galego,spanish hip hop	0.576	0.782	0.0	0.0739	100.045	0.592	0.684
+59MU7IZXsS829HvV5PrPzV	Pepe Guerra	A Don José - En Vivo	UYM121301379	17	canto popular uruguayo,folklore uruguayo,musica popular uruguaya	0.289	0.405	1.13e-05	0.0367	130.528	0.317	0.64
+2zzLRQ78kKfPTx8FJQCdC2	Arctic Monkeys	When The Sun Goes Down	GBCEL0501190	71	garage rock,permanent wave,rock,sheffield indie	0.0341	0.348	0.0	0.199	169.152	0.407	0.875
+0fUupVzWolHEmzgZAp8B9X	Lágrimas De Sangre,Adala,Still Ill,Neidos,Microbio	Gira la Moneda	ES16E1900004	32	musica catalana,rap catala,rap galego,spanish hip hop	0.432	0.636	0.0	0.29	93.804	0.728	0.793
+07f2b3CTdgKKlhv0mqUksz	Juju,Henning May	Vermissen (feat. Henning May)	DEVX51900045	58	frauenrap,german hip hop	0.169	0.717	0.0	0.0554	89.045	0.464	0.668
+5E30LdtzQTGqRvNd7l6kG5	The Neighbourhood	Daddy Issues	USSM11506747	84	modern alternative rock,modern rock,pop,shimmer pop	0.0678	0.588	0.149	0.0329	85.012	0.337	0.521
+6ejbTM8VJTAUGWybnBILvM	No Te Va Gustar	Fueron	UYB140700110	23	latin alternative,latin rock,rock en espanol,rock uruguayo	0.267	0.797	1.07e-05	0.181	129.295	0.649	0.597
+49V74zvYm7EBpa3obiAX40	Van Coke Kartel	Voor Ons Stof Word	QZK6G2150015	18	african rock,afrikaans,cape town indie,south african alternative,south african pop,south african rock	0.00398	0.536	0.0	0.0455	154.958	0.65	0.909
+5ioUwDizO3wLH9xlLw6c72	Obrint Pas	Som	ES8020600217	32	cantautor,hardcore punk espanol,indie catala,musica catalana,musica valenciana,punk catala,rock catala,ska catala,spanish punk	0.00504	0.353	4.01e-06	0.0511	131.114	0.372	0.916
+1B2KqBbo71jf5n3lftM6G2	Boikot	Inés	ES6880400325	43	hardcore punk espanol,punk catala,punk urbano,rock en asturiano,spanish punk	0.00265	0.572	0.000384	0.0633	155.052	0.857	0.899
+4jKOUTB2lIoPLubbFWz9lX	Kase.O	Guapo Tarde	ES6081641205	44	rap politico,spanish hip hop	0.313	0.708	0.0	0.343	87.142	0.902	0.779
+3o4whF6e25WeOnLBdsLFsX	Kase.O	Basureta (Tiempos Raros)	ES6081641216	46	rap politico,spanish hip hop	0.369	0.663	7.9e-06	0.495	93.369	0.38	0.429
+5h2AQo0aZ7bROFkU1p3AUr	Milongas Extremas	La Vereda de la Puerta de Atrás	UYM121805605	19	musica popular uruguaya,rock uruguayo	0.891	0.586	1.56e-06	0.102	127.612	0.249	0.468
+3ELXt3dZa6cGgbji3YWjwJ	Adala	Dama	ES20S1600108	18	indie catala,musica catalana,reggae catala	0.0297	0.923	0.0	0.297	125.179	0.833	0.728
+497CCz9LgQHkvKp81JXZNn	Ms Nina,Beauty Brain	Rico Rico	ES71G1844965	43	neoperreo,perreo,rap latina	0.00502	0.874	0.000328	0.0907	104.98	0.478	0.912
+0R7DSnSibvuE4PEHqUayqf	Plan B	Es un Secreto	GBLFP1785056	76	latin,reggaeton,trap latino	0.0951	0.836	1.68e-06	0.0439	94.977	0.504	0.777
+36eZavKAWSVcLop8Jq8IDF	María Escarmiento	Chulo	ES5702000784	19	eurovision,latin talent show	0.0483	0.653	0.000336	0.0794	175.894	0.103	0.716
+5Pz8gWDuyF07TwvqFdmlsD	Duina Del Mar	Arráncame las ganas - Primer Conjuro	GBLFP2046891	57		0.5	0.746	0.00654	0.191	180.103	0.529	0.744
+3cX33XfVQxhxjo03xso1Q1	Tremenda Jauría	Nos Cuesta	ES8021800083	16	musica catalana,rap latina	0.207	0.65	0.0	0.105	90.948	0.854	0.818
+2374M0fQpWi3dLnB54qaLX	TOTO	Africa	USSM19801941	80	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.257	0.671	8.01e-05	0.0323	92.718	0.732	0.373
+4OThAdcBIKW14BejUzrqOZ	Novedades Carminha	Cariñito	ES29B1600031	43	galego,galician rock,latin rock,punk galego,spanish indie pop,spanish noise pop	0.0577	0.791	0.0338	0.0368	103.483	0.878	0.57
+3SK45LddxlEkzI8OWO9Eyo	C. Tangana,Gipsy Kings,Nicolás Reyes,Tonino Baliardo	Ingobernable	ES5022100004	71	urbano espanol	0.195	0.705	0.000228	0.0656	104.973	0.737	0.757
+6kPwvezY3O4b0KZEUukgyc	Kase.O,Najwa	Mitad y Mitad (con Najwa)	ES6081641209	52	rap politico,spanish hip hop	0.0951	0.941	0.000129	0.181	120.0	0.598	0.46
+5jE48hhRu8E6zBDPRSkEq7	Meghan Trainor	All About That Bass	USSM11401317	71	dance pop,hip pop,pop,post-teen pop	0.0573	0.807	2.87e-06	0.0503	134.052	0.961	0.887
+39KmBOGkD1ztCbVeo2uspA	Callejeros	Una Nueva Noche Fría	ARF840400076	59	argentine rock,cumbia villera,latin alternative,rock en espanol	0.00337	0.52	0.0	0.0498	137.995	0.58	0.914
+2E0b5qv9HUvXxTWekGR2Dm	No Te Va Gustar	Que Sean Dos	UYB140800060	23	latin alternative,latin rock,rock en espanol,rock uruguayo	0.000543	0.754	0.000433	0.0429	127.005	0.961	0.753
+0fjgPBNEAl1hNMCeUMEyK6	Los Chikos del Maiz,Zoo	Vacaciones en Suiza	ES6081441405	30	rap politico,spanish hip hop	0.0802	0.585	0.0	0.333	180.102	0.872	0.919
+0EfsDEYaSjGYd66Pr881nq	The Neighbourhood	Cry Baby	USSM11506744	70	modern alternative rock,modern rock,pop,shimmer pop	0.00269	0.581	2.78e-06	0.0294	108.033	0.338	0.656
+3Nz8UyUAM78q4LoKJATtFQ	Dillom	SIDE	ARR4B2100018	52	trap argentino	0.266	0.723	0.00538	0.225	119.869	0.547	0.569
+4thWXXJQxP4g18cup6ltFO	Dillom	PISO 13	FRX452182843	53	trap argentino	0.0694	0.615	0.0	0.0566	160.145	0.652	0.932
+1ylWNC8zMjZTExszCerenj	Dillom	DUO	ARR4B2100017	49	trap argentino	0.977	0.339	0.979	0.0315	90.539	0.0355	0.245
+4ctYJYvxvcbGKH7cXoaVy2	Dillom	BICICLETA	ARR4B2100016	55	trap argentino	0.145	0.653	0.906	0.0347	109.975	0.688	0.833
+7pkYsT6Nhtr9EfblK6Kffy	Dillom	POST MORTEM	ARR4B2100015	53	trap argentino	0.262	0.835	0.0	0.165	121.979	0.623	0.614
+5IYqKwZBJQfcLaQjwa4ofN	Dillom,Mario Pergolini	DEMIAN	ARR4B2100014	47	trap argentino	0.247	0.583	0.0	0.848	114.137	0.863	0.435
+65zh1W9YBpgGlS4G98mI0v	Dillom	PELOTUDA	ARR4B2100010	57	trap argentino	0.0285	0.57	0.000108	0.243	95.815	0.621	0.61

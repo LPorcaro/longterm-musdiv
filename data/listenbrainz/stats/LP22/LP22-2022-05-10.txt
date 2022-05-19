@@ -1,0 +1,45 @@
+Electronic artists found: Tiësto,Ava Max, Martin Solveig,Good Times Ahead, GUI2IN,Kuller,TARS.,Frann, Calvin Harris, David Guetta,Showtek,VASSY, Madism,Masove,Brendan Mills,Tess Burrstone, Lost Frequencies, Loud Luxury,Brando, Sebastian Ingrosso,Tommy Trash,John Martin, Basto, Armin van Buuren,Trevor Guthrie, Avicii,Rita Ora, Timmy Trumpet,loafers,The High, Swedish House Mafia,Pharrell Williams, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Kungs, Mangoo,IZKO,Tony Koma, Marshmello,Khalid, Kygo,Parson James, Calvin Harris,Florence Welch, Martin Garrix,Third Party, Clean Bandit,Jess Glynne, Avicii, Jonas Blue,Dakota, Alesso,Tove Lo, The Chainsmokers,ROZES, Groove Crackers, David Guetta,Sam Martin, Axwell /\ Ingrosso, The Chainsmokers,Emily Warren, Tiësto,Don Diablo,Thomas Troelsen, Jax Jones,Martin Solveig,Madison Beer,Europa, Calvin Harris,Ellie Goulding, David Guetta,Kid Cudi
+Electronic genres found: slap house, disco house, belgian edm, brazilian edm, swedish eurodance, uk funky, edm, tropical house, melbourne bounce international, electro house, progressive house, dutch edm, melbourne bounce, brostep, deep house, progressive electro house
+Electronic music logs found: 87.50% 
+
+Top genres
+	1: pop dance (15.09%)
+	2: edm (14.62%)
+	3: dance pop (11.79%)
+	4: pop (11.32%)
+	5: tropical house (8.02%)
+Top artists
+	1: Kid Cudi (1.33%)
+	2: Dopamine (1.33%)
+	3: ROZES (1.33%)
+	4: Europa (1.33%)
+	5: Martin Solveig (1.33%)
+Top country
+	1: GB (32.50%)
+	2: QZ (12.50%)
+	3: NL (12.50%)
+	4: FR (10.00%)
+	5: US (10.00%)
+Top record
+	1: UM7 (10.00%)
+	2: ARL (10.00%)
+	3: 9W1 (7.50%)
+	4: F71 (7.50%)
+	5: 28K (5.00%)
+Top year
+	1: 14 (15.00%)
+	2: 22 (12.50%)
+	3: 15 (12.50%)
+	4: 17 (10.00%)
+	5: 21 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   40.000000     40.000000     40.000000         40.000000    40.000000   40.000000  40.000000  40.000000
+mean    62.475000      0.098439      0.658675          0.029429     0.072065  122.560075   0.474110   0.798425
+std     13.852682      0.133524      0.110120          0.149516     0.059367   10.831720   0.196188   0.109432
+min     28.000000      0.000972      0.485000          0.000000     0.030000   95.027000   0.072100   0.578000
+25%     55.500000      0.012350      0.571500          0.000002     0.037850  121.007500   0.352750   0.723000
+50%     65.000000      0.041750      0.645500          0.000031     0.044050  125.478500   0.493500   0.809500
+75%     71.250000      0.103400      0.752500          0.004802     0.081325  127.944250   0.582000   0.885000
+max     89.000000      0.601000      0.883000          0.947000     0.255000  150.026000   0.942000   0.973000

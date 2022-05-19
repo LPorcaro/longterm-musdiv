@@ -1,0 +1,77 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+3TiI9VyNW28715eC6UzEcL	Praso	Naquele Hotel	AEA0D2059355	29	hip hop tuga	0.401	0.638	8.26e-06	0.0982	98.032	0.602	0.629
+17b8o9O29o3QGTRuprj7nd	Piruka,Jimmy P	FALADUKÊ	ES71G2214245	46	hip hop tuga,rap criolo	0.186	0.762	0.0	0.275	129.838	0.559	0.711
+7zXIHI7Oo4ptoy6AyTgdTN	benji price,Mike El Nite	Veni, Vidi, Vici	PTBM12200005	32	drill tuga,hip hop tuga	0.446	0.671	0.00051	0.0854	172.028	0.579	0.69
+5lYAphI00oZ5ZtH7CEJDqV	Dillaz	Conto	ES71G2013860	48	hip hop tuga	0.416	0.582	1.3e-06	0.671	93.237	0.607	0.441
+2l3fPI8SqdgbT8XSS3JMfh	Dillaz	19/01	PT5HT2200005	44	hip hop tuga	0.59	0.731	1.11e-05	0.0517	128.045	0.3	0.429
+2TbBiaX3YqO4IBHba713d0	Dillaz	Avioneta	PT5HT2200010	50	hip hop tuga	0.785	0.89	0.087	0.149	91.025	0.387	0.517
+0BP5fxrr7EwU3I9TNJwjBA	Dillaz	Genebra	PT5HT2200008	52	hip hop tuga	0.694	0.775	0.000678	0.0933	105.101	0.346	0.442
+6vbFZuziJPaFPRCWyQxOxP	Dillaz	Juvena	PT5HT2100002	48	hip hop tuga	0.121	0.802	0.000141	0.269	146.001	0.629	0.492
+17MPtgaJHgr2WlJVyhA6kw	Dillaz	Papaia	PT5HT2200007	55	hip hop tuga	0.308	0.72	0.00256	0.131	137.206	0.255	0.494
+3i7DYnwcLwCUHyaJlEh3od	Dillaz	Galileu	PT5HT2000001	49	hip hop tuga	0.577	0.891	4.77e-05	0.492	127.143	0.627	0.376
+0UW3wnVAl9vzLiTHIwN075	Dillaz	Maçã	PT5HT2200001	50	hip hop tuga	0.649	0.795	0.00466	0.0405	114.996	0.179	0.553
+1BNbYv8P3ZTdJQtmFlGz4j	Da Weasel com Atiba	International Luv	PTEM10700041	11	reggae tuga	0.229	0.883	0.0126	0.258	95.015	0.644	0.847
+3dTomEqkG506W5cPLEtVBI	Da Weasel	Mata-me de novo	PTEM10100131	17	hip hop tuga,portuguese rock	0.15	0.881	0.0	0.156	94.948	0.905	0.658
+5nDueiCzwXxZIX3Y5ODuA5	Da Weasel	Dialectos da ternura	PTEM10700025	38	hip hop tuga,portuguese rock	0.0434	0.921	1.15e-05	0.298	148.99	0.916	0.949
+0YtFqZhheQZIrVc0qbqL8D	Da Weasel	Re-tratamento	PTEM10400001	44	hip hop tuga,portuguese rock	0.0743	0.841	0.000506	0.0685	174.963	0.451	0.475
+13EqtcuZpnCn0fBHIEUP11	Da Weasel	GTA	PTEM10400052	19	hip hop tuga,portuguese rock	0.144	0.821	0.0	0.267	180.097	0.828	0.801
+0bUP2HaJxCqPNh0n4YVY0m	Da Weasel	Todagente	PTEM19700065	25	hip hop tuga,portuguese rock	0.0741	0.655	0.423	0.114	192.089	0.416	0.739
+5L7Ksck3LzMrn3djt18KHg	Da Weasel	Toque-toque	PTEM10700028	30	hip hop tuga,portuguese rock	0.0149	0.901	0.0147	0.233	101.988	0.751	0.655
+2fKG2dvMhPF4BmUkOVdEnC	Da Weasel	Força (Uma página de história)	PTEM10400047	34	hip hop tuga,portuguese rock	0.327	0.86	0.0118	0.187	100.002	0.712	0.767
+48hDL226mWlA0THSBajhGf	Demi Lovato	Mad World	USUM72103758	34	dance pop,pop,post-teen pop	0.539	0.326	0.0	0.0367	174.187	0.127	0.319
+2IHLaN6wwYKQ3S24NsQqpA	Demi Lovato	I Love Me	USUM72003024	61	dance pop,pop,post-teen pop	0.00261	0.664	0.0	0.0495	150.093	0.713	0.561
+6rqTMNYXhATtbi4WQO6lQW	Demi Lovato	Anyone	USUM72001315	38	dance pop,pop,post-teen pop	0.875	0.578	0.0	0.0385	86.075	0.321	0.386
+0mlAOSILGRys2IbvyOT5VJ	Luis Fonsi,Demi Lovato	Échame La Culpa	USUM71712163	70	latin,latin pop,puerto rican pop	0.0391	0.733	0.0	0.0389	96.006	0.649	0.897
+0yvPEnB032fojLfVluFjUv	Demi Lovato	Sorry Not Sorry	USUM71707196	75	dance pop,pop,post-teen pop	0.0242	0.706	0.0	0.234	143.931	0.885	0.643
+3DXXKDbbZKyAZfNb96ST3q	Demi Lovato	Confident	USHR11536743	70	dance pop,pop,post-teen pop	0.00188	0.594	0.000139	0.0677	130.064	0.344	0.749
+3by8IfnW9dZ2t4pZw1WVxz	Demi Lovato	Stone Cold	USHR11536744	68	dance pop,pop,post-teen pop	0.539	0.419	0.0	0.0437	140.327	0.356	0.453
+1oQZk2bKBLgP1cbuFKvjkq	Beyoncé	If I Were a Boy	USSM10803202	66	dance pop,pop,r&b	0.0953	0.63	0.0	0.0334	89.946	0.487	0.504
+6aovu9jzkcROfKcDK0LBRs	JoJo	Too Little Too Late	USBGR0600044	47	dance pop,hip pop,pop,pop rap,post-teen pop,r&b,urban contemporary	0.0113	0.535	3.88e-06	0.0431	83.001	0.685	0.823
+3f3omU8n47Mqyab5nCaGyT	Kelly Clarkson	Because of You	GBCTA0400265	67	dance pop,neo mellow,pop,post-teen pop,talent show,urban contemporary	0.254	0.583	0.0	0.0314	140.039	0.136	0.584
+5IaR621NoOM6i5KTcuNRHM	Alexandra Burke	Hallelujah	GBHMU0800141	62	dance pop,europop,post-teen pop,talent show	0.654	0.177	0.0	0.0291	182.571	0.0942	0.425
+3maCmHhpmJ6hzJjEnm0ieT	Colbie Caillat	I Never Told You	USUM70976692	51	acoustic pop,dance pop,neo mellow,pop,pop rock,post-teen pop,viral pop	0.166	0.498	0.0	0.0288	144.104	0.36	0.634
+3goSVuTt3fDYDP6kRnFwuL	Rihanna	Take A Bow	USUM70809004	73	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.248	0.697	0.0	0.0715	82.082	0.572	0.467
+4fINc8dnfcz7AdhFYVA4i7	Jason Derulo	It Girl	USWB11102211	69	dance pop,pop,pop rap,post-teen pop	0.0165	0.668	0.0	0.0605	91.993	0.345	0.718
+0HAIealfpi1oQ09yPMsUIK	Nenny	Bússola	TCAEI1935476	43	hip hop tuga,trap tuga	0.735	0.802	0.0	0.324	94.952	0.82	0.565
+0rUVc7nyw4qXytvodDAlle	Nenny	Tequila - A COLORS SHOW	DEXC82100007	46	hip hop tuga,trap tuga	0.754	0.799	3.51e-06	0.181	99.002	0.561	0.531
+0E8N4bWQ4h1EjA23Q9dQOT	Catarina Filipe	XEQUE-MATE	QZES82285831	48		0.419	0.752	0.0	0.0996	95.986	0.571	0.517
+0STK94RxUulYqWzwFlyAb5	Demi Lovato	Sober	USUM71808000	65	dance pop,pop,post-teen pop	0.798	0.397	4.16e-06	0.11	170.22	0.17	0.303
+7nCBOm2WiTUPAx3TeG2rZA	Demi Lovato	Warrior	USHR11334436	57	dance pop,pop,post-teen pop	0.868	0.415	0.0	0.0423	146.485	0.196	0.399
+0M9VqYG0wVun054JIdwFO8	Demi Lovato	La La Land	USHR10824099	57	dance pop,pop,post-teen pop	0.0149	0.467	0.0	0.069	169.987	0.706	0.919
+33RJ3P6wc0B0FIyDalhNTv	Demi Lovato	Here We Go Again	USHR10924472	54	dance pop,pop,post-teen pop	0.00432	0.585	0.0	0.04	142.043	0.672	0.927
+1zj5css92Qa4ppHUKkACf9	Bispo	Não Fui Sincero	PT9GN1700005	34	hip hop tuga	0.408	0.81	0.0072	0.305	120.032	0.0894	0.451
+3klZEB3gNmhKoOTqwVH92G	Slow J	Teu Eternamente	PT2HA1800015	45	hip hop tuga	0.393	0.754	0.0	0.114	99.987	0.272	0.422
+4zqpnSs7NhXPDhKmhKkRVh	Kappa Jotta	Fala a Sério	PT6GV1800001	26	hip hop tuga	0.134	0.702	0.0102	0.352	98.73	0.39	0.58
+09T0uFiqcOUOes4OpPRQOU	Boss AC	Que deus	PTNS10500006	27	hip hop tuga	0.402	0.79	0.0	0.243	93.096	0.716	0.749
+6JW9f6XubqtiRVNtxRJiXC	Domi,Mafalda Rosado	Confins	ES71G1733020	32	hip hop tuga	0.279	0.712	5.95e-05	0.419	77.015	0.252	0.59
+4kGx4Jl9U74iCUy9HfSnRl	Bispo	Lembra-te	ES71G1751481	41	hip hop tuga	0.12	0.623	7.2e-05	0.145	110.092	0.183	0.443
+2KTw4vRM6mdBzMlVkInvSS	Lhast,Dillaz	O Clima	QZ5FN1764456	40	hip hop tuga,rap angolano	0.76	0.725	0.0013	0.0574	99.087	0.306	0.454
+4B2MQyuz4719wZS9HJsnKZ	Kappa Jotta	Tanto por Dizer	QMBZ91723005	24	hip hop tuga	0.294	0.472	0.000269	0.319	83.056	0.0761	0.452
+6SpI6YKn2u2oX7jSzoKDDl	Dillaz	Protagonista	TCACO1675886	41	hip hop tuga	0.192	0.786	0.0	0.0486	94.992	0.313	0.544
+53LuRRfv4dBFVLo8G2TkTu	Valas	As Coisas	PTUM71600541	41	hip hop tuga	0.0707	0.622	0.0	0.405	84.324	0.666	0.676
+3yxUGjspstpMvH8SkzXKC1	Cálculo,Harold	Iguais (feat. Harold)	PT7GV1700012	32	hip hop tuga	0.627	0.685	0.0	0.317	70.959	0.332	0.541
+4e2Z4PshFsk2Er9wdqRnIe	GROGNation,Sam The Kid,Vinil	Distante (feat. Vinil)	GB-SMU-17-24844	40	hip hop tuga	0.627	0.678	0.0	0.217	95.075	0.732	0.804
+1raaJKwyiIl6F1SLU4wiJ3	Kappa Jotta	Pela Cidade	QMBZ91723009	36	hip hop tuga	0.601	0.723	7.34e-06	0.22	110.006	0.262	0.632
+4UBWvFqfY9lt38Ta3AKTEg	Dillaz,Vulto	Eu Estou Bem	TCACO1675888	39	hip hop tuga	0.312	0.86	1.03e-05	0.149	93.477	0.424	0.393
+2Q6JW9rTIuD33XsoSQWCwQ	Dillaz	Faroleiro	PT5HT2200009	47	hip hop tuga	0.257	0.585	0.00336	0.0568	103.626	0.39	0.535
+6EKwQIjzSECMbhR8GezMSK	Dillaz	Interlúdio	PT5HT2200006	42	hip hop tuga	0.804	0.716	0.903	0.258	160.072	0.328	0.403
+1giteNoUMOXbI8InMf0azH	Dillaz	Mango	PT5HT2200004	48	hip hop tuga	0.676	0.911	0.0	0.169	92.497	0.828	0.578
+2wQFeNOIMqsMeITsFYAUkg	Dillaz	Oitavo Céu	PT5HT2200003	50	hip hop tuga	0.642	0.687	1.09e-05	0.193	140.114	0.325	0.567
+2LA4v20vokK9Uaj7WEEMaf	Avril Lavigne	Losing Grip	USAR10200222	57	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00128	0.534	6.15e-06	0.0972	158.368	0.582	0.888
+1HiV8vDg7l9eKp6abjvA7P	Avril Lavigne,Marilyn Manson	Bad Girl (feat. Marilyn Manson)	USSM11304487	54	canadian pop,candy pop,dance pop,pop,post-teen pop	4.72e-05	0.429	3.76e-05	0.137	157.989	0.335	0.939
+0cZDC7uxNK8lqQ3GgyvCnD	Avril Lavigne	Nobody's Home	USAR10400487	60	canadian pop,candy pop,dance pop,pop,post-teen pop	0.000516	0.348	0.0	0.0497	185.406	0.177	0.907
+471JGLzHPrgM4lS9mNOEIt	Avril Lavigne	Rock N Roll	USSM11304458	57	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00963	0.465	0.000101	0.128	184.126	0.665	0.956
+5XtO4cCXIbQMjIJrqEzOfK	GROGNation	Sei Que Esperas	PT7GV1700001	17	hip hop tuga	0.434	0.594	0.0	0.136	94.927	0.485	0.784
+4jhd0ruKPWk5SAFjrTUoCM	Jimmy P,Sílvia Barros,Domi	Só eu	PTNS11800019	10	hip hop tuga,portuguese pop,rap criolo	0.541	0.685	8.39e-06	0.157	120.717	0.585	0.686
+2wvtEiHUoRmjrqRfOrY26B	Piruka,1Kilo	Já Se Passou Tudo	ES71G1821102	31	hip hop tuga,rap criolo	0.141	0.612	0.0	0.226	129.651	0.292	0.587
+1jGzLAXl4TiRjvw0NQKzsw	Dillaz,Spliff	Não É Só Chorar	PT5HT1900005	30	hip hop tuga	0.491	0.411	0.0	0.282	62.021	0.0684	0.513
+1xKyLu1AbYauopjoAi0bQU	Dillaz,Lhast	Gravidade	PT7ED1700955	43	hip hop tuga	0.506	0.833	0.0257	0.176	130.049	0.426	0.488
+5RpT3tzb19RJPzXGIOVrn1	Dillaz,Spliff	Bocas Falam Tudo	PT5HT1900004	30	hip hop tuga	0.0248	0.772	0.0	0.15	92.046	0.48	0.552
+0B7cLiUsuRU8VXlgx715wb	Dillaz	Reflexo	TCACO1675905	34	hip hop tuga	0.323	0.886	0.0	0.272	125.004	0.524	0.489
+2Kt7gEMDHpoeDOG7suC2ik	Dillaz,Spliff	Copo de Balão	PT5HT1900003	34	hip hop tuga	0.72	0.567	0.00198	0.173	122.648	0.0885	0.526
+4zww0H1u0yYvyBGixrRCb9	Dillaz	Mo Boy	TCACO1675887	47	hip hop tuga	0.555	0.756	3.54e-06	0.397	180.165	0.389	0.655
+5hpDpEK863y4BuHYWPZROd	Dillaz,Spliff	Cria Actividade	PT5HT1900010	33	hip hop tuga	0.779	0.659	0.000154	0.0855	77.989	0.175	0.529
+6HHtTXPyBTJsLQT0y3afnm	Avril Lavigne	I Fell In Love With The Devil	QMRSZ1801851	53	canadian pop,candy pop,dance pop,pop,post-teen pop	0.0235	0.522	0.0	0.0831	135.906	0.215	0.677
+57gIhFXdJ5M9JuNDcbpcEk	Avril Lavigne	Everybody Hurts	USRC11100014	51	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00696	0.454	0.000351	0.0281	101.52	0.358	0.748
+7yYDTV3VQ322o8r4wcYlqZ	WILLOW,Avril Lavigne,Travis Barker	G R O W (WILLOW & Avril Lavigne feat. Travis Barker)	QMJMT2103667	55	afrofuturism,dance pop,electropop,pop,post-teen pop	0.0114	0.526	0.0	0.171	159.841	0.551	0.857
+2z4U9d5OAA4YLNXoCgioxo	Avril Lavigne	What the Hell	USRC11000915	73	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00472	0.578	0.0127	0.0548	149.976	0.877	0.926

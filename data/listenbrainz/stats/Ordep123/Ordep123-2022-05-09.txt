@@ -1,0 +1,42 @@
+Electronic artists found: Jonas Blue,William Singe
+Electronic genres found: edm, tropical house
+Electronic music logs found: 11.11% 
+
+Top genres
+	1: pop (23.33%)
+	2: dance pop (13.33%)
+	3: east coast hip hop (3.33%)
+	4: gangster rap (3.33%)
+	5: hip hop (3.33%)
+Top artists
+	1: Dua Lipa (6.25%)
+	2: Quavo (6.25%)
+	3: Bruno Mars (6.25%)
+	4: Silk Sonic (6.25%)
+	5: William Singe (6.25%)
+Top country
+	1: US (66.67%)
+	2: GB (33.33%)
+Top record
+	1: UM7 (33.33%)
+	2: AT2 (22.22%)
+	3: SM1 (11.11%)
+	4: AYE (11.11%)
+	5: RC1 (11.11%)
+Top year
+	1: 21 (33.33%)
+	2: 20 (22.22%)
+	3: 96 (11.11%)
+	4: 19 (11.11%)
+	5: 05 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000      9.000000e+00     9.000000    9.000000  9.000000  9.000000
+mean    75.333333      0.125522      0.739333      1.488889e-07     0.059544  113.179222  0.686778  0.644889
+std      8.031189      0.110974      0.056307      4.466667e-07     0.034282   23.474338  0.142068  0.179675
+min     60.000000      0.010300      0.627000      0.000000e+00     0.027000   82.030000  0.506000  0.290000
+25%     72.000000      0.037700      0.713000      0.000000e+00     0.041600   96.038000  0.543000  0.553000
+50%     75.000000      0.102000      0.739000      0.000000e+00     0.045200  104.012000  0.721000  0.670000
+75%     79.000000      0.167000      0.781000      0.000000e+00     0.062400  128.052000  0.822000  0.792000
+max     89.000000      0.317000      0.811000      1.340000e-06     0.139000  148.014000  0.860000  0.859000

@@ -1,0 +1,45 @@
+Electronic artists found: Hooverphonic
+Electronic genres found: electronica, trip hop, downtempo
+Electronic music logs found: 5.56% 
+
+Top genres
+	1: rock (9.23%)
+	2: modern rock (7.69%)
+	3: auckland indie (4.62%)
+	4: kiwi rock (4.62%)
+	5: soft rock (4.62%)
+Top artists
+	1: The Doors (5.88%)
+	2: Bay City Rollers (5.88%)
+	3: Hooverphonic (5.88%)
+	4: Katy Perry (5.88%)
+	5: Gerard Way (5.88%)
+Top country
+	1: US (55.56%)
+	2: AU (16.67%)
+	3: GB (11.11%)
+	4: FR (5.56%)
+	5: DE (5.56%)
+Top record
+	1: UM7 (27.78%)
+	2: EE1 (11.11%)
+	3: DZH (11.11%)
+	4: MC1 (11.11%)
+	5: AT2 (5.56%)
+Top year
+	1: 11 (16.67%)
+	2: 14 (11.11%)
+	3: 09 (5.56%)
+	4: 13 (5.56%)
+	5: 20 (5.56%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    52.833333      0.149364      0.611222          0.062938     0.045944  119.142889   0.560889   0.653444
+std     14.912490      0.224734      0.117586          0.152681     0.013675   20.718581   0.252030   0.186914
+min     33.000000      0.000010      0.438000          0.000000     0.028100   72.957000   0.153000   0.168000
+25%     37.750000      0.010100      0.502000          0.000074     0.037750  107.979750   0.449000   0.586250
+50%     54.000000      0.074800      0.593000          0.000129     0.045050  122.999500   0.500000   0.710000
+75%     60.500000      0.210250      0.727000          0.005325     0.052100  127.762250   0.715500   0.799000
+max     79.000000      0.931000      0.791000          0.534000     0.079300  170.358000   0.940000   0.852000

@@ -1,0 +1,45 @@
+Electronic artists found: Bonobo,Jamila Woods
+Electronic genres found: electronica, trip hop, downtempo, jazztronica
+Electronic music logs found: 3.70% 
+
+Top genres
+	1: alternative r&b (8.00%)
+	2: pop (5.33%)
+	3: indie r&b (5.33%)
+	4: electropop (4.00%)
+	5: indie pop (4.00%)
+Top artists
+	1: Jarreau Vandal (3.03%)
+	2: Jaguar Sun (3.03%)
+	3: min.a (3.03%)
+	4: Bonobo (3.03%)
+	5: Wet (3.03%)
+Top country
+	1: GB (29.63%)
+	2: US (22.22%)
+	3: QZ (18.52%)
+	4: DE (11.11%)
+	5: TC (7.41%)
+Top record
+	1: UM7 (14.81%)
+	2: KPL (11.11%)
+	3: 93L (7.41%)
+	4: JPN (3.70%)
+	5: QE9 (3.70%)
+Top year
+	1: 21 (37.04%)
+	2: 20 (22.22%)
+	3: 22 (18.52%)
+	4: 15 (3.70%)
+	5: 05 (3.70%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
+mean    52.148148      0.551393      0.643037          0.129397     0.079993  105.992630   0.331352   0.404681
+std     10.697605      0.268862      0.117747          0.262696     0.084943   30.977502   0.190692   0.159695
+min     42.000000      0.012100      0.428000          0.000000     0.025800   60.496000   0.070500   0.092400
+25%     44.000000      0.305000      0.575500          0.000029     0.042200   83.993000   0.189000   0.284000
+50%     50.000000      0.614000      0.635000          0.001670     0.053500   94.694000   0.247000   0.402000
+75%     56.500000      0.789000      0.690500          0.073200     0.081900  125.450000   0.478000   0.503000
+max     77.000000      0.894000      0.861000          0.896000     0.440000  174.073000   0.800000   0.749000

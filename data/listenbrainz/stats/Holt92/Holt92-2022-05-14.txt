@@ -1,0 +1,45 @@
+Electronic artists found: Loud Luxury,Bryce Vine,EDX, Sons Of Maria,Agatha Saron, Story Of The Year, Senses Fail, Snapcase, Tom Ferry,Alex Hosking
+Electronic genres found: edm, tropical house, pop edm, deep tropical house, electro house, hardcore, deep house
+Electronic music logs found: 8.70% 
+
+Top genres
+	1: uk house (46.81%)
+	2: scandipop (8.51%)
+	3: tropical house (3.19%)
+	4: post-hardcore (3.19%)
+	5: pop dance (2.13%)
+Top artists
+	1: Jone (5.00%)
+	2: Senses Fail (5.00%)
+	3: Tore Fagerheim (5.00%)
+	4: ØGM (5.00%)
+	5: Iceleak (5.00%)
+Top country
+	1: QZ (65.22%)
+	2: SE (14.49%)
+	3: GB (10.14%)
+	4: US (5.80%)
+	5: NL (2.90%)
+Top record
+	1: 4JJ (65.22%)
+	2: 4XN (11.59%)
+	3: 2LD (5.80%)
+	4: SMU (2.90%)
+	5: BGA (1.45%)
+Top year
+	1: 18 (66.67%)
+	2: 16 (13.04%)
+	3: 20 (5.80%)
+	4: 19 (2.90%)
+	5: 03 (2.90%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   69.000000     69.000000     69.000000         69.000000    69.000000   69.000000  69.000000  69.000000
+mean    35.840580      0.075615      0.755333          0.054589     0.053561  124.785884   0.569232   0.586986
+std     10.449632      0.065080      0.149255          0.185524     0.032365   12.143620   0.117715   0.150513
+min     13.000000      0.000004      0.286000          0.000000     0.037800   90.839000   0.197000   0.501000
+25%     33.000000      0.075700      0.818000          0.000496     0.037800  123.993000   0.551000   0.501000
+50%     41.000000      0.082500      0.818000          0.000496     0.037800  123.993000   0.634000   0.501000
+75%     41.000000      0.082500      0.818000          0.000496     0.070400  123.993000   0.634000   0.567000
+max     56.000000      0.526000      0.826000          0.953000     0.242000  179.892000   0.715000   0.990000

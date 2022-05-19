@@ -1,0 +1,35 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: bergen indie (19.08%)
+	2: melancholia (19.08%)
+	3: norwegian indie (19.08%)
+	4: alternative rock (5.34%)
+	5: baroque pop (5.34%)
+Top artists
+	1: Kings of Convenience (33.33%)
+	2: Arcade Fire (33.33%)
+	3: Feist (33.33%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: DCG (40.62%)
+	2: UM7 (37.50%)
+	3: ARL (21.88%)
+Top year
+	1: 09 (40.62%)
+	2: 21 (37.50%)
+	3: 22 (21.88%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   32.000000     32.000000     32.000000         32.000000    32.000000   32.000000  32.000000  32.000000
+mean    47.468750      0.736195      0.568281          0.181628     0.040094  118.052312   0.422394   0.338506
+std     10.850849      0.289117      0.149825          0.240165     0.014348   29.984751   0.251111   0.197588
+min     33.000000      0.003170      0.223000          0.000029     0.028000   67.349000   0.030900   0.091200
+25%     38.750000      0.727500      0.495500          0.004732     0.033200   94.621750   0.222500   0.205750
+50%     46.500000      0.860500      0.598000          0.055550     0.034900  118.095500   0.393000   0.302000
+75%     56.250000      0.907250      0.691750          0.282250     0.042650  139.448750   0.592250   0.412000
+max     67.000000      0.966000      0.794000          0.666000     0.102000  179.578000   0.963000   0.929000

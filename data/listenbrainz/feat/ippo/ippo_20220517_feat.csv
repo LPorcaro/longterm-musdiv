@@ -1,0 +1,93 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+4EisHKHtmZ2Sa5z2e1kYEp	Christina Perri	sea of lovers	USAT21400024	42	dance pop,neo mellow,pop,pop rock,post-teen pop,viral pop	0.538	0.301	0.0	0.0528	177.641	0.336	0.569
+2DdBoqYiuaGWIHwSkiY3VR	chloe moriondo	I Eat Boys	USAT22101000	50	alt z,bedroom pop,indie pop	0.0499	0.523	0.0	0.0274	91.728	0.167	0.537
+2xrfQEmMGnZ1GmLh8LbYkO	Irving Kaufman	Masculine Women! Feminine Men!	TCADL1870125	27	vintage jazz	0.984	0.813	7.38e-06	0.0634	103.061	0.907	0.28
+3U5JVgI2x4rDyHGObzJfNf	Natasha Bedingfield	Unwritten	GBARL0400707	74	dance pop,europop,neo mellow,pop,pop rock,post-teen pop	0.00584	0.706	0.0	0.0399	100.011	0.629	0.8
+4b1yxSdlumA8N4fEk4UOZp	Stephanie Beatriz,Olga Merediz,Encanto - Cast	The Family Madrigal	USWD12112911	79		0.12	0.594	0.0	0.359	141.391	0.556	0.628
+29bhnde7Gvnp7rvY9zsq5S	Go_A	SHUM	QM4TX2159313	67	eurovision	0.05	0.527	7.89e-05	0.0638	117.657	0.503	0.736
+2OvatSTHbdCybDA0o93mPo	Winona Oak	SHE	USAT22006212	49	alt z,electropop,pop,swedish pop	0.0439	0.667	0.000466	0.0822	113.984	0.212	0.666
+5FQ9NDyx3KZXhovWWq4Gxo	Mitski	Should've Been Me	USJ5G2125009	66	brooklyn indie	0.00615	0.51	0.000485	0.0258	89.812	0.569	0.63
+5VDmaEUjH0SGBDDjYgoxHW	Maude Latour	Lola	USWB12103709	52	alt z,indie pop,nyc pop	0.0988	0.589	0.00317	0.0389	158.988	0.773	0.631
+4rjfTRp7SzHIAUk69YCXV6	Isabel Pless	Bechdel Test	QZ93L2127848	42	gen z singer-songwriter	0.711	0.542	0.0	0.0548	159.417	0.526	0.361
+0KmgJyW4GDgonqsoyx0CZ3	Conan Gray	Astronomy	USUM72106337	75	bedroom pop,pop	0.593	0.471	2.11e-05	0.0273	145.252	0.111	0.335
+62huvdhV6tAeHbfvf8dg5k	Rio Romeo	Small Towns	QZES81824254	36	indie pop,weirdcore	0.965	0.544	0.0	0.0854	204.238	0.128	0.232
+0zRbpXPxUa4NYgr85otaXz	Tom McGovern	It Was Ahoy (Kapp'n Song)	QZNWZ2113412	27		0.136	0.553	0.174	0.0283	184.064	0.734	0.728
+0LgUSrM3TSlqmsEWAyTHZx	Elysewood	Golden	ushm92004422	37		0.242	0.676	0.0	0.0293	100.066	0.766	0.769
+1n4tH9hz9tGkTUtHkINp4L	Lilith Czar	King	USYFZ2145503	43		0.000508	0.465	0.00116	0.0423	99.066	0.402	0.727
+7uN0LhfBLfE06JExG0sQ9y	Dream Hotel	Cherry Blossoms	ushm22173919	35		0.799	0.611	0.0	0.0359	151.94	0.659	0.146
+2nzpysIiw3HL91SW7afYMa	Sarah Smallwood Parsons	The Song That No One Likes	TCAEP1915747	31		0.857	0.492	0.0	0.0451	91.205	0.539	0.21
+161STYXzOpKwC0lA1IWE3V	delian	Sappho	CAGOO2101105	38		0.938	0.701	1.25e-06	0.343	89.005	0.311	0.116
+4zST4MdaolCPl6DWcFn6Ot	John-Allison Weiss	How to Be Alone	USZZ81310033	27		0.000168	0.627	0.0831	0.0379	107.985	0.48	0.863
+1Soa5Axg9Ob0XVYNqXhisX	Hayley Kiyoko	Mr. Brightside	USAT22106956	44	alt z,art pop,dance pop,electropop,indie pop,indie poptimism,pop,post-teen pop	0.439	0.513	0.0	0.0461	147.783	0.463	0.651
+52xJxFP6TqMuO4Yt0eOkMz	Carolina Gaitán - La Gaita,Mauro Castillo,Adassa,Rhenzy Feliz,Diane Guerrero,Stephanie Beatriz,Encanto - Cast	We Don't Talk About Bruno	USWD12112915	84		0.357	0.577	0.0	0.0834	205.863	0.83	0.45
+0dC398mtRHnfNavtQIExLe	molly ofgeography	Mile Magnificent	usl4r1932408	39		0.231	0.555	0.0	0.0352	82.655	0.582	0.613
+3cwda2JXAaAJoD712iP4t3	Tiny Stills	Everything Is Going Great	SEYOK1945038	40		0.0256	0.616	0.00476	0.0341	130.967	0.548	0.74
+4tauhQw0nziyEQoZhGHbPq	Shugo Tokumaru,John John Festival	Sally Gally - song ver.	TCJPJ1998951	24	j-indie,japanese indie folk,japanese singer-songwriter	0.743	0.374	4.86e-06	0.044	143.208	0.338	0.242
+6EPwUdSSi8ExTZvoR7ITg3	Vampire Weekend	Harmony Hall	USSM11900111	46	baroque pop,indie rock,modern rock	0.476	0.652	0.000128	0.0476	98.007	0.599	0.76
+5hqAvAnXa8NHvl8sVVRdcf	Natalia Zukerman	Loved Like That	USLWP1200210	0	ectofolk	0.682	0.573	3.01e-05	0.154	92.338	0.655	0.684
+47d2mzkc3bPUD93NB0gKLR	Emma Thompson,Peigi Barker	"Noble Maiden Fair (A Mhaighdean Bhan Uasal) - From ""Brave""/Soundtrack"	USWD11262920	45	show tunes	0.98	0.291	1.34e-05	0.0413	125.472	0.265	0.0309
+3zwMVvkBe2qIKDObWgXw4N	Taylor Swift	right where you left me - bonus track	USUG12004720	74	pop	0.769	0.581	0.000106	0.0282	137.915	0.645	0.619
+6jJm5ar849nIzCIcM403ok	Peach Face	Grilled Cheese	TCAEA1817895	41		0.854	0.759	0.0	0.0379	108.03	0.548	0.212
+6HDXFkw0NuGIArYvOdAxUd	Cast of Galavant	"Galavant - From ""Galavant"""	USHR11436146	30		0.63	0.343	1.11e-06	0.0733	135.125	0.404	0.825
+4PDJDIdWxNN1AlnbrKkoPf	Crawlers	Come Over (Again)	GB8MX2100935	67	indie pop,warrington indie	0.00393	0.498	0.0	0.0278	93.018	0.235	0.713
+4L0SjCacljkjNtmM9Hvo3Y	emmy curie	Heroes	CAHQJ2008544	42	dream smp	0.92	0.758	0.0	0.291	119.757	0.68	0.11
+6qXM63MqfsATteIuCVMXvu	MARINA	Man's World	USAT22001218	60	art pop,dance pop,electropop,metropopolis,pop,uk alternative pop	0.401	0.496	0.0	0.0307	110.078	0.226	0.709
+1ehzWR9ScnFF1PsCPiCubN	AlicebanD	Fight for Me	TCAAX1110133	35	steampunk	0.534	0.587	0.0	0.0588	125.27	0.545	0.487
+0CTNLJMN9dMG4cl5qgsZSv	The Highwomen,Brandi Carlile,Natalie Hemby,Maren Morris,Amanda Shires,Yola	Highwomen	USAT21903996	54	new americana	0.77	0.554	2.6e-06	0.0548	95.598	0.346	0.47
+7iyERrbWY3u531Arvdo7Wv	MALINDA	Scarborough Fair	QZK6P2143179	38		0.854	0.274	5.86e-05	0.0333	115.368	0.172	0.303
+1lWWoec2z1j88GRblI5anV	Måneskin	ZITTI E BUONI	ITB002100112	64	indie rock italiano,italian pop	0.0014	0.62	0.0	0.0863	103.024	0.592	0.944
+4oSpiXhK8QKLWyku7bruYK	Erin McKeown	The Queer Gospel	US2LT1655506	25	ectofolk,folk,lilith,women's music	0.342	0.542	0.0	0.0413	114.142	0.344	0.453
+6SRsiMl7w1USE4mFqrOhHC	Olivia Rodrigo	brutal	USUG12101242	80	pop	0.0311	0.672	1.37e-06	0.0599	123.999	0.28	0.526
+40SAX0PsB63EqZLybkzlSX	CircusP,SOLARIA	Dawn	QM42K2215412	33	otacore	0.256	0.703	1.74e-05	0.0533	126.055	0.485	0.694
+0jLXCr4iz0e2aw0zcOlPxA	Kabaret Sybarit	Rattlesnake	DK5L71500102	41	dark cabaret,steampunk	0.212	0.769	0.0	0.0383	110.013	0.766	0.694
+3EstVlh6d0KRY7hqFMSLh0	Fat Bard	Our Life	QZGWX2055764	37		0.704	0.746	0.000172	0.0396	130.056	0.679	0.476
+4ZjCl1QB8VxPjkFPwSlrbi	Carson James Argenna	Pride First	DEE862100879	30		0.199	0.619	0.0	0.0683	78.757	0.54	0.534
+4JyZnltqvgBqTRLCMxj6Kk	Baggio,Hannah Kol	If We Were Vampires	NLXG22000002	28		0.904	0.619	0.0	0.0298	89.038	0.417	0.273
+5QdalXJNUevxn1jWtaL3Tc	Shawlin Supreme & the Kick Back Boys	Vampire Chick	QZ85M1929735	34		0.25	0.667	2.03e-05	0.0661	101.917	0.496	0.444
+6WTkZhN1QGh1cd6Fwe0ryR	Thoushaltnot	The Haunted Phonograph	USHK90926012	41	dark cabaret,steampunk	0.534	0.699	9.5e-06	0.125	90.705	0.581	0.692
+2sL9oNbbcToqV7CKnpHUzm	Mom Rock	Grand Romantic Life	QZES61925597	46		0.00466	0.722	0.00068	0.104	107.583	0.464	0.532
+2Jok5Npfn0LOIHw3GYMim0	Johnny Hollow	Bloodsuckers	ushm21467661	35	dark cabaret,steampunk	0.465	0.654	0.000132	0.0307	130.091	0.444	0.527
+4MQ7V1fsBco09rkhCFBE6V	The Format	Does Your Cat Have A Mustache?	CAN110700977	34	emo,indie pop	0.506	0.526	2.35e-05	0.0558	99.98	0.429	0.605
+0SaiBUaBe0AXfsUU0XOxhE	Felix Hagan & the Family	Tough to Be a Dreamer	GB26W1700211	41	english indie rock,indie rockism	0.093	0.594	0.0	0.0439	126.97	0.602	0.862
+73nOluA2ZPnTnG22VEBqvK	Pierz Barry	Please Be Angry	SE59D2152301	42		0.105	0.496	3.67e-05	0.0375	139.929	0.153	0.46
+6VGnKsXhFekwBOAnIY8cFM	Ivory Layne	Green (Secret Songbook Sessions)	TCADP1818377	35	indie poptimism,indiecoustica,nashville singer-songwriter	0.0293	0.606	4.07e-06	0.0314	120.036	0.686	0.768
+2KEfnqq0wATQc8S1mrFTcf	Lady Lamb	We've Got a Good Thing Going	USCPT2014901	33	bubblegrunge,indie pop,indie singer-songwriter,maine indie	0.0264	0.537	3.19e-05	0.0287	107.977	0.425	0.629
+2OZVUfl8K0Ijw32bUf1fG4	Sidney Gish	What Do You Want from Me Tonight?	QZ4JJ1718039	41	anti-folk,bedroom pop,boston indie,bubblegrunge,indie pop,indie rock,new jersey indie	0.657	0.552	0.0	0.0318	90.0	0.619	0.236
+70pR33sXKRNO7161FwQrI3	St.Arnaud	Big Winner	CACB12100091	17		0.361	0.704	0.000132	0.0272	102.908	0.586	0.637
+6sPKqGNTcuRQUbLyqU0nTR	Nicholas Podany	For Misha	ushm92001438	30		0.828	0.51	0.000114	0.0708	95.566	0.32	0.473
+003ejyjzZZWNN66LtIuzew	Bardcore	Montero (Call Me By Your Name) [Medieval Version]	QZGWX2172785	32	bardcore	0.908	0.65	0.849	0.0327	120.019	0.386	0.313
+09UHuQPIRbjSZwhqGVRpzB	softy,Kaspa.	Gentle Soul	GBKQU2176087	52	lo-fi beats	0.935	0.655	0.782	0.0309	139.997	0.385	0.18
+3t7WxA4LH9eakGVOxb5sz6	Gerardo Millán,Natasha Ghosh	Cozy Sunday	GBKQU2237581	54		0.79	0.718	0.831	0.0357	124.052	0.227	0.145
+04t3EAB6cc8HmPXm191XR0	Tibeauthetraveler	it's ok	GBKQU2185867	56		0.664	0.645	0.594	0.0462	74.014	0.0963	0.25
+6IGZfMBeujDxmEhL9Tfvkv	Towerz,edelwize	Buds of May	GBKQU2221372	57		0.949	0.631	0.932	0.0454	144.034	0.262	0.13
+12IQYkecuPvmrDAxEY5J8g	Purrple Cat	Midnight Snack	TCAES2036546	54	chill out	0.615	0.763	0.845	0.0568	119.989	0.273	0.236
+6qQzYpm1vaSbjgNcrzT1z5	Pointy Features,Kanisan,softy	Afloat	GBKQU2139062	57	lo-fi beats	0.957	0.696	0.844	0.0569	68.004	0.129	0.198
+725A0TgRtyBMLDuNs8g7dt	S N U G	Lustre	GBKQU2183094	44	japanese chillhop	0.91	0.646	0.867	0.0487	174.079	0.054	0.351
+22BGuOkVg5ooua3U04kuIC	Raimu	Meditative Flow	GBLV62112382	38	anime lo-fi,japanese chillhop	0.582	0.654	0.888	0.0383	68.032	0.14	0.0822
+58uGPzMynb4201O29pmDLS	Plant Guy	Over The Bridge	GBKQU2219759	48		0.715	0.528	0.89	0.568	169.384	0.0668	0.12
+15StZq2W8WmjIKBDSr5TCU	Miramare,Clément Matrat	Ocean Drift	GBLV62009654	45		0.937	0.5	0.914	0.0838	160.445	0.223	0.127
+2zC9Ak7zKKjPhDYdDpcfQl	Kinissue,No Spirit	Everything about you	GBKQU2232681	52	focus beats	0.923	0.545	0.925	0.0312	67.008	0.0811	0.114
+05ADDax5IsMSbqutjd1NAs	Thaehan	Grains of Sand	GBKQU2116289	46	lo-fi beats	0.496	0.629	0.885	0.107	164.314	0.198	0.228
+5bVRJOKzW3AcURehniGRyz	amies,cxlt.	Fireflies	GBKQU2171107	52		0.923	0.683	0.932	0.0494	74.989	0.0758	0.122
+5AIAWorc5sausRFiIeV9z9	Rudy Raw,Sátyr,Phlocalyst	Liquid Spots	GBKQU2173033	54	lo-fi jazzhop	0.731	0.642	0.866	0.308	75.01	0.493	0.35
+7yuWy1VVjcOHvHQhPYOcr2	No Spirit	Exhale	GBLV62118106	52		0.88	0.524	0.912	0.0883	141.832	0.112	0.164
+6DStHlA6sSXNQrMUHTzKGs	Louk,Glimlip	How Have You Been	GBKQU2140166	43	lo-fi jazzhop	0.929	0.417	0.608	0.382	169.996	0.221	0.164
+0yRNmjpJBxxTrrhXYLkAXv	Hoogway,softy	Lune	GBKQU2186443	54		0.899	0.592	0.94	0.0284	139.882	0.124	0.124
+5AErGdzCKq7JsgfVcR0xRs	Living Room,Mondo Loops	Seven	GBKQU2181817	40	lo-fi jazzhop	0.957	0.513	0.941	0.0341	140.037	0.0838	0.106
+3HB3fRJjVWiBrt3rnv0MB8	Phlocalyst,Mr. Käfer	Sparkling Brooks	GBLV62122217	41		0.934	0.632	0.954	0.0373	75.992	0.269	0.0888
+4m7WmpoaiWWAfGajlVTOCm	S N U G,Nuver	Dazed	GBKQU2111750	40	japanese chillhop	0.768	0.742	0.929	0.129	93.888	0.113	0.233
+00Vsf8TJHRcEne8mFkfvb2	Elijah Lee	Introspection	GBKQU2153597	54		0.681	0.789	0.956	0.0661	127.126	0.824	0.311
+0wn2ZDRWmvsDtDBp9F6SAr	Towerz,edelwize	to fall	GBKQU2194972	38		0.989	0.462	0.933	0.0477	198.244	0.172	0.0702
+1uUZf0Yvuivmhwnb1gwdVI	Loafy Building,Project AER	Warm Shimmers	GBKQU2154703	40		0.96	0.617	0.905	0.0284	100.007	0.049	0.214
+5BBMFqj9QeTG41EUrpd7tW	Hevi,Stuffed Tomato	Beyond The Dreams	GBKQU2107942	54		0.682	0.677	0.916	0.0442	139.971	0.175	0.103
+5LK6bp487xgYrCX8fjHQT7	Krynoze,Sweet Medicine,Hoogway	Deep In Motion	GBKQU2202480	39		0.991	0.547	0.945	0.0301	129.998	0.0377	0.111
+3WXMrOw2iD9bb5cFNyjif7	BVG,møndberg	Waterfall	GBKQU2189470	40	lo-fi chill
+35lrGsuPTyUh8s6mYiztHe	juniorodeo,azula,Delayde	Marine Layer	GBLV62106367	54		0.707	0.64	0.9	0.0386	146.038	0.229	0.304
+3Cf1dq8a9ez9i9jdgVhV6t	Purrple Cat	Thunder Nap	GBKQU2237570	54	chill out	0.254	0.705	0.889	0.0348	122.009	0.127	0.311
+0qE6tpNdNyuAJm81BHaYKm	Joriah Kwamé,Allie Grace	Ordinary	usl4q2038569	47		0.385	0.596	0.0	0.0489	109.893	0.694	0.468
+666yeZ1GZ4tkVK2qhPSzCL	Isak Danielson	Remember To Remember Me	SEUM72000354	47	pop,swedish singer-songwriter	0.799	0.499	0.0	0.0331	95.971	0.231	0.463
+1SC5rEoYDGUK4NfG82494W	Lil Nas X	MONTERO (Call Me By Your Name)	USSM12100531	83	lgbtq+ hip hop,pop	0.293	0.593	0.0	0.22	178.781	0.71	0.503
+17T3fSrYIKAoRtONh46QR5	Annapantsu	Hellfire	QZK6M1919534	45	otacore	0.59	0.36	0.0	0.0354	118.121	0.238	0.287
+0R5pOgkclZWEetpBjNiMBx	Baby FuzZ	Cig	GBKPL1936590	44		0.744	0.48	0.0	0.0334	79.757	0.222	0.311
+3590AAEoqH50z4UmhMIY85	Måneskin	Torna a casa	ITB001800483	67	indie rock italiano,italian pop	0.426	0.425	0.0	0.0759	81.396	0.45	0.638
+1aYa7h4ZDvxkmz3HdCfE4f	Rosie Tucker	Ambrosia	US3DF1999237	30	bubblegrunge,indie pop	0.736	0.472	6.48e-06	0.0314	139.55	0.127	0.284

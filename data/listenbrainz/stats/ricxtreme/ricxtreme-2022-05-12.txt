@@ -1,0 +1,45 @@
+Electronic artists found: SAINt JHN,Imanbek, Hippie Sabotage, Travis Scott, The Underdog Project,Summermix, Midsplit,No-One,bhea,A-SHO, LEOWI
+Electronic genres found: slap house, electronic trap, edm, pop edm, lithuanian edm
+Electronic music logs found: 13.85% 
+
+Top genres
+	1: dance pop (10.26%)
+	2: pop (10.26%)
+	3: hip hop tuga (7.92%)
+	4: pop rap (5.28%)
+	5: urban contemporary (5.28%)
+Top artists
+	1: Bárbara Bandeira (0.72%)
+	2: Dathan (0.72%)
+	3: Madonna (0.72%)
+	4: Jack Asher Sato (0.72%)
+	5: Bangers Only (0.72%)
+Top country
+	1: US (47.69%)
+	2: PT (17.69%)
+	3: GB (7.69%)
+	4: QM (6.92%)
+	5: QZ (6.92%)
+Top record
+	1: UM7 (10.77%)
+	2: SM1 (6.15%)
+	3: AT2 (5.38%)
+	4: 2HA (3.85%)
+	5: 7SR (3.85%)
+Top year
+	1: 18 (16.15%)
+	2: 20 (13.85%)
+	3: 19 (13.85%)
+	4: 21 (9.23%)
+	5: 08 (5.38%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  130.000000    130.000000    130.000000        130.000000   130.000000  130.000000  130.000000  130.000000
+mean    58.446154      0.285276      0.679000          0.048530     0.128673  118.091254    0.465527    0.597854
+std     15.461912      0.276756      0.139297          0.149553     0.113348   24.502406    0.222489    0.147089
+min     24.000000      0.000177      0.356000          0.000000     0.028100   67.443000    0.038000    0.181000
+25%     45.000000      0.039700      0.580250          0.000000     0.046275   99.112000    0.274250    0.508250
+50%     56.500000      0.181500      0.694000          0.000001     0.076600  119.997500    0.445500    0.605000
+75%     73.000000      0.475750      0.783500          0.001915     0.189000  131.810750    0.645000    0.695000
+max     94.000000      0.966000      0.951000          0.870000     0.547000  173.999000    0.956000    0.931000

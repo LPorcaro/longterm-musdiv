@@ -1,0 +1,45 @@
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: belgian edm, edm, tropical house
+Electronic music logs found: 4.76% 
+
+Top genres
+	1: pop (10.87%)
+	2: hip hop tuga (6.52%)
+	3: musica portuguesa contemporanea (4.35%)
+	4: canadian pop (4.35%)
+	5: forro (4.35%)
+Top artists
+	1: Quarteto Em Cy (3.70%)
+	2: Ivandro (3.70%)
+	3: Chico Buarque (3.70%)
+	4: MPB4 (3.70%)
+	5: Bárbara Tinoco (3.70%)
+Top country
+	1: US (38.10%)
+	2: PT (19.05%)
+	3: BR (9.52%)
+	4: QM (9.52%)
+	5: QZ (4.76%)
+Top record
+	1: UM7 (9.52%)
+	2: SM1 (9.52%)
+	3: 9GN (4.76%)
+	4: NWT (4.76%)
+	5: 7VG (4.76%)
+Top year
+	1: 21 (33.33%)
+	2: 18 (14.29%)
+	3: 22 (14.29%)
+	4: 20 (9.52%)
+	5: 17 (9.52%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000      21.00000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    62.857143       0.43419      0.630238          0.000276     0.118724  119.992952   0.540586   0.617952
+std     24.775564       0.27950      0.127619          0.000478     0.154315   30.794738   0.232365   0.195770
+min     15.000000       0.01880      0.309000          0.000000     0.028800   81.672000   0.085300   0.214000
+25%     51.000000       0.25500      0.568000          0.000000     0.040200   97.014000   0.357000   0.492000
+50%     68.000000       0.46800      0.663000          0.000005     0.055800  107.821000   0.530000   0.671000
+75%     81.000000       0.60400      0.700000          0.000411     0.115000  139.315000   0.680000   0.747000
+max    100.000000       0.93600      0.854000          0.001580     0.716000  173.930000   0.932000   0.907000

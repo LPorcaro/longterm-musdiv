@@ -1,0 +1,45 @@
+Electronic artists found: Róisín Murphy, Jessie Ware, Bonnie Tyler
+Electronic genres found: electronica, tropical house, disco
+Electronic music logs found: 7.69% 
+
+Top genres
+	1: pop (14.61%)
+	2: dance pop (13.48%)
+	3: electropop (7.30%)
+	4: art pop (7.30%)
+	5: post-teen pop (2.81%)
+Top artists
+	1: Dua Lipa (1.72%)
+	2: Conan Gray (1.72%)
+	3: Stevie Nicks (1.72%)
+	4: (G)I-DLE (1.72%)
+	5: Lady Gaga (1.72%)
+Top country
+	1: US (38.46%)
+	2: GB (19.23%)
+	3: QZ (11.54%)
+	4: QM (7.69%)
+	5: TC (3.85%)
+Top record
+	1: UM7 (21.15%)
+	2: SM1 (9.62%)
+	3: AT2 (5.77%)
+	4: RC1 (5.77%)
+	5: KPL (3.85%)
+Top year
+	1: 20 (25.00%)
+	2: 19 (21.15%)
+	3: 21 (17.31%)
+	4: 18 (7.69%)
+	5: 22 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   52.000000     52.000000     52.000000         52.000000    52.000000   52.000000  52.000000  52.000000
+mean    51.750000      0.144813      0.676173          0.025420     0.069438  116.600481   0.538558   0.688346
+std     16.299735      0.210684      0.122367          0.116113     0.049276   20.377457   0.214859   0.143159
+min      8.000000      0.001160      0.103000          0.000000     0.026200   78.028000   0.027400   0.287000
+25%     39.750000      0.016350      0.645500          0.000000     0.039325  100.689750   0.402000   0.628000
+50%     53.500000      0.058500      0.685000          0.000002     0.049350  113.991500   0.560000   0.695500
+75%     63.500000      0.160250      0.745250          0.000200     0.088725  127.954750   0.681250   0.793750
+max     84.000000      0.912000      0.867000          0.737000     0.269000  168.995000   0.926000   0.923000

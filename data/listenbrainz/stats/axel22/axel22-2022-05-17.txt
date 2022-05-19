@@ -1,0 +1,45 @@
+Electronic artists found: Dubdogz,Brannco,Rodrigo Luca, Alan Walker, Alok,Zeeba,Bruno Martini, Moby,Debbie Harry, David Guetta,Sam Martin, Avicii, Axwell /\ Ingrosso,Axwell,Sebastian Ingrosso
+Electronic genres found: slap house, brazilian edm, electronica, edm, tropical house, downtempo, brazilian bass, electro house
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: dance pop (14.71%)
+	2: edm (14.71%)
+	3: pop (14.71%)
+	4: pop dance (14.71%)
+	5: electro house (11.76%)
+Top artists
+	1: Alan Walker (6.67%)
+	2: Brannco (6.67%)
+	3: Sam Martin (6.67%)
+	4: Axwell (6.67%)
+	5: Moby (6.67%)
+Top country
+	1: US (22.22%)
+	2: CH (22.22%)
+	3: GB (22.22%)
+	4: NO (11.11%)
+	5: TC (11.11%)
+Top record
+	1: UG1 (22.22%)
+	2: 313 (22.22%)
+	3: G84 (11.11%)
+	4: ADU (11.11%)
+	5: Z54 (11.11%)
+Top year
+	1: 15 (22.22%)
+	2: 13 (22.22%)
+	3: 14 (22.22%)
+	4: 18 (11.11%)
+	5: 17 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    60.111111      0.083820      0.569889          0.000089     0.040733  133.062556  0.362000  0.787333
+std     16.127961      0.116281      0.071133          0.000157     0.006692   17.714021  0.133873  0.080092
+min     25.000000      0.000380      0.467000          0.000000     0.033100  123.992000  0.159000  0.627000
+25%     57.000000      0.028100      0.545000          0.000004     0.034300  124.915000  0.286000  0.757000
+50%     66.000000      0.050500      0.569000          0.000008     0.038700  128.031000  0.383000  0.780000
+75%     68.000000      0.086600      0.629000          0.000051     0.045700  130.000000  0.458000  0.851000
+max     77.000000      0.383000      0.668000          0.000462     0.051700  179.642000  0.568000  0.891000

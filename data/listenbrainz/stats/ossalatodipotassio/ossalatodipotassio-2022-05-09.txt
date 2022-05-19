@@ -1,0 +1,45 @@
+Electronic artists found: Marshmello,Khalid
+Electronic genres found: edm, brostep, progressive electro house
+Electronic music logs found: 2.94% 
+
+Top genres
+	1: modern rock (12.79%)
+	2: pop (10.47%)
+	3: rock (9.30%)
+	4: dance pop (3.49%)
+	5: permanent wave (3.49%)
+Top artists
+	1: Conan Gray (3.57%)
+	2: iamnotshane (3.57%)
+	3: The Strokes (3.57%)
+	4: Montaigne (3.57%)
+	5: The Young Veins (3.57%)
+Top country
+	1: US (41.18%)
+	2: GB (20.59%)
+	3: QZ (8.82%)
+	4: QM (8.82%)
+	5: CA (5.88%)
+Top record
+	1: AT2 (20.59%)
+	2: UM7 (14.71%)
+	3: K3W (5.88%)
+	4: SM1 (5.88%)
+	5: RC1 (5.88%)
+Top year
+	1: 19 (14.71%)
+	2: 16 (11.76%)
+	3: 18 (11.76%)
+	4: 09 (8.82%)
+	5: 17 (8.82%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   34.000000     34.000000     34.000000         34.000000    34.000000   34.000000  34.000000  34.000000
+mean    56.852941      0.268747      0.574088          0.032148     0.077862  127.391676   0.444282   0.635853
+std     15.370441      0.314813      0.121028          0.158677     0.104968   22.251735   0.233126   0.224996
+min     11.000000      0.000362      0.292000          0.000000     0.023300   80.870000   0.079400   0.193000
+25%     50.000000      0.011325      0.517500          0.000000     0.033100  112.770250   0.256000   0.418750
+50%     57.500000      0.153000      0.559500          0.000006     0.043450  129.984000   0.461000   0.706000
+75%     67.750000      0.413500      0.647750          0.000704     0.064225  140.005750   0.610750   0.823000
+max     85.000000      0.971000      0.837000          0.924000     0.526000  170.021000   0.961000   0.959000

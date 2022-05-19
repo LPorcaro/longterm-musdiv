@@ -1,0 +1,45 @@
+Electronic artists found: Timmy Trumpet, Babalos, Carnage,NAZAAR,Murda,Coone, Refuzion, Cascada,Hardwell,Maurice West
+Electronic genres found: euphoric hardstyle, electronic trap, german techno, progressive psytrance, edm, melbourne bounce international, eurodance, electro house, classic hardstyle, melbourne bounce
+Electronic music logs found: 21.43% 
+
+Top genres
+	1: pop rap (8.33%)
+	2: rap (7.29%)
+	3: dance pop (7.29%)
+	4: hip hop (6.25%)
+	5: trap (5.21%)
+Top artists
+	1: Murda (2.78%)
+	2: Dua Lipa (2.78%)
+	3: Babalos (2.78%)
+	4: Megan Thee Stallion (2.78%)
+	5: Cascada (2.78%)
+Top country
+	1: US (39.29%)
+	2: GB (10.71%)
+	3: QZ (7.14%)
+	4: BE (7.14%)
+	5: NL (7.14%)
+Top record
+	1: UM7 (14.29%)
+	2: IR1 (14.29%)
+	3: B68 (7.14%)
+	4: CE3 (7.14%)
+	5: RC1 (7.14%)
+Top year
+	1: 18 (17.86%)
+	2: 21 (17.86%)
+	3: 22 (10.71%)
+	4: 19 (7.14%)
+	5: 15 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   28.000000     28.000000     28.000000         28.000000    28.000000   28.000000  28.000000  28.000000
+mean    69.142857      0.146316      0.672464          0.018499     0.154739  128.378929   0.521375   0.737893
+std     13.555686      0.194889      0.189365          0.046842     0.114528   27.156170   0.283931   0.135930
+min     44.000000      0.001040      0.294000          0.000000     0.030900   86.003000   0.039500   0.415000
+25%     58.250000      0.025700      0.547500          0.000000     0.047250  101.553250   0.329250   0.643000
+50%     73.000000      0.046050      0.715500          0.000000     0.118000  129.476500   0.569500   0.777500
+75%     82.000000      0.189000      0.817500          0.000073     0.228500  146.271750   0.690000   0.838750
+max     84.000000      0.789000      0.930000          0.173000     0.409000  185.002000   0.950000   0.947000

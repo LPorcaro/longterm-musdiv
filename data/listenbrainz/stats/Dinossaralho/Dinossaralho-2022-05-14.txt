@@ -1,0 +1,44 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: r&b en espanol (11.11%)
+	2: cante alentejano (3.70%)
+	3: folclore portugues (3.70%)
+	4: musica portuguesa contemporanea (3.70%)
+	5: alternative rock (3.70%)
+Top artists
+	1: ROSALÍA (10.00%)
+	2: MARO (10.00%)
+	3: Grupo Coral de Cantares Regionais de Portel (10.00%)
+	4: First Aid Kit (10.00%)
+	5: The Black Keys (10.00%)
+Top country
+	1: US (45.45%)
+	2: PT (36.36%)
+	3: BR (9.09%)
+	4: QM (9.09%)
+Top record
+	1: SM1 (45.45%)
+	2: OV1 (9.09%)
+	3: UM7 (9.09%)
+	4: NO1 (9.09%)
+	5: RUS (9.09%)
+Top year
+	1: 21 (36.36%)
+	2: 14 (18.18%)
+	3: 20 (18.18%)
+	4: 03 (9.09%)
+	5: 22 (9.09%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   11.000000     11.000000     11.000000         11.000000    11.000000   11.000000  11.000000  11.000000
+mean    54.363636      0.473970      0.655909          0.002065     0.107873  108.693273   0.628364   0.590545
+std     26.774139      0.394078      0.119788          0.004496     0.105289   30.607578   0.219663   0.221992
+min      9.000000      0.005370      0.479000          0.000000     0.027800   81.161000   0.376000   0.295000
+25%     38.000000      0.028150      0.579000          0.000003     0.033050   86.540000   0.416500   0.413500
+50%     60.000000      0.553000      0.638000          0.000024     0.040200   99.988000   0.595000   0.618000
+75%     77.000000      0.837500      0.723000          0.000168     0.195000  121.503500   0.775000   0.746500
+max     80.000000      0.947000      0.856000          0.011600     0.286000  179.905000   0.957000   0.940000

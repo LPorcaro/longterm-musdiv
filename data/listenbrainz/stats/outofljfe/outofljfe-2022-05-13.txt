@@ -1,0 +1,42 @@
+Electronic artists found: Icona Pop,Charli XCX
+Electronic genres found: edm
+Electronic music logs found: 11.11% 
+
+Top genres
+	1: pop (25.00%)
+	2: dance pop (17.86%)
+	3: auckland indie (7.14%)
+	4: kiwi rock (7.14%)
+	5: post-teen pop (7.14%)
+Top artists
+	1: Charli XCX (9.09%)
+	2: Bruno Mars (9.09%)
+	3: Mark Ronson (9.09%)
+	4: Katy Perry (9.09%)
+	5: Taylor Swift (9.09%)
+Top country
+	1: US (44.44%)
+	2: AU (22.22%)
+	3: GB (22.22%)
+	4: SE (11.11%)
+Top record
+	1: UM7 (55.56%)
+	2: CJY (22.22%)
+	3: ARL (11.11%)
+	4: WEE (11.11%)
+Top year
+	1: 14 (44.44%)
+	2: 11 (22.22%)
+	3: 13 (22.22%)
+	4: 12 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    61.444444      0.028968      0.675000          0.000028     0.061311  115.510333  0.620444  0.694778
+std     16.171820      0.034382      0.118439          0.000037     0.021876   16.691425  0.230812  0.104015
+min     35.000000      0.003140      0.498000          0.000000     0.028400   90.949000  0.353000  0.585000
+25%     62.000000      0.008010      0.645000          0.000002     0.051300   96.009000  0.500000  0.609000
+50%     65.000000      0.010100      0.711000          0.000004     0.052100  125.916000  0.583000  0.678000
+75%     73.000000      0.046700      0.752000          0.000074     0.064600  125.930000  0.824000  0.710000
+max     81.000000      0.085000      0.856000          0.000082     0.105000  131.931000  0.960000  0.906000

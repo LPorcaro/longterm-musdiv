@@ -1,0 +1,45 @@
+Electronic artists found: R3HAB,Vini Vici,PANGEA,DEGO, Tiësto,Ava Max, Lost Frequencies,Calum Scott, Hippie Sabotage, Avicii,iSHi, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Lucas & Steve,Haris
+Electronic genres found: slap house, belgian edm, electronic trap, edm, tropical house, pop edm, brostep, electro house, dutch edm, dutch house, progressive electro house
+Electronic music logs found: 10.53% 
+
+Top genres
+	1: pop (11.27%)
+	2: hip hop tuga (10.56%)
+	3: dance pop (6.34%)
+	4: edm (4.23%)
+	5: rap (3.17%)
+Top artists
+	1: DEGO (0.80%)
+	2: Juice WRLD (0.80%)
+	3: iSHi (0.80%)
+	4: Aerosmith (0.80%)
+	5: Cherish (0.80%)
+Top country
+	1: US (48.25%)
+	2: PT (24.56%)
+	3: GB (9.65%)
+	4: QZ (5.26%)
+	5: NL (2.63%)
+Top record
+	1: SM1 (13.16%)
+	2: UM7 (11.40%)
+	3: AT2 (6.14%)
+	4: UG1 (6.14%)
+	5: 7SR (5.26%)
+Top year
+	1: 21 (28.07%)
+	2: 22 (18.42%)
+	3: 20 (14.91%)
+	4: 19 (14.04%)
+	5: 18 (7.89%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  114.000000    114.000000    114.000000        114.000000   114.000000  114.000000  114.000000  114.000000
+mean    69.473684      0.261230      0.669833          0.032819     0.129144  118.555465    0.482079    0.655904
+std     19.777618      0.255542      0.149687          0.114406     0.105902   28.664673    0.255793    0.159761
+min     20.000000      0.001070      0.376000          0.000000     0.027800   72.017000    0.038300    0.232000
+25%     48.500000      0.039300      0.564250          0.000000     0.046975   95.764000    0.263000    0.550000
+50%     76.000000      0.181000      0.701000          0.000000     0.082300  113.541000    0.470000    0.685000
+75%     87.000000      0.427750      0.791750          0.000079     0.189000  138.022500    0.669500    0.748000
+max    100.000000      0.959000      0.915000          0.709000     0.438000  195.100000    0.956000    0.962000

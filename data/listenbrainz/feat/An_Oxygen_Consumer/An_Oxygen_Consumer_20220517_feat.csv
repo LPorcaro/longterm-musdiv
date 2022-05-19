@@ -1,0 +1,88 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+2bZNwQvu1GQn0DvytrSwUx	Elephanz	The Catcher in the Rye	FRP9Y1700006	55	french indie pop,french indietronica,nantes indie,new french touch,nouvelle chanson francaise	0.522	0.676	0.000167	0.0432	121.297	0.301	0.514
+1Og2Qi5XwYdr0YI6rn79Zb	Love	Everybody’s Gotta Live	QMEF91350061	57	acid rock,art rock,classic rock,country rock,experimental,folk,folk rock,psychedelic rock,rock,roots rock	0.607	0.805	0.0	0.0961	105.873	0.281	0.281
+0DiWol3AO6WpXZgp0goxAV	Daft Punk	One More Time	GBDUW0000053	75	electro,filter house	0.0194	0.613	0.0	0.133	122.746	0.476	0.697
+6OWqJFlT8UGuQZ6YxMc45d	Pinguini Tattici Nucleari	Monopoli	ITB001900120	39	bergamo indie,italian indie pop,italian pop,milan indie	0.176	0.644	0.0	0.0419	170.006	0.693	0.722
+5GRUMkOPUWzzqNTBRNfqt4	Pinguini Tattici Nucleari	Bergamo	ITB002000024	49	bergamo indie,italian indie pop,italian pop,milan indie	0.187	0.615	9e-06	0.0332	140.051	0.349	0.603
+7sbjnwEBqqEoo1Qq7DN0Fm	Pinguini Tattici Nucleari	Sashimi	ITB001900097	36	bergamo indie,italian indie pop,italian pop,milan indie	0.17	0.784	0.0	0.0508	110.012	0.906	0.89
+6nl2T8YjOdFFnQ4xBHXfdm	The Kiffness,Boombox	Oy U Luzi Chervona Kalyna - Army Remix	QZDA82242232	60	cape town indie,south african pop,south african pop dance	0.511	0.799	0.0	0.0737	120.021	0.647	0.531
+4l2cybnuXksxxKzCCSDPfV	Go_A	Kalyna	PLUM72200102	54	eurovision	0.00237	0.609	0.000123	0.0303	125.002	0.194	0.776
+50Cf2eYv8zT3v2HAkwhIiL	Subwoolfer	Give That Wolf A Banana	NOUM72100322	72		0.2	0.737	2.78e-06	0.0411	124.075	0.554	0.526
+2vHzOWRKYPLu8umRPIFuOq	KALUSH	Stefania (Kalush Orchestra)	DEE862200344	74	ukrainian hip hop,ukrainian pop,ukrainian rock	0.145	0.832	0.00169	0.0422	104.985	0.324	0.817
+63idiVcxkGB3hgH6n3qKqM	Zdob si Zdub,Fratii Advahov	Trenulețul (cu Frații Advahov)	ROCRP2105661	65	gypsy punk,moldovan pop,romanian rock,russian rock	0.406	0.701	2.44e-05	0.142	141.975	0.955	0.884
+3V9aCzb0dOvuLHRerJ8sJI	Pinguini Tattici Nucleari	Sciare	ITXEH1700002	42	bergamo indie,italian indie pop,italian pop,milan indie	0.361	0.678	7.56e-06	0.0343	109.964	0.639	0.862
+67iAlVNDDdddxqSD2EZhFs	The Proclaimers	I'm Gonna Be (500 Miles)	GBAYK8800055	70	celtic rock,scottish rock	0.151	0.851	0.0	0.0396	131.922	0.807	0.551
+3Fcfwhm8oRrBvBZ8KGhtea	Coldplay	Viva La Vida	GBAYE0800265	67	permanent wave,pop	0.0954	0.486	3.23e-06	0.0287	138.015	0.417	0.617
+3dYD57lRAUcMHufyqn9GcI	Hozier	Take Me To Church	IEACJ1300031	80	irish singer-songwriter,modern rock,pop	0.634	0.566	0.0	0.0464	128.945	0.437	0.664
+2Y0iGXY6m6immVb2ktbseM	MGMT	Little Dark Age	USSM11707035	80	alternative dance,indie rock,indietronica,modern rock,rock	0.0102	0.705	0.000855	0.0385	97.512	0.62	0.712
+7vOgeTXzf58jQdV5127Kfu	Fauve	HAUT LES COEURS	FR9W11304079	47	french indie pop,french rock	0.0445	0.8	0.0	0.186	110.007	0.486	0.744
+42tQUVtqTGkwcCThHvAbUu	Ren	Money Game, Pt. 2	NL1AP2037464	49	brighton indie	0.629	0.887	0.0	0.331	98.0	0.753	0.496
+31pSgG2jcAcqhAaDAxmWtq	Pinguini Tattici Nucleari	Freddie	ITB001900125	41	bergamo indie,italian indie pop,italian pop,milan indie	0.38	0.604	0.0	0.0319	160.062	0.32	0.596
+5yfE6GXTuJaAlepKoE0wJE	Pinguini Tattici Nucleari	Ringo Starr	ITB002000021	57	bergamo indie,italian indie pop,italian pop,milan indie	0.304	0.754	0.0	0.0512	114.077	0.857	0.925
+4i1dHHVPuhUeButfnhCyPF	Pinguini Tattici Nucleari	Nonono	ITB001900121	45	bergamo indie,italian indie pop,italian pop,milan indie	0.447	0.816	0.0	0.0681	95.005	0.829	0.897
+5LZVK19ieaV8Mk9FsqTL3F	Pinguini Tattici Nucleari	Ridere	ITB002000022	64	bergamo indie,italian indie pop,italian pop,milan indie	0.0493	0.713	0.0	0.0378	116.909	0.72	0.902
+5Z7zi9u1T4HMq1GW885qwt	Willie Peyote	Hikikomori	IT97U2200011	43	italian hip hop,italian indie pop,rap napoletano,turin indie	0.0314	0.775	0.0275	0.0604	109.978	0.368	0.591
+6r4trs53kcupkbVCxhqDhu	Willie Peyote	La casa dei fantasmi	IT97U2200010	43	italian hip hop,italian indie pop,rap napoletano,turin indie	0.225	0.591	0.0	0.369	84.379	0.556	0.689
+2MOm69sL4OoDnhCc1lhQBN	Willie Peyote,Michela Giraud	Fare schifo (feat. Michela Giraud)	IT97U2200002	45	italian hip hop,italian indie pop,rap napoletano,turin indie	0.121	0.679	0.0	0.206	106.98	0.573	0.69
+5tVnb1FNyFtMQd9u5GMaYk	Willie Peyote	Sempre lo stesso film	IT97U2200013	44	italian hip hop,italian indie pop,rap napoletano,turin indie	0.141	0.645	4.23e-06	0.225	96.745	0.157	0.511
+1Zy3zVoAUa4RUU9dpihxw5	Willie Peyote,Fast Animals and Slow Kids	Robespierre	IT97U2200012	43	italian hip hop,italian indie pop,rap napoletano,turin indie	0.0345	0.606	0.0	0.237	150.121	0.186	0.675
+0GjEhVFGZW8afUYGChu3Rr	ABBA	Dancing Queen	SEAYD7601020	79	europop,swedish pop	0.358	0.543	0.000939	0.0428	100.804	0.754	0.87
+4euAGZTszWPrriggYK0HG9	ABBA	Lay All Your Love On Me	SEAYD8001090	68	europop,swedish pop	0.117	0.678	0.00396	0.0258	133.481	0.71	0.727
+2tBJjWPeVthyObVtca2ZeY	Pinguini Tattici Nucleari	Giulia	ITB002000604	54	bergamo indie,italian indie pop,italian pop,milan indie	0.536	0.682	0.0	0.0258	108.019	0.609	0.644
+1CYze2EUH7hohc4azJPl4m	Pinguini Tattici Nucleari	Ahia!	ITB002000605	46	bergamo indie,italian indie pop,italian pop,milan indie	0.836	0.625	0.0	0.0302	130.116	0.391	0.328
+71r3UlkV7sWvUYjas5paqi	Pinguini Tattici Nucleari	Scrivile Scemo	ITB002000601	65	bergamo indie,italian indie pop,italian pop,milan indie	0.123	0.617	0.0	0.0317	135.091	0.552	0.916
+52iBgsRsYbZrD698HPtK8q	Willie Peyote,Samuel	Diventare grandi (feat. Samuel)	IT97U2200008	44	italian hip hop,italian indie pop,rap napoletano,turin indie	0.0431	0.703	6.6e-06	0.102	96.894	0.314	0.48
+4fj2KDfrh58nfn2fMk22b1	Willie Peyote,Emanuela Fanelli	Risarcimento skit (feat. Emanuela Fanelli)	IT97U2200007	42	italian hip hop,italian indie pop,rap napoletano,turin indie	0.584	0.681	0.0	0.523	82.891	0.554	0.424
+4Ip9hR1xlH7OB8Rj4OleqG	Pinguini Tattici Nucleari	Gioventù Brucata	ITXEH1700003	38	bergamo indie,italian indie pop,italian pop,milan indie	0.025	0.538	9.58e-05	0.0948	74.999	0.619	0.924
+3tzkix8NzsuixinusDOphJ	Pinguini Tattici Nucleari	Lake Washington Boulevard	ITB001900119	42	bergamo indie,italian indie pop,italian pop,milan indie	0.235	0.708	0.0	0.0368	109.971	0.807	0.745
+6keRNvHKCOhmySQa1jCX8P	KALUSH,Tember Blanche	Калуські вечорниці (feat. Tember Blanche)	RUA012101495	56	ukrainian hip hop,ukrainian pop,ukrainian rock	0.0796	0.836	0.000685	0.124	119.946	0.474	0.721
+3VVZQQhjaVyhszJctiwYW6	Pinguini Tattici Nucleari	L'uomo che inventò il fuoco	ITXEH1700005	39	bergamo indie,italian indie pop,italian pop,milan indie	0.621	0.712	2.08e-06	0.173	100.034	0.717	0.771
+2r1SRt8bhtR6a9bMRR0AgV	Pinguini Tattici Nucleari	La storia infinita	ITB002000477	56	bergamo indie,italian indie pop,italian pop,milan indie	0.169	0.701	0.0	0.0411	89.986	0.651	0.744
+0bKDQionn4VKcgNKbs4SWX	Pinguini Tattici Nucleari	Pastello Bianco	ITB002000603	69	bergamo indie,italian indie pop,italian pop,milan indie	0.451	0.546	0.0	0.0339	139.875	0.378	0.652
+0IueCAa7AbmICEdmOpByO1	Pinguini Tattici Nucleari	Bohémien	ITB002000602	52	bergamo indie,italian indie pop,italian pop,milan indie	0.13	0.667	0.0	0.0841	160.021	0.672	0.893
+5Hyr47BBGpvOfcykSCcaw9	Bonnie Tyler	"Holding Out for a Hero - From ""Footloose"" Soundtrack"	USSM18300449	71	disco,europop,new wave pop,soft rock	0.0245	0.616	1.13e-05	0.04	150.055	0.895	0.685
+3vkQ5DAB1qQMYO4Mr9zJN6	ABBA	Gimme! Gimme! Gimme! (A Man After Midnight)	SEAYD7901120	78	europop,swedish pop	0.02	0.749	0.00899	0.0403	119.528	0.536	0.491
+0lR7Q2MqeeEl6LxCmEOf05	Sabaton	Rorke's Drift	DED831600522	50	metal,power metal,swedish metal,swedish power metal	3.45e-05	0.511	0.00114	0.0928	130.042	0.318	0.986
+6HlcJ8rDBZiIyzrfTkCY8R	Sabaton	The Lost Battalion	DED831600521	55	metal,power metal,swedish metal,swedish power metal	0.00233	0.403	0.0	0.108	175.906	0.391	0.967
+1vyV7cxMnu5BEEEANpJy7u	Pinguini Tattici Nucleari	Verdura	ITB001900001	39	bergamo indie,italian indie pop,italian pop,milan indie	0.0879	0.685	0.0	0.0551	159.974	0.855	0.878
+4j28HlqskUp6naVlNW9g35	Pinguini Tattici Nucleari	La banalità del mare	ITB001900124	40	bergamo indie,italian indie pop,italian pop,milan indie	0.416	0.768	0.0	0.0359	104.964	0.509	0.804
+63T7DJ1AFDD6Bn8VzG6JE8	The Rolling Stones	Paint It, Black	USA176610020	77	british invasion,classic rock,rock	0.0493	0.464	0.00244	0.0926	158.691	0.612	0.795
+3kDxSkpXfASIeYuHdYxA6k	Murubutu	La notte di San Bartolomeo	ITI021800772	26	indie rock italiano,italian hip hop,italian indie pop,italian underground hip hop	0.473	0.692	1.38e-06	0.0777	80.004	0.697	0.881
+4P6g27LvaQ4GIF8sxn2grB	Go_A	Шум	QM4TW2122400	51	eurovision	0.0143	0.471	0.00011	0.0518	114.981	0.405	0.661
+6J8IwGX3oHi7x9B57vmMMW	Bow Wow Wow	I Want Candy	GBARL8200001	42	new romantic,new wave,new wave pop	0.00623	0.686	0.0625	0.0642	109.984	0.76	0.649
+69O3FLsnM3zi5czOZGL70B	Harry Nilsson	Spaceman	USRC10600100	43	art rock,brill building pop,classic rock,classic uk pop,country rock,folk,folk rock,mellow gold,rock,roots rock,singer-songwriter,soft rock	0.161	0.563	0.0	0.0518	81.271	0.607	0.697
+29bhnde7Gvnp7rvY9zsq5S	Go_A	SHUM	QM4TX2159313	67	eurovision	0.05	0.527	7.89e-05	0.0638	117.657	0.503	0.736
+3kPZhqKGlLMnh3wxEATr6C	Traditional,Le Chœur Voyageur,Alexis Duffaure	Ievan Polkka	CH6541788923	36	sleep	0.541	0.62	0.0	0.115	117.522	0.926	0.178
+10UlU5E5RfydywnKmA1nFL	The Real McKenzies	Chip	USFW40873101	57	canadian celtic,canadian punk,celtic rock,punk,shanty,skate punk,vancouver punk	0.00294	0.43	1.34e-06	0.0435	159.981	0.892	0.887
+5SGm0Q5Wur9mhpXnbzaPjG	Pinguini Tattici Nucleari	Tetris	ITXEH1700012	50	bergamo indie,italian indie pop,italian pop,milan indie	0.68	0.668	4.67e-06	0.0625	114.98	0.668	0.82
+5g6nzsOxwxdoj6sqAl0NXB	The Weather Girls	It's Raining Men	USSM19913325	61	disco,hi-nrg	0.315	0.682	0.000718	0.121	136.27	0.611	0.925
+0QKfiqpEU4h9ycPSzIFwYe	Michael Sembello	Maniac	USPR38302462	70	hi-nrg	0.0891	0.617	4.04e-06	0.0651	158.86	0.835	0.533
+1P6TlFb8EVH2nCX3luVpZW	Pinguini Tattici Nucleari	Scooby Doo	ITB002000600	60	bergamo indie,italian indie pop,italian pop,milan indie	0.0477	0.74	0.0	0.137	135.071	0.773	0.743
+40kPi5XMLrlVONe2EE2y6a	Pete Seeger	John Brown's Body	USSF10215010	29	american folk revival,appalachian folk,banjo,folk,folk rock,old-time,traditional folk	0.84	0.632	0.0	0.0385	117.072	0.815	0.434
+5oxTzgRZTVgss1cKrEd0tN	Sabaton	40:1	SE2EG1000404	52	metal,power metal,swedish metal,swedish power metal	6.97e-05	0.462	0.000605	0.0868	130.119	0.539	0.941
+2Foc5Q5nqNiosCNqttzHof	Daft Punk,Pharrell Williams,Nile Rodgers	Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit	USQX91300809	82	electro,filter house	0.0426	0.794	1.07e-06	0.038	116.047	0.862	0.811
+2L1n4QtvMOoi3QCA3rDnhO	Public Image Ltd.	This Is Not A Love Song	GBAAA8300231	30	alternative rock,art rock,experimental,new romantic,new wave,new wave pop,post-punk,punk,uk post-punk	0.00869	0.691	0.000469	0.0505	129.473	0.778	0.602
+3qrEG6rQ9Qm72MNWeUKKiU	Silver	Wham Bam Shang-A-Lang	USAR17600150	64		0.353	0.65	0.0	0.0355	121.454	0.943	0.759
+4u7EnebtmKWzUH433cf5Qv	Queen	Bohemian Rhapsody - Remastered 2011	GBUM71029604	79	classic rock,glam rock,rock	0.271	0.414	0.0	0.0499	71.105	0.224	0.404
+2BY7ALEWdloFHgQZG6VMLA	Looking Glass	Brandy (You're a Fine Girl)	USSM10903222	72	soft rock,sunshine pop	0.396	0.716	1.97e-05	0.0601	125.276	0.826	0.625
+7kv7zBjMtVf0eIJle2VZxn	Glen Campbell	Southern Nights	USCN17600069	67	adult standards,arkansas country,brill building pop,classic country pop,folk,folk rock,mellow gold,nashville sound,soft rock	0.0989	0.697	0.0232	0.0315	95.301	0.85	0.813
+5T8EDUDqKcs6OSOwEsfqG7	Queen	Don't Stop Me Now - Remastered 2011	GBUM71029610	79	classic rock,glam rock,rock	0.0475	0.559	0.000176	0.17	156.295	0.609	0.868
+0WVTQp3SOCuMr08jh1jweV	Sam Cooke	Bring It On Home to Me	USRC16206739	64	adult standards,brill building pop,classic soul,rock-and-roll,soul	0.778	0.523	0.0	0.0305	70.863	0.675	0.402
+5e9TFTbltYBg2xThimr0rU	Fleetwood Mac	The Chain - 2004 Remaster	USWB11301116	78	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.009	0.545	0.000822	0.0496	151.553	0.481	0.67
+46MX86XQqYCZRvwPpeq4Gi	Aliotta Haynes Jeremiah	Lake Shore Drive	uscgh0554198	63	classic rock	0.204	0.434	0.0	0.0396	93.999	0.843	0.885
+252YuUdUaC5OojaBU0H1CP	Jay & The Americans	Come A Little Bit Closer	USEM38500084	63	adult standards,brill building pop,bubblegum pop,doo-wop,folk rock,merseybeat,rock-and-roll	0.52	0.636	0.0015	0.057	132.509	0.881	0.684
+476V2d6iA2tWXgQboKmTtA	Yusuf / Cat Stevens	Father And Son	GBUM71905972	71	british folk,classic rock,folk,folk rock,mellow gold,rock,singer-songwriter,soft rock	0.541	0.495	8.85e-05	0.0365	136.243	0.371	0.326
+2RlgNHKcydI9sayD2Df2xp	Electric Light Orchestra	Mr. Blue Sky	USSM17200399	78	album rock,art rock,beatlesque,classic rock,glam rock,mellow gold,rock,soft rock,symphonic rock	0.652	0.388	3.73e-06	0.0329	177.765	0.478	0.338
+1zDYm7mDxRZJRoDFbZ6jVE	Anonymous,Obsidienne,Emmanuel Bonnardot	Le roy anglois	FR6V51600550	12		0.92	0.252	0.000678	0.0732	130.778	0.171	0.311
+66TsQdpn3KuBjuqAxyILRf	Declan Welsh and The Decadent West	Absurd	GBER71900193	43	glasgow indie,scottish indie rock	0.000579	0.673	0.0048	0.0429	132.992	0.587	0.574
+19fmNTCdISUWBzgLqBuM0W	Pinguini Tattici Nucleari	Gigi cinque ottavi	ITXEH1700011	25	bergamo indie,italian indie pop,italian pop,milan indie	0.514	0.578	0.000624	0.0618	200.164	0.618	0.772
+2JeQN06RJrdNTh5LpCPBHq	Pinguini Tattici Nucleari	Irene	ITXEH1700006	49	bergamo indie,italian indie pop,italian pop,milan indie	0.349	0.68	0.0	0.0417	120.016	0.535	0.622
+6seWrefl4VwldoqogHNe6Q	Pinguini Tattici Nucleari	Scatole	ITB001900122	41	bergamo indie,italian indie pop,italian pop,milan indie	0.546	0.692	0.0	0.0317	110.14	0.495	0.528
+4sE5wzpPd4s8kTdtVC18lY	Pinguini Tattici Nucleari	Nonono	ITB001900121	54	bergamo indie,italian indie pop,italian pop,milan indie	0.451	0.816	0.0	0.0682	95.005	0.83	0.897
+0vjEvTiqbbKXlTAuG0pgqT	Pinguini Tattici Nucleari	Monopoli	ITB001900120	47	bergamo indie,italian indie pop,italian pop,milan indie	0.177	0.645	0.0	0.0418	170.011	0.691	0.721
+4vseCIz3IuhWMQW9XiBnHC	Pinguini Tattici Nucleari	La banalità del mare	ITB001900124	51	bergamo indie,italian indie pop,italian pop,milan indie	0.414	0.768	0.0	0.036	104.967	0.51	0.804
+7otRlKJ3NDzhl04KLmaN93	Pinguini Tattici Nucleari	Sashimi	ITB001900097	35	bergamo indie,italian indie pop,italian pop,milan indie	0.171	0.784	0.0	0.051	110.009	0.909	0.889
+5TJkvCxUoFeVICuDxWDfgd	Pinguini Tattici Nucleari	79	ITXEH1700009	30	bergamo indie,italian indie pop,italian pop,milan indie	0.602	0.597	0.0	0.0383	79.827	0.732	0.737
+2dLLR6qlu5UJ5gk0dKz0h3	Lorde	Royals	NZUM71200031	76	art pop,dance pop,electropop,metropopolis,nz pop,pop	0.121	0.674	0.0	0.122	84.878	0.337	0.428
+39m87lOMd5ccENPVvAT7gH	Sabaton	Bismarck	SE6HE1900101	62	metal,power metal,swedish metal,swedish power metal	0.00346	0.505	0.0012	0.0431	95.036	0.434	0.859
+34YTjOjyJOg8e0HyIHHKpw	Sabaton	Blood of Bannockburn	DED831600519	48	metal,power metal,swedish metal,swedish power metal	0.000364	0.484	6.72e-05	0.0883	95.992	0.426	0.972

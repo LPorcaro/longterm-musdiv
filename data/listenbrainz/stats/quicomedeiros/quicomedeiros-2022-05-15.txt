@@ -1,0 +1,45 @@
+Electronic artists found: Travis Scott, Gigi D'Agostino, Eiffel 65,Gabry Ponte, Mike Posner,Seeb, Avicii, Otto Knows, O-Zone, Bob Sinclar,Gary Pine, David Guetta,Akon, Years & Years, David Guetta,Akon,Ne-Yo, Fedde Le Grand, Yves Larock
+Electronic genres found: slap house, disco house, edm, tropical house, eurodance, electro house, progressive house, italo dance, dutch house, deep house, progressive electro house
+Electronic music logs found: 14.75% 
+
+Top genres
+	1: dance pop (11.54%)
+	2: pop (11.09%)
+	3: pop rap (9.05%)
+	4: hip hop tuga (4.07%)
+	5: rap (4.07%)
+Top artists
+	1: Nayer (0.95%)
+	2: Kesha (0.95%)
+	3: benji price (0.95%)
+	4: Holly Hood (0.95%)
+	5: Gabry Ponte (0.95%)
+Top country
+	1: US (53.28%)
+	2: PT (10.66%)
+	3: GB (8.20%)
+	4: ES (6.56%)
+	5: QM (4.92%)
+Top record
+	1: UM7 (22.13%)
+	2: AT2 (7.38%)
+	3: 71G (6.56%)
+	4: SM1 (5.74%)
+	5: RC1 (4.92%)
+Top year
+	1: 19 (12.30%)
+	2: 18 (11.48%)
+	3: 09 (10.66%)
+	4: 10 (9.02%)
+	5: 20 (8.20%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  122.000000    122.000000    122.000000        122.000000   122.000000  122.000000  122.000000  122.000000
+mean    64.877049      0.152106      0.713164          0.007948     0.110942  123.689697    0.587386    0.752443
+std     15.803848      0.187500      0.111391          0.051693     0.093346   21.248608    0.211162    0.139085
+min     22.000000      0.000079      0.279000          0.000000     0.026500   81.039000    0.047700    0.414000
+25%     51.250000      0.021300      0.648000          0.000000     0.049600  105.952000    0.458500    0.666000
+50%     71.000000      0.067300      0.723500          0.000000     0.065800  126.039000    0.610000    0.766000
+75%     76.750000      0.222500      0.796500          0.000093     0.157000  130.091000    0.743750    0.869750
+max     88.000000      0.735000      0.908000          0.503000     0.450000  189.868000    0.948000    0.975000

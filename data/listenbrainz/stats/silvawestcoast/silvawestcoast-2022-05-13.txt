@@ -1,0 +1,45 @@
+Electronic artists found: PIKASONIC,4*, MOTi, nanobii, Kirara Magic, PIKASONIC,DanK, PIKASONIC, Hyper Potions,Mega Flare,Slyleaf, Kyrrin, Blasterjaxx,Raven & Kreyn, Couple N,miraie, Stessie
+Electronic genres found: slap house, edm, tropical house, pop edm, gaming edm, electro house, future bass, kawaii edm, dutch house, kawaii future bass
+Electronic music logs found: 28.89% 
+
+Top genres
+	1: anime (10.92%)
+	2: anime score (10.92%)
+	3: ghibli (10.92%)
+	4: japanese classical (10.92%)
+	5: japanese soundtrack (10.92%)
+Top artists
+	1: Hyper Potions (3.57%)
+	2: 中ノ森文子 (3.57%)
+	3: Mike Taylor (3.57%)
+	4: DanK (3.57%)
+	5: 佐咲紗花 (3.57%)
+Top country
+	1: JP (46.67%)
+	2: QZ (20.00%)
+	3: NL (6.67%)
+	4: CA (6.67%)
+	5: QM (6.67%)
+Top record
+	1: TK0 (33.33%)
+	2: FZ3 (8.89%)
+	3: PO0 (8.89%)
+	4: 6D2 (6.67%)
+	5: Z8V (4.44%)
+Top year
+	1: 18 (13.33%)
+	2: 20 (11.11%)
+	3: 13 (11.11%)
+	4: 22 (8.89%)
+	5: 17 (8.89%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   45.000000     45.000000     45.000000         45.000000    45.000000   45.000000  45.000000  45.000000
+mean    40.377778      0.528340      0.499220          0.423006     0.060849  115.015667   0.382287   0.531124
+std     18.685542      0.401376      0.159154          0.418627     0.058884   30.497720   0.247792   0.321362
+min     12.000000      0.000845      0.099900          0.000000     0.025400   71.277000   0.039200   0.046300
+25%     26.000000      0.032300      0.389000          0.009320     0.035000   93.469000   0.180000   0.230000
+50%     32.000000      0.658000      0.507000          0.266000     0.039700  112.214000   0.384000   0.385000
+75%     55.000000      0.879000      0.605000          0.877000     0.058300  130.071000   0.454000   0.872000
+max     83.000000      0.987000      0.855000          0.962000     0.404000  185.080000   0.963000   0.967000

@@ -1,0 +1,80 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+2FeBslNBMdR9V58uv6hd2t	Kendrick Lamar	N95	USUM72208963	84	conscious hip hop,hip hop,rap,west coast rap	0.377	0.79	2.32e-06	0.105	139.956	0.408	0.67
+05zd5Nv0e02ZqrlC8A2cwx	Kendrick Lamar	United In Grief	USUM72208961	83	conscious hip hop,hip hop,rap,west coast rap	0.244	0.529	0.0	0.404	85.63	0.331	0.845
+21qG1xDCjJDZZ6Gffjpjt2	24kGoldn	Yellow Lights	USQX92100618	47	cali rap,pop rap	0.279	0.714	0.0	0.0468	150.071	0.582	0.796
+58QhkbaAkLFnn7JwAnAato	Eminem	Fall	USUM71813341	65	detroit hip hop,hip hop,rap	0.227	0.83	0.0	0.295	182.973	0.535	0.546
+4KDNRh9Oor80z3XIxdWlui	Young Thug,Drake,Travis Scott	Bubbly (with Drake & Travis Scott)	USAT22106845	74	atl hip hop,atl trap,gangster rap,hip hop,melodic rap,pop rap,rap,southern hip hop,trap	0.0536	0.91	0.0	0.257	129.011	0.599	0.585
+1Faq8G2y56A8fRv7HsLq25	NAV,Lil Uzi Vert	Wanted You (feat. Lil Uzi Vert)	USUG11702054	64	canadian hip hop,canadian trap,hip hop,melodic rap,rap,toronto rap,trap,vapor trap	0.229	0.797	0.0	0.0479	146.93	0.623	0.731
+7IMwEtpAiJanqF6vQteZN2	NAV,Gunna,Travis Scott	Turks (with Gunna & ft. Travis Scott)	USUM72003472	64	canadian hip hop,canadian trap,hip hop,melodic rap,rap,toronto rap,trap,vapor trap	0.0808	0.894	0.0	0.129	119.1	0.379	0.618
+05nbZ1xxVNwUTcGwLbp7CN	NAV	Myself	USUM71701686	69	canadian hip hop,canadian trap,hip hop,melodic rap,rap,toronto rap,trap,vapor trap	0.648	0.749	1.26e-06	0.171	80.032	0.0859	0.398
+7zxRMhXxJMQCeDDg0rKAVo	NAV,The Weeknd	Some Way	USUM71701371	70	canadian hip hop,canadian trap,hip hop,melodic rap,rap,toronto rap,trap,vapor trap	0.101	0.744	0.0	0.351	154.962	0.34	0.715
+6nO3tr47nr2P7f3hXb8JIo	NAV,Travis Scott	Champion (feat. Travis Scott)	USUM71806667	70	canadian hip hop,canadian trap,hip hop,melodic rap,rap,toronto rap,trap,vapor trap	0.381	0.642	0.0	0.0477	162.005	0.396	0.782
+3IMZ6j3mlRQYsatEuzt0Y3	Future	Lil Haiti Baby	USSM11600552	41	atl hip hop,rap,southern hip hop,trap	0.0264	0.498	0.0	0.242	137.89	0.382	0.604
+3KyKxJ4P3pVCgaZwaq2rUC	The Weeknd	Gasoline	USUG12106682	73	canadian contemporary r&b,canadian pop,pop	0.000582	0.728	0.00206	0.0473	123.006	0.31	0.741
+7xQAfvXzm3AkraOtGPWIZg	Post Malone	Wow.	USUM71822626	77	dfw rap,melodic rap,rap	0.136	0.829	1.78e-06	0.208	99.96	0.388	0.539
+5cgcfNRYuyUsn2wWOcFO0j	Eminem,Ed Sheeran	River	USUM71712944	46	detroit hip hop,hip hop,rap	0.142	0.748	0.0	0.516	90.09	0.659	0.749
+1sbEeUY8KsdvgiQi26JBFz	DJ Khaled,Drake	POPSTAR (feat. Drake)	USSM12004501	65	dance pop,dirty south rap,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap	0.0558	0.803	0.0	0.235	163.085	0.474	0.565
+12Fkyg9lpmaz2zmKOfw2Y2	Post Malone,Meek Mill,Lil Baby	On The Road (feat. Meek Mill & Lil Baby)	USUM71915729	67	dfw rap,melodic rap,rap	0.0589	0.442	0.0	0.109	112.93	0.21	0.737
+0joQFwiBKmi6X1Iq5R1ubH	Future	Codeine Crazy	USSM11913494	65	atl hip hop,rap,southern hip hop,trap	0.168	0.745	0.0	0.144	125.98	0.185	0.617
+06Gyf2pFDVmN5K8XAawG96	Future,Young Thug	No Cap	USSM11709196	53	atl hip hop,rap,southern hip hop,trap	0.00108	0.8	0.0	0.107	147.057	0.379	0.523
+6vbe3GmRG30x2nraEvHudq	Future,Lil Uzi Vert	Because of You	USAT22007497	49	atl hip hop,rap,southern hip hop,trap	0.445	0.781	0.0	0.0549	132.989	0.518	0.469
+1K5KBOgreBi5fkEHvg5ap3	Future,Drake	Life Is Good (feat. Drake)	USSM11914962	71	atl hip hop,rap,southern hip hop,trap	0.067	0.795	0.0	0.487	142.053	0.537	0.574
+5CpsIb7SMFHjmAG8RvIWfq	Eminem,Skylar Grey	Leaving Heaven (feat. Skylar Grey)	USUM72000790	62	detroit hip hop,hip hop,rap	0.175	0.661	0.0	0.206	171.983	0.509	0.748
+3IFyxYZ0RRPDCkQ1y8GSME	Belly,Travis Scott	White Girls	CACA61500012	50	canadian hip hop,canadian trap,pop rap,rap,trap,trap soul	0.152	0.618	0.0	0.0658	112.886	0.385	0.574
+43CIWpJaJHRcI4mUSjqgc2	Juice WRLD,Young Thug	Bad Boy (with Young Thug)	USUG12002097	70	chicago rap,melodic rap	0.00215	0.697	0.0	0.0533	81.535	0.198	0.674
+4K06PO78fW4mnBVenxGNob	Juice WRLD	Conversations	USUG12001896	71	chicago rap,melodic rap	0.176	0.747	0.0	0.0838	159.93	0.57	0.622
+0apvzeJcPw9mB7iSQIBal5	Belly	The Come Down Is Real Too	QMJMT1701399	33	canadian hip hop,canadian trap,pop rap,rap,trap,trap soul	0.345	0.721	0.0365	0.333	166.096	0.632	0.687
+0INehbMZOFPnaPBAjK97i3	Juice WRLD	I'll Be Fine	USUG11800957	69	chicago rap,melodic rap	0.000616	0.523	0.0	0.0692	159.909	0.277	0.678
+3dhjNA0jGA8vHBQ1VdD6vV	The Weeknd,Daft Punk	I Feel It Coming	USUG11601012	77	canadian contemporary r&b,canadian pop,pop	0.428	0.773	0.0	0.118	92.987	0.585	0.819
+285pBltuF7vW8TeWk8hdRR	Juice WRLD	Lucid Dreams	USUG11800685	82	chicago rap,melodic rap	0.349	0.511	0.0	0.2	83.903	0.218	0.566
+4hTErxf8ZqFNGH0hZqEoAI	SAINt JHN,A Boogie Wit da Hoodie	Monica Lewinsky (feat. A Boogie Wit da Hoodie)	USUYG1268282	64	melodic rap,pop rap,rap,slap house,trap	0.858	0.828	0.0	0.137	106.009	0.369	0.521
+1sOW4PuG5X3Ie3EXUhAopJ	The Weeknd	Escape From LA	USUG12000655	66	canadian contemporary r&b,canadian pop,pop	0.0456	0.404	0.00316	0.0593	145.74	0.168	0.524
+0k1WUmIRnG3xU6fvvDVfRG	Drake,Future,Young Thug	Way 2 Sexy (with Future & Young Thug)	USUG12104403	81	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.000619	0.803	4.5e-06	0.141	136.008	0.331	0.597
+0q2vG0UVuy6ajjcpkQHdZM	Eminem,Young M.A	Unaccommodating (feat. Young M.A)	USUM72000783	63	detroit hip hop,hip hop,rap	0.0169	0.852	0.0	0.0597	89.95	0.389	0.752
+7DKS0rX27cCEPsK0R6tFWS	The Weeknd	Wasted Times	USUG11800564	68	canadian contemporary r&b,canadian pop,pop	0.61	0.56	1.42e-05	0.0581	122.585	0.29	0.678
+7o3Mcis1uKcYDuuJD1W0Rm	The Weeknd	King Of The Fall	USUG12003771	58	canadian contemporary r&b,canadian pop,pop	0.101	0.585	0.0	0.0599	78.018	0.208	0.757
+27GmP9AWRs744SzKcpJsTZ	Drake,Future	Jumpman	USCM51500300	70	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0559	0.852	0.0	0.187	142.079	0.656	0.553
+2C6WXnmZ66tHhHlnvwePiK	Post Malone,Halsey,Future	Die For Me (feat. Future & Halsey)	USUM71918728	68	dfw rap,melodic rap,rap	0.19	0.614	0.0	0.0441	145.01	0.452	0.66
+6yHkPtl6UQ7RjtJLBPzbJw	Future,Rihanna	Selfish (feat. Rihanna)	USSM11701732	57	atl hip hop,rap,southern hip hop,trap	0.0303	0.415	7.64e-06	0.0741	95.746	0.0913	0.369
+3oDkdAySo1VQQG0ptV7uwa	Juice WRLD	Lean Wit Me	USUG11800945	76	chicago rap,melodic rap	0.0414	0.665	0.0	0.156	163.935	0.237	0.651
+2PMYUf7pLMU4OOnzp4xJ84	Belly	Lullaby	QMJMT1701402	36	canadian hip hop,canadian trap,pop rap,rap,trap,trap soul	0.643	0.666	0.0	0.379	85.97	0.369	0.674
+2depzNvnAgMFKYnm3moXIc	Future	Kno The Meaning	USSM11505591	51	atl hip hop,rap,southern hip hop,trap	0.207	0.875	4.87e-06	0.379	100.014	0.318	0.381
+29s4u1adFGLWtGehbR5xkq	Future	Touch The Sky	USSM12002492	49	atl hip hop,rap,southern hip hop,trap	0.0361	0.898	0.0	0.238	83.018	0.266	0.577
+2t5z06k2w9ghTfk1Z3qw4o	GASHI,Devault,Seb Torgus	Running Away (feat. Devault & Seb Torgus)	USRC12002982	30	pop rap,trap soul	0.014	0.525	1.3e-06	0.137	119.785	0.384	0.805
+5m0IbXvcU0WFJC6HVyl78e	24kGoldn	VALENTINO	USQX91803621	36	cali rap,pop rap	0.199	0.746	0.0	0.179	150.964	0.523	0.717
+3CJbxqRQ0JNCqboWDNUUeX	"Eminem,KXNG Crooked,Royce Da 5'9"",Joell Ortiz"	"I Will (feat. KXNG Crooked, Royce Da 5'9"" & Joell Ortiz)"	USUM72000800	58	detroit hip hop,hip hop,rap	0.0454	0.635	0.000678	0.067	98.743	0.036	0.543
+6mq5dsYv8jlBy5yZ8AEUKu	SAINt JHN	Back On The Ledge	ZZOPM2003596	39	melodic rap,pop rap,rap,slap house,trap	0.0399	0.763	0.00227	0.054	126.004	0.162	0.638
+4FgOFhLOz8kJwWuHE58HVw	SAINt JHN	Wedding Day	USUYG1268270	50	melodic rap,pop rap,rap,slap house,trap	0.0387	0.646	1.49e-06	0.0821	160.106	0.514	0.6
+1PxxpjnzU4miVn1ULHlo8L	Future	Stains (Future)	USSM11804741	33	atl hip hop,rap,southern hip hop,trap	0.0278	0.885	0.000318	0.261	148.058	0.275	0.713
+6dVZCbi9CYtD9LjAHXRjIG	Future,Kendrick Lamar	Mask Off (feat. Kendrick Lamar) - Remix	USSM11704884	60	atl hip hop,rap,southern hip hop,trap	0.0122	0.72	0.0126	0.387	150.01	0.228	0.424
+2UqL5OiGs3hfY6W8gudKjm	Future	WE JUS WANNA GET HIGH	USSM12203793	71	atl hip hop,rap,southern hip hop,trap	0.00854	0.827	0.000109	0.21	158.98	0.609	0.634
+53wBhj706wDMNuBj4FJ0RI	Future,EST Gee	CHICKENS (feat. EST Gee)	USSM12203792	72	atl hip hop,rap,southern hip hop,trap	0.0403	0.862	0.0	0.221	148.059	0.624	0.619
+48QmKjg2FI6BfNW7SX1h86	Future	BACK TO THE BASICS	USSM12203798	70	atl hip hop,rap,southern hip hop,trap	0.442	0.765	4.11e-06	0.376	119.919	0.418	0.46
+6wyhUr4Xw8z5uSy0AhoZfU	Future,Drake	I'M ON ONE (feat. Drake)	USSM12203797	80	atl hip hop,rap,southern hip hop,trap	0.0103	0.773	1.04e-05	0.0568	76.977	0.113	0.707
+7HFyGCuGYFmHjxnjujBxM1	Future	THE WAY THINGS GOING	USSM12203796	69	atl hip hop,rap,southern hip hop,trap	0.0234	0.639	1.72e-05	0.261	175.067	0.27	0.743
+7EBg0P4VY9IHBF5hq6WQZS	Future	HOLY GHOST	USSM12203795	71	atl hip hop,rap,southern hip hop,trap	0.0215	0.784	2.27e-05	0.31	157.997	0.293	0.719
+39YXI3na4MIpVZhJj3GFi7	Future,Kodak Black	VOODOO (feat. Kodak Black)	USSM12203794	71	atl hip hop,rap,southern hip hop,trap	0.0686	0.499	1.11e-06	0.381	77.565	0.237	0.404
+2tzgSUZOUKopYbRqQOVT8X	Future	MASSAGING ME	USSM12203791	73	atl hip hop,rap,southern hip hop,trap	0.000189	0.916	0.0	0.158	145.007	0.152	0.453
+4XJRpBOG0bU3Nxnvam3FnC	Future	LOVE YOU BETTER	USSM12203790	75	atl hip hop,rap,southern hip hop,trap	0.478	0.709	0.000294	0.214	75.494	0.544	0.357
+59nOXPmaKlBfGMDeOVGrIK	Future,Drake,Tems	WAIT FOR U (feat. Drake & Tems)	USSM12203789	86	atl hip hop,rap,southern hip hop,trap	0.314	0.463	0.0	0.34	83.389	0.339	0.642
+1Ijpng3ZLhTRcEd8iqh4p4	Future	GOLD STACKS	USSM12203788	72	atl hip hop,rap,southern hip hop,trap	0.00937	0.763	2.25e-06	0.355	181.856	0.362	0.526
+1qMMYpVatbRITKCfq1gasi	Future	PUFFIN ON ZOOTIEZ	USSM12203787	80	atl hip hop,rap,southern hip hop,trap	0.0603	0.883	0.0	0.305	124.992	0.284	0.657
+7HCX1Ch3mklJyEdpwPZBFW	Future,Gunna,Young Thug	FOR A NUT (feat. Gunna & Young Thug)	USSM12203786	73	atl hip hop,rap,southern hip hop,trap	0.00321	0.824	2.65e-06	0.0814	82.037	0.305	0.667
+7rWCWzPRftzZTZtIyQtaDU	Future,Kanye West	KEEP IT BURNIN (feat. Kanye West)	USSM12203270	75	atl hip hop,rap,southern hip hop,trap	0.00861	0.652	0.0	0.161	87.395	0.195	0.578
+0AAVJIN4plafvmNKqRCltG	Future	I'M DAT N****	USSM12203785	75	atl hip hop,rap,southern hip hop,trap	0.0112	0.911	5.83e-05	0.163	144.026	0.145	0.573
+3FSwpQ9dBZBeBV6UdYHI2R	Future	712PM	USSM12203784	77	atl hip hop,rap,southern hip hop,trap	0.0355	0.711	0.0	0.271	146.971	0.536	0.686
+2OsDoAzo5SGq10qwmKSQBv	Future,Juice WRLD,Young Scooter	Jet Lag (feat. Young Scooter)	USSM11808179	61	atl hip hop,rap,southern hip hop,trap	0.266	0.81	0.0	0.105	125.049	0.493	0.458
+2p8IUWQDrpjuFltbdgLOag	The Weeknd	After Hours	USUG12000586	73	canadian contemporary r&b,canadian pop,pop	0.0811	0.664	0.00604	0.0305	108.959	0.143	0.572
+3K0sVapHNSSeJ8o4DLHOJY	Future	In Her Mouth	USSM11600549	42	atl hip hop,rap,southern hip hop,trap	0.0167	0.728	2.12e-05	0.098	159.973	0.365	0.667
+5mtyJSQ7DgXBnvlSEIS4e8	SAINt JHN	I Can Fvcking Tell	USUYG1268278	51	melodic rap,pop rap,rap,slap house,trap	0.72	0.689	1.62e-06	0.0324	97.988	0.236	0.38
+2iSQmITHUdCBQGDgvwEzkY	Juice WRLD	My Life In A Nutshell	USUG12105418	62	chicago rap,melodic rap	0.0126	0.565	0.0	0.0383	142.113	0.188	0.614
+1RcMFiXTuwbv78czGAYY7W	24kGoldn,Swae Lee	Empty (feat. Swae Lee)	USQX92100620	45	cali rap,pop rap	0.419	0.702	8.58e-06	0.0966	169.884	0.382	0.596
+1a7WZZZH7LzyvorhpOJFTe	Juice WRLD,Lil Uzi Vert	Wasted (feat. Lil Uzi Vert)	USUG11800948	76	chicago rap,melodic rap	0.0381	0.742	0.0	0.202	144.994	0.502	0.579
+4w1dIZxwO83XpKo5wgLhkk	The Weeknd	Belong To The World	USUM71308530	41	canadian contemporary r&b,canadian pop,pop	0.00392	0.503	0.0	0.0578	121.008	0.361	0.858
+0FLIBDpU2S5bb6TfMB4NuQ	Eminem	Killer	USUM72024274	58	detroit hip hop,hip hop,rap	0.0184	0.942	0.0	0.256	99.04	0.769	0.757
+2Fq1WjRulkMGB4O1920yCI	SAINt JHN,Lenny Kravitz	Borders (feat. Lenny Kravitz)	USUYG1268279	50	melodic rap,pop rap,rap,slap house,trap	0.255	0.754	0.000207	0.0684	104.225	0.664	0.32
+17Cs25j5Ui6X6W4Hk1kAyC	Juice WRLD	Long Gone	USUG11800955	64	chicago rap,melodic rap	0.208	0.794	7.17e-06	0.0941	149.033	0.266	0.459
+0p0fmKwHHE5SVj5CZoSk8A	Belly,NAV	Re Up	QMJMT1601045	48	canadian hip hop,canadian trap,pop rap,rap,trap,trap soul	0.682	0.753	0.0	0.294	104.061	0.457	0.492
+3Q4gttWQ6hxqWOa3tHoTNi	Drake,Chris Brown	Not You Too (feat. Chris Brown)	USUG12001725	65	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.342	0.458	1.94e-05	0.047	86.318	0.316	0.452
+5hzey1kBGjy3B8tDGcyRTY	Lana Del Rey,The Weeknd	Lust for Life (with The Weeknd)	GBUM71701127	47	art pop,pop	0.58	0.505	0.00336	0.0554	99.919	0.267	0.673
+0hpx0ozSDQlHI2uuI9xAQ1	Belly	Come Down Is Real	CACA61500010	24	canadian hip hop,canadian trap,pop rap,rap,trap,trap soul	0.306	0.669	0.000275	0.0626	120.059	0.182	0.325

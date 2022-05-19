@@ -1,0 +1,44 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: italian hip hop (28.91%)
+	2: italian indie pop (21.09%)
+	3: italian underground hip hop (18.75%)
+	4: rap napoletano (4.69%)
+	5: turin indie (4.69%)
+Top artists
+	1: Mezzosangue (3.12%)
+	2: Sergio Andrei (3.12%)
+	3: Red Sky_Future Music (3.12%)
+	4: Dubeat (3.12%)
+	5: Murubutu (3.12%)
+Top country
+	1: IT (81.13%)
+	2: CH (9.43%)
+	3: US (7.55%)
+	4: TC (1.89%)
+Top record
+	1: UM7 (16.98%)
+	2: 97U (11.32%)
+	3: 654 (9.43%)
+	4: RSE (7.55%)
+	5: YQP (5.66%)
+Top year
+	1: 18 (22.64%)
+	2: 19 (16.98%)
+	3: 21 (15.09%)
+	4: 22 (9.43%)
+	5: 17 (7.55%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   53.000000     53.000000     53.000000         53.000000    53.000000   53.000000  53.000000  53.000000
+mean    31.754717      0.307008      0.671321          0.029567     0.203204  112.035736   0.496130   0.703679
+std     13.711177      0.235720      0.118085          0.091701     0.126999   29.966835   0.222392   0.140140
+min      4.000000      0.008110      0.469000          0.000000     0.047100   77.337000   0.079900   0.411000
+25%     20.000000      0.103000      0.601000          0.000000     0.077400   88.706000   0.312000   0.591000
+50%     33.000000      0.276000      0.643000          0.000000     0.203000  101.941000   0.556000   0.689000
+75%     43.000000      0.459000      0.728000          0.000016     0.324000  125.725000   0.631000   0.827000
+max     59.000000      0.856000      0.941000          0.344000     0.474000  184.029000   0.968000   0.965000

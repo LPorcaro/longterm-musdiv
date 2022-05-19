@@ -1,0 +1,45 @@
+Electronic artists found: Tiësto,Ava Max, Joel Corry,MNEK, Bruno Be,Fancy Inc, Tiësto, Alok,Bastille, Alok,BLOODLINE,The Vamps, Cat Dealers,Guz Zanotto,Moore
+Electronic genres found: slap house, brazilian edm, edm, tropical house, electro house, dutch edm, brostep
+Electronic music logs found: 9.46% 
+
+Top genres
+	1: hip hop tuga (45.99%)
+	2: trap tuga (11.68%)
+	3: rap criolo (7.30%)
+	4: slap house (2.92%)
+	5: dance pop (2.19%)
+Top artists
+	1: Confesser (1.82%)
+	2: T-Rex (1.82%)
+	3: Jvst Fly (1.82%)
+	4: DJ HYPE MYKE (1.82%)
+	5: Phoenix Rdc (1.82%)
+Top country
+	1: PT (58.11%)
+	2: ES (17.57%)
+	3: QM (5.41%)
+	4: GB (4.05%)
+	5: TC (4.05%)
+Top record
+	1: 71G (17.57%)
+	2: 2HA (13.51%)
+	3: 9EV (6.76%)
+	4: UM7 (5.41%)
+	5: 9GN (5.41%)
+Top year
+	1: 20 (31.08%)
+	2: 21 (25.68%)
+	3: 19 (24.32%)
+	4: 17 (8.11%)
+	5: 18 (5.41%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   74.000000     74.000000     74.000000         74.000000    74.000000   74.000000  74.000000  74.000000
+mean    44.459459      0.377546      0.706581          0.009053     0.195519  115.062122   0.439188   0.609122
+std     10.188886      0.240295      0.111055          0.043671     0.134726   22.018072   0.229233   0.160728
+min     30.000000      0.001680      0.478000          0.000000     0.041300   69.129000   0.038300   0.232000
+25%     39.000000      0.190750      0.600000          0.000000     0.064400  100.024250   0.278000   0.520250
+50%     43.000000      0.308000      0.723000          0.000005     0.186000  115.857000   0.411500   0.617000
+75%     45.000000      0.573250      0.798750          0.000227     0.289000  124.992250   0.686000   0.683250
+max     89.000000      0.902000      0.921000          0.267000     0.492000  184.004000   0.905000   0.931000

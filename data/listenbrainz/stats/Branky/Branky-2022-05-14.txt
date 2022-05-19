@@ -1,0 +1,44 @@
+Electronic artists found: Eurythmics,Annie Lennox,Dave Stewart
+Electronic genres found: disco
+Electronic music logs found: 11.11% 
+
+Top genres
+	1: rock (11.63%)
+	2: modern rock (9.30%)
+	3: alternative rock (6.98%)
+	4: blues rock (4.65%)
+	5: garage rock (4.65%)
+Top artists
+	1: Circus Mircus (10.00%)
+	2: Dave Stewart (10.00%)
+	3: Ditonellapiaga (10.00%)
+	4: Donatella Rettore (10.00%)
+	5: The Black Keys (10.00%)
+Top country
+	1: US (33.33%)
+	2: GB (33.33%)
+	3: IT (22.22%)
+	4: DK (11.11%)
+Top record
+	1: NO1 (22.22%)
+	2: DV9 (22.22%)
+	3: PR3 (11.11%)
+	4: ARL (11.11%)
+	5: CEL (11.11%)
+Top year
+	1: 03 (22.22%)
+	2: 21 (22.22%)
+	3: 86 (11.11%)
+	4: 14 (11.11%)
+	5: 11 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    58.444444      0.190270      0.586333          0.005330     0.086756  127.386778  0.594667  0.693111
+std     15.100589      0.235131      0.112668          0.015664     0.103922   24.132006  0.204794  0.159114
+min     40.000000      0.004390      0.427000          0.000000     0.027600   79.965000  0.384000  0.344000
+25%     44.000000      0.007720      0.505000          0.000000     0.031700  122.511000  0.410000  0.657000
+50%     59.000000      0.077800      0.570000          0.000079     0.035600  125.568000  0.565000  0.731000
+75%     67.000000      0.262000      0.671000          0.000214     0.047500  144.247000  0.795000  0.763000
+max     81.000000      0.691000      0.785000          0.047100     0.288000  160.038000  0.875000  0.887000

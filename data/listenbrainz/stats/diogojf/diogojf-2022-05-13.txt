@@ -1,0 +1,42 @@
+Electronic artists found: Yung Bae,bbno$,Billy Marchiafava
+Electronic genres found: future funk
+Electronic music logs found: 4.76% 
+
+Top genres
+	1: canadian hip hop (22.95%)
+	2: dark trap (22.95%)
+	3: vapor trap (22.95%)
+	4: pop rap (9.84%)
+	5: rhode island rap (6.56%)
+Top artists
+	1: Rich Brian (8.33%)
+	2: Night Lovell (8.33%)
+	3: Arizona Zervas (8.33%)
+	4: Billy Marchiafava (8.33%)
+	5: Yung Gravy (8.33%)
+Top country
+	1: QM (61.90%)
+	2: US (28.57%)
+	3: GB (9.52%)
+Top record
+	1: UY4 (52.38%)
+	2: SM1 (19.05%)
+	3: 24S (9.52%)
+	4: KPL (9.52%)
+	5: UM7 (4.76%)
+Top year
+	1: 21 (57.14%)
+	2: 19 (33.33%)
+	3: 20 (4.76%)
+	4: 22 (4.76%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    57.714286      0.236843      0.797429          0.017835     0.172071  122.569048   0.674000   0.646333
+std      9.813984      0.218208      0.118366          0.076490     0.110776   35.876313   0.154315   0.145784
+min     34.000000      0.017300      0.514000          0.000000     0.036400   75.033000   0.379000   0.448000
+25%     53.000000      0.052800      0.753000          0.000000     0.093400   92.036000   0.544000   0.527000
+50%     60.000000      0.113000      0.815000          0.000009     0.129000  112.047000   0.685000   0.592000
+75%     63.000000      0.428000      0.861000          0.000176     0.226000  166.003000   0.781000   0.820000
+max     70.000000      0.623000      0.967000          0.351000     0.391000  172.142000   0.963000   0.851000

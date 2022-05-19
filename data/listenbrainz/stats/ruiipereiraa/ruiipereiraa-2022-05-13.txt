@@ -1,0 +1,45 @@
+Electronic artists found: WizKid, Tinie Tempah,Zara Larsson, Mauro Pastrana, David Guetta,Cedric Gervais,Chris Willis, FractaLL,Tough Art, Cherry,Rocksted, Boney M.
+Electronic genres found: brazilian edm, edm, super eurobeat, tropical house, azonto, disco, kuduro
+Electronic music logs found: 10.39% 
+
+Top genres
+	1: rap (13.08%)
+	2: hip hop (12.24%)
+	3: conscious hip hop (11.81%)
+	4: west coast rap (11.81%)
+	5: rap portuense (3.38%)
+Top artists
+	1: Dua Lipa (1.79%)
+	2: Original Elias (1.79%)
+	3: Chico da Tina (1.79%)
+	4: Daddy Yankee (1.79%)
+	5: Rihanna (1.79%)
+Top country
+	1: US (51.95%)
+	2: PT (10.39%)
+	3: GB (7.79%)
+	4: QM (6.49%)
+	5: QZ (5.19%)
+Top record
+	1: UM7 (45.45%)
+	2: RO1 (7.79%)
+	3: Z05 (3.90%)
+	4: 5AB (3.90%)
+	5: 5KW (2.60%)
+Top year
+	1: 22 (40.26%)
+	2: 19 (11.69%)
+	3: 18 (9.09%)
+	4: 16 (9.09%)
+	5: 15 (6.49%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   77.000000     77.000000     77.000000         77.000000    77.000000   77.000000  77.000000  77.000000
+mean    61.532468      0.262394      0.728584          0.034618     0.212335  130.313481   0.551208   0.659442
+std     18.726975      0.211513      0.116360          0.155290     0.149271   26.297263   0.218797   0.138026
+min     20.000000      0.000282      0.478000          0.000000     0.029200   80.137000   0.109000   0.375000
+25%     46.000000      0.053900      0.625000          0.000000     0.081700  115.937000   0.349000   0.530000
+50%     67.000000      0.274000      0.727000          0.000003     0.178000  124.840000   0.532000   0.680000
+75%     79.000000      0.401000      0.790000          0.000054     0.312000  147.987000   0.685000   0.728000
+max     84.000000      0.866000      0.951000          0.898000     0.626000  189.998000   0.965000   0.965000

@@ -1,0 +1,45 @@
+Electronic artists found: Route 94,Jess Glynne, Bob Sinclar,Molly Hammar, NOËP,CHINCHILLA, Bob Sinclar,Gary Pine,DollarMan, Rudimental,Anne-Marie,Will Heard
+Electronic genres found: disco house, uk funky, edm, tropical house, electro house, estonian electronic
+Electronic music logs found: 25.00% 
+
+Top genres
+	1: pop (13.33%)
+	2: pop rap (6.67%)
+	3: dance pop (6.67%)
+	4: hip hop (5.33%)
+	5: pop dance (5.33%)
+Top artists
+	1: Wiz Khalifa (3.23%)
+	2: Rudimental (3.23%)
+	3: Gary Pine (3.23%)
+	4: Olivia Rodrigo (3.23%)
+	5: Madonna (3.23%)
+Top country
+	1: US (65.00%)
+	2: GB (10.00%)
+	3: FR (10.00%)
+	4: IT (5.00%)
+	5: EE (5.00%)
+Top record
+	1: UG1 (15.00%)
+	2: SM1 (15.00%)
+	3: WB1 (10.00%)
+	4: 4E4 (10.00%)
+	5: D00 (5.00%)
+Top year
+	1: 21 (25.00%)
+	2: 20 (10.00%)
+	3: 19 (10.00%)
+	4: 18 (10.00%)
+	5: 08 (5.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count    20.00000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean     63.90000      0.201895      0.710800          0.044096     0.127885  118.450250   0.566995   0.659600
+std      19.28157      0.247251      0.150107          0.163100     0.083056   22.595491   0.266591   0.165446
+min      19.00000      0.000132      0.380000          0.000000     0.032100   77.981000   0.084900   0.339000
+25%      51.00000      0.024897      0.624750          0.000000     0.055650  106.279250   0.383500   0.526250
+50%      67.50000      0.119000      0.720000          0.000004     0.110000  119.977000   0.641500   0.663500
+75%      77.00000      0.265750      0.823250          0.000089     0.172750  127.407500   0.752000   0.806500
+max      89.00000      0.768000      0.934000          0.720000     0.321000  180.917000   0.949000   0.906000

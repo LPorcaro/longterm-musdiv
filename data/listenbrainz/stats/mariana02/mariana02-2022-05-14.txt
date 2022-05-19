@@ -1,0 +1,37 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: arrocha (25.00%)
+	2: batidao romantico (12.50%)
+	3: funk carioca (12.50%)
+	4: arrochadeira (12.50%)
+	5: sertanejo pop (12.50%)
+Top artists
+	1: Marcynho Sensação (20.00%)
+	2: Mari Fernandez (20.00%)
+	3: Djodje (20.00%)
+	4: Vado Más Ki Ás (20.00%)
+	5: MC Rogerinho (20.00%)
+Top country
+	1: BC (66.67%)
+	2: PT (33.33%)
+Top record
+	1: N5Z (33.33%)
+	2: ZT7 (33.33%)
+	3: 6JE (33.33%)
+Top year
+	1: 21 (66.67%)
+	2: 22 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    3.000000      3.000000      3.000000          3.000000     3.000000    3.000000  3.000000  3.000000
+mean    61.000000      0.226000      0.799000          0.000007     0.063833  128.648667  0.772000  0.727000
+std     30.315013      0.080299      0.161604          0.000012     0.036807   33.886684  0.181876  0.196115
+min     26.000000      0.142000      0.693000          0.000000     0.034100   99.953000  0.567000  0.547000
+25%     52.000000      0.188000      0.706000          0.000000     0.043250  109.956000  0.701000  0.622500
+50%     78.000000      0.234000      0.719000          0.000000     0.052400  119.959000  0.835000  0.698000
+75%     78.500000      0.268000      0.852000          0.000010     0.078700  142.996500  0.874500  0.817000
+max     79.000000      0.302000      0.985000          0.000021     0.105000  166.034000  0.914000  0.936000

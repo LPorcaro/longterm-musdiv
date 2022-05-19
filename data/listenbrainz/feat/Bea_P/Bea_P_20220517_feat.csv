@@ -1,0 +1,56 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0QTdNeshBSmLmpgHP7R5iV	Phoebe Bridgers	It'll All Work Out (Bonus Track)	USJ5G1714221	51	indie pop,la indie	0.923	0.233	0.0127	0.0336	81.233	0.225	0.227
+4ByvgSH9KPxMQqqXFR9797	Paul McCartney,Phoebe Bridgers	Seize The Day (feat. Phoebe Bridgers)	GBCCS2100006	46	album rock,beatlesque,classic rock,folk rock,mellow gold,rock,soft rock	0.627	0.214	0.0191	0.0502	178.011	0.432	0.457
+21vPjrAwqTWvNm4HqODEIY	FLETCHER,Kito,Trevor Daniel	Bitter (feat. Trevor Daniel)	USUG12003462	57	alt z,dance pop,electropop,indie poptimism,pop,post-teen pop,social media pop	0.241	0.689	3.82e-05	0.0735	136.002	0.405	0.643
+1UNWD6R5EOFklUHKZZvww2	FLETCHER	She Said	USHR12141737	52	alt z,dance pop,electropop,indie poptimism,pop,post-teen pop,social media pop	0.0364	0.649	4.12e-05	0.0581	120.001	0.737	0.758
+0MVvZYjUh20I13vor30dYe	FLETCHER	I Fall Apart - Recorded At Electric Lady Studios NYC	USUG11903400	51	alt z,dance pop,electropop,indie poptimism,pop,post-teen pop,social media pop	0.159	0.447	4.09e-06	0.0285	75.959	0.164	0.4
+170yBuCB3FvhMG2DMSQ4IG	FLETCHER	Shh...Don't Say It	USUG12002891	53	alt z,dance pop,electropop,indie poptimism,pop,post-teen pop,social media pop	0.209	0.789	0.0	0.0746	108.989	0.694	0.501
+4eJ7lwRKgy4OFLcAzUmQo5	FLETCHER	Sex (With My Ex)	USUG12002894	54	alt z,dance pop,electropop,indie poptimism,pop,post-teen pop,social media pop	0.312	0.554	0.00102	0.0508	173.335	0.257	0.549
+0mPTZjG5PElXTUIxj1nqgp	FLETCHER	If You're Gonna Lie	USUG11901151	55	alt z,dance pop,electropop,indie poptimism,pop,post-teen pop,social media pop	0.607	0.671	2.16e-05	0.305	149.87	0.469	0.763
+2tBJjWPeVthyObVtca2ZeY	Pinguini Tattici Nucleari	Giulia	ITB002000604	54	bergamo indie,italian indie pop,italian pop,milan indie	0.536	0.682	0.0	0.0258	108.019	0.609	0.644
+7nDFTHHwfe32a8qdp9XqPy	Noah Kahan	False Confidence	USUM71814497	65	pop,pop rock	0.163	0.414	0.0	0.0456	108.98	0.33	0.663
+2QjOHCTQ1Jl3zawyYOpxh6	The Neighbourhood	Sweater Weather	USSM11300080	87	modern alternative rock,modern rock,pop,shimmer pop	0.0495	0.612	0.0177	0.0336	124.053	0.398	0.807
+4TOMI010Sd4ZAX4aZ5TS85	Lou Reed	Perfect Day	USRC17201946	65	art rock,classic rock,glam rock,permanent wave,psychedelic rock,rock,singer-songwriter	0.744	0.4	0.00734	0.0323	144.799	0.0872	0.267
+35PKfoynRpVFoAUE3D5Kc6	Hozier	Work Song	IEACJ1400146	60	irish singer-songwriter,modern rock,pop	0.776	0.432	0.0	0.1	177.549	0.256	0.388
+5bzf1xrbqr1ttjAJuRz2xY	The Lumineers	Cleopatra	USDMG1673803	64	folk-pop,pop,pop rock,stomp and holler	0.228	0.536	0.000143	0.0394	151.393	0.485	0.775
+4kbj5MwxO1bq9wjT5g9HaA	WALK THE MOON	Shut Up and Dance	USRC11401949	80	dance pop,dance rock,indie poptimism,modern alternative rock,modern rock,pop rock,rock	0.00701	0.578	0.0	0.0619	128.038	0.619	0.866
+0Jm0RTOlF7DsbQ689QclaF	Phoebe Bridgers	ICU	USJ5G2020009	60	indie pop,la indie	0.418	0.511	0.00569	0.0318	133.976	0.397	0.649
+4WjTbrxOPvSwQlajlE4aXH	Lennon Stella	Kissing Other People	USQX91902952	58	alt z,canadian pop,dance pop,electropop,pop	0.548	0.71	2.23e-06	0.0717	94.007	0.3	0.662
+60c0p6GGnuwdKcQnmuM2zC	Hannah Montana	I'll Always Remember You	USWD11048341	64	dance pop,pop,post-teen pop	0.0486	0.418	0.0	0.0383	144.063	0.233	0.721
+58qX77t2VWMWcycsh9zKLc	Clinton Kane	i don't want to watch the world end with someone else	USSM12002186	69	alt z,gen z singer-songwriter,pop	0.771	0.535	0.0	0.0607	154.163	0.488	0.359
+3BP8hJTYC4PoL8TNTBtnbV	Glee Cast	Let Me Love You (Until You Learn To Love Yourself) (Glee Cast Version)	USQX91300073	47	glee club,hollywood,post-teen pop	0.938	0.401	8.49e-05	0.0359	111.648	0.449	0.177
+0awuNCj9gwJEM0seER22DW	Clinton Kane	CHICKEN TENDIES	USSM12100758	71	alt z,gen z singer-songwriter,pop	0.358	0.57	0.0	0.147	100.087	0.568	0.689
+1Vv0MPcooEoQzVZYfKMgKW	G.R.L.	Ugly Heart	USRC11400627	68	dance pop,girl group,post-teen pop	0.0167	0.649	0.0	0.0482	124.993	0.458	0.79
+3IQF4xCQUPicbA4hWfTxPo	OneRepublic	I Lived	USUM71301307	69	dance pop,piano rock,pop,pop rock	0.0683	0.593	0.0	0.0446	119.987	0.344	0.851
+0E4Y1XIbs8GrAT1YqVy6dq	Ed Sheeran	Afterglow	GBAHS2001193	75	pop,uk pop	0.698	0.641	0.0	0.0299	110.184	0.273	0.324
+2tpWsVSb9UEmDRxAl1zhX1	OneRepublic	Counting Stars	USUM71301306	82	dance pop,piano rock,pop,pop rock	0.0654	0.664	0.0	0.0382	122.016	0.477	0.705
+2Zg0aB5oVQlbQE1vzQmIIY	Noah Kahan,Julia Michaels	Hurt Somebody	USUM71800031	62	pop,pop rock	0.344	0.638	0.0	0.305	114.576	0.448	0.51
+5WtfUKzXircvW8l5aaVZWT	Julia Michaels,Niall Horan	What A Time (feat. Niall Horan)	USUM71900686	81	alt z,dance pop,electropop,pop,post-teen pop	0.662	0.516	0.0	0.0302	132.861	0.386	0.467
+3o9kpgkIcffx0iSwxhuNI2	Em Beihold	Numb Little Bug	USUM72200626	84	alt z,gen z singer-songwriter	0.327	0.742	0.0	0.0769	84.974	0.638	0.527
+55XRXhQeU25IwqVpjQqxkz	Clinton Kane	GO TO HELL	USSM12107763	67	alt z,gen z singer-songwriter,pop	0.24	0.494	0.0	0.185	180.228	0.271	0.749
+41zXlQxzTi6cGAjpOXyLYH	Billie Eilish	idontwannabeyouanymore	USUM71707712	77	art pop,electropop,pop	0.737	0.483	0.0	0.0402	170.163	0.247	0.412
+1FSWSs9CL01RCYxXtm08Rf	Olly Murs	Dance with Me Tonight	GBARL1101197	70	dance pop,neo mellow,pop,pop dance,pop rock,post-teen pop,talent show,tropical house,uk pop	0.305	0.672	0.0	0.0589	163.984	0.964	0.748
+7hrEbEm2Gyeoc8ecOA88Xh	The Change	my home	QZHN42213719	58		0.817	0.345	0.0	0.0319	81.778	0.492	0.293
+0FNRyMufs8Ox03TtaoyCjH	Elisa	Se Piovesse Il Tuo Nome	ITUM71800972	49	italian adult pop,italian pop	0.326	0.561	1.63e-05	0.0292	81.958	0.2	0.712
+6QuAZl5zcUcSqewv9QsLsW	Kina Grannis	Love Anyway	QZDA52017273	32	acoustic pop,neo mellow,pop rock,viral pop	0.922	0.497	6.45e-06	0.0385	113.031	0.215	0.075
+7wpBYyNOcSMHSTiPZR2Gg0	Travis Atreo	Clean	USE830955132	55	channel pop,neo mellow,post-teen pop,viral pop	0.826	0.396	0.0	0.036	207.598	0.314	0.25
+2Ck6gblyk3UFCVPTh8o3TN	Daughter	Youth	GBAFL1200314	66	art pop,shimmer pop	0.889	0.396	0.00678	0.0411	146.416	0.435	0.535
+5Z2EgfeYAchuOZM2nLHUFL	Rkomi,Dargen D'Amico	MALEDUCATA (con DARGEN D'AMICO)	ITUM72200067	59	italian hip hop	0.188	0.816	0.0	0.272	115.121	0.758	0.834
+1MIVKNoJo0nxQpgMMmGvML	Tedua,Dargen D'Amico,Chris Nolan,Ghali	Pour Toujours (feat. Ghali e Dargen D'Amico)	IT1S12000006	47	indie liguria,italian hip hop,rap genovese,trap italiana	0.0654	0.873	1.12e-06	0.322	97.474	0.354	0.672
+7zNETJfblL6s91QGKeIbuM	Yuman	ORA E QUI	ITT532100359	52		0.384	0.641	0.0	0.114	117.88	0.402	0.483
+4Ryw3Qv9CpkfX8NaPViEjF	Eugenio In Via Di Gioia	Chiodo Fisso	ITCE51700003	38	indie folk italiano,italian indie pop,turin indie	0.669	0.693	5.63e-06	0.0313	101.968	0.766	0.565
+7hDVYcQq6MxkdJGweuCtl9	Billie Eilish	ocean eyes	US23A1500056	77	art pop,electropop,pop	0.816	0.511	0.0317	0.041	144.892	0.169	0.363
+63mdY4U0KvnbMkUEc7FHN8	ARIETE	L'ultima notte	ITLGE2100040	64	italian indie pop,rome indie	0.268	0.618	0.0	0.0446	94.037	0.398	0.687
+5lZSpbb0BQsequomhDDWv0	Mabes	America	SE6A91961193	48		0.894	0.602	1.26e-05	0.0333	92.727	0.243	0.264
+2vzMWO0T008m86yDnXwkII	George Ezra	Blame It on Me	GBARL1400476	66	folk-pop,modern rock,neo-singer-songwriter,pop,pop rock	0.473	0.537	0.0	0.0274	103.882	0.421	0.757
+1is8gU4RVcN4J8xItxWoOY	Clinton Kane	I GUESS I'M IN LOVE	USSM12104467	79	alt z,gen z singer-songwriter,pop	0.877	0.422	1.77e-05	0.0351	77.213	0.223	0.34
+4RCWB3V8V0dignt99LZ8vH	Plain White T's	Hey There Delilah	US5260507213	77	neo mellow,pop punk,pop rock	0.872	0.656	0.0	0.0293	103.971	0.298	0.291
+5bAxk6pkTC1IFZHQ4jm5WE	coffee?	distance	GBSMU8090288	33		0.928	0.75	0.939	0.0552	79.954	0.334	0.128
+2YBZKdAUYkp0GZVfxOLjNP	ARIETE	Avrei voluto dirti	ITLGE2000035	48	italian indie pop,rome indie	0.41	0.724	0.000227	0.0586	103.938	0.233	0.368
+2jGbAhshvoqrd5SCuL3dAs	ARIETE	18 anni	ITLGE2000058	49	italian indie pop,rome indie	0.0978	0.648	0.0	0.0521	135.097	0.749	0.745
+2VIjbYlMwJPzDaYwsjMUAW	Alfa,ARIETE	NoN La AsCoLTare (feat. Ariete) - prod. Marz & Zef	ITIWE2100286	46	italian pop,pop virale italiano	0.119	0.688	0.0	0.312	166.051	0.599	0.657
+71r3UlkV7sWvUYjas5paqi	Pinguini Tattici Nucleari	Scrivile Scemo	ITB002000601	65	bergamo indie,italian indie pop,italian pop,milan indie	0.123	0.617	0.0	0.0317	135.091	0.552	0.916
+5KztYAzEOHl5fHg6hfiEAs	ARIETE	IRIDE	ITLGE2100127	50	italian indie pop,rome indie	0.862	0.399	0.0	0.0728	145.964	0.226	0.209
+17LhPR6K1lzAVFB3umqNlr	ARIETE	SPIFFERI	ITLGE2100126	63	italian indie pop,rome indie	0.882	0.431	0.0	0.0572	92.878	0.391	0.317
+5mXYPFtNDLU9NkrQMqPXDp	ARIETE,Franco126	FRAGILI (feat. Franco126)	ITLGE2100125	51	italian indie pop,rome indie	0.451	0.655	0.0	0.0367	136.914	0.336	0.474
+4ezQpqkoZeHwRJDfeuSiTz	ARIETE	QUELLA DI PRIMA	ITLGE2100124	47	italian indie pop,rome indie	0.368	0.674	0.0	0.0604	89.009	0.7	0.618

@@ -1,0 +1,32 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: arrocha (23.53%)
+	2: sertanejo (23.53%)
+	3: sertanejo pop (23.53%)
+	4: sertanejo universitario (23.53%)
+	5: modern rock (5.88%)
+Top artists
+	1: Panic! At The Disco (50.00%)
+	2: Luan Santana (50.00%)
+Top country
+	1: BR (80.00%)
+	2: US (20.00%)
+Top record
+	1: RGE (80.00%)
+	2: AT2 (20.00%)
+Top year
+	1: 15 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   10.000000     10.000000     10.000000         10.000000    10.000000   10.000000  10.000000  10.000000
+mean    53.200000      0.493242      0.532500          0.000258     0.049660  113.073200   0.482100   0.696800
+std     14.589189      0.348983      0.078912          0.000416     0.008823   26.668611   0.148934   0.180716
+min     35.000000      0.002720      0.445000          0.000000     0.033500   75.946000   0.357000   0.476000
+25%     49.000000      0.202000      0.449250          0.000000     0.045175   84.447500   0.369000   0.491500
+50%     51.500000      0.657000      0.548000          0.000000     0.045700  128.981000   0.447000   0.801000
+75%     54.000000      0.799500      0.590000          0.000646     0.059000  131.908000   0.491250   0.813000
+max     84.000000      0.847000      0.626000          0.000861     0.059000  139.256000   0.749000   0.891000

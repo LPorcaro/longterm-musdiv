@@ -1,0 +1,45 @@
+Electronic artists found: Jess Glynne, Mabel, Calvin Harris,Tom Grennan, Galantis,David Guetta,Little Mix, Zara Larsson,Sabrina Carpenter
+Electronic genres found: electro house, progressive house, edm, tropical house
+Electronic music logs found: 5.68% 
+
+Top genres
+	1: pop (22.31%)
+	2: dance pop (9.16%)
+	3: k-pop (9.16%)
+	4: k-pop boy group (7.17%)
+	5: uk pop (5.58%)
+Top artists
+	1: Dua Lipa (1.45%)
+	2: LeeHi (1.45%)
+	3: Imagine Dragons (1.45%)
+	4: Conan Gray (1.45%)
+	5: Emeli Sandé (1.45%)
+Top country
+	1: US (51.14%)
+	2: GB (14.77%)
+	3: QM (13.64%)
+	4: KR (10.23%)
+	5: DE (4.55%)
+Top record
+	1: UM7 (20.45%)
+	2: SM1 (11.36%)
+	3: UG1 (6.82%)
+	4: AT2 (6.82%)
+	5: FME (5.68%)
+Top year
+	1: 21 (32.95%)
+	2: 19 (12.50%)
+	3: 20 (10.23%)
+	4: 18 (9.09%)
+	5: 17 (5.68%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   88.000000     88.000000     88.000000         88.000000    88.000000   88.000000  88.000000  88.000000
+mean    71.204545      0.253794      0.619205          0.021194     0.074540  119.372807   0.479534   0.660987
+std     11.315902      0.292856      0.133924          0.139145     0.067192   26.587020   0.229582   0.199529
+min     31.000000      0.001190      0.240000          0.000000     0.024700   62.292000   0.104000   0.048900
+25%     65.000000      0.041250      0.532750          0.000000     0.037850  101.253250   0.296250   0.579250
+50%     72.000000      0.109500      0.626000          0.000000     0.046850  114.506500   0.479000   0.723000
+75%     78.250000      0.387250      0.734250          0.000005     0.089950  134.684500   0.646000   0.808000
+max    100.000000      0.991000      0.827000          0.956000     0.412000  184.009000   0.962000   0.960000

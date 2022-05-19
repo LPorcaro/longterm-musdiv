@@ -1,0 +1,34 @@
+Electronic artists found: Kygo,Imagine Dragons
+Electronic genres found: edm, tropical house
+Electronic music logs found: 12.50% 
+
+Top genres
+	1: modern rock (38.89%)
+	2: rock (38.89%)
+	3: edm (5.56%)
+	4: pop (5.56%)
+	5: pop dance (5.56%)
+Top artists
+	1: Imagine Dragons (50.00%)
+	2: Kygo (50.00%)
+Top country
+	1: US (87.50%)
+	2: SE (12.50%)
+Top record
+	1: UM7 (87.50%)
+	2: BGA (12.50%)
+Top year
+	1: 18 (50.00%)
+	2: 14 (25.00%)
+	3: 15 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count        8.00      8.000000      8.000000          8.000000     8.000000    8.000000  8.000000  8.000000
+mean        59.50      0.289682      0.513750          0.032944     0.065075  146.525625  0.367000  0.606250
+std          4.00      0.327054      0.149142          0.089753     0.065997   28.133177  0.141859  0.155627
+min         53.00      0.007460      0.262000          0.000000     0.029200  114.011000  0.130000  0.396000
+25%         58.25      0.019650      0.400000          0.000000     0.035550  130.008750  0.280250  0.490000
+50%         59.00      0.203500      0.558000          0.000042     0.043400  140.482500  0.398500  0.610000
+75%         61.50      0.401750      0.625000          0.003058     0.053300  161.807750  0.430000  0.687250
+max         66.00      0.860000      0.688000          0.255000     0.227000  195.489000  0.596000  0.887000

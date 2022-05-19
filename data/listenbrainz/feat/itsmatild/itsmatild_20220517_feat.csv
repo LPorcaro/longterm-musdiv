@@ -1,0 +1,90 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+3oobWqIgYrSRg18uqRuPIF	Jamelia	Superstar	GBAYE0202055	68	bubblegum dance,europop	0.0457	0.801	0.0	0.0356	110.01	0.824	0.645
+4BdpM8bR0nifsaqSz3qphQ	Dreamcatcher	What	KRB471801401	45	k-pop,k-pop girl group	0.0267	0.544	0.0	0.158	145.964	0.528	0.994
+2bZIDMpzVooosmPHn0tHnd	STAYC	STEREOTYPE	KRA382160813	71	k-pop,k-pop girl group	0.313	0.605	0.0	0.0641	148.298	0.738	0.805
+13KR2yNRDrbKwR3dOKCDl4	STAYC	SO BAD	KRA382006274	65	k-pop,k-pop girl group	0.19	0.557	0.0	0.103	168.978	0.616	0.906
+4tYFy8ALRjIZvnvSLw5lxN	Bad Bunny,Rauw Alejandro	Party	QM6MZ2214885	89	latin,reggaeton,trap latino	0.0151	0.829	0.000543	0.0897	97.013	0.471	0.799
+3k3NWokhRRkEPhCzPmV8TW	Bad Bunny,Bomba Estéreo	Ojitos Lindos	QM6MZ2214888	90	latin,reggaeton,trap latino	0.08	0.647	1.34e-06	0.0413	79.928	0.268	0.686
+6Xom58OOXk2SoU711L2IXO	Bad Bunny	Moscow Mule	QM6MZ2214875	92	latin,reggaeton,trap latino	0.294	0.804	1.18e-06	0.0333	99.968	0.292	0.674
+6mlGXuG5FmzcePHsMn6rIA	Die Antwoord	Baby's On Fire	USCJ81100739	61	african rock,south african alternative,south african hip hop	0.0521	0.829	0.00148	0.0967	130.037	0.762	0.844
+5xouIycayHmjZxeuhXPhgX	Stella Jang	Villain	KRA382001056	58	korean city pop	0.664	0.95	0.0	0.0559	108.976	0.671	0.406
+0eu4C55hL6x29mmeAjytzC	Oliver Tree	Life Goes On	USAT22007153	80	alternative hip hop	0.186	0.7	0.0	0.076	79.982	0.569	0.49
+48AJSd42lXpicsGqcgopof	Daddy Yankee,Bad Bunny	X ÚLTIMA VEZ	USUG12201738	89	latin,latin hip hop,reggaeton,trap latino	0.0789	0.812	0.000167	0.0554	90.04	0.573	0.855
+1dm6z1fWB0cErMszU25dy2	Bad Bunny	Después de la Playa	QM6MZ2214876	89	latin,reggaeton,trap latino	0.356	0.564	0.0	0.307	78.293	0.607	0.903
+3zi74Q3yQCJ6qIZ2L5NbyW	Quim Barreiros	Bacalhau À Portuguesa	PTES10300103	38	classic portuguese pop	0.134	0.63	0.0	0.0551	88.99	0.707	0.943
+2XPmTamsj7d9i3gzLCL4JI	Twenty One Pilots	Redecorate	USAT22101338	62	modern rock,rock	0.158	0.632	2.39e-05	0.0797	82.58	0.397	0.65
+1I93YiKgu2P5pwprWmziPI	One Direction	Up All Night	GBHMU1100165	62	boy band,pop,post-teen pop,talent show	0.023	0.606	0.0	0.055	139.022	0.622	0.929
+6ADti3GRke23m1CWZH3aPZ	Dj Guuga	Casamento	BXG6R2000106	44	arrocha,arrochadeira,funk carioca,funk paulista,rave funk	0.176	0.643	0.0	0.394	133.41	0.502	0.671
+0k4d5YPDr1r7FX77VdqWez	Doja Cat,The Weeknd	You Right	USRC12100544	84	dance pop,pop	0.0164	0.828	0.00233	0.0565	128.986	0.436	0.621
+601kEkd7wm0JTgDl0EM3JU	Charli XCX	Used To Know Me	GBAHS2200045	53	art pop,candy pop,dance pop,electropop,metropopolis,pop,uk pop	0.0914	0.711	4.41e-05	0.0323	118.009	0.775	0.931
+4qG3Um3jXlQnaQV1yVo3it	One Direction	Better Than Words	GBHMU1300222	58	boy band,pop,post-teen pop,talent show	0.114	0.627	0.0	0.0508	157.993	0.79	0.839
+0iSWAT0EL8TwmzcgBjKMh6	One Direction	What a Feeling	GBHMU1500111	64	boy band,pop,post-teen pop,talent show	0.149	0.678	0.0	0.0461	123.964	0.882	0.869
+2rurDawMfoKP4uHyb2kJBt	Shakira,Rauw Alejandro	Te Felicito	USQX92201764	82	colombian pop,dance pop,latin,latin pop,pop	0.234	0.695	0.0	0.317	174.14	0.575	0.636
+1tdP9ND6rKEq1vJZlMQ5KW	Lexa,PEDRO SAMPAIO	Chama Ela (feat. Pedro Sampaio)	BRRGE1908455	54	funk carioca,funk pop,pop nacional	0.46	0.888	9.15e-05	0.147	149.994	0.964	0.841
+0oN3KzKOxYtyIuNiobf8Q4	Sabrina Carpenter	Fast Times	USUM72200377	65	alt z,dance pop,electropop,pop,post-teen pop	0.0687	0.721	0.0	0.0408	132.465	0.739	0.666
+6PZpNMstpIiRenGK5UyG5D	Charli XCX	Good Ones	GBAHS2100596	65	art pop,candy pop,dance pop,electropop,metropopolis,pop,uk pop	0.072	0.764	3.32e-06	0.0293	129.049	0.789	0.672
+1DojFoewF8FyySBMbZ9TXt	Karetus,Sebastião Antunes	Burra	PT7ED2000039	37	hip hop tuga,portuguese pop	0.00854	0.737	0.000489	0.105	141.999	0.924	0.842
+50ZFpw2wS6ERvLmW8TINhq	Charli XCX,Rina Sawayama	Beg For You (feat. Rina Sawayama)	GBAHS2101565	72	art pop,candy pop,dance pop,electropop,metropopolis,pop,uk pop	0.223	0.788	2.97e-06	0.0599	128.036	0.466	0.945
+41oY4WCTj5kccfesTVFnvN	Bad Bunny,Jhay Cortez	Tarot	QM6MZ2214881	88	latin,reggaeton,trap latino	0.0225	0.795	0.0	0.0419	114.011	0.419	0.684
+5kVZxyMY1gfdCLiChsfjn1	Bad Bunny	Yo No Soy Celoso	QM6MZ2214880	87	latin,reggaeton,trap latino	0.275	0.872	0.0	0.0492	142.004	0.93	0.588
+5CzixCxDkRXX9mScCmah8O	Bad Bunny	Un Ratito	QM6MZ2214879	87	latin,reggaeton,trap latino	0.305	0.787	4.55e-05	0.0532	93.05	0.222	0.546
+6Sq7ltF9Qa7SNFBsV5Cogx	Bad Bunny,Chencho Corleone	Me Porto Bonito	QM6MZ2214877	90	latin,reggaeton,trap latino	0.0901	0.911	2.68e-05	0.0817	92.005	0.425	0.712
+2wy29RBixBECDOsXuBs7md	Hilight Tribe,Vini Vici	Free Tibet - Vini Vici Remix	DKZVA1560962	59	didgeridoo,psychedelic trance	0.0132	0.382	0.698	0.0662	103.495	0.0728	0.947
+6potEImiklXkwD9qFzpu15	Labrinth	Forever	USQX91902499	78	indie poptimism,pop	0.92	0.563	0.724	0.0292	79.983	0.197	0.459
+7qFtcljd0PZ5kJZos70YjT	mehro	chance with you	USANG2115040	69	gen z singer-songwriter	0.864	0.562	0.0259	0.0278	144.104	0.383	0.494
+5A9hqBLfGSiaxizL4hOqCI	Olivier Abeille	Notes & Notes	SE6RB2111601	37	study beats	0.913	0.709	0.869	0.216	79.974	0.217	0.257
+4wGrZiGaO4WVm6mNfaDjch	Kupla,j'san	My Love	QMPKX1868131	44	anime lo-fi,lo-fi beats	0.889	0.601	0.911	0.0354	76.889	0.156	0.31
+64qL1d3aSX0QMZRWf29zy4	Julia Groves	Until Dawn	US66W2101326	47		0.762	0.548	0.877	0.0274	74.995	0.119	0.283
+0LCEtsC6ubQs12Nl6IZAcI	Chill Beats Music,brokebwoy	Pink Aesthetics	TCAET2064882	39		0.51	0.583	0.744	0.277	161.316	0.408	0.256
+0mE3vnX3Jl8lPrw616n3qY	1ga	Ender	SE6RB2123802	41		0.598	0.805	0.857	0.127	110.002	0.506	0.333
+1KlHmKF2WqIjWvQ1anYvHh	Ensidya	Daydream	SE5IB2137909	38	chill beats,chill out,study beats,trap beats	0.582	0.68	0.519	0.0671	70.094	0.168	0.206
+6rMfRzs0lpnKY8gVk8dh6W	Orangelo	Perfect Dark	SE6X32167604	44		0.737	0.771	0.822	0.0484	150.035	0.284	0.145
+2tbNmBfUatF57h4t3XdFP2	Bah Linn	Happy Floating	SE6ZX2212801	44		0.236	0.841	0.771	0.0968	83.989	0.481	0.483
+7nUfhnIsK4DbXSNvFEwQkk	Looi	Firefall	SE4RG2129201	39	study beats	0.613	0.636	0.923	0.0543	146.094	0.0996	0.253
+7qQot1bz4npRHXSrPGbfVa	Aviscerall	all the things I can't control	QZK6F2159803	49		0.839	0.713	0.906	0.0364	74.848	0.305	0.53
+6IuedPL68KNsBzci64vX9J	Maraboy	Just Another Sip	SE6X32173003	39		0.431	0.643	0.891	0.0702	160.044	0.119	0.303
+0JXHJVMM7sy9sszTiEpumr	C-90	Microwave Jam	SEXGF2198501	44		0.667	0.626	0.757	0.0386	81.02	0.235	0.542
+2pgDBO0ZAgvye7joSmdDm8	Amaarae,Moliy	SAD GIRLZ LUV MONEY	US23A1512503	64	afro r&b,ghanaian alternative,ghanaian pop	0.447	0.883	0.0019	0.0725	109.974	0.296	0.492
+0YQEWdfq3ajtNtK106Dr0k	Grimes	Shinigami Eyes	USQX92103017	68	art pop,canadian electropop,chillwave,dance pop,grave wave,indietronica,metropopolis,pop	0.00604	0.632	0.00149	0.0603	116.028	0.0768	0.691
+6rVCUwfnuYTAsX4P9fIdIu	aespa	Dreams Come True	KRA302100400	74	k-pop,k-pop girl group	0.0699	0.686	0.0	0.0614	98.977	0.571	0.901
+7HGKvoju3ucB7UqVt1GoJu	STAYC	YOUNG LUV	KRA382203172	63	k-pop,k-pop girl group	0.392	0.695	5.23e-05	0.0277	129.905	0.458	0.749
+3uqxytqtmoZuxyn3ISYT2e	Hello Artemisia!	Squama	US66W2100875	63	sleep	0.977	0.154	0.858	0.0415	135.531	0.0723	0.0348
+58QLCa2HJxU4U2MnpNopLj	Spring Euphemia	Light Rest	SE5IB2147674	65		0.968	0.155	0.971	0.0408	135.747	0.0778	0.00233
+2quE9M1AL9B7T6iSjzeT0o	Zion Llama	Aura	SE4RG2204501	66		0.976	0.138	0.795	0.0505	67.18	0.0391	0.00835
+0Q5VnK2DYzRyfqQRJuUtvi	IVE	LOVE DIVE	KRA382204375	84	k-pop,k-pop girl group	0.00379	0.703	5.43e-05	0.0433	117.941	0.538	0.709
+5oH4DQAuu1J1800RzUsBWa	PSY,SUGA	That That (prod. & feat. SUGA of BTS)	QZEKE2084402	85	k-pop,k-rap,korean old school hip hop	0.0299	0.905	0.0	0.0856	129.969	0.906	0.962
+3KeOFns3LGJuh1lapMm9eA	Grimes,i_o	Violence - Original Mix	GBAFL1900329	56	art pop,canadian electropop,chillwave,dance pop,grave wave,indietronica,metropopolis,pop	0.00143	0.533	0.101	0.0495	99.983	0.0795	0.9
+1LsBuFMHgiUlXYcH4PT2nv	ding m	hollows	SE4RG2189601	43		0.578	0.711	0.676	0.15	148.06	0.351	0.249
+2cZrrQMjB63c0iIugYH9zS	Pitbull,Marc Anthony	Rain Over Me (feat. Marc Anthony)	USJAY1100071	68	dance pop,latin,miami hip hop,pop,pop rap	0.00416	0.61	0.0	0.0648	127.916	0.294	0.906
+5zNxUkUW9WiV5oyg6gh2wB	PEDRO SAMPAIO,Mc Pedrinho	DANÇARINA	BRWMB2200077	84	funk carioca	0.0423	0.778	0.0	0.0788	134.999	0.554	0.571
+3Xrw2bkSR6TmHs5xE57fRE	LzmD	True Colors	SE4RG2183902	39		0.679	0.836	0.91	0.0958	129.987	0.453	0.302
+7aTgiXCztG1kPqqO5SgHAy	Samarinen	forgotten technology	SE6RB2183503	39	study beats	0.51	0.746	0.512	0.0881	79.996	0.415	0.248
+7HpNwwS5G8mUjcTshcMKzi	Sitting Duck,Khutko	Chasing Dreams	GBKQU2137120	47	lo-fi beats	0.887	0.629	0.888	0.031	139.926	0.272	0.472
+7egZDzFPxPlXJe2RaPQYhd	Strong.AL&,Fred Paci,Chill Moon Music	Road Trip	QM3DF2142651	44		0.309	0.536	0.905	0.0507	119.984	0.0678	0.496
+56IW9O3dVCJ9hdA4TJINVs	WASTELAND	FORWARD	SE6X32140501	41		0.97	0.503	0.947	0.0334	85.951	0.165	0.234
+6ZOcbKub95XSDESsKKuH41	Rauw Alejandro,Chencho Corleone	Desesperados	USSD12100779	86	puerto rican pop,trap latino	0.356	0.869	0.00125	0.0783	90.02	0.511	0.694
+5WVWQQpBJqljbZtxo19CxS	The Marías	Calling U Back	USAT22100691	57	bedroom pop,indie pop,la indie	0.385	0.731	0.00216	0.122	116.798	0.448	0.515
+0mL82sxCRjrs3br407IdJh	The Weeknd	Is There Someone Else?	USUG12106692	78	canadian contemporary r&b,canadian pop,pop	0.0388	0.702	7.27e-05	0.0313	134.951	0.608	0.586
+705dwKmZCd7ImAUyyD6Mpm	Camila Cabello,WILLOW	psychofreak (feat. WILLOW)	USSM12201108	78	dance pop,pop,post-teen pop	0.342	0.629	1.17e-05	0.0752	179.989	0.448	0.64
+4IaxDf2FixiQXq0mW7key9	Jessi	ZOOM	KRA382204517	82	k-pop	0.00942	0.874	0.0	0.158	100.012	0.457	0.6
+1U40FhITl39l6flp0Hrc17	BETWEEN FRIENDS	orange juice	QZJ842001596	51	indie pop,la pop	0.512	0.758	0.0	0.0336	124.987	0.886	0.526
+0iWFz0Q5Qha9bx325ocFWq	88rising,BIBI	Best Lover	USWB12201362	66	asian american hip hop,pop	0.268	0.74	0.0	0.272	82.004	0.519	0.663
+4icnlpI5IbZcRO9mpixVVW	PinkPantheress,WILLOW	Where you are (feat. WILLOW)	GBAYE2200286	73	russian plugg	0.0965	0.689	0.000498	0.0477	134.994	0.362	0.872
+2UN0lp72LAusrXi8LLVomt	Ed Sheeran,Lil Baby	2step (feat. Lil Baby)	GBAHS2200506	80	pop,uk pop	0.138	0.693	0.0	0.0828	95.055	0.477	0.643
+4nzgsi8D9hiILXInpDV7Gn	Miley Cyrus	Angels Like You - Live	USSM12203566	58	dance pop,pop,post-teen pop	0.00577	0.464	0.0	0.0595	123.923	0.354	0.871
+4Xtlw8oXkIOvzV7crUBKeZ	Daddy Yankee	Rompe	USUM70505755	71	latin,latin hip hop,reggaeton,trap latino	0.0727	0.696	3.19e-06	0.0859	176.061	0.533	0.858
+2RVnBei8yp9bcq3odGHOXA	coffee?	solace	GBSMU0050270	45		0.308	0.855	0.898	0.416	150.085	0.195	0.283
+70AYiGbc4mWZGEqiipBBDb	ROSALÍA	CANDY	USSM12109219	79	r&b en espanol	0.885	0.638	0.0116	0.226	179.905	0.403	0.49
+4mBto7hyeS6yHhx8lIkn4l	PEDRO SAMPAIO,Luísa Sonza	ATENÇÃO	BRWMB2100205	63	funk carioca	0.252	0.738	5.96e-06	0.071	134.813	0.747	0.901
+7ARoqP7G8UYW8SyYPyPp7k	Anitta,PEDRO SAMPAIO	NO CHÃO NOVINHA	BRWMB2101163	74	funk carioca,funk pop,pagode baiano,pop nacional	0.06	0.703	0.00661	0.0594	141.984	0.704	0.806
+2wG1R0uDFwyobcWzVssC1J	PEDRO SAMPAIO	GALOPA	BRWMB2100721	73	funk carioca	0.285	0.763	0.0	0.0409	150.009	0.77	0.85
+1ONiHTSOH23mmogS7KnUBM	D'ZRT	Verão Azul	QM4TW2230903	38	classic portuguese pop,portuguese pop	0.331	0.519	0.0	0.0994	99.968	0.59	0.92
+0fZRNhPJ4AGmwY7rkpdbqK	BTS	ON	QM4TX2001949	75	k-pop,k-pop boy group	0.118	0.583	0.0	0.099	105.935	0.437	0.817
+5PF2WtSZV4EtmGx4oER1zt	Snoh Aalegra,Tyler, The Creator	NEON PEACH feat. Tyler, The Creator	QMJMT2103677	56	alternative r&b,dance pop,pop,r&b,scandinavian r&b,swedish soul	0.223	0.748	7.6e-05	0.0842	111.353	0.331	0.67
+1nH2PkJL1XoUq8oE6tBZoU	The Weeknd	Sacrifice	USUG12106685	82	canadian contemporary r&b,canadian pop,pop	0.0296	0.735	3.18e-05	0.113	122.0	0.905	0.795
+3JTjLyrnevl9ASw3ayGO2P	Superfruit	GUY.exe	USRC11701437	71		0.0305	0.77	0.0	0.0508	110.011	0.889	0.732
+4bqIFmnVAsndYWuXxAwQet	One Direction	Act My Age	GBHMU1400174	59	boy band,pop,post-teen pop,talent show	0.00287	0.495	2.26e-05	0.0402	135.899	0.642	0.883
+6jHvX8ZnHKC1PnrPMJ0Emt	Cage The Elephant	Cigarette Daydreams	USRC11301169	72	modern rock,punk blues,rock	0.0807	0.636	0.0	0.0263	113.98	0.273	0.676
+2J3oaXTqKjGGHCOQLeBnBA	ROSALÍA	SAOKO	USSM12109218	72	r&b en espanol	0.79	0.827	2.45e-05	0.265	99.988	0.734	0.768
+1058fW9H3fZA6QjYCdOBad	Camila Cabello	Don't Go Yet	USSM12104771	78	dance pop,pop,post-teen pop	0.0492	0.666	0.0	0.103	110.108	0.61	0.796
+2JPLbjOn0wPCngEot2STUS	Bad Bunny	Yonaguni	QM6P42169803	88	latin,reggaeton,trap latino	0.276	0.644	0.0	0.118	179.951	0.44	0.648

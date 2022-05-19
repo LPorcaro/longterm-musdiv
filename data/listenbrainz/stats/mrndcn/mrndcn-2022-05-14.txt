@@ -1,0 +1,44 @@
+Electronic artists found: LUM!X,PIA MARIA
+Electronic genres found: slap house, melbourne bounce international
+Electronic music logs found: 1.59% 
+
+Top genres
+	1: indie surf (10.89%)
+	2: korean dream pop (10.89%)
+	3: korean indie rock (10.89%)
+	4: experimental (5.94%)
+	5: experimental rock (5.94%)
+Top artists
+	1: Andrea (2.17%)
+	2: Vladana (2.17%)
+	3: REDDI (2.17%)
+	4: STEFAN (2.17%)
+	5: Sheldon Riley (2.17%)
+Top country
+	1: GB (20.63%)
+	2: QZ (15.87%)
+	3: NO (4.76%)
+	4: FR (4.76%)
+	5: SE (4.76%)
+Top record
+	1: H3Q (17.46%)
+	2: UM7 (12.70%)
+	3: ES9 (7.94%)
+	4: 2DY (4.76%)
+	5: PRR (3.17%)
+Top year
+	1: 22 (58.73%)
+	2: 21 (22.22%)
+	3: 18 (17.46%)
+	4: 12 (1.59%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   63.000000     63.000000     63.000000         63.000000    63.000000   63.000000  63.000000  63.000000
+mean    53.126984      0.208959      0.544762          0.122907     0.058146  117.755016   0.481397   0.678175
+std     22.608514      0.243488      0.155050          0.285235     0.042039   27.913173   0.194308   0.193549
+min      7.000000      0.000050      0.157000          0.000000     0.028200   62.508000   0.159000   0.122000
+25%     32.000000      0.012700      0.468500          0.000000     0.034250   96.819000   0.334000   0.571000
+50%     63.000000      0.120000      0.523000          0.000012     0.043300  119.991000   0.503000   0.730000
+75%     67.000000      0.351500      0.667000          0.004480     0.059000  139.963000   0.594000   0.820000
+max     79.000000      0.880000      0.922000          0.988000     0.230000  206.071000   0.955000   0.969000

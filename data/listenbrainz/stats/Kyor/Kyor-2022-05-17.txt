@@ -1,0 +1,45 @@
+Electronic artists found: Martin Garrix,DubVision,Jordan Grace, The Chainsmokers, David Guetta,Ella Henderson,A7S,Becky Hill
+Electronic genres found: dutch edm, progressive house, edm, tropical house
+Electronic music logs found: 18.75% 
+
+Top genres
+	1: pop (7.14%)
+	2: dark trap (7.14%)
+	3: dance pop (5.36%)
+	4: edm (5.36%)
+	5: pop dance (5.36%)
+Top artists
+	1: CRIM (4.35%)
+	2: The Chainsmokers (4.35%)
+	3: Bad Bunny (4.35%)
+	4: spectre (4.35%)
+	5: L'exquisite Douleur (4.35%)
+Top country
+	1: US (37.50%)
+	2: QZ (25.00%)
+	3: GB (6.25%)
+	4: QM (6.25%)
+	5: UK (6.25%)
+Top record
+	1: UM7 (18.75%)
+	2: UYG (12.50%)
+	3: K3W (6.25%)
+	4: 6MZ (6.25%)
+	5: WLG (6.25%)
+Top year
+	1: 22 (50.00%)
+	2: 21 (18.75%)
+	3: 20 (12.50%)
+	4: 14 (12.50%)
+	5: 17 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean    53.125000      0.080567      0.610250          0.046789     0.087088  127.569000   0.438625   0.689312
+std     12.748202      0.111267      0.151272          0.160760     0.074752   23.544939   0.239254   0.167630
+min     37.000000      0.000004      0.364000          0.000000     0.028500   90.990000   0.122000   0.429000
+25%     45.750000      0.013895      0.511750          0.000000     0.031400  112.509500   0.212500   0.554000
+50%     51.000000      0.033250      0.594500          0.000003     0.051350  123.039000   0.440000   0.723500
+75%     58.250000      0.125500      0.721750          0.001083     0.116250  143.223000   0.635750   0.831500
+max     84.000000      0.431000      0.849000          0.644000     0.239000  170.059000   0.810000   0.940000

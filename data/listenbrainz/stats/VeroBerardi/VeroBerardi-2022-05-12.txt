@@ -1,0 +1,45 @@
+Electronic artists found: Robin Schulz,David Guetta
+Electronic genres found: edm, tropical house, deep house
+Electronic music logs found: 2.22% 
+
+Top genres
+	1: baroque (13.58%)
+	2: classical (13.58%)
+	3: early music (13.58%)
+	4: italian baroque (13.58%)
+	5: classical performance (9.88%)
+Top artists
+	1: Sfera Ebbasta (2.86%)
+	2: Arcangelo Corelli (2.86%)
+	3: sangiovanni (2.86%)
+	4: Lady Gaga (2.86%)
+	5: Flavio Losco (2.86%)
+Top country
+	1: FR (64.44%)
+	2: US (13.33%)
+	3: IT (13.33%)
+	4: BE (2.22%)
+	5: GB (2.22%)
+Top record
+	1: 1P7 (48.89%)
+	2: 50X (15.56%)
+	3: SM1 (8.89%)
+	4: UM7 (8.89%)
+	5: B00 (4.44%)
+Top year
+	1: 12 (40.00%)
+	2: 22 (20.00%)
+	3: 21 (15.56%)
+	4: 04 (15.56%)
+	5: 08 (8.89%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   45.000000     45.000000     45.000000         45.000000    45.000000   45.000000  45.000000  45.000000
+mean    27.222222      0.642628      0.430311          0.317749     0.063760  113.764111   0.405800   0.365732
+std     36.065527      0.358401      0.193030          0.358224     0.060608   33.727687   0.242594   0.266983
+min      0.000000      0.001240      0.131000          0.000000     0.029700   60.363000   0.039800   0.004020
+25%      0.000000      0.294000      0.246000          0.000000     0.037500   80.204000   0.153000   0.146000
+50%      3.000000      0.852000      0.451000          0.108000     0.042500  116.881000   0.442000   0.272000
+75%     66.000000      0.915000      0.539000          0.631000     0.053700  138.587000   0.596000   0.617000
+max    100.000000      0.984000      0.804000          0.986000     0.289000  184.373000   0.877000   0.905000

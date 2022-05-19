@@ -1,0 +1,45 @@
+Electronic artists found: DIIV, Massive Attack
+Electronic genres found: electronica, downtempo, chillwave, trip hop, big beat
+Electronic music logs found: 13.33% 
+
+Top genres
+	1: modern rock (12.90%)
+	2: indie rock (11.29%)
+	3: alternative rock (6.45%)
+	4: rock (6.45%)
+	5: stomp and holler (4.84%)
+Top artists
+	1: Márcio Faraco (9.09%)
+	2: Leon Bridges (9.09%)
+	3: Arcade Fire (9.09%)
+	4: Massive Attack (9.09%)
+	5: Feist (9.09%)
+Top country
+	1: GB (46.67%)
+	2: US (20.00%)
+	3: PT (13.33%)
+	4: FR (13.33%)
+	5: QM (6.67%)
+Top record
+	1: AFL (20.00%)
+	2: SM1 (13.33%)
+	3: ARL (13.33%)
+	4: EM1 (6.67%)
+	5: MZN (6.67%)
+Top year
+	1: 18 (20.00%)
+	2: 16 (13.33%)
+	3: 22 (13.33%)
+	4: 96 (6.67%)
+	5: 13 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   15.000000     15.000000     15.000000         15.000000    15.000000   15.000000  15.000000  15.000000
+mean    40.733333      0.325758      0.546467          0.299416     0.045793  129.503333   0.460867   0.566933
+std     14.887515      0.299303      0.229113          0.365950     0.017914   33.308817   0.267408   0.170028
+min     18.000000      0.000559      0.160000          0.000000     0.026200   73.868000   0.041000   0.222000
+25%     30.000000      0.043195      0.445500          0.000536     0.034450  111.978000   0.311000   0.473000
+50%     37.000000      0.231000      0.558000          0.006670     0.039900  122.960000   0.406000   0.594000
+75%     53.500000      0.523000      0.751500          0.612500     0.054000  142.601500   0.637000   0.636000
+max     62.000000      0.841000      0.855000          0.934000     0.082400  199.988000   0.947000   0.891000

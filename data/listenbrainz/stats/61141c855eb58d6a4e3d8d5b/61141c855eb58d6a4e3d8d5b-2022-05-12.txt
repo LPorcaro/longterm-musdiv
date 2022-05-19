@@ -1,0 +1,34 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: brighton indie (14.29%)
+	2: cantautor (14.29%)
+	3: latin rock (14.29%)
+	4: spanish indie pop (14.29%)
+	5: spanish modern rock (14.29%)
+Top artists
+	1: Ren (33.33%)
+	2: Miss Caffeina (33.33%)
+	3: CHINCHILLA (33.33%)
+Top country
+	1: NL (50.00%)
+	2: ES (50.00%)
+Top record
+	1: 1AP (50.00%)
+	2: 515 (50.00%)
+Top year
+	1: 19 (50.00%)
+	2: 12 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean    43.000000      0.451660      0.532500          0.000020     0.051550  138.047000  0.448500  0.524500
+std      4.242641      0.636877      0.113844          0.000028     0.033446   59.476166  0.122329  0.449013
+min     40.000000      0.001320      0.452000          0.000000     0.027900   95.991000  0.362000  0.207000
+25%     41.500000      0.226490      0.492250          0.000010     0.039725  117.019000  0.405250  0.365750
+50%     43.000000      0.451660      0.532500          0.000020     0.051550  138.047000  0.448500  0.524500
+75%     44.500000      0.676830      0.572750          0.000029     0.063375  159.075000  0.491750  0.683250
+max     46.000000      0.902000      0.613000          0.000039     0.075200  180.103000  0.535000  0.842000

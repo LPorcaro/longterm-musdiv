@@ -1,0 +1,289 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7k5agf3Bo48jyzXrvrMuhb	Andrew Garfield,Robin de Jesus,Alexandra Shipp,Joshua Henry,Vanessa Hudgens	Boho Days	QZ8BZ2100735	64	hollywood,pop	0.766	0.781	0.0	0.859	81.379	0.865	0.595
+7dsxoeycurkfJpmV0Le5Oi	Barlow & Bear,Abigail Barlow,Emily Bear	If I Were a Man	QZNJW2103770	57	show tunes	0.276	0.706	0.0	0.116	140.838	0.386	0.67
+0eaFGIJGHgwKGDcVwHnc7t	Jessie Mueller,Drew Gehling,Waitress Original Broadway Cast Ensemble	Bad Idea	USWB11600734	52	broadway,hollywood,show tunes	0.0513	0.538	2.68e-05	0.0543	170.023	0.701	0.787
+5FKNq0lLJnP3iZzBTD0PZj	Lizzy McAlpine	Apple Pie	GBKPL1972264	63	boston folk,indie pop,pop	0.855	0.518	5.15e-06	0.0363	179.836	0.42	0.208
+7MRPgpkbsKA1FQsLPUeosU	Lea Michele,Lilli Cooper,Lauren Pritchard,Phoebe Strole,Remy Zaken	Mama Who Bore Me (Reprise) - Original Broadway Cast Recording/2006	USUM70619096	44	hollywood,post-teen pop,show tunes	0.515	0.52	0.0	0.0351	102.081	0.599	0.476
+3dP0pLbg9OfVwssDjp9aT0	Renée Elise Goldsberry,Original Broadway Cast of Hamilton	Satisfied	USAT21502606	68	hollywood,show tunes	0.287	0.707	0.0	0.0949	123.772	0.478	0.593
+5umt6j4cZkfrL18u8KOnyq	Alan Menken,Jack Feldman,Jeremy Jordan,Ben Fankhauser,Kara Lindsay,Ryan Breslin,Newsies Original Broadway Cast	Once And For All	USSK31222698	45	broadway,disney,hollywood,movie tunes,orchestral soundtrack,show tunes	0.351	0.48	0.0	0.114	168.003	0.211	0.483
+0Fm7YDXa7Hr9YSxsdVjOBG	Angela Christian,Sutton Foster	How the Other Half Lives	USBC10200154	23		0.853	0.559	0.0	0.115	136.021	0.46	0.21
+3nfMOTjl5Ts1GZScRKuQnF	Laura Bell Bundy,'Legally Blonde' Ensemble	So Much Better	USSK30720011	52	broadway,country dawn,hollywood,show tunes	0.564	0.587	0.0	0.689	78.701	0.426	0.59
+5nSDY75s6O6jA0K7J1EMYQ	James Bay	Pink Lemonade	USUM71801100	53	modern rock,neo mellow,pop,pop rock	9.39e-05	0.475	0.0203	0.0469	152.011	0.701	0.922
+0M9CNqwzeyijhwOsL7ZXF7	Matthew Morrison,Laura Michelle Kelly	What You Mean To Me - Original Broadway Cast Recording	USUM71507986	42	broadway,hollywood,show tunes	0.84	0.413	0.0	0.0297	72.029	0.308	0.292
+5L5N8YOsBxdzR9h9sudBgG	Barrett Wilbert Weed,Ryan McCartan	Dead Girl Walking	US6W61422227	61	broadway,hollywood,show tunes	0.518	0.537	0.0	0.0951	106.198	0.563	0.664
+2CBlRiZjGJZ10y5FRyn2Vb	Sutton Foster	Not for the Life of Me	USBC10200151	36	broadway,hollywood,show tunes	0.866	0.425	1.95e-06	0.106	184.339	0.339	0.224
+649R9kCgcTrjHaKSMUooia	Barrett Wilbert Weed,Erika Henningsen,Original Broadway Cast of Mean Girls	Apex Predator	USAT21801988	45	broadway,hollywood,show tunes	0.082	0.654	0.0	0.0885	111.964	0.458	0.822
+61M7eNkRHu19L73U5oJAB9	Renée Zellweger,John C. Reilly,Colm Feore,Taye Diggs	Funny Honey	USSM10213100	22	hollywood,show tunes	0.703	0.347	0.0	0.0578	84.235	0.503	0.222
+3venRr9h7c7oFyEpWtzC3i	Crazy Ex-Girlfriend Cast,Rachel Bloom	Etta Mae's Lament (feat. Rachel Bloom)	USNLR1801023	20	hollywood	0.882	0.919	0.0	0.072	129.067	0.884	0.459
+3hUxzQpSfdDqwM3ZTFQY0K	Taylor Swift	august	USUG12002842	76	pop	0.538	0.532	7.28e-05	0.0331	89.937	0.403	0.623
+5HkpZ7pTl8JxWwVfT3O2Me	Original Broadway Cast Of Can-Can	It's All Right With Me	USCA28900349	2	vintage broadway	0.956	0.42	0.033	0.0325	82.121	0.384	0.191
+0UR0jc3Ectk69m6WL9efyg	Original Broadway Cast Of Can-Can	Never, Never Be An Artist	USCA28900348	1	vintage broadway	0.741	0.557	0.0	0.101	144.49	0.873	0.331
+6rbksfu8IuNsPdo9TZZlKo	Original Broadway Cast Of Can-Can	Allez-Vous-En, Go Away	USCA28900347	1	vintage broadway	0.959	0.283	3.32e-05	0.0386	137.155	0.192	0.0875
+2PQniWMHgyJGsXSnsbBDRz	Original Broadway Cast Of Can-Can	Montmart'	USCA28900346	1	vintage broadway	0.841	0.652	0.000881	0.0478	141.809	0.926	0.499
+0lT9nlSAhqdH9etXV3lDAs	Original Broadway Cast Of Can-Can	If You Loved Me Truly	USCA28900345	1	vintage broadway	0.862	0.669	0.0	0.307	128.532	0.581	0.318
+2JiieFTRwRrgbJeuyaCeLL	Original Broadway Cast Of Can-Can	I Am In Love	USCA28900344	2	vintage broadway	0.942	0.303	0.00167	0.0442	95.236	0.332	0.258
+1Hm74cTxxu5f1pMZbWZ1Q3	Original Broadway Cast Of Can-Can	Live And Let Live	USCA28900343	1	vintage broadway	0.829	0.769	0.0	0.0685	103.855	0.696	0.222
+45uK7ivOT3BFn0wjiHxaG1	Original Broadway Cast Of Can-Can	Come Along With Me	USCA28900342	1	vintage broadway	0.893	0.628	4.84e-06	0.0645	122.063	0.452	0.15
+3cL5c8dEDtov6acLNqGdHC	Original Broadway Cast Of Can-Can	C'est Magnifique	USCA28900341	4	vintage broadway	0.955	0.45	0.0	0.0337	104.708	0.233	0.103
+4eNJGaRmh036zRwtO5gL3m	Original Broadway Cast Of Can-Can	Quadrille	USCA28900340	2	vintage broadway	0.824	0.63	0.868	0.0367	160.383	0.944	0.763
+1m9lFw9QmYsEbOXbrukd9B	Original Broadway Cast Of Can-Can	Never Give Anything Away	USCA28900339	1	vintage broadway	0.828	0.652	0.0	0.0433	64.349	0.671	0.205
+0UbAHziyEWN0gGQaSakjAx	Original Broadway Cast Of Can-Can	Introduction & Maidens Typical Of France	USCA28900338	2	vintage broadway	0.754	0.549	0.109	0.0471	137.518	0.683	0.62
+1sFBDOEFnaYPMGggAFkMfA	Stephen Schwartz,Candy Brown,Kathryn Doby,Ann Reinking,Jennifer Nairn-Smith,Pamela Souza	"Finale ""Pippin"" - Pippin/1972 Original Broadway Cast Recording"	USUMC0000290	24	broadway	0.822	0.382	0.000506	0.056	131.125	0.262	0.57
+1FkWCRKBh4Ea2uOzIchsQ1	Stephen Schwartz,Jill Clayburgh	I Guess I'll Miss The Man - Pippin/1972 Original Broadway Cast Recording	USUMC0000289	12	broadway	0.953	0.485	0.00288	0.0354	113.504	0.369	0.106
+1t8zmhrUMmO5B4aVlSj2SH	Stephen Schwartz,John Rubinstein,Jill Clayburgh	Love Song - Pippin/1972 Original Broadway Cast Recording	USUMC0000300	15	broadway	0.951	0.528	0.882	0.0312	110.652	0.292	0.223
+0MDkTDjGH9s4GFeR5fGio9	Stephen Schwartz,John Rubinstein	Extraordinary - Pippin/1972 Original Broadway Cast Recording	USUMC0000288	15	broadway	0.772	0.581	0.0	0.295	140.233	0.937	0.506
+37q6z0LCk9eCDYsCHmLMLq	"Kelli O'Hara,Company of The Original Broadway Cast Of ""Bridges Of Madison County"""	To Build a Home	USSK31413981	21	broadway,hollywood,show tunes,vintage broadway	0.869	0.245	0.0	0.0369	173.879	0.147	0.331
+0Jlcvv8IykzHaSmj49uNW8	Taylor Swift	the 1	USUG12002835	72	pop	0.757	0.777	7.28e-06	0.0522	139.883	0.172	0.357
+2IjyXpNgpBJuOoyKqNnvLh	First Aid Kit	Wolf	GBDNH1100103	54	stomp and holler,swedish americana,swedish country	0.0583	0.523	0.00105	0.0425	102.074	0.417	0.746
+1MPd109cX9mB9Os1KbsNw7	Chip Zien,Kim Crosby,Ben Wright,Danielle Ferland	"No One Is Alone (From ""Into The Woods"")"	USBC10500707	37		0.953	0.237	1.98e-06	0.0465	75.909	0.134	0.139
+5vSO8Kcv8XzXJSeSIXst65	Jessica Lee Goldyn	Dance: Ten; Looks: Three	USSM10604390	32		0.685	0.705	0.0	0.324	107.628	0.476	0.377
+3fzJcLWDgzx4l1tTdkAxYd	Kara Lindsay	Watch What Happens	USSK31222690	49	broadway,hollywood,show tunes	0.755	0.642	0.0	0.11	171.741	0.761	0.221
+5y9b65dSxULwCiQRLgzO21	Tom Odell	You're Gonna Break My Heart Tonight	GBARL1800744	43	chill pop,pop	0.784	0.287	0.000723	0.028	86.736	0.142	0.292
+29pAea2skNcpbYwJeCu7xL	Stephen Schwartz,Jill Clayburgh	Kind Of Woman - Pippin/1972 Original Broadway Cast Recording	USUMC0000299	14	broadway	0.848	0.429	2.72e-05	0.0331	114.845	0.298	0.408
+2QQRPygSvuqjMpL8QuPsAP	Stephen Schwartz,Ben Vereen,John Rubinstein	On The Right Track - Pippin/1972 Original Broadway Cast Recording	USUMC0000298	17	broadway	0.821	0.544	0.000139	0.0687	133.133	0.334	0.365
+3lvZo8f9VtjU8A6rrvi7sV	Stephen Schwartz,John Rubinstein	Morning Glow - Pippin/1972 Original Broadway Cast Recording	USUMC0000297	20	broadway	0.489	0.456	1.61e-05	0.0268	105.421	0.275	0.466
+0EYJEs3BmHTDQ7m6eH9JvJ	Stephen Schwartz,Leland Palmer	Spread A Little Sunshine - Pippin/1972 Original Broadway Cast Recording	USUMC0000296	15	broadway	0.868	0.337	0.00335	0.0407	142.731	0.277	0.438
+32QswopkKjN2W25U34jRJd	Stephen Schwartz,John Rubinstein	With You - Pippin/1972 Original Broadway Cast Recording	USUMC0000295	19	broadway	0.967	0.356	0.759	0.0368	71.603	0.371	0.233
+5liPMxJPCVt6KrOywdSZ4b	Stephen Schwartz,Irene Ryan	No Time At All - Pippin/1972 Original Broadway Cast Recording	USUMC0000294	18	broadway	0.707	0.673	0.0	0.299	132.301	0.522	0.563
+1XwKk1e5NMX6PSZjJQ0eZ7	Stephen Schwartz,Ben Vereen	Simple Joys - Pippin/1972 Original Broadway Cast Recording	USUMC0000293	21	broadway	0.371	0.676	0.0	0.0659	89.265	0.965	0.75
+5M0HhJgcpJ5tdxK8LmH4Hh	Stephen Schwartz,Ben Vereen	Glory - Pippin/1972 Original Broadway Cast Recording	USUMC0000292	18	broadway	0.594	0.497	3.45e-05	0.0707	125.261	0.531	0.436
+1XUDHKpaiFZbG9uEd6xK8G	Stephen Schwartz,Eric Berry,John Rubinstein	War Is A Science - Pippin/1972 Original Broadway Cast Recording	USUMC0000291	15	broadway	0.805	0.515	0.0	0.427	81.981	0.629	0.522
+4qtbwXxoBxVBepguFIsppK	Stephen Schwartz,John Rubinstein	Corner Of The Sky - Pippin/1972 Original Broadway Cast Recording	USUMC0000286	28	broadway	0.905	0.421	0.0109	0.0326	88.148	0.44	0.424
+6pAix4fdSSzpcUJYiEXrtE	Stephen Schwartz,Ben Vereen	Magic To Do - Pippin/1972 Original Broadway Cast Recording	USUMC0000287	26	broadway	0.494	0.491	0.0	0.041	119.281	0.478	0.681
+4EXxJB7NPrzwwomiZubzQI	Sherie Rene Scott	Every Story Is A Love Story (Reprise)	USWD10321235	10	broadway,hollywood,show tunes	0.892	0.338	0.00281	0.0302	85.544	0.0397	0.0621
+01hUozSfakiSvhw9oqb6TJ	Adam Pascal,Heather Headley	Enchantment Passing Through (Reprise)	USWD10321234	9	broadway,hollywood,show tunes	0.947	0.4	0.000168	0.0393	79.882	0.288	0.0172
+3l5pDw4QGyA0XIcqGV1ByT	Adam Pascal,Heather Headley	Elaborate Lives (Reprise)	USWD10321233	11	broadway,hollywood,show tunes	0.64	0.386	0.0	0.0436	116.37	0.124	0.228
+3TXOsT12Vxu9SkHLyJBbDu	Sherie Rene Scott	I Know The Truth	USWD10321232	12	broadway,hollywood,show tunes	0.789	0.423	0.0	0.0395	80.4	0.118	0.156
+40ziRKWfiTtK8z9jwqpDLO	Adam Pascal,Heather Headley	Written In The Stars	USWD10110083	18	broadway,hollywood,show tunes	0.581	0.464	0.0	0.0506	74.997	0.198	0.304
+17qFyKE5V7x5qaG7REPojL	Damian Perkins	How I Know You (Reprise)	USWD10321231	10		0.916	0.383	2.92e-06	0.0329	92.05	0.178	0.149
+6z06rCKhwHiCvCQuqrdXxo	Adam Pascal	Radames' Letter	USWD10321230	8	broadway,hollywood,show tunes	0.886	0.495	0.0	0.0363	71.968	0.329	0.0396
+1pCnfvv2uM0swuTHz02Sko	Adam Pascal,John Hickok	Like Father, Like Son	USWD10321229	11	broadway,hollywood,show tunes	0.0297	0.584	0.0	0.06	141.482	0.455	0.841
+4mh54pFTQMSeHVvyhkc7jM	Heather Headley	Easy As Life	USWD10110086	14	neo soul,r&b,urban contemporary	0.496	0.441	0.0	0.0361	110.01	0.172	0.418
+0bBGyhGD60gsHQdOCL6HRP	Adam Pascal	A Step Too Far	USWD10321228	16	broadway,hollywood,show tunes	0.28	0.509	0.0	0.0303	120.729	0.209	0.417
+6nPRPCYH0ewHdSqykHfvqQ	Ensemble - Aida,Heather Headley,Schele Williams	The Gods Love Nubia	USWD10110084	13		0.517	0.356	0.0	0.0462	136.885	0.158	0.332
+48YlZ17aXE9BXGvedfe1dt	Adam Pascal,Heather Headley	Elaborate Lives	USWD10321227	12	broadway,hollywood,show tunes	0.7	0.378	0.0	0.0388	114.233	0.0781	0.168
+0th8Zt74GtbFhtR8vtBExE	Adam Pascal,Damian Perkins,Heather Headley,Sherie Rene Scott	Not Me	USWD10321226	12	broadway,hollywood,show tunes	0.285	0.515	0.0	0.0324	113.171	0.281	0.306
+2xHYZ5VzvCLhRhxs5Rd7tx	Heather Headley,Schele Williams	Dance Of The Robe	USWD10321225	15	neo soul,r&b,urban contemporary	0.172	0.456	1.72e-06	0.0664	128.968	0.202	0.444
+1SXaQ2ZBjfJaPxWFhHxtcO	Adam Pascal,Heather Headley	My Strongest Suit (Reprise)	USWD10321224	11	broadway,hollywood,show tunes	0.887	0.409	0.0	0.0391	81.54	0.604	0.0279
+5T3g10Tao5J3ojYSUQjmaX	Adam Pascal,Heather Headley	Enchantment Passing Through	USWD10321223	11	broadway,hollywood,show tunes	0.547	0.398	0.0	0.0949	89.466	0.0768	0.253
+7iLxAfUXcreZIabBXhtXPL	Women of the Palace,Sherie Rene Scott	My Strongest Suit	USWD10110085	16		0.055	0.433	0.0	0.226	74.975	0.451	0.559
+0J3UJlPXpoSeSdQ2KWyUhZ	Damian Perkins	How I Know You	USWD10321222	12		0.744	0.327	0.0	0.0344	93.385	0.158	0.253
+049gEJMhCtsX7RDsp9lsGr	John Hickok	Another Pyramid	USWD10321221	11		0.0495	0.613	0.0	0.182	146.755	0.469	0.52
+6ePa9JJvC2UBHCi2ngOYIY	Heather Headley	The Past Is Another Land	USWD10321220	12	neo soul,r&b,urban contemporary	0.816	0.372	0.0	0.048	86.633	0.119	0.105
+2tZtN4Kghqt8wq4JFHYNmH	Adam Pascal	Fortune Favors The Brave	USWD10321219	14	broadway,hollywood,show tunes	0.0892	0.442	0.0	0.0514	149.973	0.512	0.858
+39e5s4lSe1dEs46YLyhWZq	Sherie Rene Scott	Every Story Is A Love Story	USWD10321218	16	broadway,hollywood,show tunes	0.724	0.395	0.0	0.0323	84.923	0.0747	0.142
+3AQUwT6IIX9iqBStVs6lWq	Sutton Foster	Gimme Gimme	USBC10200169	41	broadway,hollywood,show tunes	0.886	0.328	0.0	0.0469	176.136	0.21	0.213
+06UOwKoQ3o9KlVF1FxcaET	Alysha Umphress	I Can Cook Too	USB961552516	26		0.522	0.471	0.0	0.182	77.967	0.712	0.42
+2dx8PRHg15eX3jvgksAhmb	Heidi Blickenstaff,Brian D'Arcy James,John Cariani	Right Hand Man	USSK31523466	46	broadway,electra,show tunes	0.837	0.64	0.0	0.0909	146.954	0.834	0.434
+22mHSHFMsa9wx7jSRtqUsk	Stephen Sondheim,Pamela Myers,Harold Hastings,Original Broadway Cast Orchestra	Company - Original Broadway Cast: Another Hundred People	USSM10112736	26	broadway,hollywood,show tunes	0.51	0.457	0.0107	0.0794	93.79	0.258	0.543
+3ZrZ8IpricezKT0e1sSYRj	Stephanie J. Block	I'm Breaking Down	USSK31684926	41	broadway,hollywood,show tunes	0.751	0.606	0.0	0.315	140.561	0.56	0.432
+2bcpbtkKIs6vepnwrNQv8h	Adam Guettel	The Light in the Piazza	USNO10582912	32	broadway,show tunes,vintage broadway	0.948	0.291	0.000327	0.0382	93.117	0.189	0.157
+0FZTQz25rZsKmooi1gry4F	Stubby Kaye	"Sit Down, You're Rockin' The Boat (from ""Guys & Dolls"")"	GBLGL1092984	15	vintage broadway	0.872	0.532	0.194	0.119	128.809	0.61	0.274
+1slR1ayGGyNR6suZyH3Shk	Beth Malone,Michael Cerveris	Telephone Wire	USB951552923	30	broadway	0.725	0.506	0.0	0.149	102.769	0.125	0.205
+0g7zWHSZpXZxHRtHZ7UU3K	Ethel Merman,Ray Middleton	Anything You Can Do	USUMC0000167	32	vintage broadway	0.92	0.604	0.0	0.31	172.531	0.827	0.34
+72uZSV39a7nwjcgMjuphnm	Gavin Creel	Ilona	USSK31642374	27	broadway,show tunes	0.608	0.348	0.0	0.35	105.614	0.457	0.608
+7MuPMJriDFlqEbXh4vgVHD	A.J. Shively,Bright Star Original Broadway Ensemble	Bright Star	USSK31681447	33		0.511	0.523	0.0	0.0456	123.918	0.577	0.568
+6qw5Qgw0kIyuvbNpxQ0n28	Robert Alda	"Luck Be A Lady Tonight (from ""Guys & Dolls"")"	GBLGL1092982	13		0.925	0.617	1.61e-05	0.0491	71.237	0.78	0.193
+4Po0qSXAefBXoOzWHWoQ0J	Stubby Kaye,Johnny Silver	"Guys And Dolls (from ""Guys & Dolls"")"	GBLGL1092976	17	vintage broadway	0.823	0.562	0.0	0.119	204.849	0.567	0.193
+5heiTautAti5rDVU1OhneA	Ethel Merman,Ray Middleton,William O'Neal,Marty May	"There's No Business Like Show Business - From ""Annie Get Your Gun"""	USUMC0000176	31	vintage broadway	0.968	0.668	0.0	0.0718	135.245	0.685	0.291
+2PWfpglIC1ZITSmQLjioWi	London Festival Orchestra	Annie Get Your Gun: Overture	USUMC0000180	10	british orchestra	0.703	0.287	0.653	0.0321	106.976	0.234	0.332
+1xeDDyLOnWOqQf45Mi73fc	Neilson Taylor,Stanley Black	I'm A Bad, Bad Man	USUMC0000182	7		0.918	0.529	0.00133	0.0429	147.224	0.553	0.3
+5aAL786ybxLFZ6LglQ1Alg	Robert Lenn,Kathleen Carnes	Who Do You Love, I Hope?	USUMC0000178	5		0.972	0.565	0.0	0.075	167.585	0.648	0.164
+67Wlwf6MomQkQ400zEL9L7	Ethel Merman,Annie Get Your Gun Original 1946 Chorus	I Got Lost In His Arms	USUMC0000171	6	vintage broadway	0.976	0.363	4.3e-06	0.0352	72.45	0.158	0.15
+0ow7vzVDRjuyLkl7kXtF3W	Ethel Merman,Annie Get Your Gun Original 1946 Chorus	I'm An Indian Too	USUMC0000173	7	vintage broadway	0.884	0.746	0.0	0.0367	93.295	0.694	0.204
+5arpkR3IsdwoMftf4tLD8k	Ray Middleton,Annie Get Your Gun 1946 Original Broadway Male Chorus	My Defenses Are Down	USUMC0000175	6		0.989	0.414	1.16e-06	0.0362	139.603	0.422	0.209
+1SecSXFtyYktKYc0qimTmw	Ethel Merman,Robert Middleton,Marty May,William O'Neal	Moonshine Lullaby	USUMC0000174	8	vintage broadway	0.939	0.418	0.0	0.0587	168.349	0.326	0.225
+24TIMyfTHS7Xx2Uq66QhqP	Ethel Merman,Ray Middleton	They Say It's Wonderful	USUMC0000177	12	vintage broadway	0.985	0.39	0.0	0.0406	87.123	0.289	0.133
+0eQruRDd7aV6nwl9wFhJjU	Ethel Merman	You Can't Get A Man With A Gun	USUMC0000179	16	vintage broadway	0.902	0.82	0.0	0.0476	93.041	0.804	0.148
+21UWZSTl605k0bM3mFBlPp	Ray Middleton	The Girl That I Marry	USUMC0000169	7		0.981	0.314	0.00066	0.0303	76.904	0.348	0.138
+7Bmjg5cjDZsNHAG8O4mVTN	Ethel Merman	Doin' What Comes Naturally	USUMC0000168	17	vintage broadway	0.887	0.833	0.0	0.0654	92.832	0.806	0.204
+6ncErU9QVb8bRWgUkHagNR	Leslie Fyson,Benay Venuta,Stanley Black,Annie Get Your Gun 1946 Original Broadway Male Chorus	Colonel Buffalo Bill	USUMC0000181	6		0.801	0.525	0.00118	0.171	134.201	0.703	0.737
+3LIRN0Gxdr7cqxkRLUigjT	Walter Bobbie,Guys and Dolls Ensemble (1992)	Sit Down, You're Rockin' the Boat	USBC10001151	38		0.842	0.577	0.0	0.459	129.04	0.517	0.299
+4omKMytsN5mudpBbAsZPOQ	Kholby Wardell,Scott Redmond,The Ride the Cyclone World Premiere Cast Recording Ensemble	Noel's Lament	USSK32042562	28		0.618	0.38	0.0	0.106	86.973	0.47	0.268
+4zLKvG19DiCX4MyHzCG3H5	Corey Cott	Donny Novitski	QMQYB1710002	30		0.713	0.555	0.0	0.116	84.087	0.483	0.521
+4zkFAvR7dBHXeFQDaZqLmb	The Cast of Schmigadoon!	Cross That Bridge	USQX92102523	25		0.73	0.789	0.0	0.106	118.008	0.689	0.472
+5Xy1L9pRvzRZQRpj7lOoYK	Gavin Creel	What Do I Need with Love	USBC10200160	31	broadway,show tunes	0.825	0.477	0.0	0.0764	95.343	0.286	0.268
+0DaEYHXxQQZSuJOD9jnZFy	Dirty Rotten Scoundrels Original Broadway Cast	Here I Am	USSK30544608	33	broadway	0.667	0.669	0.0	0.118	101.692	0.589	0.441
+4r9fkYPFyfFjLTBtTqt5Ln	Stephen Sondheim,Beth Howland,Steve Elmore,Teri Ralston,Company Ensemble,Harold Hastings	Company - Original Broadway Cast: Getting Married Today	USSM10112737	27	broadway,hollywood,show tunes	0.896	0.422	1.42e-06	0.0826	141.609	0.45	0.47
+3EmPWj7sWhYW1vOtYSuhHy	Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast	Some Things Are Meant to Be	USSK30544515	39	broadway,show tunes	0.959	0.311	0.00019	0.0328	83.685	0.226	0.215
+5nGY247vAiGjDjZSiIZTS2	Rose	Everything's Coming Up Roses	USYRC0800370	37		0.69	0.516	0.0	0.0642	74.643	0.526	0.532
+2xJJF8zRBVNxFMUSctSmxV	Bonnie Milligan,Head Over Heels - A New Musical Ensemble	Beautiful	USQX91802525	26		0.0337	0.469	0.0	0.0618	153.94	0.289	0.798
+6XWkthgyfK4oWzMTkcV78M	Kait Kerrigan & Brian Lowdermilk,Carrie Manolakos	Run Away With Me (feat. Carrie Manolakos)	US6W61380005	30		0.58	0.559	0.0	0.0418	80.997	0.193	0.345
+3eHvdET2vkAQJWAsx2ZHBm	George Blagden	Another Hundred People	USWB11900318	28		0.802	0.518	1.34e-05	0.0698	108.285	0.448	0.376
+5JAnTPE0yzt9OSaUfTA1Fw	’Amélie’ Original London Cast	The Flight Of The Blue Fly - Original London Cast Recording	USC4R2002881	26		0.69	0.414	5.48e-06	0.0379	109.62	0.397	0.269
+1gEbqjTPKQnJK9XIdWgBzQ	Stephen Sondheim,Donna McKechnie,Susan Browning,Pamela Myers,Harold Hastings	Company - Original Broadway Cast: You Could Drive a Person Crazy	USSM10112733	31	broadway,hollywood,show tunes	0.711	0.73	0.0	0.127	97.937	0.808	0.475
+2iYN0LRqm3utGl8UiXXK4l	Sunday In The Park With George 2017 Broadway Company	Sunday	USWB11701679	26	broadway	0.874	0.144	0.00156	0.0381	74.985	0.0868	0.265
+3Qmb1Ohyk0955RnfLQvOvG	Adam Guettel	The Beauty Is	USNO10582903	31	broadway,show tunes,vintage broadway	0.923	0.278	1.73e-05	0.0432	69.002	0.326	0.157
+4DUnytzISzu2J7nhJoUGha	Original Cast of Amélie	Times Are Hard for Dreamers	GBAYC1700481	43	broadway,show tunes	0.803	0.437	1.97e-05	0.0306	78.211	0.376	0.506
+5g7Cop4WmcSpKN2Sadq3qv	Rose	Rose's Turn	USYRC0800375	37		0.754	0.627	2.26e-05	0.164	121.47	0.506	0.495
+6jgLIGTcVtQl9Q4r0otEMW	Emily Skeggs	Changing My Major	USB961552910	33	broadway	0.87	0.538	0.0	0.3	77.234	0.277	0.239
+24jeoiqST0kMcpaUzegkss	'Songs for a New World' 2018 Encores! Off-Center Company	Opening: The New World	USSK31819950	33		0.419	0.521	0.0	0.0401	139.91	0.391	0.471
+20KmljuVFtO6CqXspKBbtw	Solea Pfeiffer	I'm Not Afraid of Anything	USSK31819953	34		0.835	0.405	6.71e-06	0.0568	81.175	0.306	0.384
+5s012FPLoqWYDI7XP0ypWG	Andy Karl,Barrett Doss,Groundhog Day The Musical Company,Tim Minchin	One Day	USSM11702962	36	broadway,show tunes	0.506	0.399	0.0	0.0609	185.804	0.509	0.424
+6s0wcx7H6UuJs8Lx7e3BFC	Kelli O'Hara,Ken Watanabe,Ted Sperling,Orchestra	Shall We Dance?	USUM71506531	19	broadway,hollywood,show tunes,vintage broadway	0.896	0.536	0.0	0.206	105.534	0.483	0.266
+77zD8JbVnekVLBOog76Pzt	Groundhog Day The Musical Company,Tim Minchin	There Will be Sun	USSM11702955	23	broadway	0.799	0.266	0.000632	0.0328	179.122	0.19	0.452
+099sWPNYw44xJAAKcXYDmv	Vivian Blaine,Isabel Bigley	"Marry The Man Today / Guys And Dolls (Reprise) (from ""Guys & Dolls"")"	GBLGL1092985	7	vintage broadway	0.822	0.66	0.00014	0.0532	109.398	0.578	0.0726
+2n2Kt9Ux0CbQuSDxINMSeF	Vivian Blaine,Sam Levene	"Sue Me (from ""Guys & Dolls"")"	GBLGL1092983	10	vintage broadway	0.919	0.636	0.0	0.119	127.671	0.569	0.104
+1oBWhkb5FcbIj5i6ueQfRJ	Pat Rooney	"More I Cannot Wish You (from ""Guys & Dolls"")"	GBLGL1092981	7		0.926	0.354	0.0154	0.0373	68.457	0.426	0.0284
+5LgJxOtSB0kDKphDn7oxGt	Vivian Blaine,The Hot Box Girls	"Take Back Your Mink (from ""Guys & Dolls"")"	GBLGL1092980	8	vintage broadway	0.853	0.563	0.000507	0.0479	80.183	0.523	0.0808
+1NbWYfmSQjnW31rvrfl0jg	Robert Alda,Isabel Bigley	"I've Never Been In Love Before (from ""Guys & Dolls"")"	GBLGL1092979	9		0.976	0.232	7.89e-06	0.0395	70.888	0.37	0.061
+1jI85mMQ3dxEmRYwuSqvkC	Robert Alda	"My Time Of Day (from ""Guys & Dolls"")"	GBLGL1092978	7		0.757	0.295	0.000357	0.0457	87.076	0.296	0.0815
+0jXSDgk1qvK7QesamhRLhg	Isabel Bigley	"If I Were A Bell (from ""Guys & Dolls"")"	GBLGL1092977	10	vintage broadway	0.692	0.533	6.2e-06	0.0337	98.654	0.482	0.0556
+3tuClHA9PsIdJUCJ1yt9hd	Vivian Blaine	"Adelaide's Lament (from ""Guys & Dolls"")"	GBLGL1092975	10	vintage broadway	0.81	0.67	2.8e-06	0.0868	89.97	0.589	0.123
+2tbhHWrW6dg3aqIkCnrFna	Vivian Blaine,The Hot Box Girls	"A Bushel And A Peck (from ""Guys & Dolls"")"	GBLGL1092974	12	vintage broadway	0.769	0.627	0.122	0.0713	145.115	0.647	0.252
+7kGADjDiqCmUPBNLO1xs8m	Robert Alda,Isabel Bigley	"I'll Know (from ""Guys & Dolls"")"	GBLGL1092973	9		0.951	0.31	1.27e-06	0.0443	89.82	0.414	0.097
+4rmhQyN7hMYrc5ER8Sebe5	Same Levene,Stubby Kaye,Johnny Silver	"The Oldest Established (from ""Guys & Dolls"")"	GBLGL1092972	10		0.849	0.638	5.73e-06	0.186	130.207	0.543	0.262
+4OE85nO24v3jI6D9jgdRHg	Stubby Kaye,Johnny Silver,Douglas Deane,Isabel Bigley	"Runyonland Music / Fugue For Tinhorns / Follow The Fold (from ""Guys & Dolls"")"	GBLGL1092971	11	vintage broadway	0.747	0.396	0.000318	0.0478	70.557	0.53	0.183
+7ixcGQpg17q5a8F8V5pCje	Lindsay Mendez,Derek Klena	First Date / Last Night	USSK31322297	40	broadway,show tunes	0.604	0.575	8.66e-05	0.0346	94.915	0.451	0.366
+2av1BBGdN9DW1u7rvoRhMM	Annaleigh Ashford,Delta Nus,Dequina Moore,Laura Bell Bundy,Leslie Kritzer	Omigod You Guys	USSK30720001	52	broadway,hollywood,show tunes	0.497	0.57	0.0	0.645	159.939	0.622	0.481
+6PygGAmpvTfty4Clx53ft2	Jukebox The Ghost	Victoria	USEF70600143	53	indie pop,indie poptimism,indiecoustica,modern alternative rock,modern rock,piano rock,pop rock,stomp and holler	0.395	0.536	1.71e-05	0.0648	162.948	0.586	0.674
+19eS1kCEvKz2eVOrRGb1uL	Matt Maeson	Straight Razor	USAT21700289	45	indie poptimism,modern rock	0.00857	0.546	0.000134	0.0387	135.706	0.262	0.676
+3A1wDzh80odSP8vTGIWKL1	Sahr Ngaujah,Ricky Rojas,Aaron Tveit,Original Broadway Cast of Moulin Rouge! The Musical	Truth Beauty Freedom Love	USRC11902294	44	show tunes	0.0713	0.634	2.75e-06	0.0433	90.001	0.625	0.639
+4iidVKVixWQXVd1gM1F8cj	Rachel Bloom	Feelin' Kinda Naughty	USNLR1600007	32		0.0297	0.856	3.18e-05	0.225	132.993	0.665	0.799
+3nLH8otsE0Prl1FNK65G3H	Jonathan Groff,Brian Johnson,Jonathan B. Wright,Gideon Glick,Skylar Astin,John Gallagher, Jr.,Lea Michele,Lilli Cooper,Lauren Pritchard,Phoebe Strole,Remy Zaken	Left Behind - Original Broadway Cast Recording/2006	USUM70619076	40	hollywood,show tunes	0.687	0.259	0.0	0.0313	92.773	0.299	0.327
+4J1frZ39lhXTLV5usURBql	Richard Gere	Razzle Dazzle	USSM10213108	29	hollywood	0.605	0.508	0.0	0.0579	122.085	0.609	0.28
+79z09WeFvN9mrGQ6pDMW4B	25th Annual Putnam County Spelling Bee Original Cast	I Speak Six Languages	USSK30540715	34	broadway,show tunes	0.788	0.54	0.0	0.288	175.715	0.645	0.38
+0dulYlBiHx59BQYqd130nm	Crazy Ex-Girlfriend Cast,Santino Fontana	What'll It Be? (feat. Santino Fontana)	USNLR1600018	31	hollywood	0.897	0.519	0.0	0.0711	170.879	0.393	0.429
+1JxkLvLvvkNGSOiqGDoPnL	Aaron Tveit,Kerry Butler	Seven Wonders	USSK31195112	29	broadway,hollywood,show tunes	0.828	0.515	0.0	0.0441	74.308	0.365	0.402
+43J9PmUnxSNCxhJEUfPZeY	SMASH Cast	Let Me Be Your Star (SMASH Cast Version) [feat. Katharine McPhee & Megan Hilty]	USQX91101925	27	broadway,hollywood,show tunes	0.0432	0.337	0.0	0.0382	146.614	0.148	0.512
+6DYHHO29naX9uzbbeFTdpr	Douglas Hodge,Christine Andreas	The Best of Times	USB961009419	19	west end	0.871	0.332	0.0	0.0485	75.615	0.416	0.249
+1ObqIFmNsmION2gjrvYycO	Lea Michele,Lilli Cooper,Lauren Pritchard,Phoebe Strole,Remy Zaken,Brian Johnson,Jonathan B. Wright,Gideon Glick,Skylar Astin,John Gallagher, Jr.,Jonathan Groff	My Junk - Original Broadway Cast Recording/2006	USUM70619097	43	hollywood,post-teen pop,show tunes	0.167	0.734	0.0	0.035	118.086	0.67	0.575
+6OQPRssA9NnxypcQbYoWv4	Kevin Del Aguila,Jelani Alladin,Patti Murin,Greg Hildreth,Original Broadway Cast of Frozen	"Hygge - From ""Frozen: The Broadway Musical"""	USWD11887986	38		0.555	0.582	0.0	0.415	139.153	0.561	0.472
+3mcjClYAydv7jqqcu0tgQF	Jonathan Groff	All That's Known - Original Broadway Cast Recording/2006	USUM70619043	43	hollywood,show tunes	0.51	0.413	0.0	0.0955	202.201	0.822	0.519
+73hr344AmxNViy6IgFw6QL	Crazy Ex-Girlfriend Cast,Donna Lynne Champlin,Gabrielle Ruiz,Rachel Bloom,Vella Lovell	Let's Generalize About Men (feat. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz)	USNLR1701074	39	hollywood	0.159	0.814	0.0	0.0452	139.929	0.557	0.682
+63lUWddAaxY4axPCzwf4bD	Hedwig And The Angry Inch - Original Broadway Cast	Sugar Daddy	USAT21402209	33	broadway	0.00197	0.439	0.0	0.0508	110.22	0.66	0.882
+3cT6UtfTi6esXQColRG1sz	SMASH Cast	Let's Be Bad (SMASH Cast Version) [feat. Megan Hilty]	USQX91200110	19	broadway,hollywood,show tunes	0.345	0.621	0.0	0.104	110.541	0.596	0.515
+46KN4mFj7sfL8Oyep4cLnk	Andrew Lloyd Webber,Original Broadway Cast Of Sunset Boulevard,Glenn Close,Ed Evanko	As If We Never Said Goodbye	GBALG9400023	26	broadway,show tunes,west end	0.846	0.282	0.00185	0.0354	124.618	0.153	0.177
+6ig2r8kFzCLLRbF6t7cli3	Catherine Zeta-Jones,Susan Misner,Deidre Goodwin,Denise Faye,Ekaterina Chtchelkanova,Mya Harrison,Taye Diggs	Cell Block Tango	USSM10213102	47	hollywood,show tunes	0.393	0.601	0.0	0.363	125.309	0.654	0.34
+4hbXcjRmWiBQbLwTxbUlOp	Renée Zellweger	Roxie	USSM10213105	32	hollywood,show tunes	0.481	0.514	0.0	0.0429	132.683	0.464	0.403
+5JRgVMONxTRjC1g1d0XsvX	Aaron Tveit,Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical	Elephant Love Medley	USRC11902301	50	broadway,hollywood,show tunes	0.349	0.397	0.0	0.0726	143.53	0.378	0.62
+2s1LwWGa7WYHT2y1I0BVnh	Jonathan Groff,Brian Johnson,Jonathan B. Wright,Gideon Glick,Skylar Astin,John Gallagher, Jr.,Lea Michele,Lilli Cooper,Lauren Pritchard,Phoebe Strole,Remy Zaken	Totally Fucked - Original Broadway Cast Recording/2006	USUM70619105	45	hollywood,show tunes	0.128	0.69	0.0	0.0505	128.981	0.481	0.659
+1c7poXuCBmsnOXtuOi8LF3	Crazy Ex-Girlfriend Cast,Rachel Bloom	The Math of Love Triangles (feat. Rachel Bloom)	USNLR1600925	31	hollywood	0.58	0.478	0.0	0.364	185.192	0.574	0.519
+4e51xdDLaQW08LHNhdkwl9	Lea Michele	Mama Who Bore Me - Original Broadway Cast Recording/2006	USUM70619077	47	hollywood,post-teen pop,show tunes	0.814	0.323	0.0	0.0317	68.932	0.088	0.244
+6tDkAUoogVuJT9ta3jdG95	Stephen Trask	Wicked Little Town - Hedwig Version	USAT21402053	29	hollywood	0.952	0.59	0.64	0.0309	99.203	0.239	0.291
+6tRtygw4gCDSlAEQ6aqpOH	Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast	Astonishing	USSK30544512	41	broadway,show tunes	0.902	0.345	0.00214	0.0354	90.03	0.168	0.325
+2m0zBsVErrEAepB7uCt9tR	Douglas Hodge	I Am What I Am	USB961009412	33	west end	0.737	0.362	0.0	0.0471	82.985	0.386	0.26
+2r7H8zXauTITTtsnZhHDiH	Original West End Cast of Everybody's Talking About Jamie,John McCrea,Tamsin Carroll	And You Don't Even Know It	UKMES1800013	49	broadway,hollywood,show tunes,west end	0.157	0.617	0.0	0.0795	110.482	0.874	0.846
+0ndNFozqrRc1hs4hyyVVTT	Amy Lennox	The History of Wrong Guys	USSM11601082	30		0.0249	0.553	0.0	0.321	130.102	0.53	0.558
+34TY5bMvFrfPlZ7jqeGxi4	SIX,Izuka Hoyle	I Don't Need Your Love	GBKPL1821970	55	broadway,hollywood,show tunes	0.326	0.535	0.0	0.0612	97.611	0.331	0.447
+5EtdXtBNGevHrD8fqDEbDi	Aaron Tveit	Superboy and the Invisible Girl	USSK30963011	41	broadway,hollywood,show tunes	0.72	0.62	0.0	0.0359	127.02	0.419	0.443
+3sPzfldicfZYCDonmeDYgt	Andrew Lloyd Webber,Original Broadway Cast Of Sunset Boulevard,Alan Campbell	Sunset Boulevard	GBALG9400021	25	broadway,show tunes,west end	0.839	0.427	0.0	0.113	93.462	0.49	0.449
+23NImEU3oP44iA3Y7w7KyO	Crazy Ex-Girlfriend Cast,Santino Fontana	It Was a Shit Show (feat. Santino Fontana)	USNLR1601077	34	hollywood	0.651	0.382	0.000359	0.0453	169.98	0.216	0.402
+4mftMbsOZ14XIb5TTQi1kU	"Kelli O'Hara,Steven Pasquale,Company of The Original Broadway Cast Of ""Bridges Of Madison County"""	Always Better	USSK31414000	20	broadway,hollywood,show tunes,vintage broadway	0.914	0.359	1.21e-06	0.0367	81.45	0.0399	0.242
+7LLhQMq2KPuFz61V18FKGH	Steven Pasquale	It All Fades Away	USSK31413999	34	broadway,show tunes	0.516	0.395	0.0	0.0311	61.065	0.225	0.417
+0AN0ajGgyGg2oY8S9thptd	"Michael X. Martin,Hunter Foster,Company of The Original Broadway Cast Of ""Bridges Of Madison County"""	When I'm Gone	USSK31413998	14		0.795	0.57	1.29e-06	0.0373	137.781	0.2	0.301
+3R13NfIKxrVYbFledWhoXY	Steven Pasquale,Kelli O'Hara	One Second and a Million Miles	USSK31413997	31	broadway,show tunes	0.721	0.26	0.0	0.0514	68.06	0.0707	0.41
+3W2O6SHHBJju8Twzk71ZKI	Kelli O'Hara	Before and After You	USSK31413996	21	broadway,hollywood,show tunes,vintage broadway	0.911	0.277	0.0	0.0328	106.511	0.201	0.194
+027to34zV11dhlTBoHKLcR	Kelli O'Hara	Almost Real	USSK31413995	19	broadway,hollywood,show tunes,vintage broadway	0.933	0.323	0.0	0.0369	88.507	0.136	0.297
+0RaGjyXF6f0fMxQofot0mN	"Steven Pasquale,Kelli O'Hara,Company of The Original Broadway Cast Of ""Bridges Of Madison County"""	Who We Are and Who We Want to Be	USSK31413994	17	broadway,show tunes	0.881	0.341	1.23e-05	0.0304	76.076	0.262	0.224
+0j0w4398s2xyHI0EIXi47M	"Katie Klaus,Caitlin Kinnunen,Company of The Original Broadway Cast Of ""Bridges Of Madison County"""	State Road 21	USSK31413993	16		0.355	0.542	0.0	0.0844	92.404	0.678	0.77
+0Ael0SuyfQumCV37SsqR49	Steven Pasquale,Kelli O'Hara	Falling into You	USSK31413992	21	broadway,show tunes	0.899	0.194	2.79e-06	0.0356	171.489	0.106	0.297
+1SO1eCHnjs8f936psJTcU3	Cass Morgan,Whitney Bashor,Katie Klaus,Aaron Ramey	Get Closer	USSK31413991	14		0.707	0.416	0.0	0.0362	98.788	0.368	0.231
+22eGyf59yz7cpLjo4AEhqz	Hunter Foster	Something from a Dream	USSK31413990	15	broadway,show tunes	0.377	0.437	0.0	0.0283	86.058	0.24	0.403
+5ur8gFEWAsOibwjhYBmpfG	Steven Pasquale	The World Inside a Frame	USSK31413989	16	broadway,show tunes	0.843	0.366	3.18e-05	0.0343	103.383	0.0984	0.26
+7mHvtuw07i7Co0FbBKUgSQ	"Kelli O'Hara,Steven Pasquale,Company of The Original Broadway Cast Of ""Bridges Of Madison County"""	Look at Me	USSK31413988	19	broadway,hollywood,show tunes,vintage broadway	0.788	0.259	0.0	0.0316	67.115	0.2	0.36
+3jHXWZzWENwyl8JAWnWa1P	Steven Pasquale	Wondering	USSK31413987	27	broadway,show tunes	0.814	0.338	4.96e-06	0.0333	112.498	0.11	0.353
+42og107RMzQPsQUIJBSUbD	The Mills Brothers	You Always Hurt The One You Love	USMC14471812	42	adult standards,big band,lounge,swing,vocal harmony group,vocal jazz	0.908	0.59	0.0	0.0434	133.504	0.4	0.0597
+3JCCvTgni9OxtLGzOxxHH2	T'Shan Williams,Dominic Andersen,Christopher Chung,Original West End Cast of Heathers	Never Shut Up Again	USSK31993188	46	broadway,show tunes	0.16	0.739	0.0	0.117	123.952	0.772	0.748
+0TZQ8b5R5O9k0gUJpqsA1V	Crazy Ex-Girlfriend Cast,Scott Michael Foster,Vincent Rodriguez III	Sports Analogies (feat. Scott Michael Foster & Vincent Rodriguez III)	USNLR1801004	25	hollywood	0.57	0.631	0.0	0.0496	125.154	0.582	0.565
+3aJgAgTI9srxcTuyzVDtkm	Anika Noni Rose	"Almost There - From ""The Princess and the Frog"" / Soundtrack Version"	USWD10936987	63	hollywood,movie tunes	0.808	0.535	1.25e-05	0.0431	78.784	0.557	0.448
+3VQ6Oy4jZhyIOKBPqydION	Renée Zellweger,Taye Diggs	Nowadays (Roxie)	USSM10213110	15	hollywood,show tunes	0.89	0.502	0.0	0.0434	66.605	0.283	0.177
+18QgUda9vrDw3a88uNq2GQ	Original West End Cast of Everybody's Talking About Jamie,Mina Anwar,John McCrea,Josie Walker	Everybody's Talking About Jamie	UKMES1800020	40	broadway,hollywood,show tunes,west end	0.0821	0.611	0.0	0.243	177.984	0.719	0.935
+5kRBzRZmZTXVg8okC7SJFZ	La La Land Cast	Another Day Of Sun	USUG11600653	62		0.0162	0.588	3.98e-06	0.0528	125.819	0.824	0.742
+3QRqzF6rX9nZbTGQvBU5bN	The Wombats	Lemon to a Knife Fight	GBWWP1703232	55	liverpool indie,modern alternative rock,modern rock,rock	0.000889	0.557	0.0	0.0444	149.994	0.71	0.849
+0DiQAYZAOQLL9mwinkRS3E	Papooz	Ann Wants to Dance	FR53O1500010	49	french indie pop,french indietronica	0.672	0.742	0.0292	0.027	100.859	0.718	0.436
+2k5QQ3e9F6S8S2ulVs9Q1c	The Millennium	There Is Nothing More to Say	USSM16801620	22	sunshine pop	0.34	0.317	0.00601	0.0288	80.588	0.193	0.352
+6Bj3kOBtf2MvQYtkOAMkgp	Fulminacci	La Soglia Dell'Attenzione	ITIWE1900031	34	italian indie pop,rome indie	0.105	0.679	0.0	0.281	169.943	0.8	0.774
+29MIH1pt96mQe5bOUSfPMd	Whitney Bashor	Another Life	USSK31413986	25		0.684	0.363	0.0	0.0328	129.713	0.337	0.251
+0u9P5OAv2BCxbH3jJ3DjGA	"Hunter Foster,Company of The Original Broadway Cast Of ""Bridges Of Madison County"""	You're Never Alone	USSK31413985	16	broadway,show tunes	0.302	0.608	0.0	0.049	93.061	0.576	0.624
+7BQVQq5SQ4zd2ZrB8x5npr	Kelli O'Hara	What Do You Call a Man Like That?	USSK31413984	19	broadway,hollywood,show tunes,vintage broadway	0.925	0.22	0.0	0.0357	180.49	0.156	0.343
+0iitgDzO71dJ9bv42wlC3Z	Steven Pasquale	Temporarily Lost	USSK31413983	19	broadway,show tunes	0.701	0.253	0.0	0.0393	170.778	0.267	0.467
+4BMDC0gqzRyIDQ6vWBUNSf	Hunter Foster,Derek Klena,Caitlin Kinnunen,Kelli O'Hara	Home Before You Know It	USSK31413982	17	broadway,show tunes	0.82	0.548	0.0	0.0609	120.035	0.513	0.475
+78ZsfJB762SXFfLK96mBmC	Barns Courtney	The Attractions Of Youth	GBUM71701360	37	modern alternative rock,modern rock,rock	0.204	0.421	0.0	0.0294	139.958	0.347	0.476
+6mvWWdjsHt3WN53JP84dN2	The Format	Dog Problems	CAN110601048	38	emo,indie pop	0.696	0.448	0.0	0.0376	107.52	0.288	0.332
+0H3mSGw8DyjbPUay56JdUm	Lauren Aquilina	Tobacco In My Sheets	GBKPL1940362	30	neo-singer-songwriter,viral pop	0.656	0.524	0.0	0.0435	112.952	0.276	0.207
+5LvNPnYoZA1XCMgUGgAges	St. Vincent	…At The Holiday Party	USC4R2005178	36	art pop,electropop,etherpop,indie pop,metropopolis	0.638	0.604	0.0273	0.144	176.08	0.602	0.434
+33QUPsMD9blH3tUBBRxeSr	Frank Iero	She's the Prettiest Girl at the Party, and She Can Prove It with a Solid Right Hook	USVR91422404	45	new jersey indie	0.00191	0.397	0.575	0.0655	120.147	0.243	0.902
+48MIIeknlrOhuutVqdR1fT	The Crystal Casino Band	Not About You	QZK6L2106865	36		0.053	0.416	0.0144	0.033	77.948	0.64	0.792
+2Y6FEOBXOQ0NTVzl0DGDJk	Lawrence	Oranges	TCABL1336211	40	nyc pop,retro soul	0.326	0.41	0.0	0.0364	122.089	0.568	0.485
+4YsEgbgu7ZIJETqpYwukbn	Rilo Kiley	Science Vs. Romance	USBS50310137	40	anti-folk,indie pop,indie rock,la indie,lilith,pop rock	0.0191	0.458	0.000228	0.0281	81.99	0.277	0.746
+4dGnpJ5yBcVL81YqMPi0ml	Ryn Weaver	Traveling Song	USUM71502421	35	electropop,indie pop,indie poptimism	0.858	0.518	0.0	0.0361	147.241	0.628	0.372
+1vXZuXKnTyoDBAJOCtjJFq	Nada Surf	Meow Meow Lullaby	TCACU1698361	30	indie rock,power pop	0.894	0.684	0.0378	0.0299	89.101	0.448	0.28
+4Eg7rWODFFHoNc9KtwL4oT	Nat & Alex Wolff	Glue	TCAEZ2091441	45		0.00446	0.72	0.0215	0.0375	135.013	0.236	0.511
+3ZWRPv4UvmpFy83ooBuk7Y	Card Club	Gabriella	QZES51902350	43		0.334	0.647	0.00134	0.0312	121.005	0.683	0.633
+0IkBQt9vSLLwoX0knkusSl	Greta Isaac	Pessimist	NORYA2014020	30	uk pop	0.0473	0.539	0.000349	0.236	174.047	0.729	0.524
+5rnLFnHktBdmpxwYXJXyQI	Demi Lovato	Get Back	USHR10824059	45	dance pop,pop,post-teen pop	0.00327	0.558	0.0	0.116	76.018	0.72	0.867
+6Vigp41BietH0WoFZ52JI5	Oh Wonder	All We Do	GB9L31400014	59	electropop,indie poptimism,pop,pop rock	0.978	0.59	0.000124	0.0516	126.721	0.366	0.242
+2kXwNcC8oHfxgSIgM0XYoq	of Montreal	Everything Disappears When You Come Around	US37V9708901	36	alternative dance,alternative rock,anti-folk,art pop,baroque pop,elephant 6,indie pop,indie rock,new rave	0.9	0.662	0.0	0.0354	118.743	0.615	0.275
+6fFoUIj16hCVGreZRd4jKY	A Chorus Line Ensemble (2006)	Opening: I Hope I Get It	USSM10604382	38	broadway,show tunes	0.809	0.562	2.62e-06	0.228	140.89	0.311	0.357
+54Sc7mZQ1RM03STpk4SfaA	Phillipa Soo,Original Broadway Cast of Hamilton	Helpless	USAT21502605	66	hollywood,show tunes	0.334	0.688	0.0	0.269	79.009	0.737	0.491
+5xo8RrjJ9CVNrtRg2S3B1R	Phoebe Bridgers	Motion Sickness	USJ5G1714202	73	indie pop,la indie	0.774	0.651	0.0437	0.0357	107.021	0.623	0.546
+2i8AUtHEQx3lkD0x502KJi	Superet,Olivia Kaplan	Prism	QZRP52152627	9	la indie	0.265	0.555	6.96e-05	0.137	80.038	0.416	0.428
+4XZBtvIXApjQ75xG7RUzwu	The Vaccines	Back In Love City	GBKPL2148298	31	indie rock,modern alternative rock,modern rock,rock	0.000499	0.608	0.00223	0.0292	133.969	0.962	0.827
+3AReOxXIYVZPBnXWkwdhuS	The Young Veins	Cape Town	QZ4JJ1915790	37		0.173	0.578	0.0	0.0336	129.185	0.594	0.825
+4c6vZqYHFur11FbWATIJ9P	The La's	There She Goes	GBAQT8800001	67	britpop	0.013	0.533	0.829	0.0298	122.777	0.917	0.761
+51VQDAbsX0PKTmAwgzaKHz	Duncan Sheik	There Once Was A Pirate	USUM70621612	31	pop rock	0.386	0.679	0.0578	0.0347	114.982	0.205	0.458
+7BsbbwN45zZ549OBUp1VVV	Allie X	Alexandra	GBLFP1632274	30	alt z,art pop,canadian electropop,canadian pop,dance pop,dark pop,electropop,escape room,indie pop,indie poptimism,metropopolis,pop,post-teen pop,tropical house,vapor soul	0.819	0.539	0.00643	0.0286	128.012	0.191	0.306
+1ucjmB6RNtJGQ5nURZIWED	Goodnight Goodbye	Dad Dancing	SE5752082691	38		0.248	0.704	0.364	0.0406	122.016	0.777	0.686
+6NfKaTgPrh4zi24lRyWdbw	Blossom Caldarone	1964	GBKPL1791167	37	uk alternative pop	0.58	0.635	0.0	0.0448	83.151	0.276	0.387
+7GPBA8xjMJyN6SjoKd4O9E	Sammy Rae & The Friends	Jackie Onassis	CAN112000190	55	indie pop,nyc pop	0.196	0.477	0.0	0.0613	104.721	0.541	0.556
+79Bgpf10NtBBKN2aAxA6OJ	Zaska,Andrew Hozier-Byrne,Karen Cowley	In Your Own Sweet Time	UST8K1873758	42	irish pop	0.389	0.285	0.0	0.0315	71.655	0.399	0.34
+3ySHBNJhfETHFE1OAYFCbR	Vienna Teng	Stray Italian Greyhound	USZO10912507	36	acoustic pop,ectofolk,lilith,melancholia,piano rock	0.623	0.68	0.00023	0.0358	121.997	0.543	0.432
+3zBCnR97ZgU7oIwCjICOb1	Ben Thornewill	Songbirds	USHM91935786	40		0.909	0.494	0.00181	0.0323	80.999	0.249	0.408
+3fpBFNgl5fyPS2utmCZYvi	The Maine	I Only Wanna Talk to You	QMEU31700203	39	modern rock,neon pop punk,pop emo,pop punk,pop rock,rock,tempe indie	0.00276	0.432	0.0208	0.215	170.043	0.471	0.971
+783WxK2qAIYbBEIiWeYzyk	Metronomy	Things will be fine	GBMVH2100610	27	alternative dance,electronica,indie rock,indietronica,modern rock,new rave,socal pop punk	0.438	0.716	0.265	0.0304	144.964	0.916	0.713
+6tEfE6AC7sc2rN6q2QtPvc	Oh Wonder	Ultralife	GBUM71700980	38	electropop,indie poptimism,pop,pop rock	0.235	0.442	0.0055	0.0477	95.148	0.431	0.782
+4LRPiXqCikLlN15c3yImP7	Harry Styles	As It Was	USSM12200612	100	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+7kpJ7w8UNv052VrOJnuxbF	Dee Hoty	Can You Find It in Your Heart?	USSK31192961	22		0.948	0.42	0.0	0.0503	83.949	0.203	0.0599
+57Bd0IGmgkDMoEMGrAg6bx	Ariana DeBose	Alyssa Greene	QZ8BZ2000533	41	broadway,hollywood,show tunes	0.872	0.527	0.0	0.0482	106.803	0.516	0.373
+2tD5TzOdRk1ld9oR4iKNQG	Fulminacci	Santa Marinella	ITIWE2100064	43	italian indie pop,rome indie	0.186	0.501	0.0	0.0322	75.027	0.326	0.698
+3s0y0NRvDGpgvJ4dq8lXZl	Patina Miller,The Players	Magic to Do	USSK31392901	38	broadway,hollywood,show tunes	0.106	0.352	4.41e-06	0.0434	124.824	0.253	0.616
+2W7wqrmruKE07zZCg8rSdm	Stephanie D'Abruzzo	There's a Fine, Fine Line	USV110300221	41	broadway,hollywood,show tunes	0.884	0.497	0.000454	0.04	129.628	0.236	0.136
+7H8Ga5vDJKhgxQ0uTiScUf	Travis	Flowers In The Window	GBBPF0100541	56	britpop,pop rock,rock	0.0725	0.38	0.0	0.0264	97.957	0.463	0.738
+4KOWQHmojlvXcQxkbLSvBF	Flamin' Groovies	That'll Be the Day	USBR10000073	10	classic garage rock,country rock,folk rock,freakbeat,garage rock,power pop,protopunk,psychedelic rock,pub rock,punk,punk blues	0.605	0.571	0.0	0.036	125.551	0.96	0.759
+4PmpVbhQVUFRfFpMqz0Kro	Original Cast of Amélie	Stay	GBAYC1700501	36	broadway,show tunes	0.783	0.32	0.0	0.0317	161.687	0.255	0.324
+6PR1gC6YEXLTj9Nji4J0Wt	Stephen Sondheim	Getting Married Today	USNO10750479	37	broadway,hollywood,show tunes	0.9	0.424	1.72e-06	0.0766	163.022	0.364	0.487
+6xJiY2PXA5likWAqdX5tAe	James Marsden	(It's) Hairspray	USNLR0700061	39	hollywood	0.732	0.424	0.0	0.109	134.865	0.539	0.773
+1NE7ctDmeMclZuMNYY5o3j	Sissi	Come, come	QMDA72129285	57		0.133	0.844	2.19e-06	0.0692	110.056	0.777	0.756
+7m9XR7FquXLP1FewdAcNS9	Leslie Odom Jr.,Daveed Diggs,Original Broadway Cast of Hamilton	Guns and Ships	USAT21502613	65	broadway,hollywood,show tunes,vocal jazz	0.399	0.72	0.0	0.328	138.03	0.383	0.666
+2eGCc9zvaUKzd3oKwQNwXW	Calcutta ,Takagi,Ketra	Oroscopo (feat. Takagi & Ketra)	ITM381600065	48	italian indie pop,rome indie	0.276	0.604	0.0	0.126	163.945	0.793	0.822
+5j9yOfRB2s6OMS1YwwYiMw	Panic! At The Disco	Impossible Year	USAT21503702	54	modern rock	0.474	0.174	0.000294	0.0313	85.574	0.0978	0.337
+5kI4eCXXzyuIUXjQra0Cxi	Taylor Swift	betty	USUG12002848	69	pop	0.6	0.593	0.0	0.0253	95.939	0.502	0.377
+3LwfZ5u7kBI79r8saMvFIb	Christopher Sieber,Sara Ramirez	"The Song That Goes Like This - Original Broadway Cast Recording: ""Spamalot"""	USUMC0500053	33	broadway,show tunes	0.721	0.239	0.0	0.0519	180.973	0.24	0.686
+5UxRXq6FP3ILFElf60jHaU	Rob Rokicki,Kristin Stokes	My Grand Plan	QMQYB1916912	45	broadway,show tunes	0.708	0.64	0.0	0.043	82.115	0.4	0.421
+41ZrhgHdQjhNXEe6WZckIv	Max Harwood,''Everybody's Talking About Jamie'' Original Album Cast	Don't Even Know It	GBUM72100541	33		0.0542	0.596	0.0	0.0468	110.344	0.495	0.902
+05vReyxhvuE564kb2Jnmux	Daniel Breaker,Brian D'Arcy James	Who I'd Be	USUM70954006	47	broadway,hollywood,show tunes	0.672	0.308	0.0	0.137	190.057	0.401	0.642
+6bpZMLiRQDm2XcjZudu3xV	Lizzy McAlpine	doomsday	GBKPL2168486	59	boston folk,indie pop,pop	0.584	0.409	0.0	0.0333	133.566	0.119	0.266
+7caj6X6NMX3tlhWnu1du6V	Ritchie Valens	We Belong Together	USRH10551595	65	adult standards,brill building pop,rock-and-roll,rockabilly	0.872	0.684	0.000166	0.0281	106.522	0.768	0.247
+3x8QypkuOoXR86w8FnajwC	Fulminacci	Brutte compagnie	ITIWE2101492	44	italian indie pop,rome indie	0.211	0.921	6.31e-06	0.0581	122.968	0.918	0.764
+4QNuz0m2QCn2Yw1sCUNIS2	Grey Henson,Barrett Wilbert Weed,Taylor Louderman,Ashley Park,Kate Rockwell,Erika Henningsen	Meet The Plastics	USAT21801360	53	broadway,hollywood,show tunes	0.468	0.44	0.0	0.0844	159.66	0.384	0.584
+4YfNmQKnrX5DrlAxSAnMoA	Andrew Rannells	I Believe	USSK31192112	49	broadway,comic,hollywood,show tunes	0.676	0.377	0.0	0.051	166.553	0.563	0.452
+5rvy7glNYmhpiLUaiEELn2	Super Furry Animals	Something 4 the Weekend	USSM10202478	38	alternative rock,britpop,chamber psych,welsh indie,welsh rock	0.122	0.474	0.000342	0.0323	165.646	0.563	0.78
+53lZFYDTq1WuPva8hD8LwL	Fulminacci	Meglio di così	ITIWE2100063	46	italian indie pop,rome indie	0.28	0.696	0.0	0.043	83.01	0.791	0.661
+3Bw3v2zZpA1Yo5faG2WYON	The Millennium	5 a.m.	USSM16801611	45	sunshine pop	0.717	0.57	0.671	0.0312	122.871	0.619	0.517
+7dW84mWkdWE5a6lFWxJCBG	Taylor Swift	‘tis the damn season	USUG12004704	63	pop	0.735	0.575	6.59e-05	0.0312	145.916	0.348	0.434
+4nna9JONFIwr98bcX6tlta	Mike Faist,Ben Platt,Will Roland	Sincerely, Me	USAT21603423	61	broadway,hollywood,show tunes	0.168	0.677	0.0	0.12	97.864	0.603	0.731
+72BIYdOmoytW14M7BQYyZu	Peach Pit	Look Out!	USSM12102951	52	indie pop,modern rock,vancouver indie	0.669	0.462	5.5e-06	0.0271	100.692	0.286	0.394
+05om7Ac9m7wKq1rHn4sHQh	Caissie Levy,John Riddle,Original Broadway Cast of Frozen	"Monster - From ""Frozen: The Broadway Musical"""	USWD11887990	49	broadway,show tunes	0.214	0.41	0.0	0.0381	91.927	0.147	0.457
+1TPtmkHm5NIZwbI9F2ZjaV	Radical Face	Reveries	QZJCU1900068	25	indie folk,jacksonville indie,stomp and holler	0.589	0.643	0.000145	0.0301	113.97	0.509	0.355
+53vg8y567ntoMpexs1OJov	Alan Hull	Justanothersadsong - 2005 Digital Remaster	GBAAA0500717	23	british folk,classic uk pop	0.105	0.694	3.61e-05	0.0368	122.386	0.967	0.56
+2SdnYaB5Py2btGBTLXsK7m	Sutton Foster,Thoroughly Modern Millie Ensemble	Thoroughly Modern Millie	USBC10200152	31	broadway,hollywood,show tunes	0.75	0.678	0.0	0.0699	99.239	0.773	0.538
+2mWpqBnuI40nh6gUu2fl35	Silvertwin	Ploy	GBKPL2081643	24		0.358	0.614	0.00149	0.0294	125.002	0.57	0.8
+5AOmtc34V50R1hAOshTTmD	Sutton Foster,Anne L. Nathan,Thoroughly Modern Millie Ensemble	Forget About the Boy	USBC10200164	39	broadway,hollywood,show tunes	0.727	0.456	1.6e-06	0.258	200.316	0.766	0.437
+71X7bPDljJHrmEGYCe7kQ8	Renée Elise Goldsberry,Phillipa Soo,Jasmine Cephas-Jones,Leslie Odom Jr.,Original Broadway Cast of Hamilton	The Schuyler Sisters	USAT21502600	67	hollywood,show tunes	0.187	0.74	0.0	0.278	101.409	0.792	0.727
+3PG7BAJG9WkmNOJOlc4uAo	The Velvet Underground,Nico	Femme Fatale	USPR36702761	58	alternative rock,art rock,classic rock,folk rock,melancholia,permanent wave,protopunk,psychedelic rock,rock	0.913	0.55	0.0	0.0332	103.918	0.138	0.145
+7km7xVPtDngtm4SfhOrBBg	SMASH Cast	The 20th Century Fox Mambo (SMASH Cast Version) [feat. Katharine McPhee]	USQX91200058	20	broadway,hollywood,show tunes	0.178	0.61	0.0	0.217	95.106	0.473	0.537
+2zmVIcl0gaQWULEj5VgkHj	Pop X	Figli Di Puttana	ITLGE1800009	20	hyperpop italiano,italian indie pop	0.326	0.752	0.0	0.0734	111.046	0.772	0.44
+5JEHFwefxoauQoUPJ0YV4t	My Fair Lady Ensemble	Ascot Gavotte	USSM10027554	23		0.933	0.542	0.00016	0.0431	116.147	0.312	0.222
+6RK76ikiQGgAxRb7AKN5f3	Julie Andrews,Philippa Bevans,Rosemary Gaines,Colleen O'Connor,Muriel Shaw,Gloria van Dorpe	"I Could Have Danced All Night - from ""My Fair Lady"""	USSM10027737	36	adult standards,hollywood,movie tunes,show tunes	0.82	0.344	2.71e-06	0.0408	143.441	0.404	0.311
+0PYz74BvM0AktY1ry8J2bV	Rex Harrison,Julie Andrews,Robert Coote,Rosemary Gaines,Colleen O'Connor,Muriel Shaw,Gloria van Dorpe,Glenn Kezer	The Rain in Spain	USSM10027553	26	vintage broadway	0.738	0.459	0.0	0.166	166.161	0.569	0.366
+14OjlLWKs63z4UI7OapYm8	Hadestown Original Broadway Band,Hadestown Original Broadway Company,Anaïs Mitchell	Papers - Instrumental	USWB11901381	41		0.0258	0.42	0.638	0.0405	87.262	0.721	0.736
+1oVH404oz30kMDH3HgUooq	Patrick Page,Amber Gray,André De Shields,Eva Noblezada,Reeve Carney,Hadestown Original Broadway Company,Anaïs Mitchell	"Papers (""You're not from around here, son..."") [Intro]"	USWB11901380	43	broadway,hollywood,show tunes	0.311	0.583	1.32e-06	0.523	171.516	0.443	0.604
+7pa1vDDj9rhlw2ABngvF6D	Reeve Carney,Eva Noblezada,Anaïs Mitchell,Hadestown Original Broadway Company	Come Home with Me (Reprise)	USWB11901379	43	broadway,hollywood,show tunes	0.878	0.586	3.33e-05	0.0452	129.112	0.407	0.197
+48PFfbnf0ZRcGCxO4zApPp	Eva Noblezada,Anaïs Mitchell,Hadestown Original Broadway Company	Flowers	USWB11901378	47	broadway,hollywood,show tunes	0.829	0.49	0.000237	0.0344	85.921	0.15	0.138
+6xmVDUcdzkiTEXAWJXIINR	Caissie Levy,Original Broadway Cast of Frozen	"Dangerous to Dream - From ""Frozen: The Broadway Musical"""	USWD11887979	41	broadway,show tunes	0.786	0.313	0.0	0.0326	139.104	0.222	0.285
+5DkVKfwglZe6BIGC3U77Fh	Carrie Hope Fletcher	I Won't Say (I'm in Love)	TCADM1817111	47	broadway,hollywood,show tunes	0.213	0.624	2.43e-05	0.0438	121.632	0.618	0.596
+1PK3BtcF1Dvfd8a24Xejaj	Jeremy Jordan,Newsies Original Broadway Cast	Carrying The Banner	USSK31222685	49	broadway,hollywood,show tunes	0.49	0.488	0.0	0.115	149.494	0.512	0.491
+3RIYlQ20buPfanKbSyGh98	Carrie Hope Fletcher,Original West End Cast of Heathers	I Say No	USSK31993195	52	broadway,hollywood,show tunes	0.322	0.398	0.0	0.129	173.01	0.487	0.691
+6HYNtHYxaWxkOIgS9Qzy4D	Christopher Fitzgerald,Sutton Foster,Fred Applegate,Ensemble	Transylvania Mania	USUM70762818	27	broadway,hollywood,show tunes	0.432	0.679	0.0	0.0815	110.743	0.778	0.6
+71Ii27mkATertsqODT3Nax	Jake Ryan Flynn,Charlie and the Chocolate Factory Broadway Ensemble	Willy Wonka! Willy Wonka!	USSM11704596	25		0.806	0.837	0.0	0.21	103.988	0.593	0.416

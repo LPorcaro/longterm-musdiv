@@ -1,0 +1,45 @@
+Electronic artists found: Major Lazer,Anitta,Pabllo Vittar
+Electronic genres found: electro house, edm, tropical house, moombahton
+Electronic music logs found: 5.26% 
+
+Top genres
+	1: dance pop (6.45%)
+	2: pop (6.45%)
+	3: rap (4.84%)
+	4: latin alternative (4.84%)
+	5: world (4.84%)
+Top artists
+	1: Anitta (2.86%)
+	2: H.E.R. (2.86%)
+	3: Phony Ppl (2.86%)
+	4: Pusha T (2.86%)
+	5: Major Lazer (2.86%)
+Top country
+	1: US (47.37%)
+	2: QM (15.79%)
+	3: FR (15.79%)
+	4: HK (5.26%)
+	5: GB (5.26%)
+Top record
+	1: UM7 (21.05%)
+	2: 84R (10.53%)
+	3: 7XC (5.26%)
+	4: I19 (5.26%)
+	5: CJ8 (5.26%)
+Top year
+	1: 18 (15.79%)
+	2: 17 (15.79%)
+	3: 16 (10.53%)
+	4: 07 (10.53%)
+	5: 15 (5.26%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   19.000000     19.000000     19.000000         19.000000    19.000000   19.000000  19.000000  19.000000
+mean    51.368421      0.395452      0.640895          0.018226     0.135700  110.102000   0.528895   0.564526
+std     14.353515      0.369931      0.137162          0.063876     0.132137   30.818375   0.206411   0.209190
+min     17.000000      0.000095      0.400000          0.000000     0.032100   75.208000   0.110000   0.179000
+25%     43.000000      0.043350      0.541500          0.000000     0.041250   83.995000   0.402000   0.410000
+50%     55.000000      0.401000      0.611000          0.000002     0.071500  105.169000   0.556000   0.504000
+75%     60.500000      0.729500      0.746000          0.001645     0.167500  127.194500   0.652500   0.772500
+max     73.000000      0.973000      0.877000          0.280000     0.414000  191.944000   0.929000   0.913000

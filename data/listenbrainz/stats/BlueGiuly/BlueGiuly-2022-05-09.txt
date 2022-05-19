@@ -1,0 +1,45 @@
+Electronic artists found: R3HAB,Sigala,JP Cooper, Zara Larsson,Sabrina Carpenter
+Electronic genres found: slap house, edm, tropical house, electro house, dutch house, progressive electro house
+Electronic music logs found: 4.65% 
+
+Top genres
+	1: k-pop (20.18%)
+	2: k-pop boy group (18.35%)
+	3: pop (11.01%)
+	4: dance pop (7.34%)
+	5: italian pop (5.50%)
+Top artists
+	1: Dua Lipa (3.57%)
+	2: Elisa (3.57%)
+	3: Agust D (3.57%)
+	4: OneRepublic (3.57%)
+	5: Olivia Rodrigo (3.57%)
+Top country
+	1: US (30.23%)
+	2: QM (20.93%)
+	3: KR (20.93%)
+	4: IT (16.28%)
+	5: JP (4.65%)
+Top record
+	1: A38 (16.28%)
+	2: 4TX (9.30%)
+	3: UM7 (9.30%)
+	4: 6MZ (9.30%)
+	5: B00 (9.30%)
+Top year
+	1: 21 (23.26%)
+	2: 18 (16.28%)
+	3: 12 (13.95%)
+	4: 20 (13.95%)
+	5: 19 (11.63%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   43.000000     43.000000     43.000000         43.000000    43.000000   43.000000  43.000000  43.000000
+mean    67.930233      0.181966      0.636628          0.000252     0.095907  118.482465   0.550953   0.718000
+std     12.036443      0.191166      0.112869          0.001033     0.090911   27.623300   0.249648   0.157053
+min     39.000000      0.000176      0.350000          0.000000     0.030300   61.823000   0.108000   0.199000
+25%     58.500000      0.037800      0.586000          0.000000     0.042150   97.031500   0.341500   0.634500
+50%     71.000000      0.105000      0.663000          0.000000     0.061800  119.959000   0.534000   0.723000
+75%     75.500000      0.288500      0.714000          0.000000     0.096250  139.544500   0.776000   0.850000
+max     89.000000      0.824000      0.788000          0.005700     0.412000  184.009000   0.914000   0.925000

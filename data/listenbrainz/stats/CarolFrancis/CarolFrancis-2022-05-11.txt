@@ -1,0 +1,45 @@
+Electronic artists found: GÅEL, Surf Mesa,Emilee, Alexis Ffrench, Paul Young, Joep Beving, The Supremes
+Electronic genres found: compositional ambient, ambient worship, tropical house, disco
+Electronic music logs found: 11.29% 
+
+Top genres
+	1: adult standards (6.42%)
+	2: vocal jazz (6.42%)
+	3: jazz (6.04%)
+	4: soul (4.53%)
+	5: bebop (4.15%)
+Top artists
+	1: Oscar Peterson (1.49%)
+	2: GÅEL (1.49%)
+	3: Jack DeJohnette (1.49%)
+	4: Tony Bennett (1.49%)
+	5: Alexis Ffrench (1.49%)
+Top country
+	1: US (66.13%)
+	2: DE (9.68%)
+	3: GB (6.45%)
+	4: FR (4.84%)
+	5: SE (4.84%)
+Top record
+	1: UM7 (14.52%)
+	2: MC1 (8.06%)
+	3: CA2 (6.45%)
+	4: SM1 (6.45%)
+	5: PR3 (4.84%)
+Top year
+	1: 19 (20.97%)
+	2: 20 (6.45%)
+	3: 00 (4.84%)
+	4: 17 (4.84%)
+	5: 98 (3.23%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   62.000000     62.000000     62.000000         62.000000    62.000000   62.000000  62.000000  62.000000
+mean    58.080645      0.665414      0.539235          0.243560     0.048229  111.357129   0.426560   0.336190
+std     13.842555      0.335479      0.153928          0.392573     0.021164   28.017436   0.242675   0.242565
+min     23.000000      0.001460      0.086600          0.000000     0.025900   65.814000   0.071700   0.029400
+25%     50.250000      0.448000      0.429500          0.000001     0.035350   88.070250   0.251250   0.121000
+50%     56.500000      0.829000      0.554000          0.001335     0.041750  108.356000   0.393500   0.286500
+75%     67.500000      0.947000      0.640000          0.398500     0.054475  127.806000   0.549750   0.537250
+max     88.000000      0.996000      0.845000          0.960000     0.123000  178.765000   0.977000   0.902000

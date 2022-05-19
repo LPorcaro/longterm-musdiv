@@ -1,0 +1,27 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5enxwA8aAbwZbf5qCHORXi	Taylor Swift	All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)	USUG12103690	82	pop	0.274	0.631	0.0	0.0303	93.023	0.205	0.518
+5wANPM4fQCJwkGd4rN57mH	Olivia Rodrigo	drivers license	USUG12004749	87	pop	0.768	0.561	1.42e-05	0.0578	143.875	0.137	0.431
+6HU7h9RYOaPRFeh0R3UeAr	Olivia Rodrigo	deja vu	USUG12101240	86	pop	0.584	0.442	5.7e-06	0.112	180.917	0.178	0.612
+5WtfUKzXircvW8l5aaVZWT	Julia Michaels,Niall Horan	What A Time (feat. Niall Horan)	USUM71900686	81	alt z,dance pop,electropop,pop,post-teen pop	0.662	0.516	0.0	0.0302	132.861	0.386	0.467
+2uQ4px5SPONsgcUpulywIQ	Coldplay	Amsterdam	GBAYE0200779	53	permanent wave,pop	0.836	0.269	0.0343	0.0296	78.861	0.105	0.176
+4JJ5zGKnb1IpERyBrfmb1y	Coldplay	A Rush of Blood to the Head	GBAYE0200778	56	permanent wave,pop	0.156	0.525	4.39e-06	0.0255	138.39	0.116	0.472
+7KolrFGhfDi1JTSgQBT5sI	Coldplay	A Whisper	GBAYE0200777	55	permanent wave,pop	0.586	0.277	0.341	0.0385	177.004	0.26	0.797
+4bPkBHKLKd9WHizsvM2zV3	Coldplay	Warning Sign	GBAYE0200776	59	permanent wave,pop	0.0942	0.532	0.0121	0.0278	140.666	0.0395	0.433
+3ou9rSNUQnE7XYmJkUUIOc	Coldplay	Green Eyes	GBAYE0200774	62	permanent wave,pop	0.539	0.607	6.7e-06	0.0265	129.543	0.233	0.405
+4fP4xTSBli3tKck172LEZ4	Coldplay	Daylight	GBAYE0200773	51	permanent wave,pop	0.00976	0.453	0.518	0.0314	132.787	0.189	0.571
+0BCPKOYdS2jbQ8iyB56Zns	Coldplay	Clocks	GBAYE0200771	77	permanent wave,pop	0.599	0.577	0.0115	0.0279	130.97	0.255	0.749
+75JFxkI2RXiU7L9VXzMkle	Coldplay	The Scientist	GBAYE0200772	81	permanent wave,pop	0.731	0.557	1.46e-05	0.0243	146.277	0.213	0.442
+4hf0hL4kWyjWztZzVsM39V	Coldplay	God Put a Smile upon Your Face	GBAYE0200775	61	permanent wave,pop	0.175	0.611	7.14e-05	0.0288	126.532	0.252	0.556
+2nvC4i2aMo4CzRjRflysah	Coldplay	In My Place	GBAYE0200606	70	permanent wave,pop	0.0553	0.424	4.95e-06	0.0278	144.636	0.193	0.588
+0u35Dpz37TY2M2j20RUdMf	Coldplay	Politik	GBAYE0200770	59	permanent wave,pop	0.0364	0.262	0.000189	0.0294	170.968	0.063	0.482
+4ZtFanR9U6ndgddUvNcjcG	Olivia Rodrigo	good 4 u	USUG12101245	89	pop	0.335	0.563	0.0	0.154	166.928	0.688	0.664
+5JCoSi02qi3jJeHdZXMmR8	Olivia Rodrigo	favorite crime	USUG12101249	83	pop	0.866	0.369	0.0	0.0364	172.929	0.218	0.272
+1ndGB6rvxKYN9seCYO1dTF	Red Hot Chili Peppers	The Zephyr Song	USWB10201693	67	alternative rock,funk metal,funk rock,permanent wave	0.013	0.725	3.66e-05	0.0337	117.391	0.403	0.803
+35uEEDQB3th2F41HobgjAG	EU.CLIDES	Desmancha-Prazeres	PT2DY2100008	41	portuguese pop	0.362	0.776	0.00307	0.0804	88.008	0.294	0.366
+10hMM5nsZQf66ldBlgWBfG	Labrinth,Zendaya	All For Us - from the HBO Original Series Euphoria	USUG11902729	80	indie poptimism,pop	0.0165	0.348	0.000264	0.0931	70.956	0.172	0.652
+6I3mqTwhRpn34SLVafSH7G	Justin Bieber	Ghost	USUM72102635	88	canadian pop,pop	0.185	0.601	2.91e-05	0.0478	153.96	0.441	0.741
+2rJjQtTgzAnmQf7YboeM90	MARO	saudade, saudade (live in studio)	QZLBC2200104	43	musica portuguesa contemporanea	0.923	0.405	0.0	0.034	112.507	0.291	0.18
+4KcH1ZRV2W1q7Flq0QqC76	Ramones	Blitzkrieg Bop - 2016 Remaster	USRH11601901	69	classic rock,early us punk,permanent wave,punk,rock,skate punk	0.000269	0.385	0.47	0.233	176.701	0.902	0.783
+3EYOJ48Et32uATr9ZmLnAo	The Police	Roxanne	GBAAM0201086	75	album rock,art rock,classic rock,mellow gold,new wave,permanent wave,rock,soft rock	0.0384	0.618	4.1e-06	0.358	134.114	0.663	0.748
+0gJmT4VMZd6iYDvqfOou0A	Led Zeppelin	Houses of the Holy - Remaster	USAT21300967	37	album rock,classic rock,hard rock,rock	0.167	0.632	0.0389	0.0351	123.092	0.939	0.849
+63OFKbMaZSDZ4wtesuuq6f	Steppenwolf	Born To Be Wild	USMC16846563	70	acid rock,album rock,blues rock,classic canadian rock,classic rock,country rock,folk rock,hard rock,mellow gold,proto-metal,psychedelic rock,rock	0.262	0.438	0.537	0.0919	145.928	0.53	0.71

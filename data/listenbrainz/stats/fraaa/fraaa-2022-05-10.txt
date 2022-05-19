@@ -1,0 +1,45 @@
+Electronic artists found: Anne-Marie,Niall Horan, Bebe Rexha, Zara Larsson,Sabrina Carpenter
+Electronic genres found: edm, tropical house
+Electronic music logs found: 9.68% 
+
+Top genres
+	1: pop (15.29%)
+	2: dance pop (8.24%)
+	3: post-teen pop (7.06%)
+	4: k-pop (5.88%)
+	5: electropop (5.88%)
+Top artists
+	1: Sfera Ebbasta (2.44%)
+	2: Fedez (2.44%)
+	3: Elodie (2.44%)
+	4: CARA (2.44%)
+	5: Megan Thee Stallion (2.44%)
+Top country
+	1: US (35.48%)
+	2: IT (32.26%)
+	3: KR (12.90%)
+	4: GB (12.90%)
+	5: QM (3.23%)
+Top record
+	1: UM7 (41.94%)
+	2: A38 (6.45%)
+	3: AHS (6.45%)
+	4: IWE (6.45%)
+	5: B26 (6.45%)
+Top year
+	1: 21 (41.94%)
+	2: 18 (22.58%)
+	3: 20 (19.35%)
+	4: 19 (12.90%)
+	5: 17 (3.23%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   31.000000     31.000000     31.000000         31.000000    31.000000   31.000000  31.000000  31.000000
+mean    68.903226      0.250481      0.668226          0.004393     0.125381  114.163613   0.485458   0.664645
+std     10.590420      0.221684      0.116853          0.024240     0.113820   28.824795   0.204680   0.158637
+min     41.000000      0.002810      0.367000          0.000000     0.025300   75.004000   0.070200   0.111000
+25%     62.500000      0.063700      0.604500          0.000000     0.049050   91.026000   0.333000   0.602500
+50%     70.000000      0.227000      0.661000          0.000000     0.087800  109.958000   0.519000   0.694000
+75%     73.500000      0.344000      0.738000          0.000003     0.133500  139.994500   0.661000   0.760000
+max     91.000000      0.978000      0.879000          0.135000     0.463000  176.206000   0.843000   0.893000

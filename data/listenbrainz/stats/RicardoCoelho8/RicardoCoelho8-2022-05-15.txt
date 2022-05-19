@@ -1,0 +1,45 @@
+Electronic artists found: Alok,Mc Don Juan,Dj GBR, Alok,John Martin
+Electronic genres found: electro house, slap house
+Electronic music logs found: 2.38% 
+
+Top genres
+	1: portuguese pop (31.40%)
+	2: hip hop tuga (6.61%)
+	3: kizomba (4.96%)
+	4: pop nacional (4.96%)
+	5: sertanejo pop (3.31%)
+Top artists
+	1: Bárbara Bandeira (1.05%)
+	2: Rita Rocha (1.05%)
+	3: Dj Chris No Beat (1.05%)
+	4: Sara Carreira (1.05%)
+	5: Ivandro (1.05%)
+Top country
+	1: PT (57.14%)
+	2: BC (8.33%)
+	3: QZ (8.33%)
+	4: BX (7.14%)
+	5: BR (5.95%)
+Top record
+	1: UM7 (17.86%)
+	2: BM1 (8.33%)
+	3: 0GP (4.76%)
+	4: 9GN (4.76%)
+	5: 6GX (3.57%)
+Top year
+	1: 21 (42.86%)
+	2: 20 (16.67%)
+	3: 22 (15.48%)
+	4: 19 (8.33%)
+	5: 17 (5.95%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   84.000000     84.000000     84.000000         84.000000    84.000000   84.000000  84.000000  84.000000
+mean    50.488095      0.447678      0.585214          0.000196     0.080810  118.112440   0.458277   0.543167
+std     12.889235      0.283142      0.128186          0.000642     0.086822   30.894353   0.212494   0.178528
+min     30.000000      0.000428      0.299000          0.000000     0.024800   63.100000   0.074400   0.145000
+25%     42.000000      0.182250      0.501750          0.000000     0.035650   91.608000   0.300750   0.418000
+50%     46.000000      0.449500      0.587500          0.000000     0.047200  122.738000   0.454500   0.533500
+75%     57.250000      0.670500      0.688250          0.000008     0.085950  136.456750   0.566500   0.679000
+max     91.000000      0.961000      0.886000          0.003940     0.474000  185.727000   0.969000   0.980000

@@ -1,0 +1,45 @@
+Electronic artists found: La Bouche
+Electronic genres found: eurodance, hip house, diva house, german techno
+Electronic music logs found: 7.14% 
+
+Top genres
+	1: eurovision (10.42%)
+	2: latin talent show (10.42%)
+	3: latin viral pop (10.42%)
+	4: spanish pop (10.42%)
+	5: bolero (2.08%)
+Top artists
+	1: Amaia (9.09%)
+	2: Skeeter Davis (9.09%)
+	3: Aitana (9.09%)
+	4: Childish Gambino (9.09%)
+	5: Rupee (9.09%)
+Top country
+	1: ES (42.86%)
+	2: US (35.71%)
+	3: MX (7.14%)
+	4: DE (7.14%)
+	5: QZ (7.14%)
+Top record
+	1: 570 (35.71%)
+	2: UM7 (14.29%)
+	3: F01 (7.14%)
+	4: YAH (7.14%)
+	5: VPR (7.14%)
+Top year
+	1: 22 (35.71%)
+	2: 89 (7.14%)
+	3: 19 (7.14%)
+	4: 16 (7.14%)
+	5: 03 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   14.000000     14.000000     14.000000      1.400000e+01    14.000000   14.000000  14.000000  14.000000
+mean    51.928571      0.430932      0.630857      4.140583e-02     0.066650  124.384143   0.586379   0.550971
+std      9.995878      0.343689      0.165975      1.524361e-01     0.047647   32.258104   0.226183   0.248660
+min     33.000000      0.000522      0.232000      0.000000e+00     0.030400   75.026000   0.099300   0.088600
+25%     45.750000      0.083900      0.573750      5.950000e-07     0.033325  105.235000   0.446750   0.396250
+50%     50.000000      0.440000      0.625500      9.815000e-06     0.047400  121.860500   0.578500   0.633000
+75%     59.000000      0.693500      0.758250      4.597500e-04     0.090325  139.985000   0.756500   0.714000
+max     67.000000      0.949000      0.863000      5.710000e-01     0.193000  203.867000   0.960000   0.963000

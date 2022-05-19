@@ -1,0 +1,45 @@
+Electronic artists found: VINNE, Space Motion, Dr. Fresch,Marten Hørger, Vintage Culture,James Hype
+Electronic genres found: electronic trap, brazilian edm, edm, bass house, electro house, serbian electronic
+Electronic music logs found: 15.38% 
+
+Top genres
+	1: r&b en espanol (20.83%)
+	2: alternative r&b (4.17%)
+	3: brazilian edm (4.17%)
+	4: latin (4.17%)
+	5: reggaeton (4.17%)
+Top artists
+	1: Marten Hørger (5.26%)
+	2: C. Tangana (5.26%)
+	3: Kota the Friend (5.26%)
+	4: ROSALÍA (5.26%)
+	5: Dr. Fresch (5.26%)
+Top country
+	1: US (61.54%)
+	2: PT (7.69%)
+	3: CA (7.69%)
+	4: ES (3.85%)
+	5: TC (3.85%)
+Top record
+	1: SM1 (38.46%)
+	2: UG1 (11.54%)
+	3: UM7 (11.54%)
+	4: 5KR (7.69%)
+	5: 3CB (3.85%)
+Top year
+	1: 21 (30.77%)
+	2: 20 (23.08%)
+	3: 18 (15.38%)
+	4: 19 (11.54%)
+	5: 16 (3.85%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   26.000000     26.000000     26.000000         26.000000    26.000000   26.000000  26.000000  26.000000
+mean    58.269231      0.412947      0.683577          0.146137     0.229419  129.494538   0.470808   0.586423
+std     16.626624      0.349677      0.136778          0.299555     0.164321   27.851014   0.232396   0.204864
+min     24.000000      0.003310      0.423000          0.000000     0.029200   90.970000   0.161000   0.170000
+25%     54.250000      0.064200      0.564250          0.000007     0.071550  110.003500   0.286500   0.459250
+50%     59.500000      0.404500      0.667500          0.000206     0.202000  125.485000   0.411500   0.578500
+75%     68.750000      0.759750      0.810500          0.010935     0.362000  144.164750   0.672250   0.742750
+max     84.000000      0.911000      0.900000          0.920000     0.522000  189.976000   0.906000   0.949000

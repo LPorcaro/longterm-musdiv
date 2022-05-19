@@ -1,0 +1,45 @@
+Electronic artists found: Tropkillaz,J Balvin,Anitta,ZAAC, Major Lazer,Anitta,Pabllo Vittar
+Electronic genres found: electronic trap, edm, tropical house, electro house, moombahton
+Electronic music logs found: 3.77% 
+
+Top genres
+	1: funk carioca (31.01%)
+	2: funk ostentacao (14.56%)
+	3: funk pop (8.23%)
+	4: funk paulista (8.23%)
+	5: arrocha (5.70%)
+Top artists
+	1: Anitta (1.82%)
+	2: Major Lazer (1.82%)
+	3: POCAH (1.82%)
+	4: PK Delas (1.82%)
+	5: MC Kekel (1.82%)
+Top country
+	1: BR (43.40%)
+	2: BX (18.87%)
+	3: QZ (18.87%)
+	4: US (15.09%)
+	5: QM (1.89%)
+Top record
+	1: KO1 (20.75%)
+	2: WMB (15.09%)
+	3: 5AB (13.21%)
+	4: 7VG (11.32%)
+	5: G6R (5.66%)
+Top year
+	1: 17 (33.96%)
+	2: 19 (24.53%)
+	3: 18 (22.64%)
+	4: 20 (5.66%)
+	5: 16 (5.66%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   53.000000     53.000000     53.000000         53.000000    53.000000   53.000000  53.000000  53.000000
+mean    49.660377      0.292649      0.773566          0.000475     0.186421  124.546453   0.726226   0.642528
+std     10.171498      0.264494      0.118537          0.001526     0.145977   27.650232   0.152258   0.161260
+min      0.000000      0.003630      0.524000          0.000000     0.036200   86.533000   0.339000   0.303000
+25%     45.000000      0.071100      0.670000          0.000000     0.068800   95.038000   0.633000   0.536000
+50%     50.000000      0.217000      0.808000          0.000000     0.149000  129.963000   0.735000   0.620000
+75%     55.000000      0.381000      0.870000          0.000045     0.247000  144.640000   0.856000   0.760000
+max     65.000000      0.945000      0.974000          0.008390     0.643000  179.991000   0.970000   0.961000

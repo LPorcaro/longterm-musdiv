@@ -1,0 +1,43 @@
+Electronic artists found: Viva La Panda,Finding Molly, Zack Martino,Jay Mason, Boye & Sigvardt,Kiesza
+Electronic genres found: danish electronic, pop edm, tropical house, deep tropical house, deep house
+Electronic music logs found: 27.27% 
+
+Top genres
+	1: pop edm (28.57%)
+	2: deep house (14.29%)
+	3: deep tropical house (14.29%)
+	4: tropical house (14.29%)
+	5: danish electronic (14.29%)
+Top artists
+	1: Salukii (11.11%)
+	2: Kiesza (11.11%)
+	3: Tevvez (11.11%)
+	4: Zack Martino (11.11%)
+	5: Jay Mason (11.11%)
+Top country
+	1: QZ (63.64%)
+	2: QM (9.09%)
+	3: NL (9.09%)
+	4: DK (9.09%)
+	5: FR (9.09%)
+Top record
+	1: ES8 (45.45%)
+	2: 6MZ (9.09%)
+	3: F71 (9.09%)
+	4: FJ4 (9.09%)
+	5: 96X (9.09%)
+Top year
+	1: 22 (45.45%)
+	2: 20 (36.36%)
+	3: 21 (18.18%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
+count   11.000000     11.000000     11.000000         11.000000    11.000000   11.000000  11.00000  11.000000
+mean    48.181818      0.045055      0.630182          0.432605     0.085009  105.262818   0.35300   0.685455
+std     13.811721      0.028636      0.095150          0.308662     0.032687   30.482430   0.16643   0.116715
+min     18.000000      0.004910      0.451000          0.000027     0.028900   74.976000   0.12000   0.569000
+25%     38.500000      0.034300      0.614000          0.215150     0.069000   74.976000   0.21200   0.569000
+50%     57.000000      0.034300      0.614000          0.521000     0.085700  121.019000   0.41800   0.738000
+75%     57.000000      0.049600      0.683500          0.521000     0.114000  122.961000   0.41800   0.766500
+max     59.000000      0.117000      0.805000          0.877000     0.114000  149.948000   0.66900   0.868000

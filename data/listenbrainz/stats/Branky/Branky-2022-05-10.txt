@@ -1,0 +1,33 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: classic italian pop (11.11%)
+	2: experimental (11.11%)
+	3: italian adult pop (11.11%)
+	4: album rock (11.11%)
+	5: classic rock (11.11%)
+Top artists
+	1: Pat Benatar (50.00%)
+	2: Franco Battiato (50.00%)
+Top country
+	1: IT (50.00%)
+	2: US (50.00%)
+Top record
+	1: UM7 (50.00%)
+	2: CH3 (50.00%)
+Top year
+	1: 15 (50.00%)
+	2: 84 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean    37.000000      0.346000      0.337500          0.000006     0.057550  120.546500  0.610000  0.644500
+std     33.941125      0.086267      0.181726          0.000005     0.033446   50.324083  0.384666  0.079903
+min     13.000000      0.285000      0.209000          0.000003     0.033900   84.962000  0.338000  0.588000
+25%     25.000000      0.315500      0.273250          0.000005     0.045725  102.754250  0.474000  0.616250
+50%     37.000000      0.346000      0.337500          0.000006     0.057550  120.546500  0.610000  0.644500
+75%     49.000000      0.376500      0.401750          0.000008     0.069375  138.338750  0.746000  0.672750
+max     61.000000      0.407000      0.466000          0.000010     0.081200  156.131000  0.882000  0.701000

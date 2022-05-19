@@ -1,0 +1,31 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: bergen indie (12.50%)
+	2: melancholia (12.50%)
+	3: norwegian indie (12.50%)
+	4: art pop (12.50%)
+	5: australian indie (12.50%)
+Top artists
+	1: Courtney Barnett (50.00%)
+	2: Kings of Convenience (50.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: UM7 (50.00%)
+	2: X72 (50.00%)
+Top year
+	1: 21 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean    46.000000      0.427042      0.589500          0.060331     0.036600  120.980000  0.698000  0.649000
+std      4.242641      0.603811      0.132229          0.084384     0.002263   43.793951  0.024042  0.258801
+min     43.000000      0.000083      0.496000          0.000663     0.035000   90.013000  0.681000  0.466000
+25%     44.500000      0.213562      0.542750          0.030497     0.035800  105.496500  0.689500  0.557500
+50%     46.000000      0.427042      0.589500          0.060331     0.036600  120.980000  0.698000  0.649000
+75%     47.500000      0.640521      0.636250          0.090166     0.037400  136.463500  0.706500  0.740500
+max     49.000000      0.854000      0.683000          0.120000     0.038200  151.947000  0.715000  0.832000

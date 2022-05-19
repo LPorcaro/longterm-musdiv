@@ -1,0 +1,54 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7wgkQbVbZR9pa6bauIhnSl	Chase Atlantic	I THINK I’M LOST AGAIN	US5262023878	48	pop	0.0593	0.563	0.0	0.0388	101.982	0.127	0.522
+0matCTSPUdFMTAr1YhCvaE	Chase Atlantic	CALL ME BACK	US5262023882	49	pop	0.00486	0.691	7.75e-06	0.0389	95.984	0.392	0.69
+6zegtH6XXd2PDPLvy1Y0n2	Ariana Grande,Miley Cyrus,Lana Del Rey	Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey)	USUM71912501	67	dance pop,pop	0.00237	0.644	7.64e-06	0.0448	102.861	0.334	0.755
+0htXYyN03UGRNuK2jVsiie	Jarryd James	Slow Motion	NZDY11800055	22	australian alternative pop,australian r&b	0.01	0.618	0.376	0.0556	145.004	0.731	0.783
+3sZfQB5uYTJmA4QnB8dv7P	Oh Wonder	White Blood	GB9L31400021	60	electropop,indie poptimism,pop,pop rock	0.845	0.477	0.000446	0.0555	131.28	0.0819	0.229
+5bv87T8PtI8c1KSUn2QRsz	Klergy	World on Fire	TCAED1975526	37		0.37	0.265	0.0214	0.0359	131.591	0.0677	0.305
+4PhsKqMdgMEUSstTDAmMpg	The Weeknd	Often	USUG11401323	77	canadian contemporary r&b,canadian pop,pop	0.222	0.572	0.0	0.0476	134.078	0.0713	0.631
+4HwDCXsMBC7SUdp2WT4MZP	Chase Atlantic	Into It	USWB11602565	76	pop	0.0503	0.518	2.41e-05	0.0416	130.053	0.291	0.572
+3M0lSi5WW79CXQamgSBIjx	Chase Atlantic	Swim	USWB11701711	81	pop	0.27	0.666	0.0	0.0392	120.134	0.0771	0.542
+492PZFHvGTm3RZZYeeUVWT	Chase Atlantic	Okay	USWB11701714	67	pop	0.112	0.614	0.0	0.131	130.049	0.431	0.815
+5dewQ7ojISR32NAYNHFYWC	Chase Atlantic	HEAVEN AND BACK	QMRSZ1900604	61	pop	0.0902	0.309	0.092	0.0774	193.714	0.532	0.793
+0AvVR6Bx52aY3cWdRDdTfx	Chase Atlantic	PHASES	QMRSZ1900601	49	pop	0.315	0.656	0.0844	0.0341	122.038	0.507	0.524
+2KtS31kaWNHs12Q5B43Ixh	Chase Atlantic	Right Here	USWB11602564	67	pop	0.00516	0.351	1.87e-05	0.0413	159.881	0.221	0.587
+7bbYT48HWWIbL3YKmtMNzn	Chase Atlantic	Church	USWB11602566	63	pop	0.0109	0.556	0.0	0.0548	112.99	0.292	0.824
+7aLT0tLcS40Penaplqu2cZ	Ariana Grande	Greedy	USUM71602108	64	dance pop,pop	0.0323	0.62	0.0	0.0989	109.974	0.844	0.705
+5GkQIP5mWPi4KZLLXeuFTT	Ariana Grande,Doja Cat	motive (with Doja Cat)	USUM72020425	77	dance pop,pop	0.0681	0.789	0.0	0.0652	116.965	0.661	0.742
+0txjdg6j38GxiWzfH2Skpg	Naughty Boy,Bastille	No One’s Here To Sleep	GBUM71303758	47	tropical house,uk contemporary r&b	0.0312	0.636	0.00148	0.0313	122.026	0.148	0.497
+5zT5cMnMKoyruPj13TQXGx	Amber Run	I Found	GBARL1400303	72	modern rock,pop rock	0.862	0.567	0.00563	0.0351	124.949	0.252	0.303
+7qGzgOQYxfLbQGqZTiVqTl	Isak Danielson	Power	SE5T51900101	58	pop,swedish singer-songwriter	0.212	0.375	1.08e-06	0.048	115.751	0.173	0.495
+2l7V3AuTxGuswKjGovaSEv	Måneskin	LA PAURA DEL BUIO	ITB002100118	63	indie rock italiano,italian pop	0.00537	0.376	8e-06	0.0464	96.176	0.408	0.846
+3tjfbu0G0PPy8UjhxfxVIe	Wafia	Heartburn	AUFF01500752	71	australian pop	0.592	0.511	5e-06	0.137	131.225	0.515	0.346
+09mEdoA6zrmBPgTEN5qXmN	The Weeknd	Call Out My Name	USUG11800560	79	canadian contemporary r&b,canadian pop,pop	0.17	0.461	0.0	0.0356	134.17	0.175	0.593
+5eL7azGDSAndUemSxGm79B	chiamamifaro	Pioggia di CBD	ITB002200139	50	italian indie pop	0.312	0.655	0.0	0.046	79.997	0.199	0.612
+6ndu0wQHbMngFpMK6uf5gB	DANU	kenshiro	ITW8J2200005	38		0.0995	0.696	0.0	0.0572	94.977	0.497	0.718
+6hLEPly11XS3mFlG9AyO4T	ARIETE	CASTELLI DI LENZUOLA	ITLGE2100121	60	italian indie pop,rome indie	0.589	0.602	0.0	0.0337	99.977	0.186	0.556
+4HUROdvXWBTlGmklebPYwY	Assurditè	Vorrei Che Fosse Odio	FR2X42202497	41		0.351	0.508	0.0	0.232	138.422	0.306	0.516
+7c8jw08fTXdvVj5zCmCRDz	CIMINI	Limone	ITT742200099	44	italian indie pop	0.364	0.657	0.0	0.0472	143.964	0.647	0.434
+13O6v6qGF3GI60fKpFkJIU	Laila Al Habash,Coez	Sbronza	ITNTP2100037	51	italian indie pop	0.175	0.769	1.12e-05	0.222	170.045	0.637	0.563
+6lCe9PfOm9RlKXbQFupllB	Willie Peyote,Michela Giraud	Fare schifo (feat. Michela Giraud)	IT97U2200002	49	italian hip hop,italian indie pop,rap napoletano,turin indie	0.121	0.679	0.0	0.206	106.98	0.573	0.69
+1lXb1BTmGM2aWg5NTlZZPH	Tommaso Paradiso	Tutte le notti	ITRRS2200007	61	italian adult pop,italian pop,rome indie	0.00893	0.531	5.03e-06	0.0283	82.013	0.248	0.605
+6nXjlXPeuidNoahUQfCsUu	Nane'	Specchi Sporchi	ZZOPM2225070	37		0.00527	0.838	1.61e-06	0.0456	120.039	0.946	0.836
+0lwo64aO3YEjcnJGTFHYR1	Coez	Come nelle canzoni	ITLQU2100007	61	italian indie pop,italian pop,rap napoletano,rome indie	0.252	0.537	0.0	0.281	175.878	0.505	0.814
+799wmREoA6R4NTj6f87LCd	FAL4	TROVERAI ME	IT51Z2000012	31		0.00944	0.596	0.0	0.0605	105.987	0.14	0.704
+5M3SYjElWjKlD3jgONFw4w	PSICOLOGI	SUI MURI	ITLGE2100113	66	italian hip hop,rome indie	0.739	0.422	0.0	0.0384	76.183	0.39	0.477
+7mYHGwwaJTLvZ8K3ppVcJM	rovere	la libertà	ITB002101384	48	italian indie pop	0.129	0.499	0.0	0.0734	173.015	0.561	0.762
+2K6lcl1cqM1U1WvwTjb1Y3	ceneri	Ladro	ITA642200037	44		0.402	0.689	1.89e-05	0.225	119.942	0.346	0.52
+2idDhL1NsfLeRsAbcahUyy	Nuvolari	Farabutto	ITLGE2200019	35	italian indie pop	0.678	0.659	0.0	0.0507	74.772	0.496	0.431
+0F79euepWDx2tBNSIVjXLp	Kaufman,Ciliari	Caramelle	ITK252210029	39	italian indie pop,milan indie	0.0683	0.636	0.0	0.0701	151.981	0.33	0.716
+5sXsXtwDBgINAVwhoX6Ys2	Tenth Sky,ARIETE	Capelli blu (feat. ARIETE)	IT2J82200001	49	emo rap italiano	0.164	0.686	0.0	0.15	145.997	0.726	0.597
+29iL8l3TjxN6W0SDCUTsms	Eugenio In Via Di Gioia	Terra	ITUM72200523	48	indie folk italiano,italian indie pop,turin indie	0.331	0.575	0.0	0.0468	79.642	0.646	0.771
+52NL2z2Sqf1BO4du9wUArx	Fulminacci	Chitarre blu	ITIWE2290007	47	italian indie pop,rome indie	0.752	0.676	4.03e-06	0.252	79.957	0.486	0.417
+6KLjClrXcuXiX4PWGHtmDk	Gazzelle,Mara Sattei	Tuttecose (feat. Mara Sattei)	ITIWE2100661	57	italian indie pop,rome indie	0.198	0.661	0.0	0.0479	83.027	0.659	0.64
+19yag4qL1J2lwjSSgwSXVG	Fulminacci,Willie Peyote	Aglio e olio	ITIWE2290009	61	italian indie pop,rome indie	0.535	0.735	0.0	0.05	93.028	0.537	0.529
+46jLy47W8rkf8rEX04gMKB	OneRepublic	Wherever I Go	USUM71603851	68	dance pop,piano rock,pop,pop rock	0.0915	0.552	0.0	0.0425	99.961	0.349	0.689
+0YjNUAch4z1nKS6TpaYT4a	Saint Chaos	Blind Spot	DERK42100061	50	modern alternative rock	0.311	0.751	2.16e-06	0.277	160.182	0.821	0.524
+6t4S0PR3PVbQtfeBFGEP4Y	Valley Of Wolves	Rule The World	US43C1604912	53	modern alternative rock,rebel blues	0.249	0.615	7.97e-05	0.0687	127.9	0.496	0.852
+4GITtbZtRCQXhWLMXrWXHt	Imagine Dragons	Roots	USUM71512947	63	modern rock,rock	0.707	0.637	0.00188	0.227	157.759	0.596	0.887
+1Y8COP6Oqef3UxIONvzx6I	5 Seconds of Summer	COMPLETE MESS	QMRSZ2200095	73	boy band,dance pop,pop,post-teen pop	0.0573	0.398	1.86e-05	0.0315	81.377	0.133	0.519
+2DgdHcjWmO3qd50RzuBLgZ	Panic! At The Disco	House of Memories	USAT21503701	84	modern rock	0.00272	0.506	0.0	0.0335	109.952	0.506	0.817
+18XlJEroUwFo0tLZxscgXE	Maroon 5	Lost	USUM72106314	74	pop,pop rock	0.223	0.766	0.00028	0.16	142.989	0.766	0.706
+6KL88T4Ma4ABXqzgUoEwkd	OneRepublic	Run	USUM72004315	72	dance pop,piano rock,pop,pop rock	0.321	0.682	0.0	0.0382	116.988	0.649	0.72
+0qWWWKe24PhXqVNcJZlbeO	Imagine Dragons	Curse	USUM72115353	38	modern rock,rock	0.000197	0.529	4.92e-05	0.0561	134.992	0.363	0.636
+2bFGGsScXp2Tu10jKMCKO6	VOILÀ	Figure You Out	QM24S2003135	66	alt z,la pop	0.508	0.631	3.18e-05	0.0354	94.912	0.537	0.491

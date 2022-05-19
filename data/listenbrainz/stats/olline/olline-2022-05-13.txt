@@ -1,0 +1,45 @@
+Electronic artists found: Sleeping At Last, Bob Sinclar,Gary Pine,DollarMan, Bob Sinclar,Molly Hammar, Max Richter,Daniel Hope,Konzerthaus Kammerorchester Berlin,Andre de Ridder
+Electronic genres found: compositional ambient, disco house, edm, tropical house, ambient worship, electro house
+Electronic music logs found: 25.00% 
+
+Top genres
+	1: dance pop (10.00%)
+	2: pop (10.00%)
+	3: italian hip hop (5.00%)
+	4: pop rap (3.33%)
+	5: disco house (3.33%)
+Top artists
+	1: Wiz Khalifa (3.70%)
+	2: Dua Lipa (3.70%)
+	3: Gary Pine (3.70%)
+	4: Konzerthaus Kammerorchester Berlin (3.70%)
+	5: Scott Thomas (3.70%)
+Top country
+	1: US (37.50%)
+	2: GB (18.75%)
+	3: IT (18.75%)
+	4: FR (12.50%)
+	5: TC (6.25%)
+Top record
+	1: UM7 (31.25%)
+	2: 4E4 (12.50%)
+	3: A2P (6.25%)
+	4: ARL (6.25%)
+	5: CM5 (6.25%)
+Top year
+	1: 20 (31.25%)
+	2: 21 (12.50%)
+	3: 14 (12.50%)
+	4: 07 (6.25%)
+	5: 10 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean    63.375000      0.273955      0.649812          0.056766     0.075625  120.109312   0.487756   0.627625
+std     13.154847      0.325974      0.113788          0.225664     0.084837   18.333823   0.316384   0.205647
+min     35.000000      0.002120      0.404000          0.000000     0.028200   77.981000   0.085100   0.197000
+25%     57.500000      0.027750      0.598250          0.000000     0.035000  117.505000   0.164000   0.492250
+50%     65.000000      0.114000      0.658000          0.000015     0.045100  122.051000   0.425500   0.674000
+75%     68.250000      0.539750      0.719250          0.000085     0.066950  128.987000   0.793250   0.800500
+max     89.000000      0.981000      0.817000          0.903000     0.364000  157.044000   0.949000   0.906000

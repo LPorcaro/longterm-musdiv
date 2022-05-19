@@ -1,0 +1,29 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: conscious hip hop (25.00%)
+	2: hip hop (25.00%)
+	3: rap (25.00%)
+	4: west coast rap (25.00%)
+Top artists
+	1: Tanna Leone (50.00%)
+	2: Kendrick Lamar (50.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: UM7 (100.00%)
+Top year
+	1: 22 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0         1.000         1.000          1.000000        1.000    1.000    1.000    1.00
+mean         77.0         0.283         0.727          0.000028        0.312  174.025    0.258    0.53
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          77.0         0.283         0.727          0.000028        0.312  174.025    0.258    0.53
+25%          77.0         0.283         0.727          0.000028        0.312  174.025    0.258    0.53
+50%          77.0         0.283         0.727          0.000028        0.312  174.025    0.258    0.53
+75%          77.0         0.283         0.727          0.000028        0.312  174.025    0.258    0.53
+max          77.0         0.283         0.727          0.000028        0.312  174.025    0.258    0.53

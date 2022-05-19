@@ -1,0 +1,45 @@
+Electronic artists found: LUM!X,PIA MARIA, The Chainsmokers,Halsey
+Electronic genres found: tropical house, slap house, edm, melbourne bounce international
+Electronic music logs found: 6.25% 
+
+Top genres
+	1: pop (18.87%)
+	2: dance pop (7.55%)
+	3: italian pop (5.66%)
+	4: eurovision (5.66%)
+	5: post-teen pop (5.66%)
+Top artists
+	1: REDDI (3.45%)
+	2: STEFAN (3.45%)
+	3: Sheldon Riley (3.45%)
+	4: The Chainsmokers (3.45%)
+	5: Systur (3.45%)
+Top country
+	1: US (31.25%)
+	2: IT (9.38%)
+	3: NL (9.38%)
+	4: QZ (9.38%)
+	5: ES (6.25%)
+Top record
+	1: UG1 (12.50%)
+	2: UM7 (9.38%)
+	3: 94B (6.25%)
+	4: 5YN (6.25%)
+	5: CJY (6.25%)
+Top year
+	1: 22 (56.25%)
+	2: 21 (15.62%)
+	3: 15 (6.25%)
+	4: 19 (6.25%)
+	5: 20 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count    32.00000     32.000000     32.000000         32.000000    32.000000   32.000000  32.000000  32.000000
+mean     67.37500      0.204466      0.602594          0.026213     0.055069  115.845562   0.454125   0.652688
+std      13.88838      0.234261      0.147737          0.137908     0.036640   22.565847   0.175335   0.151865
+min      10.00000      0.000261      0.312000          0.000000     0.028200   78.705000   0.159000   0.297000
+25%      63.00000      0.014537      0.507250          0.000000     0.034300   97.611000   0.333500   0.548500
+50%      68.00000      0.112000      0.580500          0.000001     0.038950  114.551500   0.459500   0.681000
+75%      76.00000      0.387000      0.708500          0.000544     0.057100  125.785750   0.588000   0.788500
+max      89.00000      0.806000      0.922000          0.781000     0.179000  172.054000   0.796000   0.910000

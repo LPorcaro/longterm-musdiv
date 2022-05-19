@@ -1,0 +1,45 @@
+Electronic artists found: Hooverphonic
+Electronic genres found: electronica, trip hop, downtempo
+Electronic music logs found: 1.82% 
+
+Top genres
+	1: eurovision (18.18%)
+	2: k-pop (13.64%)
+	3: latvian pop (9.09%)
+	4: georgian alternative (4.55%)
+	5: norwegian indie (4.55%)
+Top artists
+	1: Claudia (5.00%)
+	2: Andrea (5.00%)
+	3: Lucia (5.00%)
+	4: Hooverphonic (5.00%)
+	5: AleXa (5.00%)
+Top country
+	1: ES (63.64%)
+	2: DK (7.27%)
+	3: NO (7.27%)
+	4: US (5.45%)
+	5: QZ (3.64%)
+Top record
+	1: 94B (61.82%)
+	2: 2DY (5.45%)
+	3: UM7 (5.45%)
+	4: AT2 (5.45%)
+	5: FYY (3.64%)
+Top year
+	1: 22 (80.00%)
+	2: 21 (9.09%)
+	3: 12 (3.64%)
+	4: 10 (1.82%)
+	5: 16 (1.82%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   55.000000     55.000000     55.000000         55.000000    55.000000   55.000000  55.000000  55.000000
+mean    54.236364      0.132248      0.714455          0.020394     0.095162  109.063855   0.585073   0.711618
+std     10.989833      0.165606      0.085261          0.123445     0.035779   13.296933   0.143460   0.104418
+min     12.000000      0.004390      0.468000          0.000000     0.029500   80.239000   0.202000   0.337000
+25%     56.000000      0.068200      0.701500          0.000003     0.064550  104.985000   0.595500   0.698000
+50%     56.000000      0.068200      0.756000          0.005950     0.112000  104.985000   0.618000   0.698000
+75%     56.000000      0.094500      0.756000          0.005950     0.112000  105.972000   0.618000   0.706000
+max     72.000000      0.681000      0.831000          0.919000     0.179000  149.982000   0.957000   0.935000

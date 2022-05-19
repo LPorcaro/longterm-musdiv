@@ -1,0 +1,45 @@
+Electronic artists found: Martin Garrix,Dua Lipa, The Chainsmokers, Avicii
+Electronic genres found: dutch edm, progressive house, edm, tropical house
+Electronic music logs found: 4.76% 
+
+Top genres
+	1: rap (17.16%)
+	2: hip hop (16.04%)
+	3: detroit hip hop (13.43%)
+	4: pop (8.96%)
+	5: dance pop (7.46%)
+Top artists
+	1: Dua Lipa (1.82%)
+	2: Wiz Khalifa (1.82%)
+	3: Rihanna (1.82%)
+	4: The Notorious B.I.G. (1.82%)
+	5: OneRepublic (1.82%)
+Top country
+	1: US (80.95%)
+	2: GB (8.33%)
+	3: PT (3.57%)
+	4: IT (1.19%)
+	5: ES (1.19%)
+Top record
+	1: UM7 (35.71%)
+	2: IR1 (16.67%)
+	3: AT2 (9.52%)
+	4: CM5 (3.57%)
+	5: SM1 (3.57%)
+Top year
+	1: 10 (13.10%)
+	2: 13 (9.52%)
+	3: 17 (8.33%)
+	4: 16 (7.14%)
+	5: 21 (5.95%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   84.000000     84.000000     84.000000         84.000000    84.000000   84.000000  84.000000  84.000000
+mean    66.357143      0.201904      0.662357          0.000137     0.186840  119.144631   0.524344   0.689371
+std     12.304023      0.251336      0.151106          0.000638     0.177597   35.204981   0.206799   0.185000
+min     37.000000      0.000068      0.215000          0.000000     0.025600   74.541000   0.059300   0.095200
+25%     57.000000      0.027500      0.560250          0.000000     0.045025   89.727250   0.359500   0.558500
+50%     68.500000      0.087950      0.667500          0.000000     0.129000  107.490500   0.509000   0.703500
+75%     76.000000      0.243750      0.754000          0.000002     0.269000  145.748500   0.655250   0.835000
+max     85.000000      0.993000      0.917000          0.004260     0.966000  202.103000   0.958000   0.972000

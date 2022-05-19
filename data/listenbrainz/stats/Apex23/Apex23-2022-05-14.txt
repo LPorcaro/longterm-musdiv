@@ -1,0 +1,44 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: italian hip hop (27.48%)
+	2: italian indie pop (26.13%)
+	3: rap napoletano (18.02%)
+	4: turin indie (16.67%)
+	5: italian underground hip hop (7.21%)
+Top artists
+	1: Fabri Fibra (2.70%)
+	2: Il Tenente (2.70%)
+	3: Blue Virus (2.70%)
+	4: Murubutu (2.70%)
+	5: Michela Giraud (2.70%)
+Top country
+	1: IT (92.96%)
+	2: FR (2.82%)
+	3: TC (2.82%)
+	4: CH (1.41%)
+Top record
+	1: 97U (32.39%)
+	2: UM7 (14.08%)
+	3: 2WZ (12.68%)
+	4: K19 (7.04%)
+	5: RSE (4.23%)
+Top year
+	1: 19 (29.58%)
+	2: 22 (16.90%)
+	3: 17 (16.90%)
+	4: 15 (7.04%)
+	5: 21 (7.04%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   71.000000     71.000000     71.000000         71.000000    71.000000   71.000000  71.000000  71.000000
+mean    36.211268      0.284873      0.651676          0.021125     0.220955  111.111775   0.566268   0.730676
+std     11.805465      0.239105      0.126881          0.115723     0.113567   28.555251   0.201451   0.108018
+min      0.000000      0.005100      0.357000          0.000000     0.055400   73.109000   0.144000   0.492000
+25%     30.000000      0.094850      0.571000          0.000000     0.121500   87.117000   0.399000   0.689500
+50%     35.000000      0.217000      0.661000          0.000000     0.210000  105.015000   0.573000   0.719000
+75%     46.000000      0.479500      0.705500          0.000004     0.321500  129.069000   0.729500   0.784000
+max     70.000000      0.889000      0.941000          0.904000     0.506000  184.512000   0.934000   0.926000

@@ -1,0 +1,45 @@
+Electronic artists found: Sigala,Rita Ora, Jess Glynne, Ellie Goulding, Galantis,David Guetta,Little Mix, Zara Larsson,Sabrina Carpenter
+Electronic genres found: electro house, edm, tropical house
+Electronic music logs found: 10.17% 
+
+Top genres
+	1: pop (24.28%)
+	2: dance pop (12.14%)
+	3: k-pop (5.20%)
+	4: k-pop boy group (5.20%)
+	5: pop rock (4.05%)
+Top artists
+	1: Dua Lipa (2.04%)
+	2: Imagine Dragons (2.04%)
+	3: sangiovanni (2.04%)
+	4: Lady Gaga (2.04%)
+	5: OneRepublic (2.04%)
+Top country
+	1: US (76.27%)
+	2: GB (13.56%)
+	3: QM (5.08%)
+	4: KR (1.69%)
+	5: DE (1.69%)
+Top record
+	1: UM7 (23.73%)
+	2: AT2 (18.64%)
+	3: UG1 (10.17%)
+	4: RC1 (6.78%)
+	5: A2P (5.08%)
+Top year
+	1: 21 (38.98%)
+	2: 20 (16.95%)
+	3: 17 (10.17%)
+	4: 18 (6.78%)
+	5: 19 (5.08%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   59.000000     59.000000     59.000000         59.000000    59.000000   59.000000  59.000000  59.000000
+mean    72.915254      0.295911      0.629356          0.031298     0.083902  124.815712   0.486539   0.649386
+std     10.033200      0.298688      0.138228          0.152547     0.084529   25.120040   0.239931   0.212510
+min     50.000000      0.001720      0.177000          0.000000     0.026400   72.795000   0.084900   0.038800
+25%     65.000000      0.048900      0.560500          0.000000     0.033950  110.001000   0.277000   0.520000
+50%     72.000000      0.217000      0.632000          0.000000     0.052400  121.941000   0.479000   0.705000
+75%     80.000000      0.440500      0.739000          0.000003     0.102000  136.009000   0.685000   0.806000
+max    100.000000      0.976000      0.824000          0.886000     0.412000  184.009000   0.928000   0.903000

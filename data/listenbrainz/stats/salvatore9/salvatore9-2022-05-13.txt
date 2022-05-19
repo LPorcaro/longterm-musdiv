@@ -1,0 +1,44 @@
+Electronic artists found: LUM!X,PIA MARIA
+Electronic genres found: slap house, melbourne bounce international
+Electronic music logs found: 5.00% 
+
+Top genres
+	1: italian hip hop (10.00%)
+	2: italian indie pop (10.00%)
+	3: r&b italiano (10.00%)
+	4: rap napoletano (10.00%)
+	5: eurovision (10.00%)
+Top artists
+	1: Vladana (5.00%)
+	2: STEFAN (5.00%)
+	3: Rosa Linn (5.00%)
+	4: Systur (5.00%)
+	5: Cornelia Jakobs (5.00%)
+Top country
+	1: FR (15.00%)
+	2: NL (15.00%)
+	3: PT (10.00%)
+	4: RS (5.00%)
+	5: DE (5.00%)
+Top record
+	1: UM7 (20.00%)
+	2: 0ML (10.00%)
+	3: 2DY (10.00%)
+	4: C24 (5.00%)
+	5: Z54 (5.00%)
+Top year
+	1: 22 (55.00%)
+	2: 21 (35.00%)
+	3: 18 (5.00%)
+	4: 12 (5.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   20.000000     20.000000      20.00000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean    66.050000      0.215008       0.62365          0.003167     0.060300  109.536150   0.468400   0.642850
+std      5.452908      0.245123       0.12243          0.009718     0.047110   26.154999   0.207078   0.175089
+min     58.000000      0.000261       0.43000          0.000000     0.028200   76.905000   0.122000   0.337000
+25%     62.750000      0.012500       0.51650          0.000000     0.035225   82.992000   0.346000   0.524250
+50%     65.500000      0.107000       0.64400          0.000013     0.039650  111.000500   0.499000   0.639000
+75%     70.000000      0.396750       0.69375          0.000129     0.069300  123.208000   0.590000   0.794250
+max     76.000000      0.681000       0.92200          0.039200     0.230000  169.985000   0.839000   0.910000

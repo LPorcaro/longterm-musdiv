@@ -1,0 +1,45 @@
+Electronic artists found: Yann Tiersen, Unknown Mortal Orchestra
+Electronic genres found: compositional ambient, chillwave
+Electronic music logs found: 13.79% 
+
+Top genres
+	1: nova mpb (8.77%)
+	2: brazilian rock (7.89%)
+	3: mpb (7.02%)
+	4: indie folk (5.26%)
+	5: stomp and holler (4.39%)
+Top artists
+	1: Bob Dylan (5.56%)
+	2: Masego (5.56%)
+	3: bri.broskie (5.56%)
+	4: Yann Tiersen (5.56%)
+	5: Gia Margaret (5.56%)
+Top country
+	1: US (31.03%)
+	2: BR (31.03%)
+	3: GB (10.34%)
+	4: FR (10.34%)
+	5: QM (6.90%)
+Top record
+	1: U5R (27.59%)
+	2: DMG (10.34%)
+	3: 38Y (6.90%)
+	4: SM1 (6.90%)
+	5: 91U (6.90%)
+Top year
+	1: 17 (17.24%)
+	2: 18 (17.24%)
+	3: 11 (10.34%)
+	4: 19 (10.34%)
+	5: 09 (6.90%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
+mean    42.896552      0.690862      0.570276          0.059583     0.060193  124.682310   0.403986   0.369976
+std     14.624697      0.225482      0.120926          0.173939     0.054181   29.775426   0.214726   0.177031
+min      8.000000      0.117000      0.348000          0.000000     0.026600   76.470000   0.093600   0.055900
+25%     35.000000      0.588000      0.514000          0.000001     0.033200  108.129000   0.206000   0.222000
+50%     44.000000      0.739000      0.576000          0.000136     0.043900  122.012000   0.389000   0.371000
+75%     50.000000      0.848000      0.656000          0.007710     0.057200  144.001000   0.581000   0.528000
+max     72.000000      0.991000      0.868000          0.758000     0.288000  192.070000   0.855000   0.725000

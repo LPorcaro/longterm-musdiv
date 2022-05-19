@@ -1,0 +1,38 @@
+Electronic artists found: Guru Josh Project,Klaas
+Electronic genres found: acid house
+Electronic music logs found: 1.70% 
+
+Top genres
+	1: permanent wave (25.11%)
+	2: garage rock (24.68%)
+	3: rock (24.68%)
+	4: sheffield indie (24.68%)
+	5: pop (0.43%)
+Top artists
+	1: Klaas (25.00%)
+	2: Arctic Monkeys (25.00%)
+	3: Guru Josh Project (25.00%)
+	4: Coldplay (25.00%)
+Top country
+	1: GB (98.31%)
+	2: DE (1.69%)
+Top record
+	1: CEL (96.61%)
+	2: AYE (1.69%)
+	3: HD6 (1.69%)
+Top year
+	1: 07 (42.37%)
+	2: 05 (40.68%)
+	3: 09 (15.25%)
+	4: 00 (1.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   59.000000     59.000000     59.000000         59.000000    59.000000   59.000000  59.000000  59.000000
+mean    60.389831      0.056070      0.486271          0.019300     0.067636  130.895712   0.570644   0.814814
+std      7.779320      0.175297      0.118424          0.100722     0.065643   23.088938   0.230823   0.159212
+min     47.000000      0.000011      0.216000          0.000000     0.028100   83.354000   0.096500   0.333000
+25%     54.500000      0.000440      0.400500          0.000000     0.037150  111.066000   0.406500   0.778000
+50%     58.000000      0.002870      0.498000          0.000061     0.046000  128.370000   0.624000   0.862000
+75%     64.500000      0.011440      0.586500          0.001550     0.068200  145.061000   0.765000   0.922000
+max     83.000000      0.902000      0.660000          0.769000     0.464000  189.286000   0.926000   0.974000

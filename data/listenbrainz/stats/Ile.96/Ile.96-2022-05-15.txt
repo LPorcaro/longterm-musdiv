@@ -1,0 +1,44 @@
+Electronic artists found: Tropkillaz,J Balvin,Anitta,ZAAC, Major Lazer,J Balvin,Sean Paul
+Electronic genres found: electronic trap, edm, tropical house, electro house, moombahton
+Electronic music logs found: 25.00% 
+
+Top genres
+	1: dance pop (9.09%)
+	2: pop (9.09%)
+	3: latin (6.06%)
+	4: reggaeton (6.06%)
+	5: latin pop (6.06%)
+Top artists
+	1: Sofía Reyes (5.56%)
+	2: Guaynaa (5.56%)
+	3: Anitta (5.56%)
+	4: Tropkillaz (5.56%)
+	5: Juan Magán (5.56%)
+Top country
+	1: US (50.00%)
+	2: BX (12.50%)
+	3: QM (12.50%)
+	4: QZ (12.50%)
+	5: GB (12.50%)
+Top record
+	1: UM7 (25.00%)
+	2: RC1 (12.50%)
+	3: WL1 (12.50%)
+	4: S38 (12.50%)
+	5: UY4 (12.50%)
+Top year
+	1: 19 (37.50%)
+	2: 20 (25.00%)
+	3: 17 (25.00%)
+	4: 21 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence   energy
+count    8.000000      8.000000      8.000000          8.000000     8.000000    8.000000  8.000000  8.00000
+mean    57.875000      0.192550      0.823750          0.005228     0.118875  107.642125  0.618125  0.72000
+std     11.519394      0.106552      0.069125          0.012414     0.085629   15.281940  0.247177  0.08725
+min     37.000000      0.045700      0.696000          0.000000     0.039600   89.999000  0.153000  0.55600
+25%     49.750000      0.104425      0.791750          0.000000     0.064625   99.442250  0.520750  0.68325
+50%     61.500000      0.200000      0.838500          0.000012     0.084850  101.539500  0.618500  0.72650
+75%     66.250000      0.256250      0.862250          0.001681     0.143750  113.591250  0.739750  0.76725
+max     71.000000      0.346000      0.905000          0.035500     0.289000  131.999000  0.963000  0.84900

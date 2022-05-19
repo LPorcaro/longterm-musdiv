@@ -1,0 +1,43 @@
+Electronic artists found: Becky Hill,Shift K3Y, The Chainsmokers,ROZES
+Electronic genres found: edm, tropical house
+Electronic music logs found: 14.29% 
+
+Top genres
+	1: pop (24.07%)
+	2: dance pop (18.52%)
+	3: pop rap (7.41%)
+	4: post-teen pop (5.56%)
+	5: canadian latin (3.70%)
+Top artists
+	1: Wiz Khalifa (5.88%)
+	2: Nelly Furtado (5.88%)
+	3: ROZES (5.88%)
+	4: Shift K3Y (5.88%)
+	5: Timbaland (5.88%)
+Top country
+	1: US (78.57%)
+	2: GB (14.29%)
+	3: QM (7.14%)
+Top record
+	1: UM7 (35.71%)
+	2: CJY (21.43%)
+	3: Q4E (7.14%)
+	4: QX9 (7.14%)
+	5: RC1 (7.14%)
+Top year
+	1: 17 (35.71%)
+	2: 15 (21.43%)
+	3: 06 (14.29%)
+	4: 14 (7.14%)
+	5: 19 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   14.000000     14.000000     14.000000         14.000000    14.000000   14.000000  14.000000  14.000000
+mean    70.500000      0.101624      0.700429          0.000315     0.074021  120.416071   0.555079   0.769214
+std      8.933515      0.135263      0.083913          0.001002     0.054623   16.859502   0.277848   0.134875
+min     53.000000      0.004630      0.535000          0.000000     0.027800   97.040000   0.085100   0.469000
+25%     66.000000      0.033950      0.645250          0.000000     0.044525  113.349250   0.350250   0.707500
+50%     70.500000      0.054650      0.706500          0.000006     0.053000  121.020500   0.556500   0.777500
+75%     75.750000      0.091475      0.752750          0.000052     0.077050  126.239000   0.848750   0.841750
+max     87.000000      0.503000      0.817000          0.003770     0.234000  160.015000   0.885000   0.970000

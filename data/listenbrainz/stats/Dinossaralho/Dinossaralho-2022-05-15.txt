@@ -1,0 +1,33 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: stomp and holler (20.00%)
+	2: swedish americana (20.00%)
+	3: swedish country (20.00%)
+	4: cante alentejano (20.00%)
+	5: folclore portugues (20.00%)
+Top artists
+	1: Grupo Coral de Cantares Regionais de Portel (50.00%)
+	2: First Aid Kit (50.00%)
+Top country
+	1: GB (50.00%)
+	2: PT (50.00%)
+Top record
+	1: DNH (50.00%)
+	2: OV1 (50.00%)
+Top year
+	1: 11 (50.00%)
+	2: 03 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence   energy
+count    2.000000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.00000
+mean    19.500000      0.303650      0.579500          0.000458     0.035800   99.668000  0.568000  0.62650
+std     14.849242      0.352634      0.081317          0.000648     0.009051    3.404012  0.250316  0.16617
+min      9.000000      0.054300      0.522000          0.000000     0.029400   97.261000  0.391000  0.50900
+25%     14.250000      0.178975      0.550750          0.000229     0.032600   98.464500  0.479500  0.56775
+50%     19.500000      0.303650      0.579500          0.000458     0.035800   99.668000  0.568000  0.62650
+75%     24.750000      0.428325      0.608250          0.000688     0.039000  100.871500  0.656500  0.68525
+max     30.000000      0.553000      0.637000          0.000917     0.042200  102.075000  0.745000  0.74400

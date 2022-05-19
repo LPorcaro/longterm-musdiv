@@ -1,0 +1,43 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: k-pop (22.22%)
+	2: musica portuguesa contemporanea (5.56%)
+	3: ukrainian hip hop (5.56%)
+	4: ukrainian pop (5.56%)
+	5: ukrainian rock (5.56%)
+Top artists
+	1: EMMY (7.69%)
+	2: American Song Contest (7.69%)
+	3: Zdob si Zdub (7.69%)
+	4: Fratii Advahov (7.69%)
+	5: wrs (7.69%)
+Top country
+	1: US (30.77%)
+	2: RO (15.38%)
+	3: NO (7.69%)
+	4: PT (7.69%)
+	5: DE (7.69%)
+Top record
+	1: AT2 (30.77%)
+	2: AGW (7.69%)
+	3: UM7 (7.69%)
+	4: E86 (7.69%)
+	5: FYY (7.69%)
+Top year
+	1: 22 (61.54%)
+	2: 21 (30.77%)
+	3: 20 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   13.000000     13.000000     13.000000         13.000000    13.000000   13.000000  13.000000  13.000000
+mean    47.846154      0.177409      0.691231          0.000160     0.075654  114.072154   0.543385   0.768308
+std     23.660256      0.197161      0.088883          0.000464     0.053572   26.857035   0.173086   0.185641
+min      4.000000      0.006540      0.462000          0.000000     0.024900   82.992000   0.324000   0.337000
+25%     38.000000      0.056400      0.661000          0.000000     0.036900   99.978000   0.376000   0.657000
+50%     64.000000      0.137000      0.701000          0.000003     0.042100  104.985000   0.586000   0.818000
+75%     65.000000      0.145000      0.742000          0.000024     0.123000  119.971000   0.605000   0.935000
+max     74.000000      0.681000      0.832000          0.001690     0.179000  189.961000   0.955000   0.935000

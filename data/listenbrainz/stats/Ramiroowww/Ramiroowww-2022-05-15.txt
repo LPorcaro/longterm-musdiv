@@ -1,0 +1,45 @@
+Electronic artists found: DJ Snake,Justin Bieber, Babalos
+Electronic genres found: progressive psytrance, edm, electronic trap
+Electronic music logs found: 4.65% 
+
+Top genres
+	1: rap (11.39%)
+	2: pop (7.59%)
+	3: hip hop (6.96%)
+	4: canadian pop (6.96%)
+	5: trap (5.70%)
+Top artists
+	1: Dua Lipa (2.78%)
+	2: Yung Bleu (2.78%)
+	3: Babalos (2.78%)
+	4: Megan Thee Stallion (2.78%)
+	5: ELIO (2.78%)
+Top country
+	1: US (62.79%)
+	2: QM (16.28%)
+	3: TC (4.65%)
+	4: QZ (4.65%)
+	5: UK (4.65%)
+Top record
+	1: UM7 (18.60%)
+	2: UG1 (11.63%)
+	3: CM5 (9.30%)
+	4: RC1 (4.65%)
+	5: WB1 (4.65%)
+Top year
+	1: 18 (37.21%)
+	2: 17 (11.63%)
+	3: 20 (9.30%)
+	4: 21 (9.30%)
+	5: 22 (6.98%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   43.000000     43.000000     43.000000         43.000000    43.000000   43.000000  43.000000  43.000000
+mean    70.209302      0.214181      0.701442          0.054690     0.135521  119.194442   0.341095   0.572163
+std     11.446684      0.222970      0.132483          0.187636     0.121095   29.226653   0.206895   0.125741
+min     33.000000      0.000058      0.399000          0.000000     0.027100   74.868000   0.058800   0.318000
+25%     65.500000      0.016200      0.586500          0.000000     0.046300   93.482500   0.175000   0.521500
+50%     70.000000      0.167000      0.713000          0.000020     0.083500  121.032000   0.329000   0.565000
+75%     79.000000      0.324000      0.803500          0.000670     0.206000  139.944000   0.473500   0.628000
+max     88.000000      0.803000      0.922000          0.890000     0.501000  185.002000   0.934000   0.947000

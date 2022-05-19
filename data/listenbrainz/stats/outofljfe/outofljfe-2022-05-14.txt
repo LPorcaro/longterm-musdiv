@@ -1,0 +1,39 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: bubblegum pop (9.09%)
+	2: classic uk pop (9.09%)
+	3: soft rock (9.09%)
+	4: auckland indie (9.09%)
+	5: kiwi rock (9.09%)
+Top artists
+	1: Aretha Franklin (20.00%)
+	2: Bay City Rollers (20.00%)
+	3: Gerard Way (20.00%)
+	4: Gin Wigmore (20.00%)
+	5: Ray Toro (20.00%)
+Top country
+	1: US (75.00%)
+	2: AU (25.00%)
+Top record
+	1: AR1 (25.00%)
+	2: UM7 (25.00%)
+	3: SM1 (25.00%)
+	4: RE1 (25.00%)
+Top year
+	1: 11 (50.00%)
+	2: 75 (25.00%)
+	3: 19 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo   valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.00000  4.000000  4.000000
+mean    44.000000      0.292650      0.589750          0.010319     0.062425  118.85525  0.756250  0.690500
+std      8.602325      0.407276      0.105982          0.017056     0.029163   19.82528  0.192687  0.107364
+min     35.000000      0.010100      0.498000          0.000012     0.031600   90.63800  0.500000  0.555000
+25%     38.750000      0.054650      0.510000          0.000059     0.046975  114.18350  0.662000  0.649500
+50%     43.000000      0.134250      0.567500          0.002832     0.058550  123.98100  0.806000  0.695500
+75%     48.250000      0.372250      0.647250          0.013092     0.074000  128.65275  0.900250  0.736500
+max     55.000000      0.892000      0.726000          0.035600     0.101000  136.82100  0.913000  0.816000

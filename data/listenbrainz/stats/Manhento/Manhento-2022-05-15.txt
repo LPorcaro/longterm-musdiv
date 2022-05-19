@@ -1,0 +1,32 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: conscious hip hop (25.00%)
+	2: hip hop (25.00%)
+	3: rap (25.00%)
+	4: west coast rap (25.00%)
+Top artists
+	1: Tanna Leone (11.11%)
+	2: Kodak Black (11.11%)
+	3: Beth Gibbons (11.11%)
+	4: Blxst (11.11%)
+	5: Kendrick Lamar (11.11%)
+Top country
+	1: US (100.00%)
+Top record
+	1: UM7 (100.00%)
+Top year
+	1: 22 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   20.000000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean    78.800000      0.502900      0.651100          0.000099     0.202330  133.763150   0.436950   0.518200
+std      2.261811      0.247671      0.156465          0.000260     0.132323   33.585421   0.206168   0.151744
+min     76.000000      0.181000      0.355000          0.000000     0.035800   77.215000   0.162000   0.245000
+25%     77.000000      0.283000      0.514000          0.000002     0.077300   99.735250   0.258000   0.427750
+50%     78.500000      0.433000      0.689500          0.000028     0.212000  136.977500   0.432500   0.530000
+75%     80.250000      0.765000      0.775250          0.000047     0.312000  173.329000   0.527000   0.670000
+max     84.000000      0.870000      0.907000          0.001160     0.446000  174.025000   0.826000   0.779000

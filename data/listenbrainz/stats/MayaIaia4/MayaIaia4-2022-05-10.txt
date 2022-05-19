@@ -1,0 +1,42 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: canzone d'autore (14.71%)
+	2: classic italian pop (14.71%)
+	3: italian hip hop (8.82%)
+	4: italian underground hip hop (8.82%)
+	5: rap napoletano (8.82%)
+Top artists
+	1: Caterina Caselli (14.29%)
+	2: Madame (14.29%)
+	3: Ivano Fossati (14.29%)
+	4: Bruno Lauzi (14.29%)
+	5: Calum Scott (14.29%)
+Top country
+	1: IT (90.00%)
+	2: UK (10.00%)
+Top record
+	1: UM7 (30.00%)
+	2: B00 (20.00%)
+	3: D00 (10.00%)
+	4: R00 (10.00%)
+	5: M00 (10.00%)
+Top year
+	1: 19 (20.00%)
+	2: 15 (20.00%)
+	3: 71 (20.00%)
+	4: 21 (10.00%)
+	5: 06 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   10.000000     10.000000     10.000000         10.000000    10.000000   10.000000  10.000000  10.000000
+mean    48.900000      0.553300      0.484200          0.000019     0.084430  112.901400   0.375620   0.501800
+std     15.293063      0.209941      0.190513          0.000025     0.105355   29.065375   0.210396   0.181587
+min     31.000000      0.149000      0.226000          0.000000     0.029100   82.178000   0.070200   0.174000
+25%     37.250000      0.441750      0.348250          0.000000     0.031200   92.058500   0.237000   0.393000
+50%     43.000000      0.578000      0.461000          0.000004     0.038700  110.331000   0.330500   0.564000
+75%     59.500000      0.673250      0.647500          0.000033     0.086200  117.243000   0.585000   0.631750
+max     78.000000      0.837000      0.747000          0.000059     0.365000  182.279000   0.639000   0.698000

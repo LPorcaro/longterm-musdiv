@@ -1,0 +1,45 @@
+Electronic artists found: Anne-Marie, Clean Bandit,Mabel,24kGoldn, Axwell /\ Ingrosso, 220 KID,LANY, Zara Larsson,Sabrina Carpenter
+Electronic genres found: electro house, uk funky, edm, tropical house
+Electronic music logs found: 21.43% 
+
+Top genres
+	1: pop (12.77%)
+	2: k-pop (11.70%)
+	3: dance pop (10.64%)
+	4: k-pop boy group (7.45%)
+	5: pop dance (6.38%)
+Top artists
+	1: (G)I-DLE (3.57%)
+	2: Imagine Dragons (3.57%)
+	3: PSY (3.57%)
+	4: 220 KID (3.57%)
+	5: WILLOW (3.57%)
+Top country
+	1: US (57.14%)
+	2: GB (17.86%)
+	3: KR (10.71%)
+	4: QM (10.71%)
+	5: QZ (3.57%)
+Top record
+	1: UM7 (25.00%)
+	2: A2P (17.86%)
+	3: AHS (10.71%)
+	4: 4TX (7.14%)
+	5: AT2 (7.14%)
+Top year
+	1: 21 (50.00%)
+	2: 20 (17.86%)
+	3: 18 (10.71%)
+	4: 19 (7.14%)
+	5: 17 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   28.000000     28.000000     28.000000         28.000000    28.000000   28.000000  28.000000  28.000000
+mean    72.285714      0.103617      0.699036          0.002784     0.078496  122.149357   0.629429   0.768321
+std      8.852106      0.138502      0.132230          0.013955     0.073983   24.224102   0.215314   0.098117
+min     58.000000      0.000176      0.311000          0.000000     0.031600   77.486000   0.191000   0.606000
+25%     65.750000      0.010325      0.643750          0.000000     0.039000  109.492250   0.536500   0.699500
+50%     70.500000      0.029800      0.703000          0.000000     0.053400  121.518000   0.642500   0.784500
+75%     80.000000      0.136750      0.776750          0.000000     0.097700  129.972750   0.760750   0.835000
+max     89.000000      0.469000      0.905000          0.073900     0.412000  188.700000   0.969000   0.962000

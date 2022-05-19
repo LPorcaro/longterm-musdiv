@@ -1,0 +1,121 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+55MIRLbZzpYSmMlRt9ZDWM	Andrew Garfield,Joshua Henry,Vanessa Hudgens,Robin de Jesus,Alexandra Shipp,MJ Rodriguez	30/90	QZ8BZ2100734	70	hollywood,pop	0.0146	0.466	0.0	0.0663	175.772	0.36	0.789
+25NasaCkXkaM2KrMAlWqZ6	Green Day	St. Jimmy - Live at Milton Keynes National Bowl, Milton Keynes, England, 6/18/05	USRE10501342	37	permanent wave,punk	0.00103	0.183	0.00028	0.208	144.802	0.0942	0.998
+0rme3FLbw5o1KLXpJzivjS	The B-52's	Rock Lobster	USIR27900014	47	art rock,dance rock,new romantic,new wave,new wave pop,permanent wave,post-punk,rock,zolo	0.0462	0.603	0.0265	0.048	92.24	0.486	0.814
+5A5xAcQywDqzT2fCDFUU2L	Oingo Boingo	Insects	USAM10110438	35	dance rock,new romantic,new wave,new wave pop,synthpop,zolo	0.0438	0.706	0.0228	0.0601	129.595	0.842	0.874
+35b0iM96Uid8KI5s83IEHM	Amanda Tenfjord	Die Together	NOPRR2203010	67	norwegian indie,norwegian pop,trondheim indie	0.122	0.475	0.0	0.0661	149.982	0.202	0.366
+3nhGk6VnrDHy67pXvMhdPa	Sam Ryder	SPACE MAN	GBAYE2101762	72		0.181	0.467	0.0	0.0489	79.978	0.334	0.828
+2ewv8FkYHVy3Mv0uf5Pi7k	Alvan,Ahez	Fulenn	FR9W12204047	64	new french touch	0.0127	0.742	3.41e-06	0.116	120.036	0.48	0.837
+3XREkzDHsWdBL5tybyCDBH	Chanel	SloMo	ES94B2100282	73		0.125	0.728	0.00448	0.0571	104.962	0.594	0.814
+2EGF4JrisrJ4D4HOdTyYEO	My Chemical Romance	Bulletproof Heart	USRE11000825	59	emo,pop punk	0.00033	0.405	3.47e-06	0.071	139.715	0.383	0.95
+5dTHtzHFPyi8TlTtzoz1J9	My Chemical Romance	Helena	USRE10400656	72	emo,pop punk	0.0142	0.356	0.0	0.104	125.921	0.0857	0.96
+0axF06XwNLobcx5z8BVtYw	My Chemical Romance	Give 'Em Hell, Kid	USRE10400657	59	emo,pop punk	0.0234	0.252	0.0	0.16	183.773	0.118	0.993
+7lRlq939cDG4SzWOF4VAnd	My Chemical Romance	I'm Not Okay (I Promise)	USRE10400660	73	emo,pop punk	0.00602	0.21	0.0	0.123	179.722	0.255	0.94
+5wQnmLuC1W7ATsArWACrgW	My Chemical Romance	Welcome to the Black Parade	USRE10602613	75	emo,pop punk	0.000289	0.217	0.00011	0.0752	96.95	0.236	0.905
+7j31rVgGX9Q2blT92VBEA0	My Chemical Romance	Teenagers	USRE10602912	79	emo,pop punk	0.0506	0.463	0.0	0.0632	111.647	0.856	0.857
+6Pif6RkFoYzLygdqktus4Q	My Chemical Romance	The Foundations of Decay	USRE12200285	74	emo,pop punk	0.000582	0.363	0.548	0.0552	150.15	0.198	0.67
+7xyYsOvq5Ec3P4fr6mM9fD	Muse	Hysteria	GBCVT0300083	69	modern rock,permanent wave,rock	0.000456	0.412	0.0026	0.0575	93.162	0.455	0.92
+5GorCbAP4aL0EJ16frG2hd	Green Day	Boulevard of Broken Dreams	USRE10400985	74	permanent wave,punk	0.00552	0.496	2.94e-05	0.0294	167.06	0.474	0.682
+2d6m2F4I7wCuAKtSsdhh83	My Chemical Romance	Famous Last Words	USRE10602914	70	emo,pop punk	0.000321	0.467	0.000152	0.106	122.252	0.309	0.883
+5JNfpFuU4ew1kq1oEc9OaX	Sam & Dave	Soul Man - 45 Version	USAT20804274	36	brill building pop,classic soul,funk,memphis soul,soul,southern soul	0.0471	0.767	0.252	0.0306	112.546	0.708	0.647
+4TZZvblv2yzLIBk2JwJ6Un	Miley Cyrus	Party In The U.S.A.	USHR10924519	47	dance pop,pop,post-teen pop	0.000964	0.478	7.55e-05	0.066	191.957	0.483	0.703
+10Nmj3JCNoMeBQ87uw5j8k	Red Hot Chili Peppers	Dani California	USWB10600700	75	alternative rock,funk metal,funk rock,permanent wave	0.0193	0.556	8.59e-06	0.0437	96.184	0.73	0.913
+5r96TaQquRrlo3Ym3ZlSL2	"""Weird Al"" Yankovic"	"Amish Paradise (Parody of ""Gangsta's Paradise"" by Coolio)"	USVR10300129	54	comedy rock,comic,parody	0.103	0.728	0.0	0.172	80.902	0.483	0.448
+60R2v9lheAu3lwZwAFxMZK	"""Weird Al"" Yankovic"	"White & Nerdy (Parody of ""Ridin'"" by Chamillionaire feat. Krayzie Bone)"	USVR10600081	52	comedy rock,comic,parody	0.0986	0.791	0.0	0.0763	143.017	0.896	0.613
+5ZwYXjrMnejI9o0AV2zQSh	Alice Donut	My Life Is a Mediocre Piece of Shit	US2Z41010019	4	art punk	0.00419	0.327	0.0586	0.0509	128.148	0.556	0.835
+4eus2M68qtL8u8MWHHaxGG	Cariño	Si Quieres	ES5702102184	52	rap espanol	0.000866	0.511	0.000539	0.0992	190.123	0.963	0.846
+1Dr1fXbc2IxaK1Mu8P8Khz	Green Day	When I Come Around	USRE19900154	73	permanent wave,punk	0.0175	0.531	0.0	0.034	97.546	0.814	0.909
+4qjfQnccStTR8zNsb6Mizo	Green Day	Minority	USRE10000925	58	permanent wave,punk	0.00576	0.551	0.0	0.0452	137.841	0.708	0.965
+7JmbtvmRa0ujQc7HXesX5G	The Offspring	This Is Not Utopia	USC4R2007924	52	alternative metal,permanent wave,punk,rock,skate punk,socal pop punk	0.0592	0.438	0.0	0.058	147.027	0.717	0.954
+63BcfK6YAzJYeISaTPr6IO	The Notorious B.I.G.	Big Poppa - 2007 Remaster	USBB40706423	69	east coast hip hop,gangster rap,hardcore hip hop,hip hop,rap	0.344	0.765	0.0	0.278	84.5	0.798	0.671
+3yfqSUWxFvZELEM4PmlwIR	Eminem	The Real Slim Shady	USIR10000448	85	detroit hip hop,hip hop,rap	0.0302	0.949	0.0	0.0572	104.504	0.76	0.661
+1DIXPcTDzTj8ZMHt3PDt8p	Coolio,L.V.	Gangsta's Paradise	USTB10400128	83	g funk,gangster rap,hip hop,rap,west coast rap	0.0655	0.647	0.0	0.0593	79.975	0.386	0.514
+3kZoay4ANo86ehb6s4RwS9	Chamillionaire,Krayzie Bone	Ridin'	USUM70503088	70	dirty south rap,gangster rap,houston rap,pop rap,rap,southern hip hop,trap	0.189	0.787	0.0	0.0993	143.052	0.835	0.799
+27Kammi1yOnR7FeKHLa5aU	SEGA SOUND TEAM,Jun Senoue	Theme of ”Dr.Eggman”	JPX301167060	23	japanese vgm,sound team	2.59e-05	0.553	0.721	0.0348	126.05	0.944	0.927
+5UBBJnFxsfjFxfrtvErQoH	The xx	Crystalised	GBBKS0900025	63	downtempo,dream pop,indietronica	0.812	0.762	0.389	0.0311	122.916	0.415	0.484
+76365icROsgrLvYVImAnyP	Arcade Fire	Age of Anxiety I	GBARL2200385	66	alternative rock,baroque pop,canadian indie,indie rock,modern rock,permanent wave,quebec indie,rock	0.219	0.355	0.0114	0.0338	124.65	0.225	0.41
+2n0FNnk3Mjulyd4Pu9JV7M	a-ha	Take on Me	USWB19901214	24	new romantic,new wave,new wave pop,permanent wave,soft rock,synthpop	0.018	0.573	0.00125	0.054	84.412	0.876	0.902
+54X78diSLoUDI3joC2bjMz	Prince	Purple Rain	USWB10001880	72	funk,funk rock,minneapolis sound,synth funk	0.0353	0.367	0.00228	0.0307	113.066	0.189	0.452
+07ABETRdek3ACMpRPvQuaT	Pet Shop Boys	Always on My Mind	GBAYE8700080	67	art pop,dance rock,europop,new romantic,new wave,new wave pop,permanent wave,synthpop	0.0116	0.533	0.0565	0.0366	124.874	0.726	0.783
+3eGBESLT08agei7veoLLlz	N.W.A.	Straight Outta Compton - Extended Mix / Edit	USPO19600010	51	conscious hip hop,gangster rap,golden age hip hop,hardcore hip hop,hip hop,old school hip hop,rap,west coast rap	0.117	0.773	0.0	0.249	102.146	0.464	0.947
+4LwU4Vp6od3Sb08CsP99GC	Dr. Dre,Snoop Dogg	The Next Episode	USIR19915078	80	g funk,gangster rap,hip hop,rap,west coast rap	0.0281	0.922	0.0	0.27	95.295	0.309	0.909
+1p50Ir1Hm6Sa1urjaLGi7L	Anthrax,Public Enemy	Bring The Noise	USIR29100046	54	album rock,alternative metal,hard rock,metal,nu metal,old school thrash,rap metal,rock,speed metal,thrash metal	0.00086	0.601	0.0	0.17	120.962	0.296	0.831
+3lTzyHVNzuIdgmi6Q5F1zE	Hablando En Plata	Slasher	ES6080949406	19	spanish hip hop	0.121	0.633	0.011	0.162	101.001	0.788	0.779
+28mv40MzspRZn0PBcO2itT	Ludacris	Act A Fool	USDJ20300493	61	atl hip hop,dance pop,dirty south rap,hip hop,old school atlanta hip hop,pop rap,rap,southern hip hop,trap	0.229	0.573	0.0	0.325	110.64	0.775	0.906
+2YpeDb67231RjR0MgVLzsG	Lil Nas X,Billy Ray Cyrus	Old Town Road - Remix	USSM11902498	77	lgbtq+ hip hop,pop	0.0533	0.878	0.0	0.102	136.041	0.639	0.619
+2qOm7ukLyHUXWyR4ZWLwxA	Ice Cube	It Was A Good Day	USPO19250006	79	conscious hip hop,g funk,gangster rap,hip hop,rap,west coast rap	0.33	0.798	0.000106	0.136	82.356	0.794	0.744
+179NmmjhDK3XMWLrMfMXO7	The Blues Brothers,Junior Wells,Dan Aykroyd,Lonnie Brooks	Cheaper To Keep Her	USUR19700520	28	blues,blues rock	0.265	0.554	0.0	0.156	126.269	0.743	0.85
+4RZFpgo4VzBjH5g7XCHo2l	Hank Williams,Drifting Cowboys	Lovesick Blues - Single Version	USPR39400690	34	honky tonk,traditional country,yodeling	0.95	0.776	7.39e-06	0.0467	126.236	0.689	0.197
+3MjUtNVVq3C8Fn0MP3zhXa	Britney Spears	...Baby One More Time	USJI19810404	76	dance pop,pop,post-teen pop	0.202	0.759	0.000131	0.0307	92.96	0.907	0.699
+6I9VzXrHxO9rA9A5euc8Ak	Britney Spears	Toxic	USJI10301005	80	dance pop,pop,post-teen pop	0.0249	0.774	0.025	0.114	143.04	0.924	0.838
+3acBQxxlyb0jC2xqndDzSf	Chris Cornell	"You Know My Name - From ""Casino Royale"" Soundtrack"	USUM70613448	58	alternative metal,alternative rock,grunge,rock	0.0207	0.366	0.0	0.0387	138.051	0.384	0.869
+5BOlnp7K5GMzoiKdmSJBRu	Sheryl Crow	Tomorrow Never Dies - Full Length Version	USAM19774851	43	lilith,mellow gold,neo mellow,new wave pop,permanent wave,pop rock,rock	0.203	0.24	0.00547	0.0319	109.888	0.143	0.468
+2FbkxLsDnOOJUsp61T8MiA	Duran Duran	A View To A Kill	USMG28500001	34	dance rock,new romantic,new wave,new wave pop,rock,synthpop	0.0156	0.709	0.0	0.0534	125.507	0.775	0.828
+0XCszZIzEncBpgAMkKoDB2	Shirley Bassey	Moonraker	USMG27900001	44	adult standards,brill building pop,classic uk pop,easy listening,lounge,vocal jazz	0.864	0.27	0.0162	0.0284	96.172	0.189	0.293
+6VObnIkLVruX4UVyxWhlqm	Adele	Skyfall	GBBKS1200164	73	british soul,pop,pop soul,uk pop	0.417	0.346	0.0	0.0282	75.881	0.0789	0.552
+5mcaY65WhtzFk1TFRGY6kY	The Jim Carroll Band	People Who Died	USFP71772305	50	pub rock	0.0893	0.315	0.000663	0.0725	190.668	0.931	0.628
+6PgVDY8GTkxF3GmhVGPzoB	Sam & Dave	Hold On, I'm Comin'	USAT20001059	65	brill building pop,classic soul,funk,memphis soul,soul,southern soul	0.196	0.803	0.038	0.0349	106.841	0.912	0.338
+4mjFMScEvHeM72791mXRCW	Village People	In the Navy - Original Version 1979	FR6V80878840	57	disco	0.0725	0.725	0.0	0.0472	127.323	0.755	0.959
+7GJHKjgG9MZEAbTc0xCN7K	The Statler Brothers	Bed Of Rose's	USPR39400571	46	country,country rock	0.421	0.768	0.0	0.033	102.802	0.955	0.491
+3L2aW5OCZ8Ie1rfZrknqjZ	Qalomon	He To Cool For School	QZPLR2112759	34		0.00259	0.543	0.0	0.049	132.181	0.692	0.887
+4O6ZaZrRCFfiZZKjnrXqlk	The Wonders	That Thing You Do!	USSM19602550	52	beatlesque	0.0446	0.598	5.86e-06	0.0432	134.52	0.962	0.874
+0JS3XkhpmrvkSweIcI1mLf	Elvis Costello,Oscar Isaac,Adam Driver	Please Mr. Kennedy	USNO11400745	28	art rock,folk,folk rock,mellow gold,new wave pop,permanent wave,power pop,pub rock,rock,roots rock,singer-songwriter	0.141	0.546	0.0	0.234	144.092	0.805	0.929
+0m7xvX7nhPZ9DOZipTUedd	Elvis Presley,Junkie XL	A Little Less Conversation - JXL Radio Edit Remix	USRC10200288	37		0.000135	0.578	0.202	0.0485	114.99	0.689	0.97
+7iN1s7xHE4ifF5povM6A48	The Beatles	Let It Be - Remastered 2009	GBAYE0601713	75	beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock	0.631	0.443	0.0	0.0322	143.462	0.41	0.403
+7uQBTDPiy9eeEm1GgfZV4E	Nick Cave & The Bad Seeds	Up Jumped the Devil - 2010 Remastered Version	GBAJH0900649	30	permanent wave	0.00149	0.468	0.0	0.0504	112.854	0.601	0.715
+1Dv8LlG8o8zPDqOV7PUUp0	The Who	My Generation - Shel Talmy Stereo Version	USMC10200837	32	album rock,art rock,blues rock,british invasion,classic rock,folk rock,hard rock,mellow gold,psychedelic rock,rock	0.0088	0.444	4.42e-05	0.0526	94.998	0.813	0.896
+0cKk8BKEi7zXbdrYdyqBP5	The Who	Behind Blue Eyes	GBAKW7100099	68	album rock,art rock,blues rock,british invasion,classic rock,folk rock,hard rock,mellow gold,psychedelic rock,rock	0.213	0.394	4.45e-05	0.0336	126.844	0.342	0.622
+3MrRksHupTVEQ7YbA0FsZK	Europe	The Final Countdown	USSM18600196	74	album rock,glam metal,hard rock,rock,swedish hard rock,swedish melodic rock	0.0628	0.529	0.000827	0.0616	117.662	0.188	0.843
+1mSzuXVjjKC0bPh6iG6xjy	Urge Overkill	Girl, You'll Be a Woman Soon	USTG39208601	61	alternative pop,alternative rock,power pop	0.0698	0.514	0.000183	0.042	114.145	0.557	0.584
+2HHtWyy5CgaQbC7XSoOb0e	Survivor	Eye of the Tiger	USVR19300001	72	album rock,hard rock,rock,soft rock	0.216	0.815	0.000466	0.0346	108.965	0.552	0.438
+5kxVyCgEUND7E2QKG7JmoF	Arctic Monkeys	Teddy Picker	GBCEL0700064	65	garage rock,permanent wave,rock,sheffield indie	0.000286	0.637	0.000889	0.0882	150.1	0.823	0.963
+3ZOEytgrvLwQaqXreDs2Jx	Red Hot Chili Peppers	Can't Stop	USWB10201694	79	alternative rock,funk metal,funk rock,permanent wave	0.0179	0.618	0.0	0.0456	91.455	0.875	0.938
+0INUNNYfsp4qr6kJdY46mY	Creedence Clearwater Revival	Travelin' Band	USC4R0817628	59	album rock,classic rock,country rock,rock,southern rock,swamp rock	0.0166	0.513	0.0282	0.0511	166.186	0.963	0.92
+5sICkBXVmaCQk5aISGR3x1	Metallica	Enter Sandman	GBF089190013	77	hard rock,metal,old school thrash,rock,thrash metal	0.00213	0.577	0.0114	0.0298	123.257	0.604	0.828
+40dHZ1HyySmu9FmTINRbqM	Papa Roach	Getting Away With Murder	USDW10400810	54	alternative metal,nu metal,rap metal,rap rock	0.000115	0.543	3.34e-05	0.0532	103.91	0.349	0.97
+5fv9AxkRVzCwT5XkpYjWvL	Kings of Leon	Holy Roller Novocaine	USRC10200830	39	modern rock,rock	0.0329	0.571	0.000264	0.0743	106.811	0.557	0.735
+3ODl8J0TZAykdMCtCIO28n	Jack White,Alicia Keys	Another Way to Die	USJAY0800153	54	alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock	0.0239	0.486	3.02e-05	0.128	141.933	0.386	0.765
+3vO2BbrhKNV2PDl276BUIZ	Creedence Clearwater Revival	Cotton Fields	USC4R0817615	62	album rock,classic rock,country rock,rock,southern rock,swamp rock	0.237	0.582	0.0	0.0297	148.634	0.86	0.641
+1jzDzZWeSDBg5fhNc3tczV	Black Sabbath	Paranoid	GBAJE7000057	76	album rock,birmingham metal,classic rock,hard rock,metal,rock,stoner rock,uk doom metal	7.85e-05	0.429	0.00411	0.0769	162.734	0.376	0.631
+3tc0yir2NHwhzVWZnmukhS	Franz Ferdinand	Jacqueline	GBCEL0300190	46	alternative rock,dance rock,indie rock,modern rock,rock,scottish rock	0.000115	0.311	0.00254	0.0606	154.031	0.342	0.698
+0qGZkkxnyfGrUBLflKwBQG	Rammstein	Meine Tränen	DEUM72118408	70	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0186	0.569	0.000168	0.0307	114.967	0.189	0.752
+1l0arEkM2grgUYMim5SggS	Rammstein	OK	DEUM72118407	71	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000343	0.49	0.0882	0.12	166.049	0.31	0.901
+2w7Ca8DNYXBCgA6Bht7o0N	Rammstein	Zick Zack	DEUM72118406	72	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00118	0.669	0.00131	0.0681	130.014	0.398	0.814
+3Ye7vnZdrO2Gq5IyyH3cOp	Rammstein	Giftig	DEUM72118405	73	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0031	0.608	0.000133	0.0522	144.959	0.508	0.845
+03UrZgTINDqvnUMbbIMhql	PSY	Gangnam Style (강남스타일)	USUM71210283	71	k-pop,k-rap,korean old school hip hop	0.00417	0.727	0.0	0.286	132.067	0.749	0.937
+4Tn2llBm1g0UlWctmgPL8Z	Rihanna	Shut Up And Drive	USUM70734703	68	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.00101	0.735	0.129	0.0349	132.964	0.74	0.826
+14iN3o8ptQ8cFVZTEmyQRV	Katy Perry	I Kissed A Girl	USCA20801738	72	dance pop,pop,post-teen pop	0.00223	0.699	0.0	0.0677	129.996	0.696	0.76
+3SnGymj6ijE2iuUfWxLo1q	Diana Ross	I'm Coming Out	USMO18000073	68	adult standards,disco,motown,quiet storm,soft rock,soul	0.185	0.72	0.429	0.0462	110.071	0.768	0.828
+5r69iygC4WaQOeQEwHLTJe	Josan Fame	GORDO	GBSMU4539068	1		0.268	0.715	0.0	0.538	124.099	0.927	0.572
+20I6sIOMTCkB6w7ryavxtO	Carly Rae Jepsen	Call Me Maybe	CAB391100615	77	canadian pop,dance pop,electropop,pop,post-teen pop	0.0114	0.783	2.28e-06	0.0408	120.021	0.66	0.58
+4r8lRYnoOGdEi6YyI5OC1o	*NSYNC	Bye Bye Bye	USJI10000001	64	boy band,dance pop,post-teen pop	0.0408	0.614	0.00104	0.0516	172.656	0.879	0.928
+3cbV252akVZInSvJk7jAYX	Irene Cara	Flashdance...What a Feeling - Radio Edit	CAU118300354	71	disco,new romantic,new wave pop,soft rock	0.0058	0.572	3.21e-06	0.0344	122.491	0.399	0.654
+47BBI51FKFwOMlIiX6m8ya	Backstreet Boys	I Want It That Way	USJI19910614	78	boy band,dance pop	0.257	0.689	0.0	0.027	99.039	0.482	0.694
+0HPD5WQqrq7wPWR7P7Dw1i	Kesha	TiK ToK	USRC10900433	79	dance pop,electropop,pop,post-teen pop	0.0991	0.755	0.0	0.142	120.028	0.714	0.837
+5ZDSTEpR03HD0QCj37PTsS	Josan Fame	La Mortadela	GBSMU4539071	1		0.129	0.713	0.0	0.476	127.36	0.754	0.536
+1Nn0k2kxiyrOd6R6Q9MVVt	Pet Shop Boys	Go West	GBCEW0300002	1	art pop,dance rock,europop,new romantic,new wave,new wave pop,permanent wave,synthpop	0.0174	0.535	9.67e-06	0.0373	120.72	0.444	0.951
+0iGckQFyv6svOfAbAY9aWJ	Katy Perry	Hot N Cold	USCA20802544	72	dance pop,pop,post-teen pop	7.95e-05	0.706	0.0	0.0418	132.032	0.861	0.841
+78UhnIL3niJ7njiTCWNal7	Josan Fame	Mary Kon	GBSMU4539069	1		0.0206	0.95	0.0	0.385	119.99	0.678	0.362
+4mU5kaDTXJ2aQcTeHqknP2	Josan Fame	Palomitas	GBSMU4539067	0		0.0139	0.893	0.0	0.273	94.961	0.648	0.461
+0CquBljEb9C5Bui75A3T4L	Jennifer Lopez	Let's Get Loud	USSM11204307	34	dance pop,pop,pop rap,urban contemporary	0.139	0.821	0.000191	0.0515	130.98	0.925	0.939
+30XU4suKzCeoCK9YFzdufg	Lady Gaga	Born This Way	USUM71100638	71	art pop,dance pop,pop	0.00327	0.587	0.0	0.161	123.907	0.494	0.828
+3IU5SXObGvpfK3nkSfyYvc	Josan Fame,Davinia LaPony	Resaca	GBSMU4539072	0		0.404	0.683	0.0	0.364	189.888	0.866	0.64
+4BSqWYecXFzcg3AtAH5iRH	Adiós Amores	Charlotte	ES71G1951485	33	sevilla indie,spanish noise pop	0.000959	0.634	2.97e-05	0.0298	104.969	0.698	0.669
+6naxalmIoLFWR0siv8dnQQ	Britney Spears	Oops!...I Did It Again	USJI10000100	76	dance pop,pop,post-teen pop	0.3	0.751	1.77e-05	0.0437	95.053	0.894	0.834
+4QQEzkxcONBthDLfzqIh9S	Gary Numan	Cars	GBAZP9700067	61	art rock,new romantic,new wave,new wave pop,permanent wave,post-punk,synthpop	0.0114	0.545	6.57e-05	0.0406	128.038	0.819	0.578
+5ubvP9oKmxLUVq506fgLhk	Bee Gees	Stayin Alive	USRH10721057	76	disco,mellow gold,soft rock	0.0288	0.702	0.00871	0.0343	103.564	0.953	0.773
+7nm8w9dMwTjlWDosdnxBSn	The Buggles	Video Killed The Radio Star - Single Version	GBAAN0201052	61	early synthpop,new romantic,new wave,new wave pop,synthpop,zolo	0.0862	0.742	0.00768	0.0669	130.849	0.514	0.788
+2wSAWEYUHkt92X4SBAPqZE	Culture Club	Karma Chameleon - Remastered 2002	GBAAA0201011	71	disco,europop,mellow gold,new romantic,new wave,new wave pop,soft rock,synthpop	0.225	0.668	0.0	0.0366	92.049	0.894	0.73
+6SS4bdbeHrWdqz7h6K7LkY	Test Pattern	Art + Student = Poor	US58L1974302	13		0.000173	0.463	0.368	0.0936	134.191	0.469	0.847
+1FL9DHDSED6lxNMDJUJQvB	Kraftwerk	The Model - 2009 Remaster	USCA20903078	57	dusseldorf electronic,early synthpop,electro,krautrock,new romantic,new wave,proto-techno,synthpop	0.00122	0.708	0.643	0.0344	123.602	0.463	0.683
+6Q9bzJRs0U0rLV0FRZom6d	PSY	9INTRO	QZEKE2084401	51	k-pop,k-rap,korean old school hip hop	0.0348	0.957	0.0	0.232	121.906	0.768	0.708
+5x0j5GEuf4AjJSVeiQrRTu	PSY	Gentleman	USUM71304188	33	k-pop,k-rap,korean old school hip hop	0.00217	0.885	0.0	0.114	126.011	0.553	0.713
+25YgkxnU4UzEG4ORni69Rw	PSY	New Face	KRA401700080	59	k-pop,k-rap,korean old school hip hop	0.0079	0.836	2.94e-05	0.0563	131.969	0.444	0.728
+1eMVXXpNPEUdFRy5ZH7FpM	PSY,CL	DADDY	KRA401500660	62	k-pop,k-rap,korean old school hip hop	0.0793	0.762	0.0	0.13	132.05	0.747	0.869
+5oH4DQAuu1J1800RzUsBWa	PSY,SUGA	That That (prod. & feat. SUGA of BTS)	QZEKE2084402	85	k-pop,k-rap,korean old school hip hop	0.0299	0.905	0.0	0.0856	129.969	0.906	0.962
+2NJGAT43AvS7BQvn2017yS	John Maus	Hey Moon	GBVCE1149004	47	art pop,baroque pop,chillwave,experimental pop	0.784	0.573	0.633	0.0247	89.575	0.24	0.639
+0E3HnGJSMplqBSYGsh2exH	FM-84,Ollie Wride	Running in the Night	QM4DW1652414	54	popwave,synthwave	0.00664	0.527	1.16e-06	0.0371	133.015	0.375	0.714
+7eVgS0wHZSRjNHObWO6vNg	Electric Youth	Innocence	US38W1431904	41	filter house,popwave,synthwave	0.125	0.683	0.592	0.0248	111.979	0.32	0.673
+1wQL1hqKJNlOZr5vVgIytr	John Maus	Bennington (2007)	GBCEL1200174	42	art pop,baroque pop,chillwave,experimental pop	0.00145	0.709	0.639	0.0322	134.952	0.786	0.379
+2JFBYQ0JSuVoDP2HuMHMKv	Au Revoir Simone	Somebody Who	GBGEY1300044	21	brooklyn indie	0.0273	0.613	0.748	0.0315	105.976	0.704	0.748
+2pc8C5uBvQ0kBqsPPJscjL	John Carpenter	Assault on Precinct 13	US5NR1615701	32	horror synth,soundtrack	0.000643	0.481	0.911	0.0631	180.003	0.514	0.504

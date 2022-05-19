@@ -1,0 +1,27 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: neo mellow (33.33%)
+	2: pop rock (33.33%)
+	3: singer-songwriter (33.33%)
+Top artists
+	1: John Mayer (100.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: SM1 (100.00%)
+Top year
+	1: 08 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0         1.000         1.000               1.0       1.0000    1.000    1.000    1.00
+mean         49.0         0.766         0.546               0.0       0.0304  121.743    0.407    0.38
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          49.0         0.766         0.546               0.0       0.0304  121.743    0.407    0.38
+25%          49.0         0.766         0.546               0.0       0.0304  121.743    0.407    0.38
+50%          49.0         0.766         0.546               0.0       0.0304  121.743    0.407    0.38
+75%          49.0         0.766         0.546               0.0       0.0304  121.743    0.407    0.38
+max          49.0         0.766         0.546               0.0       0.0304  121.743    0.407    0.38

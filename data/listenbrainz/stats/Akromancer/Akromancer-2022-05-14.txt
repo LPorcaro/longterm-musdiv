@@ -1,0 +1,45 @@
+Electronic artists found: SAINt JHN,Imanbek, Travis Scott, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry, Hyper, Diplo,Morgan Wallen
+Electronic genres found: slap house, edm, tropical house, electro house, video game music, big beat, moombahton
+Electronic music logs found: 3.12% 
+
+Top genres
+	1: rap (11.13%)
+	2: melodic rap (6.60%)
+	3: pop rap (6.39%)
+	4: pop (5.36%)
+	5: trap (4.95%)
+Top artists
+	1: Tory Lanez (0.62%)
+	2: Golden Wizards (0.62%)
+	3: Juice WRLD (0.62%)
+	4: Megan Thee Stallion (0.62%)
+	5: PRETTYMUCH (0.62%)
+Top country
+	1: US (61.25%)
+	2: QZ (8.75%)
+	3: QM (7.50%)
+	4: GB (7.50%)
+	5: TC (5.62%)
+Top record
+	1: UM7 (21.25%)
+	2: SM1 (9.38%)
+	3: AT2 (6.88%)
+	4: UG1 (5.62%)
+	5: RC1 (3.75%)
+Top year
+	1: 19 (32.50%)
+	2: 20 (24.38%)
+	3: 21 (13.12%)
+	4: 18 (11.25%)
+	5: 17 (5.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  160.000000    160.000000    160.000000        160.000000   160.000000  160.000000  160.000000  160.000000
+mean    60.556250      0.151629      0.633713          0.006303     0.131328  126.009931    0.459455    0.696656
+std     15.590977      0.179924      0.159116          0.066645     0.121776   29.780713    0.207266    0.150707
+min     11.000000      0.000017      0.246000          0.000000     0.025800   67.480000    0.039300    0.336000
+25%     48.000000      0.010398      0.520000          0.000000     0.048875   99.291750    0.309500    0.592000
+50%     62.500000      0.092900      0.645500          0.000000     0.080900  128.522500    0.460000    0.706000
+75%     74.250000      0.213000      0.755000          0.000004     0.164000  147.966500    0.590750    0.816500
+max     88.000000      0.810000      0.964000          0.841000     0.594000  196.213000    0.925000    0.985000

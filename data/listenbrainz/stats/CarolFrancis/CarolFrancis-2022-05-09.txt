@@ -1,0 +1,44 @@
+Electronic artists found: John K, Anne-Marie, Elderbrook,Rudimental, Shallou,Daya, Sam Fischer, Astrid S, JP Cooper
+Electronic genres found: tropical house
+Electronic music logs found: 15.69% 
+
+Top genres
+	1: pop (20.81%)
+	2: electropop (9.83%)
+	3: dance pop (9.25%)
+	4: uk pop (7.51%)
+	5: alt z (6.94%)
+Top artists
+	1: Wiz Khalifa (1.59%)
+	2: John K (1.59%)
+	3: Rudimental (1.59%)
+	4: Jake Scott (1.59%)
+	5: LØLØ (1.59%)
+Top country
+	1: US (43.14%)
+	2: GB (25.49%)
+	3: QM (7.84%)
+	4: UK (5.88%)
+	5: QZ (5.88%)
+Top record
+	1: UM7 (25.49%)
+	2: SM1 (11.76%)
+	3: 6KW (5.88%)
+	4: KPL (5.88%)
+	5: RSZ (3.92%)
+Top year
+	1: 19 (49.02%)
+	2: 20 (43.14%)
+	3: 18 (5.88%)
+	4: 21 (1.96%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.000000  51.000000
+mean    60.568627      0.492056      0.616255          0.001952     0.071861  124.058000   0.368690   0.444078
+std      7.119705      0.282805      0.135405          0.007343     0.051982   31.678875   0.163581   0.160801
+min     40.000000      0.001770      0.322000          0.000000     0.026200   71.023000   0.096200   0.120000
+25%     57.000000      0.275500      0.520000          0.000000     0.037350  101.918500   0.263000   0.355500
+50%     61.000000      0.456000      0.624000          0.000000     0.051100  122.961000   0.340000   0.410000
+75%     64.500000      0.740000      0.698000          0.000021     0.080400  145.451000   0.450500   0.521000
+max     76.000000      0.953000      0.958000          0.034900     0.237000  191.817000   0.795000   0.844000

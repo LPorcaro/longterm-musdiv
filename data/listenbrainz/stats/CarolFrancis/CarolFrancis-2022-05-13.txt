@@ -1,0 +1,45 @@
+Electronic artists found: John K, Ludovico Einaudi,Daniel Hope,I Virtuosi Italiani, Surf Mesa,Emilee, Ludovico Einaudi, Elderbrook,Rudimental, Shallou,Daya, Kygo,OneRepublic, Sam Fischer, Sam Fischer,Demi Lovato, JP Cooper, Joep Beving, John K,Kelsea Ballerini
+Electronic genres found: compositional ambient, edm, tropical house
+Electronic music logs found: 20.25% 
+
+Top genres
+	1: pop (12.97%)
+	2: electropop (6.69%)
+	3: classical (6.28%)
+	4: uk pop (6.28%)
+	5: alt z (5.02%)
+Top artists
+	1: Rudimental (0.94%)
+	2: Yebba (0.94%)
+	3: Frederick Delius (0.94%)
+	4: Jean-Yves Thibaudet (0.94%)
+	5: Shallou (0.94%)
+Top country
+	1: GB (35.44%)
+	2: US (18.99%)
+	3: DE (11.39%)
+	4: IT (7.59%)
+	5: SE (5.06%)
+Top record
+	1: UM7 (10.13%)
+	2: KPL (8.86%)
+	3: B28 (7.59%)
+	4: N96 (6.33%)
+	5: ARL (5.06%)
+Top year
+	1: 20 (32.91%)
+	2: 19 (31.65%)
+	3: 21 (12.66%)
+	4: 18 (6.33%)
+	5: 12 (3.80%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   79.000000     79.000000     79.000000         79.000000    79.000000   79.000000  79.000000  79.000000
+mean    59.151899      0.673037      0.472684          0.327980     0.066733  110.151696   0.278118   0.298638
+std      7.731203      0.318651      0.200456          0.437324     0.052060   34.356022   0.182765   0.244803
+min     38.000000      0.056300      0.092100          0.000000     0.027900   62.668000   0.033200   0.001930
+25%     55.000000      0.355000      0.306000          0.000000     0.040500   80.537000   0.134500   0.024700
+50%     59.000000      0.802000      0.474000          0.000018     0.047600  104.935000   0.265000   0.351000
+75%     63.000000      0.986000      0.646000          0.908000     0.069300  138.917500   0.374500   0.470000
+max     76.000000      0.995000      0.955000          0.961000     0.350000  191.817000   0.795000   0.843000

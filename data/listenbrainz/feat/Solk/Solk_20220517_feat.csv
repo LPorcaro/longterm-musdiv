@@ -1,0 +1,75 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7oolFzHipTMg2nL7shhdz2	Ed Sheeran	Eraser	GBAHS1700020	59	pop,uk pop	0.086	0.64	0.0	0.0834	86.013	0.914	0.812
+1DhRbox3xkceP64k3JeYfW	Ed Sheeran,Travis Scott	Antisocial (with Travis Scott)	GBAHS1900966	62	pop,uk pop	0.132	0.716	0.0	0.0495	151.957	0.91	0.823
+1AI7UPw3fgwAFkvAlZWhE0	Ed Sheeran,Stormzy	Take Me Back to London (feat. Stormzy)	GBAHS1900716	65	pop,uk pop	0.219	0.885	0.0	0.216	138.058	0.605	0.762
+2iUXsYOEPhVqEBwsqP70rE	5 Seconds of Summer	Youngblood	GBUM71800366	79	boy band,dance pop,pop,post-teen pop	0.0169	0.596	0.0	0.463	120.274	0.152	0.854
+6W5RmgWh46p9RQ4LDezHKE	Hailee Steinfeld	"Flashlight (Sweet Life Mix) - From ""Pitch Perfect 2"" Soundtrack"	USUM71510764	58	dance pop,pop,post-teen pop	0.327	0.52	0.0	0.0711	148.228	0.278	0.623
+3UN6cIn3VIyg0z1LCuFSum	David Guetta,Usher	Without You (feat. Usher)	GB28K1100030	68	big room,dance pop,edm,pop,pop dance,pop rap	0.227	0.608	4.06e-06	0.0285	127.884	0.402	0.614
+1mea3bSkSGXuIRvnydlB5b	Coldplay	Viva La Vida	GBAYE0800265	79	permanent wave,pop	0.0954	0.486	3.23e-06	0.0287	138.015	0.417	0.617
+65fpYBrI8o2cfrwf2US4gq	Zac Efron,Zendaya	Rewrite The Stars	USAT21704623	72	hollywood,post-teen pop,show tunes	0.0716	0.684	0.0	0.0386	125.046	0.284	0.619
+25n4NECujqOxQHdXVIVc9I	Demi Lovato	Heart Attack	USHR11334249	48	dance pop,pop,post-teen pop	0.0726	0.499	0.0	0.0682	173.979	0.526	0.776
+0JiVRyTJcJnmlwCZ854K4p	Alan Walker	Alone	NOG841617010	61	electro house	0.186	0.676	0.000405	0.0458	97.019	0.157	0.929
+5caUpMNinz52sFOHqGMOdd	Toranja	Carta	PTUM10300086	41	portuguese rock	0.24	0.541	0.00135	0.0278	80.0	0.183	0.333
+1SJtlNRJDeYHioymcvsqev	Camila Cabello	Crying in the Club	USSM11704592	68	dance pop,pop,post-teen pop	0.334	0.334	0.0	0.383	85.227	0.603	0.617
+0a4ZGSRZOgspQy2HYzU82l	Justin Timberlake	Take Back the Night	USRC11301011	49	dance pop,pop	0.043	0.588	4.3e-05	0.159	106.502	0.333	0.664
+3Vo4wInECJQuz9BIBMOu8i	Bruno Mars,Cardi B	Finesse - Remix; feat. Cardi B	USAT21705441	72	dance pop,pop	0.0185	0.704	0.0	0.0996	105.115	0.926	0.859
+2yTpNVq1gSpfaW9TNNtqeM	Stray Kids	My Side	US5TA2100130	51	k-pop,k-pop boy group	0.00387	0.564	7.77e-06	0.0898	166.003	0.38	0.912
+4PpMKj0qmas8OncPsDH7F1	Stray Kids	Behind The Light	US5TA2100129	52	k-pop,k-pop boy group	0.457	0.617	0.0	0.0769	173.882	0.508	0.527
+27ONBeTAyqpBJG2Nv01qdf	Stray Kids	Insomnia	US5TA2100128	54	k-pop,k-pop boy group	0.212	0.639	0.0	0.365	167.909	0.802	0.82
+62x6J6Mfom0h7J509dvusH	Stray Kids	Placebo	US5TA2100127	53	k-pop,k-pop boy group	0.0359	0.798	0.0	0.0991	100.024	0.583	0.809
+26TIfStHIKPlgzr4PkTB0i	Stray Kids	3rd Eye	US5TA2100126	53	k-pop,k-pop boy group	0.254	0.676	0.0	0.276	139.844	0.382	0.727
+6p4pfgTkaktK4sp3ZP7NzA	Stray Kids	ROCK	US5TA2100125	54	k-pop,k-pop boy group	0.019	0.771	0.000244	0.174	141.992	0.48	0.848
+3vaCSLh9vDnG75rIbD2l3f	Stray Kids	Awaken	US5TA2100124	53	k-pop,k-pop boy group	0.147	0.488	0.0	0.292	164.025	0.503	0.929
+0bqTleRlZBXtueX1fyVlcc	Stray Kids	Scars - Korean Ver.	US5TA2100123	54	k-pop,k-pop boy group	0.0719	0.494	0.0	0.146	159.719	0.444	0.693
+0oHn3CGVerdfLqIrN6CT42	Stray Kids	Muddy Water (Changbin, Hyunjin, HAN, Felix)	US5TA2200032	68	k-pop,k-pop boy group	0.306	0.76	0.0	0.231	89.989	0.888	0.871
+2LzRBroL4J9pXLf1Nsen4s	Stray Kids	Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)	US5TA2200031	67	k-pop,k-pop boy group	0.102	0.419	0.0	0.0278	87.822	0.347	0.595
+2xo84jGkxFPrZmmBtS3Pkd	Stray Kids	Lonely St.	US5TA2200030	69	k-pop,k-pop boy group	0.248	0.686	0.0	0.0582	90.053	0.603	0.825
+2L7hSYdvF0CtaM6JisfKEG	Stray Kids	FREEZE	US5TA2200029	71	k-pop,k-pop boy group	0.00674	0.643	0.0	0.146	159.874	0.657	0.868
+4QDpsNBlllaLGj8zbF2EE0	Stray Kids	Charmer	US5TA2200028	73	k-pop,k-pop boy group	0.0524	0.786	1.04e-05	0.0519	90.963	0.731	0.762
+63irPUP3xB74fHdw1Aw9zR	Stray Kids	MANIAC	US5TA2200027	81	k-pop,k-pop boy group	0.154	0.581	0.0	0.411	119.872	0.709	0.8
+4b3rGL8LDSkbARUUA20136	Stray Kids	VENOM	US5TA2200026	73	k-pop,k-pop boy group	0.11	0.812	0.0	0.339	136.979	0.4	0.807
+60nwvOMLA1uzLHz3CLp4Na	BTS	Airplane pt.2	QM6MZ1886148	55	k-pop,k-pop boy group	0.0265	0.77	0.000103	0.0339	139.979	0.866	0.817
+4TgxFMOn5yoESW6zCidCXL	Jawsh 685,Jason Derulo,BTS	Savage Love (Laxed – Siren Beat) [BTS Remix]	USSM12005696	73	nz pop	0.16	0.758	0.0	0.0868	149.836	0.658	0.598
+6nLvaCZFR1wEzW3sIKpsnr	Amy Winehouse	Valerie - Live At BBC Radio 1 Live Lounge, London / 2007	GBUM70702678	72	british soul,indie r&b,neo soul	0.744	0.772	0.0	0.0348	96.574	0.684	0.371
+464aQpCDwedVA34R0kHRC9	Project 46,Olivia	Forgettable (feat. Olivia)	USUS11203423	44	complextro,edm,electro house,gaming edm,melodic dubstep,pop dance,pop edm,progressive electro house	0.681	0.623	0.0	0.031	128.075	0.226	0.59
+3xrn9i8zhNZsTtcoWgQEAd	Kelly Clarkson	Since U Been Gone	GBCTA0400231	70	dance pop,neo mellow,pop,post-teen pop,talent show,urban contemporary	0.00165	0.662	0.0303	0.0334	131.0	0.404	0.741
+4b2tcjrG1qUkSdsqEFP2dB	Axwell /\ Ingrosso,Axwell,Sebastian Ingrosso	Sun Is Shining	USUG11500070	68	dance pop,edm,electro house,pop,pop dance,tropical house	0.0866	0.467	0.0	0.0517	131.993	0.383	0.757
+4vIKzWqtn44umal5jXq4wE	Ed Sheeran,Meek Mill,A Boogie Wit da Hoodie	1000 Nights (feat. Meek Mill & A Boogie Wit da Hoodie)	GBAHS1900725	53	pop,uk pop	0.467	0.778	0.0	0.269	98.001	0.513	0.589
+0OUQhRKgGSb0PPrLUuEQka	Fall Out Boy	Church	USUM71704117	53	emo,modern rock,rock	0.0014	0.37	0.0	0.05	167.995	0.401	0.901
+5trCWbYtza0QUxdmF9HAPX	Panic! At The Disco	One of the Drunks	USAT21801177	54	modern rock	0.0426	0.424	0.0	0.193	174.008	0.762	0.892
+1louJpMmzEicAn7lzDalPW	Cheat Codes,Demi Lovato	No Promises (feat. Demi Lovato)	QMCE31700953	66	dance pop,edm,electro house,electropop,pop,pop dance,tropical house	0.0575	0.741	0.0	0.134	112.956	0.595	0.667
+3U1TuSqHIubBA10cVP7Sk6	Kat Dahlia	I Think I'm In Love	USSM11408712	69	hip pop,miami hip hop	0.137	0.632	0.0	0.0505	121.868	0.574	0.638
+4BH9zDv1Ys6kw0j3lU1hTx	Shawn Mendes	Particular Taste	USUM71804958	54	canadian pop,pop,viral pop	0.0365	0.968	0.000103	0.121	111.968	0.599	0.352
+3nef5W8jTkXrOKgCu4kmq7	Ariana Grande	Dangerous Woman	USUM71601826	71	dance pop,pop	0.0529	0.662	0.0	0.0401	133.969	0.29	0.602
+4rNOFJdwQq0ulVDKOF447L	Fall Out Boy,Big Sean	The Mighty Fall	USUM71302619	49	emo,modern rock,rock	0.0612	0.511	0.0	0.184	151.943	0.539	0.95
+55n9yjI6qqXh5F2mYvUc2y	ZAYN,Taylor Swift	I Don’t Wanna Live Forever (Fifty Shades Darker)	USQ4E1602586	77	dance pop,electropop,pop,post-teen pop,uk pop	0.0586	0.731	1.96e-05	0.0533	117.97	0.106	0.445
+1rfofaqEpACxVEHIZBJe6W	Camila Cabello,Young Thug	Havana (feat. Young Thug)	USSM11706905	78	dance pop,pop,post-teen pop	0.184	0.765	3.56e-05	0.03	104.988	0.394	0.523
+2bCQHF9gdG5BNDVuEIEnNk	Michael Jackson	Smooth Criminal - 2012 Remaster	USSM11204989	75	pop,r&b,soul	0.247	0.853	0.468	0.0751	118.193	0.595	0.981
+44ONERBHALxftQNWq6dmyd	Ariana Grande,Nicki Minaj	Side To Side	USUM71602107	73	dance pop,pop	0.0513	0.65	0.0	0.229	159.174	0.612	0.736
+1oew3nFNY3vMacJAsvry0S	Rixton	Me And My Broken Heart	USUM71401800	76	pop,pop rock,post-teen pop	0.00489	0.545	0.0	0.0345	174.084	0.551	0.783
+543bCW2ruMPmxUBWirQ3MR	Ed Sheeran,Chance the Rapper,PnB Rock	Cross Me (feat. Chance the Rapper & PnB Rock)	GBAHS1900715	62	pop,uk pop	0.214	0.746	0.0	0.12	95.005	0.607	0.787
+4b30rxe4kxjNl8YpE17Sew	The Script	Man on a Wire	GBARL1400980	50	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.00188	0.393	0.0	0.0363	180.092	0.367	0.836
+1CnPYaKxTVb4LWOtiGOm0m	Jon Bellion	All Time Low	USUM71603666	69	pop rap	0.0584	0.617	0.0	0.0828	90.246	0.505	0.567
+4B3RmT3cGvh8By3WY9pbIx	Demi Lovato	Skyscraper	USHR11132837	65	dance pop,pop,post-teen pop	0.148	0.573	0.0	0.0276	103.82	0.188	0.581
+5Gu0PDLN4YJeW75PpBSg9p	Hailee Steinfeld,Alesso,Florida Georgia Line,WATT	Let Me Go (with Alesso, Florida Georgia Line & watt)	USUM71709685	75	dance pop,pop,post-teen pop	0.0337	0.664	0.0	0.0474	103.07	0.742	0.708
+6y2Kaz9QI01XBKJ8mTb7Pf	Rag'n'Bone Man	Skin	GBARL1601147	65	neo soul	0.265	0.564	0.0	0.31	170.661	0.351	0.745
+2GyA33q5rti5IxkMQemRDH	Shawn Mendes,Camila Cabello	I Know What You Did Last Summer	USUM71516597	71	canadian pop,pop,viral pop	0.102	0.687	0.0	0.0876	113.939	0.743	0.761
+3888prAY7qaqRx1vjQZSdI	Stray Kids	MIROH	US5TA1900035	59	k-pop,k-pop boy group	0.00946	0.564	0.0	0.132	126.077	0.449	0.976
+6TYuTMfBTU4hpXrhLsjIiV	J Balvin,Ed Sheeran	Forever My Love	QZM5U2200344	70	latin,reggaeton,reggaeton colombiano,trap latino	0.478	0.622	0.0	0.0293	79.924	0.174	0.257
+18I7HIzT4GwEzp9jJ8KoFe	Alec Benjamin	Dopamine Addict	USAT22200706	61	alt z,dream smp,electropop,pop	0.598	0.721	0.000204	0.19	76.928	0.483	0.772
+2DB4DdfCFMw1iaR6JaR03a	Camila Cabello,Ed Sheeran	Bam Bam (feat. Ed Sheeran)	USSM12200047	82	dance pop,pop,post-teen pop	0.182	0.756	0.0	0.0401	94.996	0.956	0.697
+0bBd6K5X4W7t9GyXcaVOA7	J Balvin,Ed Sheeran	Sigue	QZM5U2200343	81	latin,reggaeton,reggaeton colombiano,trap latino	0.0515	0.889	2.75e-05	0.0668	87.99	0.588	0.641
+6sH1FvX2nqd7ZFMeKyi0cs	Ana Moura	Andorinhas	DETO32100194	46	fado,portuguese pop	0.553	0.599	3.63e-05	0.0279	95.06	0.316	0.523
+222B3aljXx6fFwKmFjuBED	Little Mix,Nicki Minaj	Woman Like Me (feat. Nicki Minaj)	GBHMU1800106	68	dance pop,girl group,pop,post-teen pop,talent show,uk pop	0.177	0.754	0.0	0.0608	75.002	0.8	0.854
+5fwSHlTEWpluwOM0Sxnh5k	Farruko	Pepas	USSD12100307	87	latin,latin hip hop,reggaeton,trap latino	0.00776	0.762	6.98e-05	0.0343	130.001	0.442	0.766
+6N1K5OVVCopBjGViHs2IvP	Ed Sheeran,Taylor Swift	The Joker And The Queen (feat. Taylor Swift)	GBAHS2200019	79	pop,uk pop	0.924	0.528	2.1e-06	0.0329	133.83	0.307	0.309
+2UbVnbE5FH6008mAm6Mmgw	OneRepublic	Run	USUM72004315	75	dance pop,piano rock,pop,pop rock	0.326	0.682	0.0	0.0381	117.003	0.673	0.72
+37LNNQNbL1YLyutBG6aWRx	OneRepublic	Rescue Me	USUM71907507	63	dance pop,piano rock,pop,pop rock	0.157	0.761	0.0	0.0424	121.038	0.646	0.606
+0mCzRKDnu4ptPxnG28Gowz	Against The Current	Wildfire - LEC Version	USAT22108474	52	neon pop punk,pixie,pop punk	0.000364	0.596	4.73e-05	0.0331	121.033	0.31	0.879
+1r9xUipOqoNwggBpENDsvJ	Imagine Dragons,JID,Arcane,League of Legends	Enemy (with JID) - from the series Arcane League of Legends	USUM72119916	89	modern rock,rock	0.237	0.728	0.0	0.266	77.011	0.555	0.783
+2sFWzfV3kqAwXEWM9BjzwH	Stray Kids	MIROH	US5TA1900035	64	k-pop,k-pop boy group	0.0091	0.564	0.0	0.104	126.059	0.505	0.979
+4yJUQqcnYkDafFzguSbZAl	Stray Kids	My Pace	US5TA1800057	57	k-pop,k-pop boy group	0.0413	0.678	0.0	0.243	155.128	0.777	0.82
+2XwBhQ6GqXa27dh8ELQOPE	Stray Kids	Grow Up	US5TA1800035	55	k-pop,k-pop boy group	0.114	0.552	0.0	0.249	174.089	0.626	0.944
+6War9Nidwyd881TDnaKWV8	Stray Kids	Mirror	US5TA1800032	50	k-pop,k-pop boy group	0.0134	0.589	0.0	0.276	185.936	0.518	0.85
+430IfeGHWJxnZOkhBYACt9	Stray Kids	District 9	US5TA1800031	57	k-pop,k-pop boy group	0.017	0.646	5.87e-06	0.18	89.999	0.513	0.954
+289yMKn2spa548pE3u7oPc	Stray Kids	YAYAYA	US5TA1800003	52	k-pop,k-pop boy group	0.108	0.674	0.0	0.223	132.036	0.7	0.937

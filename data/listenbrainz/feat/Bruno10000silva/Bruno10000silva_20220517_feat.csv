@@ -1,0 +1,376 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7zAZsi0omv840Z0W92mg65	Domi	Pensamento Leve	PTUM71800002	35	hip hop tuga	0.0368	0.683	1.26e-06	0.288	92.159	0.58	0.801
+5U41K61DdhoVe7PJP9emUU	mishlawi,Gson	Hotel	PT1GD2000001	40	hip hop tuga,trap tuga	0.186	0.507	1.56e-06	0.175	129.948	0.693	0.623
+6cmn21bodxviaGAHa5ZXbF	mishlawi	Uber Driver	PT9GC1900002	37	hip hop tuga,trap tuga	0.262	0.698	0.000798	0.0444	149.038	0.47	0.581
+7o5wNhYaDLRa8T81H9dn8G	Sippinpurpp	Never Walk Alone	PT7HL1900005	33	hip hop tuga,trap tuga	0.151	0.656	0.000164	0.0881	155.016	0.429	0.411
+4kGx4Jl9U74iCUy9HfSnRl	Bispo	Lembra-te	ES71G1751481	41	hip hop tuga	0.12	0.623	7.2e-05	0.145	110.092	0.183	0.443
+38skB1K2bX6lQEiQQyMboa	Sippinpurpp	Extravagante	PT7HL1800009	34	hip hop tuga,trap tuga	0.331	0.594	0.00012	0.366	87.8	0.55	0.296
+6YvBWNtX8L8VBxahAqo954	Gson	Farda	ES71G2019770	43	hip hop tuga	0.599	0.822	0.0	0.309	111.992	0.742	0.684
+1AgqELuodwiIUbJhXM74Jx	Wet Bed Gang	Irresponsável	ES71G1927904	45	hip hop tuga,trap tuga	0.245	0.861	0.000121	0.45	128.094	0.278	0.516
+6efaweDs0SibelHxcHqtYU	Valdir	Bébi	GBMJG1905785	31	trap tuga	0.369	0.896	0.131	0.07	138.062	0.452	0.53
+3x3vUHznzPNEbXTJBUkhZb	T-Rex	Tinoni	PTUM72000788	48	trap tuga	0.17	0.952	0.0	0.337	121.025	0.689	0.583
+2UepGMU5MHLyvDttnuBOMC	X-Tense,Los Cavakitos	Yolanda	PTUM71900235	37	hip hop tuga	0.535	0.58	0.000831	0.0893	200.758	0.562	0.709
+5ZxHzpxIEr0rxGJN8Jsdjy	Plutónio	1 de Abril	PT9EV1900002	46	hip hop tuga	0.193	0.774	0.0	0.209	146.043	0.3	0.648
+3PS7DV9nHtL6FhgSPh0d8z	Julinho Ksd	Hoji en Sá Ta Vivi	QZES51902094	36	hip hop tuga,rap criolo	0.477	0.882	0.0	0.3	119.909	0.322	0.519
+6g3BZ70tvq3qOPicxtsnYa	Papillon	Camadas	PT2HA1800017	41	hip hop tuga	0.233	0.635	6.05e-05	0.355	184.09	0.363	0.453
+6CcPsOriKrXYQifRgg617q	Sippinpurpp	Sauce	PT7HL1800002	39	hip hop tuga,trap tuga	0.639	0.649	3.62e-05	0.0361	150.022	0.665	0.544
+0JcH6gYb9AXehfiPeFE2wP	Julinho Ksd	Mama Ta Xinti	PT1II2000001	37	hip hop tuga,rap criolo	0.55	0.772	0.000311	0.357	96.128	0.544	0.626
+31sUabnuTnFAM7rjMzKtfN	ProfJam,benji price	TRIBUNAL	PT8HB2000045	45	hip hop tuga,trap tuga	0.635	0.636	0.0	0.322	188.359	0.4	0.666
+1DHQcaZMENKPt8KBQgIr25	Holly Hood	Miúda	PT4GT1700004	42	hip hop tuga,trap tuga	0.234	0.724	0.267	0.0438	140.05	0.734	0.666
+7FRkfEvrRv4TserYuOUPfL	colombianacallmegringo	North Face 2	QZHN61904006	37	drill tuga,rap criolo	0.168	0.855	0.037	0.174	144.023	0.232	0.391
+4luNL4KVpSkJb2DnpaBHPs	Joint One,Lójico	Bunda	PTUM72000845	37	hip hop tuga	0.283	0.653	0.0	0.0812	90.5	0.657	0.725
+5DmHgfqBr0ksk3QAjlttIm	Yuri NR5	Eu Tou Fixe	QZDA71946982	37	hip hop tuga,trap tuga	0.0217	0.748	0.00112	0.134	156.046	0.274	0.432
+68VCmJEV8PFoOPGE1ALxtM	ProfJam,Fínix MG	À Vontade (feat. Fínix MG)	PT8HB1800009	42	hip hop tuga,trap tuga	0.381	0.691	0.0136	0.0608	75.603	0.269	0.437
+49MYvTRqv7qelZFZhVcEGa	Mike El Nite,Fínix MG,Sippinpurpp	Dr. Bayard	PT2HE1800001	27	trap tuga	0.0313	0.8	0.0221	0.204	110.038	0.356	0.525
+1ai9FDnFQDv18WAtFhMTIz	Wet Bed Gang	Bairro	ES71G1912856	45	hip hop tuga,trap tuga	0.439	0.799	0.0	0.206	94.043	0.503	0.538
+2t98sYRAQZAXqdwi3Sf6pQ	Julinho Ksd	Sentimento Safari	QZES91939312	42	hip hop tuga,rap criolo	0.19	0.789	0.0	0.394	103.143	0.395	0.868
+0YtFqZhheQZIrVc0qbqL8D	Da Weasel	Re-tratamento	PTEM10400001	44	hip hop tuga,portuguese rock	0.0743	0.841	0.000506	0.0685	174.963	0.451	0.475
+4gbEOMpyYC2jr4GiQ9Vys1	Yung SpaceGhost	Malibu	QZDA72041699	44	trap tuga	0.388	0.786	0.000194	0.0525	145.055	0.475	0.564
+4sw7RJtpQqwRWkEfPqLVhj	Chico da Tina	Freicken	PTRO11900241	38	rap portuense	0.529	0.658	6.54e-05	0.0515	94.964	0.674	0.628
+2TPBDdqlAb6BitW6KC1KjW	Plutónio	Lucy Lucy	PT9EV1900004	40	hip hop tuga	0.128	0.707	0.00109	0.286	150.088	0.226	0.661
+4SIaLMSv2V9o910QnZwkn9	TAY,Dylan	Pensa Bem	ES71G1913438	40	portuguese pop,trap tuga	0.259	0.471	0.0	0.141	92.98	0.552	0.608
+5uq4pIQjsEV4pWXdSwgPad	Don G,Masta,Trini	Tipo do Ghetto	ES71G1807656	39	hip hop tuga,rap angolano	0.476	0.514	0.0	0.0898	112.817	0.45	0.768
+0lCHRVlRZCEyLj3Gkc1nv1	El Alfa,Chencho Corleone,Farruko,Justin Quiles,Myke Towers	Singapur (Remix)	usx9p2037900	59	dembow,latin,rap dominicano,reggaeton,trap latino	0.452	0.864	0.000428	0.158	112.987	0.653	0.766
+6fmQjRuo7XvRFCK2qex5hQ	Jerry Di	Mi Cuarto	USUM72002612	71	cubaton,dominican pop,pop venezolano,reggaeton,reggaeton flow,trap latino	0.819	0.854	0.0	0.214	97.054	0.63	0.525
+5BSclXJTa9B0iURhUjZo50	Shakira,Alejandro Sanz	La Tortura (feat. Alejandro Sanz)	USSM10501700	71	colombian pop,dance pop,latin,latin pop,pop	0.0297	0.74	0.000308	0.0427	100.011	0.812	0.783
+181lPjPcfn6MRGO8NyCs87	Morad	M.D.L.R	ES71G1916949	26	drill espanol,urbano espanol	0.147	0.701	0.0693	0.0399	99.98	0.341	0.542
+35UUpTmrcFXNIVIN26ujXl	Sech,Daddy Yankee,J Balvin,ROSALÍA,Farruko	Relación - Remix	QM9WM2000051	76	latin,panamanian pop,reggaeton,trap latino	0.0337	0.793	1.51e-06	0.0959	171.943	0.835	0.771
+2IViAyalheAvrT9ErMCABT	KAROL G	EL BARCO	USUM72023902	59	latin,reggaeton,reggaeton colombiano,trap latino	0.574	0.852	0.000103	0.0444	143.952	0.881	0.852
+26QKsGW4hMuwiEE1ftUMHe	Daddy Yankee	Lo Que Pasó, Pasó	QM6N21759345	74	latin,latin hip hop,reggaeton,trap latino	0.104	0.819	0.0	0.0412	97.014	0.84	0.741
+71R8HJxQk5qMiRstrlXN9t	Rauw Alejandro,Mr. Naisgai	2/Catorce	USSD12100059	76	puerto rican pop,trap latino	0.675	0.54	1.08e-05	0.224	83.876	0.432	0.455
+0eeKDrQxjqNl5bX5VCHDcn	Justin Quiles,Daddy Yankee,El Alfa	PAM	USWL12000133	66	latin,reggaeton,trap latino	0.289	0.889	0.000603	0.0757	112.953	0.776	0.863
+3nowY0ZuWMuAmmAu1plEBP	Yandel,J Balvin	No Te Vayas	QZHA22000005	54	latin,latin hip hop,reggaeton,reggaeton flow,trap latino	0.211	0.717	3.42e-06	0.0525	169.961	0.619	0.799
+4uoR6qeWeuL4Qeu2qJzkuG	Maluma	Hawái	USSD12000190	74	latin,reggaeton,reggaeton colombiano,trap latino	0.189	0.787	2.29e-05	0.389	180.066	0.545	0.728
+1ri9ZUkBJVFUdgwzCnfcYs	Becky G,KAROL G	MAMIII	USRC12200425	91	dance pop,latin,latin viral pop,pop,rap latina,reggaeton	0.0934	0.843	0.0	0.0803	93.991	0.899	0.7
+0XinBYhf1X3kdvKQHOX971	C. Tangana,Niño de Elche,La Húngara	Tú Me Dejaste De Querer	ES5022000718	63	urbano espanol	0.31	0.812	0.00412	0.15	168.025	0.488	0.747
+5MdGTxC4vYHQPDYhVctq8Z	EMIL,Reykon,BO	Mente Abierta	QM6N22114283	34	pop peruano	0.27	0.766	0.0334	0.103	89.049	0.768	0.668
+5y7DaS3jAc9eZzcSOoUIwU	Ozuna,J Balvin,Chencho Corleone	Una Locura	USXDR2000574	75	latin,puerto rican pop,reggaeton,trap latino	0.139	0.714	0.00035	0.0427	168.022	0.906	0.761
+3ymdUMzgylwrSfpxdlCUWV	Daddy Yankee	EL PONY	USUG12101710	56	latin,latin hip hop,reggaeton,trap latino	0.075	0.825	3.89e-05	0.0796	154.001	0.929	0.771
+2TmT3wSwRf0CYJFGGaIXNB	Arcangel,Jay Wheeler,Miky Woodz	Si Te Veo	QM6N22140095	64	latin,latin hip hop,reggaeton,trap latino	0.614	0.812	1.04e-05	0.352	168.024	0.876	0.691
+48NXpYRuvv9izul4oXhqS9	Don Omar	Salió El Sol	USUM70603099	73	latin,latin hip hop,puerto rican pop,reggaeton,trap latino	0.106	0.887	0.00948	0.0873	110.002	0.965	0.701
+6zEgnpM0qYmHLDnh8WPejL	J Balvin	Amarillo	USUM72001730	67	latin,reggaeton,reggaeton colombiano,trap latino	0.013	0.641	0.00534	0.301	122.728	0.961	0.857
+4vjVdfdBHnUiaFCcUa3gfn	Arcangel,Justin Quiles,Eladio Carrion,De La Ghetto	Tussi	QMBZ92015876	60	latin,latin hip hop,reggaeton,trap latino	0.256	0.833	0.0	0.0607	94.018	0.698	0.886
+3YNolHalg56UrvPabqw6JP	Juhn,Jay Wheeler	Fragancia (with Jay Wheeler)	USLD91732401	62	latin,reggaeton,reggaeton flow,trap latino	0.444	0.83	7.24e-05	0.1	82.001	0.739	0.77
+0gCPvo1GkbtPhMqg5Gbx1K	Daddy Yankee,Bad Bunny	Vuelve	US2BU1700915	73	latin,latin hip hop,reggaeton,trap latino	0.196	0.734	0.0	0.0321	130.024	0.199	0.531
+2EKhwL63hyaGrduXq36Dv6	Lirico En La Casa,Atomic Otro Way	Muevelo	QMDA61809732	60	dembow,dominican pop,rap dominicano,trap latino	0.151	0.646	3.18e-06	0.337	118.001	0.93	0.905
+1K9yhCdVlVKs4CIFqQ1N1H	Gamalier,Randy,Yomo	Amor Eterno - Remix	qZ5WX1800014	28	rap salvadoreno	0.0118	0.773	0.0	0.258	83.904	0.826	0.672
+7r9ZhitdQBONTFOiJW5mr8	Rauw Alejandro,Anuel AA	Reloj	USSD12000471	70	puerto rican pop,trap latino	0.176	0.823	3.98e-06	0.209	175.946	0.615	0.537
+43qcs9NpJhDxtG91zxFkj7	Wisin,Jhay Cortez,Anuel AA,Los Legendarios,Myke Towers	Fiel - Remix	QM7282185404	73	latin,latin hip hop,reggaeton,trap latino	0.398	0.839	2.02e-06	0.0473	97.99	0.573	0.711
+5Xe78U9cUwnWOuWbgYvAKZ	Eix,Rauw Alejandro,Noriel,KEVVO,Brytiago,Jay Wheeler	Infiel - Remix	QZHN22000045	61	dominican pop,reggaeton,reggaeton flow,trap latino	0.346	0.793	0.0	0.28	87.922	0.394	0.66
+7cpFmkNmh3MM0WqXPSbs9f	Elvis Crespo	Suavemente	USSD19700576	60	dominican pop,latin,latin pop,tropical	0.254	0.811	0.00146	0.0628	124.12	0.915	0.88
+5iw28wvyHgj4ppOu5AdcEU	Jowell & Randy,J Balvin	Anaranjado	QM6P42082275	57	latin,latin hip hop,reggaeton,reggaeton flow,trap latino	0.0466	0.763	1.6e-05	0.144	175.937	0.608	0.58
+4qbi9JDziBh3cxi9SFUbeu	Hector & Tito,Luny Tunes,Noriega	Baila Morena (with Luny Tunes, Noriega) - Remix	ITF250500079	63	latin,latin hip hop,perreo,reggaeton,reggaeton flow,trap latino	0.207	0.786	0.0	0.108	94.002	0.775	0.819
+4aBWhhIFsQ8HJ7pgfwWgaI	Los Legendarios,Wisin,Chencho Corleone	Mari Mari	QM4TW2136316	49	reggaeton,reggaeton flow,trap latino	0.0749	0.777	6.04e-06	0.0675	165.917	0.855	0.835
+13Tbv4nflNxg9kYBIbJnd9	Rauw Alejandro	Dile a El	USSD12000491	68	puerto rican pop,trap latino	0.375	0.784	0.00109	0.0767	90.032	0.261	0.587
+1mohfLaTJtB2RplHLQVM70	Nio Garcia,Anuel AA,Myke Towers,Brray,Juanka	La Jeepeta - Remix	QM6MZ2057011	70	latin,latin hip hop,reggaeton,trap latino	0.3	0.815	4.83e-06	0.207	176.007	0.786	0.715
+5xoVoBT08vAKsNDy5uusBK	Morad	Aguantando	ES71G1941130	50	drill espanol,urbano espanol	0.364	0.577	0.0	0.117	131.924	0.683	0.614
+0OoqRZXnSrgIUAha3iLKG1	Lunay,Myke Towers	La Cama	USA2P1955937	54	latin,latin hip hop,latin pop,reggaeton,reggaeton flow,trap latino	0.2	0.7	0.000471	0.0568	173.973	0.816	0.904
+441JLV4i12UunizAQsLIMA	Beny Jr,El Guincho	Kardash	QMBZ92166814	50	drill espanol,trap latino	0.479	0.806	0.0	0.0804	95.001	0.799	0.7
+5u7twkeask1VIyDeNTElSU	Sech	Sal y Perrea	QM9WM2100010	73	latin,panamanian pop,reggaeton,trap latino	0.192	0.786	0.000189	0.127	90.025	0.813	0.899
+2FSGUA0gFgGeQdprjtGM2M	KAROL G,Mariah Angeliq	EL MAKINON	USUM72023904	79	latin,reggaeton,reggaeton colombiano,trap latino	0.256	0.635	0.0	0.125	88.863	0.443	0.706
+0rIZ49wxDf8H2LXOKmAMW5	Maluma	Qué Chimba	USSD12000047	59	latin,reggaeton,reggaeton colombiano,trap latino	0.0112	0.726	0.00193	0.0805	127.999	0.595	0.949
+4A3RkWXRVYws4WmA0pwD54	Bispo	Não Tou Sozinho	PTBM12000011	38	hip hop tuga	0.72	0.729	0.0	0.105	87.985	0.695	0.503
+46ttON2E97GNgr1Awh6ELJ	Dillaz,Spliff	Se Olhares para o Caminho	PT5HT1900009	36	hip hop tuga	0.344	0.814	0.0	0.0895	95.11	0.161	0.592
+1PioBX3KlN13IXB014CFF6	Sam The Kid	Sendo Assim	PT0HJ1800018	42	hip hop tuga,rap tuga underground	0.0571	0.583	0.0	0.29	95.764	0.0383	0.748
+7bbRdLj6LylMipjUmhn2CM	Bispo,Gson	Como Dá (with Gson)	PT9GN1700002	30	hip hop tuga	0.716	0.533	0.0	0.876	86.315	0.509	0.715
+5YGtx8tAS5LQ2oeXot29Tz	Dealema	A Primeira Vez	QMFME1913321	14	hip hop tuga,rap portuense	0.0636	0.569	0.0	0.0695	93.37	0.6	0.784
+3i7DYnwcLwCUHyaJlEh3od	Dillaz	Galileu	PT5HT2000001	49	hip hop tuga	0.577	0.891	4.77e-05	0.492	127.143	0.627	0.376
+4a0H1kKez7UVLveRL5cEgy	Phoenix Rdc	Vencedor	QM4TW1943831	45	hip hop tuga,trap tuga	0.849	0.496	0.0	0.375	87.277	0.491	0.681
+0elz4WC9ZtAOzqP4fgt8T5	Kappa Jotta,MUN	ROSAS	PT6GV2200009	36	hip hop tuga	0.859	0.8	0.0	0.0923	87.915	0.751	0.341
+0UW3wnVAl9vzLiTHIwN075	Dillaz	Maçã	PT5HT2200001	50	hip hop tuga	0.649	0.795	0.00466	0.0405	114.996	0.179	0.553
+05bfbizlM5AX6Mf1RRyMho	Nio Garcia,J Balvin,Bad Bunny	AM Remix	QMBZ92185047	80	latin,latin hip hop,reggaeton,trap latino	0.114	0.743	0.0	0.159	172.031	0.785	0.655
+1WedZeiezCmCEOzLwhx0hV	J Balvin,KAROL G,Nicky Jam,Crissin,Totoy El Frio,Natan & Shander	Poblado - Remix	QZ5BF1600040	72	latin,reggaeton,reggaeton colombiano,trap latino	0.102	0.813	1.37e-06	0.0846	93.005	0.646	0.809
+59RYqrDOWV3RnRvWzKIhqD	Cauty,Big Soto	La La La	GBWUL2049233	51	latin,perreo,reggaeton,reggaeton flow,trap latino	0.484	0.684	0.0285	0.16	175.883	0.932	0.791
+4C6BlqqMwjFzOXzqpTeoWR	Justin Quiles	Ponte Pa' Mi	USWL12000479	63	latin,reggaeton,trap latino	0.0581	0.878	0.0	0.0948	92.028	0.615	0.713
+30bqVoKjX479ab90a8Pafp	Lil Peep	Star Shopping	UKELY1800203	81	emo rap,lgbtq+ hip hop	0.0967	0.585	0.0184	0.0616	93.099	0.323	0.471
+6iaSML1PIYq936g62BDtBq	Juice WRLD	Robbery	USUG11900302	79	chicago rap,melodic rap	0.328	0.623	0.0	0.0504	79.899	0.566	0.692
+1xaTREM89RbIxkcjlpf4Uw	The Smiths	Heaven Knows I'm Miserable Now - 2011 Remaster	GBCRL1100070	69	madchester,new wave,permanent wave,rock,uk post-punk	0.028	0.609	0.0	0.0276	114.045	0.774	0.759
+6I3mqTwhRpn34SLVafSH7G	Justin Bieber	Ghost	USUM72102635	88	canadian pop,pop	0.185	0.601	2.91e-05	0.0478	153.96	0.441	0.741
+2QjOHCTQ1Jl3zawyYOpxh6	The Neighbourhood	Sweater Weather	USSM11300080	87	modern alternative rock,modern rock,pop,shimmer pop	0.0495	0.612	0.0177	0.0336	124.053	0.398	0.807
+4IoYz8XqqdowINzfRrFnhi	The Fray	You Found Me	USSM10803009	72	neo mellow,piano rock,pop,pop rock	0.0187	0.338	0.0	0.0413	151.994	0.4	0.803
+561jH07mF1jHuk7KlaeF0s	Eminem	Mockingbird	USIR10400813	76	detroit hip hop,hip hop,rap	0.209	0.637	0.0	0.266	84.039	0.254	0.678
+4uP3pUP18ennmz0tb3GphR	Bad Bunny	Solo de Mi	QM7281869444	71	latin,reggaeton,trap latino	0.287	0.743	8.1e-05	0.125	179.972	0.15	0.73
+3GVkPk8mqxz0itaAriG1L7	XXXTENTACION	Everybody Dies In Their Nightmares	USUYG1156894	81	emo rap,miami hip hop	0.847	0.734	2.14e-05	0.133	129.953	0.689	0.57
+79EkGysjP2dL5GdpeQjRxT	Coyote Theory	This Side of Paradise	QMW9F1100003	80		0.432	0.306	7.5e-06	0.0276	158.283	0.321	0.664
+5hnyJvgoWiQUYZttV4wXy6	Snow Patrol	Chasing Cars	GBUM70600345	67	irish rock,modern rock,neo mellow,permanent wave,pop rock	0.199	0.56	6.47e-05	0.0274	104.011	0.144	0.595
+1ZgMsA55GIY7ICkQh5MILA	Beach House	Space Song	USSUB1512203	73	baltimore indie,dream pop,dreamo,modern dream pop	0.233	0.507	0.139	0.0294	147.065	0.6	0.79
+4dMN3rD80ygXkqyV47DTSG	Trevor Daniel,blackbear	Falling (feat. blackbear) - blackbear Remix	USUYG1231907	60	alternative r&b,melodic rap,pop,pop rap	0.132	0.803	0.0	0.0361	127.018	0.433	0.481
+5fVZC9GiM4e8vu99W0Xf6J	The Fray	How to Save a Life	USSM10601178	78	neo mellow,piano rock,pop,pop rock	0.269	0.64	0.0	0.0379	122.035	0.361	0.743
+4v7DCN09hgXkKazefkznDQ	Akon	Lonely	USUR10400235	73	dance pop	0.339	0.634	0.0	0.0333	90.087	0.623	0.526
+1KIJclzEbNhSVw8tiHPWwE	Vacations	Young	SEYOK1669274	81	newcastle nsw indie	0.00392	0.498	0.00717	0.0263	79.935	0.594	0.81
+7x4b0UccXSKBWxWmjcrG2T	Kurt Cobain	And I Love Her	USUM71514609	63	acoustic rock,grunge	0.983	0.616	0.833	0.0331	96.638	0.435	0.282
+2rPHUAeUPbNgTmK18FPTiZ	The Kid LAROI,Juice WRLD	GO (feat. Juice WRLD)	USSM12003703	73	australian hip hop	0.157	0.487	0.0	0.0944	73.779	0.522	0.74
+0mUyMawtxj1CJ76kn9gIZK	Daniel Powter	Bad Day	USWB10401971	73	canadian pop,neo mellow,pop rock	0.448	0.599	0.00336	0.0309	140.046	0.52	0.785
+6LUGvXEAK8WxIBYK43uoTb	The Smiths	Back to the Old House - 2011 Remaster	GBCRL1100089	66	madchester,new wave,permanent wave,rock,uk post-punk	0.0102	0.626	0.000188	0.0253	104.13	0.404	0.488
+26QApq0cuO9brJigr0C0W4	Bad Bunny	HACIENDO QUE ME AMAS	QMFME2066843	77	latin,reggaeton,trap latino	0.869	0.584	4.47e-05	0.0838	169.934	0.412	0.411
+61BqwgSRTyWH9M4uPjsC3B	Akon	Sorry, Blame It On Me	USUM70743018	63	dance pop	0.102	0.716	0.0	0.239	176.012	0.569	0.698
+75JFxkI2RXiU7L9VXzMkle	Coldplay	The Scientist	GBAYE0200772	81	permanent wave,pop	0.731	0.557	1.46e-05	0.0243	146.277	0.213	0.442
+3UhXPxLDFKCj1ZO6mmtV0a	OneRepublic	Apologize	USUM70757102	69	dance pop,piano rock,pop,pop rock	0.363	0.593	2.22e-05	0.0339	118.008	0.502	0.74
+4CDIEKHMb2MBgvgHBkhiJD	Eminem	When I'm Gone	USUM70506288	66	detroit hip hop,hip hop,rap	0.0553	0.618	0.0	0.352	75.272	0.75	0.746
+1CfuBY3BDdKpooQ9L5zgUc	Juice WRLD	Cigarettes	USUG12200313	77	chicago rap,melodic rap	0.0306	0.587	0.0	0.0435	160.075	0.451	0.614
+5hUYsaOyMY32yjRXeuQwGj	Lil Wayne,Bruno Mars	Mirror	USCM51100327	74	hip hop,new orleans rap,pop rap,rap,trap	0.858	0.328	0.0	0.0866	74.267	0.401	0.622
+3UmaczJpikHgJFyBTAJVoz	Eminem,Dido	Stan	USIR10001280	82	detroit hip hop,hip hop,rap	0.0371	0.78	2.34e-06	0.238	80.063	0.507	0.768
+1uKzAldJYlwje9HstlwTie	Coldplay	See You Soon	GBAYE9901818	60	permanent wave,pop	0.657	0.369	1.54e-05	0.0351	92.226	0.211	0.295
+3wrBFPDRyIGyGXxGSc970M	Brytiago,Jay Wheeler	Desnudarte	QMFME2058083	69	latin,latin hip hop,reggaeton,reggaeton flow,trap latino	0.377	0.863	3.7e-06	0.216	90.99	0.599	0.527
+7floNISpH8VF4z4459Qo18	XXXTENTACION	Look At Me!	USUYG1131080	79	emo rap,miami hip hop	0.259	0.763	0.0	0.282	139.059	0.349	0.726
+3M2bD9SMYnJIPdrTKUnBd3	The Smiths	I Know It's Over - 2011 Remaster	GBCRL1100048	61	madchester,new wave,permanent wave,rock,uk post-punk	0.0847	0.407	0.0	0.0318	113.311	0.404	0.424
+2n7ohqg1s68ToAHh4u9mcW	Bad Bunny	Vete	QMFME1914637	74	latin,reggaeton,trap latino	0.0363	0.886	8.78e-06	0.188	91.976	0.526	0.672
+3pm4XtcsRIFFtH2UErk62R	Yandel,Bad Bunny	CANCIÓN CON YANDEL	QM6N22010808	75	latin,latin hip hop,reggaeton,reggaeton flow,trap latino	0.447	0.75	0.0	0.402	79.968	0.495	0.741
+2JzZzZUQj3Qff7wapcbKjc	Wiz Khalifa,Charlie Puth	See You Again (feat. Charlie Puth)	USAT21703595	79	dance pop,hip hop,pittsburgh rap,pop rap,rap,southern hip hop,trap	0.369	0.689	1.03e-06	0.0815	80.025	0.283	0.481
+3T06rGO2dVEntMvym0vpQu	Juice WRLD	Empty	USUG11900318	74	chicago rap,melodic rap	0.0758	0.746	0.0	0.0526	77.535	0.463	0.561
+58HvfVOeJY7lUuCqF0m3ly	Elley Duhé	MIDDLE OF THE NIGHT	USRC11903813	91	alt z,pop	0.0228	0.41	0.0	0.0467	185.727	0.0899	0.611
+3ZffCQKLFLUvYM59XKLbVm	Green Day	Wake Me up When September Ends	USRE10400992	74	permanent wave,punk	0.023	0.546	0.0	0.0314	104.98	0.146	0.814
+1iSqfoUFnQwV0QW1EfUit8	YNW Melly	Suicidal	QMCE31902585	73	melodic rap,trap	0.334	0.735	0.0	0.0688	140.004	0.235	0.369
+6BjtaWm1T4kDWAqHrf8vEi	Juice WRLD	Legends	USUG11801263	62	chicago rap,melodic rap	0.114	0.586	0.0	0.072	142.107	0.391	0.82
+2gMXnyrvIjhVBUZwvLZDMP	Lewis Capaldi	Before You Go	DEUM71905868	80	pop,uk pop	0.604	0.459	0.0	0.0573	111.881	0.183	0.575
+6pxWv6GV35VGmcPf5dh6CH	Creedence Clearwater Revival	Proud Mary	USC4R0817594	68	album rock,classic rock,country rock,rock,southern rock,swamp rock	0.13	0.699	0.000218	0.0289	120.745	0.728	0.641
+1i3HY5E31RY6GgpQzirRQ9	Lynyrd Skynyrd	Sweet Home Alabama - Edit	USUMG0000661	32	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.221	0.631	0.00121	0.0241	97.815	0.91	0.655
+2ls7Y9Xx07TqN7WjbT9sZD	Montrose	Rock the Nation	USWB10902594	42	album rock,blues rock,classic rock,country rock,hard rock,rock,southern rock	0.0473	0.456	0.000141	0.0398	137.581	0.602	0.912
+4VDHlRakaVHzHE8PUdcU49	Rick Derringer	Rock and Roll, Hoochie Koo	USSM10021862	51	blues rock,classic rock,southern rock	0.15	0.435	0.00837	0.0908	199.263	0.56	0.882
+20OFwXhEXf12DzwXmaV7fj	Creedence Clearwater Revival	Bad Moon Rising	USC4R0817604	76	album rock,classic rock,country rock,rock,southern rock,swamp rock	0.0586	0.508	4.87e-06	0.0321	178.946	0.942	0.774
+5sulm1kqJnbnqL4wo6xwRJ	Van Zant	Takin' Up Space	USSM10501317	36	country rock,southern rock	0.00779	0.311	0.0	0.2	184.948	0.479	0.885
+2LawezPeJhN4AWuSB0GtAU	Creedence Clearwater Revival	Have You Ever Seen The Rain	USC4R0817643	77	album rock,classic rock,country rock,rock,southern rock,swamp rock	0.0664	0.741	2.28e-05	0.0277	116.109	0.774	0.697
+1PVhVY3soBJjvFlFCfZR2O	The Marshall Tucker Band	Fly Eagle Fly	USSE90320378	41	album rock,blues rock,classic rock,country rock,folk rock,hard rock,mellow gold,rock,roots rock,soft rock,southern rock	0.337	0.615	0.0131	0.0295	138.026	0.476	0.548
+1f00vLCQsWLq0uM3ozCsgk	Apollo G	Céu Azul	QZFYZ1959259	38	hip hop tuga,rap criolo	0.556	0.696	0.0	0.0881	87.501	0.445	0.525
+1xKyLu1AbYauopjoAi0bQU	Dillaz,Lhast	Gravidade	PT7ED1700955	43	hip hop tuga	0.506	0.833	0.0257	0.176	130.049	0.426	0.488
+7u4MeccGgndCXhZX7HRDPl	Piruka	Queres Falar do Quê ?	ES71G1644021	28	hip hop tuga,rap criolo	0.644	0.64	0.0	0.276	113.854	0.233	0.574
+1NRnwyCNy4Lqp8zMVqBXNX	Dillaz	Homem da Sirene	QZHZ32030362	32	hip hop tuga	0.372	0.77	0.0	0.307	173.902	0.598	0.609
+6FnE1Y3iWcvVHFB3oLC0vB	Sippinpurpp	Fato treino do City	PTBM12200012	55	hip hop tuga,trap tuga	0.597	0.761	0.0	0.171	146.041	0.524	0.628
+3EYOJ48Et32uATr9ZmLnAo	The Police	Roxanne	GBAAM0201086	75	album rock,art rock,classic rock,mellow gold,new wave,permanent wave,rock,soft rock	0.0384	0.618	4.1e-06	0.358	134.114	0.663	0.748
+40riOy7x9W7GXjyGp4pjAv	Eagles	Hotel California - 2013 Remaster	USEE11300353	81	album rock,classic rock,country rock,folk rock,heartland rock,mellow gold,rock,soft rock,yacht rock	0.00574	0.579	0.000494	0.027	147.125	0.609	0.508
+2zYzyRzz6pRmhPzyfMEC8s	AC/DC	Highway to Hell	AUAP07900028	81	australian rock,hard rock,rock	0.061	0.574	0.00158	0.133	115.728	0.423	0.913
+7vJaNv4ItDyYXXCVRJreh6	Canned Heat	Let's Work Together	USEM39400168	57	album rock,blues,blues rock,classic rock,country rock,electric blues,folk rock,hard rock,mellow gold,psychedelic rock,rock,roots rock	0.118	0.746	0.0	0.0375	118.964	0.871	0.713
+5MxNLUsfh7uzROypsoO5qe	Aerosmith	Dream On	USSM10011897	76	album rock,classic rock,hard rock,rock	0.388	0.307	9.08e-05	0.029	160.9	0.224	0.433
+5tTVQLUw5HJJHt58MifwQS	Lynyrd Skynyrd,Al Kooper	Railroad Song	USMC17503783	39	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.176	0.588	0.111	0.0442	150.225	0.901	0.791
+0bT9zH62RHMtpQm38XNwPJ	April Wine	Roller	CAU117802685	55	album rock,classic canadian rock,classic rock,country rock,hard rock,heartland rock,mellow gold,rock,soft rock	0.00247	0.432	0.00539	0.0868	140.801	0.655	0.903
+17jdqGUsxfqm9n2HnbWSYq	Lynyrd Skynyrd	Swamp Music	USMC17446154	44	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.046	0.399	0.0552	0.0925	186.72	0.691	0.781
+7kleAV1lfwHi3XNsLaAKHR	Ted Nugent	Free-For-All	USSM19804008	51	acid rock,album rock,blues rock,classic rock,country rock,glam metal,hard rock,metal,rock,southern rock	0.0452	0.525	0.000295	0.0372	109.784	0.516	0.855
+0ht3TuGmL8tOkciCPY0rPa	George Thorogood & The Destroyers	Six Days On The Road	USCA20601649	45	album rock,blues rock,classic rock,country rock,electric blues,hard rock,heartland rock,mellow gold,rock,soft rock	0.0222	0.631	0.0121	0.0361	90.685	0.749	0.708
+2udGjDmpK1dH9VGyw7nrei	Eric Clapton	Cocaine	NLF057790024	67	album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock	0.0607	0.699	0.0337	0.0278	105.267	0.676	0.502
+2lLWfAW32oxUCv0iYQQwSX	Lynyrd Skynyrd	You Got That Right	USMC17747112	43	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.0244	0.537	0.0505	0.033	146.208	0.954	0.702
+0x2wtJbtJrox3SDmnMj97x	Lynyrd Skynyrd	Gimme Three Steps	USMC17301721	65	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.698	0.554	6.9e-05	0.0803	133.363	0.804	0.74
+1ju7EsSGvRybSNEsRvc7qY	Lynyrd Skynyrd	Simple Man	USMC17301726	70	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.0366	0.422	0.000119	0.0449	120.471	0.403	0.752
+5EWPGh7jbTNO2wakv8LjUI	Lynyrd Skynyrd	Free Bird	USMC17301722	73	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.0738	0.249	9.48e-05	0.0577	118.223	0.338	0.834
+7e89621JPkKaeDSTQ3avtg	Lynyrd Skynyrd	Sweet Home Alabama	USMC17446153	79	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.181	0.596	0.000331	0.0255	97.798	0.886	0.605
+1BTXScHQY272ouT3tjg0z0	Myles 6ix	Perco-me em Ti	QZFYW1969118	39	hip hop tuga,rap criolo	0.945	0.696	0.0	0.153	90.743	0.575	0.475
+4oWGtWd4deNrZZOopdmCwz	Piruka	Se Não Acordar Amanhã	ES71G1644023	41	hip hop tuga,rap criolo	0.652	0.712	9.39e-06	0.127	145.006	0.477	0.522
+6FzCELW4CAVcpm5eMbWzpE	benji price	Kenshin	PTBM12200002	36	drill tuga,hip hop tuga	0.846	0.665	0.0	0.11	112.215	0.69	0.579
+5RpT3tzb19RJPzXGIOVrn1	Dillaz,Spliff	Bocas Falam Tudo	PT5HT1900004	30	hip hop tuga	0.0248	0.772	0.0	0.15	92.046	0.48	0.552
+7jphtKNjFKtgyCJCp9WeMf	LON3R JOHNY	SUCESSO	PT6HL2100003	40	hip hop tuga,trap tuga	0.273	0.838	0.0	0.118	114.994	0.0448	0.532
+3O1QQ1WAD68H7L1oCmCXe5	Jimmy P,GSON,Filipe Ret	Vício	ES71G2001174	31	hip hop tuga,portuguese pop,rap criolo	0.688	0.479	0.0	0.161	92.297	0.381	0.624
+1nYBJmB6yphkPXXtgt4d5R	Domi,Murta	Rosas	PTUM71800347	29	hip hop tuga	0.132	0.806	1.4e-06	0.166	98.159	0.242	0.529
+6Iw9z09Mkh5B8RhlPuy8iy	Bezegol	Maria	QMFMG1598334	31	portuguese rock,rap portuense,reggae tuga	0.176	0.799	0.0	0.0941	125.993	0.929	0.549
+7moY0PPmZfCB7ouny0WUbb	Força Suprema,Telminha	FS4Life	ES71G1507955	20	hip hop tuga,rap angolano	0.199	0.609	0.0	0.328	74.469	0.622	0.716
+5ycfoSHMj4dChv3pDZsOHJ	Força Suprema,Dope Boyz,NGA,Deezy,Monsta	Really ?	ES71G1706609	24	hip hop tuga,rap angolano	0.459	0.411	0.0	0.429	88.691	0.0812	0.655
+5GtBBcDBRVGvU3pNJo7hJI	Halloween	Coração Digra - Live	QMFME1964026	29	hip hop tuga,rap tuga underground	0.814	0.586	3.16e-06	0.073	89.585	0.31	0.51
+0B1l6UT4UuCZU1yqhMvgnl	Vado Más Ki Ás	Vida Louca	PT6JE2100003	35	hip hop tuga,rap criolo	0.105	0.566	0.0	0.267	69.129	0.505	0.626
+7dO4sx0Qw8i0RkadAYUHwv	LON3R JOHNY	STAY FLY	PT6HL2100001	43	hip hop tuga,trap tuga	0.517	0.74	0.0	0.12	93.948	0.359	0.67
+7ntbEFveVCd5wtxfgTMJFb	Dillaz	Melhorar Com o Tempo	TCACO1675894	33	hip hop tuga	0.503	0.811	0.00141	0.0669	146.925	0.487	0.318
+3485UyMhs2ZF50l9sIZEys	ProfJam,benji price	FINAIS	PT8HB2000047	39	hip hop tuga,trap tuga	0.642	0.75	0.0	0.0674	75.986	0.833	0.615
+2wQFeNOIMqsMeITsFYAUkg	Dillaz	Oitavo Céu	PT5HT2200003	50	hip hop tuga	0.642	0.687	1.09e-05	0.193	140.114	0.325	0.567
+0rYRDCNedo3Pg9VTQd4aRT	Minguito 283	Andalé	PT6IB2100025	46	drill tuga,hip hop tuga,rap criolo,trap tuga	0.193	0.807	0.0	0.229	144.999	0.513	0.67
+0jqh2tqBk2MSTP3E16ns2E	Holly Hood	Peso	PT4GT2100003	41	hip hop tuga,trap tuga	0.616	0.809	5.07e-05	0.284	124.977	0.342	0.416
+3gZSAyXEFxRfRBBdhncJBc	Mirai	Iris	TCAFA2075081	37	hip hop tuga	0.763	0.622	0.00165	0.224	72.522	0.315	0.515
+5eBITLADCixT6NjT0FMP5D	Instinto 26,Yuran,Julinho Ksd,Trista,Kibow	Longe do Cubico (feat. Yuran, Julinho KSD, Trista & Kibow)	PT8IR2000001	37	hip hop tuga,trap tuga	0.465	0.832	2.72e-06	0.381	129.984	0.232	0.622
+2sqHjC5pk98F6fNTL7t0ZC	Double Trouble,Alley	Ver Navios	ES71G1866285	23	drill tuga,trap tuga	0.151	0.803	0.0	0.158	90.028	0.519	0.671
+0WmSoWksyfhCME62WhkP2U	Domingues	Romance de Cinema	PT4IJ2000011	50	hip hop tuga,portuguese pop	0.695	0.509	0.0	0.438	173.999	0.52	0.528
+4ZemHfam5DYpSL7jU67Cqp	Dillaz,Zeca	Pula ou Levas Bléu	TCACO1675892	34	hip hop tuga	0.624	0.766	0.00067	0.278	80.043	0.662	0.657
+3yOfYdWwanbkkBlbBOatTK	benji price,9 Miller	Estúpido	PTBM12200008	33	drill tuga,hip hop tuga	0.615	0.797	0.000926	0.0832	145.999	0.889	0.665
+6jMXOyucesUV2DLaZFYxro	Halloween	Na Porta do Bar - Live	QMFME1964024	32	hip hop tuga,rap tuga underground	0.636	0.492	6.69e-06	0.0605	130.335	0.0334	0.388
+5eDa7xPKF7t65yoaDHXo6H	Mind da Gap	Falsos Amigos	PTNS19700059	17	hip hop tuga,rap portuense	0.0229	0.629	7.73e-05	0.215	176.151	0.391	0.703
+2TbBiaX3YqO4IBHba713d0	Dillaz	Avioneta	PT5HT2200010	50	hip hop tuga	0.785	0.89	0.087	0.149	91.025	0.387	0.517
+4Wnw6QXC3RiDJvBtUEDsyE	Deau,Bezegol	Diz-me Só	ES71G1912493	40	rap portuense	0.4	0.669	0.0	0.237	160.134	0.47	0.53
+6vcN5NyLfBnNHCWIvw19vd	Don G,NGA	Devo Um	ES71G1706542	34	hip hop tuga,rap angolano	0.731	0.555	0.0	0.125	94.914	0.518	0.615
+7dxKJ4soS5BoHZGwsQqatz	Dillaz,VEECIOUS V	Querida Já Não Dá	TCACO1675901	36	hip hop tuga	0.242	0.779	7.56e-06	0.088	94.037	0.378	0.385
+0CqnPY4Alq93OQk6SLJxnw	Deezy,Detergente	Single	ES71G2107864	34	hip hop tuga,rap angolano	0.572	0.597	0.0	0.2	89.775	0.737	0.645
+17MPtgaJHgr2WlJVyhA6kw	Dillaz	Papaia	PT5HT2200007	55	hip hop tuga	0.308	0.72	0.00256	0.131	137.206	0.255	0.494
+3B2p4mexHi3a4pvTmKTP40	Halloween,Toni Bella	Rap de Rua	QM6P41497070	24	hip hop tuga,rap tuga underground	0.374	0.566	0.423	0.226	155.509	0.208	0.512
+3QLosQYib7OQ7JjKRopaWA	Bezegol	Fora da Lei	QMFMF1522059	34	portuguese rock,rap portuense,reggae tuga	0.0934	0.681	0.0	0.131	180.14	0.843	0.644
+6Utnd835UIJw9bZAukiK57	Halloween	Bandido Velho	QM6P41497069	36	hip hop tuga,rap tuga underground	0.648	0.498	0.0	0.116	127.564	0.215	0.636
+6SpI6YKn2u2oX7jSzoKDDl	Dillaz	Protagonista	TCACO1675886	41	hip hop tuga	0.192	0.786	0.0	0.0486	94.992	0.313	0.544
+4zww0H1u0yYvyBGixrRCb9	Dillaz	Mo Boy	TCACO1675887	47	hip hop tuga	0.555	0.756	3.54e-06	0.397	180.165	0.389	0.655
+37M00uZSz6smSxZ7pHchuh	Papillon	Impec	PT2HA1800011	45	hip hop tuga	0.436	0.799	0.0	0.0486	105.099	0.692	0.232
+45pxNtK2TTtB8dKiRH2YUX	X-Tense	Que Passa (Pablo y Pepe)	PTUM71900180	30	hip hop tuga	0.144	0.663	3e-05	0.294	90.886	0.961	0.839
+6MEZbtP3lg3mHnE9LzZn4S	Instinto 26,Julinho Ksd,Kibow,Trista,Yuran	Bandidas (feat. Julinho KSD, Kibow, Trista & Yuran)	PT8IR2100001	45	hip hop tuga,trap tuga	0.0336	0.735	0.00276	0.113	96.892	0.652	0.782
+4zoEdeSLToTyRVc4jhF8nt	Kappa Jotta	Movs	QMBZ91722998	23	hip hop tuga	0.51	0.909	5.71e-05	0.243	129.972	0.153	0.518
+2ZXJDPHsBf1jtwwldIWeiW	9 Miller	Sangue	PT4IA2000004	25	hip hop tuga,trap tuga	0.3	0.756	0.0	0.468	159.027	0.435	0.578
+6vbFZuziJPaFPRCWyQxOxP	Dillaz	Juvena	PT5HT2100002	48	hip hop tuga	0.121	0.802	0.000141	0.269	146.001	0.629	0.492
+2CmD7VA4lN1Lse9ctfn4wC	Plutónio	Não Vales Nada - Prod. Lhast	PT9EV1600002	34	hip hop tuga	0.682	0.52	3.44e-06	0.0912	91.274	0.187	0.395
+330CY6XkYOnnh8w7Nm114t	LON3R JOHNY	Drip	PT6HL1900004	42	hip hop tuga,trap tuga	0.275	0.743	0.0	0.127	124.937	0.368	0.414
+5hpDpEK863y4BuHYWPZROd	Dillaz,Spliff	Cria Actividade	PT5HT1900010	33	hip hop tuga	0.779	0.659	0.000154	0.0855	77.989	0.175	0.529
+7mdE30Ov4in9UOCUcQiIK0	X-Tense,Los Cavakitos	Bolero	QZES61954834	44	hip hop tuga	0.689	0.741	0.0	0.368	149.364	0.794	0.533
+17iaAbQfo1JbKCTkntpV0q	GROGNation,Filipe Gonçalves,DJ X-Acto	Como Tu	PT7ED1700659	29	hip hop tuga	0.774	0.823	0.0	0.451	88.087	0.72	0.49
+69BAvswkUqh2POkOGTgYql	Bezegol	Despedida	PTOHU1900013	21	portuguese rock,rap portuense,reggae tuga	0.0776	0.791	0.0512	0.0389	121.999	0.695	0.641
+7lFBWl10YkVFsmnTY809SL	Domi,Mariana Ramos	Tempo	ES71G1733019	18	hip hop tuga	0.809	0.673	0.0	0.614	109.8	0.649	0.623
+0ch6giE4s2ceM8fp7DTYU6	Myles 6ix,Midas	Cops	QZ4JJ1825772	34	hip hop tuga,rap criolo	0.599	0.63	0.0	0.356	138.442	0.544	0.515
+5rCx66bk7tol9oWv4etSio	TILHON	Cowabunga	PT7ED1700949	29	hip hop tuga,rap criolo	0.121	0.905	0.102	0.246	95.989	0.4	0.655
+0u4VPkxGxtzcfqg1nYsAG5	Fínix MG	Live Fast, Die Young	PT8HL1800005	14	drill tuga,hip hop tuga,trap tuga	0.393	0.829	0.0229	0.226	120.01	0.0391	0.28
+166Lpx4pr5vtIJYInQx4AJ	Instinto 26	Sólido	PT8IR2000007	36	hip hop tuga,trap tuga	0.559	0.63	0.0	0.173	98.965	0.187	0.678
+6dWote8mXX1bqqleaRoyas	Deezy	Free	ES71G1932047	29	hip hop tuga,rap angolano	0.333	0.568	0.0	0.232	129.615	0.131	0.584
+0B7cLiUsuRU8VXlgx715wb	Dillaz	Reflexo	TCACO1675905	34	hip hop tuga	0.323	0.886	0.0	0.272	125.004	0.524	0.489
+0dLrhO7oCMp0hQvXAUgbaC	Dillaz	Saudade	TCACO1675904	42	hip hop tuga	0.608	0.535	1.63e-05	0.432	68.337	0.588	0.298
+5CRIitZ8zHd6o72zqac6ts	Dillaz	Rodinha	TCACO1675903	34	hip hop tuga	0.29	0.888	0.0	0.188	110.007	0.756	0.694
+6iAIfWMqkou04ikPjmOVG0	Dillaz	Caminho Errado	TCACO1675899	36	hip hop tuga	0.836	0.492	0.00101	0.404	74.934	0.247	0.375
+7KsS2z27kooDvXq74XVjjr	Dillaz	Madrigal	TCACO1675896	35	hip hop tuga	0.708	0.762	2.82e-06	0.402	132.914	0.472	0.495
+171iFvhLfnaXSUY3BsdWeH	Dillaz	Interlúdio	TCACO1675890	30	hip hop tuga	0.00806	0.862	0.148	0.102	91.991	0.853	0.554
+4UBWvFqfY9lt38Ta3AKTEg	Dillaz,Vulto	Eu Estou Bem	TCACO1675888	39	hip hop tuga	0.312	0.86	1.03e-05	0.149	93.477	0.424	0.393
+6ZJzDkUI9vs7RhI5crgEql	Dillaz	Sonhar Nesta Vida	TCACO1675883	38	hip hop tuga	0.519	0.726	6.59e-06	0.126	109.936	0.287	0.491
+35KmOEIUqAGn02t7n4qaIr	J Balvin	Morado	USUM71924691	62	latin,reggaeton,reggaeton colombiano,trap latino	0.131	0.885	1.77e-05	0.0848	97.003	0.78	0.68
+5TMLavqGRKNxgzMBrVpC9R	zzoilo,Aitana	Mon Amour - Remix	ES5702101693	85		0.122	0.748	6.56e-06	0.102	116.041	0.362	0.761
+3zpmeHMsDkc3U3835oF2nW	Jodosky	Perreo Rompemadres	USA2P2117139	20		0.446	0.78	0.000393	0.399	170.054	0.597	0.684
+4J1Xxrqi4YEhclPzYbvo6V	Lenny Tavárez	La Neta	USWL12100005	53	latin,reggaeton,reggaeton flow,trap argentino,trap latino	0.141	0.814	0.000468	0.284	175.86	0.741	0.774
+5Km4r87BoX2qqtoprYS1gh	KAROL G,Anuel AA,J Balvin	LOCATION	USUM72023897	69	latin,reggaeton,reggaeton colombiano,trap latino	0.0433	0.772	0.0	0.0482	115.977	0.654	0.758
+5aJCEV552Ca35C3ryMiEo1	Christian Daniel	Enfermo de Amor	QZ7R42151358	28	latin arena pop,puerto rican pop	0.233	0.665	1.36e-05	0.0384	92.987	0.459	0.798
+06s3QtMJVXw1AJX3UfvZG1	Anuel AA,Bad Bunny	Hasta Que Dios Diga	QM4TX2084345	74	latin,reggaeton,reggaeton flow,trap boricua,trap latino	0.464	0.691	3.29e-06	0.111	174.021	0.855	0.765
+27RSJHEA99Y0Vsow7nA37A	Sech,Jhay Cortez	911 - Remix	QM9WM2100036	76	latin,panamanian pop,reggaeton,trap latino	0.165	0.816	0.0	0.0398	93.02	0.784	0.71
+3qwB1GLNMogyktLqN5ANBE	Jowell & Randy	Perriando	QM6P42086443	52	latin,latin hip hop,reggaeton,reggaeton flow,trap latino	0.0822	0.661	0.0	0.148	92.986	0.241	0.656
+59L8x0xy8njj75vzVCPMqg	Becky G,El Alfa	FULANITO	USRC12100954	74	dance pop,latin,latin viral pop,pop,rap latina,reggaeton	0.256	0.93	2.37e-06	0.187	111.898	0.821	0.837
+3EHOIENLKLgQYiwB3tKLky	Nio Garcia,Casper Magico,Arcangel,De La Ghetto	No Se Te Dió	QM6P42089165	50	latin,latin hip hop,reggaeton,trap latino	0.23	0.808	6.21e-05	0.176	176.046	0.742	0.68
+5jZTbH1tVJEJQ0FCS9LA7e	Miky Woodz	Necesario	QMBZ92184712	41	latin,latin hip hop,reggaeton,reggaeton flow,trap latino	0.258	0.807	4.38e-05	0.077	90.049	0.376	0.481
+1snQLPXC4cmkJWmbaSAkmf	Aleja López,Valentino	Playa	USA2P2112187	17		0.0215	0.775	0.0	0.0555	97.066	0.756	0.72
+2tFwfmceQa1Y6nRPhYbEtC	Jhay Cortez,Bad Bunny	CÓMO SE SIENTE - Remix	USUM72010288	78	latin,reggaeton,trap latino	0.0946	0.807	0.0	0.088	92.988	0.304	0.606
+0HMTIZ3iQ6QNjBaD9IE7ZZ	Jhay Cortez	Dime A Ve	USUM72012834	52	latin,reggaeton,trap latino	0.122	0.773	4.8e-05	0.06	179.983	0.56	0.753
+5RAIMjdrCEjpjaR5tBATXU	Maluma,Beéle,Rauw Alejandro,Mambo Kingz,DJ Luian,Darell	Aloha	QZ7B82100019	72	latin,reggaeton,reggaeton colombiano,trap latino	0.532	0.807	2.37e-05	0.1	100.004	0.792	0.712
+3UcOOU9tyT7ymLzlIr8ACI	Anonimus,Lenny Tavárez,Brytiago,Nio Garcia,Casper Magico,Darell,Jay Wheeler,Mikey Tone	Sin Ropa - Remix	QM6P42172208	54	perreo,reggaeton,reggaeton flow,trap latino	0.132	0.852	0.0	0.255	159.985	0.677	0.7
+4eK5MKBMAOzmafStu5eXY8	Kevin Roldan,Jd Pantoja	Otra Noche	USUM72021552	43	latin,latin hip hop,reggaeton,reggaeton colombiano,reggaeton flow,trap latino	0.187	0.786	0.00025	0.125	167.952	0.897	0.6
+7iC5nagvypUAb8M2Ut4Mry	Nio Garcia,Flow La Movie	Dividimos	QM4TW2103384	50	latin,latin hip hop,reggaeton,trap latino	0.77	0.62	0.0	0.0816	167.941	0.559	0.764
+4LGF2tDg3878bs0mQPByZ4	Eddie Vedder	Guaranteed	USJY51700110	58	acoustic rock,alternative rock,permanent wave,rock	0.904	0.436	0.00105	0.0272	100.734	0.351	0.4
+0fzCtVM9D5UEwiLqcY8Ouq	Eddie Vedder	Hard Sun	USJY51700106	63	acoustic rock,alternative rock,permanent wave,rock	0.0512	0.438	0.000402	0.0328	143.377	0.645	0.827
+3bHhUEOTIbezeZ856R0BX5	Eddie Vedder	Society	USJY51700107	65	acoustic rock,alternative rock,permanent wave,rock	0.902	0.561	0.000469	0.0327	161.858	0.298	0.327
+3J58Ccc5iTbCRnYx2xjo6d	The Cranberries	Animal Instinct	USIR29900001	61	irish rock,pop rock	0.089	0.61	0.0	0.0307	132.174	0.604	0.85
+1qylvO4iCIZZcqc4TqSjTZ	The Cranberries	Zombie - Acoustic Version	GB5KW1700211	60	irish rock,pop rock	0.00414	0.469	3.77e-05	0.0241	84.053	0.0821	0.427
+0f0k0OJ9VbaLHX4J1t2qUy	The Cranberries	Just My Imagination	USIR29900005	61	irish rock,pop rock	0.257	0.545	3.86e-06	0.0252	100.464	0.852	0.797
+2Qdnk7tbc4onLOIPd1eSNE	The Cranberries	When You're Gone	USIR29600117	63	irish rock,pop rock	0.522	0.45	2.43e-06	0.0271	187.525	0.371	0.525
+5kcsc92tGAjS0uvhDY3Mok	The Cranberries	Ode To My Family	USIR29400440	68	irish rock,pop rock	0.0472	0.365	1.44e-06	0.0235	93.953	0.149	0.443
+4JGKZS7h4Qa16gOU3oNETV	The Cranberries	Dreams	USIR29300080	72	irish rock,pop rock	0.00313	0.551	0.00385	0.0353	128.661	0.514	0.643
+0gEyKnHvgkrkBM6fbeHdwK	The Cranberries	Linger	USIR29300085	73	irish rock,pop rock	0.0783	0.439	4.87e-05	0.0265	94.845	0.204	0.434
+7EZC6E7UjZe63f1jRmkWxt	The Cranberries	Zombie	USIR29400443	79	irish rock,pop rock	0.0158	0.309	0.00591	0.035	166.915	0.312	0.649
+6PY5aUSub1xwqlDrA4aTyL	Hot Mulligan	*Equip Sunglasses*	USZZ82010002	55	alternative emo,anthem emo,emo,pop punk	0.000732	0.628	0.0	0.0633	120.008	0.91	0.966
+0KM2y796j63t5RHhvRUxld	MIKA	Relax, Take It Easy	USC7R0600114	64	dance pop,europop,pop	0.058	0.694	0.0126	0.0328	121.876	0.608	0.694
+1Dr1fXbc2IxaK1Mu8P8Khz	Green Day	When I Come Around	USRE19900154	73	permanent wave,punk	0.0175	0.531	0.0	0.034	97.546	0.814	0.909
+0SiS1Iud2fNazdtccUxE7m	Stereophonics	Fly Like an Eagle	GBAYE1900849	50	britpop,modern rock,pop rock,rock,welsh rock	0.0922	0.515	0.0	0.0278	146.02	0.416	0.407
+0R8clsMFyCYRN7iYRKTiuE	Games We Play	I Hope You're Happy	QZNJW2105543	59	miami indie	0.00132	0.536	0.0	0.0683	87.475	0.793	0.859
+3yupzluZdw77zjfskZnQgc	Rise Against	Swing Life Away	USDW10400796	54	chicago hardcore,chicago punk,hardcore punk,punk	0.545	0.487	0.0	0.0405	185.117	0.803	0.427
+4qjfQnccStTR8zNsb6Mizo	Green Day	Minority	USRE10000925	58	permanent wave,punk	0.00576	0.551	0.0	0.0452	137.841	0.708	0.965
+74zUPQTB6HMnfS1cagJnd8	Rise Against	Nowhere Generation	USC4R2003951	53	chicago hardcore,chicago punk,hardcore punk,punk	0.00265	0.373	3.55e-05	0.0998	165.881	0.376	0.944
+0BRHnOFm6sjxN1i9LJrUDu	Good Charlotte	The Anthem	USSM10209827	72	alternative metal,pop punk,rock	0.00666	0.494	0.0	0.126	177.751	0.893	0.939
+6nTiIhLmQ3FWhvrGafw2zj	Green Day	American Idiot	USRE10400888	76	permanent wave,punk	2.64e-05	0.38	7.86e-05	0.0639	186.113	0.769	0.988
+49X0LAl6faAusYq02PRAY6	Modjo	Lady - Hear Me Tonight	FR9W10100535	75	disco house,filter house,vocal house	0.00793	0.72	0.0293	0.0379	126.041	0.869	0.808
+4v2Bq0xDB7uNN73I5b44Du	KennyHoopla,Travis Barker	estella//	USQX92004761	54	modern rock,pop punk	0.000839	0.472	0.000143	0.0612	164.991	0.637	0.811
+2m1hi0nfMR9vdGC8UcrnwU	blink-182	All The Small Things	USMC19959123	78	pop punk,punk,rock,socal pop punk	0.0103	0.434	0.0	0.0488	148.726	0.684	0.897
+3NUmUIyzNLBp8bCFMH8Mif	Foo Fighters	Waiting On A War	USRW32000010	49	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	0.00984	0.53	0.0	0.0351	131.999	0.502	0.759
+0ue0gFLwvXd8qZIPg35Qiu	Green Day	Warning	USRE10000920	56	permanent wave,punk	0.0673	0.728	1.61e-05	0.0294	120.989	0.892	0.92
+6K4t31amVTZDgR3sKmwUJJ	Tame Impala	The Less I Know The Better	AUUM71500303	82	australian psych,neo-psychedelic	0.0115	0.64	0.00678	0.0284	116.879	0.785	0.74
+2dl3ggnDYIs9vlLLFm68xc	Creed	With Arms Wide Open	USWU39908053	53	alternative metal,nu metal,pop rock,post-grunge,rock	0.0037	0.415	0.000732	0.0308	138.929	0.126	0.533
+64yrDBpcdwEdNY9loyEGbX	Green Day	21 Guns	USRE10900679	72	permanent wave,punk	0.0518	0.268	0.0	0.0355	159.779	0.416	0.742
+6L89mwZXSOwYl76YXfX13s	Green Day	Basket Case	USRE19900151	78	permanent wave,punk	0.00293	0.442	8.71e-06	0.0602	85.064	0.781	0.943
+00hVU6kDP67JHurfwG2dtq	Rise Against	Hero Of War	USUM70832583	60	chicago hardcore,chicago punk,hardcore punk,punk	0.543	0.645	0.0	0.029	77.054	0.256	0.417
+5kr3j5Clb9rjEposoMyLVt	Green Day	Welcome to Paradise	USRE19900149	66	permanent wave,punk	0.000241	0.37	0.0116	0.0378	89.428	0.717	0.96
+5xEM5hIgJ1jjgcEBfpkt2F	Avril Lavigne	Complicated	USAR10200223	77	canadian pop,candy pop,dance pop,pop,post-teen pop	0.0572	0.585	7.74e-06	0.0459	77.987	0.427	0.776
+6GG73Jik4jUlQCkKg9JuGO	Jimmy Eat World	The Middle	USDW10110256	77	alternative rock,emo,modern power pop,modern rock,pop punk,pop rock,rock	0.0371	0.643	0.0	0.0526	162.152	0.903	0.849
+6ORqU0bHbVCRjXm9AjyHyZ	Green Day	Good Riddance (Time of Your Life)	USRE19700545	73	permanent wave,punk	0.183	0.475	0.0	0.0302	94.605	0.648	0.432
+58KPPL1AdLHMvR2O2PZejr	Green Day	Jesus of Suburbia	USRE10400983	64	permanent wave,punk	0.000259	0.3	2.26e-06	0.0636	147.116	0.59	0.929
+1hwJKpe0BPUsq6UUrwBWTw	Green Day	Boulevard of Broken Dreams	USRE10401426	71	permanent wave,punk	0.00394	0.49	1.54e-05	0.0309	167.046	0.506	0.679
+1jlG3KJ3gdYmhfuySFfpO1	Avril Lavigne	I'm with You	USAR10200224	69	canadian pop,candy pop,dance pop,pop,post-teen pop	0.08	0.457	0.0	0.0291	151.95	0.208	0.406
+5vfjUAhefN7IjHbTvVCT4Z	Green Day	Holiday	USRE10500451	67	permanent wave,punk	0.000138	0.538	0.0	0.031	146.511	0.736	0.884
+5WO3QkGOymQew1hH2A6oNY	Central Cee	Molly	QZHZ62007430	57	drill brasileiro	0.0828	0.848	0.0	0.547	144.029	0.267	0.368
+1o6x7iRcDQPEEg8YPgLeVA	Central Cee	Day in the Life	QZHZ42018515	71	drill brasileiro	0.228	0.905	0.0	0.357	144.892	0.757	0.571
+53HqOfi7OfHRXzcWTdGJB3	AJ Tracey	Little More Love	UKQNW2100011	63	grime,uk hip hop,ukg revival	0.199	0.719	9.89e-06	0.114	100.08	0.676	0.762
+10lU4ZD0adJlwBhvDlbSAC	Unknown T	WW2	GBUM72006355	48	uk drill,uk hip hop	0.412	0.767	9.89e-06	0.388	145.149	0.733	0.651
+7xD50fgMxpy8SFzyYiLntI	Tankz	London Scammer	SE6I32023928	64		0.375	0.871	0.0284	0.247	140.068	0.353	0.282
+107TX4vj1U8We3uqDmb9oO	Central Cee	Ruby	ZZOPM2004177	60	drill brasileiro	0.362	0.831	0.0	0.185	143.045	0.689	0.581
+2zxEc1GCSCxbHIXTfhraRC	Dave,Stormzy	Clash (feat. Stormzy)	GBUM72103840	72	uk hip hop	0.313	0.871	8.14e-06	0.258	140.013	0.532	0.519
+3io8SywLvvaJDxTU94phL7	Digga D,AJ Tracey	Bringing It Back	GB2GX2100003	53	aussie drill,london rap	0.245	0.849	0.0	0.323	143.051	0.789	0.761
+2me78vKO9U8lPRmn7zfWLU	Tion Wayne	Wow	GBAHS2100307	55	london rap	0.1	0.811	0.0	0.43	139.927	0.638	0.62
+4D0GT8zWuA7Z2em6dpajAn	Central Cee	Loading	ZZOPM2003512	63	drill brasileiro	0.732	0.85	0.0	0.338	144.006	0.694	0.68
+7pnQ23WgZca9jEfMts9qsR	A1 x J1	Latest Trends	GBUM72100292	71	chill drill	0.085	0.716	0.0	0.223	141.894	0.8	0.513
+6mSzsSdu0CWIV70jEjWMhI	ArrDee	Oliver Twist	GBUM72102854	69	uk hip hop	0.352	0.725	0.0	0.315	140.045	0.848	0.807
+3HUb7feX3gdnzZVEHy5yFj	Digga D	No Diet	GB2GX1900156	57	aussie drill,london rap	0.318	0.9	0.0	0.463	139.988	0.432	0.592
+3B0WbRucJ6ZIla2G9IVt2E	Tion Wayne,dutchavelli,Stormzy	I Dunno (feat. Dutchavelli & Stormzy)	GBAHS2000336	66	london rap	0.0954	0.821	0.0	0.342	145.066	0.739	0.666
+3DKCTIiJ97bS9TGiqcABjo	Dave,AJ Tracey	Thiago Silva	GBLFP1598248	72	uk hip hop	0.0641	0.667	4e-06	0.323	144.256	0.669	0.673
+0jgO2f0lAPSs36KBAHx9Dl	M24,Tion Wayne	London (feat. Tion Wayne)	GBAHS2000064	58	uk drill,uk hip hop	0.122	0.851	0.0	0.521	142.892	0.562	0.605
+0lEyInit4ezJcYJOBbaVej	dutchavelli	Only If You Knew	TCAEP2069430	52	uk hip hop	0.196	0.812	5.19e-05	0.311	144.097	0.333	0.788
+7kQUdVjev73xIuwu7W6YW9	SR	Welcome To Brixton	GBLFP2046094	73	uk drill	0.158	0.89	0.0	0.437	138.988	0.897	0.455
+1HSx8Wpz8gApEzUNzg9H3l	Aitch	Safe To Say	GB2DY2000271	57	manchester hip hop	0.0469	0.739	0.0	0.396	142.035	0.367	0.589
+7b4ky1LlQLFhXHmhZkFgqV	AJ Tracey	Ladbroke Grove	UKQNW1800013	68	grime,uk hip hop,ukg revival	0.0939	0.903	0.0	0.208	133.986	0.727	0.839
+4Qpa0WH8hUHtOJKSNPrGV7	SR	Practice Makes Perfect	GBLFP2040246	69	uk drill	0.102	0.801	0.0	0.293	139.931	0.945	0.633
+4lQ87x6SYGR9E8v28xqhh2	Central Cee	Little Bit of This	ZZOPM2106505	62	drill brasileiro	0.407	0.871	5.45e-06	0.32	139.97	0.756	0.749
+4PYfFHKfjYz6dwAtZhBy1z	Central Cee	Obsessed With You	ZZOPM2110165	73	drill brasileiro	0.192	0.746	0.0	0.0435	143.062	0.904	0.825
+2TqvOQIieRt52j5B1YuGyc	Nito NB	Lightwork Freestyle	QZ93L1808792	63	uk drill,uk hip hop	0.377	0.904	0.0	0.672	140.128	0.355	0.25
+1fvrXipx0Noh68lX63Jy5y	ArrDee	Cheeky Bars	GBUM72100847	49	uk hip hop	0.798	0.833	0.0	0.358	140.916	0.841	0.457
+3CVb6hkMrlF7eHhXi5B3PZ	Russ Millions,Tion Wayne	Body	GBAHS2100158	66	uk drill	0.389	0.889	1.04e-05	0.392	141.069	0.815	0.705
+0UCKUJU94sx8XBQnaNsRkB	Central Cee	Commitment Issues	ZZOPM2004175	64	drill brasileiro	0.463	0.8	0.0	0.295	147.171	0.795	0.71
+21x1FpH5mmrRCxWMRWofMM	M24,Stickz	We Don't Dance	TCAEH1987959	61	uk drill,uk hip hop	0.495	0.923	0.0	0.369	140.001	0.388	0.486
+19xj9MPZsjMZBnj6c1rlIv	SL	Gentleman	GBLFP1718009	63	uk hip hop	0.594	0.953	0.0	0.633	119.994	0.361	0.277
+7h2ozcUpSL7ulXjRPPQcDy	Aitch,AJ Tracey,Tay Keith	Rain	GB2DY2000067	63	manchester hip hop	0.0266	0.87	1.95e-06	0.202	150.145	0.83	0.87
+5wIjM4q7oIgiLqn8Qfoyxh	Russ Millions,Tion Wayne,Aitch,Swarmz,Sav'o,JAY1	Keisha & Becky - Remix	GBUM71901541	67	uk drill	0.251	0.863	0.0	0.478	140.969	0.644	0.471
+1tLV0GD0WXQ1Z8BKOQscti	Central Cee	6 For 6	ZZOPM2004171	68	drill brasileiro	0.552	0.855	0.0	0.143	142.965	0.623	0.792
+3qIxnOusGoTpHvNVMLHscw	SL	Tropical	GBLFP1797885	74	uk hip hop	0.76	0.847	8.89e-06	0.275	140.005	0.44	0.434
+6fGEfSUTyHgQZTiIbRoffC	Blanco	Shippūden	GBUM72000707	54	london rap,uk drill	0.648	0.858	1.12e-05	0.31	130.205	0.908	0.363
+0pvPWDLzZcWFyXO2VantXA	ArrDee	6am in Brighton	GBUM72101449	59	uk hip hop	0.175	0.743	0.0	0.261	142.038	0.634	0.56
+3FMedgGsLUNwx8NciePFEK	Russ Millions,Buni,YV	Reggae & Calypso (Russ Millions x Buni x YV)	QM4TW2244096	78	uk drill	0.413	0.759	0.0	0.277	140.994	0.895	0.803
+23wfXwnsPZYe5A1xXRHb3J	Eminem	The Way I Am	USIR10000589	70	detroit hip hop,hip hop,rap	0.144	0.785	0.0	0.265	87.248	0.315	0.871
+1pRjlrQMZYo1K5i1RcLGs7	Eminem,Kehlani	Nowhere Fast (feat. Kehlani) - Extended Version	USUM71803577	45	detroit hip hop,hip hop,rap	0.267	0.699	0.0	0.31	78.874	0.618	0.691
+6da04YB906XonC6IQNC44u	Eminem,Dr. Dre	Guilty Conscience	USUM70506390	62	detroit hip hop,hip hop,rap	0.0527	0.66	0.0	0.364	182.218	0.513	0.789
+7FRfYOql61DGDp9VPPe2qA	Alice In Chains	Down In A Hole	USSM10023130	62	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.0134	0.357	0.00013	0.0337	97.171	0.416	0.795
+5vHLwhxxlGzmClMcxRRFPr	Nirvana	Lithium	USGF19942505	70	grunge,permanent wave,rock	0.00174	0.678	0.0	0.0381	123.207	0.485	0.656
+27rDqwKojyXsjg2GmYmqDL	Nirvana	Frances Farmer Will Have Her Revenge On Seattle	USGF19960705	38	grunge,permanent wave,rock	5.66e-05	0.482	0.000432	0.0425	117.051	0.554	0.723
+2hnMS47jN0etwvFPzYk11f	Sublime	Santeria	USGA19649253	75	reggae fusion,ska mexicano,ska punk	0.0268	0.682	3.42e-05	0.0395	90.807	0.567	0.765
+2i5K0EdMY5zFs9t7KfYK3k	Nirvana	Rape Me	USGF19960704	54	grunge,permanent wave,rock	0.0141	0.42	0.0	0.0467	111.886	0.229	0.746
+15VRO9CQwMpbqUYA7e6Hwg	Nirvana	The Man Who Sold The World	USGF19972704	74	grunge,permanent wave,rock	0.425	0.483	0.000142	0.0832	115.102	0.42	0.753
+0bTLGlCqwZXwJGWGE2Dywg	Nirvana	Drain You	USGF19942508	59	grunge,permanent wave,rock	0.000129	0.325	2.22e-06	0.0695	133.358	0.198	0.929
+3YuaBvuZqcwN3CEAyyoaei	Audioslave	Like a Stone	USSM10211587	74	alternative metal,alternative rock,nu metal,permanent wave,post-grunge,rock,supergroup	0.00797	0.614	0.0	0.0276	107.849	0.516	0.568
+4PtZE0h5oyPhCtPjg3NeYQ	Alice In Chains	No Excuses	USSM19303748	61	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.0206	0.527	0.00062	0.0323	117.454	0.721	0.838
+1L94M3KIu7QluZe63g64rv	Pearl Jam	Alive	USSM19100003	74	grunge,permanent wave,rock	0.00752	0.284	0.000461	0.0422	75.009	0.595	0.875
+6QewNVIDKdSl8Y3ycuHIei	Pearl Jam	Even Flow	USSM19100673	73	grunge,permanent wave,rock	0.00178	0.394	4.54e-06	0.0761	105.338	0.265	0.944
+42JkURlKrerwh2JdlwEkg4	Pearl Jam	Thumbing My Way	USSM10211830	37	grunge,permanent wave,rock	0.53	0.61	0.00213	0.0295	115.596	0.256	0.456
+19AyoEwWzoi2epxxdz8tLy	Pearl Jam	Breath	USSM10209739	35	grunge,permanent wave,rock	0.00179	0.445	3.12e-05	0.0401	83.61	0.41	0.941
+4nRyBgsqXEP2oPfzaMeZr7	Pearl Jam	Once	USSM19100004	56	grunge,permanent wave,rock	0.00535	0.413	1.97e-06	0.0777	113.807	0.211	0.885
+2mvffzYUJ9Ld9xhsF5DUjU	Nirvana	In Bloom	USGF19942502	65	grunge,permanent wave,rock	3.33e-05	0.436	0.000104	0.0647	157.044	0.512	0.876
+5sFDReWLrZHLFZFjHsjUTS	Alice In Chains	Would?	USSM19200805	70	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.000327	0.305	2.36e-05	0.0398	100.675	0.586	0.833
+5gRcv46AMTrosmTOqrOV3Q	Nirvana	Dumb	USGF19960706	70	grunge,permanent wave,rock	0.428	0.697	0.653	0.0281	113.589	0.876	0.395
+6txWz9UapYHVxEd7dDIHXT	Blind Melon	No Rain	USCA29200194	72	alternative metal,alternative rock,blues rock,grunge,pop rock,rock	0.619	0.389	5.09e-05	0.0316	148.117	0.566	0.476
+2RsAajgo0g7bMCHxwH3Sk0	Nirvana	Come As You Are	USGF19942503	76	grunge,permanent wave,rock	0.00016	0.5	0.00161	0.0388	120.125	0.539	0.824
+62Yo3FDddWY8ydu6PW2wyz	Jack Harlow	Nail Tech	USAT22200223	83	deep underground hip hop,kentucky hip hop,rap	0.00508	0.677	8.36e-06	0.0694	150.127	0.1	0.557
+63ZedTAVRCICh2CNLWnsPZ	Beny Jr,Morad,K y B	Sigue	ES71G2211486	75	drill espanol,trap latino	0.611	0.682	0.0328	0.165	122.053	0.594	0.708
+5UnRXuem4qHseiCREBB7D7	Morad,Trobi	Cómo Están?	QMFME2171847	66	drill espanol,urbano espanol	0.328	0.801	6.95e-05	0.178	86.757	0.654	0.655
+2K8n5WgtjEmE63raUalL0k	Yari M,Randy,Brray	Freshy - Remix	QZHZ42103298	36		0.0597	0.726	0.0	0.189	171.854	0.496	0.5
+70uX4beGHc1nQikXveOknp	Manuel Turizo,Wisin & Yandel	Mala Costumbre	QZDYA1800028	64	colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino	0.243	0.823	0.0	0.0591	96.001	0.582	0.772
+59rjsHYxdxeUG6gd43Emzs	Lunay,Anitta	TODO O NADA	USA2P2117978	68	latin,latin hip hop,latin pop,reggaeton,reggaeton flow,trap latino	0.232	0.781	2.01e-06	0.0484	177.957	0.85	0.67
+5bQLsyTrUaMQRfr6whwGe5	Rauw Alejandro	Aquel Nap ZzZz	USSD12100290	75	puerto rican pop,trap latino	0.62	0.457	0.000228	0.0797	79.513	0.311	0.495
+7KKdJKCjMCsgnZbItbP2Xj	Morad	Qué Pasa?	QM6N22189117	53	drill espanol,urbano espanol	0.146	0.755	0.0748	0.31	141.965	0.868	0.621
+5J7teKIJGtqVypgYI6sqXj	Bad Bunny,Mora	Una Vez	QM4TX2030960	81	latin,reggaeton,trap latino	0.132	0.55	2.58e-06	0.0831	83.836	0.543	0.598
+38RIEav39FGi86jppxO0du	Bad Bunny,Sech	Ignorantes	QM4TW2090210	73	latin,reggaeton,trap latino	0.267	0.85	3.89e-05	0.0599	96.029	0.505	0.536
+5VPUmt4M80J6QKMMsAA4R1	Deorro,Elvis Crespo	Bailar - Radio Edit	USUS11600173	38	dance pop,edm,electro house,melbourne bounce,melbourne bounce international,pop dance,progressive electro house	0.0485	0.799	0.34	0.118	128.051	0.397	0.738
+0JBpueCBok9RRlxaWIS1k8	Diogo Piçarra	Vem Dançar Comigo	PTUM72100660	44	portuguese pop	0.637	0.566	0.0	0.0409	135.089	0.401	0.569
+6yVkakCN460KOVol9ZazjH	Anuel AA	Reggaetonera	QM6N22075450	63	latin,reggaeton,reggaeton flow,trap boricua,trap latino	0.48	0.694	0.000384	0.0565	93.064	0.515	0.796
+6lMMweQsX4ZBiBmpupub60	Mike Goldman,Flaid	Pal Piso	ITF252100079	21		0.0346	0.715	2.68e-05	0.141	180.019	0.636	0.796
+3dEtfTtCXWW7N8WQ9FD29z	Lyanno,Rauw Alejandro,Lenny Tavárez,Maria Becerra	En Tu Cuerpo - Remix	QM7282047514	67	latin,reggaeton,reggaeton flow,trap boricua,trap latino	0.249	0.742	0.00335	0.0746	156.013	0.558	0.497
+6uU1pbqT24J4zqIGPAP3kn	Nesi,Nio Garcia,DJ Luian,Mambo Kingz	Frontiar	QZ7B82100020	46		0.115	0.723	0.000165	0.139	180.121	0.726	0.536
+69Ej1xrGjOcHvIMtMKxK0G	Don Omar	Dile	USUL10401651	76	latin,latin hip hop,puerto rican pop,reggaeton,trap latino	0.184	0.817	0.000132	0.141	94.001	0.714	0.714
+36nowPBgzfeb3BPa9sFuNg	Chencho Corleone,Juhn	Guilla de Crema	TCAFK2160758	50		0.174	0.852	4.27e-06	0.0642	92.0	0.621	0.715
+7gwwt1IaAWwmB7af0AcuBM	Harry Nach	Tak Tiki Tak	QZFYZ1981854	68	trap chileno,trap latino,urbano chileno	0.333	0.801	0.000355	0.0813	99.994	0.231	0.579
+6HTJgY7iWWlVLSDHsfHePf	Ninho	Jefe	FR9W12136756	76	french hip hop,pop urbaine	0.474	0.648	6.81e-06	0.0799	120.985	0.213	0.599
+3oePVIPWEj35lWiHtpQhyK	Sippinpurpp	Não Me Venhas Chatear	PT7HL1900003	17	hip hop tuga,trap tuga	0.292	0.819	0.000126	0.275	159.972	0.487	0.532
+1YS98df70VrKl5O4HWou3j	Sippinpurpp	Never Walk Alone	PT7HL1900005	22	hip hop tuga,trap tuga	0.151	0.656	0.000164	0.0881	155.016	0.429	0.411
+3Zphh6OGam2fYgFoPx1JRF	benji price,ProfJam	badman ting	PT8HB1900017	29	drill tuga,hip hop tuga	0.0346	0.449	0.0919	0.307	182.214	0.142	0.461
+3FjX3P0gZQ3sVw30eEqQeE	ProfJam	À Palavra	PT8HB1800006	31	hip hop tuga,trap tuga	0.298	0.451	2.51e-05	0.0509	99.048	0.31	0.402
+0sAdiWtInRUw0dCR58gbEn	ProfJam	Minha	PT8HB1800007	37	hip hop tuga,trap tuga	0.037	0.709	8.3e-06	0.141	79.96	0.542	0.53
+2BSuTvvgGd7cfX1JTM9lZE	ProfJam	Água de Coco	PT8HB1800002	41	hip hop tuga,trap tuga	0.399	0.798	0.0	0.0446	119.966	0.129	0.489
+0gzwa0yJncSs29DjXajA5i	ProfJam,Lhast	Tou Bem (feat. Lhast)	PT8HB1800004	45	hip hop tuga,trap tuga	0.411	0.637	0.0	0.425	131.138	0.332	0.366
+0VoXqU82KkwEab9b5f8T4M	ProfJam	Malibu	PT8HB1800013	45	hip hop tuga,trap tuga	0.16	0.735	7.62e-05	0.46	107.055	0.152	0.761
+4lbVlnnG1lerScqqffnlTt	LON3R JOHNY	Trapstar	PT6HL1800002	32	hip hop tuga,trap tuga	0.172	0.714	0.0	0.0594	85.012	0.345	0.483
+6Jph3lq3V6hiKoQrB7YEw2	LON3R JOHNY,Fínix MG	Death Note	PT6HL1800003	40	hip hop tuga,trap tuga	0.259	0.808	0.0	0.19	159.947	0.465	0.456
+24DEtUjFhpV57zGnwzHR4H	LON3R JOHNY	GT3	PT6HL1900006	39	hip hop tuga,trap tuga	0.559	0.71	1.34e-05	0.0668	147.91	0.252	0.488
+5yH8pYxNckOU1cxfPsMIaz	DENNIS,MC Kevinho	Agora é Tudo Meu	BRT3O1800110	57	funk carioca,funk das antigas,sertanejo pop	0.7	0.848	2.81e-06	0.106	139.998	0.506	0.933
+0A0NJtd7yYuegBrj6qvqSo	Julinho Ksd	Stunka	PT1II2100005	44	hip hop tuga,rap criolo	0.168	0.722	0.173	0.075	139.965	0.66	0.728
+5LOgoGZQf26eY74DGdYy0u	MC JottaPê,MC Kevinho,ARON	Errada Ela Não Tá	BXKZM2000863	55	arrochadeira,funk carioca,funk paulista	0.432	0.76	0.0	0.0476	155.933	0.875	0.585
+5pUTV6IjzbGi0ukxaxJrFa	Nenny	Sushi	TCAED1905710	39	hip hop tuga,trap tuga	0.428	0.889	0.0	0.291	120.065	0.778	0.588
+1ftBvRj542ol7LT1A0EtL7	Wet Bed Gang	Devia Ir	TCADS1831472	52	hip hop tuga,trap tuga	0.638	0.714	0.0	0.403	94.205	0.486	0.51
+4T4AhK8ENsdc2zB6IzyjsI	Chico da Tina	Ronaldo	PTBM12000181	43	rap portuense	0.668	0.778	0.0	0.0817	125.048	0.289	0.459
+7yrH4ghvW4hivGBpLU7dDb	Papillon,Murta	Sweet Spot	PT2HA1900019	45	hip hop tuga	0.344	0.886	8.4e-05	0.181	119.982	0.271	0.61
+4GnD2JDRdgfRb3DvemIjdD	TAY,João Sousa	#TIPONADA (feat. João Sousa)	PT6IB1900003	32	portuguese pop,trap tuga	0.072	0.871	1.53e-05	0.237	82.995	0.74	0.427
+3POu1ffLnehBhpNGuaaOG3	Julinho Ksd	Conclusão	PT1II2000003	39	hip hop tuga,rap criolo	0.729	0.799	0.0202	0.0596	117.049	0.107	0.624
+7sFHTWgcLDXnfzRp5tG5qb	Wet Bed Gang	Ngana Zambi	ES71G2107091	38	hip hop tuga,trap tuga	0.509	0.678	0.0	0.282	99.878	0.396	0.697
+3wvEiKmoYB2JUkgSN1xlJI	Julinho Ksd,Richie Campbell	Don't Lie	PT1II2100008	49	hip hop tuga,rap criolo	0.599	0.807	0.00145	0.0969	95.014	0.451	0.461
+19gFXFDAFUdsuaiAorKEbr	FRANKIEONTHEGUITAR,T-Rex,LON3R JOHNY,Bispo	Tempo	PT9GN2000003	50	hip hop tuga	0.562	0.757	6.47e-06	0.0438	123.986	0.4	0.607

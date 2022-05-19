@@ -1,0 +1,45 @@
+Electronic artists found: LVNDSCAPE, Rudimental,James Arthur, Grabbitz, Harold Melvin & The Blue Notes,Teddy Pendergrass
+Electronic genres found: uk funky, edm, tropical house, pop edm, deep tropical house, gaming edm, electro house, disco, brostep, deep house
+Electronic music logs found: 7.32% 
+
+Top genres
+	1: gen z singer-songwriter (9.27%)
+	2: edm (3.31%)
+	3: alt z (2.65%)
+	4: pop (2.65%)
+	5: hip hop tuga (2.65%)
+Top artists
+	1: Rudimental (1.89%)
+	2: Suriel Hess (1.89%)
+	3: Karetus (1.89%)
+	4: LVNDSCAPE (1.89%)
+	5: White Dave (1.89%)
+Top country
+	1: US (36.59%)
+	2: QZ (9.76%)
+	3: DE (8.54%)
+	4: GB (7.32%)
+	5: QM (6.10%)
+Top record
+	1: WB1 (15.85%)
+	2: UM7 (12.20%)
+	3: AT2 (6.10%)
+	4: SM1 (6.10%)
+	5: C24 (4.88%)
+Top year
+	1: 22 (47.56%)
+	2: 21 (26.83%)
+	3: 20 (6.10%)
+	4: 15 (6.10%)
+	5: 17 (2.44%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   82.000000     82.000000     82.000000         82.000000    82.000000   82.000000  82.000000  82.000000
+mean    61.487805      0.371638      0.641012          0.000977     0.158006  115.103341   0.442955   0.606598
+std     14.870008      0.337096      0.121443          0.003327     0.162412   21.751517   0.197144   0.164896
+min     13.000000      0.000261      0.216000          0.000000     0.029900   71.502000   0.084300   0.335000
+25%     56.250000      0.099500      0.560000          0.000000     0.041375   99.987000   0.324000   0.436000
+50%     65.000000      0.200000      0.649000          0.000000     0.069100  115.005000   0.404000   0.608000
+75%     73.000000      0.697750      0.728000          0.000065     0.230000  121.967000   0.559250   0.707000
+max     84.000000      0.926000      0.854000          0.024500     0.491000  180.088000   0.982000   0.913000

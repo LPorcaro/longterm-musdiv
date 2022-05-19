@@ -1,0 +1,45 @@
+Electronic artists found: LUM!X,PIA MARIA, Kylie Minogue
+Electronic genres found: eurodance, slap house, melbourne bounce international
+Electronic music logs found: 5.26% 
+
+Top genres
+	1: dance pop (8.43%)
+	2: pop (8.43%)
+	3: electropop (4.82%)
+	4: post-teen pop (3.61%)
+	5: italian pop (3.61%)
+Top artists
+	1: Andrea (2.50%)
+	2: Poppy (2.50%)
+	3: Preditah (2.50%)
+	4: Chloe x Halle (2.50%)
+	5: Systur (2.50%)
+Top country
+	1: US (10.53%)
+	2: GB (10.53%)
+	3: IT (7.89%)
+	4: ES (7.89%)
+	5: NO (7.89%)
+Top record
+	1: UM7 (13.16%)
+	2: V02 (5.26%)
+	3: 94B (5.26%)
+	4: A04 (5.26%)
+	5: AHS (2.63%)
+Top year
+	1: 22 (52.63%)
+	2: 21 (23.68%)
+	3: 20 (10.53%)
+	4: 18 (5.26%)
+	5: 08 (2.63%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   38.000000     38.000000     38.000000         38.000000    38.000000   38.000000  38.000000  38.000000
+mean    64.342105      0.167841      0.653842          0.005943     0.073292  116.262184   0.516866   0.688368
+std      9.259842      0.193391      0.122303          0.027263     0.043893   21.577669   0.205323   0.166359
+min     29.000000      0.000261      0.340000          0.000000     0.028200   78.705000   0.085900   0.297000
+25%     62.000000      0.008080      0.568000          0.000000     0.038925   99.982500   0.356500   0.602000
+50%     64.500000      0.098600      0.683000          0.000000     0.059000  119.981000   0.554000   0.709500
+75%     71.500000      0.200000      0.734750          0.000169     0.097200  134.467250   0.622000   0.816250
+max     79.000000      0.681000      0.922000          0.165000     0.185000  157.468000   0.968000   0.951000

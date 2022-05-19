@@ -1,0 +1,45 @@
+Electronic artists found: Dubdogz,Brannco,Rodrigo Luca, Safri Duo, Prezioso,Marvin,Andrea Prezioso, Moby,Debbie Harry, French Affair, Gigi D'Agostino, Underworld, Avicii, Hardwell,Chris Jones, David Guetta, Kygo,Tina Turner, Guru Josh Project,Klaas, Carolina Marquez, Bob Sinclar,Vintage Culture,Dubdogz,Steve Edwards
+Electronic genres found: disco house, brazilian edm, electronica, acid house, edm, tropical house, downtempo, brazilian bass, eurodance, electro house, progressive house, hip house, italo dance, dutch house, big beat, progressive electro house
+Electronic music logs found: 75.00% 
+
+Top genres
+	1: edm (9.84%)
+	2: pop dance (9.84%)
+	3: dance pop (8.20%)
+	4: musica per bambini (8.20%)
+	5: pop (6.56%)
+Top artists
+	1: Brannco (4.00%)
+	2: French Affair (4.00%)
+	3: Debbie Harry (4.00%)
+	4: Tina Turner (4.00%)
+	5: Michele Del Baldo (4.00%)
+Top country
+	1: IT (35.00%)
+	2: NL (10.00%)
+	3: DE (10.00%)
+	4: CH (10.00%)
+	5: GB (10.00%)
+Top record
+	1: J32 (25.00%)
+	2: S24 (10.00%)
+	3: 313 (10.00%)
+	4: 7EF (5.00%)
+	5: BGA (5.00%)
+Top year
+	1: 11 (25.00%)
+	2: 18 (10.00%)
+	3: 13 (10.00%)
+	4: 06 (10.00%)
+	5: 14 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   20.000000     20.000000      20.00000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean    51.850000      0.103243       0.64270          0.080513     0.056330  135.105750   0.523050   0.782700
+std     16.521995      0.098800       0.11193          0.217847     0.042644   16.054458   0.248936   0.154798
+min     25.000000      0.000313       0.34700          0.000000     0.030200  105.023000   0.035000   0.568000
+25%     30.000000      0.024225       0.57500          0.000050     0.034075  128.019250   0.298750   0.640000
+50%     55.500000      0.060850       0.63150          0.000164     0.046300  134.999500   0.612500   0.785500
+75%     65.500000      0.220000       0.75925          0.024900     0.052125  139.781000   0.713000   0.905000
+max     72.000000      0.275000       0.76000          0.880000     0.199000  192.118000   0.937000   0.994000

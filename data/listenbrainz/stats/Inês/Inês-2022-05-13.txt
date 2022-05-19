@@ -1,0 +1,45 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: portuguese indie (10.00%)
+	2: musica portuguesa contemporanea (5.00%)
+	3: portuguese rock (5.00%)
+	4: brill building pop (5.00%)
+	5: folk rock (5.00%)
+Top artists
+	1: The Beatles (11.11%)
+	2: Luís Severo (11.11%)
+	3: Rapaz Ego (11.11%)
+	4: Antônio Carlos Jobim (11.11%)
+	5: Parcels (11.11%)
+Top country
+	1: PT (28.57%)
+	2: US (28.57%)
+	3: GB (14.29%)
+	4: BR (14.29%)
+	5: FR (14.29%)
+Top record
+	1: 9EY (28.57%)
+	2: ASE (14.29%)
+	3: AYE (14.29%)
+	4: PGD (14.29%)
+	5: LNH (14.29%)
+Top year
+	1: 06 (28.57%)
+	2: 19 (14.29%)
+	3: 05 (14.29%)
+	4: 74 (14.29%)
+	5: 21 (14.29%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    7.000000      7.000000      7.000000          7.000000     7.000000    7.000000  7.000000  7.000000
+mean    51.428571      0.530843      0.589000          0.049950     0.047643  115.482429  0.561857  0.480143
+std     19.406675      0.320250      0.183876          0.096622     0.036122   25.068615  0.187184  0.148559
+min     23.000000      0.033900      0.321000          0.000000     0.027800   74.573000  0.289000  0.314000
+25%     39.500000      0.342000      0.481000          0.001136     0.033000  101.806500  0.463500  0.383500
+50%     56.000000      0.534000      0.557000          0.002480     0.033900  117.984000  0.570000  0.393000
+75%     61.000000      0.783500      0.730500          0.040950     0.038400  134.203000  0.638500  0.602000
+max     80.000000      0.897000      0.822000          0.263000     0.129000  143.801000  0.870000  0.683000

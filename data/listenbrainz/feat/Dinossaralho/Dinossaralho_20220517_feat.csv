@@ -1,0 +1,158 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7EwNGHfCswoh3Vp4K3uDwf	First Aid Kit	Wolf	GBDNH1100143	30	stomp and holler,swedish americana,swedish country	0.0543	0.522	0.000917	0.0422	102.075	0.391	0.744
+7orTJD8x5vcW9bW2Yswqey	Grupo Coral de Cantares Regionais de Portel	Senhora Cegonha	PTOV10300176	9	cante alentejano,folclore portugues	0.553	0.637	0.0	0.0294	97.261	0.745	0.509
+2FYGZDfsAnNsrm1gVbyKnG	ROSALÍA	SAOKO	USSM12109218	77	r&b en espanol	0.79	0.827	2.45e-05	0.265	99.988	0.734	0.768
+4S4Amrpr631M16IIXqRk73	MARO	saudade, saudade	PTUM72100760	68	musica portuguesa contemporanea	0.681	0.644	0.000208	0.0357	82.992	0.376	0.337
+70AYiGbc4mWZGEqiipBBDb	ROSALÍA	CANDY	USSM12109219	79	r&b en espanol	0.885	0.638	0.0116	0.226	179.905	0.403	0.49
+3k8tvffbKnlqIb0qqidIBN	The Black Keys	Wild Child	USNO12200033	49	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.017	0.68	5.09e-06	0.0278	106.991	0.957	0.639
+76bcaYeKOKTrj9lEc9BZFU	Rubel	Quando Bate Aquela Saudade	BRRUS1400004	60	folk brasileiro,nova mpb,nova musica carioca	0.895	0.55	0.0107	0.0326	90.088	0.595	0.314
+2XIc1pqjXV3Cr2BQUGNBck	Bad Bunny,ROSALÍA	LA NOCHE DE ANOCHE	QMFME2066840	80	latin,reggaeton,trap latino	0.0303	0.856	0.0	0.286	81.993	0.391	0.618
+5BkNCuxzzid0gz9sx3NNbX	First Aid Kit	My Silver Lining	USSM11401643	60	stomp and holler,swedish americana,swedish country	0.026	0.479	0.000129	0.0335	101.938	0.43	0.725
+6Y46tOTRhkBamosyuWa6YX	ROSALÍA,The Weeknd	LA FAMA (with The Weeknd)	USSM12107750	77	r&b en espanol	0.947	0.766	4.44e-05	0.0464	136.016	0.805	0.295
+1VVPDo2phOhTyHLquHOtSa	Fausto	O Barco Vai De Saída	PTSM18400002	27	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.384	0.608	0.0	0.0402	81.161	0.942	0.94
+5Z6Coz5PaL1sZlyvupYCpf	Luta Livre	Pedigree	PT2JQ2000009	12		0.00537	0.53	9.46e-06	0.164	137.293	0.534	0.861
+6EPRKhUOdiFSQwGBRBbvsZ	Motörhead	Ace of Spades	GBAJE8000033	72	album rock,alternative metal,hard rock,metal,rock,speed metal	0.000852	0.329	0.000118	0.135	140.862	0.234	0.974
+2FeBslNBMdR9V58uv6hd2t	Kendrick Lamar	N95	USUM72208963	84	conscious hip hop,hip hop,rap,west coast rap	0.377	0.79	2.32e-06	0.105	139.956	0.408	0.67
+6NZOc8kO0Fxo0fLPvIdLnW	Kendrick Lamar,Beth Gibbons	Mother I Sober (feat. Beth Gibbons of Portishead)	USUM72208991	76	conscious hip hop,hip hop,rap,west coast rap	0.87	0.492	2.85e-05	0.329	140.012	0.491	0.369
+7zvfDihYiJ8RQ1nRcpKBF5	Kendrick Lamar,Tanna Leone	Mr. Morale	USUM72208990	77	conscious hip hop,hip hop,rap,west coast rap	0.283	0.727	2.76e-05	0.312	174.025	0.258	0.53
+5qN4HFkapdAOV94XPryVof	Kendrick Lamar	Black Panther	USUM71714096	55	conscious hip hop,hip hop,rap,west coast rap	0.625	0.618	3.84e-06	0.297	90.035	0.48	0.582
+5LOiuvbH62YGtnwe6Ltt4T	Kendrick Lamar	Mirror	USUM72208995	76	conscious hip hop,hip hop,rap,west coast rap	0.225	0.652	1.4e-05	0.0639	91.933	0.274	0.67
+19Fg3WrTfo35Ji3PtfZE6J	Kendrick Lamar	Auntie Diaries	USUM72208989	77	conscious hip hop,hip hop,rap,west coast rap	0.745	0.52	0.0122	0.358	127.544	0.589	0.375
+0YeUVm23SAkUruwEx9LWnt	Kendrick Lamar,Baby Keem,Sam Dew	Savior	USUM72208978	79	conscious hip hop,hip hop,rap,west coast rap	0.495	0.605	0.0	0.446	124.84	0.685	0.692
+5PPUw4Xo3Hz6rl4GpBfd3c	Kendrick Lamar	Savior - Interlude	USUM72208982	77	conscious hip hop,hip hop,rap,west coast rap	0.807	0.618	0.0	0.216	117.125	0.826	0.43
+3tYTyAt1q6BFBiGyYVOLhi	Kendrick Lamar,Kodak Black	Silent Hill	USUM72208981	80	conscious hip hop,hip hop,rap,west coast rap	0.438	0.907	3.19e-05	0.0767	140.07	0.801	0.577
+2IwbW2jd0Ncv99Aroe77Ru	Kendrick Lamar	Crown	USUM72208979	78	conscious hip hop,hip hop,rap,west coast rap	0.801	0.355	9.11e-05	0.0358	173.329	0.162	0.245
+7pj6P5WnxkZsw3XRc8eMe1	Kendrick Lamar	Count Me Out	USUM72208980	80	conscious hip hop,hip hop,rap,west coast rap	0.671	0.776	0.0	0.091	133.999	0.495	0.431
+401160izncPtca3CmX3dvM	Kendrick Lamar,Summer Walker,Ghostface Killah	Purple Hearts	USUM72208975	80	conscious hip hop,hip hop,rap,west coast rap	0.167	0.567	2.65e-06	0.296	138.202	0.737	0.824
+0RAvy97QRPzO2AfK5Dw6j3	Kendrick Lamar,Taylour Paige	We Cry Together	USUM72208973	80	conscious hip hop,hip hop,rap,west coast rap	0.292	0.648	0.0	0.345	106.89	0.504	0.68
+6kYGOFNUMxpab09L5Ukoke	Kendrick Lamar	Rich Spirit	USUM72208971	81	conscious hip hop,hip hop,rap,west coast rap	0.428	0.852	2.28e-06	0.208	95.977	0.457	0.421
+2Az5ykbQiZtFWtACCMvWlP	Kendrick Lamar	Rich - Interlude	USUM72208970	79	conscious hip hop,hip hop,rap,west coast rap	0.864	0.481	0.000315	0.0775	91.589	0.741	0.406
+4xIhSUJantE6BMl3u8dtCJ	Kendrick Lamar,Sampha	Father Time (feat. Sampha)	USUM72208968	81	conscious hip hop,hip hop,rap,west coast rap	0.181	0.514	0.0	0.344	152.869	0.517	0.779
+6gI9b2VsoWhjhIuIeToDVs	Kendrick Lamar,Blxst,Amanda Reifer	Die Hard	USUM72208965	82	conscious hip hop,hip hop,rap,west coast rap	0.319	0.775	0.00116	0.247	100.988	0.362	0.736
+5MMW4CZsZiZt2iuqAXzzWC	Kendrick Lamar	The Heart Part 5	USUM72208318	82	conscious hip hop,hip hop,rap,west coast rap	0.157	0.769	0.0	0.325	97.911	0.774	0.815
+5p56JT5F9a1z9pwXnqTg7d	Kendrick Lamar	Worldwide Steppers	USUM72208960	81	conscious hip hop,hip hop,rap,west coast rap	0.753	0.514	0.00012	0.368	77.215	0.557	0.472
+05zd5Nv0e02ZqrlC8A2cwx	Kendrick Lamar	United In Grief	USUM72208961	83	conscious hip hop,hip hop,rap,west coast rap	0.244	0.529	0.0	0.404	85.63	0.331	0.845
+0dgAZ1j5irH1FlA5WrpHW4	The Black Keys	Wild Child	USNO12200033	68	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.017	0.68	5.09e-06	0.0278	106.991	0.957	0.639
+46NnMrWFwS0P6HyJ8tgNi8	The Black Keys	It Ain't Over	USNO12200034	60	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0317	0.756	2.02e-06	0.0355	119.974	0.513	0.555
+3ODV8hlwa7eLVuPMskWnQi	The Black Keys	Didn't I Love You	USNO12200042	52	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.00213	0.5	0.0135	0.0258	107.813	0.392	0.672
+52CwDGRLe2wwKQGy7VC7Zu	The Black Keys	Baby I'm Coming Home	USNO12200041	52	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0146	0.234	0.00307	0.0403	174.571	0.32	0.701
+4k4jCkol5UCP41CfUyjC8m	The Black Keys	Happiness	USNO12200040	53	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0221	0.431	1.74e-05	0.0316	79.764	0.441	0.573
+6UpqYTSz30LQREVtYeVQLR	The Black Keys	Burn the Damn Thing Down	USNO12200039	53	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.297	0.426	0.0506	0.0365	176.627	0.57	0.767
+0hPLjCtNnCwt3InwsDgux6	The Black Keys	How Long	USNO12200038	54	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.00411	0.501	0.000147	0.0297	76.679	0.341	0.498
+49Mvj8Ohz1uu0AcZ7Ri70Z	The Black Keys,Billy F Gibbons	Good Love (feat. Billy F Gibbons)	USNO12200037	54	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.149	0.641	0.00224	0.0281	91.206	0.793	0.622
+50J9zbu0UzOFnUVSjvecl7	The Black Keys	Your Team Is Looking Good	USNO12200036	55	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.345	0.649	0.00134	0.0529	114.651	0.693	0.734
+5jH6P7e6RUGZnFGTeq3pUe	The Black Keys	For the Love of Money	USNO12200035	59	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.174	0.571	0.0017	0.0372	97.191	0.523	0.626
+4fNtMdGY2dYp2ODClA9CB4	The Black Keys	It Ain't Over	USNO12200034	55	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0317	0.756	2.02e-06	0.0355	119.974	0.513	0.555
+02bJ6uGeHKfNOhIc9qyA8e	The Black Keys	Wild Child	USNO12200033	56	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.017	0.68	5.09e-06	0.0278	106.991	0.957	0.639
+0rUVc7nyw4qXytvodDAlle	Nenny	Tequila - A COLORS SHOW	DEXC82100007	46	hip hop tuga,trap tuga	0.754	0.799	3.51e-06	0.181	99.002	0.561	0.531
+5xo8RrjJ9CVNrtRg2S3B1R	Phoebe Bridgers	Motion Sickness	USJ5G1714202	73	indie pop,la indie	0.774	0.651	0.0437	0.0357	107.021	0.623	0.546
+0qdQUeKVyevrbKhAo0ibxS	George Harrison	My Sweet Lord - Remastered 2014	GB77R1400026	73	album rock,beatlesque,classic rock,folk rock,mellow gold,rock,soft rock	0.0972	0.537	0.0	0.0335	120.919	0.583	0.701
+1bSUU4L2F320qqnnN6d4kD	Alabama Shakes	Hang Loose	USATO1200019	43	alabama indie,modern blues rock,rock	0.329	0.625	0.0109	0.0337	119.809	0.393	0.852
+3Bb8kFa82UJ48a64F2HoHs	The Heavy	Sixteen	GBCFB0901503	41	bath indie,garage rock,modern alternative rock,modern blues rock,modern rock,rock	0.0395	0.606	0.00107	0.105	174.992	0.941	0.768
+6PtIXICwmoxCgLjw2zApDs	Ron Gallo	Young Lady, You're Scaring Me	US27Q1763731	57	garage rock,modern blues rock	0.0113	0.371	2.7e-05	0.0784	109.675	0.508	0.921
+7hApGgP4BCDPUzJNlsnUxz	Cold War Kids	Hang Me Up to Dry	GBBLK0600567	51	alternative rock,indie pop,indie rock,modern alternative rock,modern blues rock,modern rock,piano rock,pop rock,rock,stomp and holler	0.0178	0.507	0.00161	0.0309	92.392	0.692	0.918
+7aOor99o8NNLZYElOXlBG1	Greta Van Fleet	Highway Tune	USUM71702892	68	modern blues rock,modern hard rock,rock	0.0096	0.582	0.128	0.0542	123.971	0.506	0.962
+79DO6dBi8936P6EShLB209	Jake Bugg	Lightning Bolt	GBUM71202798	61	modern rock,nottingham indie,rock	0.0818	0.551	0.0	0.0787	116.051	0.681	0.839
+7Dd1v8u05vTL3py8d1a5ZA	The Black Keys	Eagle Birds	USNO11900065	50	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0471	0.512	0.0242	0.0409	93.998	0.609	0.78
+5daT88Zml8Stpw2oTeesJx	Nenny	Tequila (Studio Version)	ES71G2104045	36	hip hop tuga,trap tuga	0.704	0.718	0.0	0.279	98.707	0.511	0.554
+5pUTV6IjzbGi0ukxaxJrFa	Nenny	Sushi	TCAED1905710	39	hip hop tuga,trap tuga	0.428	0.889	0.0	0.291	120.065	0.778	0.588
+0HAIealfpi1oQ09yPMsUIK	Nenny	Bússola	TCAEI1935476	43	hip hop tuga,trap tuga	0.735	0.802	0.0	0.324	94.952	0.82	0.565
+3mN9YMbN5ZCb5JPLeCNEnz	Cícero	Açúcar ou Adoçante?	BR66N1100006	45	brazilian rock,nova mpb	0.753	0.615	0.00295	0.0302	100.047	0.27	0.328
+3bZy4mfepri8X7JIdhCj5L	Clara Nunes	Feira De Mangaio	BREMI7100144	53	bossa nova,mpb,pagode,samba,umbanda,velha guarda	0.15	0.74	2.08e-06	0.046	105.477	0.958	0.913
+0ZPquQV2aKmDfwPjvMdvRp	Los Hermanos	Último Romance	BRBMG0300252	54	brazilian rock,mpb,nova mpb,rock alternativo brasileiro,rock nacional brasileiro	0.509	0.406	0.000641	0.0286	159.997	0.553	0.665
+1FdBds6TguiRmCPdoEb7Hu	Cassete Pirata	A Pirâmide	ES71G2127289	23	portuguese indie,portuguese jazz	0.089	0.256	0.0398	0.0414	183.917	0.353	0.685
+6Jwqjv8ksJd4N1dzrfMRiD	Cassete Pirata	Ferro e Brasa	PT4FG2000005	26	portuguese indie,portuguese jazz	0.0518	0.543	0.0499	0.0302	135.016	0.606	0.888
+3fohNRY7dDAEv0XQjwW4Px	Cassete Pirata	Só Mais uma Hora	ES71G2141881	26	portuguese indie,portuguese jazz	0.00624	0.553	0.0	0.0295	146.019	0.841	0.459
+48enDHi3k8mh24S2BI8SES	Cassete Pirata	A Próxima Viagem	PT4FG2000010	31	portuguese indie,portuguese jazz	0.0394	0.455	0.000835	0.0257	149.958	0.408	0.571
+7mVHy2E0yV3oTnV0OR5uMf	Mike WiLL Made-It,Pharrell Williams,Kendrick Lamar	"The Mantra - From ""Creed II: The Album"""	USUM71819430	47	atl hip hop,pop rap,rap,southern hip hop,trap,underground hip hop	0.268	0.703	0.0	0.109	154.985	0.43	0.706
+7Bpx2vsWfQFBACRz4h3IqH	Baby Keem,Kendrick Lamar	family ties (with Kendrick Lamar)	USSM12105949	77	hip hop,rap	0.00575	0.711	0.0	0.329	134.14	0.144	0.611
+52AX5ShoQxX1WRBWWqm0vI	Sean Riley & The Slowriders	Love Life	PT9EN2000004	29	portuguese indie,portuguese rock	0.223	0.562	0.926	0.0339	138.033	0.538	0.872
+1JcWG21c3aUbEejW8jGdWa	Fausto	Navegar, Navegar	PTSM18400013	23	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.398	0.59	0.0	0.0351	78.379	0.974	0.92
+2qG5sZ7Si6sdK74qLxedYM	ROSALÍA,J Balvin,El Guincho	Con Altura	USSM11900950	73	r&b en espanol	0.39	0.882	0.00325	0.124	97.963	0.746	0.689
+5Uou8idst1XJc0F6MRAk5S	The War On Drugs,Lucius	I Don't Live Here Anymore (feat. Lucius)	USAT22102101	58	indie rock,philly indie	0.00327	0.476	3.42e-06	0.037	110.026	0.466	0.867
+2wWFk93Ng7uMKRQwEz10UE	B Fachada	Como Calha	PTKQ11200024	29	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.13	0.511	0.653	0.0321	159.868	0.863	0.715
+1HkOPLwAJH3kE8UnqgxF4s	Bon Iver	Skinny Love	US38Y0811503	64	eau claire indie,indie folk,melancholia	0.842	0.592	2.38e-06	0.0449	76.358	0.103	0.256
+44Y47AT30lSl5iPMZr6o83	Future Islands	Peach	GBAFL2100385	50	alternative dance,baltimore indie,chillwave,dream pop,indie rock,modern rock	0.195	0.683	0.0192	0.0395	160.061	0.764	0.791
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	83	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+2MkK2gR0uoAAnct58fu1d7	alt-J	Hard Drive Gold	GB5KW2102485	55	indie rock	0.0858	0.67	2.1e-05	0.0389	144.272	0.684	0.853
+6GyFP1nfCDB8lbD2bG0Hq9	M83	Midnight City	GB55H1100002	75	french shoegaze,french synthpop,indietronica,metropopolis,neo-synthpop	0.0182	0.507	1.4e-06	0.0393	105.013	0.272	0.729
+2gQPv5jvVPqU2a9HhMNO1v	BoyWithUke	Toxic	TCAFS2101442	84		0.835	0.594	0.0	0.363	179.629	0.687	0.612
+6U0FIYXCQ3TGrk4tFpLrEA	BROCKHAMPTON	SUGAR	USRC11901564	72	boy band,hip hop,rap	0.449	0.453	0.0	0.0638	122.973	0.516	0.538
+1BYZxKSf0aTxp8ZFoeyM3d	girl in red	we fell in love in october	GBKPL1828677	81	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.113	0.566	0.181	0.028	129.959	0.237	0.366
+6MZSF3ds6ukOLnDZshW85L	Nenny	Tequila - A COLORS SHOW	DEXC82100007	18	hip hop tuga,trap tuga	0.754	0.799	3.51e-06	0.181	99.002	0.561	0.531
+3BQHpFgAp4l80e1XslIjNI	The Beatles	Yesterday - Remastered 2009	GBAYE0601477	73	beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock	0.879	0.332	0.0	0.0326	96.529	0.315	0.179
+0GD1RP6CWeFtG7zw6J8LKL	B Fachada	Afro-Xula	PTKQ11200022	19	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.00869	0.635	1.4e-05	0.0369	93.012	0.732	0.703
+6MXw4zXuXqY5cFMZj7uxao	David Bruno	Com Contribuinte	PTRO11900164	20	portuguese indie,rap portuense	0.0293	0.659	0.597	0.0466	99.624	0.453	0.478
+3HMFMzn8zdN3EC0Kv1MIJV	Xutos & Pontapés	Ai Se Ele Cai	PTUM10400076	40	portuguese rock,punk tuga	0.0401	0.378	0.0	0.0398	155.152	0.773	0.899
+2oZiEnDMEZFnsfbW8JZFQ0	B Fachada	Padeirinha	PTKQ12000005	23	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0396	0.486	0.0469	0.0492	167.951	0.738	0.767
+28D5HiTzeCFwPo7ASdTgAg	B Fachada	Só Te Falta Seres Mulher	PTKQ10900010	30	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.948	0.405	0.000339	0.0421	181.375	0.29	0.25
+7qQkZWcMMXuQbrshtE8IJR	David Bruno	Pausa #3	PTRO11900171	11	portuguese indie,rap portuense	0.212	0.382	0.388	0.341	170.08	0.938	0.751
+6QV7dAaenoQp4ORdnyfIVb	B Fachada	Pifarinho	PTKQ11400005	6	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.000982	0.337	0.0605	0.176	145.874	0.233	0.713
+6HMEotmQ90MPJsFqO8THaK	B Fachada	Fado	PTKQ11200056	5	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.946	0.469	0.000153	0.0307	100.366	0.495	0.387
+4xXZ6NiJi0TGRQipK0Wq9x	Carlos Paredes	Sede	PTUM10300256	18	fado,fado instrumental,guitarra portuguesa	0.7	0.42	0.757	0.0442	105.237	0.336	0.286
+4LiSXw8550M0SCQK03D65g	B Fachada	É Normal	PTKQ11200025	20	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.238	0.766	0.754	0.0555	123.988	0.879	0.495
+67mD3hi30De52ko58JLprz	B Fachada	Camuflado	PTKQ11400001	9	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0864	0.328	0.0	0.0613	115.924	0.784	0.629
+02Qa8sZmWmssyEDuLINMnT	Xutos & Pontapés	Sémen	PTUM71900273	20	portuguese rock,punk tuga	0.0525	0.511	0.0577	0.093	130.423	0.779	0.767
+25FdItlMRhJ1RUiPUqgfwW	Tozé Brito (de) novo,B Fachada,Benjamim	Olá, Então Como Vais?	PTBM12100172	30	portuguese jazz	0.128	0.793	2.19e-06	0.0461	114.076	0.851	0.543
+2kP4YiGDiKGdhXBEZ8cZ6K	Carlos Paredes,Fernando Alvim	Porto Santo	PTVC16700002	24	fado,fado instrumental,guitarra portuguesa	0.624	0.382	0.81	0.0346	143.899	0.32	0.443
+0xo66vPjkUwE8HgPkpJYxE	Fausto	Por Este Rio Acima	PTSM18400010	19	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.434	0.525	5.22e-05	0.0362	115.714	0.625	0.524
+7Jgr3mHa14UKKx4vyYWGkD	Fausto	Olha O Fado	PTSM18400009	16	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.811	0.611	0.0	0.0372	87.837	0.7	0.388
+1mh5s2JZWbx2SPftNdR5kq	Tozé Brito (de) novo,Ana Bacalhau,António Zambujo,B Fachada,Benjamim,Camane,Catarina Salinas,Joana Espadinha,Miguel Guedes,Mitó,Rita Redshoes,Samuel Uria,Selma Uamusse,Tiago Bettencourt,Tomás Wallenstein	Pensando Em Ti	PTBM12100183	29	portuguese jazz	0.49	0.743	0.0	0.0351	120.066	0.966	0.694
+0URc05SpfMEUd4kLnvTldD	B Fachada	O Anti-Fado	PTKQ12000008	23	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0699	0.51	0.00643	0.0594	87.979	0.666	0.784
+5gUMTd2zAcVJyWUamqT0af	Capitão Fausto	Verdade	PTBM11300138	22	portuguese indie,portuguese indie rock,portuguese rock	0.0643	0.584	0.000617	0.0322	125.035	0.572	0.829
+73nNXl2PZ1Z6j2pbfl8N8R	Ornatos Violeta	Ouvi Dizer	PTUM19900074	44	portuguese rock	0.485	0.526	0.0	0.0261	82.021	0.384	0.54
+2ND7CE71CPdPrh2PfRn0NK	Benjamim,Barnaby Keen	Terra Firme	PTPK11700002	39	portuguese indie	0.258	0.638	0.0137	0.0375	97.195	0.717	0.497
+0gi6ZGy8BeQWChpuLtPUHr	PZ	Croquetes	PTMD10402906	21	portuguese indie,rap portuense	0.177	0.836	0.676	0.0499	100.005	0.333	0.408
+2XcF93gDogYfddYRc0Wnsv	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Final	PTBM12100147	18	portuguese indie,portuguese indie rock,portuguese rock	0.605	0.215	0.0018	0.0312	134.561	0.102	0.467
+1uUSpmKP2lZmdXgeqqu6dM	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Alvalade Chama por Mim	PTBM12100146	18	portuguese indie,portuguese indie rock,portuguese rock	0.256	0.238	0.000699	0.0348	83.391	0.357	0.634
+53BrqTBiEhZ0MP4GRF29gD	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Boa Memória - Intro: Jupiter, the Bringer of Jollity	PTBM12100145	19	portuguese indie,portuguese indie rock,portuguese rock	0.192	0.526	0.00289	0.029	106.313	0.59	0.675
+6Jy5TDuN7l6268HF3eKd7k	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Santana	PTBM12100144	20	portuguese indie,portuguese indie rock,portuguese rock	0.000227	0.318	0.342	0.0381	93.843	0.182	0.592
+5MewsvFodQP620EkW1Wmec	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Morro na Praia	PTBM12100143	19	portuguese indie,portuguese indie rock,portuguese rock	0.183	0.292	0.000342	0.0352	201.14	0.738	0.697
+5CnZml8WbCi1MKW2VKZ1PO	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Amanhã Tou Melhor	PTBM12100142	26	portuguese indie,portuguese indie rock,portuguese rock	0.166	0.389	7.77e-06	0.0491	129.552	0.465	0.723
+0bthU2Z2dYVvWOmshL0Qh0	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Lameira	PTBM12100141	23	portuguese indie,portuguese indie rock,portuguese rock	0.00411	0.156	0.3	0.0425	173.644	0.222	0.634
+61caqESBjWMcF2boWtcFi5	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Outro Lado	PTBM12100140	19	portuguese indie,portuguese indie rock,portuguese rock	0.514	0.381	0.000813	0.0253	87.818	0.514	0.446
+6niPa3xLhJG7uazbYkVL3E	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Amor, a Nossa Vida	PTBM12100139	20	portuguese indie,portuguese indie rock,portuguese rock	0.594	0.31	0.0189	0.0287	150.914	0.297	0.529
+5DcVBd3wWdt82AxrS1WWfb	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Córtex	PTBM12100138	19	portuguese indie,portuguese indie rock,portuguese rock	0.000154	0.427	0.874	0.0312	81.151	0.518	0.715
+4a0xQTwjImg3fhkBOINrvY	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Certeza	PTBM12100137	21	portuguese indie,portuguese indie rock,portuguese rock	0.144	0.436	0.00671	0.0258	92.313	0.617	0.683
+3gGqcthshUsv6TORXPrWHL	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Maneiras Más	PTBM12100136	21	portuguese indie,portuguese indie rock,portuguese rock	0.033	0.243	0.56	0.0306	136.247	0.11	0.482
+0T5TK8l0ZzmFcwTMKf86zI	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Dias Contados	PTBM12100135	21	portuguese indie,portuguese indie rock,portuguese rock	0.205	0.513	0.302	0.027	106.833	0.52	0.563
+0XhpjiETZdHlnkfsJWlDdF	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Semana em Semana	PTBM12100134	21	portuguese indie,portuguese indie rock,portuguese rock	0.365	0.527	0.00189	0.0257	76.455	0.486	0.624
+6e9hrIgolf7bqtkrx5UDRJ	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Sempre Bem	PTBM12100133	22	portuguese indie,portuguese indie rock,portuguese rock	0.147	0.509	0.00991	0.0365	115.174	0.546	0.841
+6VvVPgDCTTIFtqAQUZqUaC	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Corazón	PTBM12100132	23	portuguese indie,portuguese indie rock,portuguese rock	0.356	0.557	0.000224	0.0384	106.115	0.609	0.802
+2eWrOIcikmVxsXYCFOeuyf	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Faço as Vontades	PTBM12100131	23	portuguese indie,portuguese indie rock,portuguese rock	0.168	0.459	1.24e-05	0.026	76.611	0.457	0.671
+1PEsIpu55Gdog9S6Ep28pg	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Lentamente	PTBM12100130	23	portuguese indie,portuguese indie rock,portuguese rock	0.379	0.456	0.0	0.0349	125.942	0.54	0.731
+3MhqOm8BSbbG1fxqQUNjgD	Capitão Fausto,Orquestra Filarmonia das Beiras,Martim Sousa Tavares	Quiet Village (Les Baxter)	PTBM12100129	23	portuguese indie,portuguese indie rock,portuguese rock	0.413	0.198	0.922	0.046	107.791	0.369	0.415
+40aDHcHuXFCJlJutbGUzDc	Fausto	Navegar, Navegar	PTSM19900078	2	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.595	0.523	0.0	0.781	83.244	0.48	0.963
+1YMW2oNdyoYmj7CmslemRC	Fausto	Lusitana	PTSM19900075	2	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.613	0.434	5.95e-06	0.114	171.43	0.72	0.739
+6vWhxfZOpj14o4GMNe0tLL	Fausto	De Um Miserável Naufrágio Que Passámos	PTSM19900074	2	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.344	0.587	0.00159	0.065	129.5	0.509	0.729
+6ruRfCUR6cJ3yiHbjXk8Pl	Fausto	Os Soldados De Baco	PTSM19900073	5	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.47	0.555	0.0	0.0985	88.175	0.35	0.752
+5BwDRPdChsWCQWipYvSydV	Fausto	A Guerra É A Guerra	PTSM19900072	3	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.618	0.575	1.64e-06	0.118	82.829	0.665	0.882
+3q60UrezzVwOV01ZcPakAn	Fausto	A Voar Por Cima Das Aguas	PTSM19900071	4	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.365	0.542	1.68e-06	0.243	132.304	0.557	0.844
+36xZeDLfY3pSGZdQadvEvd	Marcelo Camelo	Vermelho	BRZE51100007	38	brazilian indie,mpb,nova mpb	0.718	0.589	0.0166	0.0278	95.049	0.456	0.435
+3yiXy2ydZP9ZpsYxvUI6sO	Tim Bernardes	Só Nós Dois	BR73M1900016	48	brazilian rock,nova mpb	0.87	0.579	3.29e-06	0.0572	76.47	0.107	0.0744
+6lCcA1ugWuQPBCHXecSwc8	Belchior	Alucinacao	BRMCA7600024	50	bossa nova,brazilian rock,mpb,samba	0.418	0.541	0.0	0.0564	101.622	0.606	0.334
+6iRIQiJsyahTkYSbwsmRGJ	Lô Borges	O Trem Azul	BREMI7100436	38	bossa nova,mpb,musica popular mineira,samba	0.018	0.577	0.00884	0.0335	130.215	0.261	0.466
+2DREhftHdD8pRmNdSs6nyF	Secos & Molhados	Sangue latino	BRWMB9802394	54	bossa nova,mpb,psicodelia brasileira	0.256	0.574	0.00072	0.0295	133.661	0.905	0.389
+5aFMXedttAABh8TA3JmfhS	Marisa Monte,Devendra Banhart,Rodrigo Amarante	Nu Com a Minha Música	USKO11100495	39	bossa nova,mpb,nova mpb	0.843	0.404	4.01e-05	0.0313	103.873	0.406	0.34
+4mvb2QrG9ea14U9BQ8U9Q0	Chico Buarque	Tanto Mar	BRPGD7800001	33	bossa nova,fado,mpb,tropicalia	0.645	0.427	2.68e-05	0.0603	180.328	0.885	0.504
+0MT6ecgiLweuA4nd9NTGll	Erasmo Carlos	Gente Aberta	BRMCA7100049	51	bossa nova,brazilian rock,jovem guarda,mpb,pop nacional antigas,samba,tropicalia	0.713	0.609	0.0683	0.0459	90.92	0.805	0.453
+4YwIblyn5m2XAJ7ljh5d79	Milton Nascimento	Tudo O Que Você Podia Ser	BREMI7100100	53	bossa nova,mpb,musica popular mineira	0.296	0.457	0.000669	0.0286	96.138	0.787	0.482
+3mXjQTPztvXVRuL6tt6jY3	Seu Jorge	Burguesinha	BRF280700011	59	mpb,samba,samba-rock	0.563	0.682	0.00403	0.0421	101.976	0.96	0.949
+5Y1mguQcl8TbHgS12atuVy	Tulipa Ruiz,Zé Pi	Só Sei Dançar Com Você	BRAGL1000025	51	brazilian indie,mpb,nova mpb,nova musica paulista	0.792	0.671	1.99e-05	0.0289	113.99	0.158	0.508
+02a8cGumnKuEPgoCzmalJp	Caetano Veloso	Sozinho - Ao Vivo	BRPGD9800678	61	bossa nova,mpb,samba de roda,tropicalia	0.634	0.481	0.000168	0.186	83.979	0.528	0.284
+0HjlbE5iurkc4n2efskB57	Marcelo Camelo	Meu Amor É Teu	BRZE51100009	41	brazilian indie,mpb,nova mpb	0.849	0.449	0.00038	0.0261	98.006	0.466	0.424
+2PxakiZUhHmFdp5G3sBiXD	Mariana Aydar	Te Faço um Cafuné	BRC9R1600001	50	bossa nova,brazilian indie,mpb,nova mpb,samba	0.0184	0.683	8.4e-05	0.0327	136.08	0.64	0.674
+2CiHSL7Gq5qsp5PLQIUEID	Rodrigo Amarante	Irene	BRRGE1300294	43	nova mpb	0.976	0.465	0.701	0.0633	58.728	0.285	0.119
+6MCaOLDl0epJPRN76H5S4N	Jorge Ben Jor,Trio Mocoto	Oba, Lá Vem Ela	BRPGD7000076	55	bossa nova,manguebeat,mpb,samba,samba-rock,tropicalia	0.64	0.503	0.000212	0.0452	97.704	0.522	0.622
+40rIF99coDZOA10HnF46R4	Cícero	Tempo de Pipa	BR66N1100001	46	brazilian rock,nova mpb	0.84	0.639	0.015	0.0254	109.013	0.61	0.468
+4PCyzOTAB7zfJaxaS1uLSY	Los Hermanos	O Vento	BRBMG0500149	53	brazilian rock,mpb,nova mpb,rock alternativo brasileiro,rock nacional brasileiro	0.0247	0.665	1.08e-05	0.0328	137.948	0.839	0.685
+4utoXvhzZBIrsDKOEtApSl	Marcelo Camelo	Janta	BRZE50800014	47	brazilian indie,mpb,nova mpb	0.899	0.457	1.1e-06	0.0342	99.686	0.195	0.222
+5cAwEKmadsW4nCYe9QUvgU	John Coltrane	Naima - Mono	USAT21403144	51	bebop,free jazz,jazz,jazz saxophone	0.905	0.292	0.164	0.0393	170.106	0.133	0.012
+6ZgaUtMlUzUf7SqbUUnfbu	John Coltrane	Blue Train - Remastered 2003	USBN20300528	52	bebop,free jazz,jazz,jazz saxophone	0.798	0.506	0.00355	0.0427	134.77	0.584	0.493
+4rmCI9VWrwrJTJ8XQ80BMN	Duke Ellington,John Coltrane	My Little Brown Book	USMC16352622	57	adult standards,african-american classical,big band,harlem renaissance,jazz,jazz piano,swing,vocal jazz	0.942	0.372	0.139	0.0323	70.334	0.217	0.187
+0uPkCpuoERqrkBL06Art50	John Coltrane,Johnny Hartman	My One And Only Love	USMC16353721	58	bebop,free jazz,jazz,jazz saxophone	0.963	0.474	0.00291	0.0363	115.713	0.248	0.0676
+5IIybI1oiOCY3DRUrpQ7zA	Louis Armstrong	La vie en rose	USMC15076528	61	adult standards,dixieland,harlem renaissance,jazz trumpet,new orleans jazz,swing,vocal jazz	0.884	0.584	0.00705	0.051	70.886	0.319	0.0789
+1qCQTy0fTXerET4x8VHyr9	Louis Armstrong	What A Wonderful World	USMC16758823	70	adult standards,dixieland,harlem renaissance,jazz trumpet,new orleans jazz,swing,vocal jazz	0.792	0.399	1.86e-06	0.033	108.174	0.192	0.258
+0E8q2Fx2XuzXCO2NSAppkR	Duke Ellington,John Coltrane	In A Sentimental Mood	USMC16351954	62	adult standards,african-american classical,big band,harlem renaissance,jazz,jazz piano,swing,vocal jazz	0.936	0.464	0.0846	0.0316	108.229	0.282	0.305
+6A3Q8BVAAI2PW1s6MX4ZGF	Vanessa Da Mata,Ben Harper	Boa Sorte / Good Luck (feat. Ben Harper)	BRSME0700196	60	mpb,nova mpb	0.323	0.78	0.000463	0.05	111.019	0.281	0.566
+65TnBEqYie3BRoMbd8d30t	Timor YSF,ProfJam	Mudo de Vida	PT8HB2100066	38	rap criolo,trap tuga	0.472	0.669	0.0	0.332	143.251	0.38	0.691

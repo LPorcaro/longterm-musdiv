@@ -16,9 +16,19 @@ WIKI_GENRES = "../data/input/wikipedia_EM_genres.csv"
 FEAT_DIR = "../data/listenbrainz/feat"
 INFO_DIR = "../data/listenbrainz/info"
 
-end = datetime.strptime("20220216", "%Y%m%d")
+end = datetime.strptime("20220509", "%Y%m%d")
 
-NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca']
+NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
+                'spanish new wave', 'pop electronico', 'electronica argentina',
+                'new wave pop', '5th wave emo', 'metalcore', 'post-post-hardcore',
+                'post-screamo','screamo', 'trancecore', 'canadian post-hardcore',
+                'progressive post-hardcore', 'post-hardcore', 'glitchcore', 
+                'japanese post-hardcore', 'melodic hardcore', 'new wave pop', 
+                'industrial rock', 'new wave of osdm', 'new wave pop', 'new wave',
+                'new wave of speed metal', 'hardcore punk', 'chicago hardcore',
+                'grime', 'hardcore punk espanol', 'wave', 'korean city pop', 
+                'industrial metal', 'electronic rock', 'ambient pop', 'solo wave',
+                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore']
 
 
 def search_EM_genres(df):
@@ -280,7 +290,7 @@ def analyze_logs(username, out_dir):
     temporal_feat = (Day, N, EM, P_mean, P_std, A_mean, A_std,
                      D_mean, D_std, I_mean, I_std, T_mean, T_std)
 
-    analyze_user_temporal(username, temporal_feat)
+    #analyze_user_temporal(username, temporal_feat)
     print("Unique Electronic Music Artists: {}".format(len(set(A_EM))))
     print("Unique Electronic Music Genres: {}".format(len(set(G_EM))))
 

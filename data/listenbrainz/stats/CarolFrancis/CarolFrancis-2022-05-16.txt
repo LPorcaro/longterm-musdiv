@@ -1,0 +1,43 @@
+Electronic artists found: Marshmello,Demi Lovato, Gryffin,OneRepublic
+Electronic genres found: edm, tropical house, electro house, brostep, progressive electro house
+Electronic music logs found: 9.52% 
+
+Top genres
+	1: pop (26.76%)
+	2: dance pop (8.45%)
+	3: electropop (5.63%)
+	4: australian pop (4.23%)
+	5: post-teen pop (4.23%)
+Top artists
+	1: Vance Joy (3.57%)
+	2: Drax Project (3.57%)
+	3: OneRepublic (3.57%)
+	4: Chelsea Cutler (3.57%)
+	5: MAX (3.57%)
+Top country
+	1: US (80.95%)
+	2: GB (14.29%)
+	3: QM (4.76%)
+Top record
+	1: UM7 (19.05%)
+	2: UG1 (19.05%)
+	3: SM1 (14.29%)
+	4: AT2 (9.52%)
+	5: WB1 (9.52%)
+Top year
+	1: 20 (38.10%)
+	2: 21 (38.10%)
+	3: 22 (9.52%)
+	4: 19 (9.52%)
+	5: 18 (4.76%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    71.238095      0.196302      0.640381          0.000045     0.071819  122.827190   0.467333   0.642429
+std      5.156595      0.218682      0.107682          0.000201     0.060515   30.694626   0.175437   0.117278
+min     64.000000      0.001880      0.396000          0.000000     0.034500   63.392000   0.239000   0.408000
+25%     68.000000      0.030100      0.572000          0.000000     0.040500  103.953000   0.355000   0.563000
+50%     70.000000      0.094700      0.668000          0.000000     0.048400  121.004000   0.420000   0.611000
+75%     74.000000      0.286000      0.737000          0.000000     0.068500  134.057000   0.518000   0.740000
+max     85.000000      0.802000      0.806000          0.000922     0.284000  179.954000   0.884000   0.849000

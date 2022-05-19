@@ -1,0 +1,38 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: dance pop (16.67%)
+	2: norwegian pop (16.67%)
+	3: pop (16.67%)
+	4: ohio hip hop (16.67%)
+	5: italian hip hop (16.67%)
+Top artists
+	1: Massimo Pericolo (16.67%)
+	2: Nic Sarno (16.67%)
+	3: Bring Me The Horizon (16.67%)
+	4: Sigrid (16.67%)
+	5: Crookers (16.67%)
+Top country
+	1: GB (33.33%)
+	2: US (33.33%)
+	3: IT (33.33%)
+Top record
+	1: UM7 (66.67%)
+	2: RWL (33.33%)
+Top year
+	1: 22 (33.33%)
+	2: 21 (33.33%)
+	3: 19 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    3.000000      3.000000       3.00000               3.0     3.000000    3.000000  3.000000  3.000000
+mean    68.666667      0.173245       0.59200               0.0     0.111767  107.906000  0.403000  0.739333
+std      7.505553      0.201693       0.03148               0.0     0.123571   28.339967  0.167654  0.169813
+min     61.000000      0.000735       0.55700               0.0     0.030800   88.014000  0.215000  0.583000
+25%     65.000000      0.062367       0.57900               0.0     0.040650   91.681500  0.336000  0.649000
+50%     69.000000      0.124000       0.60100               0.0     0.050500   95.349000  0.457000  0.715000
+75%     72.500000      0.259500       0.60950               0.0     0.152250  117.852000  0.497000  0.817500
+max     76.000000      0.395000       0.61800               0.0     0.254000  140.355000  0.537000  0.920000

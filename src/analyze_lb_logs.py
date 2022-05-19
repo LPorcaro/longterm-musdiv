@@ -19,13 +19,30 @@ INFO_DIR = "../data/listenbrainz/info"
 
 end = datetime.strptime("20220216", "%Y%m%d")
 
-NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca']
+NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
+                'spanish new wave', 'pop electronico', 'electronica argentina',
+                'new wave pop', '5th wave emo', 'metalcore', 'post-post-hardcore',
+                'post-screamo','screamo', 'trancecore', 'canadian post-hardcore',
+                'progressive post-hardcore', 'post-hardcore', 'glitchcore', 
+                'japanese post-hardcore', 'melodic hardcore', 'new wave pop', 
+                'industrial rock', 'new wave of osdm', 'new wave pop', 'new wave',
+                'new wave of speed metal', 'hardcore punk', 'chicago hardcore',
+                'grime', 'hardcore punk espanol', 'wave', 'korean city pop', 
+                'industrial metal', 'electronic rock', 'ambient pop', 'solo wave',
+                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore']
 
-PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220216", "20220314"]]
-COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220315", "20220412"]]
-POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220413", "20220510"]]
+# PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220216", "20220314"]]
+# COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220315", "20220412"]]
+# POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220413", "20220510"]]
 
-HD = ['anaritaml', 'bigDart', 'gggaaabbss']
+PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220509", "20220605"]]
+COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220606", "20220703"]]
+POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220704", "20220801"]]
+
+
+HD = ['mapu25','catalinamanuela','dv248','ruiipereiraa','mariana02','acarolinab','mariiii','prolificuser','ritamont','LP22','francisco98','RickyLB','VeroBerardi','joaoms98','ossalatodipotassio','ddios','vampiregrave','ChiaraLh','SunshineT93','martagmp','Clara319','janybatista','annoyin9','Francisca','afonsoveiga','ruipedro3','tommyjarvis','RedPeppermint','Manhento','popu','Inês','Acemorais','deniseterzi','Bea_P','JohnnyMichaels','Apex23','ippo','Ruhdyy','An_Oxygen_Consumer','Alba_hontoria_96','BlueGiuly','Dinossaralho','aritahierro','brunix21','benfica15951','Vittoria','SofiiFreitas','gabriverce','Ana Wolfie','versilvia','RicardoCoelho8','outofljfe','andrespi','joaomdpaz','Ordep123','quicomedeiros','nowhereknows','dfilipa98','Lostveneto','itsmatild','diogojf','Ramiroowww','Ile.96','Gon1507','MayaIaia4','Solk','anasofiamachado','Gonçalo','Branky','silvawestcoast','MLN','HiddenTrack','Holt92','vrnk98','sarafdelgado','CarolFrancis','axel22','filippo_malocco','inxsc','5ea1c3f3e9fb240a9b243e18','rqlmarim','ilvapleuvoir','Capuchinho','mrndcn','aimonteiror','TheMusicWeirdo','tiagofcneves','olline','pirolocams','berenike','valxros','bpin','60f1881264ff3a7f211d186a','sneakysoup','giulispaggiari','LBS','Akromancer','Bruno10000silva','jshadyc','Luijinho','salvatore9','fraaa','Edu_Marques17','matiri95','ricxtreme','user112553','Chaps03','saturnzbarzs','Kyor','61141c855eb58d6a4e3d8d5b','Theossi2000']
+
+# HD = ['anaritaml', 'bigDart', 'gggaaabbss']
 LD = ['draconisfirebolt', 'Fillyz', 'ByeBye']
 
 TRACKS = "../data/input/random_tracklist_20220104.csv"
@@ -197,6 +214,11 @@ def run(username, rows):
     """
     """
     df_feat, df_info = import_data(username)
+
+    if df_info.empty:
+        print("### User File not found : {}".format(username))
+        return rows
+
     df_PRE, df_COND, df_POST = process_data(df_info, df_feat)
 
     if username not in HD + LD:
@@ -304,6 +326,12 @@ def run_diff(username, rows):
     """
     """
     df_feat, df_info = import_data(username)
+
+    if df_info.empty:
+        print("### User File not found : {}".format(username))
+        return rows
+
+
     df_PRE, df_COND, df_POST = process_data(df_info, df_feat)
 
     a_hd, t_hd, a_ld, t_ld = import_lists()

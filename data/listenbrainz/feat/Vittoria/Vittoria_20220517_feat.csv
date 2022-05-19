@@ -1,0 +1,101 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0M3adYbGtyRHACP86dey1H	Bring Me The Horizon	Throne	GBARL1500770	70	melodic metalcore,metalcore,rock,uk metalcore	0.000455	0.426	0.0	0.0987	144.111	0.387	0.888
+7vrKEP66NdiQDPryPG6olO	Ed Sheeran,Bring Me The Horizon	Bad Habits (feat. Bring Me The Horizon)	GBAHS2200173	71	pop,uk pop	0.0305	0.59	0.0	0.0792	131.018	0.178	0.849
+25wdC7CJmCJPgnKw9rYquJ	Machine Gun Kelly,Bring Me The Horizon	maybe (feat. Bring Me The Horizon)	USUM72112368	76	ohio hip hop	0.000735	0.601	0.0	0.0505	88.014	0.537	0.92
+2vHzOWRKYPLu8umRPIFuOq	KALUSH	Stefania (Kalush Orchestra)	DEE862200344	74	ukrainian hip hop,ukrainian pop,ukrainian rock	0.145	0.832	0.00169	0.0422	104.985	0.324	0.817
+64lsIF5pw0sJY0gV5kz0RN	Dayglow	Can I Call You Tonight?	TCADL1825079	78	austindie,indie pop,modern rock	0.132	0.641	0.91	0.0292	129.98	0.5	0.842
+0aDXQ3TgeCwSh9gPy9a41E	Lure Division	Whisper	QZDA62208978	39		0.961	0.465	0.865	0.0283	170.001	0.474	0.568
+34dx8DACTJsc3rsJdaEIQw	Stromae	Papaoutai	BET671300160	73	belgian pop,g-house	0.0266	0.734	0.0	0.0839	116.024	0.254	0.809
+5MkEEk4hLNvhLAQ3MtrM3s	Verdena	Muori Delay	ITUM70700211	38	bergamo indie,italian alternative,italian indie pop	0.0275	0.373	0.0	0.17	171.782	0.442	0.903
+22uRfcIccWOUVQmGLb880b	Verdena	Il Gulliver	ITUM70700240	19	bergamo indie,italian alternative,italian indie pop	0.00529	0.354	0.159	0.0829	116.326	0.392	0.908
+356D4Tqzk8qHvTmlDdyo9J	Verdena	Canos	ITUM70700239	22	bergamo indie,italian alternative,italian indie pop	0.000737	0.315	0.00278	0.486	179.956	0.341	0.945
+3EhJRpJzzjV7Vf71odJsQy	Verdena	Isacco Nucleare	ITUM70700238	17	bergamo indie,italian alternative,italian indie pop	0.000158	0.489	0.0349	0.116	131.857	0.504	0.963
+6HGpmdAm5ay2lPWyq2Jnaa	Verdena	Aha	ITUM70700237	13	bergamo indie,italian alternative,italian indie pop	0.925	0.756	0.972	0.0469	105.995	0.0466	0.454
+3fW6w768HiDoRpVDs50s3a	Verdena	Angie	ITUM70700236	30	bergamo indie,italian alternative,italian indie pop	0.00482	0.518	0.0102	0.0354	142.064	0.405	0.656
+5hvaxkfypl6A6A8e75lp4R	Verdena	Non Prendere L'Acme, Eugenio	ITUM70700235	23	bergamo indie,italian alternative,italian indie pop	0.000148	0.423	0.581	0.0572	100.564	0.333	0.962
+7syShFYc3JFKG1xSy3sIRc	Verdena	Don Calisto	ITUM70700234	25	bergamo indie,italian alternative,italian indie pop	0.000421	0.386	2.13e-06	0.214	97.219	0.287	0.981
+5r8IP9qlR6qvVCVvHxnNK8	Verdena	Marti In The Sky	ITUM70700233	0	bergamo indie,italian alternative,italian indie pop	0.45	0.224	0.634	0.106	55.597	0.315	0.261
+2769RhOZs0ezRncRW1vryp	Ashe,FINNEAS	Till Forever Falls Apart	USQE92100007	68	alt z,electropop,pop	0.413	0.509	0.0	0.0315	99.729	0.283	0.498
+2nvZv4qatgsDIbEqqbQLUT	Coconut Records	West Coast	USANG0720002	62	indie pop,indie rock,la indie,stomp and holler	0.464	0.532	0.000123	0.0261	80.031	0.345	0.597
+3nhGk6VnrDHy67pXvMhdPa	Sam Ryder	SPACE MAN	GBAYE2101762	72		0.181	0.467	0.0	0.0489	79.978	0.334	0.828
+35b0iM96Uid8KI5s83IEHM	Amanda Tenfjord	Die Together	NOPRR2203010	67	norwegian indie,norwegian pop,trondheim indie	0.122	0.475	0.0	0.0661	149.982	0.202	0.366
+4DbnKBddcHUHbYpidc36AT	Lil Peep	The Brightside	UKELY1700056	65	emo rap,lgbtq+ hip hop	0.0348	0.646	0.0	0.0424	134.03	0.882	0.64
+1tlrTC3x7viJ1U30oOFGdF	Lil Peep	Better Off (Dying)	UKELY1700055	66	emo rap,lgbtq+ hip hop	0.00835	0.521	0.0	0.0409	74.987	0.196	0.766
+3F42FHouOY59SnSsyD2TAX	Lil Peep	U Said	UKELY1700054	66	emo rap,lgbtq+ hip hop	0.0434	0.265	0.0	0.104	82.032	0.131	0.827
+7Hr2XoaGpIMKbNXCZDZ3le	Lil Peep,Lil Tracy	Awful Things	UKELY1700053	67	emo rap,lgbtq+ hip hop	0.0157	0.368	0.0	0.0823	170.033	0.181	0.796
+0S0vWvyZ6Rc79TXkWxT9QA	Lil Peep	Save That Shit	UKELY1700052	75	emo rap,lgbtq+ hip hop	0.0262	0.534	0.0	0.0288	105.997	0.145	0.583
+3kBD2xHIqKWXjLAGidDTSz	Lil Peep	Benz Truck (гелик)	UKELY1700026	69	emo rap,lgbtq+ hip hop	0.0498	0.602	0.00819	0.0347	92.02	0.112	0.762
+4uet7oNOwFgIDCgR1zTFUv	Ministri	Esploratori	ITCV32209705	34	italian alternative,italian indie pop	0.000319	0.413	0.0	0.0506	95.91	0.46	0.899
+0qZQM1gTi6ca1vwLpJ0toH	Ministri	Numeri	ITCV32109702	34	italian alternative,italian indie pop	1.96e-05	0.468	0.0	0.055	156.013	0.44	0.933
+2YRijkTLIaM19xDyZwDGvE	Ministri	Vipere	ITCV32209704	35	italian alternative,italian indie pop	0.000231	0.391	0.0	0.0381	78.028	0.358	0.713
+19b8lNcPaC9srKUjKc7Cbp	Ministri	Documentari	ITCV32209703	37	italian alternative,italian indie pop	3.39e-05	0.447	0.00144	0.0665	164.017	0.662	0.959
+2ECBNzOrHm9m3NitYeQ8Uu	Ministri	Scatolette	ITCV32209701	33	italian alternative,italian indie pop	0.00073	0.358	0.0	0.0397	147.736	0.283	0.583
+1eEK8eQETi8q8bU0lxRMlq	Sigrid,Bring Me The Horizon	Bad Life	GBUM72200915	69	dance pop,norwegian pop,pop	0.124	0.557	0.0	0.0308	95.349	0.215	0.583
+7aVX95NjONZszSeb8vJZF3	Massimo Pericolo,Crookers,Nic Sarno	Amici	ITRWL1900043	61	italian hip hop,trap metal italiana	0.395	0.618	0.0	0.254	140.355	0.457	0.715
+3JvKfv6T31zO0ini8iNItO	Tom Odell	Another Love	GBARL1300107	87	chill pop,pop	0.695	0.445	1.65e-05	0.04	122.769	0.131	0.537
+5o9iQVktO08gIlRAHqqxtj	Harriette	at least i'm pretty	FRIDO2110335	70	indie pop	0.541	0.86	0.00449	0.0296	99.958	0.523	0.422
+1NZs6n6hl8UuMaX0UC0YTz	Lana Del Rey	Brooklyn Baby	GBUM71402169	78	art pop,pop	0.542	0.404	0.00402	0.0407	107.747	0.0949	0.664
+1G1R0XgChe18Zr1o6tlmN6	Lana Del Rey	Watercolor Eyes - From “Euphoria” An HBO Original Series	GBUM72200132	73	art pop,pop	0.964	0.444	0.0815	0.0316	120.443	0.121	0.26
+2nMeu6UenVvwUktBCpLMK9	Lana Del Rey	Young And Beautiful	GBUM71301823	76	art pop,pop	0.262	0.324	3.69e-05	0.0368	113.986	0.151	0.416
+7FDHI71Z3IInsEKuUn7Df8	Lana Del Rey	Video Games	GBUM71111621	55	art pop,pop	0.806	0.39	1.14e-06	0.0299	122.056	0.179	0.255
+4Gf3BDLcGL36QHKynf9TEd	Ministri	Arcipelaghi	ITCV32209708	32	italian alternative,italian indie pop	0.0027	0.456	0.0	0.0336	77.008	0.581	0.789
+6EAu1ibiL28TbRi1uT2ozI	Ministri	Ci eravamo detti	ITCV32209707	33	italian alternative,italian indie pop	3.2e-05	0.427	0.0	0.0426	141.957	0.407	0.836
+4DXFkXYklpYTBe1xckzEgJ	Ministri	Domani parti	ITCV32209706	34	italian alternative,italian indie pop	0.186	0.375	0.000627	0.0336	183.737	0.271	0.57
+0stcTp1Ngt9UDvRjRbb4tw	Dardust,Massimo Pericolo	Signore del bosco	ITIWE2290108	59	compositional ambient,italian electronica,neo-classical,rome indie	0.0721	0.595	0.0	0.0462	120.052	0.144	0.728
+52ojopYMUzeNcudsoz7O9D	Tame Impala	New Person, Same Old Mistakes	AUUM71500302	76	australian psych,neo-psychedelic	0.272	0.47	0.00671	0.0495	151.836	0.49	0.809
+3VMjPJn47UzU5th4OhPefF	Enter Shikari	Dear Future Historians...	GBNPA1400092	27	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.402	0.256	7.68e-05	0.0372	172.594	0.115	0.242
+0OHLcL7NuXEMD7UvWjXoz0	ROLE MODEL	masturbation song	USUM72202388	53	bedroom pop,pop	0.748	0.309	0.194	0.0328	141.582	0.356	0.265
+3dmsQjlbcyyn1IUo9dSAJE	ROLE MODEL	if jesus saves, she's my type	USUM72201152	58	bedroom pop,pop	0.335	0.759	0.0245	0.0384	153.008	0.809	0.549
+3M9WDUmPCwpkwoItsRlOT2	ROLE MODEL	save a seat	USUM72202393	49	bedroom pop,pop	0.56	0.605	0.000311	0.0419	151.961	0.265	0.353
+1BzYFQWjXHLZ0c7AGJtL1Z	ROLE MODEL	forever&more	USUM72111019	63	bedroom pop,pop	0.279	0.64	1.18e-05	0.109	168.03	0.484	0.645
+6sBAlJ2mhfHHxf8XLURHSO	ROLE MODEL	who hurt you	USUM72202390	54	bedroom pop,pop	0.238	0.839	3.42e-05	0.0742	116.99	0.672	0.497
+1XyL3J7eTTKnxRZAM3LqIT	Madcon	Beggin (original version)	NOBLV0703011	69	dance pop,norwegian hip hop,pop rap	0.0271	0.715	0.0	0.057	129.023	0.445	0.8
+44g8frfeEaUkUAqjiimK5j	Shift K3Y	Only You	GBARL1702292	28	deep groove house,house,pop dance,tropical house,uk dance	0.0269	0.724	1.13e-06	0.0423	125.003	0.625	0.866
+5KvRFKrsapVHYNzoM7rDUw	CLiQ,Alika	Wavey (feat. Alika)	GBARL1702029	52		0.162	0.837	0.000251	0.22	122.948	0.681	0.769
+1ZQnV7ePl8yXoLjPfhWE5L	MK,Becky Hill	Piece of Me	GBARL1600317	63	dance pop,deep groove house,house,pop dance,tropical house	0.00565	0.68	0.0	0.0844	121.961	0.669	0.913
+2KYnSFIrSbaKUXWetW7Klt	Paul Woolford,Diplo,Kareen Lomax	Looking For Me	USZ4V2000222	61	deep groove house,house,pop dance,tropical house,uk dance,uk house	0.00441	0.641	0.000862	0.0288	121.027	0.449	0.529
+3MK2rvp7XjarzRKFrPGMOb	James Hype,Tita Lau	Disconnected	ZZOPM2117765	63	dance pop,deep groove house,edm,house,pop dance,tropical house,uk dance	0.00579	0.842	0.176	0.109	125.995	0.594	0.811
+1MOGJQsVeaRcXY6heJz5UZ	DR. KUCHO!,Gregor Salto,Ane Brun,Oliver Heldens	Can't Stop Playing (Makes Me High) [feat. Ane Brun] - Oliver Heldens & Gregor Salto Vocal Mix Edit	NLZ541500027	54		0.0863	0.708	0.000179	0.0408	125.002	0.75	0.904
+6HVRRlc2sBlkcKEkhlsp86	Massimo Pericolo,Crookers	STUPIDO	ITRWL2000103	65	italian hip hop,trap metal italiana	0.708	0.404	2.19e-05	0.364	86.711	0.36	0.529
+42Kznon0GBYL1bU24DkZSm	Flume,T-Shirt	On Top	AUFF00500382	51	australian dance,australian electropop,australian indie,downtempo,edm	0.00937	0.527	6.65e-05	0.206	93.019	0.326	0.757
+5YSR0sWUZk7NuIbkycxndu	Rkomi,Sfera Ebbasta,Junior K	NUOVO RANGE (con SFERA EBBASTA)	ITUM72100203	69	italian hip hop	0.233	0.68	0.0	0.0556	82.54	0.709	0.76
+0GsZZWhBMIQXAmPYPJ3PRQ	Rkomi	INSUPERABILE	ITUM72200018	71	italian hip hop	0.0344	0.667	0.0	0.0851	122.035	0.84	0.848
+6HfrOVSQECKjnSFQABkMRU	Massimo Pericolo,Crookers	BANG BANG	ITRWL2000091	40	italian hip hop,trap metal italiana	0.0235	0.596	2.72e-05	0.105	75.042	0.398	0.675
+7tZ3j6ftRvAWfuMLrOVEfr	Massimo Pericolo,Crookers,J Lord	TROIA (feat. J Lord)	ITRWL2000101	51	italian hip hop,trap metal italiana	0.359	0.564	0.0	0.0893	79.022	0.488	0.708
+7oxxe7UvUMAfEhvDpuXgiM	Massimo Pericolo,Crookers,Goedi	100K	ITRWL2000098	41	italian hip hop,trap metal italiana	0.00925	0.597	8.64e-05	0.0432	170.069	0.193	0.798
+7CTMeG3rXaCb0FxVifjS0t	Massimo Pericolo,Crookers	BUGIE	ITRWL2000094	49	italian hip hop,trap metal italiana	0.348	0.511	0.0	0.141	89.826	0.162	0.568
+2ab0O64UrgFNMsVroHUQKj	Massimo Pericolo,Crookers,Goedi	G	ITRWL2000097	45	italian hip hop,trap metal italiana	0.0807	0.631	0.0	0.154	87.472	0.522	0.832
+4MTlIhliwFJnTfbEoctDyB	Massimo Pericolo,Crookers,Madame	AIRFORCE (feat. Madame)	ITRWL2000090	60	italian hip hop,trap metal italiana	0.394	0.458	0.0	0.18	78.54	0.353	0.625
+36Ikk19un5zQiSzZmQqhhs	Massimo Pericolo,Crookers	SAI SOLO SCOPARE!	ITRWL2000099	43	italian hip hop,trap metal italiana	0.132	0.639	0.0	0.0324	141.909	0.659	0.78
+20t66ReqDDum1dvDSlpZzk	Massimo Pericolo,Crookers,Salmo,Nic Sarno	CAZZO CULO (feat. Salmo)	ITRWL2000096	49	italian hip hop,trap metal italiana	0.0279	0.52	0.0	0.168	158.094	0.492	0.599
+1MEznYdUSMGriy96I3XAp1	Massimo Pericolo,Crookers	DEBITI	ITRWL2000092	46	italian hip hop,trap metal italiana	0.0156	0.541	1.78e-05	0.0422	108.204	0.419	0.789
+1tjOgR3A8vzYKXpqjkVgec	Massimo Pericolo,Crookers,Venerus,Nic Sarno	CASA NUOVA (feat. Venerus)	ITRWL2000095	51	italian hip hop,trap metal italiana	0.127	0.5	0.0	0.184	167.963	0.247	0.644
+2vnwGU628mvNPDN8zxZ9n8	Dardust	Prisma (Acoustic)	USSM11906423	38	compositional ambient,italian electronica,neo-classical,rome indie	0.765	0.196	0.914	0.0322	80.037	0.136	0.267
+1Wbc0N0X1zkFqnKGcj8Quh	Massimo Pericolo,Crookers,Nic Sarno	Polo nord - C+N Progressive Mix	ITRWL1900078	59	italian hip hop,trap metal italiana	0.00619	0.645	0.00297	0.0347	126.011	0.174	0.895
+5YESYAHcr5GpjheBegwFd4	The Story So Far	Heavy Gloom	USSTT1500080	49	alternative emo,anthem emo,emo,pop punk,rock	0.000694	0.521	0.0	0.085	101.954	0.36	0.96
+67vjEOTkBppbVLUUq5mEJz	Massimo Pericolo,Crookers,Nic Sarno	7 miliardi	ITRWL1900015	54	italian hip hop,trap metal italiana	0.0324	0.307	0.000678	0.14	142.92	0.362	0.74
+0UDguz1Gt4EnkJWrIFat0Y	Ketama126,Franco	04:20 (feat. Franco)	GB7FY1500062	34	drill italiana,emo rap italiano,italian hip hop,trap italiana	0.118	0.614	0.0	0.28	163.035	0.789	0.713
+0uRpMq3EN9WxJrJhtogvlx	Ministri	Diritto Al Tetto	ITUM70800559	25	italian alternative,italian indie pop	0.025	0.503	0.0	0.154	158.072	0.628	0.941
+5sImDvierE5Q1IaPbSrMP5	Ministri	Il Futuro E' Una Trappola	ITUM70801591	15	italian alternative,italian indie pop	0.375	0.579	0.000498	0.0461	152.043	0.156	0.744
+2ESnkXWPJ14Wl9OCgDNnvn	Norma Jean	The Lash Whistled Like A Singing Wind	USRZR1333707	20	american metalcore,christian hardcore,christian metal,deathcore,melodic metalcore,metalcore,post-hardcore,screamo	0.000111	0.244	0.00655	0.191	106.099	0.0557	0.977
+6NJIVPLibEF5AiiqLocczI	Enter Shikari	The One True Colour	GBNPA1400083	31	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.000202	0.514	0.000342	0.0355	112.029	0.239	0.86
+3OWL2bnevP9SJV0YMbrGIm	Enter Shikari	Myopia	GBNPA1400087	27	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.000484	0.417	0.00177	0.0534	167.896	0.134	0.832
+2sfKSIyZ6hp046vKzAre9t	Enter Shikari	An Ode to Lost Jigsaw Pieces	GBENL1701944	34	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.106	0.218	0.000228	0.0285	85.826	0.255	0.418
+6XOteczT6WBQFk2AGTwA2X	Enter Shikari	Pack of Thieves	GBNPA1100034	24	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.00109	0.37	1.67e-06	0.0712	125.033	0.283	0.892
+3Ls9yKzshQye18Tx2AvOb6	Salmo	90MIN	ITB001800495	57	italian hip hop,italian underground hip hop,rap sardegna	0.0253	0.549	0.0	0.309	122.002	0.513	0.765
+6hLEPly11XS3mFlG9AyO4T	ARIETE	CASTELLI DI LENZUOLA	ITLGE2100121	60	italian indie pop,rome indie	0.589	0.602	0.0	0.0337	99.977	0.186	0.556
+6Uj1ctrBOjOas8xZXGqKk4	Doja Cat	Woman	USRC12101532	90	dance pop,pop	0.0888	0.824	0.00294	0.0854	107.998	0.881	0.764
+4fouWK6XVHhzl78KzQ1UjL	GAYLE	abcdefu	USAT22103652	91	modern alternative pop	0.299	0.695	0.0	0.0493	121.932	0.415	0.54
+6JIC3hbC28JZKZ8AlAqX8h	Elton John,Dua Lipa,PNAU	Cold Heart - PNAU Remix	GBUM72104705	83	glam rock,mellow gold,piano rock	0.0354	0.795	7.25e-05	0.0309	116.032	0.934	0.8
+1HhNoOuqm1a5MXYEgAFl8o	Imagine Dragons,JID,Arcane,League of Legends	Enemy (with JID) - from the series Arcane League of Legends	USUM72119916	83	modern rock,rock	0.237	0.728	0.0	0.266	77.011	0.555	0.783
+5PjdY0CKGZdEuoNab3yDmX	The Kid LAROI,Justin Bieber	STAY (with Justin Bieber)	USSM12103949	87	australian hip hop	0.0383	0.591	0.0	0.0483	169.928	0.478	0.764
+02MWAaffLxlfxAUY7c5dvx	Glass Animals	Heat Waves	GBUM72000433	89	gauze pop,indietronica,shiver pop	0.44	0.761	6.7e-06	0.0944	80.87	0.531	0.525
+1rDQ4oMwGJI7B4tovsBOxc	Jack Harlow	First Class	USAT22203024	94	deep underground hip hop,kentucky hip hop,rap	0.0254	0.905	9.71e-06	0.102	106.998	0.324	0.563
+4LRPiXqCikLlN15c3yImP7	Harry Styles	As It Was	USSM12200612	100	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+4cLdpErILMO8Db8pQVAVcZ	Deftones	Mascara	USMV29700144	65	alternative metal,nu metal,rap metal,rock,sacramento indie	0.00273	0.472	0.0606	0.0354	77.562	0.0456	0.446
+28q0pUwcJRS2tGZsYH6xL5	Deftones	Lhabia	USMV29700143	55	alternative metal,nu metal,rap metal,rock,sacramento indie	4.34e-05	0.382	0.889	0.233	150.757	0.151	0.988
+2LScqpywMqGcnum6nNaxXX	Baccara	Yes Sir, I Can Boogie	DEC760000065	62	classic uk pop,disco,europop,italian disco	0.127	0.454	3.23e-06	0.0814	122.531	0.491	0.769
+1IWzfq3sLedGQ3fb2hAMBA	SNAP!	Rhythm Is A Dancer	DET189200600	63	diva house,eurodance,europop,german techno,hip house	0.214	0.757	0.261	0.0333	124.368	0.861	0.651
+6PwxotrB99xgatKVzibmkz	Enter Shikari	Sorry You're Not a Winner	GBNPA0700007	51	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.112	0.381	0.000388	0.348	128.962	0.346	0.955
+24U5z1VTYwsx9IpwEOxkga	Enter Shikari	Mothership - Demo	GBNPA0600009	37	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.00095	0.461	0.0	0.0924	143.994	0.231	0.925
+6tq3UoS6qnUBF2F8NV2xtj	Enter Shikari	The Embers	GBENL1701945	24	nintendocore,trancecore,uk metalcore,uk post-hardcore	0.615	0.162	0.947	0.0455	132.564	0.231	0.107

@@ -1,0 +1,45 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: rap underground espanol (6.45%)
+	2: spanish hip hop (6.45%)
+	3: urbano espanol (6.45%)
+	4: musica catalana (6.45%)
+	5: latin alternative (5.38%)
+Top artists
+	1: Rihanna (4.00%)
+	2: Recycled J (4.00%)
+	3: La Gossa Sorda (4.00%)
+	4: Hechos Contra El Decoro (4.00%)
+	5: Kabasaki (4.00%)
+Top country
+	1: ES (37.04%)
+	2: GB (22.22%)
+	3: AR (11.11%)
+	4: QM (7.41%)
+	5: UY (7.41%)
+Top record
+	1: 824 (14.81%)
+	2: A01 (14.81%)
+	3: MA2 (11.11%)
+	4: H12 (7.41%)
+	5: EZZ (3.70%)
+Top year
+	1: 21 (18.52%)
+	2: 17 (11.11%)
+	3: 16 (11.11%)
+	4: 18 (7.41%)
+	5: 13 (7.41%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
+mean    41.592593      0.193858      0.616296          0.009848     0.088885  109.297593   0.523826   0.710296
+std     19.087368      0.226130      0.156124          0.034358     0.094783   24.147417   0.220833   0.143595
+min      6.000000      0.002430      0.253000          0.000000     0.025700   72.967000   0.070300   0.377000
+25%     28.500000      0.031600      0.536000          0.000000     0.035900   92.442500   0.370500   0.664500
+50%     41.000000      0.079100      0.670000          0.000000     0.050700  104.973000   0.514000   0.754000
+75%     52.500000      0.313000      0.715000          0.000011     0.094250  120.037000   0.691000   0.796000
+max     83.000000      0.717000      0.833000          0.139000     0.445000  172.006000   0.952000   0.913000

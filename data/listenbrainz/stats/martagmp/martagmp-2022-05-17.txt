@@ -1,0 +1,40 @@
+Electronic artists found: Swedish House Mafia,Connie Constance, Riton,Oliver Heldens,Vula, Imanbek,Goodboys, Jax Jones,MNEK
+Electronic genres found: slap house, edm, tropical house, electro house, progressive electro house
+Electronic music logs found: 83.33% 
+
+Top genres
+	1: edm (13.16%)
+	2: pop dance (13.16%)
+	3: house (10.53%)
+	4: dance pop (10.53%)
+	5: electro house (10.53%)
+Top artists
+	1: Vula (10.00%)
+	2: Imanbek (10.00%)
+	3: Goodboys (10.00%)
+	4: Endor (10.00%)
+	5: Connie Constance (10.00%)
+Top country
+	1: GB (83.33%)
+	2: US (16.67%)
+Top record
+	1: UM7 (50.00%)
+	2: CPZ (16.67%)
+	3: UG1 (16.67%)
+	4: CEN (16.67%)
+Top year
+	1: 19 (33.33%)
+	2: 21 (33.33%)
+	3: 20 (16.67%)
+	4: 22 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    75.833333      0.102800      0.761333          0.001131     0.070833  126.202333  0.455150  0.825833
+std      6.306082      0.094797      0.076477          0.002386     0.074496    1.837443  0.212059  0.073850
+min     70.000000      0.012400      0.665000          0.000007     0.034600  124.051000  0.038900  0.738000
+25%     70.250000      0.016800      0.738000          0.000030     0.035425  125.017500  0.502000  0.782000
+50%     74.500000      0.102250      0.752000          0.000101     0.038750  126.035500  0.509500  0.805000
+75%     81.750000      0.182000      0.763000          0.000467     0.052125  127.034000  0.517000  0.877500
+max     83.000000      0.203000      0.899000          0.005980     0.222000  129.047000  0.654000  0.931000

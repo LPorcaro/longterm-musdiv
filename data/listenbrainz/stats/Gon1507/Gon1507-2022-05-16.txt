@@ -1,0 +1,45 @@
+Electronic artists found: Clean Bandit,Julia Michaels, Hooverphonic
+Electronic genres found: electronica, uk funky, edm, tropical house, downtempo, trip hop
+Electronic music logs found: 1.53% 
+
+Top genres
+	1: pop (18.52%)
+	2: swedish pop (16.93%)
+	3: electropop (13.23%)
+	4: art pop (11.64%)
+	5: eurovision (5.82%)
+Top artists
+	1: Vladana (2.17%)
+	2: Tate McRae (2.17%)
+	3: Senhit (2.17%)
+	4: STEFAN (2.17%)
+	5: Sheldon Riley (2.17%)
+Top country
+	1: US (26.72%)
+	2: SE (24.43%)
+	3: NO (9.16%)
+	4: AT (8.40%)
+	5: GB (3.05%)
+Top record
+	1: UM7 (33.59%)
+	2: 5YN (23.66%)
+	3: R98 (7.63%)
+	4: RC1 (6.11%)
+	5: PRR (3.05%)
+Top year
+	1: 22 (40.46%)
+	2: 21 (35.11%)
+	3: 19 (9.16%)
+	4: 12 (7.63%)
+	5: 20 (3.82%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  131.000000    131.000000    131.000000        131.000000   131.000000  131.000000  131.000000  131.000000
+mean    64.618321      0.338563      0.570863          0.031321     0.067581  108.282763    0.327693    0.523657
+std     12.173400      0.299404      0.142546          0.121828     0.065327   25.431136    0.187499    0.178584
+min     37.000000      0.002370      0.275000          0.000000     0.028200   62.446000    0.051700    0.056100
+25%     58.000000      0.099500      0.489000          0.000000     0.037200   91.559000    0.185000    0.393000
+50%     67.000000      0.200000      0.503000          0.000001     0.041100   97.875000    0.246000    0.533000
+75%     74.500000      0.557500      0.693500          0.000034     0.065000  124.075000    0.484000    0.616000
+max     86.000000      0.978000      0.939000          0.838000     0.372000  199.828000    0.955000    0.886000
