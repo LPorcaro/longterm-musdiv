@@ -1,0 +1,31 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: atl hip hop (14.29%)
+	2: contemporary r&b (14.29%)
+	3: dance pop (14.29%)
+	4: pop (14.29%)
+	5: r&b (14.29%)
+Top artists
+	1: Usher (33.33%)
+	2: Lil Jon (33.33%)
+	3: Ludacris (33.33%)
+Top country
+	1: US (100.00%)
+Top record
+	1: AR1 (100.00%)
+Top year
+	1: 03 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0        1.0000         1.000               1.0        1.000    1.000    1.000   1.000
+mean         80.0        0.0183         0.894               0.0        0.112  105.018    0.583   0.791
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          80.0        0.0183         0.894               0.0        0.112  105.018    0.583   0.791
+25%          80.0        0.0183         0.894               0.0        0.112  105.018    0.583   0.791
+50%          80.0        0.0183         0.894               0.0        0.112  105.018    0.583   0.791
+75%          80.0        0.0183         0.894               0.0        0.112  105.018    0.583   0.791
+max          80.0        0.0183         0.894               0.0        0.112  105.018    0.583   0.791

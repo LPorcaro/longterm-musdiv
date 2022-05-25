@@ -152,7 +152,11 @@ def create_div_list(num_list, sort_avg_dists, df_tracks, filenames):
                 df_list = df_tracks[df_tracks.yt_id.isin(
                     [filenames[x] for x in nn])]
                 list_genres = df_list.maingenre
-
+                if mgenre == 'hardcore':
+                    print(df_list)
+                    print(nn)
+                if 929 in nn:
+                    continue
                 if len(list_genres.unique()) > 3:
                     continue
                 elif list_genres.value_counts().to_dict()[mgenre] < 2:

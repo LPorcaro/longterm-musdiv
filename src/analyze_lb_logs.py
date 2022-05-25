@@ -35,9 +35,9 @@ NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
 # COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220315", "20220412"]]
 # POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220413", "20220510"]]
 
-PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220509", "20220605"]]
-COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220606", "20220703"]]
-POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220704", "20220801"]]
+PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220502", "20220529"]]
+COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220530", "20220626"]]
+POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220627", "20220725"]]
 
 
 HD = ['mapu25','catalinamanuela','dv248','ruiipereiraa','mariana02','acarolinab','mariiii','prolificuser','ritamont','LP22','francisco98','RickyLB','VeroBerardi','joaoms98','ossalatodipotassio','ddios','vampiregrave','ChiaraLh','SunshineT93','martagmp','Clara319','janybatista','annoyin9','Francisca','afonsoveiga','ruipedro3','tommyjarvis','RedPeppermint','Manhento','popu','Inês','Acemorais','deniseterzi','Bea_P','JohnnyMichaels','Apex23','ippo','Ruhdyy','An_Oxygen_Consumer','Alba_hontoria_96','BlueGiuly','Dinossaralho','aritahierro','brunix21','benfica15951','Vittoria','SofiiFreitas','gabriverce','Ana Wolfie','versilvia','RicardoCoelho8','outofljfe','andrespi','joaomdpaz','Ordep123','quicomedeiros','nowhereknows','dfilipa98','Lostveneto','itsmatild','diogojf','Ramiroowww','Ile.96','Gon1507','MayaIaia4','Solk','anasofiamachado','Gonçalo','Branky','silvawestcoast','MLN','HiddenTrack','Holt92','vrnk98','sarafdelgado','CarolFrancis','axel22','filippo_malocco','inxsc','5ea1c3f3e9fb240a9b243e18','rqlmarim','ilvapleuvoir','Capuchinho','mrndcn','aimonteiror','TheMusicWeirdo','tiagofcneves','olline','pirolocams','berenike','valxros','bpin','60f1881264ff3a7f211d186a','sneakysoup','giulispaggiari','LBS','Akromancer','Bruno10000silva','jshadyc','Luijinho','salvatore9','fraaa','Edu_Marques17','matiri95','ricxtreme','user112553','Chaps03','saturnzbarzs','Kyor','61141c855eb58d6a4e3d8d5b','Theossi2000']

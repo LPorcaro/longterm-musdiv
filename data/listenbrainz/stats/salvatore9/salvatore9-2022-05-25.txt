@@ -1,0 +1,32 @@
+Electronic artists found: Sigur Rós
+Electronic genres found: ethereal wave, compositional ambient
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: compositional ambient (14.29%)
+	2: dream pop (14.29%)
+	3: ethereal wave (14.29%)
+	4: icelandic rock (14.29%)
+	5: melancholia (14.29%)
+Top artists
+	1: Sigur Rós (100.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: DCA (60.00%)
+	2: KEE (40.00%)
+Top year
+	1: 99 (60.00%)
+	2: 14 (20.00%)
+	3: 05 (20.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    5.000000      5.000000      5.000000          5.000000     5.000000    5.000000  5.000000  5.000000
+mean    50.400000      0.447320      0.200000          0.708600     0.039500  127.743000  0.119280  0.422400
+std      3.361547      0.289431      0.071232          0.283881     0.008376   21.455499  0.081135  0.132621
+min     47.000000      0.035600      0.114000          0.225000     0.030800   89.535000  0.037800  0.198000
+25%     48.000000      0.330000      0.184000          0.702000     0.031300  134.418000  0.057200  0.423000
+50%     49.000000      0.496000      0.190000          0.798000     0.039900  136.913000  0.095400  0.466000
+75%     54.000000      0.557000      0.200000          0.901000     0.046900  137.740000  0.178000  0.482000
+max     54.000000      0.818000      0.312000          0.917000     0.048600  140.109000  0.228000  0.543000

@@ -1,19 +1,19 @@
-Electronic artists found: SAINt JHN,Imanbek, Hippie Sabotage, Travis Scott, The Underdog Project,Summermix, Midsplit,No-One,bhea,A-SHO, LEOWI
-Electronic genres found: slap house, electronic trap, edm, pop edm, lithuanian edm
+Electronic artists found: Travis Scott, LEOWI, Hippie Sabotage, SAINt JHN,Imanbek, Midsplit,No-One,bhea,A-SHO, The Underdog Project,Summermix
+Electronic genres found: edm, lithuanian edm, slap house, electronic trap, pop edm
 Electronic music logs found: 13.85% 
 
 Top genres
-	1: dance pop (10.26%)
-	2: pop (10.26%)
-	3: hip hop tuga (7.92%)
-	4: pop rap (5.28%)
-	5: urban contemporary (5.28%)
+	1: dance pop (10.45%)
+	2: pop (10.45%)
+	3: hip hop tuga (7.16%)
+	4: pop rap (5.37%)
+	5: urban contemporary (5.37%)
 Top artists
-	1: Bárbara Bandeira (0.72%)
-	2: Dathan (0.72%)
-	3: Madonna (0.72%)
-	4: Jack Asher Sato (0.72%)
-	5: Bangers Only (0.72%)
+	1: Travis Scott (0.72%)
+	2: MICS (0.72%)
+	3: Brennan Savage (0.72%)
+	4: Santana (0.72%)
+	5: Ludacris (0.72%)
 Top country
 	1: US (47.69%)
 	2: PT (17.69%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  130.000000    130.000000    130.000000        130.000000   130.000000  130.000000  130.000000  130.000000
-mean    58.446154      0.285276      0.679000          0.048530     0.128673  118.091254    0.465527    0.597854
-std     15.461912      0.276756      0.139297          0.149553     0.113348   24.502406    0.222489    0.147089
+mean    58.538462      0.285276      0.679000          0.048530     0.128673  118.091254    0.465527    0.597854
+std     15.493011      0.276756      0.139297          0.149553     0.113348   24.502406    0.222489    0.147089
 min     24.000000      0.000177      0.356000          0.000000     0.028100   67.443000    0.038000    0.181000
 25%     45.000000      0.039700      0.580250          0.000000     0.046275   99.112000    0.274250    0.508250
 50%     56.500000      0.181500      0.694000          0.000001     0.076600  119.997500    0.445500    0.605000

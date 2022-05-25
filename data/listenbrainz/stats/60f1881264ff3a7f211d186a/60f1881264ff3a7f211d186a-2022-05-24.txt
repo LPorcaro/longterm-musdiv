@@ -1,0 +1,44 @@
+Electronic artists found: James Hype,Miggy Dela Rosa
+Electronic genres found: tropical house, edm
+Electronic music logs found: 12.50% 
+
+Top genres
+	1: alternative r&b (7.69%)
+	2: viral pop (7.69%)
+	3: italian indie pop (7.69%)
+	4: metalcore (3.85%)
+	5: post-screamo (3.85%)
+Top artists
+	1: Miggy Dela Rosa (12.50%)
+	2: James Hype (12.50%)
+	3: Bad Omens (12.50%)
+	4: Afroman (12.50%)
+	5: Calcutta  (12.50%)
+Top country
+	1: ZZ (25.00%)
+	2: US (25.00%)
+	3: GB (25.00%)
+	4: IT (25.00%)
+Top record
+	1: OPM (25.00%)
+	2: YFZ (12.50%)
+	3: CEL (12.50%)
+	4: KZ9 (12.50%)
+	5: L77 (12.50%)
+Top year
+	1: 15 (37.50%)
+	2: 18 (12.50%)
+	3: 07 (12.50%)
+	4: 19 (12.50%)
+	5: 01 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    8.000000      8.000000      8.000000          8.000000     8.000000    8.000000  8.000000  8.000000
+mean    66.000000      0.200632      0.647875          0.000806     0.109038  130.154250  0.464250  0.659000
+std     15.537972      0.210625      0.181117          0.002092     0.116074   29.236731  0.204555  0.206923
+min     37.000000      0.001090      0.430000          0.000000     0.026100   88.964000  0.248000  0.367000
+25%     57.000000      0.010242      0.523250          0.000001     0.044750  112.541750  0.282000  0.477000
+50%     67.500000      0.148700      0.574000          0.000058     0.076900  129.022000  0.446000  0.670000
+75%     78.750000      0.349250      0.804250          0.000127     0.108500  147.146500  0.605000  0.819500
+max     83.000000      0.544000      0.927000          0.005980     0.382000  170.081000  0.746000  0.945000

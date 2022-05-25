@@ -1,0 +1,45 @@
+Electronic artists found: STRFKR, Sebastian Ingrosso,Tommy Trash,John Martin
+Electronic genres found: chillwave, progressive house, electro house, progressive electro house, edm
+Electronic music logs found: 3.45% 
+
+Top genres
+	1: modern rock (15.45%)
+	2: rock (8.58%)
+	3: indie rock (6.87%)
+	4: indie pop (5.58%)
+	5: modern alternative rock (4.72%)
+Top artists
+	1: Circa Waves (2.22%)
+	2: Adele (2.22%)
+	3: Foster The People (2.22%)
+	4: Vampire Weekend (2.22%)
+	5: Paulina Eisenberg (2.22%)
+Top country
+	1: GB (32.76%)
+	2: US (25.86%)
+	3: QM (8.62%)
+	4: AU (6.90%)
+	5: FR (6.90%)
+Top record
+	1: BKS (6.90%)
+	2: AT2 (6.90%)
+	3: UM7 (6.90%)
+	4: CEL (6.90%)
+	5: ZUZ (5.17%)
+Top year
+	1: 07 (12.07%)
+	2: 13 (10.34%)
+	3: 09 (8.62%)
+	4: 17 (8.62%)
+	5: 18 (6.90%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   58.000000     58.000000     58.000000         58.000000    58.000000   58.000000  58.000000  58.000000
+mean    64.965517      0.113094      0.566828          0.107931     0.052109  127.586621   0.542259   0.724810
+std      9.631756      0.178411      0.150379          0.235866     0.035378   28.004621   0.216955   0.144261
+min     42.000000      0.000252      0.174000          0.000000     0.025900   74.991000   0.172000   0.435000
+25%     59.250000      0.007347      0.488500          0.000004     0.035100  102.749250   0.365000   0.604000
+50%     65.000000      0.043200      0.561500          0.000438     0.041650  128.567500   0.550000   0.752000
+75%     72.750000      0.135000      0.660750          0.051675     0.053200  151.252000   0.718250   0.827750
+max     83.000000      0.887000      0.900000          0.941000     0.258000  174.917000   0.965000   0.952000

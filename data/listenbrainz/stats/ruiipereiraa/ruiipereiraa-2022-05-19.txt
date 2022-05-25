@@ -1,0 +1,45 @@
+Electronic artists found: Metronomy, Caravan Palace
+Electronic genres found: electronica, electro swing
+Electronic music logs found: 5.56% 
+
+Top genres
+	1: hip hop (10.56%)
+	2: rap (10.56%)
+	3: conscious hip hop (5.59%)
+	4: pop (4.97%)
+	5: west coast rap (4.97%)
+Top artists
+	1: Bren Joy (1.67%)
+	2: Freitera (1.67%)
+	3: Caravan Palace (1.67%)
+	4: Jungle (1.67%)
+	5: James Blake (1.67%)
+Top country
+	1: US (55.56%)
+	2: GB (12.96%)
+	3: AU (9.26%)
+	4: PT (7.41%)
+	5: QZ (5.56%)
+Top record
+	1: UM7 (29.63%)
+	2: FF8 (7.41%)
+	3: RC1 (5.56%)
+	4: UYG (3.70%)
+	5: QX9 (3.70%)
+Top year
+	1: 22 (18.52%)
+	2: 19 (16.67%)
+	3: 20 (12.96%)
+	4: 21 (7.41%)
+	5: 13 (7.41%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   54.000000     54.000000     54.000000         54.000000    54.000000   54.000000  54.000000  54.000000
+mean    59.555556      0.325168      0.662463          0.027778     0.183831  122.109630   0.489539   0.597630
+std     14.361461      0.270417      0.119954          0.088551     0.130252   31.103511   0.212852   0.185503
+min     29.000000      0.001020      0.419000          0.000000     0.029200   73.040000   0.064800   0.132000
+25%     51.250000      0.063475      0.575500          0.000000     0.072075   97.000750   0.341000   0.488750
+50%     59.500000      0.305500      0.652000          0.000070     0.169500  120.017500   0.516000   0.609500
+75%     71.250000      0.444500      0.764500          0.004662     0.265750  140.056000   0.597250   0.718250
+max     89.000000      0.928000      0.964000          0.559000     0.523000  192.296000   0.905000   0.938000

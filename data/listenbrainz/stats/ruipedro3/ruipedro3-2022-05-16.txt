@@ -1,19 +1,19 @@
-Electronic artists found: LCD Soundsystem, Sebastian Ingrosso,Tommy Trash,John Martin, Mac DeMarco, David Guetta,Sam Martin, Swedish House Mafia,Pharrell Williams, Don Diablo,AR/CO, WU LYF
-Electronic genres found: future house, electronica, edm, tropical house, edmonton indie, chillwave, electro house, progressive house, progressive electro house
+Electronic artists found: Sebastian Ingrosso,Tommy Trash,John Martin, Mac DeMarco, LCD Soundsystem, Swedish House Mafia,Pharrell Williams, David Guetta,Sam Martin, WU LYF, Don Diablo,AR/CO
+Electronic genres found: electronica, chillwave, progressive house, electro house, tropical house, progressive electro house, edmonton indie, edm, future house
 Electronic music logs found: 10.77% 
 
 Top genres
-	1: modern rock (12.80%)
-	2: indie pop (10.90%)
-	3: rock (5.21%)
-	4: pop (4.27%)
-	5: pop rock (3.79%)
+	1: modern rock (12.92%)
+	2: indie pop (11.00%)
+	3: rock (5.26%)
+	4: pop (4.31%)
+	5: modern alternative rock (3.35%)
 Top artists
-	1: Alfie Templeman (1.64%)
-	2: LCD Soundsystem (1.64%)
-	3: The Strokes (1.64%)
-	4: Bombay Bicycle Club (1.64%)
-	5: Mac DeMarco (1.64%)
+	1: Circa Waves (1.64%)
+	2: Dominic Fike (1.64%)
+	3: Bombay Bicycle Club (1.64%)
+	4: Declan McKenna (1.64%)
+	5: AR/CO (1.64%)
 Top country
 	1: GB (35.38%)
 	2: US (26.15%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   65.000000     65.000000     65.000000         65.000000     65.00000   65.000000  65.000000  65.000000
-mean    58.400000      0.116368      0.575677          0.095057      0.06078  126.488385   0.622354   0.739169
-std     12.369064      0.166740      0.150359          0.231464      0.04882   27.831865   0.195133   0.133009
+mean    58.476923      0.116368      0.575677          0.095057      0.06078  126.488385   0.622354   0.739169
+std     12.354285      0.166740      0.150359          0.231464      0.04882   27.831865   0.195133   0.133009
 min     27.000000      0.000001      0.244000          0.000000      0.02660   74.991000   0.176000   0.336000
 25%     50.000000      0.006960      0.473000          0.000008      0.03230  105.220000   0.464000   0.643000
 50%     59.000000      0.041700      0.577000          0.000360      0.04300  124.915000   0.671000   0.743000

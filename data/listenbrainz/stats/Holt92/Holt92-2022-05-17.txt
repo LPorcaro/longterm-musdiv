@@ -1,43 +1,45 @@
-Electronic artists found: Viva La Panda,Finding Molly, Zack Martino,Jay Mason, Boye & Sigvardt,Kiesza
-Electronic genres found: danish electronic, pop edm, tropical house, deep tropical house, deep house
-Electronic music logs found: 27.27% 
+Electronic artists found: Uplink,Alex Skrindo,Axol, Axwell /\ Ingrosso,RØMANS,BROHUG, Merk & Kremont, Jordan Jay, Abedz, Raven & Kreyn, Major Lazer,Travis Scott,Camila Cabello,Quavo,Laibert, RetroVision,AWR, Lucky Luke, Thomas Gold, Da Tweekaz,Marion Kelly, ellis,MALARKEY,Tom Westy, Dirty Palm, Redondo,Junior J, Black Coffee,David Guetta,Delilah Montagu, Jasted, Captain Cuts,Zookëper,Georgia Ku, Boye & Sigvardt,Kiesza, Toby Green, Ash O'Connor, Cash Cash,ABIR,Madison Mars, Virtual Riot,PRXZM, Virtual Riot, Zack Martino,Jay Mason, Trinix, Viva La Panda,Finding Molly, CID
+Electronic genres found: pop edm, deep tropical house, deep tech house, brostep, rawstyle, melbourne bounce international, german techno, russian edm, future bass, funky tech house, danish electronic, disco house, electro house, tropical house, lithuanian electronic, progressive electro house, melodic dubstep, deep house, moombahton, progressive house, complextro, euphoric hardstyle, gaming edm, gaming dubstep, bass house, classic hardstyle, dubstep, edm, future house
+Electronic music logs found: 43.28% 
 
 Top genres
-	1: pop edm (28.57%)
-	2: deep house (14.29%)
-	3: deep tropical house (14.29%)
-	4: tropical house (14.29%)
-	5: danish electronic (14.29%)
+	1: electro house (10.45%)
+	2: edm (7.46%)
+	3: pop edm (7.46%)
+	4: pop dance (4.48%)
+	5: tropical house (4.48%)
 Top artists
-	1: Salukii (11.11%)
-	2: Kiesza (11.11%)
-	3: Tevvez (11.11%)
-	4: Zack Martino (11.11%)
-	5: Jay Mason (11.11%)
+	1: Georgia Ku (1.16%)
+	2: PRXZM (1.16%)
+	3: Merk & Kremont (1.16%)
+	4: Jordan Jay (1.16%)
+	5: Lana Lubany (1.16%)
 Top country
-	1: QZ (63.64%)
-	2: QM (9.09%)
-	3: NL (9.09%)
-	4: DK (9.09%)
-	5: FR (9.09%)
+	1: QZ (26.87%)
+	2: GB (17.91%)
+	3: US (8.96%)
+	4: TC (7.46%)
+	5: NL (7.46%)
 Top record
-	1: ES8 (45.45%)
-	2: 6MZ (9.09%)
-	3: F71 (9.09%)
-	4: FJ4 (9.09%)
-	5: 96X (9.09%)
+	1: 2LD (13.43%)
+	2: HN3 (13.43%)
+	3: 5Q5 (7.46%)
+	4: ES8 (7.46%)
+	5: F71 (5.97%)
 Top year
-	1: 22 (45.45%)
-	2: 20 (36.36%)
-	3: 21 (18.18%)
+	1: 18 (28.36%)
+	2: 21 (23.88%)
+	3: 17 (22.39%)
+	4: 22 (7.46%)
+	5: 15 (5.97%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
-count   11.000000     11.000000     11.000000         11.000000    11.000000   11.000000  11.00000  11.000000
-mean    48.181818      0.045055      0.630182          0.432605     0.085009  105.262818   0.35300   0.685455
-std     13.811721      0.028636      0.095150          0.308662     0.032687   30.482430   0.16643   0.116715
-min     18.000000      0.004910      0.451000          0.000027     0.028900   74.976000   0.12000   0.569000
-25%     38.500000      0.034300      0.614000          0.215150     0.069000   74.976000   0.21200   0.569000
-50%     57.000000      0.034300      0.614000          0.521000     0.085700  121.019000   0.41800   0.738000
-75%     57.000000      0.049600      0.683500          0.521000     0.114000  122.961000   0.41800   0.766500
-max     59.000000      0.117000      0.805000          0.877000     0.114000  149.948000   0.66900   0.868000
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   67.000000     67.000000     67.000000         67.000000    67.000000   67.000000  67.000000  67.000000
+mean    28.865672      0.073640      0.650985          0.218506     0.082600  127.318836   0.408834   0.820254
+std     16.384486      0.104344      0.100149          0.287435     0.041554   23.485614   0.213189   0.126766
+min      0.000000      0.000846      0.448000          0.000000     0.028900   74.976000   0.039700   0.494000
+25%     18.000000      0.007820      0.580000          0.000096     0.052200  121.480000   0.239000   0.744000
+50%     28.000000      0.034300      0.657000          0.045200     0.070300  125.018000   0.391000   0.809000
+75%     39.000000      0.096300      0.704000          0.355000     0.113000  128.030000   0.607500   0.930500
+max     60.000000      0.564000      0.964000          0.892000     0.206000  180.038000   0.797000   0.988000

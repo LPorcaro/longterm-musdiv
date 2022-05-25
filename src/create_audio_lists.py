@@ -62,9 +62,9 @@ if __name__ == "__main__":
         list_div_genres, list_not_div_genres) = import_lists()
 
 
-    for c, tracklist in enumerate(list_not_div):
+    for c, tracklist in enumerate(list_div):
 
-        if c != 2:
+        if c != 5:
             continue
 
         audioslist_file = []

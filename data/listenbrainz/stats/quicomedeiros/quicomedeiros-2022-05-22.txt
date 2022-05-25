@@ -1,0 +1,45 @@
+Electronic artists found: David Guetta,Kid Cudi, Mabel, League of Legends,The Glitch Mob,Mako,The Word Alive, MEDUZA,Goodboys, Supa Squad,Deejay Telio,Deedz B
+Electronic genres found: tropical house, moombahton, edm, video game music
+Electronic music logs found: 6.74% 
+
+Top genres
+	1: rap (8.40%)
+	2: brooklyn drill (8.00%)
+	3: pop (7.60%)
+	4: trap (5.60%)
+	5: pop rap (5.60%)
+Top artists
+	1: Burna Boy (1.06%)
+	2: Roddy Ricch (1.06%)
+	3: Post Malone (1.06%)
+	4: The Script (1.06%)
+	5: LON3R JOHNY (1.06%)
+Top country
+	1: US (57.30%)
+	2: PT (8.99%)
+	3: ES (6.74%)
+	4: QZ (4.49%)
+	5: FR (4.49%)
+Top record
+	1: UM7 (34.83%)
+	2: SM1 (8.99%)
+	3: 71G (6.74%)
+	4: UG1 (4.49%)
+	5: AT2 (4.49%)
+Top year
+	1: 20 (28.09%)
+	2: 19 (22.47%)
+	3: 18 (17.98%)
+	4: 21 (6.74%)
+	5: 17 (5.62%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   89.000000     89.000000     89.000000         89.000000    89.000000   89.000000  89.000000  89.000000
+mean    64.337079      0.201445      0.686551          0.002012     0.162601  124.149989   0.459490   0.639551
+std     15.275458      0.178178      0.123072          0.014217     0.126014   27.102426   0.190543   0.151187
+min     31.000000      0.000526      0.368000          0.000000     0.027300   74.868000   0.056700   0.205000
+25%     56.000000      0.065400      0.578000          0.000000     0.055900  100.049000   0.322000   0.539000
+50%     71.000000      0.125000      0.709000          0.000000     0.120000  126.039000   0.471000   0.653000
+75%     77.000000      0.331000      0.789000          0.000003     0.242000  142.791000   0.612000   0.732000
+max     88.000000      0.650000      0.928000          0.130000     0.505000  188.359000   0.913000   0.941000

@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: italian hip hop (38.00%)
-	2: italian underground hip hop (25.33%)
-	3: italian indie pop (18.67%)
-	4: italian pop (8.67%)
-	5: milan indie (8.67%)
+	1: italian hip hop (38.78%)
+	2: italian underground hip hop (25.85%)
+	3: italian indie pop (17.01%)
+	4: italian pop (8.84%)
+	5: milan indie (8.84%)
 Top artists
-	1: Frenetik&Orang3 (2.04%)
-	2: Sace (2.04%)
-	3: Principe (2.04%)
-	4: Oyoshe (2.04%)
-	5: DogonNogoD (2.04%)
+	1: Kento (2.04%)
+	2: Aban (2.04%)
+	3: Tormento (2.04%)
+	4: DJ Myke (2.04%)
+	5: Murubutu (2.04%)
 Top country
 	1: IT (100.00%)
 Top record
@@ -32,8 +32,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   58.000000     58.000000     58.000000         58.000000    58.000000   58.000000  58.000000  58.000000
-mean    36.603448      0.215730      0.678121          0.014072     0.277576  118.793121   0.512145   0.676931
-std      9.918863      0.197795      0.124440          0.064281     0.117616   32.207954   0.219332   0.144856
+mean    36.586207      0.215730      0.678121          0.014072     0.277576  118.793121   0.512145   0.676931
+std      9.885368      0.197795      0.124440          0.064281     0.117616   32.207954   0.219332   0.144856
 min     20.000000      0.008740      0.449000          0.000000     0.034100   72.603000   0.042500   0.308000
 25%     28.000000      0.068825      0.600500          0.000000     0.219000   91.373750   0.353500   0.577750
 50%     36.500000      0.157000      0.661500          0.000000     0.274500  112.950000   0.557000   0.700000

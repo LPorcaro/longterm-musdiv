@@ -1,19 +1,19 @@
-Electronic artists found: SAINt JHN,Imanbek, WE ARE FURY,Micah Martin, Jordan Jay,HUTS, Facading, Vosai,Facading,Linn Sandin, Besomorph,N3WPORT,Meo, Heuse,Clonethekid
-Electronic genres found: slap house, melodic dubstep, pop edm, gaming edm, future bass
+Electronic artists found: Heuse,Clonethekid, Facading, SAINt JHN,Imanbek, Besomorph,N3WPORT,Meo, WE ARE FURY,Micah Martin, Vosai,Facading,Linn Sandin, Jordan Jay,HUTS
+Electronic genres found: gaming edm, pop edm, future bass, melodic dubstep, slap house
 Electronic music logs found: 15.07% 
 
 Top genres
-	1: pop rap (8.46%)
-	2: pop (8.46%)
-	3: traprun (7.69%)
-	4: melodic rap (4.62%)
-	5: rap (4.62%)
+	1: pop rap (8.53%)
+	2: pop (8.53%)
+	3: traprun (7.75%)
+	4: melodic rap (4.65%)
+	5: rap (4.65%)
 Top artists
-	1: Meo (1.27%)
-	2: Juice WRLD (1.27%)
-	3: Gentrammel (1.27%)
-	4: Yusha (1.27%)
-	5: Architects (1.27%)
+	1: Jordan Jay (1.27%)
+	2: Post Malone (1.27%)
+	3: Internet Money (1.27%)
+	4: Lil Nas X (1.27%)
+	5: Fetty Wap (1.27%)
 Top country
 	1: QZ (31.51%)
 	2: US (24.66%)
@@ -37,7 +37,7 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   73.000000     73.000000     73.000000         73.000000    73.000000   73.000000  73.000000  73.000000
 mean    51.410959      0.185986      0.653411          0.002942     0.114858  121.728548   0.475174   0.697014
-std     15.350385      0.216606      0.129136          0.010909     0.100335   28.286774   0.199525   0.152252
+std     15.372988      0.216606      0.129136          0.010909     0.100335   28.286774   0.199525   0.152252
 min     30.000000      0.000098      0.299000          0.000000     0.028700   74.813000   0.039300   0.318000
 25%     39.000000      0.018300      0.537000          0.000000     0.040600   96.946000   0.340000   0.617000
 50%     49.000000      0.097800      0.692000          0.000000     0.057500  122.062000   0.463000   0.722000

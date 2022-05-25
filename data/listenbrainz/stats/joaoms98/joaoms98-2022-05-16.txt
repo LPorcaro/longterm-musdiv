@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: jazz (13.61%)
-	2: jazz saxophone (13.02%)
-	3: cool jazz (10.65%)
-	4: bossa nova (8.88%)
-	5: latin jazz (8.88%)
+	1: jazz (13.53%)
+	2: jazz saxophone (12.94%)
+	3: cool jazz (10.59%)
+	4: bossa nova (9.41%)
+	5: latin jazz (8.82%)
 Top artists
-	1: André Nascimento (4.00%)
-	2: Jean Bonal (4.00%)
-	3: Náná Sousa Dias (4.00%)
-	4: Stan Getz (4.00%)
-	5: Orquestra de Jazz do Hot Clube de Portugal (4.00%)
+	1: Desbundixie Dixie Band (4.00%)
+	2: Astrud Gilberto (4.00%)
+	3: Slow J (4.00%)
+	4: Papillon (4.00%)
+	5: André Fernandes (4.00%)
 Top country
 	1: US (42.59%)
 	2: PT (29.63%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   54.000000     54.000000     54.000000         54.000000    54.000000   54.000000  54.000000  54.000000
-mean    19.870370      0.783037      0.556667          0.300343     0.116098  111.890944   0.461443   0.314204
-std     17.105716      0.223898      0.161391          0.357781     0.114865   28.531058   0.264932   0.156629
+mean    19.888889      0.783037      0.556667          0.300343     0.116098  111.890944   0.461443   0.314204
+std     17.084327      0.223898      0.161391          0.357781     0.114865   28.531058   0.264932   0.156629
 min      0.000000      0.106000      0.147000          0.000000     0.028200   66.488000   0.038300   0.031300
 25%      0.000000      0.665750      0.472250          0.007115     0.041725   93.938500   0.258500   0.211500
 50%     20.000000      0.860000      0.543000          0.080300     0.061200  114.454000   0.399000   0.296000

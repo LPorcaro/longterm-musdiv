@@ -1,40 +1,45 @@
-Electronic artists found: Swedish House Mafia,Connie Constance, Riton,Oliver Heldens,Vula, Imanbek,Goodboys, Jax Jones,MNEK
-Electronic genres found: slap house, edm, tropical house, electro house, progressive electro house
-Electronic music logs found: 83.33% 
+Electronic artists found: Martin Garrix,Tove Lo, Biscits, Jax Jones,MNEK, Lucky Luke, Riton,Kah-Lo, Marshmello,Usher,Imanbek,Alle Farben, Alan Walker,Imanbek, Tujamo,VIZE,MAJAN, HVME, John Summit,SIDEPIECE, Riton,Oliver Heldens,Vula, Tiësto,Jonas Blue,Rita Ora,Jonas Aden, Swedish House Mafia,Connie Constance, Phil The Beat,Lovespeake, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Chris Lorenzo,High Jinx, Imanbek,Goodboys, Dynoro,24kGoldn, Chapter & Verse, AREA21, Diplo,SIDEPIECE, John Summit,Echoes, James Hype,HARLEE, Mr. Belt & Wezol,RSCL
+Electronic genres found: electro house, uk tech house, tropical house, progressive electro house, progressive house, dutch edm, brostep, lithuanian electronic, bass house, slap house, moombahton, edm, disco house
+Electronic music logs found: 75.76% 
 
 Top genres
-	1: edm (13.16%)
-	2: pop dance (13.16%)
-	3: house (10.53%)
-	4: dance pop (10.53%)
-	5: electro house (10.53%)
+	1: pop dance (13.57%)
+	2: edm (12.86%)
+	3: house (11.43%)
+	4: electro house (9.29%)
+	5: tropical house (9.29%)
 Top artists
-	1: Vula (10.00%)
-	2: Imanbek (10.00%)
-	3: Goodboys (10.00%)
-	4: Endor (10.00%)
-	5: Connie Constance (10.00%)
+	1: Usher (1.82%)
+	2: Lovespeake (1.82%)
+	3: SIDEPIECE (1.82%)
+	4: Emie (1.82%)
+	5: MAJAN (1.82%)
 Top country
-	1: GB (83.33%)
-	2: US (16.67%)
+	1: GB (33.33%)
+	2: US (24.24%)
+	3: DE (15.15%)
+	4: NL (6.06%)
+	5: FR (3.03%)
 Top record
-	1: UM7 (50.00%)
-	2: CPZ (16.67%)
-	3: UG1 (16.67%)
-	4: CEN (16.67%)
+	1: UM7 (21.21%)
+	2: CPZ (6.06%)
+	3: UG1 (6.06%)
+	4: CEN (6.06%)
+	5: E86 (6.06%)
 Top year
-	1: 19 (33.33%)
-	2: 21 (33.33%)
-	3: 20 (16.67%)
-	4: 22 (16.67%)
+	1: 20 (39.39%)
+	2: 21 (36.36%)
+	3: 19 (15.15%)
+	4: 17 (6.06%)
+	5: 22 (3.03%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
-count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
-mean    75.833333      0.102800      0.761333          0.001131     0.070833  126.202333  0.455150  0.825833
-std      6.306082      0.094797      0.076477          0.002386     0.074496    1.837443  0.212059  0.073850
-min     70.000000      0.012400      0.665000          0.000007     0.034600  124.051000  0.038900  0.738000
-25%     70.250000      0.016800      0.738000          0.000030     0.035425  125.017500  0.502000  0.782000
-50%     74.500000      0.102250      0.752000          0.000101     0.038750  126.035500  0.509500  0.805000
-75%     81.750000      0.182000      0.763000          0.000467     0.052125  127.034000  0.517000  0.877500
-max     83.000000      0.203000      0.899000          0.005980     0.222000  129.047000  0.654000  0.931000
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
+count   33.000000     33.000000     33.000000         33.000000    33.000000   33.00000  33.000000  33.000000
+mean    64.727273      0.103978      0.743788          0.081397     0.079530  126.13303   0.501391   0.794485
+std     10.869317      0.152827      0.078916          0.190420     0.057823    5.01506   0.200730   0.086582
+min     40.000000      0.001610      0.544000          0.000000     0.026500  114.97800   0.038900   0.558000
+25%     60.000000      0.012400      0.701000          0.000006     0.041500  124.05100   0.357000   0.738000
+50%     64.000000      0.030600      0.746000          0.000307     0.054000  125.99200   0.501000   0.807000
+75%     71.000000      0.143000      0.774000          0.040900     0.085600  127.03400   0.630000   0.862000
+max     83.000000      0.659000      0.899000          0.818000     0.249000  149.87100   0.963000   0.931000

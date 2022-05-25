@@ -1,0 +1,86 @@
+[
+    {
+        "listened_at": "2022-05-17T20:32:27",
+        "track_name": "Solta-se o beijo",
+        "artist_name": "H\u00e9ber Marques",
+        "release_name": "Jo\u00e3o Gil Por",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/1r0ZQXZLLuIwrIBxrsaF3I",
+        "listening_from": "spotify",
+        "isrc": "PT6GJ1700006",
+        "additional_info": {
+            "artist_msid": "c7ffed2b-9218-40f3-84d5-cde18a253665",
+            "artist_names": [
+                "H\u00e9ber Marques"
+            ],
+            "discnumber": 1,
+            "duration_ms": 234186,
+            "isrc": "PT6GJ1700006",
+            "listening_from": "spotify",
+            "recording_msid": "6f972602-aab5-4c67-bab7-19268557d2c0",
+            "release_artist_name": "Jo\u00e3o Gil",
+            "release_artist_names": [
+                "Jo\u00e3o Gil"
+            ],
+            "release_msid": "c36f0417-3f62-4d45-be02-f6d2b9cbb5a1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7K381zCTxxVvUMQqgsxXix"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7j1vYYQfXkNoCgMxkWBE2p",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0zx5FDnRrsrqWHLg1ytMzD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1r0ZQXZLLuIwrIBxrsaF3I",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-06T23:48:57",
+        "track_name": "Solta-se o beijo",
+        "artist_name": "H\u00e9ber Marques",
+        "release_name": "Jo\u00e3o Gil Por",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/1r0ZQXZLLuIwrIBxrsaF3I",
+        "listening_from": "spotify",
+        "isrc": "PT6GJ1700006",
+        "additional_info": {
+            "artist_msid": "c7ffed2b-9218-40f3-84d5-cde18a253665",
+            "artist_names": [
+                "H\u00e9ber Marques"
+            ],
+            "discnumber": 1,
+            "duration_ms": 234186,
+            "isrc": "PT6GJ1700006",
+            "listening_from": "spotify",
+            "recording_msid": "6f972602-aab5-4c67-bab7-19268557d2c0",
+            "release_artist_name": "Jo\u00e3o Gil",
+            "release_artist_names": [
+                "Jo\u00e3o Gil"
+            ],
+            "release_msid": "c36f0417-3f62-4d45-be02-f6d2b9cbb5a1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7K381zCTxxVvUMQqgsxXix"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7j1vYYQfXkNoCgMxkWBE2p",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0zx5FDnRrsrqWHLg1ytMzD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1r0ZQXZLLuIwrIBxrsaF3I",
+            "tracknumber": 5
+        },
+        "username": null
+    }
+]

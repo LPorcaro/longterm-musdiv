@@ -1,0 +1,45 @@
+Electronic artists found: Alpha Wolf,Mik
+Electronic genres found: metallic hardcore, australian post-hardcore
+Electronic music logs found: 6.25% 
+
+Top genres
+	1: instrumental rock (36.00%)
+	2: rap baiano (12.00%)
+	3: trap baiano (12.00%)
+	4: trap brasileiro (12.00%)
+	5: pop nacional (4.00%)
+Top artists
+	1: Nito (3.12%)
+	2: Polyphia (3.12%)
+	3: Pineapple StormTv (3.12%)
+	4: Cuco (3.12%)
+	5: Nick Johnston (3.12%)
+Top country
+	1: QM (25.00%)
+	2: TC (18.75%)
+	3: QZ (18.75%)
+	4: IT (12.50%)
+	5: BR (6.25%)
+Top record
+	1: RSZ (25.00%)
+	2: 5AB (18.75%)
+	3: ADD (12.50%)
+	4: H71 (12.50%)
+	5: AEU (6.25%)
+Top year
+	1: 17 (37.50%)
+	2: 22 (25.00%)
+	3: 20 (12.50%)
+	4: 18 (12.50%)
+	5: 19 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean    56.062500      0.294141      0.628062          0.447670     0.107213  120.572312   0.476375   0.646606
+std     10.987682      0.395346      0.082179          0.399033     0.121673   23.067708   0.216234   0.267088
+min     35.000000      0.000013      0.461000          0.000000     0.029800   66.620000   0.165000   0.071700
+25%     50.250000      0.017017      0.600000          0.000540     0.032800  105.960000   0.315000   0.547250
+50%     55.500000      0.039500      0.607000          0.426500     0.038550  130.987000   0.496000   0.774500
+75%     66.250000      0.722750      0.665250          0.812000     0.134000  137.060000   0.590000   0.803000
+max     67.000000      0.986000      0.795000          0.937000     0.453000  151.870000   0.945000   0.962000

@@ -1,0 +1,45 @@
+Electronic artists found: Armin van Buuren,R3HAB,Simon Ward, Alan Walker, Martin Garrix,DubVision,Jordan Grace
+Electronic genres found: edm, tropical house, electro house, progressive house, dutch edm
+Electronic music logs found: 7.32% 
+
+Top genres
+	1: pop (5.47%)
+	2: rap (4.69%)
+	3: hip hop (3.91%)
+	4: underground hip hop (2.34%)
+	5: latin (2.34%)
+Top artists
+	1: Harry Styles (1.82%)
+	2: Sfera Ebbasta (1.82%)
+	3: Travis Scott (1.82%)
+	4: Ivandro (1.82%)
+	5: Future (1.82%)
+Top country
+	1: US (46.34%)
+	2: QM (9.76%)
+	3: GB (7.32%)
+	4: QZ (7.32%)
+	5: FR (4.88%)
+Top record
+	1: UM7 (21.95%)
+	2: SM1 (7.32%)
+	3: AT2 (7.32%)
+	4: RC1 (7.32%)
+	5: 4TX (4.88%)
+Top year
+	1: 22 (68.29%)
+	2: 21 (21.95%)
+	3: 20 (4.88%)
+	4: 14 (2.44%)
+	5: 19 (2.44%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   41.000000     41.000000     41.000000         41.000000    41.000000   41.000000  41.000000  41.000000
+mean    59.682927      0.154552      0.613268          0.025324     0.087034  129.042171   0.408024   0.687829
+std     16.417124      0.184584      0.144559          0.115948     0.086869   29.986361   0.204508   0.116712
+min     22.000000      0.000096      0.255000          0.000000     0.030200   74.997000   0.069200   0.457000
+25%     47.000000      0.016900      0.535000          0.000000     0.036900  106.998000   0.215000   0.585000
+50%     59.000000      0.042200      0.602000          0.000010     0.051200  129.861000   0.394000   0.699000
+75%     70.000000      0.340000      0.716000          0.000272     0.102000  146.877000   0.532000   0.753000
+max    100.000000      0.636000      0.905000          0.736000     0.394000  179.988000   0.777000   0.901000

@@ -1,0 +1,45 @@
+Electronic artists found: Silent Poets,櫻木大悟, MØ, Mauro Picotto, Empyre One, Alan Walker,Noah Cyrus,Digital Farm Animals,Juliander
+Electronic genres found: eurodance, electro house, tropical house, hands up, japanese dub
+Electronic music logs found: 33.33% 
+
+Top genres
+	1: pop (12.96%)
+	2: dance pop (11.11%)
+	3: post-teen pop (7.41%)
+	4: pop rock (5.56%)
+	5: electropop (5.56%)
+Top artists
+	1: Bon Jovi (5.26%)
+	2: Silent Poets (5.26%)
+	3: Marcella Bella (5.26%)
+	4: Owl City (5.26%)
+	5: Aly & AJ (5.26%)
+Top country
+	1: US (46.67%)
+	2: IT (20.00%)
+	3: AU (6.67%)
+	4: DE (6.67%)
+	5: GB (6.67%)
+Top record
+	1: UM7 (20.00%)
+	2: HR1 (20.00%)
+	3: E34 (6.67%)
+	4: DD3 (6.67%)
+	5: ZXT (6.67%)
+Top year
+	1: 17 (20.00%)
+	2: 05 (20.00%)
+	3: 18 (13.33%)
+	4: 14 (6.67%)
+	5: 12 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   15.000000     15.000000     15.000000         15.000000    15.000000   15.000000  15.000000  15.000000
+mean    46.933333      0.077038      0.622800          0.078185     0.051793  118.540133   0.507800   0.738800
+std     27.522631      0.108405      0.116365          0.233529     0.027856   20.541230   0.198551   0.155891
+min      5.000000      0.000048      0.444000          0.000000     0.027400   82.953000   0.173000   0.429000
+25%     26.000000      0.004440      0.530000          0.000000     0.038000  101.482000   0.340500   0.675000
+50%     61.000000      0.023900      0.652000          0.000007     0.041000  122.016000   0.477000   0.705000
+75%     68.000000      0.108050      0.723500          0.000188     0.056300  128.055000   0.672000   0.880500
+max     82.000000      0.333000      0.782000          0.894000     0.140000  158.438000   0.843000   0.946000

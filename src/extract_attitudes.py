@@ -15,6 +15,10 @@ def extract(att_round):
     ATT_DIR = "../data/attitudes/"
     ATT_DIR = os.path.join(ATT_DIR, att_round)
     infile = os.path.join(ATT_DIR, 'all.csv')
+    if not os.path.exists(infile):
+        print('File {} not exist'.format(infile))
+        return
+
     outf_g1 = os.path.join(ATT_DIR, 'HD_{}.csv'.format(att_round))
     outf_g2 = os.path.join(ATT_DIR, 'LD_{}.csv'.format(att_round))
 

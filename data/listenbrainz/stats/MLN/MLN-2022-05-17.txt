@@ -1,0 +1,28 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: glam rock (33.33%)
+	2: mellow gold (33.33%)
+	3: piano rock (33.33%)
+Top artists
+	1: Charlie Puth (50.00%)
+	2: Elton John (50.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: UM7 (100.00%)
+Top year
+	1: 21 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness   tempo  valence  energy
+count         1.0         1.000         1.000          1.000000       1.0000   1.000    1.000   1.000
+mean         57.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+std           NaN           NaN           NaN               NaN          NaN     NaN      NaN     NaN
+min          57.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+25%          57.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+50%          57.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+75%          57.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+max          57.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556

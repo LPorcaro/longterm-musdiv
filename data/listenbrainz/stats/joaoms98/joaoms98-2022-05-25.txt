@@ -1,0 +1,41 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: permanent wave (31.82%)
+	2: soft rock (31.82%)
+	3: sophisti-pop (31.82%)
+	4: portuguese pop (4.55%)
+Top artists
+	1: Royal Philharmonic Concert Orchestra (16.67%)
+	2: Tiago Nacarato (16.67%)
+	3: Branford Marsalis (16.67%)
+	4: Shirazee (16.67%)
+	5: Steven Mercurio (16.67%)
+Top country
+	1: US (75.00%)
+	2: PT (12.50%)
+	3: GB (12.50%)
+Top record
+	1: UM7 (62.50%)
+	2: NO1 (12.50%)
+	3: AAM (12.50%)
+	4: AM1 (12.50%)
+Top year
+	1: 10 (25.00%)
+	2: 21 (25.00%)
+	3: 22 (12.50%)
+	4: 93 (12.50%)
+	5: 19 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo  valence    energy
+count    8.000000      8.000000      8.000000          8.000000     8.000000    8.000000  8.00000  8.000000
+mean    42.625000      0.369350      0.611250          0.005135     0.052687  115.003750  0.43025  0.567375
+std     16.944763      0.244380      0.133547          0.009856     0.023064   37.661696  0.19265  0.165858
+min     25.000000      0.010100      0.379000          0.000000     0.024600   78.022000  0.16200  0.339000
+25%     32.250000      0.264425      0.562000          0.000008     0.038425  100.757250  0.29850  0.455750
+50%     38.000000      0.384000      0.611500          0.000029     0.048550  103.004500  0.41900  0.610000
+75%     46.500000      0.555250      0.656750          0.003982     0.062025  110.683250  0.57050  0.655250
+max     69.000000      0.680000      0.851000          0.026300     0.100000  202.057000  0.68200  0.818000

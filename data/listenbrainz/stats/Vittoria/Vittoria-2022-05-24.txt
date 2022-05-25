@@ -1,0 +1,35 @@
+Electronic artists found: Dardust,Massimo Pericolo, Dardust
+Electronic genres found: italian electronica, compositional ambient
+Electronic music logs found: 66.67% 
+
+Top genres
+	1: compositional ambient (16.67%)
+	2: italian electronica (16.67%)
+	3: neo-classical (16.67%)
+	4: rome indie (16.67%)
+	5: indie pop (8.33%)
+Top artists
+	1: Massimo Pericolo (33.33%)
+	2: Declan McKenna (33.33%)
+	3: Dardust (33.33%)
+Top country
+	1: IT (66.67%)
+	2: GB (33.33%)
+Top record
+	1: IWE (66.67%)
+	2: ARL (33.33%)
+Top year
+	1: 20 (33.33%)
+	2: 22 (33.33%)
+	3: 15 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    3.000000      3.000000      3.000000          3.000000     3.000000    3.000000  3.000000  3.000000
+mean    47.666667      0.372733      0.488333          0.295338     0.037867  136.576333  0.317667  0.510667
+std     34.019602      0.501780      0.268398          0.511529     0.008780   27.736331  0.300799  0.285745
+min      9.000000      0.072100      0.183000          0.000000     0.028700  120.052000  0.144000  0.187000
+25%     35.000000      0.083100      0.389000          0.000006     0.033700  120.565500  0.144000  0.402000
+50%     61.000000      0.094100      0.595000          0.000013     0.038700  121.079000  0.144000  0.617000
+75%     67.000000      0.523050      0.641000          0.443006     0.042450  144.838500  0.404500  0.672500
+max     73.000000      0.952000      0.687000          0.886000     0.046200  168.598000  0.665000  0.728000

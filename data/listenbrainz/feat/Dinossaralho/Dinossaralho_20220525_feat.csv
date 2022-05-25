@@ -1,0 +1,49 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+3LB8f2474395aM1fEYmtGb	Joana Gama,Luis Fernandes	There's no knowing • 1	DEX262200008	2		0.939	0.172	0.323	0.0516	140.639	0.035	0.133
+3ClkFKABg9Ef6eeECjqPOd	Bezegol	Era Tão Bom	QMFMF1523995	26	portuguese rock,rap portuense,reggae tuga	0.22	0.946	0.00326	0.0783	124.021	0.771	0.381
+5C4rMbgkYOtlre98Zqi9fP	Bezegol	Rude Sentido	QMFMF1521982	27	portuguese rock,rap portuense,reggae tuga	0.106	0.735	0.0	0.0409	123.808	0.665	0.284
+3VmpGvcFK7d7ULLn3StVU6	Bezegol	Monstro	QMFMF1522055	29	portuguese rock,rap portuense,reggae tuga	0.0489	0.804	0.0	0.0609	94.001	0.236	0.579
+6Iw9z09Mkh5B8RhlPuy8iy	Bezegol	Maria	QMFMG1598334	31	portuguese rock,rap portuense,reggae tuga	0.176	0.799	0.0	0.0941	125.993	0.929	0.549
+3wlieeB0snmKt3NCDuPo1g	Bezegol	Rainha Sem Coroa	QMFMF1523994	32	portuguese rock,rap portuense,reggae tuga	0.117	0.789	0.0986	0.0433	130.048	0.769	0.227
+174N7hrHlX0mVCQj3WytoG	Grupo Revelação,Gaab	Deixa Acontecer	BXWVW2000088	34	axe,pagode	0.765	0.327	0.0	0.215	200.153	0.768	0.767
+3QLosQYib7OQ7JjKRopaWA	Bezegol	Fora da Lei	QMFMF1522059	34	portuguese rock,rap portuense,reggae tuga	0.0934	0.681	0.0	0.131	180.14	0.843	0.644
+2wWFk93Ng7uMKRQwEz10UE	B Fachada	Como Calha	PTKQ11200024	30	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.13	0.511	0.653	0.0321	159.868	0.863	0.715
+1JcWG21c3aUbEejW8jGdWa	Fausto	Navegar, Navegar	PTSM18400013	23	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.398	0.59	0.0	0.0351	78.379	0.974	0.92
+0URc05SpfMEUd4kLnvTldD	B Fachada	O Anti-Fado	PTKQ12000008	23	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0699	0.51	0.00643	0.0594	87.979	0.666	0.784
+6cqpiHUgM0c9LCPjXgRBhJ	Toranja	Ciclo	PTUM10500038	7	portuguese rock	0.253	0.751	0.000752	0.0349	106.037	0.432	0.441
+5CPdWKS0ZISetuwGi2O52e	B Fachada	Setembro	PTKQ10900007	14	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.707	0.504	0.000595	0.0358	174.566	0.741	0.383
+31pAz8UjFt3pbUrZSjqj7j	Diabo Na Cruz	Os Loucos Estão Certos	PTLH10900016	30	portuguese rock	0.0983	0.701	1.05e-05	0.0628	107.066	0.732	0.656
+25FdItlMRhJ1RUiPUqgfwW	Tozé Brito (de) novo,B Fachada,Benjamim	Olá, Então Como Vais?	PTBM12100172	30	portuguese jazz	0.128	0.793	2.19e-06	0.0461	114.076	0.851	0.543
+2Zw3HNjaNV42LnQ2uY5JQs	Beach House	Myth	GBBRP1233401	55	baltimore indie,dream pop,dreamo,modern dream pop	0.0336	0.445	0.116	0.0292	141.954	0.409	0.704
+56eSclzdXaWU5jOJ7DX7Vp	Beach House	Silver Soul	GBBRP1022502	60	baltimore indie,dream pop,dreamo,modern dream pop	0.439	0.354	8.55e-05	0.0324	135.034	0.108	0.675
+1ZgMsA55GIY7ICkQh5MILA	Beach House	Space Song	USSUB1512203	73	baltimore indie,dream pop,dreamo,modern dream pop	0.233	0.507	0.139	0.0294	147.065	0.6	0.79
+6a88fc0zSrVWGPdoj445nJ	Jungle	Keep Moving	GBKPL2144811	58	indie soul,uk contemporary r&b	0.183	0.724	0.000469	0.0317	111.493	0.569	0.603
+0rUVc7nyw4qXytvodDAlle	Nenny	Tequila - A COLORS SHOW	DEXC82100007	46	hip hop tuga,trap tuga	0.754	0.799	3.51e-06	0.181	99.002	0.561	0.531
+2qG5sZ7Si6sdK74qLxedYM	ROSALÍA,J Balvin,El Guincho	Con Altura	USSM11900950	73	r&b en espanol	0.39	0.882	0.00325	0.124	97.963	0.746	0.689
+6Y46tOTRhkBamosyuWa6YX	ROSALÍA,The Weeknd	LA FAMA (with The Weeknd)	USSM12107750	76	r&b en espanol	0.947	0.766	4.44e-05	0.0464	136.016	0.805	0.295
+2MkK2gR0uoAAnct58fu1d7	alt-J	Hard Drive Gold	GB5KW2102485	55	indie rock	0.0858	0.67	2.1e-05	0.0389	144.272	0.684	0.853
+67wX5NhrJNlludQEHwYYNu	Cícero	Ensaio Sobre Ela	BR66N1100005	44	brazilian rock,nova mpb	0.76	0.605	0.000744	0.0257	106.926	0.229	0.402
+3mN9YMbN5ZCb5JPLeCNEnz	Cícero	Açúcar ou Adoçante?	BR66N1100006	45	brazilian rock,nova mpb	0.753	0.615	0.00295	0.0302	100.047	0.27	0.328
+4eh6egMbuQ1QJ65HIA9eXG	Florence + The Machine	Heaven Is Here	GBUM72108022	65	baroque pop,pop,uk alternative pop	0.605	0.852	7.03e-05	0.38	106.438	0.359	0.437
+0z2BVrzRVNvmnFF37mDhev	Florence + The Machine	Cassandra	GBUM72108011	66	baroque pop,pop,uk alternative pop	0.313	0.564	0.000113	0.0473	117.748	0.0724	0.592
+5evz6ANSQQI09Q1p8aGNCH	Florence + The Machine	Prayer Factory	GBUM72108013	64	baroque pop,pop,uk alternative pop	0.853	0.5	0.0283	0.0336	96.043	0.128	0.21
+7GtOjSSp5Qyi3gNbNDZgja	Florence + The Machine	Dream Girl Evil	GBUM72108019	71	baroque pop,pop,uk alternative pop	0.0118	0.553	0.00111	0.0424	83.026	0.262	0.71
+6kQlUiaTUyRW8fYQ2xDhpx	Florence + The Machine	Girls Against God	GBUM72108017	66	baroque pop,pop,uk alternative pop	0.845	0.61	1.73e-06	0.0335	101.992	0.098	0.257
+24S29Mu8QKgCockrZyX6Ha	Florence + The Machine	Back In Town	GBUM72108014	66	baroque pop,pop,uk alternative pop	0.774	0.302	2.75e-05	0.0362	77.952	0.0626	0.0753
+7xdHw4C522RbsxHL9KD9L6	Florence + The Machine	Choreomania	GBUM72108015	68	baroque pop,pop,uk alternative pop	0.0907	0.64	0.00184	0.0612	156.96	0.275	0.674
+7H7SHw3YWXhb4zYqyoPNa1	Florence + The Machine	Free	GBUM72108016	68	baroque pop,pop,uk alternative pop	0.00777	0.465	0.00196	0.0363	174.806	0.0494	0.696
+31ABtQJdfloNaGz7ZhXaN5	Florence + The Machine	King	GBUM72108021	68	baroque pop,pop,uk alternative pop	0.136	0.731	0.000989	0.0443	105.989	0.0856	0.45
+456WNXWhDwYOSf5SpTuqxd	Florence + The Machine	Dog Days Are Over	GBUM70900209	73	baroque pop,pop,uk alternative pop	0.0338	0.501	0.00602	0.0938	149.964	0.258	0.809
+76bcaYeKOKTrj9lEc9BZFU	Rubel	Quando Bate Aquela Saudade	BRRUS1400004	61	folk brasileiro,nova mpb,nova musica carioca	0.895	0.55	0.0107	0.0326	90.088	0.595	0.314
+6NZOc8kO0Fxo0fLPvIdLnW	Kendrick Lamar,Beth Gibbons	Mother I Sober (feat. Beth Gibbons of Portishead)	USUM72208991	79	conscious hip hop,hip hop,rap,west coast rap	0.87	0.492	2.85e-05	0.329	140.012	0.491	0.369
+7zvfDihYiJ8RQ1nRcpKBF5	Kendrick Lamar,Tanna Leone	Mr. Morale	USUM72208990	81	conscious hip hop,hip hop,rap,west coast rap	0.283	0.727	2.76e-05	0.312	174.025	0.258	0.53
+19Fg3WrTfo35Ji3PtfZE6J	Kendrick Lamar	Auntie Diaries	USUM72208989	80	conscious hip hop,hip hop,rap,west coast rap	0.745	0.52	0.0122	0.358	127.544	0.589	0.375
+0YeUVm23SAkUruwEx9LWnt	Kendrick Lamar,Baby Keem,Sam Dew	Savior	USUM72208978	83	conscious hip hop,hip hop,rap,west coast rap	0.495	0.605	0.0	0.446	124.84	0.685	0.692
+5PPUw4Xo3Hz6rl4GpBfd3c	Kendrick Lamar	Savior - Interlude	USUM72208982	79	conscious hip hop,hip hop,rap,west coast rap	0.807	0.618	0.0	0.216	117.125	0.826	0.43
+3tYTyAt1q6BFBiGyYVOLhi	Kendrick Lamar,Kodak Black	Silent Hill	USUM72208981	84	conscious hip hop,hip hop,rap,west coast rap	0.438	0.907	3.19e-05	0.0767	140.07	0.801	0.577
+2IwbW2jd0Ncv99Aroe77Ru	Kendrick Lamar	Crown	USUM72208979	80	conscious hip hop,hip hop,rap,west coast rap	0.801	0.355	9.11e-05	0.0358	173.329	0.162	0.245
+7pj6P5WnxkZsw3XRc8eMe1	Kendrick Lamar	Count Me Out	USUM72208980	83	conscious hip hop,hip hop,rap,west coast rap	0.671	0.776	0.0	0.091	133.999	0.495	0.431
+7orTJD8x5vcW9bW2Yswqey	Grupo Coral de Cantares Regionais de Portel	Senhora Cegonha	PTOV10300176	9	cante alentejano,folclore portugues	0.553	0.637	0.0	0.0294	97.261	0.745	0.509
+0qdQUeKVyevrbKhAo0ibxS	George Harrison	My Sweet Lord - Remastered 2014	GB77R1400026	73	album rock,beatlesque,classic rock,folk rock,mellow gold,rock,soft rock	0.0972	0.537	0.0	0.0335	120.919	0.583	0.701
+70AYiGbc4mWZGEqiipBBDb	ROSALÍA	CANDY	USSM12109219	78	r&b en espanol	0.885	0.638	0.0116	0.226	179.905	0.403	0.49
+7EwNGHfCswoh3Vp4K3uDwf	First Aid Kit	Wolf	GBDNH1100143	30	stomp and holler,swedish americana,swedish country	0.0543	0.522	0.000917	0.0422	102.075	0.391	0.744

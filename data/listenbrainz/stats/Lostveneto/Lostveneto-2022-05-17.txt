@@ -1,43 +1,45 @@
-Electronic artists found: 
-Electronic genres found: 
-Electronic music logs found: 0.00% 
+Electronic artists found: Martin Garrix,Khalid
+Electronic genres found: progressive house, electro house, tropical house, dutch edm, edm
+Electronic music logs found: 0.83% 
 
 Top genres
-	1: alternative metal (16.67%)
-	2: nu metal (16.67%)
-	3: french death metal (9.52%)
-	4: french metal (9.52%)
-	5: metal (9.52%)
+	1: alternative metal (15.56%)
+	2: nu metal (15.56%)
+	3: metal (8.28%)
+	4: gainesville indie (7.68%)
+	5: rock (6.87%)
 Top artists
-	1: Gojira (16.67%)
-	2: Avenged Sevenfold (16.67%)
-	3: Bullet For My Valentine (16.67%)
-	4: Polyphia (16.67%)
-	5: All That Remains (16.67%)
+	1: Jason Richardson (5.26%)
+	2: Silver End (5.26%)
+	3: Breaking Benjamin (5.26%)
+	4: Thousand Foot Krutch (5.26%)
+	5: Trivium (5.26%)
 Top country
-	1: FR (50.00%)
-	2: US (25.00%)
-	3: IT (12.50%)
-	4: GB (12.50%)
+	1: SE (31.67%)
+	2: FR (23.33%)
+	3: US (20.00%)
+	4: NL (15.83%)
+	5: GB (5.83%)
 Top record
-	1: 6V8 (50.00%)
-	2: H71 (12.50%)
-	3: HQD (12.50%)
-	4: WB1 (12.50%)
-	5: RZR (12.50%)
+	1: 5VF (31.67%)
+	2: 6V8 (23.33%)
+	3: A32 (15.00%)
+	4: RZR (5.00%)
+	5: SM1 (4.17%)
 Top year
-	1: 05 (62.50%)
-	2: 18 (12.50%)
-	3: 07 (12.50%)
-	4: 06 (12.50%)
+	1: 18 (35.00%)
+	2: 05 (27.50%)
+	3: 06 (10.00%)
+	4: 04 (6.67%)
+	5: 07 (3.33%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
-count    8.000000      8.000000      8.000000          8.000000     8.000000    8.000000  8.000000  8.000000
-mean    48.375000      0.038600      0.341875          0.117935     0.077788  127.816750  0.256225  0.865500
-std      9.440604      0.108451      0.139330          0.310188     0.035974   28.431102  0.120325  0.127474
-min     37.000000      0.000011      0.214000          0.000003     0.039500   95.438000  0.079800  0.579000
-25%     40.750000      0.000030      0.236500          0.001212     0.048600  108.280000  0.192000  0.831000
-50%     49.500000      0.000168      0.291000          0.005935     0.072700  125.505500  0.216500  0.921000
-75%     55.250000      0.000698      0.412500          0.014725     0.092150  138.019750  0.346250  0.938000
-max     61.000000      0.307000      0.581000          0.885000     0.143000  174.932000  0.450000  0.961000
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  120.000000    120.000000    120.000000        120.000000   120.000000  120.000000  120.000000  120.000000
+mean    50.008333      0.021571      0.463333          0.041586     0.071608  123.425542    0.412046    0.851667
+std      9.681044      0.089631      0.179750          0.162415     0.054570   22.421299    0.223643    0.132858
+min     27.000000      0.000002      0.166000          0.000000     0.026900   89.014000    0.036600    0.387000
+25%     44.000000      0.000022      0.262250          0.000951     0.026900  105.173750    0.198750    0.723000
+50%     51.000000      0.000563      0.508000          0.000975     0.056200  127.035000    0.423500    0.925000
+75%     55.000000      0.004120      0.665000          0.006570     0.089200  127.035000    0.657000    0.961000
+max     77.000000      0.584000      0.665000          0.885000     0.283000  185.095000    0.711000    0.996000

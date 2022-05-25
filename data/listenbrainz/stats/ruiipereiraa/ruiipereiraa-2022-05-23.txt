@@ -1,0 +1,45 @@
+Electronic artists found: Room 5,Oliver Cheatham, Swedish House Mafia,The Weeknd
+Electronic genres found: progressive electro house, edm, disco house, electro house
+Electronic music logs found: 7.14% 
+
+Top genres
+	1: hip hop (10.98%)
+	2: rap (10.98%)
+	3: conscious hip hop (9.76%)
+	4: pop (8.54%)
+	5: west coast rap (7.32%)
+Top artists
+	1: Sam Sparro (2.86%)
+	2: Blxst (2.86%)
+	3: Oliver Cheatham (2.86%)
+	4: Amber Coffman (2.86%)
+	5: Amanda Reifer (2.86%)
+Top country
+	1: US (57.14%)
+	2: GB (10.71%)
+	3: PT (10.71%)
+	4: DE (7.14%)
+	5: BX (3.57%)
+Top record
+	1: UM7 (39.29%)
+	2: QX9 (10.71%)
+	3: 9L1 (3.57%)
+	4: E7D (3.57%)
+	5: 0HJ (3.57%)
+Top year
+	1: 22 (25.00%)
+	2: 19 (14.29%)
+	3: 21 (7.14%)
+	4: 20 (7.14%)
+	5: 18 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   28.000000     28.000000     28.000000         28.000000    28.000000   28.000000  28.000000  28.000000
+mean    62.500000      0.262899      0.683143          0.049311     0.156111  121.064536   0.445332   0.599750
+std     20.916943      0.265533      0.152583          0.155620     0.140080   25.403206   0.220149   0.164159
+min      8.000000      0.001190      0.360000          0.000000     0.030000   83.406000   0.038300   0.289000
+25%     51.500000      0.028150      0.552500          0.000000     0.068675  100.988000   0.316000   0.443750
+50%     68.000000      0.163000      0.735000          0.000214     0.104500  121.619000   0.404000   0.651000
+75%     80.000000      0.411750      0.790000          0.003387     0.207250  134.486000   0.650000   0.736000
+max     84.000000      0.890000      0.906000          0.630000     0.631000  200.156000   0.854000   0.887000

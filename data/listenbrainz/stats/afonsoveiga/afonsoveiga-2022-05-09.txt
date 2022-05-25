@@ -1,19 +1,19 @@
-Electronic artists found: Mac DeMarco, Travis Scott, The xx, Stereolab
-Electronic genres found: electronica, slap house, edmonton indie, downtempo
+Electronic artists found: Travis Scott, The xx, Stereolab, Mac DeMarco
+Electronic genres found: electronica, downtempo, edmonton indie, slap house
 Electronic music logs found: 4.19% 
 
 Top genres
-	1: rap (7.60%)
-	2: pop (7.35%)
-	3: hip hop (6.86%)
-	4: hip hop tuga (5.88%)
-	5: modern rock (3.19%)
+	1: rap (7.71%)
+	2: pop (7.46%)
+	3: hip hop tuga (5.97%)
+	4: hip hop (5.97%)
+	5: modern rock (3.23%)
 Top artists
-	1: Quarteto Em Cy (0.78%)
-	2: Mac DeMarco (0.78%)
-	3: Sensible J (0.78%)
-	4: Aminé (0.78%)
-	5: Tame Impala (0.78%)
+	1: MAVI (0.78%)
+	2: Dominic Fike (0.78%)
+	3: Kean Kavanagh (0.78%)
+	4: Post Malone (0.78%)
+	5: The xx (0.78%)
 Top country
 	1: US (38.92%)
 	2: PT (14.37%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  167.000000    167.000000    167.000000        167.000000   167.000000  167.000000  167.000000  167.000000
-mean    54.916168      0.512808      0.614629          0.057715     0.107877  116.147808    0.410516    0.495438
-std     14.395621      0.291957      0.137007          0.175015     0.103781   31.050470    0.210678    0.194534
+mean    54.976048      0.512808      0.614629          0.057715     0.107877  116.147808    0.410516    0.495438
+std     14.395846      0.291957      0.137007          0.175015     0.103781   31.050470    0.210678    0.194534
 min     21.000000      0.000008      0.272000          0.000000     0.025800   68.985000    0.035800    0.015800
-25%     43.500000      0.282000      0.535500          0.000000     0.035650   88.465000    0.243000    0.363000
+25%     44.000000      0.282000      0.535500          0.000000     0.035650   88.465000    0.243000    0.363000
 50%     55.000000      0.551000      0.603000          0.000152     0.053000  113.818000    0.395000    0.504000
 75%     67.500000      0.765000      0.709000          0.009970     0.149000  139.850500    0.551000    0.643000
 max    100.000000      0.992000      0.930000          0.925000     0.541000  201.888000    0.963000    0.881000

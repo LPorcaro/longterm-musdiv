@@ -1,0 +1,45 @@
+Electronic artists found: Galantis,David Guetta,Little Mix, Joel Corry,Jax Jones,Charli XCX,Saweetie, Hippie Sabotage, SLANDER,Dylan Matthew, Surf Mesa,Emilee, Tristam,Braken
+Electronic genres found: edm, tropical house, electro house, electronic trap, melodic dubstep, dubstep, brostep, gaming edm
+Electronic music logs found: 9.64% 
+
+Top genres
+	1: hip hop tuga (24.16%)
+	2: trap tuga (6.04%)
+	3: pop (6.04%)
+	4: edm (4.03%)
+	5: rap criolo (2.68%)
+Top artists
+	1: Yung Trip (1.19%)
+	2: $uicideboy$ (1.19%)
+	3: Ivandro (1.19%)
+	4: PNAU (1.19%)
+	5: Vado Más Ki Ás (1.19%)
+Top country
+	1: PT (36.14%)
+	2: US (21.69%)
+	3: QZ (10.84%)
+	4: GB (8.43%)
+	5: ES (6.02%)
+Top record
+	1: UM7 (9.64%)
+	2: 2HA (7.23%)
+	3: 9GN (6.02%)
+	4: 71G (6.02%)
+	5: UG1 (4.82%)
+Top year
+	1: 21 (27.71%)
+	2: 20 (19.28%)
+	3: 19 (15.66%)
+	4: 22 (10.84%)
+	5: 17 (9.64%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   83.000000      83.00000     83.000000         83.000000    83.000000   83.000000  83.000000  83.000000
+mean    56.048193       0.33372      0.649012          0.013981     0.172983  116.424084   0.439125   0.599831
+std     19.159092       0.26503      0.140310          0.068461     0.144185   28.156337   0.243439   0.164790
+min     26.000000       0.00413      0.301000          0.000000     0.025600   69.129000   0.038300   0.153000
+25%     41.000000       0.11450      0.548500          0.000000     0.046900   95.010000   0.253500   0.506500
+50%     48.000000       0.25600      0.674000          0.000000     0.114000  112.050000   0.414000   0.626000
+75%     74.500000       0.55450      0.763500          0.000151     0.262000  138.675500   0.611500   0.710000
+max    100.000000       0.95900      0.905000          0.405000     0.662000  181.040000   0.956000   0.943000

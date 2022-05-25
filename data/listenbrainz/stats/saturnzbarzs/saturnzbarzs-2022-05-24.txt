@@ -1,0 +1,45 @@
+Electronic artists found: League of Legends,PVRIS, Metronomy, The Whitest Boy Alive, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry
+Electronic genres found: video game music, electronica
+Electronic music logs found: 8.51% 
+
+Top genres
+	1: modern rock (9.52%)
+	2: rock (6.35%)
+	3: rap (3.97%)
+	4: pop (3.97%)
+	5: hip hop (3.17%)
+Top artists
+	1: Monico Blonde (2.04%)
+	2: The Whitest Boy Alive (2.04%)
+	3: Jaira Burns (2.04%)
+	4: tobi lou (2.04%)
+	5: Fall Out Boy (2.04%)
+Top country
+	1: US (48.94%)
+	2: GB (14.89%)
+	3: QZ (8.51%)
+	4: QM (8.51%)
+	5: TC (6.38%)
+Top record
+	1: UG1 (14.89%)
+	2: AT2 (6.38%)
+	3: H6S (6.38%)
+	4: RE1 (6.38%)
+	5: UM7 (4.26%)
+Top year
+	1: 20 (17.02%)
+	2: 21 (14.89%)
+	3: 17 (12.77%)
+	4: 19 (12.77%)
+	5: 22 (10.64%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   47.000000     47.000000     47.000000         47.000000    47.000000   47.000000  47.000000  47.000000
+mean    58.617021      0.248687      0.588766          0.078136     0.102030  134.031894   0.584255   0.698745
+std     14.607254      0.301124      0.160180          0.177809     0.098758   28.799183   0.221837   0.195112
+min     24.000000      0.000004      0.309000          0.000000     0.029800   72.517000   0.181000   0.078000
+25%     52.000000      0.004330      0.448000          0.000003     0.040000  120.498500   0.387500   0.606500
+50%     60.000000      0.080800      0.606000          0.001490     0.060300  139.816000   0.568000   0.700000
+75%     68.000000      0.500000      0.719000          0.040800     0.117500  156.401000   0.761000   0.856500
+max     84.000000      0.975000      0.900000          0.891000     0.369000  179.629000   0.986000   0.991000

@@ -1,0 +1,45 @@
+Electronic artists found: R3HAB,Vini Vici,PANGEA,DEGO, Travis Scott, League of Legends,Against The Current, MEDUZA,Becky Hill,Goodboys, Avicii, Mike Posner,Seeb, The Chainsmokers,Kygo, Hippie Sabotage, Mike Perry,SHY Martin, Marcelinho Da Lua,Bi Ribeiro,Black Alien, Marshmello,Jonas Brothers, Tristam,Braken, Jonas Blue,JP Cooper
+Electronic genres found: edm, electro house, tropical house, video game music, slap house, dutch house, swedish tropical house, electronic trap, melodic dubstep, sambass, progressive electro house, pop edm, brostep, gaming edm
+Electronic music logs found: 10.95% 
+
+Top genres
+	1: pop (15.25%)
+	2: dance pop (8.21%)
+	3: hip hop tuga (5.57%)
+	4: edm (3.52%)
+	5: pop rap (3.52%)
+Top artists
+	1: DEGO (0.68%)
+	2: Travis Scott (0.68%)
+	3: Santana (0.68%)
+	4: PNAU (0.68%)
+	5: Trinidad Cardona (0.68%)
+Top country
+	1: US (53.28%)
+	2: PT (16.06%)
+	3: GB (10.95%)
+	4: QZ (5.11%)
+	5: QM (2.92%)
+Top record
+	1: UM7 (24.82%)
+	2: AT2 (8.03%)
+	3: UG1 (5.84%)
+	4: SM1 (5.11%)
+	5: AHS (4.38%)
+Top year
+	1: 19 (16.79%)
+	2: 21 (16.06%)
+	3: 20 (13.14%)
+	4: 18 (8.03%)
+	5: 16 (7.30%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  137.000000    137.000000    137.000000        137.000000   137.000000  137.000000  137.000000  137.000000
+mean    64.218978      0.216184      0.663839          0.025787     0.117248  121.811146    0.510210    0.662970
+std     19.082143      0.244774      0.129343          0.118519     0.112647   29.009922    0.244087    0.160589
+min      8.000000      0.000245      0.308000          0.000000     0.028000   75.002000    0.038600    0.054900
+25%     51.000000      0.025500      0.577000          0.000000     0.041500   97.989000    0.324000    0.551000
+50%     72.000000      0.092800      0.671000          0.000000     0.060100  119.952000    0.484000    0.685000
+75%     77.000000      0.349000      0.756000          0.000046     0.175000  141.931000    0.704000    0.780000
+max     94.000000      0.959000      0.950000          0.852000     0.530000  186.003000    0.967000    0.970000

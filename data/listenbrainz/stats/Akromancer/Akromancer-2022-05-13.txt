@@ -1,19 +1,19 @@
-Electronic artists found: Diplo,Morgan Wallen, Travis Scott, Loote,Garrett Nash
-Electronic genres found: slap house, edm, pop edm, tropical house, electro house, moombahton
+Electronic artists found: Travis Scott, Diplo,Morgan Wallen, Loote,Garrett Nash
+Electronic genres found: pop edm, electro house, tropical house, slap house, moombahton, edm
 Electronic music logs found: 1.62% 
 
 Top genres
-	1: melodic rap (15.32%)
-	2: rap (15.14%)
-	3: dfw rap (12.15%)
-	4: gymcore (5.81%)
-	5: post-screamo (5.81%)
+	1: melodic rap (15.43%)
+	2: rap (15.25%)
+	3: dfw rap (12.23%)
+	4: gymcore (5.85%)
+	5: post-screamo (5.67%)
 Top artists
-	1: Papercut Massacre (0.79%)
-	2: Juice WRLD (0.79%)
-	3: Megan Thee Stallion (0.79%)
-	4: Oceans Divide (0.79%)
-	5: Tommy Lee (0.79%)
+	1: WATT (0.79%)
+	2: Fivefold (0.79%)
+	3: Roddy Ricch (0.79%)
+	4: Post Malone (0.79%)
+	5: Take The Day (0.79%)
 Top country
 	1: US (60.54%)
 	2: TC (12.43%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  185.000000    185.000000    185.000000        185.000000   185.000000  185.000000  185.000000  185.000000
-mean    55.362162      0.175227      0.587427          0.008754     0.078899  125.640541    0.390532    0.699249
-std     16.957545      0.208117      0.140376          0.080025     0.055879   31.153366    0.186493    0.167914
+mean    55.605405      0.175227      0.587427          0.008754     0.078899  125.640541    0.390532    0.699249
+std     17.100756      0.208117      0.140376          0.080025     0.055879   31.153366    0.186493    0.167914
 min     14.000000      0.000004      0.224000          0.000000     0.022900   72.976000    0.060500    0.227000
 25%     41.000000      0.002940      0.487000          0.000000     0.042500   95.074000    0.253000    0.576000
 50%     59.000000      0.093100      0.588000          0.000000     0.058500  129.915000    0.367000    0.678000
-75%     68.000000      0.277000      0.695000          0.000009     0.086600  150.068000    0.509000    0.838000
+75%     69.000000      0.277000      0.695000          0.000009     0.086600  150.068000    0.509000    0.838000
 max     86.000000      0.841000      0.898000          0.895000     0.313000  196.213000    0.925000    0.986000

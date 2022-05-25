@@ -1,0 +1,45 @@
+Electronic artists found: League of Legends,Nicki Taylor, Bawrut,LIBERATO, LUM!X,PIA MARIA
+Electronic genres found: dark disco, melbourne bounce international, video game music, slap house
+Electronic music logs found: 8.33% 
+
+Top genres
+	1: italian hip hop (17.35%)
+	2: italian indie pop (17.35%)
+	3: r&b italiano (17.35%)
+	4: rap napoletano (17.35%)
+	5: swedish pop (3.06%)
+Top artists
+	1: LUM!X (3.85%)
+	2: Bawrut (3.85%)
+	3: LIBERATO (3.85%)
+	4: 3D (3.85%)
+	5: Alvan (3.85%)
+Top country
+	1: FR (50.00%)
+	2: QZ (13.89%)
+	3: SE (8.33%)
+	4: NL (8.33%)
+	5: NO (5.56%)
+Top record
+	1: 0ML (47.22%)
+	2: H6S (13.89%)
+	3: UM7 (11.11%)
+	4: 5YN (8.33%)
+	5: G66 (5.56%)
+Top year
+	1: 22 (47.22%)
+	2: 21 (16.67%)
+	3: 19 (16.67%)
+	4: 17 (8.33%)
+	5: 20 (8.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   36.000000     36.000000     36.000000         36.000000    36.000000   36.000000  36.000000  36.000000
+mean    60.638889      0.173811      0.579917          0.036629     0.101511  120.231000   0.430786   0.626056
+std     12.572425      0.184676      0.125998          0.163947     0.085887   27.417701   0.220190   0.178952
+min     37.000000      0.000397      0.292000          0.000000     0.028200   77.011000   0.049200   0.288000
+25%     52.750000      0.060950      0.496500          0.000000     0.038575   96.819000   0.191000   0.529000
+50%     62.000000      0.107000      0.587000          0.000007     0.063200  121.508000   0.482000   0.611000
+75%     68.500000      0.207500      0.689000          0.000481     0.122500  139.988750   0.603250   0.780000
+max     89.000000      0.681000      0.794000          0.919000     0.332000  192.024000   0.747000   0.972000

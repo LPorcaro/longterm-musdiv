@@ -1,0 +1,30 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: dance pop (25.00%)
+	2: pop (25.00%)
+	3: r&b (25.00%)
+	4: urban contemporary (25.00%)
+Top artists
+	1: Salaam Remi (33.33%)
+	2: J. Cole (33.33%)
+	3: Miguel (33.33%)
+Top country
+	1: US (100.00%)
+Top record
+	1: RC1 (100.00%)
+Top year
+	1: 17 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness   tempo  valence  energy
+count         1.0         1.000         1.000               1.0        1.000   1.000    1.000   1.000
+mean         67.0         0.158         0.461               0.0        0.327  81.628    0.588   0.653
+std           NaN           NaN           NaN               NaN          NaN     NaN      NaN     NaN
+min          67.0         0.158         0.461               0.0        0.327  81.628    0.588   0.653
+25%          67.0         0.158         0.461               0.0        0.327  81.628    0.588   0.653
+50%          67.0         0.158         0.461               0.0        0.327  81.628    0.588   0.653
+75%          67.0         0.158         0.461               0.0        0.327  81.628    0.588   0.653
+max          67.0         0.158         0.461               0.0        0.327  81.628    0.588   0.653

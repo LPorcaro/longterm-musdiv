@@ -1,0 +1,817 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0UAB340gAcSMk3r0a8PTag	One Direction	More Than This	GBHMU1100163	63	boy band,pop,post-teen pop,talent show	0.0607	0.498	0.0	0.0315	151.809	0.225	0.715
+3bNv3VuUOKgrf5hu3YcuRo	Adele	Someone Like You	GBBKS1000351	78	british soul,pop,pop soul,uk pop	0.893	0.556	0.0	0.0281	135.187	0.294	0.319
+1HNkqx9Ahdgi1Ixy2xkKkL	Ed Sheeran	Photograph	GBAHS1400094	82	pop,uk pop	0.607	0.614	0.000464	0.0476	107.989	0.201	0.379
+6M31fPFCYB8Job3MCjjrDV	One Direction	They Don't Know About Us	GBHMU1200368	75	boy band,pop,post-teen pop,talent show	0.126	0.514	0.0	0.0492	147.917	0.37	0.727
+3f3omU8n47Mqyab5nCaGyT	Kelly Clarkson	Because of You	GBCTA0400265	67	dance pop,neo mellow,pop,post-teen pop,talent show	0.254	0.583	0.0	0.0314	140.039	0.136	0.584
+2FhWY5qi1omQgkjuIlEiiU	Demi Lovato	Skyscraper	USHR11132837	45	dance pop,pop,post-teen pop	0.148	0.573	0.0	0.0276	103.82	0.188	0.581
+0zv9bOC2NSMd3Fw2HgM5Xn	Adam Lambert	Whataya Want from Me	GBCTA0900344	56	dance pop,idol,pop,post-teen pop	0.0055	0.438	0.0	0.0429	185.934	0.457	0.672
+7vRriwrloYVaoAe3a9wJHe	Garrett Nash,Olivia O'Brien	i hate u, i love u (feat. olivia o'brien)	USAT21601051	76	pop,pop rap	0.687	0.492	0.0	0.3	92.6	0.18	0.275
+2vwlzO0Qp8kfEtzTsCXfyE	Miley Cyrus	Wrecking Ball	USRC11301214	76	dance pop,pop,post-teen pop	0.407	0.53	0.0	0.0342	119.964	0.349	0.422
+5XHf9PBxxHmJFuiDkGNIOA	Avril Lavigne	Wish You Were Here	USRC11100010	64	canadian pop,candy pop,dance pop,pop,post-teen pop	0.0323	0.454	0.0	0.0561	166.018	0.34	0.865
+0sp00HSXkQyqTa6QqM0O8V	Linkin Park	Leave Out All The Rest	USWB10701212	66	alternative metal,nu metal,post-grunge,rap metal	0.209	0.509	1.99e-06	0.0335	80.012	0.237	0.629
+71iSmEeF0qRVyULABxP75P	Florence + The Machine	Shake It Out	GBUM71107355	65	baroque pop,pop,uk alternative pop	0.00878	0.519	0.0	0.0371	107.489	0.226	0.799
+1wVuPmvt6AWvTL5W2GJnzZ	Bruno Mars	Talking to the Moon	USAT21001985	75	dance pop,pop	0.511	0.498	0.0	0.032	145.867	0.0784	0.59
+0kN8xEmgMW9mh7UmDYHlJP	Bruno Mars	Versace on the Floor	USAT21602949	72	dance pop,pop	0.196	0.578	0.0	0.0454	174.152	0.301	0.574
+40fvlRGSBSEYWTgCpRyVqf	Christina Aguilera	Beautiful	USRC10201067	39	dance pop,pop,post-teen pop	0.624	0.435	3.32e-06	0.0279	76.218	0.0987	0.567
+4SEZthmPtszZPaktPLRX6J	P!nk	F**kin' Perfect	USLF21000091	58	dance pop,pop	0.0422	0.563	0.0	0.0373	91.964	0.45	0.671
+2hns6Dv29Yrg68AVTJiAyA	P!nk	Who Knew	USLF20600021	68	dance pop,pop	0.00462	0.688	0.0	0.0274	140.004	0.46	0.734
+3goSVuTt3fDYDP6kRnFwuL	Rihanna	Take A Bow	USUM70809004	73	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.248	0.697	0.0	0.0715	82.082	0.572	0.467
+4He7bzKBaiu7CRz4wGkZzx	Demi Lovato	Don't Forget	USHR10824103	52	dance pop,pop,post-teen pop	0.507	0.641	1.71e-06	0.0899	179.967	0.612	0.451
+0pwYLVXVknPSGUQb39cePC	Justin Bieber,Big Sean	As Long As You Love Me	USUM71205320	66	canadian pop,pop	0.0811	0.571	0.0	0.1	139.691	0.613	0.873
+0nxvFG50rGXkiGQqOO2MHr	Justin Bieber	Be Alright	USUM71205315	55	canadian pop,pop	0.589	0.803	0.0	0.0326	106.95	0.739	0.356
+5CZ1XU3DiHnhGM3NpySKyh	Snow Patrol	What If This Is All The Love You Ever Get?	GBUM71703799	45	irish rock,modern rock,neo mellow,permanent wave,pop rock	0.959	0.698	7.89e-05	0.0569	147.597	0.344	0.122
+5hnyJvgoWiQUYZttV4wXy6	Snow Patrol	Chasing Cars	GBUM70600345	68	irish rock,modern rock,neo mellow,permanent wave,pop rock	0.199	0.56	6.47e-05	0.0274	104.011	0.144	0.595
+14hJ5tc1VCFMWhVn9axRTC	Shawn Mendes	Life Of The Party	USUM71407508	62	canadian pop,pop,viral pop	0.0663	0.666	0.0	0.0314	113.978	0.161	0.615
+2afCBiru10AFckfOa49wIa	One Direction	You & I	GBHMU1300213	75	boy band,pop,post-teen pop,talent show	0.22	0.574	0.0	0.0274	130.993	0.356	0.329
+1T7AiFL9ruKKwlONN35Vh0	Shawn Mendes	A Little Too Much	USUM71500660	61	canadian pop,pop,viral pop	0.473	0.451	0.0	0.0316	165.76	0.564	0.507
+4lLtanYk6tkMvooU0tWzG8	Bruno Mars	Grenade	USAT21001883	76	dance pop,pop	0.148	0.704	0.0	0.0542	110.444	0.245	0.558
+0TAmnCzOtqRfvA38DDLTjj	One Direction	Little Things	GBHMU1200361	73	boy band,pop,post-teen pop,talent show	0.811	0.709	0.0	0.0327	110.076	0.53	0.22
+39jXnbACjiaiTwwhsr5sY5	Niall Horan	Too Much To Ask	USUG11701396	68	dance pop,pop,post-teen pop	0.371	0.443	0.0	0.0396	77.344	0.201	0.533
+1oQZk2bKBLgP1cbuFKvjkq	Beyoncé	If I Were a Boy	USSM10803202	66	dance pop,pop,r&b	0.0953	0.63	0.0	0.0334	89.946	0.487	0.504
+2EcsgXlxz99UMDSPg5T8RF	Labrinth,Emeli Sandé	Beneath Your Beautiful (feat. Emeli Sandé)	GBHMU1200008	67	indie poptimism,pop	0.227	0.561	0.0	0.0318	83.962	0.238	0.522
+7zP67rufQgoODWFI45jntD	Beyoncé	Broken-Hearted Girl	USSM10804727	55	dance pop,pop,r&b	0.495	0.453	0.0	0.0325	83.413	0.144	0.425
+3Z1kZKYfRC8iRXnYeC5sCJ	Taylor Swift,Ed Sheeran	Everything Has Changed	USCJY1231044	65	pop	0.36	0.624	3.89e-06	0.0287	80.016	0.436	0.458
+3lBRNqXjPp2j3JMTCXDTNO	Beyoncé	Best Thing I Never Had	USSM11102904	68	dance pop,pop,r&b	0.143	0.545	1.57e-05	0.0324	99.099	0.297	0.649
+13xxBnXOuiBxVxJI458B0i	Rihanna	Unfaithful	USUM70601995	68	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.839	0.588	0.0	0.0334	144.069	0.349	0.391
+5x5JM1BSB6vollcIzDocqT	Miley Cyrus	The Climb	USWD10935758	72	dance pop,pop,post-teen pop	0.0635	0.336	0.0	0.0325	161.01	0.299	0.602
+4UPcXTh26ilb7owtuyHqNI	Avril Lavigne	Keep Holding On	USRC10602180	62	canadian pop,candy pop,dance pop,pop,post-teen pop	0.0374	0.162	0.0	0.038	161.192	0.138	0.786
+4fwbGKNExPtPHbor1TBSY4	Katy Perry	Unconditionally	USUM71311295	60	dance pop,pop,post-teen pop	0.00266	0.397	0.0	0.043	128.861	0.358	0.725
+7GAaTpSoTWUTbP2Yxlt4Hd	Lady A	Need You Now	USCN10900695	72	contemporary country,country,country dawn,country pop,country road,neo mellow	0.0298	0.581	0.000186	0.0318	107.884	0.316	0.717
+54JKnDB3CzVu8wNAOM27BI	Avril Lavigne	When You're Gone	USRC10700004	67	canadian pop,candy pop,dance pop,pop,post-teen pop	0.191	0.457	0.0	0.0323	142.034	0.168	0.719
+0dIOvducp7ujHTqj66cQ3X	5 Seconds of Summer	Amnesia	GBUM71401926	65	boy band,dance pop,pop,post-teen pop	0.0343	0.594	0.0	0.0303	101.668	0.101	0.497
+6bFsQ6yOp3z5mGNkhWP0P1	James Morrison	You Give Me Something	GBUM70600967	63	neo mellow,neo soul,pop,pop rock	0.216	0.559	0.0	0.114	79.753	0.578	0.688
+7lUA4P03AhwAw40JHkdyGr	Beyoncé	Pretty Hurts	USSM11307798	61	dance pop,pop,r&b	0.00308	0.512	0.000164	0.0508	129.935	0.201	0.625
+2CvOqDpQIMw69cCzWqr5yr	Beyoncé	Halo	USSM10804556	71	dance pop,pop,r&b	0.273	0.422	0.0	0.1	78.454	0.471	0.712
+4iHUBqALsttdeXVRXlTMQJ	P!nk	Please Don't Leave Me	USLF20800182	54	dance pop,pop	0.00985	0.586	0.0	0.0363	138.002	0.763	0.839
+1mKXFLRA179hdOWQBwUk9e	P!nk,Nate Ruess	Just Give Me a Reason (feat. Nate Ruess)	USRC11200786	78	dance pop,pop	0.346	0.778	0.000302	0.0489	95.002	0.441	0.547
+0gJvqi9QyASOCtJu99tytc	Kelly Clarkson	Because of You	GBCTA0400265	70	dance pop,neo mellow,pop,post-teen pop,talent show	0.248	0.587	0.0	0.0313	139.92	0.15	0.583
+3TcL0dyCMyr0kyTTc4NLgI	Selena Gomez & The Scene	Who Says	USHR11132695	74	dance pop,pop,post-teen pop	0.0843	0.682	0.0	0.0479	101.019	0.744	0.927
+0HZhYMZOcUzZKSFwPOti6m	Christina Perri	Jar of Hearts	USAT21001508	71	dance pop,neo mellow,pop,pop rock,post-teen pop,viral pop	0.726	0.349	0.0	0.0316	74.541	0.0886	0.348
+6z5Yh7kOKeLjqIsNdokIpU	Christina Perri	A Thousand Years	USAT21102141	69	dance pop,neo mellow,pop,pop rock,post-teen pop,viral pop	0.309	0.421	0.000961	0.0267	139.028	0.161	0.407
+6jBUP2KCe821yqf1hiBqPR	James Morrison,Nelly Furtado	Broken Strings	GBUM70810083	68	neo mellow,neo soul,pop,pop rock	0.00967	0.57	0.0	0.029	111.91	0.321	0.717
+6GNRkaWUB0Lwc19SdkTgx8	Taylor Swift	All Too Well	USCJY1231021	64	pop	0.0382	0.602	0.0002	0.0243	93.06	0.337	0.609
+5l6GqSxplqnZbLg0LTPQeG	Taylor Swift	Back To December	GBUM71027838	63	pop	0.0202	0.517	0.0	0.0289	141.929	0.296	0.606
+6dgWWAs5yhWPOtvE1zuoQ1	Fergie	Big Girls Don't Cry (Personal)	USUM70609115	68	dance pop,pop,post-teen pop,urban contemporary	0.205	0.708	0.0	0.0335	113.082	0.253	0.641
+514rhnksEwHUh6LxXsQ4Y9	Selena Gomez	Back To You	USUM71805992	68	dance pop,pop,post-teen pop	0.0984	0.6	1.26e-06	0.0493	102.036	0.494	0.683
+7dZ1Odmx9jWIweQSatnRqo	Lady Gaga	Million Reasons	USUM71609736	74	art pop,dance pop,pop	0.494	0.666	0.0	0.043	129.89	0.154	0.423
+5Qevo5QToL2p7q1umdLtTC	P!nk	I Don't Believe You	USLF20800180	48	dance pop,pop	0.755	0.325	0.0	0.0313	116.939	0.239	0.274
+5H0ajL4EHsrcAEGESo2Lzx	Maroon 5	Love Somebody	USUM71204774	60	pop	0.134	0.675	0.0	0.0365	120.018	0.4	0.783
+3KWavdcNkuCYvgJaRABYAD	Maroon 5	Won't Go Home Without You	USUM70731562	37	pop	0.0146	0.738	0.0	0.0318	110.025	0.434	0.614
+7sapKrjDij2fpDVj0GxP66	Maroon 5	She Will Be Loved	USJAY0300082	72	pop	0.0596	0.706	0.0	0.0301	102.037	0.544	0.713
+1mXVgsBdtIVeCLJnSnmtdV	Sam Smith	Too Good At Goodbyes	GBUM71704089	78	dance pop,pop,uk pop	0.64	0.681	0.0	0.0432	91.873	0.476	0.372
+5ubHAQtKuFfiG4FXfLP804	Ed Sheeran	Lego House	GBAHS1100206	70	pop,uk pop	0.562	0.592	0.0	0.0992	159.701	0.565	0.637
+5TvE3pk05pyFIGdSY9j4DJ	A Great Big World,Christina Aguilera	Say Something	USSM11306713	68	modern rock,neo mellow,piano rock,pop,pop rock,viral pop	0.857	0.407	2.89e-06	0.0355	141.284	0.0765	0.147
+1NNAI51EuoRWw1ydX1zV7S	Maroon 5	Daylight	USUM71204771	65	pop	0.00242	0.656	0.0	0.0269	120.001	0.369	0.674
+3DamFFqW32WihKkTVlwTYQ	Owl City	Fireflies	USUM70972068	77	indietronica,modern rock,pop,pop rock	0.0275	0.512	0.0	0.0439	180.114	0.472	0.662
+1VdZ0vKfR5jneCmWIUAMxK	Ed Sheeran	The A Team	GBAHS1100095	73	pop,uk pop	0.669	0.642	0.0	0.0367	84.996	0.407	0.289
+3S0OXQeoh0w6AY8WQVckRW	Jason Mraz	I'm Yours	USEE10800667	72	acoustic pop,neo mellow,pop,pop rock	0.559	0.703	0.0	0.0417	150.96	0.712	0.444
+3ZffCQKLFLUvYM59XKLbVm	Green Day	Wake Me up When September Ends	USRE10400992	74	permanent wave,punk	0.023	0.546	0.0	0.0314	104.98	0.146	0.814
+5aIZ2jtxZ4o4GHQXTybkIa	OneRepublic	Something I Need	USUM71301310	58	dance pop,piano rock,pop,pop rock	0.134	0.683	0.0	0.0314	98.982	0.628	0.591
+5fVZC9GiM4e8vu99W0Xf6J	The Fray	How to Save a Life	USSM10601178	78	neo mellow,piano rock,pop,pop rock	0.269	0.64	0.0	0.0379	122.035	0.361	0.743
+4RCWB3V8V0dignt99LZ8vH	Plain White T's	Hey There Delilah	US5260507213	77	neo mellow,pop punk,pop rock	0.872	0.656	0.0	0.0293	103.971	0.298	0.291
+4IoYz8XqqdowINzfRrFnhi	The Fray	You Found Me	USSM10803009	72	neo mellow,piano rock,pop,pop rock	0.0187	0.338	0.0	0.0413	151.994	0.4	0.803
+3NLrRZoMF0Lx6zTlYqeIo4	3 Doors Down	Here Without You	USUR10200764	73	alternative metal,nu metal,pop rock,post-grunge	0.0492	0.557	0.0	0.0252	143.994	0.233	0.533
+77loZpT5Y5PRP1S451P9Yz	Hoobastank	The Reason	USIR20300704	78	alternative metal,funk metal,nu metal,pop rock,post-grunge,rock	0.0129	0.472	0.0	0.029	82.952	0.0681	0.671
+2YlZnw2ikdb837oKMKjBkW	Meghan Trainor,John Legend	Like I'm Gonna Lose You (feat. John Legend)	USSM11408374	76	dance pop,hip pop,pop,post-teen pop	0.4	0.63	0.0	0.0434	108.038	0.417	0.53
+4QJLKU75Rg4558f4LbDBRi	Nickelback	If Today Was Your Last Day	NLA320887846	65	alternative metal,canadian rock,nu metal,post-grunge	8.67e-05	0.485	0.0	0.0355	89.956	0.568	0.911
+0ADZ5dmXhlfzjMw6lefoPl	Nickelback	Far Away	NLA320581338	69	alternative metal,canadian rock,nu metal,post-grunge	0.000681	0.518	0.0	0.0309	132.918	0.293	0.797
+4Gd9PUEuOTOJtbgd4YxLXM	Nickelback	Savin' Me	NLA320581344	64	alternative metal,canadian rock,nu metal,post-grunge	0.000731	0.441	0.0	0.0276	164.007	0.522	0.815
+0gmbgwZ8iqyMPmXefof8Yf	Nickelback	How You Remind Me	NLA320119533	77	alternative metal,canadian rock,nu metal,post-grunge	0.00135	0.446	0.0	0.033	172.094	0.543	0.764
+5O9OqGQBPbYFkqh6nXzgZb	OneRepublic	All The Right Moves	USUM70984099	31	dance pop,piano rock,pop,pop rock	0.259	0.528	1e-05	0.0475	146.036	0.651	0.948
+5Z0NSQVSXBlgqhqlMFPsZS	OneRepublic	Stop And Stare	USUM70758804	39	dance pop,piano rock,pop,pop rock	0.0659	0.492	0.0	0.0332	92.474	0.251	0.859
+6q3zC9dDD4lUNk8nfUztXy	Timbaland,OneRepublic	Apologize	USUM70722793	49	dance pop,hip hop,hip pop,pop,pop rap,urban contemporary	0.0361	0.657	0.0	0.0296	118.042	0.0779	0.604
+1NhPKVLsHhFUHIOZ32QnS2	OneRepublic	Secrets	USUM70985644	73	dance pop,piano rock,pop,pop rock	0.0717	0.516	0.0	0.0366	148.021	0.376	0.764
+6EzSy7WxNCazx3csu7lxdV	The Script	If You Could See Me Now	GBARL1201145	59	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.00569	0.602	0.0	0.0399	100.017	0.368	0.758
+49kjlZP49LMD1MrrcvXDET	The Script	For the First Time	GBARL1000776	65	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.0339	0.388	0.0	0.0275	173.947	0.381	0.633
+3nqqDo8CcCLke3ZoTgiOKf	The Script	The Man Who Can't Be Moved	GBARL0800144	69	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.437	0.605	0.0	0.0279	99.894	0.308	0.629
+285hMzLhJwHVLe9QT9qilk	The Script	Breakeven	GBARL0800147	72	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.144	0.63	0.0	0.0242	94.034	0.491	0.696
+66CFbqJScx6zRieGllITcs	Wiz Khalifa,Charlie Puth	See You Again (feat. Charlie Puth)	USAT21503426	56	dance pop,hip hop,pittsburgh rap,pop rap,rap,southern hip hop,trap	0.369	0.689	1.03e-06	0.0815	80.025	0.283	0.481
+37R0bQOQj5a7DOqh1TGzvB	Charlie Puth	One Call Away	USAT21502703	69	dance pop,pop,viral pop	0.403	0.667	0.0	0.0344	91.024	0.47	0.613
+6ukMqDxnOPOgoHdak7Kyp3	Charlie Puth,Meghan Trainor	Marvin Gaye (feat. Meghan Trainor)	USAT21500254	64	dance pop,pop,viral pop	0.417	0.795	0.0	0.06	110.015	0.815	0.616
+1lsBTdE6MGsKeZCD6llNu7	Charlie Puth,Kehlani	Done for Me (feat. Kehlani)	USAT21702279	66	dance pop,pop,viral pop	0.193	0.856	0.0	0.074	112.009	0.697	0.632
+5cF0dROlMOK5uNZtivgu50	Charlie Puth	Attention	USAT21700928	79	dance pop,pop,viral pop	0.109	0.775	2.33e-05	0.0542	100.066	0.797	0.613
+6wmAHw1szh5RCKSRjiXhPe	Charlie Puth	How Long	USAT21702278	71	dance pop,pop,viral pop	0.211	0.845	3.49e-06	0.0778	109.974	0.811	0.561
+06KyNuuMOX1ROXRhj787tj	Charlie Puth,Selena Gomez	We Don't Talk Anymore (feat. Selena Gomez)	USAT21502909	78	dance pop,pop,viral pop	0.621	0.728	0.0	0.134	100.017	0.352	0.563
+7DFNE7NO0raLIUbgzY2rzm	Passenger	Let Her Go	GBMQN1100004	72	folk-pop,neo mellow,pop,pop rock	0.385	0.509	0.0	0.0572	75.089	0.244	0.538
+4rkUEE5iTzG0szS8k8QzqR	Jessie J	"Flashlight - From ""Pitch Perfect 2"" Soundtrack"	USUM71504653	70	dance pop,pop,pop rap,post-teen pop	0.314	0.383	7.21e-06	0.0515	147.625	0.48	0.616
+6kls8cSlUyHW2BUOkDJIZE	Ellie Goulding,Juice WRLD	Hate Me (with Juice WRLD)	GBUM71902944	73	dance pop,edm,electropop,indietronica,metropopolis,pop,uk pop	0.108	0.657	0.0	0.0507	75.025	0.759	0.768
+5WQrDB34o6M8V0jxNiX6RU	Juice WRLD	Fast	USUG11900385	71	chicago rap,melodic rap	0.426	0.623	0.0	0.0435	84.982	0.263	0.607
+2MFFrpPKrGnyJuVjcfdm4w	Juice WRLD	Hear Me Calling	USUG11900313	68	chicago rap,melodic rap	0.308	0.699	3.63e-05	0.106	88.933	0.499	0.687
+6Gg1gjgKi2AK4e0qzsR7sd	Juice WRLD,YoungBoy Never Broke Again	Bandit (with YoungBoy Never Broke Again)	USUG11903492	74	chicago rap,melodic rap	0.0687	0.474	0.0	0.343	180.051	0.425	0.631
+5wujBwqG7INdStqGd4tRMX	Juice WRLD	Armed And Dangerous	USUG11802039	76	chicago rap,melodic rap	0.186	0.736	0.0	0.311	130.032	0.845	0.67
+6iaSML1PIYq936g62BDtBq	Juice WRLD	Robbery	USUG11900302	79	chicago rap,melodic rap	0.328	0.623	0.0	0.0504	79.899	0.566	0.692
+4VXIryQMWpIdGgYR4TrjT1	Juice WRLD	All Girls Are The Same	USUG11800651	80	chicago rap,melodic rap	0.0769	0.671	0.000335	0.307	161.989	0.203	0.529
+285pBltuF7vW8TeWk8hdRR	Juice WRLD	Lucid Dreams	USUG11800685	82	chicago rap,melodic rap	0.349	0.511	0.0	0.2	83.903	0.218	0.566
+7AvprzMsRJpybaalckaT8c	Juice WRLD	Man Of The Year	USUG12002591	69	chicago rap,melodic rap	0.00584	0.621	0.0	0.0911	173.966	0.298	0.695
+2SVx3uds6jTWALFxevIWMA	Juice WRLD	I Want It	USUG12002094	65	chicago rap,melodic rap	0.133	0.288	8.16e-05	0.0779	66.424	0.147	0.638
+1YM6c2sxbf2Jacl9IFgn4I	Juice WRLD	Titanic	USUG12002099	67	chicago rap,melodic rap	0.168	0.567	0.0	0.0448	174.146	0.234	0.545
+0ada5XsQGLPUVbmTCkAP49	Juice WRLD,Marshmello,The Kid LAROI,Polo G	Hate The Other Side (with Marshmello & The Kid Laroi)	USUG12002092	74	chicago rap,melodic rap	0.291	0.701	0.0	0.104	90.003	0.647	0.65
+4K06PO78fW4mnBVenxGNob	Juice WRLD	Conversations	USUG12001896	71	chicago rap,melodic rap	0.176	0.747	0.0	0.0838	159.93	0.57	0.622
+4Lxseh0wN7N0ljiOh8KwbU	Juice WRLD,Marshmello	Come & Go (with Marshmello)	USUG12001904	62	chicago rap,melodic rap	0.0173	0.625	0.0	0.0659	144.994	0.532	0.811
+2U5WueTLIK5WJLD7mvDODv	Juice WRLD	Wishing Well	USUG12001905	79	chicago rap,melodic rap	0.00336	0.65	0.0	0.128	149.972	0.0804	0.613
+09NtNfFG4vpHsAUbdUug0M	Juice WRLD,The Weeknd	Smile (with The Weeknd)	USUG12002598	60	chicago rap,melodic rap	0.225	0.694	0.0	0.134	158.864	0.27	0.671
+4O3RwH1TFG1EjPezLIYehI	Juice WRLD,Clever,Post Malone	Life's A Mess II (with Clever & Post Malone)	USUG12100792	68	chicago rap,melodic rap	0.806	0.53	0.0	0.0279	140.061	0.701	0.37
+0pqnGHJpmpxLKifKRmU6WP	Imagine Dragons	Believer	USUM71700626	85	modern rock,rock	0.0622	0.776	0.0	0.128	124.949	0.666	0.78
+0KAiuUOrLTIkzkpfpn9jb9	Train	Drive By	USSM11106876	76	dance pop,neo mellow,pop,pop rock	0.00107	0.765	1.06e-05	0.032	122.028	0.721	0.837
+2tpWsVSb9UEmDRxAl1zhX1	OneRepublic	Counting Stars	USUM71301306	82	dance pop,piano rock,pop,pop rock	0.0654	0.664	0.0	0.0382	122.016	0.477	0.705
+37sINbJZcFdHFAsVNsPq1i	The Script	Superheroes	GBARL1400978	72	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.00218	0.49	0.0	0.0396	166.996	0.64	0.885
+1kFlDnWmBTvCBxxeGDpIdp	Sik World	7 Years (Remix)	TCACP1611781	68	pop rap,rap,sad rap	0.227	0.811	0.0	0.0996	120.071	0.439	0.609
+7y9iMe8SOB6z3NoHE2OfXl	Halsey	Bad At Love	USUM71702220	71	dance pop,electropop,etherpop,indie poptimism,pop	0.0604	0.675	0.0	0.0296	118.384	0.612	0.751
+5IF6IBPqbclVR7SQKmCIyA	Louis Tomlinson	Just Like You	GBHMU1700059	56	pop	0.364	0.703	0.0	0.203	138.032	0.471	0.628
+2dpaYNEQHiRxtZbfNsse99	Marshmello,Bastille	Happier	USUG11801651	81	brostep,dance pop,edm,pop,pop dance,progressive electro house	0.191	0.687	0.0	0.0452	100.015	0.671	0.792
+71Uqwm5XGcqnWOg6MS4Wi3	Miley Cyrus	When I Look At You	USHR11024814	42	dance pop,pop,post-teen pop	0.128	0.426	0.0	0.0289	139.058	0.276	0.562
+4G92yYrUs0cvY7G41YRI0z	Labrinth	Jealous	GBHMU1400291	74	indie poptimism,pop	0.874	0.439	0.0	0.0479	116.76	0.104	0.153
+0qvzXomUDJVaUboy2wMfiS	Niall Horan	This Town	USUG11601029	76	dance pop,pop,post-teen pop	0.712	0.677	0.0	0.0308	111.825	0.195	0.401
+5wANPM4fQCJwkGd4rN57mH	Olivia Rodrigo	drivers license	USUG12004749	87	pop	0.768	0.561	1.42e-05	0.0578	143.875	0.137	0.431
+6HU7h9RYOaPRFeh0R3UeAr	Olivia Rodrigo	deja vu	USUG12101240	86	pop	0.584	0.442	5.7e-06	0.112	180.917	0.178	0.612
+0u2P5u6lvoDfwTYjAADbn4	Billie Eilish,Khalid	lovely (with Khalid)	USUM71804190	85	art pop,electropop,pop	0.934	0.351	0.0	0.0333	115.284	0.12	0.296
+1Q2z1qC6C0Db6nDFkwr9wd	Riverdale Cast,Camila Mendes,KJ Apa,Lili Reinhart	Mad World (feat. K.J. Apa, Camila Mendes & Lili Reinhart)	USNLR1701147	54	post-teen pop	0.59	0.476	0.0	0.0339	171.764	0.239	0.343
+21jGcNKet2qwijlDFuPiPb	Post Malone	Circles	USUM71915699	84	dfw rap,melodic rap,rap	0.192	0.695	0.00244	0.0395	120.042	0.553	0.762
+1ZMiCix7XSAbfAJlEZWMCp	Harry Styles	Falling	USSM11912590	84	pop	0.839	0.567	1.46e-06	0.0299	110.011	0.0592	0.267
+0nJW01T7XtvILxQgC5J7Wh	Bruno Mars	When I Was Your Man	USAT21206701	82	dance pop,pop	0.932	0.612	0.0	0.0434	72.795	0.387	0.28
+2nMeu6UenVvwUktBCpLMK9	Lana Del Rey	Young And Beautiful	GBUM71301823	77	art pop,pop	0.262	0.324	3.69e-05	0.0368	113.986	0.151	0.416
+0rpIH5otu7ykvZPdcQuRPh	Snow Patrol	Chasing Cars	GBUM70600345	57	irish rock,modern rock,neo mellow,permanent wave,pop rock	0.214	0.556	8.33e-05	0.0275	104.001	0.144	0.595
+0K7wIocSvzcRISpssBUzfZ	Beyoncé	If I Were a Boy	USSM10803202	58	dance pop,pop,r&b	0.107	0.632	0.0	0.0313	90.007	0.427	0.518
+21TcDbGosp7w9YhTjOszgA	Shawn Mendes	Imagination	USUM71500655	73	canadian pop,pop,viral pop	0.0743	0.64	0.0	0.0247	89.948	0.333	0.455
+7hDVYcQq6MxkdJGweuCtl9	Billie Eilish	ocean eyes	US23A1500056	77	art pop,electropop,pop	0.816	0.511	0.0317	0.041	144.892	0.169	0.363
+2VxeLyX666F8uXCJ0dZF8B	Lady Gaga,Bradley Cooper	Shallow	USUM71813192	81	art pop,dance pop,pop	0.371	0.572	0.0	0.0308	95.799	0.323	0.385
+2RttW7RAu5nOAfq6YFvApB	Ed Sheeran	Happier	GBAHS1700028	78	pop,uk pop	0.536	0.522	0.0	0.0288	89.792	0.236	0.385
+3U4isOIWM3VvDubwSI3y7a	John Legend	All of Me	USSM11303954	83	neo soul,pop,pop soul,r&b,urban contemporary	0.922	0.422	0.0	0.0322	119.93	0.331	0.264
+3B7udSGy2PfgoCniMSb523	Ed Sheeran	"I See Fire - From ""The Hobbit - The Desolation Of Smaug"""	USNLR1300728	70	pop,uk pop	0.559	0.581	0.0	0.0397	152.037	0.234	0.0549
+1mj5HO7KEAopJDRZXRnESe	Jessie J	Nobody's Perfect	USUM71100947	51	dance pop,pop,pop rap,post-teen pop	0.00228	0.581	0.0	0.28	163.064	0.663	0.881
+0sY6ZUTh4yoctD8VIXz339	Taylor Swift	champagne problems	USUG12004700	75	pop	0.92	0.462	0.0	0.0377	171.319	0.32	0.24
+4VuS959DSpr82t3qBqCrWG	Ed Sheeran	Supermarket Flowers	GBAHS1700040	73	pop,uk pop	0.914	0.589	0.0	0.0442	89.749	0.257	0.242
+3AJwUDP919kvQ9QcozQPxg	Coldplay	Yellow	GBAYE0000267	85	permanent wave,pop	0.00239	0.429	0.000121	0.0281	173.372	0.285	0.661
+0vg4WnUWvze6pBOJDTq99k	James Blunt	You're Beautiful	USAT20401588	74	neo mellow,pop,pop rock	0.633	0.675	1.76e-05	0.0278	81.998	0.454	0.479
+5uCax9HTNlzGybIStD3vDh	James Arthur	Say You Won't Let Go	DEE861600586	82	pop,talent show,uk pop	0.695	0.358	0.0	0.059	85.043	0.494	0.557
+3nnG7AM9QopHVPEuLX3Khk	James Bay	Let It Go	USUM71405265	70	modern rock,neo mellow,pop,pop rock	0.82	0.536	1.65e-05	0.0288	147.486	0.246	0.311
+2uq0ZXtL4mF5pvZ8LeVIDo	Glee Cast	Pretending	USQX91100414	43	glee club,hollywood,post-teen pop	0.291	0.477	0.0	0.0468	167.947	0.421	0.687
+2IIdrejPZuHHFpc3LbTtEK	Glee Cast	Get It Right	USQX91100231	52	glee club,hollywood,post-teen pop	0.331	0.471	0.0	0.0315	83.681	0.141	0.549
+0Tel1fmuCxEFV6wBLXsEdk	Ed Sheeran	Kiss Me	GBAHS1100208	68	pop,uk pop	0.64	0.589	0.00469	0.0498	74.993	0.182	0.227
+1GEBsLDvJGw7kviySRI6GX	Taylor Swift	You Belong With Me	USCJY0803328	69	pop	0.178	0.687	1.59e-05	0.0379	129.966	0.435	0.745
+1D4PL9B8gOg78jiHg3FvBb	Taylor Swift	Love Story	USCJY0803275	73	pop	0.131	0.617	0.0	0.0311	118.984	0.306	0.741
+2BOqDYLOJBiMOXShCV1neZ	Calum Scott	Dancing On My Own	UK6KW1500205	78	neo mellow,pop	0.837	0.681	3.35e-05	0.0315	112.672	0.231	0.174
+4xqrdfXkTW4T0RauPLv3WA	Conan Gray	Heather	USUM71924264	84	bedroom pop,pop	0.584	0.357	0.0	0.0333	102.078	0.27	0.425
+0bCCGLHflR08UVA6oJJc8I	Lady Gaga	Til It Happens To You	USUM71514581	52	art pop,dance pop,pop	0.565	0.401	0.0	0.035	113.87	0.15	0.539
+30Co9eN7JHPf1i2wEyVSMJ	Justin Bieber	Nothing Like Us	USUM71300154	60	canadian pop,pop	0.987	0.546	6.02e-05	0.0428	72.331	0.512	0.155
+30BsewEJZPxfuLNAlZPFje	Emeli Sandé	Read All About It, Pt. III	GBAAA1200018	64	dance pop,neo soul,pop,r&b,uk pop	0.822	0.63	3.87e-06	0.0249	98.082	0.343	0.44
+5xEM5hIgJ1jjgcEBfpkt2F	Avril Lavigne	Complicated	USAR10200223	77	canadian pop,candy pop,dance pop,pop,post-teen pop	0.0572	0.585	7.74e-06	0.0459	77.987	0.427	0.776
+3XVBdLihbNbxUwZosxcGuJ	Alicia Keys	If I Ain't Got You	USJAY0300452	77	hip pop,neo soul,pop,r&b,urban contemporary	0.603	0.609	6.86e-06	0.106	118.402	0.166	0.444
+1Jaah2tmN9Hv81A87KZ1MU	Natalie Imbruglia	Torn	GBARL9700412	72	dance pop,europop,lilith,new wave pop,pop rock	0.0647	0.575	0.000187	0.034	96.31	0.609	0.886
+0mUyMawtxj1CJ76kn9gIZK	Daniel Powter	Bad Day	USWB10401971	73	canadian pop,neo mellow,pop rock	0.448	0.599	0.00336	0.0309	140.046	0.52	0.785
+6VD5vEK2wVfTG7q84pJ6EO	P!nk	Family Portrait	USAR10100720	55	dance pop,pop	0.0272	0.65	3.56e-06	0.139	183.695	0.735	0.685
+6sqNctd7MlJoKDOxPVCAvU	Avril Lavigne	My Happy Ending	USAR10400486	67	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00136	0.414	0.0	0.0758	170.229	0.74	0.936
+2DjWsDGgL1xNbhnr7f6t5F	Tracy Chapman	Baby Can I Hold You	USEE10180931	70	folk,lilith,singer-songwriter,women's music	0.0811	0.692	0.0	0.0333	74.375	0.468	0.422
+2M9ro2krNb7nr7HSprkEgo	Tracy Chapman	Fast Car	USEE10180719	76	folk,lilith,singer-songwriter,women's music	0.313	0.711	0.0	0.037	103.951	0.194	0.292
+0IktbUcnAGrvD03AWnz3Q8	Jason Mraz,Colbie Caillat	Lucky	USEE10800806	72	acoustic pop,neo mellow,pop,pop rock	0.294	0.625	0.0	0.0369	130.088	0.669	0.414
+3ZHfX6kbiY7JVsB63lLOLu	Paramore	The Only Exception	USAT20902323	60	candy pop,pixie,pop emo,pop punk	0.144	0.452	0.0	0.0272	137.715	0.209	0.563
+6IwKcFdiRQZOWeYNhUiWIv	Alicia Keys	No One	USJAY0700190	76	hip pop,neo soul,pop,r&b,urban contemporary	0.0209	0.644	8.85e-06	0.0285	90.04	0.167	0.549
+1NpDnkQO0yWxTtntrC0UNz	Rihanna	California King Bed	USUM71026619	62	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.25	0.452	0.0	0.0359	169.899	0.327	0.571
+6ZfXA2xakAvphXOSOJ3u1W	Miley Cyrus	When I Look At You	USHR10924540	70	dance pop,pop,post-teen pop	0.142	0.459	0.0	0.0282	137.941	0.194	0.545
+4H7WNRErSbONkM06blBoGc	Post Malone	Stay	USUM71805172	71	dfw rap,melodic rap,rap	0.449	0.507	0.0	0.0266	86.046	0.35	0.48
+0TXNKTzawI6VgLoA9UauRp	James TW	When You Love Someone	USUM71600705	72	neo mellow,pop,pop rock,uk pop	0.263	0.681	0.0	0.0278	125.772	0.348	0.453
+6Up545NUflOiXo8cEraH49	Lauren Daigle	You Say	US8391800158	73	ccm,christian alternative rock,christian music,worship	0.682	0.494	0.0	0.0342	147.873	0.0797	0.632
+6lOWoTqVnAWXchddtTH31W	Tom Walker	Leave a Light On	GBARL1701655	69	indie anthem-folk,modern rock,pop,pop rock,uk pop	0.0153	0.586	1.78e-06	0.113	68.976	0.267	0.624
+2qxmye6gAegTMjLKEBoR3d	Alec Benjamin	Let Me Down Slowly	USAT21802284	82	alt z,dream smp,electropop,pop	0.74	0.652	0.0	0.0318	150.073	0.483	0.557
+52okn5MNA47tk87PeZJLEL	NF	Let You Down	USUM71708226	78	hip hop,pop rap,rap	0.312	0.662	0.0	0.121	147.997	0.464	0.714
+6y6jbcPG4Yn3Du4moXaenr	blackbear	idfc	TCACB1407069	74	electropop,pop,pop rap	0.611	0.63	4.04e-05	0.0611	144.871	0.315	0.5
+6Se3x9ANMLv0dCDsjGmEjh	blackbear	do re mi	USLD91700850	71	electropop,pop,pop rap	0.00522	0.745	5.06e-06	0.0524	111.001	0.17	0.593
+5kqIPrATaCc2LqxVWzQGbk	Lukas Graham	7 Years	USWB11506516	77	danish pop,pop,scandipop	0.287	0.765	0.0	0.0514	119.992	0.34	0.473
+1Pw5C4N6Fn5E4mGCxmbbVa	James Arthur	Say You Won't Let Go	DEE861600586	66	pop,talent show,uk pop	0.693	0.4	0.0	0.0523	99.269	0.483	0.564
+7FIWs0pqAYbP91WWM0vlTQ	Eminem,Juice WRLD	Godzilla (feat. Juice WRLD)	USUM72000788	82	detroit hip hop,hip hop,rap	0.145	0.808	0.0	0.342	165.995	0.829	0.745
+0k664IuFwVP557Gnx7RhIl	Lizzo	Juice	USAT21813044	76	dance pop,escape room,minnesota hip hop,pop,trap queen	0.00611	0.767	0.0	0.0963	119.93	0.843	0.889
+1PckUlxKqWQs3RlWXVBLw3	Lizzo	About Damn Time	USAT22202139	91	dance pop,escape room,minnesota hip hop,pop,trap queen	0.0995	0.836	0.0	0.0656	108.966	0.722	0.743
+5j0McHPthKpOXRr3fBq8M0	Usher,Jeezy	Love in This Club (feat. Young Jeezy)	USLF20800001	73	atl hip hop,contemporary r&b,dance pop,pop,r&b,south carolina hip hop,urban contemporary	0.0572	0.573	0.0	0.0732	140.012	0.346	0.712
+27NovPIUIRrOZoCHxABJwK	Lil Nas X,Jack Harlow	INDUSTRY BABY (feat. Jack Harlow)	USSM12104539	88	lgbtq+ hip hop,pop	0.0203	0.736	0.0	0.0615	149.995	0.894	0.704
+59CfNbkERJ3NoTXDvoURjj	Dove Cameron	Boyfriend	USQX92200693	88	pop,post-teen pop	0.232	0.345	0.0	0.0608	179.773	0.232	0.612
+6qj02zSeEJGWZ4c0dn5QzJ	Harry Styles	Boyfriends	USSM12200620	82	pop	0.935	0.417	0.0	0.0357	118.029	0.323	0.202
+0e8nrvls4Qqv5Rfa2UhqmO	Lil Nas X	THATS WHAT I WANT	USSM12105732	89	lgbtq+ hip hop,pop	0.00614	0.737	0.0	0.22	87.981	0.546	0.846
+0hquQWY3xvYqN4qtiquniF	Doja Cat	Vegas (From the Original Motion Picture Soundtrack ELVIS)	USRC12201441	78	dance pop,pop	0.0777	0.801	3.23e-05	0.255	159.969	0.74	0.601
+0OTNHGKcqQbk51bOYe462Y	Polimá Westcoast,Pailita	ULTRA SOLO	CLPP22200004	86	trap chileno,trap latino,trap triste,urbano chileno	0.233	0.802	1.92e-05	0.207	109.982	0.26	0.846
+5vUnjhBzRJJIAOJPde6zDx	Jnr Choi,Sam Tompkins	TO THE MOON	QZNWW2131527	82		0.0451	0.745	0.00758	0.346	144.047	0.386	0.65
+1ZdhOMWyFR8Iv9eylMGYg2	Labrinth	Mount Everest	GBHMU1800032	83	indie poptimism,pop	0.236	0.494	0.0698	0.205	87.724	0.44	0.428
+63WuQOXohQIxOxIFA2K7bR	Måneskin	SUPERMODEL	ITB002200385	80	indie rock italiano,italian pop	0.00164	0.636	0.0	0.0555	120.983	0.799	0.876
+0DGTcMqvVR7fmBXgiG6jz4	Pharrell Williams	Just A Cloud Away	USQX92201647	72	hip hop,pop,pop rap	0.432	0.89	0.0	0.0359	112.555	0.677	0.46
+58HvfVOeJY7lUuCqF0m3ly	Elley Duhé	MIDDLE OF THE NIGHT	USRC11903813	91	alt z,pop	0.0228	0.41	0.0	0.0467	185.727	0.0899	0.611
+6CDzDgIUqeDY5g8ujExx2f	Glass Animals	Heat Waves	GBUM72000433	85	gauze pop,indietronica,shiver pop	0.44	0.761	6.7e-06	0.0944	80.87	0.531	0.525
+2Foc5Q5nqNiosCNqttzHof	Daft Punk,Pharrell Williams,Nile Rodgers	Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit	USQX91300809	82	electro,filter house	0.0426	0.794	1.07e-06	0.038	116.047	0.862	0.811
+1I4lCSP69P74nU3a6Su5L2	Duke & Jones,Louis Theroux	Jiggle Jiggle	GBARL2201151	69	uk dance	0.458	0.864	0.00087	0.273	99.992	0.654	0.412
+1rDQ4oMwGJI7B4tovsBOxc	Jack Harlow	First Class	USAT22203024	94	deep underground hip hop,kentucky hip hop,rap	0.0254	0.905	9.71e-06	0.102	106.998	0.324	0.563
+5LYMamLv12UPbemOaTPyeV	Harry Styles	Music For a Sushi Restaurant	USSM12200609	85	pop	0.258	0.72	0.0568	0.04	107.041	0.357	0.715
+59nOXPmaKlBfGMDeOVGrIK	Future,Drake,Tems	WAIT FOR U (feat. Drake & Tems)	USSM12203789	87	atl hip hop,rap,southern hip hop,trap	0.314	0.463	0.0	0.34	83.389	0.339	0.642
+4h4QlmocP3IuwYEj2j14p8	Nicky Youre,dazy	Sunroof	USQX92202129	82		0.352	0.768	0.0	0.0401	131.443	0.842	0.714
+5PjdY0CKGZdEuoNab3yDmX	The Kid LAROI,Justin Bieber	STAY (with Justin Bieber)	USSM12103949	87	australian hip hop	0.0383	0.591	0.0	0.0483	169.928	0.478	0.764
+1qEmFfgcLObUfQm0j1W2CK	Harry Styles	Late Night Talking	USSM12200610	87	pop	0.298	0.714	0.0	0.0468	114.996	0.901	0.728
+1r8ZCjfrQxoy2wVaBUbpwg	The Kid LAROI	Thousand Miles	USSM12203367	86	australian hip hop	0.0858	0.376	0.0	0.0768	80.565	0.203	0.657
+4LRPiXqCikLlN15c3yImP7	Harry Styles	As It Was	USSM12200612	100	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+4kbj5MwxO1bq9wjT5g9HaA	WALK THE MOON	Shut Up and Dance	USRC11401949	80	dance pop,dance rock,indie poptimism,modern alternative rock,modern rock,pop rock,rock	0.00701	0.578	0.0	0.0619	128.038	0.619	0.866
+0KxU9wjCedUxSGdjuFdBDu	Black Eyed Peas	Shut Up	USIR10311895	63	dance pop,pop,pop rap	0.0669	0.805	0.0	0.266	112.989	0.582	0.717
+5W8YXBz9MTIDyrpYaCg2Ky	Papa Roach	Last Resort	USDW10021712	78	alternative metal,nu metal,rap metal,rap rock	0.000481	0.589	0.00082	0.0603	90.598	0.692	0.89
+48VWDRvLThI5jrfpxnF2fX	Agir	Como Ela é Bela	PT2DN1500019	33	portuguese pop	0.737	0.637	0.0	0.0397	145.875	0.37	0.366
+2ot0gFrZi1Bzx1l2RtKvcp	Paulo Gonzo	Sei Te de Cor	PTSM10500007	7	classic portuguese pop	0.691	0.368	0.0	0.0316	131.675	0.17	0.447
+5J1jqXEOJXAAJk0lqZ8eAR	Xutos & Pontapés	À Minha Maneira	PTAB18801073	32	portuguese rock,punk tuga	0.00235	0.388	3.62e-05	0.0445	159.159	0.795	0.919
+3L34LESTQHNvxMcaOOHEPo	Agir	Tempo é Dinheiro	PT2DN1500001	31	portuguese pop	0.132	0.735	0.0	0.0348	105.998	0.717	0.651
+6Fht77FJ4gY3HI1ffObfEd	Rui Veloso	Não há estrelas no céu	PTEM19000044	42	portuguese rock	0.474	0.737	0.0	0.0319	108.503	0.85	0.355
+3lI7wZy294CaIbYmVTa7hg	Agir,Ana Moura	Manto de Água	PT2DN1700001	39	portuguese pop	0.131	0.578	0.0	0.0711	137.76	0.262	0.585
+1i48UYlDj7GIAr2luPk5KC	Boss AC,Shout !	Tu És Mais Forte - Versão Banda	PT4AD1100012	16	hip hop tuga	0.392	0.81	0.000325	0.0701	89.939	0.568	0.525
+3TxjUU6Qhs7aCvWpSw6YV0	D.A.M.A,Salvador Seixas	Balada do Desajeitado (feat. Salvador Seixas)	PTBM11400050	36	portuguese pop	0.369	0.863	0.0	0.0877	92.991	0.857	0.442
+3HBXHBR1BS1FCSC5OhvYij	Xutos & Pontapés	O Homem Do Leme	PTUM71700249	44	portuguese rock,punk tuga	0.767	0.361	0.0	0.0307	169.669	0.253	0.42
+3HMFMzn8zdN3EC0Kv1MIJV	Xutos & Pontapés	Ai Se Ele Cai	PTUM10400076	40	portuguese rock,punk tuga	0.0401	0.378	0.0	0.0398	155.152	0.773	0.899
+689bBK49tXjqXST1Ghk6Bc	Xutos & Pontapés	Não Sou O Único	PTAB18701924	39	portuguese rock,punk tuga	0.00586	0.564	0.0	0.0279	149.293	0.806	0.607
+4apbRPdJQFbZ41he0ttZ20	Xutos & Pontapés	Para Ti Maria	PTAB18801074	34	portuguese rock,punk tuga	0.000229	0.342	0.0	0.0275	161.673	0.868	0.701
+4YK4SXrTvreEWvJNOdg3wW	Xutos & Pontapés	Contentores	PTAB18701922	42	portuguese rock,punk tuga	0.00078	0.586	0.0321	0.0332	132.212	0.415	0.669
+77J9VPbJA8B71ADBO2zmtr	Xutos & Pontapés	A Minha Casinha	PTAB18801083	38	portuguese rock,punk tuga	0.0419	0.245	0.000113	0.037	169.887	0.436	0.756
+2C6WXnmZ66tHhHlnvwePiK	Post Malone,Halsey,Future	Die For Me (feat. Future & Halsey)	USUM71918728	68	dfw rap,melodic rap,rap	0.19	0.614	0.0	0.0441	145.01	0.452	0.66
+2qPUnoasNe4Ep43emVXEig	Travie McCoy,Bruno Mars	Billionaire (feat. Bruno Mars)	USAT21000257	71	dance pop,pop rap	0.297	0.633	0.0	0.258	86.776	0.659	0.673
+5uDASfU19gDxSjW8cnCaBp	Rob $tone,J. Davi$,Spooks	Chill Bill (feat. J. Davi$ & Spooks)	USRC11601124	75	san diego rap	0.0312	0.886	0.00099	0.145	108.034	0.23	0.427
+0fGh0trRN1xz3s41r7V5ce	Eminem,Nate Dogg	Shake That	USUM70506389	73	detroit hip hop,hip hop,rap	0.0507	0.963	4.94e-05	0.117	107.005	0.534	0.643
+6Qn5zhYkTa37e91HC1D7lb	Imagine Dragons	Whatever It Takes	USUM71703515	79	modern rock,rock	0.0362	0.672	0.0	0.0311	134.945	0.556	0.655
+0Xek5rqai2jcOWCYWJfVCF	Post Malone,DaBaby	Enemies (feat. DaBaby)	USUM71915725	72	dfw rap,melodic rap,rap	0.0588	0.542	0.0	0.21	76.388	0.667	0.674
+1UZ25gykR30Oewh3dBRtVZ	Nicki Minaj,Drake,Lil Wayne,Chris Brown	Only	USCM51400340	64	dance pop,hip pop,pop,pop rap,queens hip hop	0.405	0.573	0.0	0.592	179.196	0.255	0.495
+3hlksXnvbKogFdPbpO9vel	Nicki Minaj	Super Bass	USCM51000734	77	dance pop,hip pop,pop,pop rap,queens hip hop	0.271	0.723	4.56e-06	0.203	126.979	0.667	0.86
+4wFjTWCunQFKtukqrNijEt	Migos,Nicki Minaj,Cardi B	MotorSport	USUM71712002	71	atl hip hop,hip hop,pop rap,rap,trap	0.0305	0.904	0.0	0.183	137.996	0.188	0.518
+6HZILIRieu8S0iqY8kIKhj	Kendrick Lamar	DNA.	USUM71703079	78	conscious hip hop,hip hop,rap,west coast rap	0.00454	0.638	0.0	0.357	139.913	0.422	0.523
+7FYH5AW3bVfZHJIQpq3UOA	Big Sean,E-40	I Don't Fuck With You	USUM71414033	73	detroit hip hop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.0362	0.824	0.0	0.0613	97.972	0.395	0.733
+1DIXPcTDzTj8ZMHt3PDt8p	Coolio,L.V.	Gangsta's Paradise	USTB10400128	83	g funk,gangster rap,hip hop,rap,west coast rap	0.0655	0.647	0.0	0.0593	79.975	0.386	0.514
+5D2mYZuzcgjpchVY1pmTPh	50 Cent,Olivia	Candy Shop	USIR10500072	78	east coast hip hop,gangster rap,hip hop,pop rap,queens hip hop,rap	0.0253	0.614	3.2e-05	0.466	125.173	0.755	0.574
+7iL6o9tox1zgHpKUfh9vuC	50 Cent	In Da Club	USIR10300033	80	east coast hip hop,gangster rap,hip hop,pop rap,queens hip hop,rap	0.255	0.899	0.0	0.366	90.051	0.777	0.713
+4dASQiO1Eoo3RJvt74FtXB	Lil Wayne,Wiz Khalifa,Imagine Dragons,X Ambassadors,Logic,Ty Dolla $ign	Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)	USAT21601893	74	hip hop,new orleans rap,pop rap,rap,trap	0.255	0.502	0.0	0.317	169.021	0.739	0.786
+1ne7JVHEPnoncXzQunQVKW	Eminem	W.T.P.	USUM71015414	59	detroit hip hop,hip hop,rap	0.0319	0.77	0.0	0.247	95.011	0.685	0.937
+33gwZOGJWEZ7dRWPqPxBEZ	Big Sean,Post Malone	Wolves (feat. Post Malone)	USUM72016329	75	detroit hip hop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.0978	0.724	9.41e-06	0.0867	160.048	0.325	0.675
+0SGkqnVQo9KPytSri1H6cF	Big Sean	Bounce Back	USUM71614503	70	detroit hip hop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.106	0.78	0.0	0.139	81.502	0.273	0.575
+5ngydCLbzCEdtu8SEOXhPU	Drake,2 Chainz,Big Sean	All Me	USCM51300758	58	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0703	0.668	0.0	0.402	122.014	0.425	0.515
+3dgQqOiQ9fCKVhNOedd2lf	Drake	Started From the Bottom	USCM51300064	64	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0331	0.794	0.0	0.161	86.307	0.56	0.523
+4qKcDkK6siZ7Jp1Jb4m0aL	BlocBoy JB,Drake	Look Alive (feat. Drake)	USWB11800211	72	memphis hip hop,pop rap,rap,southern hip hop,tennessee hip hop,trap,vapor trap	0.00104	0.922	5.86e-05	0.27	140.022	0.595	0.581
+10Igtw8bSDyyFs7KIsKngZ	Lil Dicky,Chris Brown	Freaky Friday (feat. Chris Brown)	QMRSZ1800280	69	comedy rap,pop rap,rap	0.147	0.755	0.0	0.224	133.123	0.755	0.599
+2Y0wPrPQBrGhoLn14xRYCG	Juice WRLD,Marshmello	Come & Go (with Marshmello)	USUG12001904	79	chicago rap,melodic rap	0.0172	0.625	0.0	0.0657	144.991	0.535	0.814
+7iXF2W9vKmDoGAhlHdpyIa	Dr. Dre,Eminem	Forgot About Dre	USIR19915077	77	g funk,gangster rap,hip hop,rap,west coast rap	0.0827	0.924	0.0	0.0774	133.974	0.621	0.74
+7sWRlDoTDX8geTR8zzr2vt	Post Malone	Hollywood's Bleeding	USUM71915730	72	dfw rap,melodic rap,rap	0.331	0.405	0.0	0.0476	130.218	0.17	0.646
+7xQAfvXzm3AkraOtGPWIZg	Post Malone	Wow.	USUM71822626	78	dfw rap,melodic rap,rap	0.136	0.829	1.78e-06	0.208	99.96	0.388	0.539
+05mDaV9Vb3wrzjF6OPZnhq	Post Malone	Saint-Tropez	USUM71915733	69	dfw rap,melodic rap,rap	0.0545	0.617	0.0	0.0439	132.113	0.295	0.684
+1M6SuEJZJkZf2S419vIPkB	6ix9ine,Nicki Minaj,Murda Beatz	FEFE	QMEU31894160	70	emo rap,rap	0.088	0.931	0.0	0.412	125.978	0.375	0.387
+1XdbvPWz4lhyRBMz9cBy8b	6ix9ine	GOOBA	QZA742002191	70	emo rap,rap	0.0264	0.611	0.0	0.341	178.462	0.393	0.688
+57BGVV6wcyhbn3hsjlqEZB	Pop Smoke	Element	USUM72002041	76	brooklyn drill	0.0301	0.772	2.18e-06	0.324	61.311	0.305	0.878
+79s5XnCN4TJKTVMSmOx8Ep	Pop Smoke	Dior	USUM71914275	80	brooklyn drill	0.212	0.548	0.000389	0.351	142.094	0.648	0.805
+6jRq8gaZhMUyy5RclRPcAf	blackbear	hot girl bummer	USUG11902959	80	electropop,pop,pop rap	0.125	0.782	0.0	0.0767	129.992	0.685	0.559
+0mBKv9DkYfQHjdMcw2jdyI	Bruno Mars	Chunky	USAT21602946	67	dance pop,pop	0.0208	0.571	0.0	0.116	202.103	0.727	0.539
+09IOPhEh1OMe0HD9b36FJk	Post Malone	Over Now	USUM71805169	65	dfw rap,melodic rap,rap	0.139	0.569	0.0	0.0834	164.027	0.181	0.777
+2cOUlop2ZakjOKe4WinesN	Niall Horan	Slow Hands	USUG11700631	73	dance pop,pop,post-teen pop	0.011	0.735	0.0	0.0464	85.896	0.848	0.425
+0M3HkE321xpCbCYqVKzr1q	Bruno Mars	It Will Rain	USAT21102075	73	dance pop,pop	0.337	0.576	0.0	0.0486	150.017	0.476	0.835
+1EHUQesfVKwbthtNcpBi9g	The Kid LAROI,Miley Cyrus	WITHOUT YOU (with Miley Cyrus)	USSM12101722	74	australian hip hop	0.173	0.655	0.0	0.0292	92.56	0.467	0.469
+1zB4vmk8tFRmM9UULNzbLB	Imagine Dragons	Thunder	USUM71704167	82	modern rock,rock	0.00671	0.605	0.134	0.0438	167.997	0.288	0.822
+5qaEfEh1AtSdrdrByCP7qR	Imagine Dragons	Demons	USUM71201071	80	modern rock,rock	0.19	0.505	0.00025	0.0321	89.938	0.428	0.71
+53Pgsvu3qSYO2aXt5J2vcL	Ed Sheeran	Lego House	GBAHS1100206	55	pop,uk pop	0.562	0.592	0.0	0.0992	159.701	0.565	0.637
+3EPXxR3ImUwfayaurPi3cm	Dean Lewis	Be Alright	AUUM71800255	77	australian pop,pop	0.697	0.553	0.0	0.0362	126.684	0.443	0.586
+7795WJLVKJoAyVoOtCWqXN	Sam Smith	I'm Not The Only One	GBUM71308836	80	dance pop,pop,uk pop	0.529	0.677	2.04e-05	0.0361	82.001	0.493	0.485
+38xWaVFKaxZlMFvzNff2aW	The Script	Breakeven	GBARL0800147	67	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.174	0.627	0.0	0.0244	94.003	0.535	0.699
+7Dj2wqPYXfSRFwa6qyOztr	Eminem	In Too Deep	USUM72000787	60	detroit hip hop,hip hop,rap	0.0387	0.72	0.0	0.214	88.966	0.595	0.767
+0VSzREd1OjEWJ9tXoFHRQH	Eminem,Ed Sheeran	Those Kinda Nights (feat. Ed Sheeran)	USUM72000786	64	detroit hip hop,hip hop,rap	0.028	0.794	0.0	0.339	103.868	0.393	0.637
+0GQ5bFTVFFKpwNPc7KwQnB	"Eminem,Royce Da 5'9"",White Gold"	"You Gon’ Learn (feat. Royce Da 5'9"" & White Gold)"	USUM72000784	64	detroit hip hop,hip hop,rap	0.0614	0.68	0.0	0.151	140.033	0.243	0.82
+7f9I5WdyXm5q1XqnSYgQZb	Arctic Monkeys	Brianstorm	GBCEL0700061	66	garage rock,permanent wave,rock,sheffield indie	8.15e-05	0.42	0.00155	0.191	165.182	0.463	0.974
+0SzvmWfOhoxZVGrmvb56YL	Arctic Monkeys	Baby I'm Yours	GBCEL0600319	64	garage rock,permanent wave,rock,sheffield indie	0.215	0.462	0.0	0.0347	113.719	0.64	0.595
+3DQVgcqaP3iSMbaKsd57l5	Arctic Monkeys	I Bet You Look Good On The Dancefloor	GBCEL0501181	71	garage rock,permanent wave,rock,sheffield indie	0.00225	0.535	0.0	0.0356	103.183	0.778	0.948
+2x8evxqUlF0eRabbW2JBJd	Arctic Monkeys	Fluorescent Adolescent	GBCEL0700067	74	garage rock,permanent wave,rock,sheffield indie	0.00146	0.654	0.000144	0.0281	112.056	0.79	0.828
+6wVWJl64yoTzU27EI8ep20	Arctic Monkeys	Crying Lightning	GBCEL0900443	66	garage rock,permanent wave,rock,sheffield indie	0.0148	0.498	0.00041	0.0461	106.719	0.67	0.885
+2zzLRQ78kKfPTx8FJQCdC2	Arctic Monkeys	When The Sun Goes Down	GBCEL0501190	71	garage rock,permanent wave,rock,sheffield indie	0.0341	0.348	0.0	0.199	169.152	0.407	0.875
+2AT8iROs4FQueDv2c8q2KE	Arctic Monkeys	R U Mine?	GBCEL1300363	77	garage rock,permanent wave,rock,sheffield indie	0.00616	0.288	0.0	0.0371	97.094	0.619	0.758
+5XeFesFbtLpXzIVDNQP22n	Arctic Monkeys	I Wanna Be Yours	GBCEL1300373	81	garage rock,permanent wave,rock,sheffield indie	0.136	0.464	0.022	0.0256	67.528	0.479	0.417
+5FVd6KXrgO9B3JPmC8OPst	Arctic Monkeys	Do I Wanna Know?	GBCEL1300362	83	garage rock,permanent wave,rock,sheffield indie	0.186	0.548	0.000263	0.0323	85.03	0.405	0.532
+086myS9r57YsLbJpU0TgK9	Arctic Monkeys	Why'd You Only Call Me When You're High?	GBCEL1300370	83	garage rock,permanent wave,rock,sheffield indie	0.0483	0.691	1.13e-05	0.0368	92.004	0.8	0.631
+2t8UoPFVXCRZulscbwv0QL	Queen	We Will Rock You - Movie Mix	GBUM71805976	55	classic rock,glam rock,rock	0.117	0.64	1.21e-06	0.121	81.402	0.407	0.593
+3z8h0TU7ReDPLIbEnYhWZb	Queen	Bohemian Rhapsody	GBUM71029604	73	classic rock,glam rock,rock	0.287	0.39	0.0	0.0513	144.031	0.246	0.397
+5txoZyuAmtCfmDjUCEphWm	Queen	Somebody To Love	GBUM71029613	64	classic rock,glam rock,rock	0.164	0.466	0.0	0.0629	109.772	0.349	0.698
+4CDIEKHMb2MBgvgHBkhiJD	Eminem	When I'm Gone	USUM70506288	66	detroit hip hop,hip hop,rap	0.0553	0.618	0.0	0.352	75.272	0.75	0.746
+2kQuhkFX7uSVepCD3h29g5	Akon,Eminem	Smack That	USUM70609036	77	dance pop	0.321	0.939	0.0	0.0467	118.978	0.924	0.742
+1G93i9ga7ZPEOqpiNhM1mq	Snoop Dogg,Akon	I Wanna Fuck You	USUM70617143	64	g funk,gangster rap,hip hop,pop rap,rap,west coast rap	0.0452	0.861	0.0	0.0515	99.969	0.278	0.479
+2SDOS0F4FJb1SEjOpF9PR5	Akon	Right Now (Na Na Na)	USUM70837868	51	dance pop	0.269	0.832	0.0	0.166	137.998	0.577	0.87
+22UDw8rSfLbUsaAGTXQ4Z8	Estelle,Kanye West	American Boy	USAT20706210	77	neo soul,r&b	0.171	0.727	0.0	0.326	117.932	0.512	0.729
+1PS1QMdUqOal0ai3Gt7sDQ	Kanye West,Jamie Foxx	Gold Digger	USUM70500143	77	chicago rap,rap	0.0195	0.629	0.0	0.348	93.034	0.623	0.696
+2CEgGE6aESpnmtfiZwYlbV	Taio Cruz	Dynamite	GBUM71003721	79	dance pop,pop,pop rap	0.00379	0.751	0.0	0.0859	119.975	0.816	0.783
+3UGIZ8qcrMTwzLbx6Kttqt	Justin Bieber	Boyfriend	USUM71202650	71	canadian pop,pop	0.0358	0.717	0.00196	0.0521	96.976	0.332	0.55
+1hGy2eLcmC8eKx7qr1tOqx	Sean Kingston	Beautiful Girls	USSM10701781	77	dance pop,miami hip hop,pop,post-teen pop,urban contemporary	0.15	0.762	0.0	0.0687	130.009	0.769	0.661
+3MN0pucJbbFmqgvPcoC1Eb	One Direction	She's Not Afraid	GBHMU1200371	60	boy band,pop,post-teen pop,talent show	0.00891	0.489	0.0	0.132	167.57	0.772	0.917
+7y2SafCBiLoQVBDVZHaVOK	One Direction	Irresistible	GBHMU1200405	57	boy band,pop,post-teen pop,talent show	0.0346	0.536	0.0	0.0244	87.986	0.263	0.488
+3oUphdZVPyrsprZ8FgbmQS	Aloe Blacc	I Need A Dollar	US2S71045001	65	pop soul,r&b	0.199	0.84	0.0	0.0336	95.497	0.955	0.481
+1AVtceapuF36oZqI9gzp0o	Dua Lipa	Don't Start Now	GBAHT1901121	57	dance pop,pop,uk pop	0.0123	0.793	0.0	0.083	123.95	0.679	0.793
+1imMjt1YGNebtrtTAprKV7	Dua Lipa	Love Again	GBAHT1901302	67	dance pop,pop,uk pop	0.00173	0.659	2.85e-05	0.0339	115.982	0.468	0.667
+017PF4Q3l4DBUiWoXk4OWT	Dua Lipa	Break My Heart	GBAHT1901303	77	dance pop,pop,uk pop	0.167	0.73	1.39e-06	0.0884	113.011	0.467	0.729
+2F5nK70URbVjwao6lRwX0P	Dua Lipa	Boys Will Be Boys	GBAHT1901307	51	dance pop,pop,uk pop	0.408	0.768	0.0	0.0353	125.021	0.519	0.486
+4GE0As8SVSjCMVYkRaaWwJ	Dua Lipa	Cool	GBAHT1901297	54	dance pop,pop,uk pop	0.133	0.469	1.55e-06	0.0664	89.719	0.79	0.785
+2ekn2ttSfGqwhhate0LSR0	Dua Lipa	New Rules	GBAHT1600310	78	dance pop,pop,uk pop	0.00261	0.762	1.56e-05	0.0694	116.073	0.608	0.7
+5Pc594FhDA2Fa2prE75GT0	Dua Lipa	Pretty Please	GBAHT1901300	57	dance pop,pop,uk pop	0.0311	0.906	5.5e-06	0.194	106.976	0.656	0.474
+3PfIrDoz19wz7qK7tYeu62	Dua Lipa	Don't Start Now	GBAHT1901121	80	dance pop,pop,uk pop	0.0123	0.793	0.0	0.083	123.95	0.679	0.793
+3mC8VlVBwdVxCTq4cYZr64	Dua Lipa	Future Nostalgia	GBAHT1901177	54	dance pop,pop,uk pop	0.00618	0.875	0.0	0.0579	114.993	0.859	0.813
+3IQF4xCQUPicbA4hWfTxPo	OneRepublic	I Lived	USUM71301307	69	dance pop,piano rock,pop,pop rock	0.0683	0.593	0.0	0.0446	119.987	0.344	0.851
+6lV2MSQmRIkycDScNtrBXO	B.o.B,Hayley Williams	Airplanes (feat. Hayley Williams of Paramore)	USAT21000477	73	atl hip hop,dance pop,hip hop,pop,pop rap,rap,southern hip hop	0.11	0.66	0.0	0.116	93.033	0.377	0.867
+3bC1ahPIYt1btJzSSEyyrF	Flo Rida	Whistle	USAT21201745	76	dance pop,miami hip hop,pop,pop rap	0.0208	0.747	0.0	0.0453	103.976	0.739	0.937
+7pYfyrMNPn3wtoCyqcTVoI	Maroon 5,Christina Aguilera	"Moves Like Jagger - Studio Recording From ""The Voice"" Performance"	USUM71109132	76	pop	0.0117	0.722	0.0	0.0475	128.044	0.624	0.761
+1fidCEsYlaVE3pHwKCvpFZ	Nico & Vinz	Am I Wrong	USWB11304681	76	pop rap	0.175	0.729	1.58e-06	0.0312	119.968	0.779	0.675
+386RUes7n1uM1yfzgeUuwp	Bruno Mars	The Lazy Song	USAT21001886	74	dance pop,pop	0.3	0.794	0.0	0.0699	174.915	0.955	0.711
+6RtPijgfPKROxEzTHNRiDp	MAGIC!	Rude	CAV161300016	79	reggae fusion	0.0422	0.773	0.0	0.0381	144.033	0.925	0.758
+2JzZzZUQj3Qff7wapcbKjc	Wiz Khalifa,Charlie Puth	See You Again (feat. Charlie Puth)	USAT21703595	79	dance pop,hip hop,pittsburgh rap,pop rap,rap,southern hip hop,trap	0.369	0.689	1.03e-06	0.0815	80.025	0.283	0.481
+1K3LRUEcUz5FMtPYyg0F45	The Lumineers	Ho Hey	USDMG1260805	74	folk-pop,pop,stomp and holler	0.765	0.682	0.0	0.0301	79.907	0.421	0.471
+4lhqb6JvbHId48OUJGwymk	Avicii	Hey Brother	CH3131340084	76	dance pop,edm,pop,pop dance,pop rap	0.0309	0.545	4.64e-05	0.0436	125.014	0.458	0.78
+6OtCIsQZ64Vs1EbzztvAv4	OneRepublic	Good Life	USUM70999110	71	dance pop,piano rock,pop,pop rock	0.0771	0.634	0.0	0.052	94.988	0.645	0.69
+67WTwafOMgegV6ABnBQxcE	fun.	Some Nights	USAT21104050	68	baroque pop,metropopolis,modern rock,pop rock	0.0178	0.672	6.75e-05	0.0506	107.938	0.392	0.738
+1oew3nFNY3vMacJAsvry0S	Rixton	Me And My Broken Heart	USUM71401800	76	pop,pop rock,post-teen pop	0.00489	0.545	0.0	0.0345	174.084	0.551	0.783
+0oagwWkGlBoACUuKvTmqZV	P!nk	A Million Dreams	USAT21811548	64	dance pop,pop	0.272	0.312	0.0	0.0397	148.173	0.191	0.499
+6cpk00i5TxCqSeqNi2HuIe	Maroon 5	One More Night	USUM71203514	73	pop	0.0558	0.716	0.0	0.0314	92.997	0.618	0.821
+6Z8R6UsFuGXGtiIxiD8ISb	Capital Cities	Safe And Sound	USCA21203108	81	metropopolis	0.000176	0.655	0.00374	0.0316	117.956	0.766	0.819
+0nrRP2bk19rLc0orkWPQk2	Avicii	Wake Me Up	SEUM71301326	83	dance pop,edm,pop,pop dance,pop rap	0.0038	0.532	0.0012	0.0523	124.08	0.643	0.783
+0FDzzruyVECATHXKHFs9eJ	Coldplay	A Sky Full of Stars	GBAYE1400217	79	permanent wave,pop	0.00617	0.545	0.00197	0.0279	124.97	0.162	0.675
+5yDL13y5giogKs2fSNf7sj	The Wanted	Glad You Came	GBUM71104495	76	boy band,dance pop,pop,pop dance,post-teen pop	0.0319	0.722	0.0	0.0639	126.885	0.452	0.851
+5rgy6ghBq1eRApCkeUdJXf	fun.,Janelle Monáe	We Are Young (feat. Janelle Monáe)	USAT21101399	74	baroque pop,metropopolis,modern rock,pop rock	0.02	0.378	7.66e-05	0.075	184.086	0.735	0.638
+0qOnSQQF0yzuPWsXrQ9paz	Gym Class Heroes,Adam Levine	Stereo Hearts (feat. Adam Levine)	USAT21101071	80	dance pop,pop rap	0.0319	0.646	0.0	0.0976	89.99	0.796	0.795
+4HlFJV71xXKIGcU3kRyttv	Train	Hey, Soul Sister	USSM10904113	80	dance pop,neo mellow,pop,pop rock	0.185	0.673	0.0	0.0431	97.012	0.795	0.886
+5tz69p7tJuGPeMGwNTxYuV	Logic,Alessia Cara,Khalid	1-800-273-8255	USUM71702778	76	conscious hip hop,dmv rap,hip hop,pop rap,rap	0.569	0.62	0.0	0.0479	100.023	0.357	0.574
+4Ub8UsjWuewQrPhuepfVpd	Bastille	Pompeii	GBAAA1200795	73	metropopolis,modern rock,pop,pop rock	0.0755	0.679	0.0	0.0407	127.435	0.571	0.715
+3e9HZxeyfWwjeyPAMmWSSQ	Ariana Grande	thank u, next	USUM71819361	79	dance pop,pop	0.229	0.717	0.0	0.0658	106.966	0.412	0.653
+1XGmzt0PVuFgQYYnV2It7A	Maroon 5,Wiz Khalifa	Payphone	USUM71203347	82	pop	0.0188	0.743	0.0	0.0414	110.015	0.545	0.752
+1mea3bSkSGXuIRvnydlB5b	Coldplay	Viva La Vida	GBAYE0800265	79	permanent wave,pop	0.0954	0.486	3.23e-06	0.0287	138.015	0.417	0.617
+7wMq5n8mYSKlQIGECKUgTX	The Script,will.i.am	Hall of Fame (feat. will.i.am)	GBARL1201055	77	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock	0.0654	0.421	0.0	0.0564	84.786	0.629	0.873
+2d3fdQ6OxmUIsF20eCpcrv	Eminem	Stepdad - Intro	USUM72000792	3	detroit hip hop,hip hop,rap	0.178	0.589	0.0	0.263	113.542	0.619	0.459
+5mZXWEH2eh8zMZGCxT5aW0	"Eminem,Royce Da 5'9"",Black Thought,Q-Tip,Denaun"	"Yah Yah (feat. Royce Da 5'9"", Black Thought, Q-Tip & Denaun)"	USUM72000791	58	detroit hip hop,hip hop,rap	0.14	0.458	0.0	0.384	183.586	0.356	0.966
+5CpsIb7SMFHjmAG8RvIWfq	Eminem,Skylar Grey	Leaving Heaven (feat. Skylar Grey)	USUM72000790	62	detroit hip hop,hip hop,rap	0.175	0.661	0.0	0.206	171.983	0.509	0.748
+4EmunTy7kNBYQivOa8F6b8	Eminem	Alfred - Interlude	USUM72000785	56	detroit hip hop,hip hop,rap	0.878	0.429	0.0	0.402	74.545	0.914	0.231
+0q2vG0UVuy6ajjcpkQHdZM	Eminem,Young M.A	Unaccommodating (feat. Young M.A)	USUM72000783	63	detroit hip hop,hip hop,rap	0.0169	0.852	0.0	0.0597	89.95	0.389	0.752
+4RKJRRd4VJfZWiqQTYsleE	Jack Harlow,Chris Brown	Already Best Friends (feat. Chris Brown)	USAT22007708	76	deep underground hip hop,kentucky hip hop,rap	0.0891	0.873	0.0	0.0702	103.005	0.872	0.575
+00Blm7zeNqgYLPtW6zg8cj	Post Malone,The Weeknd	One Right Now (with The Weeknd)	USUM72120404	85	dfw rap,melodic rap,rap	0.0361	0.687	0.0	0.053	97.014	0.688	0.781
+7iTloMifzZo9ZNZKEe4V2V	The Weeknd,Eminem	The Hills - Remix	USUG11501524	57	canadian contemporary r&b,canadian pop,pop	0.0673	0.46	0.0	0.225	111.156	0.354	0.628
+6zFMeegAMYQo0mt8rXtrli	Lil Nas X	HOLIDAY	USSM12006375	73	lgbtq+ hip hop,pop	0.12	0.81	0.0	0.164	151.947	0.837	0.511
+2YpeDb67231RjR0MgVLzsG	Lil Nas X,Billy Ray Cyrus	Old Town Road - Remix	USSM11902498	78	lgbtq+ hip hop,pop	0.0533	0.878	0.0	0.102	136.041	0.639	0.619
+6bpq1jGkVz66Q3LYeoXdjZ	Lil Nas X,Doja Cat	SCOOP (feat. Doja Cat)	USSM12105734	72	lgbtq+ hip hop,pop	0.0427	0.841	1.54e-06	0.149	163.975	0.582	0.527
+34eF4BoV8FPk0uhAAoqU7h	Lil Nas X	SUN GOES DOWN	USSM12102220	65	lgbtq+ hip hop,pop	0.0837	0.551	4.28e-06	0.054	174.065	0.148	0.636
+1SC5rEoYDGUK4NfG82494W	Lil Nas X	MONTERO (Call Me By Your Name)	USSM12100531	83	lgbtq+ hip hop,pop	0.293	0.593	0.0	0.22	178.781	0.71	0.503
+1jaTQ3nqY3oAAYyCTbIvnM	Jack Harlow	WHATS POPPIN	USAT22000162	78	deep underground hip hop,kentucky hip hop,rap	0.017	0.923	0.0	0.245	145.062	0.826	0.604
+3w1WjD2zJqjBjDz5fwqQPJ	Jack Harlow	Tyler Herro	USAT22006588	74	deep underground hip hop,kentucky hip hop,rap	0.0872	0.792	0.0	0.0841	123.031	0.775	0.793
+62Yo3FDddWY8ydu6PW2wyz	Jack Harlow	Nail Tech	USAT22200223	81	deep underground hip hop,kentucky hip hop,rap	0.00508	0.677	8.36e-06	0.0694	150.127	0.1	0.557
+0LnS7aOdOdI1dNKZqdOLz4	Jack Harlow	Dua Lipa	USAT22203482	84	deep underground hip hop,kentucky hip hop,rap	0.00161	0.833	0.0985	0.0762	158.022	0.405	0.652
+0MMyJUC3WNnFS1lit5pTjk	Olivia Rodrigo	jealousy, jealousy	USUG12101248	83	pop	0.198	0.695	0.0	0.116	163.929	0.699	0.575
+2TOzTqQXNmR2zDJXihjZ2e	Olivia Rodrigo	enough for you	USUG12101246	78	pop	0.753	0.638	0.0	0.0898	88.485	0.269	0.259
+5JCoSi02qi3jJeHdZXMmR8	Olivia Rodrigo	favorite crime	USUG12101249	83	pop	0.866	0.369	0.0	0.0364	172.929	0.218	0.272
+4wcBRRpIfesgcyUtis7PEg	Olivia Rodrigo	1 step forward, 3 steps back	USUG12101244	77	pop	0.941	0.473	0.0	0.102	168.884	0.419	0.203
+4ZtFanR9U6ndgddUvNcjcG	Olivia Rodrigo	good 4 u	USUG12101245	89	pop	0.335	0.563	0.0	0.154	166.928	0.688	0.664
+5CZ40GBx1sQ9agT82CLQCT	Olivia Rodrigo	traitor	USUG12101243	88	pop	0.691	0.38	0.0	0.0338	100.607	0.0849	0.339
+2tGvwE8GcFKwNdAXMnlbfl	Olivia Rodrigo	happier	USUG12101247	84	pop	0.765	0.395	9.67e-06	0.133	168.924	0.338	0.443
+6SRsiMl7w1USE4mFqrOhHC	Olivia Rodrigo	brutal	USUG12101242	80	pop	0.0311	0.672	1.37e-06	0.0599	123.999	0.28	0.526
+31JwK4iHCf75rnQWoMPU5t	Jason Derulo,2 Chainz	Talk Dirty (feat. 2 Chainz)	USWB11302648	55	dance pop,pop,pop rap,post-teen pop	0.0348	0.76	0.0	0.232	100.315	0.759	0.652
+6St9lR6dhV2tpCNVz7qfrS	Jason Derulo	In My Head	USWB10904633	64	dance pop,pop,pop rap,post-teen pop	0.0266	0.762	0.0	0.033	110.009	0.851	0.748
+4fINc8dnfcz7AdhFYVA4i7	Jason Derulo	It Girl	USWB11102211	69	dance pop,pop,pop rap,post-teen pop	0.0165	0.668	0.0	0.0605	91.993	0.345	0.718
+1QdpGjYp035BXJB7qPAzl9	Jason Derulo	Trumpets	USWB11303249	51	dance pop,pop,pop rap,post-teen pop	0.563	0.627	0.0	0.236	81.897	0.64	0.703
+2z4pcBLQXF2BXKFvd0BuB6	Jason Derulo,French Montana	Tip Toe (feat. French Montana)	USWB11702102	63	dance pop,pop,pop rap,post-teen pop	0.0233	0.845	0.0	0.0714	98.062	0.62	0.709
+4B4zDmbHdkXZ1wUJv1yKFy	Jason Derulo,Snoop Dogg	Wiggle (feat. Snoop Dogg)	USWB11400672	64	dance pop,pop,pop rap,post-teen pop	0.0802	0.697	0.0	0.25	81.946	0.721	0.621
+7xkQdy0cy5ymoWT7nedvLz	Jason Derulo	Whatcha Say	USWB10901504	69	dance pop,pop,pop rap,post-teen pop	0.0444	0.615	0.0	0.0779	144.036	0.711	0.711
+7yxNIKwbgYlqWgBYeEtFXN	Jason Derulo	Marry Me	USWB11303186	43	dance pop,pop,pop rap,post-teen pop	0.033	0.568	0.0	0.0273	105.096	0.23	0.631
+7oGZAicScQt96OAW4AruYy	Jason Derulo	Want to Want Me	USWB11503046	73	dance pop,pop,pop rap,post-teen pop	0.00906	0.775	0.0	0.0629	114.025	0.656	0.68
+6OEolOOk9Gh9bqkdpfIOl0	Jason Derulo	Ridin' Solo	USWB10905329	65	dance pop,pop,pop rap,post-teen pop	0.128	0.442	0.0	0.146	89.338	0.578	0.83
+4kLLWz7srcuLKA7Et40PQR	Black Eyed Peas	I Gotta Feeling	USUM70965169	79	dance pop,pop,pop rap	0.0873	0.743	0.0	0.0265	127.96	0.61	0.766
+7ElF5zxOwYP4qVSWVvse3W	Taio Cruz	Break Your Heart	GBUM70908662	73	dance pop,pop,pop rap	0.0327	0.607	0.0	0.0314	122.01	0.568	0.934
+4QNpBfC0zvjKqPJcyqBy9W	Pitbull,Ne-Yo,Afrojack,Nayer	Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)	USJAY1100032	80	dance pop,latin,miami hip hop,pop,pop rap	0.191	0.671	0.0	0.161	129.024	0.53	0.939
+4356Typ82hUiFAynbLYbPn	Usher,Pitbull	DJ Got Us Fallin' In Love (feat. Pitbull)	USLF21000041	78	atl hip hop,contemporary r&b,dance pop,pop,r&b,south carolina hip hop,urban contemporary	0.0338	0.663	0.0	0.109	119.963	0.654	0.861
+15JINEqzVMv3SvJTAXAKED	Eminem,Rihanna	Love The Way You Lie	USUM71015397	80	detroit hip hop,hip hop,rap	0.241	0.749	0.0	0.227	86.989	0.641	0.925
+2U8NXPTXZWG2O0ye2sYRiH	Icona Pop,Charli XCX	I Love It (feat. Charli XCX)	SEWEE1200301	68	candy pop,dance pop,edm,electropop,metropopolis,pop,pop dance,swedish electropop,swedish synthpop	0.00952	0.711	1.64e-05	0.0284	125.916	0.824	0.906
+0HPD5WQqrq7wPWR7P7Dw1i	Kesha	TiK ToK	USRC10900433	79	dance pop,electropop,pop,post-teen pop	0.0991	0.755	0.0	0.142	120.028	0.714	0.837
+4E5P1XyAFtrjpiIxkydly4	Iyaz	Replay	USRE10901161	74	dance pop,pop rap	0.173	0.706	0.0	0.0708	91.031	0.195	0.751
+7vFoFDWqTX0mHzLfrF1Cfy	OMI,Felix Jaehn	Cheerleader - Felix Jaehn Remix Radio Edit	USUS11202574	76	dance pop	0.166	0.782	1.18e-05	0.0309	118.016	0.603	0.685
+5xYC48nOppVemY6U5GRGTb	David Guetta,Kid Cudi	Memories (feat. Kid Cudi)	FRZID0900480	75	big room,dance pop,edm,pop,pop dance,pop rap	0.00144	0.546	4.34e-06	0.255	129.983	0.375	0.916
+5Lbsc65org0b85kNsPkluY	Harry Styles	Only Angel	USSM11703957	72	pop	0.287	0.554	0.0	0.0397	114.036	0.348	0.842
+5kRPPEWFJIMox5qIkQkiz5	Harry Styles	Sweet Creature	USSM11703956	77	pop	0.746	0.427	0.0	0.0276	104.085	0.228	0.262
+4B1rpPmQXwj78wk6aIGwwU	Harry Styles	Two Ghosts	USSM11703955	73	pop	0.234	0.386	1.86e-06	0.0268	69.387	0.456	0.407
+3Dwq1oiOFys6Sxr5SslmXw	Harry Styles	Carolina	USSM11703954	72	pop	0.000569	0.624	1.54e-06	0.0268	121.986	0.458	0.673
+5Ohxk2dO5COHF1krpoPigN	Harry Styles	Sign of the Times	USSM11703595	82	pop	0.0275	0.516	0.0	0.0313	119.972	0.222	0.595
+4u9Y4Z9i9VaAbBK7rW1Rha	Harry Styles	Meet Me in the Hallway	USSM11703953	71	pop	0.747	0.537	0.00025	0.0247	104.252	0.339	0.383
+4YutJsNwBBInE8vemufpQ8	Harry Styles	Girl Crush - Recorded at Metropolis Studios, London	USSM11708590	72	pop	0.658	0.468	0.0	0.033	144.212	0.249	0.197
+1GDF5AusV7p0wwi4OVNz3i	Harry Styles	Two Ghosts - Recorded at Metropolis Studios, London	USSM11708589	65	pop	0.475	0.535	0.0	0.0311	133.625	0.291	0.231
+6VzcQuzTNTMFnJ6rBSaLH9	Harry Styles	Fine Line	USSM11912596	78	pop	0.172	0.306	0.00013	0.0334	120.996	0.0511	0.347
+03mMSLEJCPoGJwQhHpN5y0	Harry Styles	Treat People With Kindness	USSM11912594	72	pop	0.128	0.653	2.2e-05	0.0382	122.017	0.697	0.869
+5IhzJOXNE7ki0IIJbZbnGq	Harry Styles	Canyon Moon	USSM11912595	73	pop	0.328	0.603	3.49e-05	0.0267	94.022	0.7	0.621
+6iYMfxznTBlcVOgRHab2W0	Harry Styles	Sunflower, Vol. 6	USSM11912593	75	pop	0.000564	0.566	0.000795	0.035	160.02	0.86	0.846
+6SQLk9HSNketfgs2AyIiMs	Harry Styles	She	USSM11912592	76	pop	0.000532	0.535	0.371	0.0272	140.026	0.457	0.521
+5JiH89mHrv9oWHlD0T326z	Harry Styles	To Be So Lonely	USSM11912591	74	pop	0.618	0.758	1.61e-05	0.0418	104.959	0.605	0.436
+2IOFZdYYkFxEHVz1w34PoL	Harry Styles	Cherry	USSM11912589	76	pop	0.615	0.53	0.00453	0.0259	95.946	0.411	0.512
+4jAIqgrPjKLTY9Gbez25Qb	Harry Styles	Lights Up	USSM11910404	77	pop	0.0392	0.575	0.0045	0.032	101.987	0.27	0.621
+3jjujdWJ72nww5eGnfs2E7	Harry Styles	Adore You	USSM11912588	85	pop	0.0237	0.676	7e-06	0.0483	99.048	0.569	0.771
+6UelLqGlWMcVH1E5c4H7lY	Harry Styles	Watermelon Sugar	USSM11912587	88	pop	0.122	0.548	0.0	0.0465	95.39	0.557	0.816
+45S5WTQEGOB1VHr1Q4FuPl	Harry Styles	Golden	USSM11912586	84	pop	0.21	0.448	0.000131	0.0557	139.863	0.254	0.838
+1mw0RgNXIpYRyyCdBQbLgA	Harry Styles	Love Of My Life	USSM12200621	83	pop	0.669	0.555	0.0	0.0452	118.057	0.203	0.536
+0rzaRSujxA0bKyjJl6vHYq	Harry Styles	Satellite	USSM12200619	83	pop	0.143	0.576	3.05e-05	0.0304	138.984	0.301	0.457
+2NcQic8JxdjAlAHuNbOIRE	Harry Styles	Keep Driving	USSM12200618	83	pop	0.321	0.721	0.00156	0.226	164.948	0.902	0.479
+69w5X6uTrOaWM32IetSzvO	Harry Styles	Daydreaming	USSM12200617	83	pop	0.311	0.707	0.0152	0.0304	113.971	0.899	0.811
+35TyJIMR3xRouUuo2sjS6v	Harry Styles	Cinema	USSM12200616	84	pop	0.354	0.829	0.0511	0.0427	105.993	0.896	0.644
+6uvh0In7u1Xn4HgxOfAn8O	Harry Styles	Matilda	USSM12200615	85	pop	0.896	0.507	1.97e-05	0.04	114.199	0.386	0.294
+3i058E8uxTsYqJ5NWZzqSj	Harry Styles	Little Freak	USSM12200614	85	pop	0.719	0.559	0.000143	0.039	141.96	0.402	0.535
+51Zw1cKDgkad0CXv23HCMU	Harry Styles	Daylight	USSM12200613	84	pop	0.484	0.686	0.00144	0.0398	145.5	0.626	0.445
+4Dvkj6JhhA12EX05fT7y2e	Harry Styles	As It Was	USSM12200612	84	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+4j6kId9QIqhoXvqHKgSKa0	Harry Styles	Grapejuice	USSM12200611	84	pop	0.357	0.645	0.143	0.0336	182.928	0.88	0.721
+0NdTUS4UiNYCNn5FgVqKQY	Arctic Monkeys	Snap Out Of It	GBCEL1300371	72	garage rock,permanent wave,rock,sheffield indie	0.249	0.728	0.0	0.0336	130.014	0.872	0.638
+5TTGoX70AFrTvuEtqHK37S	Arctic Monkeys	No. 1 Party Anthem	GBCEL1300367	64	garage rock,permanent wave,rock,sheffield indie	0.33	0.505	0.0887	0.0297	115.013	0.599	0.698
+75n7mraeMycQOl2sDGYaTe	Arctic Monkeys	Mad Sounds	GBCEL1300368	60	garage rock,permanent wave,rock,sheffield indie	0.279	0.532	0.196	0.03	80.001	0.485	0.462
+1j9rezdE3YeC7yktZXC1em	Arctic Monkeys	I Want It All	GBCEL1300366	61	garage rock,permanent wave,rock,sheffield indie	0.000637	0.499	0.0748	0.0347	131.052	0.288	0.81
+6wNUBZNWFxdUGof6vkaykE	Arctic Monkeys	One For The Road	GBCEL1300364	64	garage rock,permanent wave,rock,sheffield indie	0.212	0.415	0.0615	0.036	180.048	0.842	0.668
+4atMrAadB7dS8xn9vfk9PQ	Arctic Monkeys	Fireside	GBCEL1300369	62	garage rock,permanent wave,rock,sheffield indie	0.0234	0.538	0.00126	0.056	100.033	0.74	0.953
+2LGdO5MtFdyphi2EihANZG	Arctic Monkeys	Knee Socks	GBCEL1300372	70	garage rock,permanent wave,rock,sheffield indie	0.123	0.665	0.00291	0.033	97.975	0.587	0.542
+7nzsY8vlnKdvGOEE0rjAXZ	Arctic Monkeys	Arabella	GBCEL1300365	73	garage rock,permanent wave,rock,sheffield indie	0.0202	0.579	1.26e-06	0.0895	179.949	0.506	0.558
+2qT1uLXPVPzGgFOx4jtEuo	Ariana Grande	no tears left to cry	USUM71805289	76	dance pop,pop	0.04	0.699	3.11e-06	0.0594	121.993	0.354	0.713
+5OCJzvD7sykQEKHH7qAC3C	Ariana Grande	God is a woman	USUM71808574	77	dance pop,pop	0.0233	0.602	6e-05	0.0558	145.031	0.268	0.658
+6Im9k8u9iIzKMrmV7BWtlF	Ariana Grande	34+35	USUM72020423	80	dance pop,pop	0.237	0.83	0.0	0.094	109.978	0.485	0.585
+4HBZA5flZLE435QTztThqH	Ariana Grande,Justin Bieber	Stuck with U (with Justin Bieber)	USUM72009644	81	dance pop,pop	0.223	0.597	0.0	0.0418	178.765	0.537	0.45
+35mvY5S1H3J2QZyna3TFe0	Ariana Grande	positions	USUM72019412	83	dance pop,pop	0.468	0.737	0.0	0.0878	144.015	0.682	0.802
+1oFAF1hdPOickyHgbuRjyX	The Weeknd,Ariana Grande	Save Your Tears (Remix) (with Ariana Grande) - Bonus Track	USUG12101839	78	canadian contemporary r&b,canadian pop,pop	0.0215	0.65	2.44e-05	0.0325	118.091	0.593	0.825
+4kV4N9D1iKVxx1KLvtTpjS	Ariana Grande	break up with your girlfriend, i'm bored	USUM71900409	75	dance pop,pop	0.0421	0.726	0.0	0.0917	169.999	0.335	0.554
+6ocbgoVGwYJhOv1GgI9NsF	Ariana Grande	7 rings	USUM71900110	82	dance pop,pop	0.592	0.778	0.0	0.334	140.048	0.327	0.317
+3Ga6eKrUFf12ouh9Yw3v2D	Anitta,J Balvin	Downtown	BRWMB0700761	71	funk carioca,funk pop,pagode baiano,pop nacional	0.18	0.775	7.26e-05	0.135	166.008	0.619	0.679
+5zNxUkUW9WiV5oyg6gh2wB	PEDRO SAMPAIO,Mc Pedrinho	DANÇARINA	BRWMB2200077	84	funk carioca	0.0423	0.778	0.0	0.0788	134.999	0.554	0.571
+7ARoqP7G8UYW8SyYPyPp7k	Anitta,PEDRO SAMPAIO	NO CHÃO NOVINHA	BRWMB2101163	74	funk carioca,funk pop,pagode baiano,pop nacional	0.06	0.703	0.00661	0.0594	141.984	0.704	0.806
+3IAfUEeaXRX9s9UdKOJrFI	Anitta	Envolver	USWL12100576	89	funk carioca,funk pop,pagode baiano,pop nacional	0.152	0.812	0.00254	0.0833	91.993	0.396	0.736
+228BxWXUYQPJrJYHDLOHkj	Daddy Yankee	Gasolina	QM6N21759342	78	latin,latin hip hop,reggaeton,trap latino	0.322	0.852	2.69e-06	0.0614	96.008	0.741	0.797
+1ZemPoaj7LBj1RAQrb89EC	Post Malone	Blame It On Me	USUM71805173	61	dfw rap,melodic rap,rap	0.145	0.652	5.65e-06	0.0418	121.873	0.274	0.591
+3fpVWegR6YOS1Yk5HSMYIq	Post Malone	Paranoid	USUM71710835	66	dfw rap,melodic rap,rap	0.038	0.625	2.31e-05	0.0776	159.914	0.253	0.536
+32lItqlMi4LBhb4k0BaSaC	Post Malone	Candy Paint	USUM71711842	74	dfw rap,melodic rap,rap	0.64	0.664	1.22e-06	0.154	180.064	0.381	0.667
+7dt6x5M1jzdTEt8oCbisTK	Post Malone	Better Now	USUM71805170	79	dfw rap,melodic rap,rap	0.331	0.68	0.0	0.04	145.038	0.341	0.578
+4qWCFTuNnmGNdY4egtb4ZY	Post Malone	Otherside	USUM71805171	62	dfw rap,melodic rap,rap	0.318	0.652	2.87e-06	0.0353	104.932	0.109	0.643
+5ffntNJnJOeFv7b7DCd0Bw	Post Malone	Takin' Shots	USUM71805168	62	dfw rap,melodic rap,rap	0.61	0.762	0.0	0.0866	120.056	0.593	0.621
+6IaieqiCVvsNvEt6Y7yOFa	Post Malone,Nicki Minaj	Ball For Me (feat. Nicki Minaj)	USUM71710834	66	dfw rap,melodic rap,rap	0.513	0.797	0.0	0.24	134.206	0.543	0.55
+1D2L6MefbXon28PzIk9I3r	Post Malone	92 Explorer	USUM71805176	67	dfw rap,melodic rap,rap	0.265	0.798	1.25e-06	0.0476	146.046	0.861	0.733
+0R6Jlsq25eZB3Wftpxi3oF	Post Malone	Jonestown (Interlude)	USUM71805175	54	dfw rap,melodic rap,rap	0.755	0.38	0.623	0.0362	77.592	0.288	0.454
+5VuxWXbt7XENQCtE9TzpTv	Post Malone,Swae Lee	Spoil My Night (feat. Swae Lee)	USUM71805153	64	dfw rap,melodic rap,rap	0.341	0.672	2.4e-05	0.034	160.981	0.225	0.717
+2VdT56BGpdqNHUgOe1j5vc	Post Malone	Rich & Sad	USUM71805166	68	dfw rap,melodic rap,rap	0.198	0.599	0.0	0.0665	151.974	0.285	0.571
+0e7ipj03S05BNilyu5bRzt	Post Malone,21 Savage	rockstar (feat. 21 Savage)	USUM71710087	82	dfw rap,melodic rap,rap	0.124	0.585	7.01e-05	0.0712	159.801	0.129	0.52
+3swc6WTsr7rl9DqQKQA55C	Post Malone,Ty Dolla $ign	Psycho (feat. Ty Dolla $ign)	USUM71710836	76	dfw rap,melodic rap,rap	0.546	0.75	0.0	0.105	140.06	0.459	0.56
+5lZZmityu9TAjNvSY6GLhR	Post Malone	Zack And Codeine	USUM71805167	62	dfw rap,melodic rap,rap	0.15	0.738	0.0	0.0437	138.039	0.386	0.824
+0MrRAUcB8AZiB9ue2VOBYe	Post Malone	Sugar Wraith	USUM71805177	62	dfw rap,melodic rap,rap	0.262	0.606	0.0	0.0671	164.02	0.307	0.775
+688QpQAwqsLdBR6lr13wK1	Post Malone,G-Eazy,YG	Same Bitches (feat. G-Eazy & YG)	USUM71805174	64	dfw rap,melodic rap,rap	0.434	0.731	3.34e-06	0.0555	100.005	0.219	0.774
+6bfJggd4HFdzHzvZLQ5EDX	Juice WRLD	She’s The One	USUG11900398	60	chicago rap,melodic rap	0.308	0.621	0.0	0.225	155.984	0.396	0.804
+49QVOdWgGagzLrThkIqtK6	Juice WRLD	Scared Of Love	USUG11800949	69	chicago rap,melodic rap	0.032	0.642	0.0	0.0812	158.001	0.177	0.562
+6rz0dTA0PdhXImFV5EjM0w	Juice WRLD,Seezyn	Hide (feat. Seezyn)	USUG11802778	74	chicago rap,melodic rap	0.0622	0.715	0.0	0.0752	149.996	0.151	0.639
+2c3zMPsSmGkXCLQwCQqdhz	Juice WRLD	Won’t Let Go	USUG11900397	61	chicago rap,melodic rap	0.0563	0.618	0.0	0.0519	150.068	0.653	0.791
+0C3gyphZJY83XplEHz30m0	Juice WRLD	Desire	USUG11900392	62	chicago rap,melodic rap	0.106	0.598	0.0	0.0484	148.007	0.206	0.768
+2wkej79m7pKn0iTljW929c	Juice WRLD	Out My Way	USUG11900393	61	chicago rap,melodic rap	0.107	0.665	0.0	0.34	164.147	0.498	0.832
+26gXWzhL8DZJSU5sODhVTs	Juice WRLD	734	USUG12100799	68	chicago rap,melodic rap	0.134	0.635	0.0	0.0343	156.822	0.315	0.554
+6cjSh516BbrNUs213jDAGm	benny blanco,Juice WRLD	Graduation (with Juice WRLD)	USUM71916692	68	pop,pop rap	0.107	0.731	0.0	0.271	154.968	0.605	0.65
+3XRQT7EoS4U87rUuJwg5P3	Juice WRLD	Hurt Me	USUG11800953	68	chicago rap,melodic rap	0.128	0.62	0.0	0.17	156.906	0.294	0.451
+3oDkdAySo1VQQG0ptV7uwa	Juice WRLD	Lean Wit Me	USUG11800945	77	chicago rap,melodic rap	0.0414	0.665	0.0	0.156	163.935	0.237	0.651
+7kJlTKjNZVT26iwiDUVhRm	Dua Lipa	Blow Your Mind (Mwah)	GBAHT1600302	66	dance pop,pop,uk pop	0.0188	0.654	0.0	0.122	108.854	0.491	0.796
+2fQxE0jVrjNMT9oJAXtSJR	Jessie J	Domino	USUM71113573	73	dance pop,pop,pop rap,post-teen pop	0.0117	0.758	0.0	0.034	126.986	0.781	0.557
+7jk7gqyEonmVVYahZN5zhW	Britney Spears	Circus	USJI10801081	73	dance pop,pop,post-teen pop	0.147	0.791	0.000381	0.052	114.98	0.761	0.733
+2hgzdQdnfWwtdpZbhZlV72	Jennifer Lopez	Ain't Your Mama	USSM11602625	70	dance pop,pop,pop rap,urban contemporary	0.0472	0.757	9.14e-06	0.233	120.075	0.82	0.678
+5jrdCoLpJSvHHorevXBATy	Katy Perry,Juicy J	Dark Horse	USUM71311296	73	dance pop,pop,post-teen pop	0.00314	0.645	0.0	0.0513	131.931	0.353	0.585
+6I9VzXrHxO9rA9A5euc8Ak	Britney Spears	Toxic	USJI10301005	80	dance pop,pop,post-teen pop	0.0249	0.774	0.025	0.114	143.04	0.924	0.838
+4esOae7i4rqTbAu9o5Pxco	Alicia Keys	Girl on Fire	USRC11201015	75	hip pop,neo soul,pop,r&b,urban contemporary	0.135	0.482	0.00106	0.0607	92.513	0.144	0.706
+6F5c58TMEs1byxUstkzVeM	Katy Perry	Roar	USUM71308669	72	dance pop,pop,post-teen pop	0.00487	0.554	6.6e-06	0.0418	179.984	0.455	0.772
+1gv4xPanImH17bKZ9rOveR	P!nk	Raise Your Glass	USLF21000090	75	dance pop,pop	0.0048	0.7	0.0	0.0838	122.019	0.624	0.709
+2VOomzT6VavJOGBeySqaMc	Rihanna	Disturbia	USUM70814476	75	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.0863	0.707	0.0	0.0571	124.921	0.722	0.813
+3DXXKDbbZKyAZfNb96ST3q	Demi Lovato	Confident	USHR11536743	70	dance pop,pop,post-teen pop	0.00188	0.594	0.000139	0.0677	130.064	0.344	0.749
+6Gsc7sbHZLx2kS4QyIzrlK	Katy Perry	Ur So Gay	USCA20705865	40	dance pop,pop,post-teen pop	0.0401	0.647	1.45e-06	0.052	78.984	0.587	0.883
+2ENexcMEMsYk0rVJigVD3i	Rihanna	Only Girl (In The World)	USUM71023200	75	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.112	0.789	1.71e-05	0.0429	125.911	0.638	0.706
+0ErK6K0kYr0Ow2RkPMhmMs	Little Mix	Shout Out to My Ex	GBHMU1600060	75	dance pop,girl group,pop,post-teen pop,talent show,uk pop	0.0242	0.773	8.99e-06	0.0885	126.014	0.801	0.747
+0VwNdo84DaVYLIkbVO86ND	Taylor Swift	We Are Never Ever Getting Back Together	USCJY1231018	73	pop	0.00957	0.628	2.65e-05	0.0916	85.984	0.75	0.676
+1dzQoRqT5ucxXVaAhTcT0J	Lady Gaga,Colby O'Donis	Just Dance	USUM70807646	75	art pop,dance pop,pop	0.0264	0.822	4.26e-05	0.0311	118.992	0.745	0.739
+6JY1IdkZGeIcPegKxjSKeb	Kelly Clarkson	Since U Been Gone	GBCTA0400231	70	dance pop,neo mellow,pop,post-teen pop,talent show	0.00206	0.662	0.0603	0.0322	130.999	0.382	0.739
+1OAh8uOEOvTDqkKFsKksCi	DJ Khaled,Rihanna,Bryson Tiller	Wild Thoughts (feat. Rihanna & Bryson Tiller)	USSM11705088	71	dance pop,dirty south rap,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap	0.0329	0.671	0.0	0.0688	97.979	0.632	0.672
+2gam98EZKrF9XuOkU13ApN	Nelly Furtado,Timbaland	Promiscuous	USUM70603473	80	canadian latin,canadian pop,dance pop,pop,pop rap	0.0569	0.808	6.13e-05	0.0506	114.328	0.868	0.97
+1nZzRJbFvCEct3uzu04ZoL	Katy Perry	Part Of Me	USCA21102809	72	dance pop,pop,post-teen pop	0.000417	0.678	0.0	0.0355	130.028	0.769	0.918
+7K5dzhGda2vRTaAWYI3hrb	P!nk	"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")"	USWD11676311	67	dance pop,pop	0.0114	0.632	0.0	0.148	162.958	0.523	0.702
+1iOJQhxKSJ7dg3Dk03yPnl	P!nk	U + Ur Hand	USLF20500242	64	dance pop,pop	0.00144	0.709	0.0	0.0528	141.04	0.886	0.891
+4ZOyH6KjomjlqCz3oFqglr	Jennifer Lopez,Jadakiss,Styles P	Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix	USSM10212454	63	dance pop,pop,pop rap,urban contemporary	0.00833	0.844	3.42e-06	0.207	100.002	0.961	0.754
+3rMsX63C0IZVnOT5LGYoTH	Rihanna	Russian Roulette	USUM70912464	63	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.046	0.48	0.0	0.0447	80.051	0.265	0.486
+78TTtXnFQPzwqlbtbwqN0y	Rihanna,Kanye West,Paul McCartney	FourFiveSeconds	USJMT1500001	76	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.875	0.582	0.0	0.0501	205.846	0.354	0.272
+0yvPEnB032fojLfVluFjUv	Demi Lovato	Sorry Not Sorry	USUM71707196	75	dance pop,pop,post-teen pop	0.0242	0.706	0.0	0.234	143.931	0.885	0.643
+6tS3XVuOyu10897O3ae7bi	Katy Perry,Snoop Dogg	California Gurls	USCA21001135	71	dance pop,pop,post-teen pop	0.00446	0.791	0.0	0.0569	125.014	0.425	0.754
+4wH4dJgrsxONID6KS2tDQM	Nelly Furtado	Maneater	USUM70601449	78	canadian latin,canadian pop,dance pop,pop,pop rap	0.0261	0.796	0.000358	0.0397	132.722	0.787	0.777
+6naxalmIoLFWR0siv8dnQQ	Britney Spears	Oops!...I Did It Again	USJI10000100	76	dance pop,pop,post-teen pop	0.3	0.751	1.77e-05	0.0437	95.053	0.894	0.834
+0JiY190vktuhSGN6aqJdrt	P!nk	So What	USLF20800067	75	dance pop,pop	0.000334	0.534	0.0	0.0425	126.019	0.462	0.87
+6ldwfK0yWgTAlmIfuQkTYN	Britney Spears	I'm a Slave 4 U	USJI10100421	68	dance pop,pop,post-teen pop	0.415	0.847	0.000134	0.106	110.027	0.963	0.843
+6RX5iL93VZ5fKmyvNXvF1r	Beyoncé	Irreplaceable	USSM10603620	68	dance pop,pop,r&b	0.0293	0.447	5.46e-06	0.382	175.868	0.509	0.694
+0cqRj7pUJDkTCEsJkx8snD	Taylor Swift	Shake It Off	USCJY1431349	78	pop	0.0647	0.647	0.0	0.165	160.078	0.942	0.8
+3MjUtNVVq3C8Fn0MP3zhXa	Britney Spears	...Baby One More Time	USJI19810404	76	dance pop,pop,post-teen pop	0.202	0.759	0.000131	0.0307	92.96	0.907	0.699
+1BfRdnfPYrni7zj4ANodBX	P!nk	Don't Let Me Get Me - Radio Edit	USAR10100715	59	dance pop,pop	0.00234	0.624	0.0	0.0756	98.525	0.615	0.85
+1V6gIisPpYqgFeWbMLI0bA	Demi Lovato	Heart Attack	USHR11334249	78	dance pop,pop,post-teen pop	0.0738	0.504	0.0	0.104	173.968	0.502	0.785
+2r6DdaSbkbwoPzuK6NjLPn	Miley Cyrus	Can't Be Tamed	USHR11024938	62	dance pop,pop,post-teen pop	0.0287	0.63	0.0	0.144	116.98	0.743	0.91
+0eqH0ALoDQevq59YcQ53KE	Gwen Stefani	Hollaback Girl	USIR10400847	68	dance pop,hip pop,pop,urban contemporary	0.35	0.926	6.17e-06	0.0929	110.007	0.904	0.916
+2aI21FnmY7TJVKeMaoQZ0t	Nelly Furtado	Say It Right	USUM70603368	79	canadian latin,canadian pop,dance pop,pop,pop rap	0.0476	0.872	0.00112	0.139	116.948	0.809	0.872
+1nInOsHbtotAmEOQhtvnzP	Kelly Clarkson	Stronger (What Doesn't Kill You)	GBCTA1100364	73	dance pop,neo mellow,pop,post-teen pop,talent show	0.046	0.562	0.0	0.0475	116.044	0.684	0.939
+1uXbwHHfgsXcUKfSZw5ZJ0	Beyoncé	Run the World (Girls)	USSM11102447	70	dance pop,pop,r&b	0.00496	0.733	4.72e-05	0.143	127.086	0.76	0.899
+564tHu6RJmSLd6a7mC011x	Rui Veloso	A paixão (Segundo Nicolau da Viola)	PTEM19000006	45	portuguese rock	0.94	0.542	0.0	0.0296	79.459	0.444	0.19
+6phApqHjoCegpevdCSh331	Carolina Deslandes	A Vida Toda	PT4EU1700001	43	portuguese pop	0.787	0.786	5.23e-05	0.044	128.04	0.536	0.294
+1RJKJ7ZKHyN6A2swWilXmG	Pedro Abrunhosa	Se Eu Fosse Um Dia O Teu Olhar	PTAB19601279	41	portuguese pop,portuguese rock	0.488	0.754	0.00537	0.105	152.464	0.675	0.448
+3WnDjHMr1nDDx7s1NCHxB7	Valas,Raquel Tavares	Estradas No Céu	PTUM71800170	36	hip hop tuga	0.379	0.435	0.0	0.445	80.82	0.157	0.766
+00xcrNRhDx1HDdpfhnnDhI	Rádio Macau	O anzol	PTEM18700076	39	portuguese rock	0.121	0.579	0.000586	0.0354	147.038	0.625	0.476
+1Dndf5QYruv5f3E8bQ8gdK	The Gift	Fácil De Entender (Studio Version)	PTLF10600013	32	portuguese rock	0.489	0.311	0.0	0.0443	156.142	0.548	0.593
+1bidGYLF9SSG4QfS3byUv6	Pedro Abrunhosa	Tudo O Que Eu Te Dou	PTAB19400022	43	portuguese pop,portuguese rock	0.947	0.423	0.27	0.0367	94.159	0.148	0.113
+1qCLx3nX25NuhfPjM5E1qV	Melim	Ouvi Dizer	BRUM71706704	65	mpb,nova mpb,pop nacional	0.0745	0.641	0.0	0.0532	81.011	0.727	0.614
+1Zta013L8lvFsTjmnF34B6	Bárbara Tinoco	Sei Lá	GBSMU7249211	43	portuguese pop	0.874	0.406	0.0	0.0304	100.026	0.23	0.388
+4p1q5uBu2nMrTPIhwHzdim	Titãs,Xutos & Pontapés	Minha Casinha - Ao Vivo	BRMZA1200054	7	brazilian rock,hard rock brasileiro,mpb,pop rock brasileiro,rock nacional brasileiro,rock piauiense	0.00729	0.181	0.000115	0.0431	189.767	0.391	0.756
+2rQfCq8cjH88K8k7cNFKQe	Raquel Tavares	Meu Amor de Longe	PT0FA1600002	27	fado	0.489	0.864	4.49e-06	0.0374	123.003	0.813	0.636
+1I4mJOjoMcSuvJbgOUar9t	Agir	Bola de Cristal	PT2DN1500005	24	portuguese pop	0.564	0.635	0.0	0.0443	80.026	0.414	0.552
+1VkvzGzRICEsVqRO6ylxGE	Amor Electro	Rosa sangue	PTKH11100021	34	portuguese pop	0.123	0.67	0.00331	0.0377	142.029	0.433	0.667
+44RjNeuDpBGB0kWmRbUxyr	Per7ume,Rui Veloso	Intervalo	PTVI10900105	31	portuguese rock	0.244	0.541	0.0	0.0244	71.999	0.404	0.616
+0Bxc1dZPYG8fSAfs3uUzUz	Carolina Deslandes,Rui Veloso	Avião De Papel	PTNO11800012	40	portuguese pop	0.816	0.834	0.0	0.0319	114.097	0.67	0.45
+5nIY0JjnjPpFkC3zcoqZeH	Diogo Piçarra	Já Não Falamos	PTUM71700047	27	portuguese pop	0.441	0.734	0.00617	0.0655	125.028	0.492	0.726
+0CO9sYHaTAdEOWcPwW1J3j	HMB,Carminho	O Amor É Assim	QMDA61580111	24	futurepop,portuguese pop	0.329	0.794	0.0	0.0453	112.009	0.836	0.595
+3UjSOJ00E1eLMcayBm827Q	Salvador Sobral	Amar Pelos Dois	PTNO11700001	52	portuguese pop	0.853	0.215	0.00426	0.0358	172.692	0.16	0.0952
+3qZLmVxzAZgyZ2iGJG9l73	HMB	Peito	PT0FG1600020	14	futurepop,portuguese pop	0.799	0.486	0.0	0.0415	141.432	0.215	0.294
+4qJSPeXdzlnBBS7q7xfne0	ANAVITÓRIA,TIAGO IORC	Trevo (Tu)	BRF3S1600005	34	folk brasileiro,nova mpb,pop lgbtq+ brasileira,pop nacional	0.877	0.679	0.000672	0.0268	99.8	0.259	0.364
+4t4oqMSwwmpHzQIu1aok1z	Seu Jorge	Amiga Da Minha Mulher	BRF281100006	62	mpb,samba,samba-rock	0.714	0.788	0.0	0.121	104.015	0.829	0.916
+7N2g30D8drleJ42DxcEbrO	Diogo Piçarra	Verdadeiro	PTUM71500045	24	portuguese pop	0.0126	0.531	0.0013	0.0459	160.013	0.486	0.811
+1qziCx0BHzpd6LeSqx8vAq	Ana Moura	Dia De Folga	PTUM71500365	34	fado,portuguese pop	0.632	0.589	0.0	0.0377	126.978	0.716	0.714
+7HBb0h45HuqUIBmVqN3s92	D.A.M.A	Oquelávai	PTBM11700243	40	portuguese pop	0.58	0.605	7.28e-06	0.0449	88.945	0.493	0.502
+6PLVLWG3bjuKrvMJmwjps1	Bárbara Tinoco	Antes Dela Dizer Que Sim	GBSMU6298848	47	portuguese pop	0.826	0.409	0.0	0.0787	180.386	0.521	0.329
+6h6Lb92WzzhHXOpZ9GZ0nH	António Variações	Canção de engate	PTEM19700035	38	portuguese indie,portuguese rock	0.288	0.584	0.000146	0.0366	93.554	0.554	0.749
+6eIJp4adBYxBGhUvqBkozn	Miguel Araújo	Os maridos das outras	PTKE11200019	38	portuguese pop,portuguese rock	0.352	0.776	0.0	0.0414	128.164	0.88	0.379
+6tvnj77OJD0DJTgSIi6fQ3	Ana Carolina,Seu Jorge	É Isso Aí (The Blower'S Daughter)	BRBMG0500430	57	mpb,musica juiz-forana	0.638	0.294	0.0	0.0293	107.134	0.224	0.321
+1ISqIUSxJn2hX8HDVuUgcj	Xutos & Pontapés	Circo De Feras	PTAB18701923	25	portuguese rock,punk tuga	0.00344	0.626	0.00137	0.0264	96.39	0.586	0.611
+6MmjZnU3cEFPLpzew4L0qr	Miguel Gameiro	Dá-me Um Abraço	PTIP11000011	18	portuguese rock	0.0839	0.59	0.0	0.0269	100.016	0.266	0.468
+2VriAG3dc76Pr2NhoFxPDB	Mia Rose,Salvador Seixas	Tudo para Dar (feat. Salvador Seixas)	PTBM11600070	18	portuguese pop	0.424	0.534	0.0	0.0351	82.679	0.759	0.394
+0fnXFA6qB48o7WwWQX1Wb6	Hoje	Gaivota	PTLF10900003	33	musica portuguesa contemporanea	0.147	0.31	1.65e-05	0.0447	80.009	0.162	0.708
+7gWuvpjf7ghzYSQoGQuU3d	António Zambujo	Pica Do 7	PTNO11400017	41	fado	0.798	0.71	7.35e-06	0.0329	91.098	0.627	0.443
+2xUQFT2ndnz4NAhKloClQU	Pedro Abrunhosa,Camane	Para Os Braços Da Minha Mãe	PTJT11300065	41	portuguese pop,portuguese rock	0.94	0.393	0.00536	0.0344	105.917	0.385	0.124
+1lJgjK9z9gcEmn08w5pWnh	Per7ume	Intervalo (Participação Especial de Rui Veloso)	USA370986886	38	portuguese rock	0.244	0.547	0.0	0.0245	143.863	0.46	0.594
+4gXdMZkBN1neE9nX6yRALa	Eminem	Ass Like That	USIR10400804	65	detroit hip hop,hip hop,rap	0.409	0.646	0.0	0.366	83.093	0.676	0.796
+0Fv6CfegUbD5Egs0dj8CVB	Eminem	My Name Is	USIR19902059	60	detroit hip hop,hip hop,rap	0.052	0.845	0.0	0.339	85.561	0.813	0.682
+48RrDBpOSSl1aLVCalGl5C	Eminem,Rihanna	The Monster	USUM71314082	74	detroit hip hop,hip hop,rap	0.0525	0.781	0.0	0.0715	110.049	0.624	0.853
+70ATm56tH7OrQ1zurYssz0	Dr. Dre,Eminem,Skylar Grey	I Need A Doctor	USUM71029031	69	g funk,gangster rap,hip hop,rap,west coast rap	0.0869	0.594	0.0	0.452	155.826	0.397	0.946
+44ut2KJnt0HQMnUaMlDv9W	Eminem	Untitled	USUM71015399	51	detroit hip hop,hip hop,rap	0.34	0.857	0.0	0.103	112.023	0.74	0.841
+4KxiDMQBLiHZ0efSyvVsKc	Eminem	Drop The Bomb On 'Em	USUM70918146	45	detroit hip hop,hip hop,rap	0.0277	0.892	0.0	0.215	91.989	0.357	0.693
+4g32MdRoqwGKQd3NXIRhpU	Eminem,Jessie Reyez	Good Guy (feat. Jessie Reyez)	USUM71813343	60	detroit hip hop,hip hop,rap	0.244	0.696	0.0	0.281	89.973	0.728	0.634
+7hiBhOh4s8G0xmGYBAjyuw	Eminem,Sia	Beautiful Pain	USUM71314090	60	detroit hip hop,hip hop,rap	0.0616	0.685	0.0	0.459	165.369	0.4	0.815
+0Uv5Kp8sEnriJjkX4oLfNI	Paul Rosenberg	Paul - Skit	USUM71813335	54		0.993	0.636	0.0	0.966	161.68	0.561	0.335
+6da04YB906XonC6IQNC44u	Eminem,Dr. Dre	Guilty Conscience	USUM70506390	62	detroit hip hop,hip hop,rap	0.0527	0.66	0.0	0.364	182.218	0.513	0.789
+7bHT9osSq1rwT2yaImzqCi	Eminem,Lil Wayne	No Love	USUM71015393	68	detroit hip hop,hip hop,rap	0.119	0.522	0.0	0.255	129.473	0.33	0.932
+3UmaczJpikHgJFyBTAJVoz	Eminem,Dido	Stan	USIR10001280	82	detroit hip hop,hip hop,rap	0.0371	0.78	2.34e-06	0.238	80.063	0.507	0.768
+1SWVDBtw6h3tm9OehOkDhv	Dr. Dre,Eminem,Xzibit	What's The Difference	USIR19915074	73	g funk,gangster rap,hip hop,rap,west coast rap	0.223	0.772	0.0	0.25	91.921	0.77	0.821
+4xs1uoAjiWAEecX9yKGSF6	Eminem,Kehlani	Nowhere Fast (feat. Kehlani)	USUM71713420	56	detroit hip hop,hip hop,rap	0.254	0.7	0.0	0.184	79.015	0.663	0.74
+75IN3CtuZwTHTnZvYM4qnJ	Eminem	My Name Is	USIR19902059	72	detroit hip hop,hip hop,rap	0.0416	0.869	1.12e-06	0.318	85.519	0.815	0.68
+1F4lm7DxvpNvXfT3cGuJCb	Eminem	Still Don't Give A Fuck	USIR19902075	55	detroit hip hop,hip hop,rap	0.107	0.693	0.0	0.378	89.899	0.607	0.856
+1qwMkkRiD5jqLeUUjfgblh	Eminem,Anderson .Paak	Lock It Up (feat. Anderson .Paak)	USUM72000797	62	detroit hip hop,hip hop,rap	0.0949	0.848	0.0	0.221	137.024	0.516	0.745
+561jH07mF1jHuk7KlaeF0s	Eminem	Mockingbird	USIR10400813	76	detroit hip hop,hip hop,rap	0.209	0.637	0.0	0.266	84.039	0.254	0.678
+77q65VGEbRnJlnX50UfnZS	Lil Wayne,Eminem	Drop The World	USCM50901210	58	hip hop,new orleans rap,pop rap,rap,trap	0.0719	0.663	0.0	0.317	144.993	0.342	0.91
+23wfXwnsPZYe5A1xXRHb3J	Eminem	The Way I Am	USIR10000589	71	detroit hip hop,hip hop,rap	0.144	0.785	0.0	0.265	87.248	0.315	0.871
+51LeDAMy6nWqKdjVo7jK4j	Eminem	Curtains Close	USIR10211070	47	detroit hip hop,hip hop,rap	0.518	0.572	0.00026	0.54	99.314	0.685	0.412
+7lQ8MOhq6IN2w8EYcFNSUk	Eminem	Without Me	USIR10211038	86	detroit hip hop,hip hop,rap	0.00286	0.908	0.0	0.0738	112.238	0.662	0.669
+015jLlgBeSkl3CApWJhlv7	WESTSIDE BOOGIE,Eminem	Rainy Days (feat. Eminem)	USUM71818939	57	underground hip hop	0.0146	0.866	0.0	0.256	106.949	0.171	0.51
+2tKJpsRSTxmGAe6TKcstR4	Eminem	Remind Me (Intro)	USUM71712945	3	detroit hip hop,hip hop,rap	0.836	0.596	0.000479	0.595	73.704	0.491	0.452
+3CJbxqRQ0JNCqboWDNUUeX	"Eminem,KXNG Crooked,Royce Da 5'9"",Joell Ortiz"	"I Will (feat. KXNG Crooked, Royce Da 5'9"" & Joell Ortiz)"	USUM72000800	58	detroit hip hop,hip hop,rap	0.0454	0.635	0.000678	0.067	98.743	0.036	0.543
+5eGEc27nnhtmcOh6RC890a	Eminem	Kill You	USIR10000580	68	detroit hip hop,hip hop,rap	0.155	0.897	0.000127	0.379	106.991	0.677	0.559
+0AaKi10VdO06R4fkBFBslc	"Eminem,Paul ""Bunyan"" Rosenberg"	Paul - Skit	USIR19902061	0	detroit hip hop,hip hop,rap	0.981	0.816	5.88e-05	0.865	130.845	0.837	0.266
+6CN3e26iQSj1N5lomh0mfO	Eminem	Like Toy Soldiers	USIR10400812	66	detroit hip hop,hip hop,rap	0.0193	0.52	0.00034	0.359	79.178	0.398	0.768
+4sn2mlcCdzOvS3MmAbutVR	Conway the Machine,Eminem	Bang (feat. Eminem)	USUM71914154	47	boom bap,buffalo hip hop,hip hop,rap,southern hip hop,underground hip hop,upstate ny rap	0.219	0.707	0.0	0.299	146.042	0.642	0.872
+1HGJibP8gAObODICRNWPAe	Obie Trice,50 Cent,Eminem	Love Me - Soundtrack Version (Clean)	USIR10211648	33	detroit hip hop,gangster rap,hardcore hip hop,hip hop,pop rap,rap,southern hip hop	0.0757	0.694	3.87e-05	0.246	81.006	0.28	0.511
+6YxWzMtFrGETbAcvqbUiww	Eminem	Cum On Everybody	USIR19902069	44	detroit hip hop,hip hop,rap	0.0277	0.891	0.000652	0.199	105.115	0.665	0.754
+6bXzKob0VMX9X1HhodutiC	Eminem	Cleanin' Out My Closet	USIR10211054	51	detroit hip hop,hip hop,rap	0.0813	0.907	0.0	0.173	147.996	0.875	0.766
+0ttF21hZCPw2merE3GsHcP	Eminem	Curtains Up - Skit	USIR10211051	24	detroit hip hop,hip hop,rap	0.00697	0.378	0.958	0.036	81.519	0.0313	0.122
+27eOHLIdWzqzZawiRSEi9s	Eminem	Ricky Ticky Toc	USIR10400827	43	detroit hip hop,hip hop,rap	0.0315	0.727	2.15e-06	0.412	172.068	0.52	0.606
+3CpoeW0cZSDzIRv5z34F87	Eminem	Sing For The Moment	USIR10211061	70	detroit hip hop,hip hop,rap	0.0017	0.668	3.05e-06	0.137	163.961	0.185	0.824
+6kUaRtXf19fu5IQWjmwsEJ	Eminem	Venom - Remix	USUG12105252	63	detroit hip hop,hip hop,rap	0.0232	0.763	0.0	0.244	135.986	0.71	0.827
+3Q0mJByJRrUTZGrBFYnfCP	Eminem	Like Toy Soldiers	USIR10400812	51	detroit hip hop,hip hop,rap	0.0211	0.684	0.000464	0.275	82.202	0.4	0.772
+4HsaoezrUA96qMzDK3ZWnq	Eminem	Ken Kaniff - Skit	USIR10000586	42	detroit hip hop,hip hop,rap	0.196	0.473	0.0	0.846	178.249	0.541	0.715
+2SL6oP2YAEQbqsrkOzRGO4	Eminem	Venom - Music From The Motion Picture	USUM71813345	73	detroit hip hop,hip hop,rap	0.0193	0.749	0.0	0.064	135.959	0.46	0.794
+5NmL2zxnlt9GiTB2TQbvFM	Eminem	8 Mile	USIR10211622	59	detroit hip hop,hip hop,rap	0.125	0.74	8.33e-05	0.285	89.981	0.489	0.94
+60SdxE8apGAxMiRrpbmLY0	Eminem,Joyner Lucas	Lucky You (feat. Joyner Lucas)	USUM71813334	72	detroit hip hop,hip hop,rap	0.0627	0.876	0.0	0.306	153.068	0.575	0.786
+1A6N0uZ1gp5BGU7fv7PUlu	Eminem,Aristotle,Mark Bass	Ken Kaniff - Skit	USIR19902068	37	detroit hip hop,hip hop,rap	0.984	0.78	0.0	0.897	108.112	0.185	0.368
+1mavQ4WCzXSeL2Dm5DS4GQ	Eminem	Legacy	USUM71314077	60	detroit hip hop,hip hop,rap	0.276	0.664	0.0	0.474	164.125	0.534	0.899
+2jt2WxXMCD4zjACthkJQVE	Eminem	The Ringer	USUM71813329	66	detroit hip hop,hip hop,rap	0.0311	0.939	0.0	0.291	118.552	0.42	0.551
+57Bs2m3Pn2KFGSaTVZimg9	Eminem,Slaughterhouse	Session One	USUM71016838	43	detroit hip hop,hip hop,rap	0.182	0.447	0.0	0.354	175.449	0.574	0.946
+4iTyf5pLZMOR8YrEZgSopo	Eminem	Believe	USUM71712941	57	detroit hip hop,hip hop,rap	0.16	0.884	0.0	0.112	130.072	0.11	0.492
+7lgvU7WnwcNZ8dbGUz8yhP	Eminem,Dr. Dre,Snoop Dogg,Xzibit,Nate Dogg	Bitch Please II	USIR10000591	70	detroit hip hop,hip hop,rap	0.0783	0.918	0.0	0.133	95.517	0.779	0.586
+0dyWQoMOU9oERL6c9vxtRp	Eminem	25 To Life	USUM71015420	61	detroit hip hop,hip hop,rap	0.239	0.701	0.0	0.243	79.996	0.362	0.931
+42YNobZ4HN3tRVEA47wLT6	Eminem	When I'm Gone	USUM70506288	59	detroit hip hop,hip hop,rap	0.0537	0.619	0.0	0.36	149.944	0.757	0.746
+15ZNcgzsiiSrLQAGzl3le9	Eminem,D12	One Shot 2 Shot	USIR10400817	59	detroit hip hop,hip hop,rap	0.194	0.885	0.0	0.225	98.974	0.822	0.61
+5qykEZTHAcplCLrynoLRnN	Eminem	In Your Head	USUM71713423	60	detroit hip hop,hip hop,rap	0.00164	0.647	0.0	0.224	82.918	0.252	0.778
+7996f9NZeypc4jqfc6hJUa	Eminem,RBX,Sticky Fingaz	Remember Me?	USIR10000583	52	detroit hip hop,hip hop,rap	0.00293	0.806	0.0	0.299	89.982	0.729	0.905
+2Ie7pnF3ZKNTde30TQWlWx	Eminem,Alicia Keys	Like Home (feat. Alicia Keys)	USUM71712948	50	detroit hip hop,hip hop,rap	0.232	0.78	0.0	0.245	109.883	0.258	0.787
+5SpWTzTFzy2UiZWaEWCHWn	Eminem	Bad Guy	USUM71314073	40	detroit hip hop,hip hop,rap	0.064	0.612	0.0	0.448	81.086	0.358	0.797
+0pzXfsibHoO6eWDV262G1U	Eminem	As The World Turns	USIR19902072	45	detroit hip hop,hip hop,rap	0.00326	0.796	0.0	0.316	95.857	0.336	0.73
+7sKZWN4xVOSb4miTL1vRXx	Eminem	Rock Bottom	USIR19902070	49	detroit hip hop,hip hop,rap	0.0783	0.859	0.00762	0.124	92.046	0.378	0.644
+1d5jcRB7Ri9ZA0sFh1Moke	Eminem	Bagpipes From Baghdad	USUM70964072	52	detroit hip hop,hip hop,rap	0.104	0.74	0.0	0.211	93.035	0.382	0.915
+2SvgBb7Wxa9ZfeamgGIGZl	Eminem	I'm Shady	USUM71901872	50	detroit hip hop,hip hop,rap	0.0248	0.838	2.05e-06	0.254	92.904	0.709	0.713
+1v7L65Lzy0j0vdpRjJewt1	Eminem	"Lose Yourself - From ""8 Mile"" Soundtrack"	USIR10211559	76	detroit hip hop,hip hop,rap	0.00921	0.686	0.00066	0.264	171.355	0.0596	0.735
+7zl7kehxesNEo2pYkKXTSe	Eminem,Jack Harlow,Cordae	Killer (feat. Jack Harlow & Cordae) - Remix	USUG12100047	69	detroit hip hop,hip hop,rap	0.0525	0.924	0.0	0.274	99.01	0.848	0.73
+18ohWhzbMCynq5QJ68ifkW	Eminem	Criminal	USIR10000596	59	detroit hip hop,hip hop,rap	0.127	0.81	0.0	0.268	101.941	0.573	0.724
+4SE4yewyGpOYfxfx59Yjc5	Eminem	Cinderella Man	USUM71015394	67	detroit hip hop,hip hop,rap	0.234	0.679	0.0	0.202	85.918	0.687	0.908
+1lO9CZo6eDrOy0S7khgryG	Eminem,Don Toliver	No Regrets (feat. Don Toliver)	USUM72000799	61	detroit hip hop,hip hop,rap	0.0048	0.756	0.00536	0.046	134.935	0.0687	0.747
+4dh34dyav8M5jCN3yidn8Z	Eminem	Big Weenie	USIR10400805	51	detroit hip hop,hip hop,rap	0.242	0.622	0.0	0.502	173.662	0.315	0.539
+5UsLjwBaTHBX4ektWIr4XX	Drake,Kanye West,Lil Wayne,Eminem	Forever	USUM70920707	71	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.249	0.457	0.0	0.342	104.02	0.54	0.906
+6B3zy3LOKHndqsviCr2z15	Eminem	Em Calls Paul - Skit	USUM71813337	53	detroit hip hop,hip hop,rap	0.977	0.707	0.0	0.747	104.014	0.602	0.314
+4UhUXGXEeq3mPJyzZkx9fY	Eminem,50 Cent,Ca$his,Lloyd Banks	You Don't Know	USUM70613171	60	detroit hip hop,hip hop,rap	0.0116	0.767	0.0	0.133	85.475	0.747	0.864
+3Vh7tuvp5J5jpLrCqAcosU	Eminem,Sway & King Tech	Get You Mad	USIR19902341	43	detroit hip hop,hip hop,rap	0.0134	0.793	0.0	0.314	91.433	0.564	0.77
+1sv41rYgHhPWdyzwk5K9zy	Eminem	Alfred - Intro	USUM72024250	5	detroit hip hop,hip hop,rap	0.887	0.764	1.92e-06	0.571	97.546	0.884	0.376
+6dJRP4pXk4SOzWfhfHL3Or	Eminem	So Much Better	USUM71314076	49	detroit hip hop,hip hop,rap	0.252	0.719	0.0	0.25	84.497	0.616	0.858
+39KKZBAPkgKa4nqZBfkHJ5	Eminem	Still Don't Give A Fuck	USIR19902075	48	detroit hip hop,hip hop,rap	0.112	0.681	0.0	0.386	89.777	0.59	0.851
+08ir631EiCA7xIms7JDp15	Eminem,DJ Premier	Book of Rhymes (feat. DJ Premier)	USUM72024259	57	detroit hip hop,hip hop,rap	0.264	0.846	0.0	0.279	134.324	0.47	0.758
+6IvespQWGW4USXwexlVKDm	Eminem	Untouchable	USUM71712943	47	detroit hip hop,hip hop,rap	0.0803	0.554	0.0	0.503	172.233	0.648	0.887
+0FLIBDpU2S5bb6TfMB4NuQ	Eminem	Killer	USUM72024274	58	detroit hip hop,hip hop,rap	0.0184	0.942	0.0	0.256	99.04	0.769	0.757
+069VGijrAsQVSY9ihFv1Px	Yelawolf,Eminem	Best Friend	USUM71502773	60	alabama rap,hip hop,pop rap,rap,southern hip hop	0.0174	0.75	0.0	0.0477	135.96	0.562	0.906
+3F14hbIqy1JKKLTb1mzdYV	Eminem,Hailie Jade	My Dad's Gone Crazy	USIR10211067	59	detroit hip hop,hip hop,rap	0.0986	0.73	0.0	0.508	176.146	0.711	0.698
+60JTHAm6RJazHjZnio8xhX	The High & Mighty,Eminem	Last Hit ( Original)	US3V80210209	21	alternative hip hop,hardcore hip hop,philly rap,turntablism	0.0441	0.744	0.0	0.323	92.679	0.882	0.873
+6M6lsQB4OhqL41eld29PeC	Rihanna,Eminem	Love The Way You Lie (Part II) - Pt. 2	USUM71026644	64	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.3	0.469	0.0	0.165	166.526	0.402	0.833
+0FXfAepEmqVCMnvOpb8Hoj	Eminem,Dr. Dre	Hell Breaks Loose	USUM70917508	45	detroit hip hop,hip hop,rap	0.129	0.57	0.0	0.219	78.887	0.911	0.883
+3xpTHrC1b6dmiLEeM5jO0z	Eminem,Skylar Grey	Tragic Endings (feat. Skylar Grey)	USUM71712950	56	detroit hip hop,hip hop,rap	0.4	0.665	0.0	0.249	80.971	0.512	0.769
+3xnIYtj7GS6WTXshdsb1uG	Eminem	Paul - Skit	USUM70964081	2	detroit hip hop,hip hop,rap	0.955	0.82	0.0	0.932	97.199	0.421	0.41
+3yfqSUWxFvZELEM4PmlwIR	Eminem	The Real Slim Shady	USIR10000448	85	detroit hip hop,hip hop,rap	0.0302	0.949	0.0	0.0572	104.504	0.76	0.661
+2PFqkLmTU9k5CNLN6jMMmr	Eminem	Love You More	USIR10400828	46	detroit hip hop,hip hop,rap	0.0475	0.837	0.0163	0.0897	93.238	0.302	0.604
+40YbWniIEmqy6s58fYXLUh	Eminem	Never Love Again	USUM72000795	64	detroit hip hop,hip hop,rap	0.1	0.747	0.0	0.246	92.029	0.581	0.899
+2aXwXcdR1aGCYesbEr2DgV	"Eminem,Jeff Bass,Royce Da 5'9"""	Soap - Skit	USIR19902071	37	detroit hip hop,hip hop,rap	0.97	0.474	0.000207	0.0617	72.08	0.857	0.425
+7BneCfYRPXAJsEXRdVzEfV	Eminem	Parking Lot - Skit	USUM71314074	40	detroit hip hop,hip hop,rap	0.528	0.425	0.0383	0.366	141.179	0.126	0.83
+7M2tXmeS15NAzEn7ABFeBg	Logic,Eminem	Homicide (feat. Eminem)	USUM71908267	71	conscious hip hop,dmv rap,hip hop,pop rap,rap	0.137	0.694	0.0	0.398	140.055	0.77	0.759
+33MpATo5CCG2ennj6LAlYq	Tech N9ne,Eminem,Krizz Kaliko	Speedom (Wwc2)	USZHR1500016	55	hip hop,kansas city hip hop,pop rap	0.11	0.708	0.0	0.133	130.091	0.736	0.934
+6ogACNVtzSJHzqLhzUegaf	Eminem	Offended	USUM71713421	50	detroit hip hop,hip hop,rap	0.561	0.661	0.0	0.362	139.731	0.731	0.865
+1HR2CTi0ytRJIcik1QKdOa	Eminem	Beautiful	USUM70964089	68	detroit hip hop,hip hop,rap	0.251	0.727	0.0	0.0706	132.077	0.467	0.696
+6C781pluv3BPxGHHCUJNYc	50 Cent,Eminem	Patiently Waiting	USIR10300026	63	east coast hip hop,gangster rap,hip hop,pop rap,queens hip hop,rap	0.275	0.738	0.0	0.28	78.929	0.575	0.674
+5j6ODxGVhAWeCS49bBKuxz	Eminem,Dr. Dre	Old Time's Sake	USUM70964391	52	detroit hip hop,hip hop,rap	0.0606	0.775	0.0	0.304	176.047	0.836	0.829
+7ccTcabbJlCJiIqtrSSwBk	Eminem	Premonition - Intro	USUM72000782	60	detroit hip hop,hip hop,rap	0.0258	0.847	0.000648	0.367	165.979	0.511	0.637
+0eUzRaG60gimqQJ02oSUnH	Nicki Minaj,Eminem	Roman's Revenge	USCM51000713	54	dance pop,hip pop,pop,pop rap,queens hip hop	0.518	0.809	0.0	0.311	112.377	0.443	0.947
+4qNWEOMyexn7b8Icyk29t9	Eminem	Little Engine	USUM72000796	58	detroit hip hop,hip hop,rap	0.0234	0.769	0.0	0.228	155.081	0.76	0.811
+1v54pVfqtSC7KbTu2C2pnM	Eminem	You’re Never Over	USUM71015398	50	detroit hip hop,hip hop,rap	0.0193	0.691	0.0	0.198	157.02	0.645	0.96
+2MEvYNn2tRvFDAucAtAKVq	Eminem	Just Don't Give A Fuck	USIR19902003	59	detroit hip hop,hip hop,rap	0.000713	0.539	0.0	0.262	85.571	0.685	0.931
+2XTquzYQAdT1Hk78bOUwsv	Eminem	Greatest	USUM71813333	63	detroit hip hop,hip hop,rap	0.0441	0.809	0.0	0.108	80.025	0.367	0.737
+4xkOaSrkexMciUUogZKVTS	Eminem,Nate Dogg	'Till I Collapse	USIR10211066	83	detroit hip hop,hip hop,rap	0.0622	0.548	0.0	0.186	171.447	0.1	0.847
+5uvwJAheJJEkgu88t3Wqf5	Eminem	Remind Me	USUM71712946	57	detroit hip hop,hip hop,rap	0.137	0.754	0.0	0.303	93.77	0.784	0.869
+0FDjc7fIiK29BWH45Ka7Vp	Eminem	Deja Vu	USUM70964088	53	detroit hip hop,hip hop,rap	0.208	0.7	0.0	0.208	84.023	0.571	0.873
+3E1BkJEsRK7VsSNzijilGm	Eminem	Evil Twin	USUM71314086	46	detroit hip hop,hip hop,rap	0.0529	0.648	0.0	0.363	83.091	0.783	0.91
+0lc70Jh2s1iOMuv9XIEhFy	Eminem	Castle	USUM71713424	55	detroit hip hop,hip hop,rap	0.0274	0.612	0.000646	0.321	84.977	0.279	0.819
+7io19rjxOFu3pGuZgBI6Pk	Eminem,Obie Trice	Drips	USIR10211059	54	detroit hip hop,hip hop,rap	0.0346	0.813	0.0	0.298	83.944	0.666	0.687
+3GOjD8hwXOxbTF3apTqSqX	Eminem,X Ambassadors	Bad Husband (feat. X Ambassadors)	USUM71712949	56	detroit hip hop,hip hop,rap	0.0738	0.514	0.0	0.322	96.237	0.478	0.72
+20oenBXlmwIfK0F3fQIjhM	Eminem	Kim	USIR10000592	55	detroit hip hop,hip hop,rap	0.0216	0.587	0.0	0.441	142.075	0.0778	0.923
+1U2pLtCPZp5i9dLK1cAtJE	Eminem,Dr. Dre	Guilty Conscience - Instrumental	USUM70726667	36	detroit hip hop,hip hop,rap	0.00018	0.74	0.866	0.0591	91.173	0.927	0.858
+6HLZaECJKDjNE0jiGBeqxz	Eminem	On Fire	USUM71015412	51	detroit hip hop,hip hop,rap	0.101	0.724	0.0	0.287	91.904	0.558	0.909
+07EHYORZMFGlBdI5zIB7lp	Eminem	Mosh	USIR10400814	51	detroit hip hop,hip hop,rap	0.672	0.625	0.0	0.24	72.532	0.524	0.719
+6Xk7PnitV9jCRorWt2LiVZ	Eminem	Berzerk	USUM71311375	65	detroit hip hop,hip hop,rap	0.0217	0.739	0.0	0.333	95.084	0.684	0.872
+6MtI49ggHHumUTONlvMQlq	Eminem	Stronger Than I Was	USUM71314081	50	detroit hip hop,hip hop,rap	0.121	0.781	0.0	0.107	121.998	0.324	0.602
+38iBrrbbXyWaSPkmuDNgjZ	Kid Cudi,Eminem	The Adventures of Moon Man & Slim Shady (with Eminem)	USUM72013649	63	hip hop,ohio hip hop,rap	0.226	0.88	0.0	0.118	113.018	0.588	0.787
+4woTEX1wYOTGDqNXuavlRC	Eminem,Dina Rae	Superman	USIR10211062	71	detroit hip hop,hip hop,rap	0.0215	0.802	0.0	0.0564	130.027	0.58	0.755
+5QD28FqaM3jTfsqWwvRZwv	Eminem	Soldier	USIR10211057	62	detroit hip hop,hip hop,rap	0.0319	0.851	0.000525	0.201	94.516	0.545	0.92
+4jpi8FljkAwKFb4ljWuar6	Eminem	Underground	USUM70964622	47	detroit hip hop,hip hop,rap	0.126	0.632	0.0	0.409	107.316	0.55	0.807
+0uAkm1iQLrzweZ4U1iXy6w	Eminem	Alfred’s Theme	USUM72024255	58	detroit hip hop,hip hop,rap	0.114	0.721	0.0	0.386	97.113	0.701	0.903
+3r9m79pHykbs4FrCXlq1oO	Skylar Grey,Polo G,Mozzy,Eminem	Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage	USUM72118408	55	piano rock	0.25	0.585	0.0	0.116	103.051	0.227	0.714
+0ANExk8Iu85oqCgk82rG64	Eminem	Almost Famous	USUM71015396	51	detroit hip hop,hip hop,rap	0.0253	0.537	0.0	0.295	82.44	0.487	0.961
+4UMTp91LHhvW33ol9ZQH0Q	Eminem	We Made You	USUM70965164	62	detroit hip hop,hip hop,rap	0.107	0.924	1.45e-06	0.0792	114.003	0.67	0.853
+28FGV3ORH14MYORd7s5dlU	"Eminem,Royce Da 5'9"""	Not Alike (feat. Royce Da 5'9)	USUM71813339	64	detroit hip hop,hip hop,rap	0.0692	0.904	0.0	0.32	140.005	0.342	0.756
+5fQISkTXrsvl03iykOku34	Eminem	Just Don't Give A Fuck - Instrumental	USIR19802005	36	detroit hip hop,hip hop,rap	0.00024	0.642	0.00114	0.0568	85.419	0.54	0.585
+3guazByz82uD2zHf8q7As1	Eminem	Rock Bottom	USIR19902070	55	detroit hip hop,hip hop,rap	0.096	0.859	0.00927	0.13	92.055	0.353	0.642
+6BdYOvKVbLsNFg674QJbRF	Eminem	We As Americans	USIR10400826	44	detroit hip hop,hip hop,rap	0.132	0.749	0.0	0.46	170.614	0.394	0.576
+0eK5y1c7WDyWwx6k9SFjbT	JAY-Z,Eminem	Renegade	USDJ20110682	57	east coast hip hop,hip hop,rap	0.399	0.561	1.84e-06	0.447	77.621	0.82	0.774
+13aKdwvdGjuZDv2OOKyvs7	Eminem,PHresher	Chloraseptic (feat. Phresher)	USUM71712942	45	detroit hip hop,hip hop,rap	0.0416	0.898	0.0	0.275	132.066	0.414	0.753
+0erTM8A9ro5kzcNc962jHd	Eminem,Bizarre	Amityville	USIR10000590	51	detroit hip hop,hip hop,rap	0.0217	0.618	0.0	0.273	79.864	0.672	0.929
+0sHW1jXe6Sou3437gJQNGA	Eminem	Space Bound	USUM71015395	67	detroit hip hop,hip hop,rap	0.0417	0.668	0.0	0.117	142.002	0.503	0.886
+3LZOfhvPNSkRYWFTTSxMvr	Eminem	The Kids	USIR10001088	42	detroit hip hop,hip hop,rap	0.249	0.738	0.0	0.328	91.38	0.353	0.776
+3uO4rUJSyoyeh16KkVdxHy	Eminem	Taking My Ball	USUM70964083	45	detroit hip hop,hip hop,rap	0.00517	0.69	0.0	0.081	90.953	0.552	0.875
+6KEO499uUuvv65wAfOltod	Eminem	Dr. West - Skit	USUM70964068	38	detroit hip hop,hip hop,rap	0.406	0.494	8.16e-06	0.36	99.858	0.131	0.427
+1MksGqIztTT6M9R1ErKVs8	Big Sean,Eminem	No Favors	USUM71615600	54	detroit hip hop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.629	0.482	2.87e-06	0.411	57.967	0.336	0.781
+34d7sGX6WUqq8f04e7CSNF	Eminem	Marsh	USUM72000794	59	detroit hip hop,hip hop,rap	0.0134	0.871	0.000241	0.205	144.989	0.0495	0.493
+36YlVLEV1f2qredBFj8o2y	Eminem	Stay Wide Awake	USUM70964080	50	detroit hip hop,hip hop,rap	0.196	0.747	0.0	0.274	75.16	0.629	0.851
+58QhkbaAkLFnn7JwAnAato	Eminem	Fall	USUM71813341	65	detroit hip hop,hip hop,rap	0.227	0.83	0.0	0.295	182.973	0.535	0.546
+4cI8xJpm5ElBAicmCU8SLW	OldWorlDisorder,Eminem,Skam2?	3hree6ix5ive (feat. Eminem & SKAM2?)	USUYG1043700	30		0.0996	0.663	0.0	0.337	88.658	0.666	0.962
+7Ie9W94M7OjPoZVV216Xus	Eminem	Not Afraid	USUM71011769	77	detroit hip hop,hip hop,rap	0.529	0.855	0.0	0.264	114.635	0.668	0.954
+5uSxM9u1HVdX32e6CIH9h4	Busta Rhymes,Eminem	Calm Down (feat. Eminem)	USUYG1051740	31	east coast hip hop,hardcore hip hop,hip hop,hip pop,pop rap,rap	0.0287	0.513	0.0	0.309	115.029	0.378	0.827
+7BMO7O7ImjV8HNTH74Tshv	Eminem	Cleanin' Out My Closet	USIR10211054	70	detroit hip hop,hip hop,rap	0.0687	0.908	0.0	0.174	148.015	0.87	0.758
+7tEoJKbYdIHBfn7tTIyjHW	Eminem	Drug Ballad	USIR10000587	57	detroit hip hop,hip hop,rap	0.0239	0.913	0.0	0.0589	104.759	0.64	0.7
+4e5lEqydMatcEio6ef9Dpf	Eminem	Phenomenal	USUM71507741	58	detroit hip hop,hip hop,rap	0.153	0.64	0.0	0.0466	121.075	0.0471	0.841
+0Bb21NEv7yjSJ8ro2k2SZC	Xzibit,Eminem	Don't Aproach Me (feat. Eminem)	USLR50000801	55	detroit hip hop,g funk,gangster rap,hardcore hip hop,hip hop,pop rap,rap,west coast rap	0.416	0.908	0.0	0.301	92.889	0.855	0.687
+60Z57Wdrn0pEVpHI7d7GAX	Eminem	Stepping Stone	USUM71813338	59	detroit hip hop,hip hop,rap	0.0305	0.616	0.0	0.311	179.503	0.312	0.684
+6dLhl7Jat4JqaKaJlyUy53	D12	Shit On You	USIR10001113	41	detroit hip hop,gangster rap,hip hop,pop rap,rap,southern hip hop	0.0735	0.818	0.0	0.369	110.097	0.755	0.77
+0EtirusGt3LivUmALXSMVe	Eminem	Role Model	USIR19902065	61	detroit hip hop,hip hop,rap	0.0218	0.865	4.6e-06	0.258	91.968	0.776	0.589
+0nzsCN9rtXdugPoiIT49Kj	Eminem	So Far...	USUM71314083	48	detroit hip hop,hip hop,rap	0.202	0.852	0.0	0.365	98.016	0.708	0.934
+6PJiaxg1lFSJFdMJrW7avo	Eminem	'97 Bonnie & Clyde	USIR19902063	49	detroit hip hop,hip hop,rap	0.094	0.713	0.000169	0.527	184.032	0.73	0.909
+3a2jFwnts4Cf0OwJbK61SL	Dr. Dre,Eminem	Gospel (with Eminem)	USUM72123988	72	g funk,gangster rap,hip hop,rap,west coast rap	0.103	0.919	1.2e-05	0.232	117.03	0.655	0.869
+5IweeQZdY5XEzStLzUJG5t	D12	Purple Pills	USIR10110382	67	detroit hip hop,gangster rap,hip hop,pop rap,rap,southern hip hop	0.0199	0.78	2.98e-05	0.16	125.25	0.754	0.634
+2FPtJP6CQ68hOTHt0OysXC	Eminem	Paul - Skit	USIR10400818	39	detroit hip hop,hip hop,rap	0.987	0.77	0.0	0.783	60.286	0.788	0.234
+1jo3TwNGCXfNdB5uba3ZVv	Eminem	Killshot	USUM71814876	70	detroit hip hop,hip hop,rap	0.0995	0.893	0.0	0.367	105.835	0.6	0.651
+1mHRciKUBSGQml3mQFGMsf	Eminem,Obie Trice,Stat Quo,50 Cent	Spend Some Time	USIR10400821	51	detroit hip hop,hip hop,rap	0.0561	0.695	1.19e-05	0.228	83.659	0.133	0.61
+6Db8IlZ7YY1pfIjJllejyH	Eminem	Hailie's Song	USIR10211063	63	detroit hip hop,hip hop,rap	0.0168	0.787	8.7e-05	0.156	80.98	0.511	0.731
+7C6LiDgE7ro2R8A7WFQ8kv	Missy Elliott,Eminem	Busa Rhyme (feat. Eminem)	USEW19900165	31	dance pop,hip hop,hip pop,pop,pop rap,r&b,rap,urban contemporary,virginia hip hop	0.173	0.817	1.13e-06	0.293	87.736	0.681	0.693
+6TvxPS4fj4LUdjw2es4g21	ABBA	Slipping Through My Fingers	SEAYD8102080	66	europop,swedish pop	0.796	0.475	0.0016	0.0322	137.212	0.339	0.26
+2TxCwUlqaOH3TIyJqGgR91	ABBA	Mamma Mia	SEAYD7501010	74	europop,swedish pop	0.295	0.749	0.000443	0.0323	137.547	0.827	0.748
+0GjEhVFGZW8afUYGChu3Rr	ABBA	Dancing Queen	SEAYD7601020	79	europop,swedish pop	0.358	0.543	0.000939	0.0428	100.804	0.754	0.87
+5BckPAYcKEJuYs1eV1BHHe	ABBA	Take A Chance On Me	SEAYD7702020	70	europop,swedish pop	0.163	0.684	0.0	0.0257	107.064	0.924	0.675
+6PKJHIobsBApwcf9qRyS3u	ABBA	Super Trouper	SEAYD8001010	29	europop,swedish pop	0.374	0.768	0.000289	0.0314	118.07	0.921	0.44
+6I1iluD72xZcXK9E4BRp25	Cast	Scene 98 - Dialogue	USUG11801790	42		0.546	0.728	0.0	0.933	65.859	0.562	0.139
+05Eq6SWneoZYvKQbm2xN25	Bradley Cooper	Alibi	USUM71813191	50	hollywood	0.0145	0.285	0.00043	0.036	175.693	0.636	0.787
+7A5uLkZbEOzHiAlhD2Hr2L	Cast	First Stop, Arizona - Dialogue	USUG11801783	2		0.878	0.0	0.0	0.0	0.0	0.0	0.23
+2fbJ5Msx8KoDKpyufH5YsU	Lady Gaga	I'll Never Love Again - Extended Version	USUM71813205	65	art pop,dance pop,pop	0.685	0.406	3.67e-06	0.0293	109.246	0.202	0.359
+300YN8ebGB90nDuzgz0f3O	Queen	Killer Queen	GBUM71029606	66	classic rock,glam rock,rock	0.365	0.526	1.3e-06	0.0472	117.132	0.622	0.64
+5Q2cQZKPvF4bpcjV3TCTss	Queen	Fat Bottomed Girls - Live In Paris	GBUM71805973	53	classic rock,glam rock,rock	0.0797	0.314	2.43e-05	0.0599	92.049	0.346	0.914
+2k1yPYf9WGA4LiqcLVwtzn	Queen	Another One Bites The Dust	GBUM71029605	61	classic rock,glam rock,rock	0.0969	0.928	0.263	0.161	109.958	0.753	0.526
+7iAqvWLgZzXvH38lA06QZg	Queen	I Want To Break Free	GBUM71805978	68	classic rock,glam rock,rock	0.105	0.807	2.57e-05	0.0352	108.944	0.502	0.414
+6suU8oBlW4O2pg88tOXgHo	Queen,David Bowie	Under Pressure	GBUM71029622	58	classic rock,glam rock,rock	0.395	0.672	0.0	0.0475	113.737	0.46	0.699
+6Am82YdURCRXRvoVUObzzG	Queen	Love Of My Life - Live At Rock In Rio	GBUM71805975	56	classic rock,glam rock,rock	0.807	0.228	8.63e-06	0.0953	111.7	0.0713	0.563
+4XaG9IpCXklOcuau1sIrUX	Queen	We Are The Champions - Live Aid	GBUM71805985	60	classic rock,glam rock,rock	0.175	0.316	4.92e-05	0.0661	100.888	0.195	0.86
+6Fl9MoM9BDk6vwbHqBBZeK	Queen	Ay-Oh - Live Aid	GBUM71805981	57	classic rock,glam rock,rock	0.881	0.215	0.112	0.351	144.877	0.462	0.87
+5ekobRVHvm435Eipr1StAg	Queen	Hammer To Fall - Live Aid	GBUM71805984	55	classic rock,glam rock,rock	0.00515	0.222	0.000383	0.0918	140.503	0.153	0.981
+5WZDLZVCvY1rEyNir6k8Pg	Queen	The Show Must Go On	GBUM71106221	61	classic rock,glam rock,rock	0.433	0.425	4.51e-06	0.0409	84.156	0.0671	0.675
+4ysz5yttr3rpRkvyVMLlRB	Queen	Now I'm Here - Live At The Hammersmith Odeon	GBUM71805974	51	classic rock,glam rock,rock	0.142	0.347	0.00542	0.139	133.86	0.13	0.919
+7xHATAMD7ezTZGYsNAMr5R	Queen	Bohemian Rhapsody - Live Aid	GBUM71805979	56	classic rock,glam rock,rock	0.315	0.379	0.000162	0.0417	77.567	0.327	0.781
+77X4MKKCVpGSHsaErgCLzT	Queen	Who Wants To Live Forever	GBUM71106193	54	classic rock,glam rock,rock	0.583	0.18	0.00217	0.0332	139.671	0.0388	0.371
+1F9NVicWfNQA5ki8WmEtk8	Queen	Crazy Little Thing Called Love	GBUM71029612	57	classic rock,glam rock,rock	0.673	0.626	2.1e-06	0.0432	76.793	0.766	0.762
+3INsYP1Y8GG4qJvBsKCdXC	Queen	Don't Stop Me Now - ...Revisited	GBUM71805977	66	classic rock,glam rock,rock	0.0152	0.465	0.02	0.237	155.061	0.39	0.917
+3YM9o7X3ar7Dm39zXadQSz	Queen	20th Century Fox Fanfare	GBUM71805969	15	classic rock,glam rock,rock	0.561	0.405	0.0174	0.106	89.336	0.556	0.705
+69VE5kmfqG4dJSkrB1OtCI	Smile	Doing All Right - ...Revisited	GBUM71805971	53	movie tunes	0.261	0.373	4.59e-05	0.0419	95.384	0.418	0.453
+0YwBZKT8JE4U5TwmYE9BV9	Queen	Radio Ga Ga - Live Aid	GBUM71805980	63	classic rock,glam rock,rock	0.0138	0.406	0.0	0.0845	118.823	0.395	0.934
+34pz8XUZRfw04lk4DPtwa7	Queen	Keep Yourself Alive - Live At The Rainbow	GBUM71805972	57	classic rock,glam rock,rock	0.0194	0.308	9.14e-06	0.173	138.974	0.295	0.975
+1cS0TgbR263ey9jn0MwD2s	Eminem,Ed Sheeran	River (feat. Ed Sheeran)	USUM71712944	71	detroit hip hop,hip hop,rap	0.142	0.748	0.0	0.516	90.09	0.659	0.749
+3Ngi0BiTXP2WPpyBFN98sP	The Anonymous,Eminem,Vesuveo,Able	Green and Gold	USG4A0600030	26		0.0248	0.78	1.23e-05	0.322	95.052	0.52	0.733
+2uiEqPjMmIJXOKplzsEASP	Fat Joe,Eminem,Lil Jon,Mase,Remy Ma	Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix	USAT20502628	60	bronx hip hop,east coast hip hop,gangster rap,hardcore hip hop,hip hop,pop rap,rap,trap	0.116	0.611	0.0	0.366	126.961	0.565	0.754
+3QVHSV8YKYq4L8tI5rnFgj	Eminem	Stepdad	USUM72000793	59	detroit hip hop,hip hop,rap	0.018	0.779	0.0	0.178	145.68	0.557	0.805
+7Djpvy4lZJNI8rTOVLf1H7	Eminem	3 a.m.	USUM70963051	50	detroit hip hop,hip hop,rap	0.0603	0.75	0.0	0.397	76.439	0.731	0.831
+2bnDTGikdoO8CwzlAPyBHR	B.o.B,Eminem,Hayley Williams	Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)	USAT21000549	58	atl hip hop,dance pop,hip hop,pop,pop rap,rap,southern hip hop	0.00325	0.665	0.0	0.206	93.047	0.394	0.878
+0x60P5taxdI5pcGbqbap6S	Eminem	Business	USIR10211053	65	detroit hip hop,hip hop,rap	0.0325	0.901	1.09e-05	0.199	96.442	0.502	0.813
+27mgDrExPa3obPAYXd3yQg	Eminem	Square Dance	USIR10211055	59	detroit hip hop,hip hop,rap	0.0307	0.763	0.0	0.223	82.0	0.724	0.675
+3fCRPhzGYSd4y6K1qjFcIp	Eminem	Groundhog Day	USUM71314411	44	detroit hip hop,hip hop,rap	0.322	0.732	0.0	0.24	81.972	0.56	0.791
+26rUU3JZ9JB9OkEuG9mb3e	Eminem	Elevator	USUM70917505	48	detroit hip hop,hip hop,rap	0.323	0.796	0.0	0.318	90.51	0.556	0.793
+288e3FhmVuCqPmNEfAH0h6	Eminem	Say Goodbye Hollywood	USIR10211071	56	detroit hip hop,hip hop,rap	0.0529	0.717	0.0	0.205	94.331	0.717	0.664
+1dWimOlV5KUHDerWZVDv5l	Eminem	My Name Is	USIR19902059	56	detroit hip hop,hip hop,rap	0.0449	0.846	1.02e-06	0.33	85.437	0.817	0.676
+74dQwVKuCx6aDI2BQ7xW92	Eminem	Revival (Interlude)	USUM71712947	44	detroit hip hop,hip hop,rap	0.879	0.61	1.16e-06	0.0286	99.917	0.762	0.283
+7kNlRLC9PEH8nXMVawssMx	Eminem,P!nk	Won't Back Down	USUM71015392	57	detroit hip hop,hip hop,rap	0.0133	0.478	2.21e-06	0.19	179.978	0.338	0.951
+48dnzYTt8z03FNvblPWa6C	Eminem,Dr. Dre	Guilty Conscience - Radio Version	USIR10312535	39	detroit hip hop,hip hop,rap	0.0559	0.824	0.0	0.216	91.132	0.529	0.768
+2gsNpSn7VvvJuSrIDfRoYy	Eminem	Kamikaze	USUM71813340	64	detroit hip hop,hip hop,rap	0.112	0.78	0.0	0.484	79.982	0.642	0.808
+74gykWHknHDrg4eMdcmdRq	Eminem	Farewell	USUM72000798	59	detroit hip hop,hip hop,rap	0.00487	0.89	0.0	0.106	93.007	0.467	0.664
+1a3xfVZyJnlKn4t65ccBbp	Eminem	Lose Yourself - Soundtrack Version	USIR10211570	62	detroit hip hop,hip hop,rap	0.00535	0.703	1.8e-05	0.257	171.387	0.0655	0.746
+4bRPecD9suGW8CfNZhzjS1	Nas,Eminem,EPMD	EPMD 2 (feat. Eminem & EPMD)	QM8RL2001186	54	conscious hip hop,east coast hip hop,gangster rap,hardcore hip hop,hip hop,queens hip hop,rap	0.121	0.689	0.0	0.302	94.566	0.703	0.83
+5ZxX55HFfi4aofGTxMp58x	Eminem	Steve Berman - Skit	USIR10211064	47	detroit hip hop,hip hop,rap	0.133	0.682	0.0	0.612	100.247	0.396	0.0987
+4UTpObwAYO67yymOoCeXwS	Eminem	Framed	USUM71713419	48	detroit hip hop,hip hop,rap	0.0136	0.744	0.0	0.113	145.972	0.735	0.827
+3Tj1luJyKPQt7WbrqpJ2Az	Eminem	Cold Wind Blows	USUM71015400	58	detroit hip hop,hip hop,rap	0.13	0.619	0.0	0.416	169.04	0.584	0.972
+3IaAYtmN8T0YIYVqnxNnVz	Eminem	Bad Guy	USUM71314073	57	detroit hip hop,hip hop,rap	0.064	0.612	0.0	0.448	81.086	0.358	0.797
+2ruw2Kq8lgyqwemZik9bUg	Eminem	My Mom	USUM70964103	60	detroit hip hop,hip hop,rap	0.295	0.812	0.0	0.259	90.098	0.778	0.88
+3eMsgWDRq5dKl5SBTYGv2J	Eminem	Higher	USUM72024267	70	detroit hip hop,hip hop,rap	0.0143	0.733	0.0	0.218	148.0	0.525	0.82
+6h3tuNzfvZHyPPCSndsw2u	Eminem	Final Thought - Skit	USIR10400811	40	detroit hip hop,hip hop,rap	0.00403	0.546	0.14	0.136	125.684	0.481	0.465
+2XwcKN1muqa3rXgwAQiXrL	Eminem	My 1st Single	USIR10400815	29	detroit hip hop,hip hop,rap	0.0553	0.833	0.0251	0.182	170.009	0.907	0.949
+1HS3T3cUDZm16oj0KvsuJj	UNCLE ILL,Eminem	We Shine	US3L61232455	16		0.00153	0.694	4.14e-05	0.338	92.72	0.547	0.859
+6ZK357j22DuGv2O7z0GRbA	The High & Mighty,Eminem	The Last Hit	US3V89910122	31	alternative hip hop,hardcore hip hop,philly rap,turntablism	0.00775	0.786	0.0	0.269	92.63	0.624	0.854
+2iW8D4Vdy8lrOEBkYEJOzd	Eminem,Dr. Dre	Guilty Conscience	USIR19902060	51	detroit hip hop,hip hop,rap	0.0521	0.723	0.0	0.313	90.237	0.516	0.786
+2oFrmDswt3KFDeXcTf26df	DJ Kay Slay,Eminem	Freestyle (feat. Eminem)	USSM10304396	39	battle rap,hardcore hip hop	0.0996	0.753	0.0	0.507	79.722	0.356	0.413
+15qrWkkYCfmtu1uRpGf48L	Eminem	White America	USIR10211052	64	detroit hip hop,hip hop,rap	0.0103	0.558	0.0	0.229	76.673	0.16	0.615
+0X0ClM8jVHU7N0ptHRqi7r	Eminem,Jeff Bass,Mark Bass	Lounge - Skit	USIR19902066	40	detroit hip hop,hip hop,rap	0.61	0.324	0.0	0.09	113.898	0.848	0.353
+0rWApdVyBhFFpYxElidwox	Eminem,Dr. Dre	Guilty Conscience - A Cappella	USIR10312534	35	detroit hip hop,hip hop,rap	0.672	0.678	0.0	0.634	97.436	0.671	0.591
+3mqYXWPAteuKuhZmsuQWqV	Eminem,Zoe Winkler	Bitch	USUM71901822	3	detroit hip hop,hip hop,rap	0.99	0.834	0.0123	0.876	97.191	0.969	0.343
+2cm5JHPVzXyrWPtIZZi1Gh	Eminem	Encore/Curtains Down	USIR10400856	49	detroit hip hop,hip hop,rap	0.0838	0.605	0.0	0.397	173.951	0.565	0.747
+5k7wy2Ek7y6kSQ4fER7w0E	Eminem	Brainless	USUM71314080	50	detroit hip hop,hip hop,rap	0.186	0.7	0.0	0.385	172.092	0.589	0.935
+4dK00wCxlqWEeN8BoM1BHT	Eminem,Dr. Dre,50 Cent	Crack A Bottle	USUM70964942	68	detroit hip hop,hip hop,rap	0.0864	0.516	0.0	0.186	169.561	0.391	0.874
+0ElQWopuhQ10wgGouWSVlR	Trick Trick,Eminem	Welcome to Detroit (feat. Eminem)	TCABO1321492	43	detroit hip hop	0.22	0.588	0.0	0.322	91.128	0.529	0.869
+3fYptFSlH8Xs7Uoybytyrm	Eminem	Arose	USUM71713433	54	detroit hip hop,hip hop,rap	0.168	0.532	0.0	0.446	140.684	0.547	0.906
+5W8HXMOMLtXLz0RGKUtnlZ	Skylar Grey,Polo G,Mozzy,Eminem	Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage	USUM72118408	72	piano rock	0.237	0.664	0.0	0.127	154.924	0.233	0.692
+1PokNDiTBQZgXci6rn2BVE	Eminem	Music Box	USUM70918145	48	detroit hip hop,hip hop,rap	0.0131	0.635	0.0	0.11	78.598	0.458	0.712
+4dfAUJI1QesmK5HfK9gtYs	Eminem	Wicked Ways	USUM71317910	49	detroit hip hop,hip hop,rap	0.0497	0.714	0.0	0.401	138.017	0.131	0.787
+1WAwILvz37MkmZfmGnEXfg	Eminem	Alfred - Outro	USUM72000801	52	detroit hip hop,hip hop,rap	0.177	0.476	0.0	0.0486	106.972	0.0387	0.237
+4WgvTITBJbEfCJHguiE7QS	Eminem,Rihanna	The Monster	USUM71314082	59	detroit hip hop,hip hop,rap	0.0525	0.781	0.0	0.0715	110.049	0.624	0.853
+435kMcZJuXJJwKelsDjP4R	Eminem	Thus Far - Interlude	USUM72024279	2	detroit hip hop,hip hop,rap	0.867	0.635	9.58e-06	0.536	85.749	0.892	0.469
+6NGRgJjvgUF9V4VXbWgS26	Eminem	Curtains Up	USIR10400784	41	detroit hip hop,hip hop,rap	0.48	0.306	0.000982	0.0897	114.923	0.0269	0.724
+222dTwr5XeEgAzEtsrQA0R	Eminem,Nate Ruess	Headlights	USUM71314085	59	detroit hip hop,hip hop,rap	0.152	0.688	0.0	0.158	146.324	0.453	0.782
+66h8hB4In6t725WtAPL23J	Eminem,Kobe Honeycutt	Talkin’ 2 Myself	USUM71015411	55	detroit hip hop,hip hop,rap	0.0819	0.421	0.0	0.415	180.336	0.494	0.963
+4KVVy0GeXO03ni8Cv4SWk8	Eminem,Dr. Dre	"Bad Guys Always Die - From ""Wild Wild West"" Soundtrack"	USIR19902296	46	detroit hip hop,hip hop,rap	0.0249	0.722	4.5e-06	0.0509	95.866	0.343	0.747
+0pMUgJwp0a7Wxypy8xfmMO	Eminem	Yellow Brick Road	USIR10400822	48	detroit hip hop,hip hop,rap	0.293	0.766	9.39e-05	0.249	84.466	0.776	0.818
+2KBRNUt33CrlaFPEz4bQYs	Eminem,Ty Dolla $ign	Favorite Bitch (feat. Ty Dolla $ign)	USUM72024261	54	detroit hip hop,hip hop,rap	0.0331	0.626	0.0	0.319	172.063	0.681	0.835
+0ZqWBTU1EkdVPAMwQgfKiv	Eminem	Going Through Changes	USUM71015417	55	detroit hip hop,hip hop,rap	0.0197	0.693	0.0	0.259	86.048	0.319	0.899
+0Lw6aQcBFWTQ9m4MSwwwes	Logic,Eminem	Homicide	USUM71908267	61	conscious hip hop,dmv rap,hip hop,pop rap,rap	0.145	0.722	0.0	0.398	139.831	0.796	0.764
+1PE8Lkg4HY530KORtjsCs7	Nicki Minaj,Eminem	Roman's Revenge	USCM51000713	45	dance pop,hip pop,pop,pop rap,queens hip hop	0.521	0.809	0.0	0.308	112.417	0.449	0.946
+2J3CYFUn6eAuHz5S9IKape	Eminem	The Kiss - Skit	USIR10211056	49	detroit hip hop,hip hop,rap	0.193	0.469	1.62e-06	0.404	89.185	0.565	0.451
+0qcjuYtMWhBjXg0Xwt5SzS	Eminem	Just Lose It	USIR10400682	65	detroit hip hop,hip hop,rap	0.0581	0.94	4.04e-05	0.0467	121.003	0.962	0.633
+2V7NoXGv2VDnLeTM7w8SFd	Eminem	Seduction	USUM71015419	52	detroit hip hop,hip hop,rap	0.124	0.628	0.0	0.387	78.031	0.504	0.847
+0evt4UZbdhnHtcAnxkm6A1	Eminem	Normal	USUM71813336	58	detroit hip hop,hip hop,rap	0.261	0.907	0.0	0.354	120.995	0.803	0.64
+4EQkcrSLF3QdlwNca7sMXY	Eminem,Dr. Dre	Say What You Say	USIR10211045	55	detroit hip hop,hip hop,rap	0.179	0.89	0.0	0.418	113.411	0.428	0.541
+2iveqBUOzQlQBSxgAlK0bs	Eminem,Elton John	Stan - Live At 43rd Grammy Awards	USIR10110256	50	detroit hip hop,hip hop,rap	0.205	0.655	0.0	0.14	80.04	0.642	0.837
+6XAA7T9VHcqKQSzjmXAJ8o	T.I.,Eminem	That's All She Wrote	USAT21002600	66	atl hip hop,dance pop,dirty south rap,gangster rap,hip hop,pop rap,rap,southern hip hop,trap	0.0328	0.496	0.0	0.306	170.02	0.357	0.785
+1meOg8wHrLsxqD4mwW2YM2	Eminem	Tonya - Skit	USUM70964074	38	detroit hip hop,hip hop,rap	0.294	0.574	0.0	0.332	78.238	0.168	0.969
+7kQ0miyexmevMwUDqTomIN	"Eminem,Royce Da 5'9"""	Bad Meets Evil	USIR19902074	49	detroit hip hop,hip hop,rap	0.0328	0.664	0.0	0.473	94.667	0.608	0.903
+4R2ibsoF3A9Tv64DjEfyj9	Eminem	Careful What You Wish For	USUM70967462	49	detroit hip hop,hip hop,rap	0.141	0.634	0.0	0.429	68.423	0.601	0.601
+3LLEtMyr9j3evyA9xr8WzL	Eminem	Mr. Mathers - Skit	USUM70964111	37	detroit hip hop,hip hop,rap	0.179	0.426	0.0	0.265	172.009	0.472	0.691
+5OsBkrdyDlnDZ5siaAOtVt	Eminem,Zoe Winkler	Bitch - Skit	USIR19902064	2	detroit hip hop,hip hop,rap	0.991	0.804	0.00347	0.882	97.607	0.968	0.336
+3lSQAn6cmWfYfwuTJry44m	Eminem	Buffalo Bill	USUM70917503	46	detroit hip hop,hip hop,rap	0.0208	0.549	0.0	0.403	175.882	0.702	0.883
+0je6gk6ukXjHwzeybX6JLv	Eminem	Greg - A Cappella	USIR19915101	39	detroit hip hop,hip hop,rap	0.788	0.696	0.0	0.905	99.883	0.642	0.504
+5VqSAZujDWDJkQ11Laf9W1	"Eminem,Royce Da 5'9"""	Bad Meets Evil	USIR19902074	45	detroit hip hop,hip hop,rap	0.0276	0.502	0.0	0.709	189.479	0.674	0.891
+1RNndg07sHHPZ5kphkGPwf	Kid Rock	Fuck Off	USAT29800707	39	alternative metal,nu metal	0.0659	0.488	0.0	0.459	174.939	0.234	0.857
+09FfQO3PqHO4HIJL511Ksi	Eminem,Jessie Reyez	Nice Guy (with Jessie Reyez)	USUM71813342	57	detroit hip hop,hip hop,rap	0.0942	0.65	0.0	0.458	139.226	0.563	0.639
+1NcKKXrDTdCMaiVJkEknqr	Eminem	Same Song & Dance	USUM70964076	48	detroit hip hop,hip hop,rap	0.127	0.808	0.0	0.228	101.982	0.213	0.721
+3CegiqcSMdRO8Acm2iplpx	Jadakiss,Sheek,Styles P,Eminem	Welcome To D-Block	USIR10400451	44	battle rap,east coast hip hop,gangster rap,hardcore hip hop,hip hop,hip pop,pop rap,rap,trap	0.0631	0.697	0.0	0.441	178.001	0.563	0.891
+7iwK7RjGGJW9jdPj8ny754	Eminem	Brain Damage	USIR19902007	49	detroit hip hop,hip hop,rap	0.00823	0.871	0.0	0.142	94.989	0.847	0.602
+0DaZU7iKgXMelfXCkCOgBK	Eminem,Steve Berman	Steve Berman	USIR10000588	47	detroit hip hop,hip hop,rap	0.578	0.663	0.0	0.639	148.087	0.837	0.626
+7x5xYW5W42OGPAdHUyyguy	R. City,Adam Levine	Locked Away (feat. Adam Levine)	USRC11501369	75	reggae fusion,virgin islands reggae	0.304	0.509	0.0	0.0678	118.413	0.55	0.671
+6UflDQZDRZyYl6kPbadjeY	Boss AC	Princesa (Beija-me outra vez)	PTNS10500001	39	hip hop tuga	0.29	0.676	1.02e-06	0.0587	100.019	0.535	0.511
+67BtfxlNbhBmCDR2L2l8qd	Lil Nas X	MONTERO (Call Me By Your Name)	USSM12100531	79	lgbtq+ hip hop,pop	0.297	0.61	0.0	0.152	178.818	0.758	0.508
+4k80K0b6KZ2QjAYkXON7q6	P!nk	Blow Me (One Last Kiss)	USRC11200669	65	dance pop,pop	0.000145	0.597	0.0	0.0439	113.991	0.729	0.919
+0zbzrhfVS9S2TszW3wLQZ7	JP Cooper	September Song	GBUM71604513	70	dance pop,neo mellow,pop,tropical house,uk pop	0.054	0.614	0.0	0.0444	95.941	0.374	0.615
+6jiKNv4n0488KD1cJmsQLG	Xutos & Pontapés	O Mundo Ao Contrário	PTUM10400077	22	portuguese rock,punk tuga	0.107	0.532	0.00148	0.0257	102.318	0.414	0.61
+3Wrjm47oTz2sjIgck11l5e	Måneskin	Beggin'	ITB001700846	85	indie rock italiano,italian pop	0.127	0.714	0.0	0.0504	134.002	0.589	0.8
+3qonjOrhFCfTnaaMruHzxW	Charlie Puth	Dangerously	USAT21502907	60	dance pop,pop,viral pop	0.364	0.696	0.0	0.0366	112.291	0.23	0.517
+0F7FA14euOIX8KcbEturGH	Lil Nas X	Old Town Road	USSM11901941	74	lgbtq+ hip hop,pop	0.0578	0.907	2.23e-06	0.127	135.998	0.507	0.53
+5KE9b4x7Zj2A8XtbkqhqTe	Post Malone,SZA	Staring At The Sun (feat. SZA)	USUM71915728	64	dfw rap,melodic rap,rap	0.25	0.724	0.0	0.184	95.074	0.347	0.772
+3FAJ6O0NOHQV8Mc5Ri6ENp	Giveon	Heartbreak Anniversary	USSM12000998	80	pop,r&b	0.524	0.449	1.02e-06	0.0791	89.087	0.543	0.465
+5HphhcOuLFWBj9IghbrKJB	Pink Sweat$,6LACK	Midnight River (feat. 6LACK)	USAT22108131	60	bedroom soul,chill r&b,pop	0.777	0.497	0.0	0.0648	171.719	0.234	0.351
+5xtBRnNNSUihY0J6zi4Ytc	FINNEAS	New Girl	US23A1500206	55	alt z,electropop,la indie,pop	0.653	0.71	1.98e-05	0.0476	75.001	0.351	0.386
+3VA8T3rNy5V24AXxNK5u9E	Sara Bareilles	King of Anything	USSM11001130	59	acoustic pop,dance pop,hollywood,lilith,neo mellow,pop,pop rock	0.461	0.676	0.0	0.0351	119.003	0.81	0.762
+0V7QchMrfTCk3gf0iAtl2R	David Guetta,Chris Willis,Fergie,LMFAO	Gettin' Over You (feat. Fergie & LMFAO)	FRZID1000210	60	big room,dance pop,edm,pop,pop dance,pop rap	0.178	0.615	0.0	0.0816	129.944	0.45	0.913
+6cmm1LMvZdB5zsCwX5BjqE	Jay Sean,Lil Wayne	Down	USCM50900094	77	dance pop,pop rap,post-teen pop,urban contemporary	0.0101	0.727	0.0	0.0286	132.012	0.728	0.68
+0RZyUsKfiC7MtiGKatCtGc	Maroon 5	Misery	USUM71015280	66	pop	0.000315	0.703	0.0	0.0424	102.978	0.726	0.81
+4AYX69oFP3UOS1CFmV9UfO	Trey Songz,Nicki Minaj	Bottoms Up (feat. Nicki Minaj)	USAT21001515	71	dance pop,hip pop,pop,r&b,southern hip hop,trap,urban contemporary	0.0205	0.844	0.0	0.157	73.989	0.331	0.601
+6DXLO8LndZMVOHM0wNbpzg	Don Omar,Lucenzo	Danza Kuduro	USUM71020778	72	latin,latin hip hop,puerto rican pop,reggaeton,trap latino	0.078	0.699	0.0	0.115	130.04	0.889	0.917
+4pFvEWbjBpPUdYRQly0THs	Taylor Swift	Today Was A Fairytale	USCJY1103825	49	pop	0.0307	0.491	5.72e-06	0.0319	157.988	0.344	0.703
+4TCL0qqKyqsMZml0G3M9IM	Lady Gaga,Beyoncé	Telephone	USUM70905541	68	art pop,dance pop,pop	0.00521	0.824	0.000817	0.0404	122.014	0.716	0.836
+0tr6XR58KBdDYd8qvHVTs8	Taylor Swift	Back To December	GBUM71027838	63	pop	0.0202	0.517	0.0	0.0289	141.929	0.296	0.606
+5FTCKvxzqy72ceS4Ujux4N	Rihanna,Drake	What's My Name?	USUM71025031	65	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.23	0.692	0.0	0.069	100.025	0.583	0.786
+59dLtGBS26x7kc0rHbaPrq	B.o.B,Bruno Mars	Nothin' on You (feat. Bruno Mars)	USAT20904033	73	atl hip hop,dance pop,hip hop,pop,pop rap,rap,southern hip hop	0.386	0.688	0.0	0.0493	103.993	0.743	0.853
+0AH6WMe3OlAlUb5miXt2FQ	Rihanna	Only Girl (In The World)	USUM71023200	71	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.129	0.789	1.07e-05	0.0432	125.906	0.611	0.716
+47Slg6LuqLaX0VodpSCvPt	Bruno Mars	Just the Way You Are	USAT21001269	76	dance pop,pop	0.0134	0.635	0.0	0.0422	109.021	0.424	0.841
+3iL2l5gUqyPS6vDwJFgJTR	Young Money,Lloyd	BedRock	USCM50901178	69	dance pop,dirty south rap,gangster rap,hip hop,hip pop,pop rap,rap,southern hip hop,trap	0.102	0.733	0.0	0.295	148.005	0.557	0.664
+3YJkAQNEhmCZGLdmPsu6Ye	Rihanna,Jeezy	Hard	USUM70912456	53	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.0121	0.31	0.0	0.111	182.032	0.163	0.746
+4JHg4nNYUJQ5HULcCmI18R	Two Door Cinema Club	What You Know	FRU700900116	70	indie rock,indietronica,irish rock,modern alternative rock,modern rock,northern irish indie,rock	0.000675	0.549	6.24e-06	0.0407	139.052	0.828	0.754
+2tNE4DP5nL85XUJv1glO0a	Scouting For Girls	This Ain't a Love Song	GBARL0901410	50	dance pop,modern rock,pop rock	0.000431	0.458	0.0	0.0451	176.667	0.553	0.905
+0UFDKFqW2oGspYeYqo9wjA	Linkin Park	Bleed It Out	USWB10701213	72	alternative metal,nu metal,post-grunge,rap metal	0.114	0.529	0.0	0.0508	140.127	0.596	0.967

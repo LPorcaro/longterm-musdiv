@@ -1,0 +1,45 @@
+Electronic artists found: Bakermat, Portico Quartet, Mac DeMarco
+Electronic genres found: electronica, tropical house, edmonton indie, new tribe, minimal tech house
+Electronic music logs found: 5.88% 
+
+Top genres
+	1: hip hop (20.75%)
+	2: pittsburgh rap (20.75%)
+	3: rap (20.75%)
+	4: portuguese pop (13.21%)
+	5: jazz catala (1.89%)
+Top artists
+	1: Baptiste Herbin (4.00%)
+	2: Rita Payés (4.00%)
+	3: The klezmer festival band (4.00%)
+	4: Bakermat (4.00%)
+	5: Kiko Veneno (4.00%)
+Top country
+	1: US (45.10%)
+	2: PT (29.41%)
+	3: GB (7.84%)
+	4: FR (5.88%)
+	5: QZ (3.92%)
+Top record
+	1: WB1 (43.14%)
+	2: NO1 (27.45%)
+	3: LFP (3.92%)
+	4: 8JN (1.96%)
+	5: CKG (1.96%)
+Top year
+	1: 18 (43.14%)
+	2: 22 (27.45%)
+	3: 20 (9.80%)
+	4: 19 (5.88%)
+	5: 10 (3.92%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.000000  51.000000
+mean    39.549020      0.564310      0.665510          0.112373     0.098657  115.072745   0.431553   0.412945
+std     14.937622      0.316849      0.127715          0.229007     0.098125   31.744682   0.201936   0.175710
+min      1.000000      0.000754      0.326000          0.000000     0.026100   68.985000   0.054600   0.031600
+25%     25.000000      0.375500      0.585500          0.000875     0.042350   89.891500   0.313000   0.301000
+50%     47.000000      0.662000      0.677000          0.018900     0.052000  107.596000   0.386000   0.403000
+75%     50.000000      0.846500      0.762000          0.070600     0.138000  147.279000   0.579500   0.544000
+max     72.000000      0.965000      0.875000          0.944000     0.419000  179.387000   0.912000   0.722000

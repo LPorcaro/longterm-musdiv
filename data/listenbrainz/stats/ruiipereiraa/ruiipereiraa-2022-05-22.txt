@@ -1,0 +1,45 @@
+Electronic artists found: Metronomy, DVBBS,BRIDGE
+Electronic genres found: electronica, pop edm, electro house, tropical house, slap house, canadian electronic, edm
+Electronic music logs found: 3.16% 
+
+Top genres
+	1: hip hop (14.33%)
+	2: rap (14.33%)
+	3: atl hip hop (7.82%)
+	4: pop (5.21%)
+	5: modern rock (3.58%)
+Top artists
+	1: Usher (1.43%)
+	2: Sam Sparro (1.43%)
+	3: Burna Boy (1.43%)
+	4: Bren Joy (1.43%)
+	5: Saweetie (1.43%)
+Top country
+	1: US (68.42%)
+	2: GB (17.89%)
+	3: AU (4.21%)
+	4: QZ (3.16%)
+	5: QM (2.11%)
+Top record
+	1: YAH (23.16%)
+	2: UM7 (18.95%)
+	3: RC1 (15.79%)
+	4: AYE (9.47%)
+	5: QX9 (6.32%)
+Top year
+	1: 13 (24.21%)
+	2: 19 (18.95%)
+	3: 22 (9.47%)
+	4: 17 (8.42%)
+	5: 15 (7.37%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   95.000000     95.000000     95.000000         95.000000    95.000000   95.000000  95.000000  95.000000
+mean    57.052632      0.309012      0.613832          0.135967     0.152934  117.168558   0.459275   0.602537
+std     15.392295      0.305519      0.179052          0.272148     0.137124   34.789543   0.237309   0.177397
+min      1.000000      0.000080      0.000000          0.000000     0.000000    0.000000   0.000000   0.126000
+25%     48.000000      0.015500      0.547000          0.000004     0.041050   97.786500   0.282500   0.474000
+50%     58.000000      0.211000      0.642000          0.001110     0.091000  116.170000   0.499000   0.634000
+75%     66.000000      0.463000      0.733500          0.098500     0.256000  139.956000   0.627000   0.729000
+max     84.000000      0.995000      0.961000          0.948000     0.511000  183.780000   0.937000   0.933000

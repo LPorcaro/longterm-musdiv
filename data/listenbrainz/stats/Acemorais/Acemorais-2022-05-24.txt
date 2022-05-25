@@ -1,0 +1,31 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: arab pop (21.43%)
+	2: moroccan pop (21.43%)
+	3: rif (21.43%)
+	4: shaabi (21.43%)
+	5: musica santomense (7.14%)
+Top artists
+	1: Saad Lamjarred (50.00%)
+	2: Calema (50.00%)
+Top country
+	1: PT (100.00%)
+Top record
+	1: 0GP (100.00%)
+Top year
+	1: 21 (75.00%)
+	2: 20 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness     tempo  valence  energy
+count         4.0       4.00000        4.0000           4.00000     4.000000    4.0000  4.00000   4.000
+mean         44.5       0.11815        0.6495           0.00004     0.067075  102.7795  0.48275   0.709
+std           5.0       0.08190        0.0850           0.00008     0.045950   15.6150  0.00050   0.014
+min          42.0       0.07720        0.5220           0.00000     0.044100   94.9720  0.48200   0.688
+25%          42.0       0.07720        0.6495           0.00000     0.044100   94.9720  0.48275   0.709
+50%          42.0       0.07720        0.6920           0.00000     0.044100   94.9720  0.48300   0.716
+75%          44.5       0.11815        0.6920           0.00004     0.067075  102.7795  0.48300   0.716
+max          52.0       0.24100        0.6920           0.00016     0.136000  126.2020  0.48300   0.716

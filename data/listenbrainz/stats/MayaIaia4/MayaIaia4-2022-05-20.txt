@@ -1,0 +1,42 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: cologne indie (18.18%)
+	2: german singer-songwriter (18.18%)
+	3: classic italian pop (18.18%)
+	4: italian adult pop (18.18%)
+	5: italian alternative (9.09%)
+Top artists
+	1: Solo San (14.29%)
+	2: Sick Tamburo (14.29%)
+	3: RNDN (14.29%)
+	4: Cesare Cremonini (14.29%)
+	5: DreamBetter (14.29%)
+Top country
+	1: IT (50.00%)
+	2: DE (33.33%)
+	3: US (16.67%)
+Top record
+	1: UM7 (33.33%)
+	2: ZL9 (33.33%)
+	3: P84 (16.67%)
+	4: 3DF (16.67%)
+Top year
+	1: 17 (33.33%)
+	2: 19 (16.67%)
+	3: 15 (16.67%)
+	4: 12 (16.67%)
+	5: 22 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    59.833333      0.381000      0.541167          0.067425     0.059050  141.138833  0.418833  0.591333
+std     14.958832      0.291056      0.119498          0.162451     0.042802   30.642121  0.286841  0.096959
+min     41.000000      0.014000      0.393000          0.000000     0.029000   98.222000  0.135000  0.428000
+25%     49.750000      0.184000      0.453500          0.000009     0.033975  124.065250  0.225500  0.572250
+50%     62.500000      0.358000      0.534500          0.000189     0.035250  139.843000  0.315000  0.599000
+75%     64.000000      0.586750      0.642500          0.003964     0.073500  162.478000  0.608500  0.625000
+max     83.000000      0.767000      0.680000          0.399000     0.135000  180.096000  0.846000  0.725000

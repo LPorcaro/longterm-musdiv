@@ -1,0 +1,43 @@
+Electronic artists found: LUM!X,PIA MARIA
+Electronic genres found: melbourne bounce international, slap house
+Electronic music logs found: 4.35% 
+
+Top genres
+	1: norwegian indie (7.69%)
+	2: norwegian pop (7.69%)
+	3: trondheim indie (7.69%)
+	4: gypsy punk (7.69%)
+	5: moldovan pop (7.69%)
+Top artists
+	1: LUM!X (4.35%)
+	2: Intelligent Music Project (4.35%)
+	3: De Maynes (4.35%)
+	4: MARO (4.35%)
+	5: Konstrakta (4.35%)
+Top country
+	1: NL (13.04%)
+	2: NO (13.04%)
+	3: RO (8.70%)
+	4: RS (8.70%)
+	5: SE (8.70%)
+Top record
+	1: UM7 (21.74%)
+	2: PRR (8.70%)
+	3: CRP (8.70%)
+	4: A04 (8.70%)
+	5: G66 (4.35%)
+Top year
+	1: 22 (65.22%)
+	2: 21 (30.43%)
+	3: 20 (4.35%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
+mean    64.956522      0.249259      0.592652          0.037820     0.064735  120.842304   0.474913   0.599309
+std      9.938347      0.265692      0.154844          0.176233     0.047680   28.300614   0.248254   0.227005
+min     34.000000      0.000261      0.340000          0.000000     0.028200   78.705000   0.111000   0.058100
+25%     63.500000      0.015855      0.487500          0.000000     0.037150   93.505000   0.289500   0.413000
+50%     67.000000      0.181000      0.563000          0.000003     0.044400  124.075000   0.487000   0.614000
+75%     69.500000      0.406000      0.692000          0.000029     0.067250  142.999000   0.629000   0.795500
+max     79.000000      0.992000      0.922000          0.846000     0.230000  169.985000   0.955000   0.910000

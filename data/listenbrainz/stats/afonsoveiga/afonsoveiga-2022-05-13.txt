@@ -3,17 +3,17 @@ Electronic genres found: electronica
 Electronic music logs found: 1.07% 
 
 Top genres
-	1: rap (13.82%)
-	2: hip hop (12.20%)
-	3: conscious hip hop (9.35%)
-	4: west coast rap (8.54%)
-	5: pop (5.69%)
+	1: rap (14.05%)
+	2: hip hop (11.57%)
+	3: conscious hip hop (9.50%)
+	4: west coast rap (8.68%)
+	5: pop (5.79%)
 Top artists
-	1:  The Creator (1.45%)
-	2: Gson (1.45%)
-	3: The Strokes (1.45%)
-	4: T-Rex (1.45%)
-	5: Blxst (1.45%)
+	1: MAVI (1.45%)
+	2: Los Retros (1.45%)
+	3: Dominic Fike (1.45%)
+	4: Lhast (1.45%)
+	5: Jaden (1.45%)
 Top country
 	1: US (45.16%)
 	2: QM (12.90%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   93.000000     93.000000     93.000000         93.000000    93.000000   93.000000  93.000000  93.000000
-mean    61.774194      0.467033      0.650516          0.027519     0.162090  113.620634   0.462746   0.560452
-std     16.054343      0.268424      0.129368          0.120659     0.136708   28.565703   0.212336   0.167530
+mean    61.903226      0.467033      0.650516          0.027519     0.162090  113.620634   0.462746   0.560452
+std     16.142076      0.268424      0.129368          0.120659     0.136708   28.565703   0.212336   0.167530
 min      2.000000      0.000409      0.277000          0.000000     0.025800   63.251000   0.039700   0.149000
 25%     48.000000      0.223000      0.563000          0.000000     0.041600   90.937000   0.302000   0.436000
 50%     64.000000      0.495000      0.652000          0.000004     0.110000  109.994000   0.466000   0.561000

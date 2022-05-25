@@ -1,0 +1,43 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: pop (25.76%)
+	2: alternative pop rock (12.12%)
+	3: lgbtq+ hip hop (10.61%)
+	4: underground hip hop (4.55%)
+	5: alternative r&b (3.79%)
+Top artists
+	1: Peven Everett (5.00%)
+	2: LORD$OFDOGTOWN (5.00%)
+	3: De La Soul (5.00%)
+	4: Nothing But Thieves (5.00%)
+	5: Paramore (5.00%)
+Top country
+	1: US (83.33%)
+	2: GB (12.96%)
+	3: QZ (3.70%)
+Top record
+	1: QX9 (25.93%)
+	2: SM1 (25.93%)
+	3: UYG (9.26%)
+	4: UM7 (9.26%)
+	5: AYE (7.41%)
+Top year
+	1: 21 (31.48%)
+	2: 20 (25.93%)
+	3: 17 (12.96%)
+	4: 18 (7.41%)
+	5: 11 (3.70%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   54.000000     54.000000     54.000000         54.000000    54.000000   54.000000  54.000000  54.000000
+mean    59.925926      0.262169      0.647870          0.015291     0.153911  124.790981   0.510478   0.684537
+std     14.293226      0.281168      0.142181          0.087522     0.161479   31.512170   0.226188   0.186655
+min      3.000000      0.000264      0.379000          0.000000     0.029100   70.027000   0.078700   0.342000
+25%     57.000000      0.014550      0.526500          0.000000     0.054900   98.467750   0.325750   0.528500
+50%     62.000000      0.171500      0.687000          0.000015     0.078900  120.486500   0.547500   0.708500
+75%     66.000000      0.447500      0.742000          0.001373     0.230500  149.576250   0.690500   0.856000
+max     89.000000      0.955000      0.923000          0.641000     0.729000  189.542000   0.916000   0.986000

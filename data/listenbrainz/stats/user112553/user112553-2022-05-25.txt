@@ -1,0 +1,45 @@
+Electronic artists found: Vintage Culture,Felguk,Le Dib
+Electronic genres found: brazilian edm
+Electronic music logs found: 4.76% 
+
+Top genres
+	1: indie folk (17.50%)
+	2: british singer-songwriter (12.50%)
+	3: pop rock (10.00%)
+	4: vapor pop (10.00%)
+	5: pop (7.50%)
+Top artists
+	1: Sufjan Stevens (5.88%)
+	2: Vancouver Sleep Clinic (5.88%)
+	3: Billie Eilish (5.88%)
+	4: Phoebe Bridgers (5.88%)
+	5: Hollow Coves (5.88%)
+Top country
+	1: US (38.10%)
+	2: GB (33.33%)
+	3: TC (9.52%)
+	4: AU (4.76%)
+	5: CA (4.76%)
+Top record
+	1: VHN (19.05%)
+	2: QX9 (14.29%)
+	3: UM7 (9.52%)
+	4: GSG (4.76%)
+	5: ADC (4.76%)
+Top year
+	1: 17 (19.05%)
+	2: 16 (14.29%)
+	3: 20 (14.29%)
+	4: 18 (14.29%)
+	5: 19 (9.52%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    47.904762      0.763619      0.505857          0.127775     0.037005  113.003476   0.260290   0.318000
+std     20.188870      0.187154      0.128831          0.265004     0.008695   26.452721   0.141299   0.159118
+min      6.000000      0.173000      0.160000          0.000000     0.025100   65.059000   0.037900   0.037000
+25%     38.000000      0.677000      0.451000          0.000000     0.031100   87.540000   0.158000   0.187000
+50%     53.000000      0.811000      0.517000          0.000279     0.033800  119.959000   0.252000   0.318000
+75%     60.000000      0.892000      0.614000          0.126000     0.043300  136.149000   0.326000   0.422000
+max     83.000000      0.957000      0.673000          0.876000     0.058100  148.191000   0.587000   0.575000

@@ -1,0 +1,27 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: glam metal (33.33%)
+	2: hard rock (33.33%)
+	3: rock (33.33%)
+Top artists
+	1: Guns N' Roses (100.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: GF1 (100.00%)
+Top year
+	1: 87 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0        1.0000         1.000            1.0000       1.0000    1.000    1.000    1.00
+mean         80.0        0.0866         0.454            0.0996       0.0448  125.116    0.629    0.91
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          80.0        0.0866         0.454            0.0996       0.0448  125.116    0.629    0.91
+25%          80.0        0.0866         0.454            0.0996       0.0448  125.116    0.629    0.91
+50%          80.0        0.0866         0.454            0.0996       0.0448  125.116    0.629    0.91
+75%          80.0        0.0866         0.454            0.0996       0.0448  125.116    0.629    0.91
+max          80.0        0.0866         0.454            0.0996       0.0448  125.116    0.629    0.91

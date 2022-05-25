@@ -1,0 +1,44 @@
+Electronic artists found: The Chainsmokers,ILLENIUM,Lennon Stella, Mako,Morgan Page, Cheat Codes,Bryce Vine
+Electronic genres found: edm, tropical house, electro house, pop edm
+Electronic music logs found: 37.50% 
+
+Top genres
+	1: edm (10.71%)
+	2: electropop (10.71%)
+	3: pop dance (10.71%)
+	4: tropical house (10.71%)
+	5: dance pop (7.14%)
+Top artists
+	1: Madelline (9.09%)
+	2: Morgan Page (9.09%)
+	3: Vancouver Sleep Clinic (9.09%)
+	4: Bryce Vine (9.09%)
+	5: Nothing But Thieves (9.09%)
+Top country
+	1: US (37.50%)
+	2: GB (37.50%)
+	3: SG (12.50%)
+	4: TC (12.50%)
+Top record
+	1: VHN (25.00%)
+	2: WB1 (12.50%)
+	3: US1 (12.50%)
+	4: B50 (12.50%)
+	5: ABU (12.50%)
+Top year
+	1: 18 (37.50%)
+	2: 20 (12.50%)
+	3: 16 (12.50%)
+	4: 22 (12.50%)
+	5: 14 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence   energy
+count    8.000000      8.000000      8.000000          8.000000     8.000000    8.000000  8.000000  8.00000
+mean    47.125000      0.405850      0.599375          0.017524     0.036562  105.997375  0.361375  0.44675
+std     13.963601      0.427717      0.073599          0.043896     0.010022   32.145054  0.161936  0.20421
+min     33.000000      0.010800      0.474000          0.000000     0.024700   69.998000  0.137000  0.20500
+25%     38.000000      0.036750      0.539250          0.000005     0.031500   93.441000  0.247750  0.30100
+50%     42.500000      0.218500      0.637000          0.002052     0.034200   97.007000  0.389000  0.44200
+75%     50.750000      0.896750      0.650000          0.004485     0.037725  105.059000  0.433000  0.54625
+max     74.000000      0.920000      0.676000          0.126000     0.058100  178.009000  0.641000  0.78400

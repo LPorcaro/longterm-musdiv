@@ -1,0 +1,44 @@
+Electronic artists found: Travis Scott, DIIV
+Electronic genres found: chillwave, slap house
+Electronic music logs found: 27.27% 
+
+Top genres
+	1: progressive metalcore (7.58%)
+	2: melodic metalcore (6.06%)
+	3: metalcore (6.06%)
+	4: mathcore (4.55%)
+	5: uk metalcore (4.55%)
+Top artists
+	1: Night Lovell (12.50%)
+	2: The Weeknd (12.50%)
+	3: Travis Scott (12.50%)
+	4: Allt (12.50%)
+	5: Architects (12.50%)
+Top country
+	1: US (54.55%)
+	2: QZ (18.18%)
+	3: QM (18.18%)
+	4: AU (9.09%)
+Top record
+	1: EP4 (27.27%)
+	2: MZN (18.18%)
+	3: APK (9.09%)
+	4: SM1 (9.09%)
+	5: UG1 (9.09%)
+Top year
+	1: 20 (36.36%)
+	2: 21 (27.27%)
+	3: 19 (18.18%)
+	4: 17 (9.09%)
+	5: 22 (9.09%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   11.000000     11.000000     11.000000         11.000000    11.000000   11.000000  11.000000  11.000000
+mean    52.000000      0.025583      0.595364          0.211737     0.094764  130.678000   0.339845   0.811273
+std     20.079841      0.077251      0.168590          0.356473     0.053919   19.758079   0.137005   0.155386
+min     15.000000      0.000005      0.433000          0.000000     0.038400  100.025000   0.072300   0.506000
+25%     39.000000      0.000059      0.471000          0.000016     0.051900  123.987500   0.280500   0.748500
+50%     56.000000      0.000582      0.518000          0.002200     0.082900  125.038000   0.340000   0.863000
+75%     67.500000      0.001845      0.756500          0.383700     0.119500  140.471500   0.432000   0.920500
+max     80.000000      0.258000      0.854000          0.798000     0.210000  169.995000   0.565000   0.979000

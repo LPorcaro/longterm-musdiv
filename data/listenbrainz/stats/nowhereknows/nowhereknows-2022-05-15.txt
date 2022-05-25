@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (8.89%)
-	2: portuguese pop (8.89%)
-	3: fado (6.67%)
-	4: electropop (4.44%)
-	5: pop rap (4.44%)
+	1: pop (9.09%)
+	2: portuguese pop (9.09%)
+	3: fado (6.82%)
+	4: electropop (4.55%)
+	5: pop rap (4.55%)
 Top artists
-	1: Hayd (4.00%)
-	2: Imagine Dragons (4.00%)
-	3: Topher Ngo (4.00%)
-	4: Halsey (4.00%)
-	5: Mariza (4.00%)
+	1: Grayson Villanueva (4.00%)
+	2: Tom Odell (4.00%)
+	3: Lhast (4.00%)
+	4: BoyWithUke (4.00%)
+	5: Nico & Vinz (4.00%)
 Top country
 	1: US (40.91%)
 	2: GB (22.73%)
@@ -37,7 +37,7 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   22.000000     22.000000     22.000000         22.000000    22.000000   22.000000  22.000000  22.000000
 mean    55.409091      0.548407      0.636818          0.002291     0.091414  116.089545   0.474673   0.445636
-std     18.489789      0.367120      0.176103          0.007338     0.073587   23.539619   0.261954   0.240346
+std     18.492364      0.367120      0.176103          0.007338     0.073587   23.539619   0.261954   0.240346
 min     18.000000      0.001460      0.377000          0.000000     0.028100   71.815000   0.068800   0.115000
 25%     43.250000      0.193750      0.490250          0.000000     0.038925   96.703500   0.260500   0.244500
 50%     60.000000      0.637000      0.640000          0.000000     0.050300  121.112500   0.448500   0.455000

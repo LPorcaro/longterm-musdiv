@@ -1,0 +1,45 @@
+Electronic artists found: SRTW,Moonlet, SRTW,Sønlille, Sole Sole,SLEO, SRTW, SRTW,Roxy Tones,Moonlet, SRTW,COLIN,Noile,CLOSR, SRTW,Nokyo, SRTW,Buchs,Sønlille, John K, Mauve
+Electronic genres found: tropical house, pop edm, deep tropical house
+Electronic music logs found: 9.24% 
+
+Top genres
+	1: pop (20.21%)
+	2: dance pop (8.51%)
+	3: pop edm (7.45%)
+	4: uk pop (6.38%)
+	5: portuguese pop (5.32%)
+Top artists
+	1: Diogo Piçarra (0.97%)
+	2: POURI X (0.97%)
+	3: Luca (0.97%)
+	4: Luvine (0.97%)
+	5: RED (0.97%)
+Top country
+	1: DE (74.79%)
+	2: US (10.92%)
+	3: PT (6.72%)
+	4: QM (2.52%)
+	5: GB (2.52%)
+Top record
+	1: YT7 (70.59%)
+	2: UM7 (9.24%)
+	3: AT2 (2.52%)
+	4: BM1 (1.68%)
+	5: E86 (1.68%)
+Top year
+	1: 22 (37.82%)
+	2: 21 (31.93%)
+	3: 20 (12.61%)
+	4: 19 (8.40%)
+	5: 18 (3.36%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  119.000000    119.000000    119.000000        119.000000   119.000000  119.000000  119.000000  119.000000
+mean    50.823529      0.546982      0.634034          0.131097     0.080514  112.125244    0.332635    0.447479
+std     11.779505      0.269258      0.119109          0.260134     0.086992   19.865312    0.167437    0.124678
+min     20.000000      0.015500      0.341000          0.000000     0.024800   78.016000    0.074000    0.215000
+25%     44.000000      0.344000      0.560000          0.000002     0.035500  103.985000    0.220000    0.362000
+50%     47.000000      0.584000      0.650000          0.000646     0.047700  109.331000    0.304000    0.412000
+75%     52.000000      0.780500      0.713500          0.094150     0.080150  114.925000    0.415000    0.534000
+max     86.000000      0.943000      0.958000          0.910000     0.543000  203.858000    0.859000    0.853000

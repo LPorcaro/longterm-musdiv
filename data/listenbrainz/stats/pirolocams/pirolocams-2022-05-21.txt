@@ -1,0 +1,45 @@
+Electronic artists found: Gesaffelstein,The Weeknd, Regard,Troye Sivan,Tate McRae
+Electronic genres found: pop edm, electro house, tropical house, destroy techno, slap house, edm
+Electronic music logs found: 1.68% 
+
+Top genres
+	1: pop (29.19%)
+	2: dance pop (9.40%)
+	3: electropop (5.03%)
+	4: italian pop (4.36%)
+	5: italian hip hop (4.03%)
+Top artists
+	1: Megan Thee Stallion (1.56%)
+	2: Regard (1.56%)
+	3: Jon Bellion (1.56%)
+	4: Jeremy Shada (1.56%)
+	5: Nina Nesbitt (1.56%)
+Top country
+	1: US (67.23%)
+	2: IT (10.92%)
+	3: GB (8.40%)
+	4: AU (5.88%)
+	5: QM (4.20%)
+Top record
+	1: UM7 (21.85%)
+	2: RC1 (14.29%)
+	3: UG1 (13.45%)
+	4: SM1 (12.61%)
+	5: Q00 (10.08%)
+Top year
+	1: 21 (26.05%)
+	2: 22 (23.53%)
+	3: 20 (16.81%)
+	4: 17 (10.08%)
+	5: 19 (10.08%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  119.000000    119.000000    119.000000        119.000000   119.000000  119.000000  119.000000  119.000000
+mean    71.831933      0.338385      0.629765          0.009555     0.093707  120.296395    0.501623    0.574723
+std     11.981850      0.296432      0.130306          0.048403     0.086484   30.419037    0.214644    0.163929
+min     41.000000      0.003070      0.334000          0.000000     0.028400   71.912000    0.059200    0.190000
+25%     66.000000      0.069050      0.535500          0.000000     0.037150   97.960000    0.370000    0.468000
+50%     75.000000      0.244000      0.640000          0.000005     0.055700  117.125000    0.505000    0.597000
+75%     82.000000      0.539000      0.710500          0.000111     0.109500  140.353000    0.662000    0.673000
+max    100.000000      0.941000      0.930000          0.350000     0.434000  185.913000    0.905000    0.897000

@@ -1,0 +1,45 @@
+Electronic artists found: The Chainsmokers,Coldplay
+Electronic genres found: tropical house, edm
+Electronic music logs found: 1.70% 
+
+Top genres
+	1: modern rock (28.83%)
+	2: pop (23.42%)
+	3: art pop (10.81%)
+	4: rock (4.50%)
+	5: uk pop (3.60%)
+Top artists
+	1: The All-American Rejects (5.26%)
+	2: Bruno Mars (5.26%)
+	3: The Chainsmokers (5.26%)
+	4: Dean Lewis (5.26%)
+	5: Panic! At The Disco (5.26%)
+Top country
+	1: US (64.41%)
+	2: GB (25.42%)
+	3: DE (5.08%)
+	4: AU (3.39%)
+	5: UK (1.69%)
+Top record
+	1: AT2 (44.07%)
+	2: UM7 (37.29%)
+	3: E86 (3.39%)
+	4: SM1 (3.39%)
+	5: WD1 (3.39%)
+Top year
+	1: 15 (38.98%)
+	2: 11 (15.25%)
+	3: 18 (15.25%)
+	4: 12 (10.17%)
+	5: 19 (5.08%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   59.000000     59.000000     59.000000         59.000000    59.000000   59.000000  59.000000  59.000000
+mean    68.000000      0.289958      0.510254          0.002778     0.059115  117.452695   0.447522   0.652763
+std     10.253679      0.337929      0.124682          0.014609     0.041122   28.971191   0.198025   0.207538
+min     50.000000      0.000247      0.174000          0.000000     0.028000   65.627000   0.097800   0.174000
+25%     59.000000      0.011000      0.455500          0.000000     0.035550   97.240500   0.287000   0.538000
+50%     67.000000      0.062100      0.531000          0.000000     0.052300  114.109000   0.443000   0.691000
+75%     77.500000      0.571000      0.577500          0.000002     0.063300  137.089500   0.602500   0.835000
+max     85.000000      0.932000      0.776000          0.087500     0.244000  183.825000   0.856000   0.910000

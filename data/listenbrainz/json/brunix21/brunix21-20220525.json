@@ -1,0 +1,3926 @@
+[
+    {
+        "listened_at": "2022-05-23T14:43:54",
+        "track_name": "M\u00e1goa",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4De19krJP2mEUeRBSrm7AZ",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800016",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218062,
+            "isrc": "PTUM71800016",
+            "listening_from": "spotify",
+            "recording_msid": "cfeec32e-417b-4cad-ba0b-051b0d1c4915",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4De19krJP2mEUeRBSrm7AZ",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:43:14",
+        "track_name": "Nada Mais",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3XaIDqKljGF3KXSpWYQ4pG",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800001",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 171142,
+            "isrc": "PTUM71800001",
+            "listening_from": "spotify",
+            "recording_msid": "20e4c224-c70e-4ed4-aca3-e2de424550dc",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3XaIDqKljGF3KXSpWYQ4pG",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:40:22",
+        "track_name": "Espera",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/40yNT5SxHCDwESmtG98ugc",
+        "listening_from": "spotify",
+        "isrc": "PTUM71700231",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 209219,
+            "isrc": "PTUM71700231",
+            "listening_from": "spotify",
+            "recording_msid": "1d4a572f-6953-4839-b931-86d1e397b47f",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/40yNT5SxHCDwESmtG98ugc",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:36:53",
+        "track_name": "Fim",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/1BI05ixB0WkBPiCCi3Gbwd",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000032",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 183946,
+            "isrc": "PTUM72000032",
+            "listening_from": "spotify",
+            "recording_msid": "c6baecfd-cc18-49d8-b34f-5641ed7fc9ac",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1BI05ixB0WkBPiCCi3Gbwd",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:33:48",
+        "track_name": "Melodia Da Saudade",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/1K5Tnx7Vj02eC9gJ2A0ZGH",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900183",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 305493,
+            "isrc": "PTUM71900183",
+            "listening_from": "spotify",
+            "recording_msid": "2e9e9e78-d58a-45f4-8365-621a72a503b3",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1K5Tnx7Vj02eC9gJ2A0ZGH",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:28:20",
+        "track_name": "Cair",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/5Z5GVWdBeq4IBC9jOHwYsc",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000031",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 204360,
+            "isrc": "PTUM72000031",
+            "listening_from": "spotify",
+            "recording_msid": "567c205e-9438-470d-a95f-8a48634f12b1",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5Z5GVWdBeq4IBC9jOHwYsc",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:24:57",
+        "track_name": "Nada A Perder",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/040QfALz5rEWLNsZDxbPkO",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000034",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 190506,
+            "isrc": "PTUM72000034",
+            "listening_from": "spotify",
+            "recording_msid": "41c2bb0c-b289-45a7-a537-c51f17955de0",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/040QfALz5rEWLNsZDxbPkO",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:21:46",
+        "track_name": "Recome\u00e7ar",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/0BKspTHUsWVyoCLApF0N8G",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000037",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218760,
+            "isrc": "PTUM72000037",
+            "listening_from": "spotify",
+            "recording_msid": "6c3004b2-f27f-46af-b7c2-ee3cf36e5293",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0BKspTHUsWVyoCLApF0N8G",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:18:07",
+        "track_name": "Se Eu",
+        "artist_name": "Fernando Daniel, Melim",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/2avAoYtbiI5hw1O2F7skeN",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900221",
+        "additional_info": {
+            "artist_msid": "dc49aac8-b797-448d-b5a9-f4959f72fba6",
+            "artist_names": [
+                "Fernando Daniel",
+                "Melim"
+            ],
+            "discnumber": 1,
+            "duration_ms": 196400,
+            "isrc": "PTUM71900221",
+            "listening_from": "spotify",
+            "recording_msid": "c2b4b7eb-8b3a-4b17-b6cf-9ff684c1eb3d",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2avAoYtbiI5hw1O2F7skeN",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:14:51",
+        "track_name": "Nunca",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/71pMnxwLmPtrgmsJIVgOMc",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000036",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 220000,
+            "isrc": "PTUM72000036",
+            "listening_from": "spotify",
+            "recording_msid": "b140cab8-b4dc-498b-afed-e37ff276479a",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/71pMnxwLmPtrgmsJIVgOMc",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:11:11",
+        "track_name": "Tal Como Sou",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/3SGjA5nhZKqTfT8sKXroKr",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900122",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 171946,
+            "isrc": "PTUM71900122",
+            "listening_from": "spotify",
+            "recording_msid": "2b2c43ed-98d2-46a5-90a2-27e5edc55dfd",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3SGjA5nhZKqTfT8sKXroKr",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:08:19",
+        "track_name": "Nada Resulta",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4zqrngqWEvHPC70xnf70C7",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000035",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 201666,
+            "isrc": "PTUM72000035",
+            "listening_from": "spotify",
+            "recording_msid": "c26e19fd-1759-4490-942a-5b56608d4659",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4zqrngqWEvHPC70xnf70C7",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:04:57",
+        "track_name": "Sem Medo",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0v2rjttl94cRu2tiUvbfG1",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000038",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 168346,
+            "isrc": "PTUM72000038",
+            "listening_from": "spotify",
+            "recording_msid": "0498bfd2-3df2-4fe6-9c7c-91f31e55b477",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0v2rjttl94cRu2tiUvbfG1",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:02:09",
+        "track_name": "Intro",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7mrBFb8oK3nxTvSfKTaBMS",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000033",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 47453,
+            "isrc": "PTUM72000033",
+            "listening_from": "spotify",
+            "recording_msid": "d9564f33-a965-4a42-b9a2-c2006ae7ff7d",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7mrBFb8oK3nxTvSfKTaBMS",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:01:20",
+        "track_name": "Melodia Da Saudade",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/1K5Tnx7Vj02eC9gJ2A0ZGH",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900183",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 305493,
+            "isrc": "PTUM71900183",
+            "listening_from": "spotify",
+            "recording_msid": "2e9e9e78-d58a-45f4-8365-621a72a503b3",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1K5Tnx7Vj02eC9gJ2A0ZGH",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:56:14",
+        "track_name": "Espera",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/40yNT5SxHCDwESmtG98ugc",
+        "listening_from": "spotify",
+        "isrc": "PTUM71700231",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 209219,
+            "isrc": "PTUM71700231",
+            "listening_from": "spotify",
+            "recording_msid": "1d4a572f-6953-4839-b931-86d1e397b47f",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/40yNT5SxHCDwESmtG98ugc",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:52:45",
+        "track_name": "Nada A Perder",
+        "artist_name": "Fernando Daniel, Carl\u00e3o",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/6uDSJT1ztG94zMh0hJUEg8",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100739",
+        "additional_info": {
+            "artist_msid": "d2f4e26a-b07f-4233-939e-ba287bae86bc",
+            "artist_names": [
+                "Fernando Daniel",
+                "Carl\u00e3o"
+            ],
+            "discnumber": 1,
+            "duration_ms": 191000,
+            "isrc": "PTUM72100739",
+            "listening_from": "spotify",
+            "recording_msid": "cbdbb1a1-b7f2-47c0-acf3-3d3810610379",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6uDSJT1ztG94zMh0hJUEg8",
+            "tracknumber": 15
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:49:34",
+        "track_name": "Melodia Da Saudade - Radio Edit",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Melodia Da Saudade (Radio Edit)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5qI0ojfBia9ThXpeA4PNLI",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900182",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 272334,
+            "isrc": "PTUM71900182",
+            "listening_from": "spotify",
+            "recording_msid": "bd13ddfe-bc45-444d-b974-d937fe4eaf94",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "4dd51b8e-3439-480f-922c-6c3c972079fb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7kqx9vl6Pa84wxENaEXJrY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5qI0ojfBia9ThXpeA4PNLI",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:45:01",
+        "track_name": "Se Eu",
+        "artist_name": "Fernando Daniel, Melim",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/2avAoYtbiI5hw1O2F7skeN",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900221",
+        "additional_info": {
+            "artist_msid": "dc49aac8-b797-448d-b5a9-f4959f72fba6",
+            "artist_names": [
+                "Fernando Daniel",
+                "Melim"
+            ],
+            "discnumber": 1,
+            "duration_ms": 196400,
+            "isrc": "PTUM71900221",
+            "listening_from": "spotify",
+            "recording_msid": "c2b4b7eb-8b3a-4b17-b6cf-9ff684c1eb3d",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2avAoYtbiI5hw1O2F7skeN",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:41:43",
+        "track_name": "Sem Ti",
+        "artist_name": "Fernando Daniel, Agir",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 13,
+        "spotify_id": "https://open.spotify.com/track/7CegyX2TmLsCHmtOn3BY8P",
+        "listening_from": "spotify",
+        "isrc": "PTUM72001155",
+        "additional_info": {
+            "artist_msid": "0f2efe11-434a-466d-9080-c4ef1bc52965",
+            "artist_names": [
+                "Fernando Daniel",
+                "Agir"
+            ],
+            "discnumber": 1,
+            "duration_ms": 226053,
+            "isrc": "PTUM72001155",
+            "listening_from": "spotify",
+            "recording_msid": "b42da52d-4484-4fa9-916c-127c7619424a",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7CegyX2TmLsCHmtOn3BY8P",
+            "tracknumber": 13
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:37:57",
+        "track_name": "Encontrar",
+        "artist_name": "Fernando Daniel, Piruka",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 17,
+        "spotify_id": "https://open.spotify.com/track/0yX2v6cVWzxNX9hOs34Tuk",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100742",
+        "additional_info": {
+            "artist_msid": "e5590098-b6f5-4d03-9041-d6267d6e1c64",
+            "artist_names": [
+                "Fernando Daniel",
+                "Piruka"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198920,
+            "isrc": "PTUM72100742",
+            "listening_from": "spotify",
+            "recording_msid": "7cfd4bea-c35f-4ba7-9824-d834347bff3c",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0yX2v6cVWzxNX9hOs34Tuk",
+            "tracknumber": 17
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:34:16",
+        "track_name": "Raro",
+        "artist_name": "Fernando Daniel",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/6Bf1zUGbLnxqPRisimCpqp",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100632",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 175000,
+            "isrc": "PTUM72100632",
+            "listening_from": "spotify",
+            "recording_msid": "f82e2ccf-cdc4-4ff6-b244-f7cee12f4ff3",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6Bf1zUGbLnxqPRisimCpqp",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:31:19",
+        "track_name": "Fim",
+        "artist_name": "Fernando Daniel, Carolina Deslandes",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 16,
+        "spotify_id": "https://open.spotify.com/track/2TVCq0XpuW4sphbYsokQxq",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100738",
+        "additional_info": {
+            "artist_msid": "3d4e5960-81f2-49fb-ac50-02f829b3902e",
+            "artist_names": [
+                "Fernando Daniel",
+                "Carolina Deslandes"
+            ],
+            "discnumber": 1,
+            "duration_ms": 227520,
+            "isrc": "PTUM72100738",
+            "listening_from": "spotify",
+            "recording_msid": "173d7b81-7e68-46c6-b4ec-2a9b897f63aa",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2TVCq0XpuW4sphbYsokQxq",
+            "tracknumber": 16
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:27:32",
+        "track_name": "Voltas",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Voltas",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3K53RODdfVk8K9yv3GCPQP",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800022",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228539,
+            "isrc": "PTUM71800022",
+            "listening_from": "spotify",
+            "recording_msid": "e7559b4f-e7be-420e-9c83-d0da5020ea8c",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "fec5d3e4-48b9-4463-916d-bd02fef08242",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3Ooq25lldUtBsA109yICMM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3K53RODdfVk8K9yv3GCPQP",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:23:39",
+        "track_name": "Recome\u00e7ar",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Recome\u00e7ar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6aMNlSLoCe9lPnn8X60www",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000037",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218760,
+            "isrc": "PTUM72000037",
+            "listening_from": "spotify",
+            "recording_msid": "a8cef776-3638-4227-801e-be2994890b9d",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "bbe88ce3-dade-4963-bcdd-337230efdb71",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0vHZYpHvzLEbgSFJOka8RX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6aMNlSLoCe9lPnn8X60www",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:53:49",
+        "track_name": "Chilling By The Window",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Rainy Nights",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/5sqdPEa8MlrOoIXKMtdBO4",
+        "listening_from": "spotify",
+        "isrc": "FRR642001752",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 116589,
+            "isrc": "FRR642001752",
+            "listening_from": "spotify",
+            "recording_msid": "cef602a2-0576-4c24-82a2-0ee864fb904d",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "1774c6cb-44b5-49a4-b206-61639c817714",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QbBN67FRqBXjionmvMeUt",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5sqdPEa8MlrOoIXKMtdBO4",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:42:48",
+        "track_name": "Childhood Fragments",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Time Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/6Wehv77PezqwbcY5fAdkoz",
+        "listening_from": "spotify",
+        "isrc": "FRR642101663",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 44317,
+            "isrc": "FRR642101663",
+            "listening_from": "spotify",
+            "recording_msid": "6e6613c7-50f6-473d-9fa5-edcbd47050f7",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "9c4be5d1-38db-472f-bc8e-e582076c04e4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6Wehv77PezqwbcY5fAdkoz",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:42:03",
+        "track_name": "The Path of the wind",
+        "artist_name": "Otaku",
+        "release_name": "Ghibli Lofi",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/2IHSMPRArRTCsrFETbb4Ve",
+        "listening_from": "spotify",
+        "isrc": "FRR642101153",
+        "additional_info": {
+            "artist_msid": "8dcbcb54-475d-4543-8d8e-61922c9486b1",
+            "artist_names": [
+                "Otaku"
+            ],
+            "discnumber": 1,
+            "duration_ms": 102416,
+            "isrc": "FRR642101153",
+            "listening_from": "spotify",
+            "recording_msid": "50a7ae0e-8cab-4a0b-9a23-b845ab7147f6",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "6a44ddbc-ad25-4ac8-a7e8-2453d2dd027c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0WNkHjW1cw2jONYUQWS4bi",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2IHSMPRArRTCsrFETbb4Ve",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:39:13",
+        "track_name": "Unrushed",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Time Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/4y5W4FuJra7JYvr10iktxa",
+        "listening_from": "spotify",
+        "isrc": "FRR642101662",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 47100,
+            "isrc": "FRR642101662",
+            "listening_from": "spotify",
+            "recording_msid": "2d27e200-0d61-4869-83fb-c1eca3e74078",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "9c4be5d1-38db-472f-bc8e-e582076c04e4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4y5W4FuJra7JYvr10iktxa",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:38:26",
+        "track_name": "Affection",
+        "artist_name": "Jinsang",
+        "release_name": "Life",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/7MdZQXUBijQxcBkYz4G1Z5",
+        "listening_from": "spotify",
+        "isrc": "DEQ121644250",
+        "additional_info": {
+            "artist_msid": "7a6e9950-e16b-4d76-bdcd-aa4c68c3befa",
+            "artist_names": [
+                "Jinsang"
+            ],
+            "discnumber": 1,
+            "duration_ms": 117495,
+            "isrc": "DEQ121644250",
+            "listening_from": "spotify",
+            "recording_msid": "882b7b0d-2eed-4ea8-95a6-3eb4dd2fb57d",
+            "release_artist_name": "Jinsang",
+            "release_artist_names": [
+                "Jinsang"
+            ],
+            "release_msid": "0d8ee3ff-a1d2-450e-8211-7ffd3f3a7766",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/52qF0r4f9WihHYUDcINmmC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7MdZQXUBijQxcBkYz4G1Z5",
+            "tracknumber": 15
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:36:28",
+        "track_name": "Bitcoin",
+        "artist_name": "Satoshi Nakamoto",
+        "release_name": "Bitcoin",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6ePkfasTvwxhwamEOiBUMp",
+        "listening_from": "spotify",
+        "isrc": "FRR642100017",
+        "additional_info": {
+            "artist_msid": "5b49c296-22c4-402b-8adb-c531537de99c",
+            "artist_names": [
+                "Satoshi Nakamoto"
+            ],
+            "discnumber": 1,
+            "duration_ms": 135023,
+            "isrc": "FRR642100017",
+            "listening_from": "spotify",
+            "recording_msid": "15ff3c05-ef6c-4f64-9993-030b8d7d4fcf",
+            "release_artist_name": "Satoshi Nakamoto",
+            "release_artist_names": [
+                "Satoshi Nakamoto"
+            ],
+            "release_msid": "19f39b17-8a68-4ddf-83e9-32c23bde740a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0sXILwwk9X38em5cacNPUF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/49c509rgZOKKYFbbXQoivz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0sXILwwk9X38em5cacNPUF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6ePkfasTvwxhwamEOiBUMp",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:34:12",
+        "track_name": "Night Drive",
+        "artist_name": "LoFi Waiter",
+        "release_name": "A Night in Tokyo",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/5ZjkNspQw1OWzKo6p4XJz5",
+        "listening_from": "spotify",
+        "isrc": "FRR642100029",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 120015,
+            "isrc": "FRR642100029",
+            "listening_from": "spotify",
+            "recording_msid": "fa2c147b-562d-463c-9b23-67cd3c92d9f2",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "f8e1d4e3-51a2-4deb-9af5-992ad5b5fe73",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5F2e4e2E2n1iOVy6ZqppHp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5ZjkNspQw1OWzKo6p4XJz5",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:32:12",
+        "track_name": "One Summer's Day (Spirited Away)",
+        "artist_name": "Sleepy Tom",
+        "release_name": "Ghibli, Anime & Chill",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/7jGzRIMbqiUrYBugAQmI25",
+        "listening_from": "spotify",
+        "isrc": "FRR642100643",
+        "additional_info": {
+            "artist_msid": "e4c8eba8-9ff7-4593-8d03-6a633c09df1a",
+            "artist_names": [
+                "Sleepy Tom"
+            ],
+            "discnumber": 1,
+            "duration_ms": 135529,
+            "isrc": "FRR642100643",
+            "listening_from": "spotify",
+            "recording_msid": "35e12aac-226d-4300-a324-48d4d2d91b2c",
+            "release_artist_name": "Sleepy Tom",
+            "release_artist_names": [
+                "Sleepy Tom"
+            ],
+            "release_msid": "d5d01c62-b1c0-4091-ac6f-34e0aaaf57dc",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7jGzRIMbqiUrYBugAQmI25",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:29:34",
+        "track_name": "Blue Bird (Naruto)",
+        "artist_name": "Otaku",
+        "release_name": "Anime Lofi Vol. 1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/2HYPqSwitksTpCFzYmP7Po",
+        "listening_from": "spotify",
+        "isrc": "FRR642100234",
+        "additional_info": {
+            "artist_msid": "8dcbcb54-475d-4543-8d8e-61922c9486b1",
+            "artist_names": [
+                "Otaku"
+            ],
+            "discnumber": 1,
+            "duration_ms": 111848,
+            "isrc": "FRR642100234",
+            "listening_from": "spotify",
+            "recording_msid": "4225dc5e-19ac-4d0a-85a2-d0c51bbde13b",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "7c248a2f-656f-456f-a3e6-d8d53ba168e6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1e6MOfioKrfJQDUZBKWKBm",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2HYPqSwitksTpCFzYmP7Po",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:27:42",
+        "track_name": "At the Library",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Time Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/0bQiTUlDBlAbXMkA6kkCgR",
+        "listening_from": "spotify",
+        "isrc": "FRR642101661",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 35375,
+            "isrc": "FRR642101661",
+            "listening_from": "spotify",
+            "recording_msid": "fd0d99ff-9f48-4971-b80c-671b36c7f968",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "9c4be5d1-38db-472f-bc8e-e582076c04e4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0bQiTUlDBlAbXMkA6kkCgR",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:27:05",
+        "track_name": "Jazz or No",
+        "artist_name": "Kid Kio, Summit One",
+        "release_name": "Jazz or No",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/60N4Ak0X217HI7b1YH8BcR",
+        "listening_from": "spotify",
+        "isrc": "FRR642001345",
+        "additional_info": {
+            "artist_msid": "6390ca8d-e249-4887-87a2-828b11345c17",
+            "artist_names": [
+                "Kid Kio",
+                "Summit One"
+            ],
+            "discnumber": 1,
+            "duration_ms": 96000,
+            "isrc": "FRR642001345",
+            "listening_from": "spotify",
+            "recording_msid": "076cb94c-4d8b-4827-8767-af86d2de3f74",
+            "release_artist_name": "Kid Kio, Summit One",
+            "release_artist_names": [
+                "Kid Kio",
+                "Summit One"
+            ],
+            "release_msid": "2f5e5c6c-aec7-4082-bf1a-f2dfcbd544d4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE",
+                "https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0rKzDILiGsELEpngcFt8O2",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE",
+                "https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42"
+            ],
+            "spotify_id": "https://open.spotify.com/track/60N4Ak0X217HI7b1YH8BcR",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:25:29",
+        "track_name": "Colors, All the Same",
+        "artist_name": "Kainbeats",
+        "release_name": "Colors, All the Same",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5ESH3ABIM9xMXYWJ4l5Zis",
+        "listening_from": "spotify",
+        "isrc": "FRR642101106",
+        "additional_info": {
+            "artist_msid": "8f0d8e97-b9e4-4cd8-ad75-d84b01e6e813",
+            "artist_names": [
+                "Kainbeats"
+            ],
+            "discnumber": 1,
+            "duration_ms": 130897,
+            "isrc": "FRR642101106",
+            "listening_from": "spotify",
+            "recording_msid": "adc6ea9b-d8bb-4150-b89c-06acc15b551f",
+            "release_artist_name": "Kainbeats",
+            "release_artist_names": [
+                "Kainbeats"
+            ],
+            "release_msid": "48fa9a62-94a6-44c2-b7ee-d3084d118b57",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2t5RC23GkiQxO5kLgQZFx3",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5ESH3ABIM9xMXYWJ4l5Zis",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:22:24",
+        "track_name": "I Miss You",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Time Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/3NcNz0rFUEghdqZ60CsMNh",
+        "listening_from": "spotify",
+        "isrc": "FRR642101660",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 42442,
+            "isrc": "FRR642101660",
+            "listening_from": "spotify",
+            "recording_msid": "0a01610a-68f8-4561-9040-39fd3b896c5c",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "9c4be5d1-38db-472f-bc8e-e582076c04e4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3NcNz0rFUEghdqZ60CsMNh",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:21:41",
+        "track_name": "2AM Study",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Time Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4NdgaGjCLJ4qDfcmBBMBB4",
+        "listening_from": "spotify",
+        "isrc": "FRR642101659",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 45466,
+            "isrc": "FRR642101659",
+            "listening_from": "spotify",
+            "recording_msid": "ad75eb17-5f6d-420e-a090-8add4cfc0e9a",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "9c4be5d1-38db-472f-bc8e-e582076c04e4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4NdgaGjCLJ4qDfcmBBMBB4",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:20:55",
+        "track_name": "Nausicaa Requiem",
+        "artist_name": "Otaku",
+        "release_name": "Ghibli Lofi",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/6bZWglnOQjF5XodilZuF55",
+        "listening_from": "spotify",
+        "isrc": "FRR642101152",
+        "additional_info": {
+            "artist_msid": "8dcbcb54-475d-4543-8d8e-61922c9486b1",
+            "artist_names": [
+                "Otaku"
+            ],
+            "discnumber": 1,
+            "duration_ms": 108016,
+            "isrc": "FRR642101152",
+            "listening_from": "spotify",
+            "recording_msid": "9742b5d5-6728-4d41-a1e0-7b0bf30845b0",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "6a44ddbc-ad25-4ac8-a7e8-2453d2dd027c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0WNkHjW1cw2jONYUQWS4bi",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6bZWglnOQjF5XodilZuF55",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:19:06",
+        "track_name": "Shukudai",
+        "artist_name": "LoFi Waiter",
+        "release_name": "A Night in Tokyo",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/3QnuspqK3dFPzx6YT8gVFz",
+        "listening_from": "spotify",
+        "isrc": "FRR642100028",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 117131,
+            "isrc": "FRR642100028",
+            "listening_from": "spotify",
+            "recording_msid": "363ce746-657b-4b32-8f25-2ccc96f3fe7c",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "f8e1d4e3-51a2-4deb-9af5-992ad5b5fe73",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5F2e4e2E2n1iOVy6ZqppHp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3QnuspqK3dFPzx6YT8gVFz",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:17:10",
+        "track_name": "[oops]",
+        "artist_name": "potsu",
+        "release_name": "[oops]",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF",
+        "listening_from": "spotify",
+        "isrc": "QM42K1738773",
+        "additional_info": {
+            "artist_msid": "d16a3299-24fe-4f85-b9c0-b09311f2fde0",
+            "artist_names": [
+                "potsu"
+            ],
+            "discnumber": 1,
+            "duration_ms": 142182,
+            "isrc": "QM42K1738773",
+            "listening_from": "spotify",
+            "recording_msid": "be8e794c-0e89-41e7-ae91-5eab847a6a2e",
+            "release_artist_name": "potsu",
+            "release_artist_names": [
+                "potsu"
+            ],
+            "release_msid": "460b7f98-a3d0-4861-b196-d92220519e1c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:14:16",
+        "track_name": "Rainy Morning",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Time Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/59JuwpxnQTII5Aewnc2wcQ",
+        "listening_from": "spotify",
+        "isrc": "FRR642101658",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 46634,
+            "isrc": "FRR642101658",
+            "listening_from": "spotify",
+            "recording_msid": "6734beef-0666-46f5-8a62-3cf5025ff10f",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "9c4be5d1-38db-472f-bc8e-e582076c04e4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/59JuwpxnQTII5Aewnc2wcQ",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:13:29",
+        "track_name": "lofi rain",
+        "artist_name": "a girl and a cat",
+        "release_name": "lofi study 2021",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0NDUuWBh1ykEGtIBtD9tAm",
+        "listening_from": "spotify",
+        "isrc": "FRR642001598",
+        "additional_info": {
+            "artist_msid": "f058d2dd-5f77-4d30-9132-da085a99eee4",
+            "artist_names": [
+                "a girl and a cat"
+            ],
+            "discnumber": 1,
+            "duration_ms": 118400,
+            "isrc": "FRR642001598",
+            "listening_from": "spotify",
+            "recording_msid": "8e809e7d-092f-48ad-83df-636785068072",
+            "release_artist_name": "a girl and a cat",
+            "release_artist_names": [
+                "a girl and a cat"
+            ],
+            "release_msid": "6d005c78-6750-4878-ab55-a929e5799e26",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3uK7MCVwr7FSxnhNKso4Hi"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/260iH4R6MRNcDQ79106Icv",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3uK7MCVwr7FSxnhNKso4Hi"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0NDUuWBh1ykEGtIBtD9tAm",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:11:29",
+        "track_name": "Unravel (Tokyo Ghoul)",
+        "artist_name": "Otaku, LoFi Waiter",
+        "release_name": "Anime Lofi Vol. 1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/46fpycbDAktlUgSCY1fMJd",
+        "listening_from": "spotify",
+        "isrc": "FRR642100233",
+        "additional_info": {
+            "artist_msid": "42e6abe7-6d6f-4ef2-9a3f-a9fd3ae3752b",
+            "artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 127910,
+            "isrc": "FRR642100233",
+            "listening_from": "spotify",
+            "recording_msid": "5096ab47-e3ec-4fd4-b3b0-2b5b9fea2170",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "7c248a2f-656f-456f-a3e6-d8d53ba168e6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1e6MOfioKrfJQDUZBKWKBm",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/46fpycbDAktlUgSCY1fMJd",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:09:21",
+        "track_name": "Jazzy Afternoon",
+        "artist_name": "LoFi Waiter",
+        "release_name": "A Night in Tokyo",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/4piWGWlGPmzxSmFj3gbdZB",
+        "listening_from": "spotify",
+        "isrc": "FRR642100027",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 96046,
+            "isrc": "FRR642100027",
+            "listening_from": "spotify",
+            "recording_msid": "2adea05b-5bc1-4fa8-bfc0-a467a544b751",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "f8e1d4e3-51a2-4deb-9af5-992ad5b5fe73",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5F2e4e2E2n1iOVy6ZqppHp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4piWGWlGPmzxSmFj3gbdZB",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:07:45",
+        "track_name": "Flowing Clouds Atop the Shining Hills",
+        "artist_name": "Otaku",
+        "release_name": "Ghibli Lofi",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/0Abm9hJdA7XM7YjfflLJGO",
+        "listening_from": "spotify",
+        "isrc": "FRR642101151",
+        "additional_info": {
+            "artist_msid": "8dcbcb54-475d-4543-8d8e-61922c9486b1",
+            "artist_names": [
+                "Otaku"
+            ],
+            "discnumber": 1,
+            "duration_ms": 103216,
+            "isrc": "FRR642101151",
+            "listening_from": "spotify",
+            "recording_msid": "7c175b86-69ef-4ab1-8e41-e5e3d7a6000e",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "6a44ddbc-ad25-4ac8-a7e8-2453d2dd027c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0WNkHjW1cw2jONYUQWS4bi",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0Abm9hJdA7XM7YjfflLJGO",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:05:38",
+        "track_name": "Japanese Winter",
+        "artist_name": "LoFi Waiter",
+        "release_name": "A Night in Tokyo",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2Y07pojl0DkC41zg0Vfvgo",
+        "listening_from": "spotify",
+        "isrc": "FRR642100026",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 108458,
+            "isrc": "FRR642100026",
+            "listening_from": "spotify",
+            "recording_msid": "a3ffd3a0-7439-4b69-a3ba-f4091f0c0049",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "f8e1d4e3-51a2-4deb-9af5-992ad5b5fe73",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5F2e4e2E2n1iOVy6ZqppHp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2Y07pojl0DkC41zg0Vfvgo",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:03:48",
+        "track_name": "Flames to Dust",
+        "artist_name": "Shierro",
+        "release_name": "Disconnected",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7saan3wT8athjtK1LxUfth",
+        "listening_from": "spotify",
+        "isrc": "FRR642101114",
+        "additional_info": {
+            "artist_msid": "05201fa5-f093-47aa-bad7-f635fa8f16db",
+            "artist_names": [
+                "Shierro"
+            ],
+            "discnumber": 1,
+            "duration_ms": 153973,
+            "isrc": "FRR642101114",
+            "listening_from": "spotify",
+            "recording_msid": "136508b0-a5da-4eb7-aec1-5deeaec847d9",
+            "release_artist_name": "Shierro",
+            "release_artist_names": [
+                "Shierro"
+            ],
+            "release_msid": "d34bf0a0-d456-4b03-9329-5ff3e139d675",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7xcPMOp2DWFQE9co7h4S0X",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7saan3wT8athjtK1LxUfth",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:01:14",
+        "track_name": "my new love",
+        "artist_name": "Elijah Who",
+        "release_name": "Gentle Boy",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 12,
+        "spotify_id": "https://open.spotify.com/track/23gcQr3NRKzLXsP9H5jFQ1",
+        "listening_from": "spotify",
+        "isrc": "DEQ121750851",
+        "additional_info": {
+            "artist_msid": "3f4c3f27-df68-477c-9aa8-df2fee864e2c",
+            "artist_names": [
+                "Elijah Who"
+            ],
+            "discnumber": 1,
+            "duration_ms": 65790,
+            "isrc": "DEQ121750851",
+            "listening_from": "spotify",
+            "recording_msid": "b8a5e50b-d59c-4b08-9c6b-764faaa564e1",
+            "release_artist_name": "Elijah Who",
+            "release_artist_names": [
+                "Elijah Who"
+            ],
+            "release_msid": "8f4ba5a0-7859-43ae-b801-4f25f149091b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+            ],
+            "spotify_id": "https://open.spotify.com/track/23gcQr3NRKzLXsP9H5jFQ1",
+            "tracknumber": 12
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:00:08",
+        "track_name": "Aryetti's Song",
+        "artist_name": "Otaku",
+        "release_name": "Ghibli Lofi",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/1yPluCl0c17RcWyGjV7tw5",
+        "listening_from": "spotify",
+        "isrc": "FRR642101149",
+        "additional_info": {
+            "artist_msid": "8dcbcb54-475d-4543-8d8e-61922c9486b1",
+            "artist_names": [
+                "Otaku"
+            ],
+            "discnumber": 1,
+            "duration_ms": 115616,
+            "isrc": "FRR642101149",
+            "listening_from": "spotify",
+            "recording_msid": "7795ea20-07dc-4fb1-a9d0-1266cbb0d305",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "6a44ddbc-ad25-4ac8-a7e8-2453d2dd027c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0WNkHjW1cw2jONYUQWS4bi",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1yPluCl0c17RcWyGjV7tw5",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:58:12",
+        "track_name": "Reminiscence",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Time Fragments",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N",
+        "listening_from": "spotify",
+        "isrc": "FRR642101657",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 51706,
+            "isrc": "FRR642101657",
+            "listening_from": "spotify",
+            "recording_msid": "a287b0db-a322-4d35-b08b-0760a6732382",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "9c4be5d1-38db-472f-bc8e-e582076c04e4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:57:20",
+        "track_name": "Renai Circulation (Bakemonogatari)",
+        "artist_name": "Otaku",
+        "release_name": "Anime Lofi Vol. 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/4k3bQolPVSky3itPqhsrlY",
+        "listening_from": "spotify",
+        "isrc": "FRR642100508",
+        "additional_info": {
+            "artist_msid": "8dcbcb54-475d-4543-8d8e-61922c9486b1",
+            "artist_names": [
+                "Otaku"
+            ],
+            "discnumber": 1,
+            "duration_ms": 105616,
+            "isrc": "FRR642100508",
+            "listening_from": "spotify",
+            "recording_msid": "575dfb14-891b-4763-8e45-7c6190a31313",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "63f42d1c-e9f2-4f9f-8fb3-d163999b1f50",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1uI4PLi81Gpp0BEoIzShPn",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4k3bQolPVSky3itPqhsrlY",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:54:54",
+        "track_name": "The Girl With the Cappuccino",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Coffee Sunrise",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/451EMYReoEHbfvj75Pu1B9",
+        "listening_from": "spotify",
+        "isrc": "FRR642000861",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 114203,
+            "isrc": "FRR642000861",
+            "listening_from": "spotify",
+            "recording_msid": "9792714a-883b-4729-8c02-b9bd85710a3c",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "e7be88be-4abe-4d76-91fb-2ceda21a01c2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0XwkQlOYnYytSFggvVcvaE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/451EMYReoEHbfvj75Pu1B9",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:52:59",
+        "track_name": "The Girl Who Fell From The Sky (Laputa)",
+        "artist_name": "Sleepy Tom",
+        "release_name": "Ghibli, Anime & Chill",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX",
+        "listening_from": "spotify",
+        "isrc": "FRR642100642",
+        "additional_info": {
+            "artist_msid": "e4c8eba8-9ff7-4593-8d03-6a633c09df1a",
+            "artist_names": [
+                "Sleepy Tom"
+            ],
+            "discnumber": 1,
+            "duration_ms": 91725,
+            "isrc": "FRR642100642",
+            "listening_from": "spotify",
+            "recording_msid": "e27f0916-dbaf-4dad-82bf-d20eecfaea9c",
+            "release_artist_name": "Sleepy Tom",
+            "release_artist_names": [
+                "Sleepy Tom"
+            ],
+            "release_msid": "d5d01c62-b1c0-4091-ac6f-34e0aaaf57dc",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:51:27",
+        "track_name": "letting go",
+        "artist_name": "mood.",
+        "release_name": "letting go",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4PCMttKgDScL8IbN59lF11",
+        "listening_from": "spotify",
+        "isrc": "FRR642100104",
+        "additional_info": {
+            "artist_msid": "33824d80-b98f-4104-96ad-365f7c91a8ed",
+            "artist_names": [
+                "mood."
+            ],
+            "discnumber": 1,
+            "duration_ms": 102416,
+            "isrc": "FRR642100104",
+            "listening_from": "spotify",
+            "recording_msid": "cc98b7f0-db01-4e46-b273-5257862a172c",
+            "release_artist_name": "mood.",
+            "release_artist_names": [
+                "mood."
+            ],
+            "release_msid": "d979ef8b-b01f-4b01-bf73-99d6b06dce61",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1RZ20rR89O00egMOSmaR5I",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4PCMttKgDScL8IbN59lF11",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:49:45",
+        "track_name": "Marco and Gina",
+        "artist_name": "Otaku",
+        "release_name": "Ghibli Lofi",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/7E5eZ1ZGeqtIPIXIU5NceV",
+        "listening_from": "spotify",
+        "isrc": "FRR642101150",
+        "additional_info": {
+            "artist_msid": "8dcbcb54-475d-4543-8d8e-61922c9486b1",
+            "artist_names": [
+                "Otaku"
+            ],
+            "discnumber": 1,
+            "duration_ms": 109216,
+            "isrc": "FRR642101150",
+            "listening_from": "spotify",
+            "recording_msid": "d58eeaa6-7680-4ce5-a074-4c2d67891ee3",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "6a44ddbc-ad25-4ac8-a7e8-2453d2dd027c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0WNkHjW1cw2jONYUQWS4bi",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7E5eZ1ZGeqtIPIXIU5NceV",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:47:23",
+        "track_name": "One summer's day",
+        "artist_name": "Otaku, LoFi Waiter",
+        "release_name": "Ghibli Lofi",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/738ezpBPFkPV6zZmJLicaN",
+        "listening_from": "spotify",
+        "isrc": "FRR642101147",
+        "additional_info": {
+            "artist_msid": "42e6abe7-6d6f-4ef2-9a3f-a9fd3ae3752b",
+            "artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 127058,
+            "isrc": "FRR642101147",
+            "listening_from": "spotify",
+            "recording_msid": "30c1b8aa-ac96-4667-bc8d-123f3727077b",
+            "release_artist_name": "Otaku, LoFi Waiter",
+            "release_artist_names": [
+                "Otaku",
+                "LoFi Waiter"
+            ],
+            "release_msid": "6a44ddbc-ad25-4ac8-a7e8-2453d2dd027c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0WNkHjW1cw2jONYUQWS4bi",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA",
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/738ezpBPFkPV6zZmJLicaN",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:45:17",
+        "track_name": "Snowman",
+        "artist_name": "WYS",
+        "release_name": "1 Am. Study Session",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2Cd1uLyjCQXAdpG1oHLjfY",
+        "listening_from": "spotify",
+        "isrc": "TCAEN1970702",
+        "additional_info": {
+            "artist_msid": "ed8064ac-ef78-4b60-956f-96aacc4733be",
+            "artist_names": [
+                "WYS"
+            ],
+            "discnumber": 1,
+            "duration_ms": 195136,
+            "isrc": "TCAEN1970702",
+            "listening_from": "spotify",
+            "recording_msid": "00ac2ab0-0217-46b6-b2ad-df5a676b4261",
+            "release_artist_name": "Various Artists",
+            "release_artist_names": [
+                "Various Artists"
+            ],
+            "release_msid": "ea462fe9-4f12-48d8-9150-e0e334ecd351",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2Cd1uLyjCQXAdpG1oHLjfY",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:42:00",
+        "track_name": "Watching The Rain",
+        "artist_name": "LoFi Waiter",
+        "release_name": "Rainy Nights",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4HQEDrFbkrVo43WTtHCoDF",
+        "listening_from": "spotify",
+        "isrc": "FRR642001751",
+        "additional_info": {
+            "artist_msid": "fd338d08-6cba-4193-97b6-555967142f68",
+            "artist_names": [
+                "LoFi Waiter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 96616,
+            "isrc": "FRR642001751",
+            "listening_from": "spotify",
+            "recording_msid": "fe4e0159-ee09-4798-8ba3-b7d7b0d93a85",
+            "release_artist_name": "LoFi Waiter",
+            "release_artist_names": [
+                "LoFi Waiter"
+            ],
+            "release_msid": "1774c6cb-44b5-49a4-b206-61639c817714",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QbBN67FRqBXjionmvMeUt",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4HQEDrFbkrVo43WTtHCoDF",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:40:23",
+        "track_name": "Quiet Storm",
+        "artist_name": "Shierro",
+        "release_name": "Quiet Storm",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1QIsVlaCz3U5GfsEJE9O8L",
+        "listening_from": "spotify",
+        "isrc": "FRR642001236",
+        "additional_info": {
+            "artist_msid": "05201fa5-f093-47aa-bad7-f635fa8f16db",
+            "artist_names": [
+                "Shierro"
+            ],
+            "discnumber": 1,
+            "duration_ms": 124675,
+            "isrc": "FRR642001236",
+            "listening_from": "spotify",
+            "recording_msid": "014b52e6-87d4-4e1f-9ad6-0639f1f91ec3",
+            "release_artist_name": "Shierro",
+            "release_artist_names": [
+                "Shierro"
+            ],
+            "release_msid": "837ba16d-a9df-460a-a1fa-7cce8f1099ae",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7bPPEnIPRKGOYuMQ7RaOVK",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1QIsVlaCz3U5GfsEJE9O8L",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T09:37:47",
+        "track_name": "Controlla",
+        "artist_name": "Idealism",
+        "release_name": "rainy evening",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm",
+        "listening_from": "spotify",
+        "isrc": "QM42K1608245",
+        "additional_info": {
+            "artist_msid": "72d0fb5b-7995-475f-808f-4b0fa2184771",
+            "artist_names": [
+                "Idealism"
+            ],
+            "discnumber": 1,
+            "duration_ms": 108000,
+            "isrc": "QM42K1608245",
+            "listening_from": "spotify",
+            "recording_msid": "f7bc59c0-7b4c-4069-ac10-ce2c85ae8990",
+            "release_artist_name": "Idealism",
+            "release_artist_names": [
+                "Idealism"
+            ],
+            "release_msid": "2227d07d-4d2e-4843-b764-3714de4be76d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T00:22:06",
+        "track_name": "Slip Away",
+        "artist_name": "Nuno Seixas",
+        "release_name": "Slip Away",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5s5P6LNu6BmiSxkRjePskW",
+        "listening_from": "spotify",
+        "isrc": "PT8KA2100001",
+        "additional_info": {
+            "artist_msid": "eca7b4de-b86a-4efd-b65d-12bd06b3c0d6",
+            "artist_names": [
+                "Nuno Seixas"
+            ],
+            "discnumber": 1,
+            "duration_ms": 200097,
+            "isrc": "PT8KA2100001",
+            "listening_from": "spotify",
+            "recording_msid": "6759e31c-ef79-42bf-89e8-9656cda77e3c",
+            "release_artist_name": "Nuno Seixas",
+            "release_artist_names": [
+                "Nuno Seixas"
+            ],
+            "release_msid": "264983ed-891a-42b0-960c-affea18ce15a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7tmFQiNDUF7t2u3F1PyoXb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7ICPP0mQzwZ6be5LY1WlfE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7tmFQiNDUF7t2u3F1PyoXb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5s5P6LNu6BmiSxkRjePskW",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T00:09:15",
+        "track_name": "Confia",
+        "artist_name": "Matay",
+        "release_name": "Confia",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6cz3598dRMy6vhqxeS448a",
+        "listening_from": "spotify",
+        "isrc": "PT7ED2000294",
+        "additional_info": {
+            "artist_msid": "029bca46-1896-44c0-b008-0630f303e0dd",
+            "artist_names": [
+                "Matay"
+            ],
+            "discnumber": 1,
+            "duration_ms": 206400,
+            "isrc": "PT7ED2000294",
+            "listening_from": "spotify",
+            "recording_msid": "d804c259-b1ce-4b49-9a8f-9568f96fad68",
+            "release_artist_name": "Matay",
+            "release_artist_names": [
+                "Matay"
+            ],
+            "release_msid": "2e42a94a-199a-4c23-9b16-dec2ba494006",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0mQ2KL6r4mA1roPZRD7iQJ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/29T9Rv1GOyTkHg9aS3KRiD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0mQ2KL6r4mA1roPZRD7iQJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6cz3598dRMy6vhqxeS448a",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T00:04:33",
+        "track_name": "Entre N\u00f3s",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/7xl0FGueZITDMbdTCRGACA",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800018",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218465,
+            "isrc": "PTUM71800018",
+            "listening_from": "spotify",
+            "recording_msid": "76f69d7f-4ab7-4fbd-b135-84216bd1e4df",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7xl0FGueZITDMbdTCRGACA",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T00:00:55",
+        "track_name": "Lua",
+        "artist_name": "Ivandro",
+        "release_name": "Lua",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3",
+        "listening_from": "spotify",
+        "isrc": "PT9GN2200001",
+        "additional_info": {
+            "artist_msid": "d45db68c-00c2-4ebe-abf0-ea0007b5809a",
+            "artist_names": [
+                "Ivandro"
+            ],
+            "discnumber": 1,
+            "duration_ms": 192631,
+            "isrc": "PT9GN2200001",
+            "listening_from": "spotify",
+            "recording_msid": "f5b3a411-1a2a-46f3-ade9-23ac8ffdbb59",
+            "release_artist_name": "Ivandro",
+            "release_artist_names": [
+                "Ivandro"
+            ],
+            "release_msid": "30b77df4-301b-4214-88f2-f215c7129d42",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:40:44",
+        "track_name": "If the World Was Ending",
+        "artist_name": "Sebasti\u00e3o, Pipa",
+        "release_name": "If the World Was Ending",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1FqXuNoMyu2DgEiM6D2jP7",
+        "listening_from": "spotify",
+        "isrc": "QZGWW2056821",
+        "additional_info": {
+            "artist_msid": "a927c709-fb67-45bf-b65a-1a7ef31e98bf",
+            "artist_names": [
+                "Sebasti\u00e3o",
+                "Pipa"
+            ],
+            "discnumber": 1,
+            "duration_ms": 201717,
+            "isrc": "QZGWW2056821",
+            "listening_from": "spotify",
+            "recording_msid": "d908a97a-021f-4e5a-b4d4-2b46c4d06ab7",
+            "release_artist_name": "Sebasti\u00e3o",
+            "release_artist_names": [
+                "Sebasti\u00e3o"
+            ],
+            "release_msid": "00f8a8fb-6172-48f4-86b5-38b01c122c21",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/66EGA0q7UIs9HXKFEEVIZJ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6kDx65QSArpn8nBkWY0ajN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/66EGA0q7UIs9HXKFEEVIZJ",
+                "https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1FqXuNoMyu2DgEiM6D2jP7",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:37:23",
+        "track_name": "Cara Bonita",
+        "artist_name": "Vai e Vem, Alicia",
+        "release_name": "Vai e Vem I",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/2eAUcIJ5SQPRODUlJkq5Ca",
+        "listening_from": "spotify",
+        "isrc": "PTVI12100001",
+        "additional_info": {
+            "artist_msid": "144d9ff8-be37-442d-8d12-dbbdda681f2e",
+            "artist_names": [
+                "Vai e Vem",
+                "Alicia"
+            ],
+            "discnumber": 1,
+            "duration_ms": 161833,
+            "isrc": "PTVI12100001",
+            "listening_from": "spotify",
+            "recording_msid": "337c800d-f5c3-482a-828a-bebae526e6f1",
+            "release_artist_name": "Vai e Vem",
+            "release_artist_names": [
+                "Vai e Vem"
+            ],
+            "release_msid": "ca40ee7d-f05b-4b1e-beab-a031c25fee85",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6e65FdJvCZ0odppPawl9H8"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3KzJKIlNJf2DBAXqFPw2l2",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6e65FdJvCZ0odppPawl9H8",
+                "https://open.spotify.com/artist/3TnKHAglZypf9hxGt7OrDh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2eAUcIJ5SQPRODUlJkq5Ca",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:34:13",
+        "track_name": "Antes Dela Dizer Que Sim",
+        "artist_name": "B\u00e1rbara Tinoco",
+        "release_name": "Antes Dela Dizer Que Sim",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6PLVLWG3bjuKrvMJmwjps1",
+        "listening_from": "spotify",
+        "isrc": "GBSMU6298848",
+        "additional_info": {
+            "artist_msid": "fe107aa4-7db8-4c95-93b1-c34dbf696b93",
+            "artist_names": [
+                "B\u00e1rbara Tinoco"
+            ],
+            "discnumber": 1,
+            "duration_ms": 185196,
+            "isrc": "GBSMU6298848",
+            "listening_from": "spotify",
+            "recording_msid": "aec3c922-3172-479b-98cf-68b3f88d18a5",
+            "release_artist_name": "B\u00e1rbara Tinoco",
+            "release_artist_names": [
+                "B\u00e1rbara Tinoco"
+            ],
+            "release_msid": "b7860869-0b70-4ddf-a0d7-ef8ced7d5e85",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/52HVvc0qKj6WzMNg9h2lGk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6PLVLWG3bjuKrvMJmwjps1",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:31:09",
+        "track_name": "Voltas",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Voltas",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3K53RODdfVk8K9yv3GCPQP",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800022",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228539,
+            "isrc": "PTUM71800022",
+            "listening_from": "spotify",
+            "recording_msid": "e7559b4f-e7be-420e-9c83-d0da5020ea8c",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "fec5d3e4-48b9-4463-916d-bd02fef08242",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3Ooq25lldUtBsA109yICMM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3K53RODdfVk8K9yv3GCPQP",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:27:00",
+        "track_name": "Fim",
+        "artist_name": "Fernando Daniel, Carolina Deslandes",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 16,
+        "spotify_id": "https://open.spotify.com/track/2TVCq0XpuW4sphbYsokQxq",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100738",
+        "additional_info": {
+            "artist_msid": "3d4e5960-81f2-49fb-ac50-02f829b3902e",
+            "artist_names": [
+                "Fernando Daniel",
+                "Carolina Deslandes"
+            ],
+            "discnumber": 1,
+            "duration_ms": 227520,
+            "isrc": "PTUM72100738",
+            "listening_from": "spotify",
+            "recording_msid": "173d7b81-7e68-46c6-b4ec-2a9b897f63aa",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2TVCq0XpuW4sphbYsokQxq",
+            "tracknumber": 16
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:23:12",
+        "track_name": "Se Eu",
+        "artist_name": "Fernando Daniel, Melim",
+        "release_name": "Se Eu",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/60sz5NvSVHHTiaC02QuvaR",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900221",
+        "additional_info": {
+            "artist_msid": "dc49aac8-b797-448d-b5a9-f4959f72fba6",
+            "artist_names": [
+                "Fernando Daniel",
+                "Melim"
+            ],
+            "discnumber": 1,
+            "duration_ms": 197441,
+            "isrc": "PTUM71900221",
+            "listening_from": "spotify",
+            "recording_msid": "c0cf6519-3549-41cd-8bf2-dae826ae97d8",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "48a4f3e8-43c0-4ed1-aa38-dc1e8767cef5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/287db6J2ekhd751KeSQAfk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/60sz5NvSVHHTiaC02QuvaR",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:19:57",
+        "track_name": "Melodia Da Saudade - Radio Edit",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Melodia Da Saudade (Radio Edit)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5qI0ojfBia9ThXpeA4PNLI",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900182",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 272334,
+            "isrc": "PTUM71900182",
+            "listening_from": "spotify",
+            "recording_msid": "bd13ddfe-bc45-444d-b974-d937fe4eaf94",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "4dd51b8e-3439-480f-922c-6c3c972079fb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7kqx9vl6Pa84wxENaEXJrY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5qI0ojfBia9ThXpeA4PNLI",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:15:27",
+        "track_name": "Nada A Perder",
+        "artist_name": "Fernando Daniel, Carl\u00e3o",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/6uDSJT1ztG94zMh0hJUEg8",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100739",
+        "additional_info": {
+            "artist_msid": "d2f4e26a-b07f-4233-939e-ba287bae86bc",
+            "artist_names": [
+                "Fernando Daniel",
+                "Carl\u00e3o"
+            ],
+            "discnumber": 1,
+            "duration_ms": 191000,
+            "isrc": "PTUM72100739",
+            "listening_from": "spotify",
+            "recording_msid": "cbdbb1a1-b7f2-47c0-acf3-3d3810610379",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6uDSJT1ztG94zMh0hJUEg8",
+            "tracknumber": 15
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:12:18",
+        "track_name": "Nada Mais",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3XaIDqKljGF3KXSpWYQ4pG",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800001",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 171142,
+            "isrc": "PTUM71800001",
+            "listening_from": "spotify",
+            "recording_msid": "20e4c224-c70e-4ed4-aca3-e2de424550dc",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3XaIDqKljGF3KXSpWYQ4pG",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:08:58",
+        "track_name": "Entre N\u00f3s",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/7xl0FGueZITDMbdTCRGACA",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800018",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218465,
+            "isrc": "PTUM71800018",
+            "listening_from": "spotify",
+            "recording_msid": "76f69d7f-4ab7-4fbd-b135-84216bd1e4df",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7xl0FGueZITDMbdTCRGACA",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:05:22",
+        "track_name": "Sem Ti",
+        "artist_name": "Fernando Daniel, Agir",
+        "release_name": "Sem Ti",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3s16pawjq0MQVgv2MG08dz",
+        "listening_from": "spotify",
+        "isrc": "PTUM72001155",
+        "additional_info": {
+            "artist_msid": "0f2efe11-434a-466d-9080-c4ef1bc52965",
+            "artist_names": [
+                "Fernando Daniel",
+                "Agir"
+            ],
+            "discnumber": 1,
+            "duration_ms": 226046,
+            "isrc": "PTUM72001155",
+            "listening_from": "spotify",
+            "recording_msid": "8ee2c67d-2786-4359-9845-c1139e7ec074",
+            "release_artist_name": "Fernando Daniel, Agir",
+            "release_artist_names": [
+                "Fernando Daniel",
+                "Agir"
+            ],
+            "release_msid": "46cbe5da-c4e0-4906-ad7d-e9ce461846f6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5L8PubcV5Rq72B9oHSED7f",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3s16pawjq0MQVgv2MG08dz",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T23:00:36",
+        "track_name": "Sem Medo",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0v2rjttl94cRu2tiUvbfG1",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000038",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 168346,
+            "isrc": "PTUM72000038",
+            "listening_from": "spotify",
+            "recording_msid": "0498bfd2-3df2-4fe6-9c7c-91f31e55b477",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0v2rjttl94cRu2tiUvbfG1",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:57:50",
+        "track_name": "Voltas",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Voltas",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3K53RODdfVk8K9yv3GCPQP",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800022",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228539,
+            "isrc": "PTUM71800022",
+            "listening_from": "spotify",
+            "recording_msid": "e7559b4f-e7be-420e-9c83-d0da5020ea8c",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "fec5d3e4-48b9-4463-916d-bd02fef08242",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3Ooq25lldUtBsA109yICMM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3K53RODdfVk8K9yv3GCPQP",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:54:03",
+        "track_name": "Encontrar",
+        "artist_name": "Fernando Daniel, Piruka",
+        "release_name": "+ Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 17,
+        "spotify_id": "https://open.spotify.com/track/0yX2v6cVWzxNX9hOs34Tuk",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100742",
+        "additional_info": {
+            "artist_msid": "e5590098-b6f5-4d03-9041-d6267d6e1c64",
+            "artist_names": [
+                "Fernando Daniel",
+                "Piruka"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198920,
+            "isrc": "PTUM72100742",
+            "listening_from": "spotify",
+            "recording_msid": "7cfd4bea-c35f-4ba7-9824-d834347bff3c",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "297b3917-3e70-437a-ac08-cb6be7ab2f87",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A5nrjjkIj5mcEwmIenm94",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC",
+                "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0yX2v6cVWzxNX9hOs34Tuk",
+            "tracknumber": 17
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:50:16",
+        "track_name": "Cair",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Cair",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/41eVlDU0RyEwaxhuSuzTWG",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000031",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 204360,
+            "isrc": "PTUM72000031",
+            "listening_from": "spotify",
+            "recording_msid": "bddb638e-d4c6-4e1f-9156-5f3f86ec5d9d",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "d9b321ee-4577-48f3-a54b-500fb4f4409d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5KdyJWi9bn2qcHL8U067pJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/41eVlDU0RyEwaxhuSuzTWG",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:46:51",
+        "track_name": "Nada Resulta",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4zqrngqWEvHPC70xnf70C7",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000035",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 201666,
+            "isrc": "PTUM72000035",
+            "listening_from": "spotify",
+            "recording_msid": "c26e19fd-1759-4490-942a-5b56608d4659",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4zqrngqWEvHPC70xnf70C7",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:43:09",
+        "track_name": "M\u00e1goa",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4De19krJP2mEUeRBSrm7AZ",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800016",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218062,
+            "isrc": "PTUM71800016",
+            "listening_from": "spotify",
+            "recording_msid": "cfeec32e-417b-4cad-ba0b-051b0d1c4915",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4De19krJP2mEUeRBSrm7AZ",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:38:11",
+        "track_name": "D\u00e1-me Um Sinal",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/6MrbpC74wuRh7YVZetK6Ks",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800017",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 189121,
+            "isrc": "PTUM71800017",
+            "listening_from": "spotify",
+            "recording_msid": "f63b0bb1-3871-469e-ae52-23d98d0d32d5",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6MrbpC74wuRh7YVZetK6Ks",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:34:34",
+        "track_name": "In Love",
+        "artist_name": "David Carreira, Fernando Daniel",
+        "release_name": "BPP (Live)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/1DFeAL95UZdCtSuuoHiP5X",
+        "listening_from": "spotify",
+        "isrc": "PT5HD2110011",
+        "additional_info": {
+            "artist_msid": "1ef406a5-c71d-4fe4-a810-45d8f0281252",
+            "artist_names": [
+                "David Carreira",
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 309240,
+            "isrc": "PT5HD2110011",
+            "listening_from": "spotify",
+            "recording_msid": "2b946e76-77ba-468c-8527-49b66357638b",
+            "release_artist_name": "David Carreira",
+            "release_artist_names": [
+                "David Carreira"
+            ],
+            "release_msid": "1c242021-ee73-4476-81b9-a9e99fb7d018",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/29fHjpSF6wkNwNzKNmlrWr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch",
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1DFeAL95UZdCtSuuoHiP5X",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:29:26",
+        "track_name": "Nunca",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Presente",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/71pMnxwLmPtrgmsJIVgOMc",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000036",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 220000,
+            "isrc": "PTUM72000036",
+            "listening_from": "spotify",
+            "recording_msid": "b140cab8-b4dc-498b-afed-e37ff276479a",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "1100f06d-70ef-49fd-a4e2-850745ba585b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0KkVvLjS5RucnHXI8t13un",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/71pMnxwLmPtrgmsJIVgOMc",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:25:24",
+        "track_name": "At\u00e9 Voltares",
+        "artist_name": "Jimmy P, Fernando Daniel",
+        "release_name": "At\u00e9 Voltares",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/32RCiyQ7cemhwxAYdk9JaY",
+        "listening_from": "spotify",
+        "isrc": "ES71G1946050",
+        "additional_info": {
+            "artist_msid": "3d77c517-d902-4c4a-94a5-5f7b38ce636c",
+            "artist_names": [
+                "Jimmy P",
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 223228,
+            "isrc": "ES71G1946050",
+            "listening_from": "spotify",
+            "recording_msid": "b8e0ee71-0db8-4bbc-868b-de06f5309b5a",
+            "release_artist_name": "Jimmy P, Fernando Daniel",
+            "release_artist_names": [
+                "Jimmy P",
+                "Fernando Daniel"
+            ],
+            "release_msid": "9b5f3ed1-8796-4094-9ce1-5311f63581ac",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU",
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3xmD2YzKD17gOTqzgvepem",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU",
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/32RCiyQ7cemhwxAYdk9JaY",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:20:42",
+        "track_name": "Espera",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/40yNT5SxHCDwESmtG98ugc",
+        "listening_from": "spotify",
+        "isrc": "PTUM71700231",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 209219,
+            "isrc": "PTUM71700231",
+            "listening_from": "spotify",
+            "recording_msid": "1d4a572f-6953-4839-b931-86d1e397b47f",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/40yNT5SxHCDwESmtG98ugc",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:17:14",
+        "track_name": "Mem\u00f3ria",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Salto",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/4eacJXq1tD9hs4saSd4pD5",
+        "listening_from": "spotify",
+        "isrc": "PTUM71800019",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 213357,
+            "isrc": "PTUM71800019",
+            "listening_from": "spotify",
+            "recording_msid": "2eff8523-afed-4ae2-a891-185cbd8ba609",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "0b20cc83-dc10-4b6f-8ca2-7173bdb9c389",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6l7XrlFz1G8SbE4k0A5nwS",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4eacJXq1tD9hs4saSd4pD5",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:13:43",
+        "track_name": "Raro",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Raro",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0gOKxWywNtopkgmE2NabRn",
+        "listening_from": "spotify",
+        "isrc": "PTUM72100632",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 174500,
+            "isrc": "PTUM72100632",
+            "listening_from": "spotify",
+            "recording_msid": "aa6ca2f5-1c8b-449b-96b3-44ecaa7403ce",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "098be9a2-31b7-4005-9a8a-6f2a79e3a07a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1ANm4HLKhZv6XwuwKuNnlo",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0gOKxWywNtopkgmE2NabRn",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:10:20",
+        "track_name": "Tal Como Sou",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Tal Como Sou",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1Ow1gItnI7alCezwAhygT7",
+        "listening_from": "spotify",
+        "isrc": "PTUM71900122",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 172477,
+            "isrc": "PTUM71900122",
+            "listening_from": "spotify",
+            "recording_msid": "3dda716d-4d57-405f-afdf-471424d4f354",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "dbe7f1f6-e68c-4120-96a6-d0ef0b121cd4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/30323rULSUtbPqxzHNQiVf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1Ow1gItnI7alCezwAhygT7",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T22:07:29",
+        "track_name": "Recome\u00e7ar",
+        "artist_name": "Fernando Daniel",
+        "release_name": "Recome\u00e7ar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6aMNlSLoCe9lPnn8X60www",
+        "listening_from": "spotify",
+        "isrc": "PTUM72000037",
+        "additional_info": {
+            "artist_msid": "2be9d301-12e7-4fed-86a5-b4c76fd4b39d",
+            "artist_names": [
+                "Fernando Daniel"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218760,
+            "isrc": "PTUM72000037",
+            "listening_from": "spotify",
+            "recording_msid": "a8cef776-3638-4227-801e-be2994890b9d",
+            "release_artist_name": "Fernando Daniel",
+            "release_artist_names": [
+                "Fernando Daniel"
+            ],
+            "release_msid": "bbe88ce3-dade-4963-bcdd-337230efdb71",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0vHZYpHvzLEbgSFJOka8RX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6aMNlSLoCe9lPnn8X60www",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

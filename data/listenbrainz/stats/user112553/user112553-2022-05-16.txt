@@ -1,45 +1,45 @@
-Electronic artists found: LVNDSCAPE, Rudimental,James Arthur, Grabbitz, Harold Melvin & The Blue Notes,Teddy Pendergrass
-Electronic genres found: uk funky, edm, tropical house, pop edm, deep tropical house, gaming edm, electro house, disco, brostep, deep house
-Electronic music logs found: 7.32% 
+Electronic artists found: Grabbitz, LVNDSCAPE, Harold Melvin & The Blue Notes,Teddy Pendergrass, Rudimental,James Arthur
+Electronic genres found: edm, tropical house, electro house, deep tropical house, disco, deep house, uk funky, pop edm, brostep, gaming edm
+Electronic music logs found: 7.23% 
 
 Top genres
-	1: gen z singer-songwriter (9.27%)
-	2: edm (3.31%)
-	3: alt z (2.65%)
-	4: pop (2.65%)
-	5: hip hop tuga (2.65%)
+	1: gen z singer-songwriter (9.40%)
+	2: pop (4.03%)
+	3: alt z (3.36%)
+	4: edm (3.36%)
+	5: hip hop tuga (2.68%)
 Top artists
-	1: Rudimental (1.89%)
-	2: Suriel Hess (1.89%)
-	3: Karetus (1.89%)
-	4: LVNDSCAPE (1.89%)
-	5: White Dave (1.89%)
+	1: Future (1.85%)
+	2: Grabbitz (1.85%)
+	3: Karetus (1.85%)
+	4: Peyton Cardoza (1.85%)
+	5: LVNDSCAPE (1.85%)
 Top country
-	1: US (36.59%)
-	2: QZ (9.76%)
-	3: DE (8.54%)
-	4: GB (7.32%)
-	5: QM (6.10%)
+	1: US (36.14%)
+	2: QZ (9.64%)
+	3: DE (8.43%)
+	4: GB (7.23%)
+	5: QM (6.02%)
 Top record
-	1: WB1 (15.85%)
-	2: UM7 (12.20%)
-	3: AT2 (6.10%)
-	4: SM1 (6.10%)
-	5: C24 (4.88%)
+	1: WB1 (15.66%)
+	2: UM7 (13.25%)
+	3: AT2 (6.02%)
+	4: SM1 (6.02%)
+	5: C24 (4.82%)
 Top year
-	1: 22 (47.56%)
-	2: 21 (26.83%)
-	3: 20 (6.10%)
-	4: 15 (6.10%)
-	5: 17 (2.44%)
+	1: 22 (46.99%)
+	2: 21 (27.71%)
+	3: 20 (6.02%)
+	4: 15 (6.02%)
+	5: 17 (2.41%)
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   82.000000     82.000000     82.000000         82.000000    82.000000   82.000000  82.000000  82.000000
-mean    61.487805      0.371638      0.641012          0.000977     0.158006  115.103341   0.442955   0.606598
-std     14.870008      0.337096      0.121443          0.003327     0.162412   21.751517   0.197144   0.164896
+count   83.000000     83.000000     83.000000         83.000000    83.000000   83.000000  83.000000  83.000000
+mean    63.939759      0.376329      0.641422          0.000965     0.156637  114.849386   0.442148   0.605590
+std     14.913040      0.337749      0.120757          0.003308     0.161899   21.741932   0.196076   0.164144
 min     13.000000      0.000261      0.216000          0.000000     0.029900   71.502000   0.084300   0.335000
-25%     56.250000      0.099500      0.560000          0.000000     0.041375   99.987000   0.324000   0.436000
-50%     65.000000      0.200000      0.649000          0.000000     0.069100  115.005000   0.404000   0.608000
-75%     73.000000      0.697750      0.728000          0.000065     0.230000  121.967000   0.559250   0.707000
-max     84.000000      0.926000      0.854000          0.024500     0.491000  180.088000   0.982000   0.913000
+25%     60.000000      0.099500      0.560000          0.000000     0.041650   99.922500   0.324000   0.436000
+50%     66.000000      0.200000      0.650000          0.000000     0.068400  114.967000   0.402000   0.608000
+75%     77.000000      0.705000      0.728000          0.000055     0.230000  121.967000   0.557500   0.707000
+max     83.000000      0.926000      0.854000          0.024500     0.491000  180.088000   0.982000   0.913000

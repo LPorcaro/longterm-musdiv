@@ -1,0 +1,512 @@
+[
+    {
+        "listened_at": "2022-05-24T12:38:25",
+        "track_name": "La Buena Vida",
+        "artist_name": "Camila Cabello",
+        "release_name": "Familia",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/47bzJjh9bAbo3s3NHSK4r8",
+        "listening_from": "spotify",
+        "isrc": "USSM12108856",
+        "additional_info": {
+            "artist_msid": "78180459-0eac-4664-87d6-2a729ac0f5af",
+            "artist_names": [
+                "Camila Cabello"
+            ],
+            "discnumber": 1,
+            "duration_ms": 197330,
+            "isrc": "USSM12108856",
+            "listening_from": "spotify",
+            "recording_msid": "32eb0a78-9214-40b7-820f-358c0e102592",
+            "release_artist_name": "Camila Cabello",
+            "release_artist_names": [
+                "Camila Cabello"
+            ],
+            "release_msid": "af26081a-ba2f-46f8-9323-065e014136db",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/47bzJjh9bAbo3s3NHSK4r8",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T12:37:42",
+        "track_name": "Bam Bam (feat. Ed Sheeran)",
+        "artist_name": "Camila Cabello, Ed Sheeran",
+        "release_name": "Familia",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v",
+        "listening_from": "spotify",
+        "isrc": "USSM12200047",
+        "additional_info": {
+            "artist_msid": "ac2a489e-211d-4ec2-82c8-cf7c439ae820",
+            "artist_names": [
+                "Camila Cabello",
+                "Ed Sheeran"
+            ],
+            "discnumber": 1,
+            "duration_ms": 206070,
+            "isrc": "USSM12200047",
+            "listening_from": "spotify",
+            "recording_msid": "ea3edd13-45ce-442c-8ea4-9aa395a457f4",
+            "release_artist_name": "Camila Cabello",
+            "release_artist_names": [
+                "Camila Cabello"
+            ],
+            "release_msid": "af26081a-ba2f-46f8-9323-065e014136db",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
+                "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T10:18:20",
+        "track_name": "Bam Bam (feat. Ed Sheeran)",
+        "artist_name": "Camila Cabello, Ed Sheeran",
+        "release_name": "Familia",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v",
+        "listening_from": "spotify",
+        "isrc": "USSM12200047",
+        "additional_info": {
+            "artist_msid": "ac2a489e-211d-4ec2-82c8-cf7c439ae820",
+            "artist_names": [
+                "Camila Cabello",
+                "Ed Sheeran"
+            ],
+            "discnumber": 1,
+            "duration_ms": 206070,
+            "isrc": "USSM12200047",
+            "listening_from": "spotify",
+            "recording_msid": "ea3edd13-45ce-442c-8ea4-9aa395a457f4",
+            "release_artist_name": "Camila Cabello",
+            "release_artist_names": [
+                "Camila Cabello"
+            ],
+            "release_msid": "af26081a-ba2f-46f8-9323-065e014136db",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
+                "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T10:13:57",
+        "track_name": "bleachers",
+        "artist_name": "templuv",
+        "release_name": "bleachers",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6VI4OmjLh5NBzfdW4INBi1",
+        "listening_from": "spotify",
+        "isrc": "QZHN42286473",
+        "additional_info": {
+            "artist_msid": "10c1562c-3436-40d9-b6de-245ac6d711a8",
+            "artist_names": [
+                "templuv"
+            ],
+            "discnumber": 1,
+            "duration_ms": 129798,
+            "isrc": "QZHN42286473",
+            "listening_from": "spotify",
+            "recording_msid": "f037dafe-8120-4336-8a76-3bc9d1262b7e",
+            "release_artist_name": "templuv",
+            "release_artist_names": [
+                "templuv"
+            ],
+            "release_msid": "eb1d3ba2-573b-4791-9cca-cde7122b5d62",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7c4qQ1lik128TAf5e1ELbS"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/30RGNOKrBS370Hbuz5KnKD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7c4qQ1lik128TAf5e1ELbS"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6VI4OmjLh5NBzfdW4INBi1",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T10:08:19",
+        "track_name": "florida",
+        "artist_name": "mxmtoon",
+        "release_name": "rising",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/0XL6rCJFJsPhuCRJQER8ap",
+        "listening_from": "spotify",
+        "isrc": "GBKPL2290705",
+        "additional_info": {
+            "artist_msid": "5cf67335-d782-49a1-96c6-9cecce9cba55",
+            "artist_names": [
+                "mxmtoon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 167480,
+            "isrc": "GBKPL2290705",
+            "listening_from": "spotify",
+            "recording_msid": "bd2b94c9-16e5-4cdd-ac22-e8047a22418f",
+            "release_artist_name": "mxmtoon",
+            "release_artist_names": [
+                "mxmtoon"
+            ],
+            "release_msid": "cad91917-a11e-4688-abab-4819c9620cc1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0XL6rCJFJsPhuCRJQER8ap",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T10:05:31",
+        "track_name": "frown",
+        "artist_name": "mxmtoon",
+        "release_name": "rising",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp",
+        "listening_from": "spotify",
+        "isrc": "GBKPL2290704",
+        "additional_info": {
+            "artist_msid": "5cf67335-d782-49a1-96c6-9cecce9cba55",
+            "artist_names": [
+                "mxmtoon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 139386,
+            "isrc": "GBKPL2290704",
+            "listening_from": "spotify",
+            "recording_msid": "1525c547-e48d-45af-86fa-319742ae07aa",
+            "release_artist_name": "mxmtoon",
+            "release_artist_names": [
+                "mxmtoon"
+            ],
+            "release_msid": "cad91917-a11e-4688-abab-4819c9620cc1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T10:03:09",
+        "track_name": "sad disco",
+        "artist_name": "mxmtoon",
+        "release_name": "rising",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/5QvbMioQZAEqN04tYUnCLv",
+        "listening_from": "spotify",
+        "isrc": "GBKPL2287672",
+        "additional_info": {
+            "artist_msid": "5cf67335-d782-49a1-96c6-9cecce9cba55",
+            "artist_names": [
+                "mxmtoon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 183449,
+            "isrc": "GBKPL2287672",
+            "listening_from": "spotify",
+            "recording_msid": "3a985998-75a3-49ee-92a0-fea28e1d417b",
+            "release_artist_name": "mxmtoon",
+            "release_artist_names": [
+                "mxmtoon"
+            ],
+            "release_msid": "cad91917-a11e-4688-abab-4819c9620cc1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5QvbMioQZAEqN04tYUnCLv",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T10:00:05",
+        "track_name": "victim of nostalgia",
+        "artist_name": "mxmtoon",
+        "release_name": "rising",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/3MxTQKJCN6VqT84NPLeK14",
+        "listening_from": "spotify",
+        "isrc": "GBKPL2290703",
+        "additional_info": {
+            "artist_msid": "5cf67335-d782-49a1-96c6-9cecce9cba55",
+            "artist_names": [
+                "mxmtoon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 156906,
+            "isrc": "GBKPL2290703",
+            "listening_from": "spotify",
+            "recording_msid": "be80f8ee-0ed3-4026-a70d-a1f234c55856",
+            "release_artist_name": "mxmtoon",
+            "release_artist_names": [
+                "mxmtoon"
+            ],
+            "release_msid": "cad91917-a11e-4688-abab-4819c9620cc1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3MxTQKJCN6VqT84NPLeK14",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T09:57:27",
+        "track_name": "learn to love you",
+        "artist_name": "mxmtoon",
+        "release_name": "rising",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0R2T1MAVt8WbnNZi8Xj3Py",
+        "listening_from": "spotify",
+        "isrc": "GBKPL2290702",
+        "additional_info": {
+            "artist_msid": "5cf67335-d782-49a1-96c6-9cecce9cba55",
+            "artist_names": [
+                "mxmtoon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 132653,
+            "isrc": "GBKPL2290702",
+            "listening_from": "spotify",
+            "recording_msid": "80ec8463-7277-4c68-9c00-fcb1b5802e56",
+            "release_artist_name": "mxmtoon",
+            "release_artist_names": [
+                "mxmtoon"
+            ],
+            "release_msid": "cad91917-a11e-4688-abab-4819c9620cc1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0R2T1MAVt8WbnNZi8Xj3Py",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T09:54:42",
+        "track_name": "mona lisa",
+        "artist_name": "mxmtoon",
+        "release_name": "rising",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6tJOpzHYBF6Ym2gmmQy9mE",
+        "listening_from": "spotify",
+        "isrc": "GBKPL2278099",
+        "additional_info": {
+            "artist_msid": "5cf67335-d782-49a1-96c6-9cecce9cba55",
+            "artist_names": [
+                "mxmtoon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 190052,
+            "isrc": "GBKPL2278099",
+            "listening_from": "spotify",
+            "recording_msid": "ed01ef7d-ab44-41ed-8b4d-d9839f0e7290",
+            "release_artist_name": "mxmtoon",
+            "release_artist_names": [
+                "mxmtoon"
+            ],
+            "release_msid": "cad91917-a11e-4688-abab-4819c9620cc1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6tJOpzHYBF6Ym2gmmQy9mE",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T03:29:04",
+        "track_name": "If You're Broke I'm Busy",
+        "artist_name": "April Fooze, Ryan King",
+        "release_name": "If You're Broke I'm Busy",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/74BsYtp6KX7as5uitssaBq",
+        "listening_from": "spotify",
+        "isrc": "QZES62257115",
+        "additional_info": {
+            "artist_msid": "97b728fb-b713-49d9-b7bd-eb09af468522",
+            "artist_names": [
+                "April Fooze",
+                "Ryan King"
+            ],
+            "discnumber": 1,
+            "duration_ms": 141000,
+            "isrc": "QZES62257115",
+            "listening_from": "spotify",
+            "recording_msid": "fd57ee8f-b7f8-4eb8-93c2-d20fe8beb9d5",
+            "release_artist_name": "April Fooze",
+            "release_artist_names": [
+                "April Fooze"
+            ],
+            "release_msid": "c0ba144f-3de9-42c3-b768-0ce53d9fe827",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7ESLon2DXikMkiPW6xne9S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1OItREbez6N6xfa9VDUH0N",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7ESLon2DXikMkiPW6xne9S",
+                "https://open.spotify.com/artist/1Lci40lzpAXaiylv2zT8oD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/74BsYtp6KX7as5uitssaBq",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T03:28:57",
+        "track_name": "bleachers",
+        "artist_name": "templuv",
+        "release_name": "bleachers",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6VI4OmjLh5NBzfdW4INBi1",
+        "listening_from": "spotify",
+        "isrc": "QZHN42286473",
+        "additional_info": {
+            "artist_msid": "10c1562c-3436-40d9-b6de-245ac6d711a8",
+            "artist_names": [
+                "templuv"
+            ],
+            "discnumber": 1,
+            "duration_ms": 129798,
+            "isrc": "QZHN42286473",
+            "listening_from": "spotify",
+            "recording_msid": "f037dafe-8120-4336-8a76-3bc9d1262b7e",
+            "release_artist_name": "templuv",
+            "release_artist_names": [
+                "templuv"
+            ],
+            "release_msid": "eb1d3ba2-573b-4791-9cca-cde7122b5d62",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7c4qQ1lik128TAf5e1ELbS"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/30RGNOKrBS370Hbuz5KnKD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7c4qQ1lik128TAf5e1ELbS"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6VI4OmjLh5NBzfdW4INBi1",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

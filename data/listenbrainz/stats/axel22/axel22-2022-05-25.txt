@@ -1,0 +1,45 @@
+Electronic artists found: Gigi D'Agostino, Moby,Debbie Harry, Dubdogz,Brannco,Rodrigo Luca, Avicii, Safri Duo, David Guetta,Sam Martin, David Guetta
+Electronic genres found: electronica, brazilian edm, eurodance, italo dance, downtempo, brazilian bass, edm
+Electronic music logs found: 80.00% 
+
+Top genres
+	1: dance pop (12.12%)
+	2: edm (12.12%)
+	3: pop (12.12%)
+	4: pop dance (12.12%)
+	5: big room (6.06%)
+Top artists
+	1: Gigi D'Agostino (6.25%)
+	2: Sam Martin (6.25%)
+	3: Queen (6.25%)
+	4: WADD (6.25%)
+	5: Rodrigo Luca (6.25%)
+Top country
+	1: GB (40.00%)
+	2: CH (10.00%)
+	3: TC (10.00%)
+	4: ES (10.00%)
+	5: NL (10.00%)
+Top record
+	1: UM7 (20.00%)
+	2: 28K (20.00%)
+	3: 313 (10.00%)
+	4: ADU (10.00%)
+	5: 84S (10.00%)
+Top year
+	1: 10 (20.00%)
+	2: 14 (20.00%)
+	3: 13 (20.00%)
+	4: 18 (10.00%)
+	5: 17 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   10.000000     10.000000     10.000000         10.000000    10.000000   10.000000  10.000000  10.000000
+mean    60.500000      0.036894      0.576200          0.093987     0.042080  135.033700   0.408400   0.833100
+std     17.373351      0.033400      0.093928          0.276420     0.009587   20.874019   0.246692   0.072053
+min     25.000000      0.000380      0.347000          0.000004     0.030200  123.009000   0.035000   0.745000
+25%     57.500000      0.009795      0.549000          0.000048     0.034625  124.288750   0.217500   0.777000
+50%     64.500000      0.024650      0.595000          0.000712     0.039950  127.507000   0.372000   0.822000
+75%     70.000000      0.061425      0.637000          0.017310     0.050125  136.029750   0.624250   0.876750
+max     83.000000      0.093200      0.670000          0.880000     0.056900  192.118000   0.743000   0.970000

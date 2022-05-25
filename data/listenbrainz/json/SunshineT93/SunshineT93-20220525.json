@@ -1,0 +1,2032 @@
+[
+    {
+        "listened_at": "2022-05-25T10:12:40",
+        "track_name": "Believer",
+        "artist_name": "Imagine Dragons",
+        "release_name": "Evolve",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+        "listening_from": "spotify",
+        "isrc": "USUM71700626",
+        "additional_info": {
+            "artist_msid": "fecda98e-0533-4b87-a9d1-c89b4521918b",
+            "artist_names": [
+                "Imagine Dragons"
+            ],
+            "discnumber": 1,
+            "duration_ms": 204346,
+            "isrc": "USUM71700626",
+            "listening_from": "spotify",
+            "recording_msid": "0f1bc8c2-a9e5-4a78-82ca-ff39c4deb04b",
+            "release_artist_name": "Imagine Dragons",
+            "release_artist_names": [
+                "Imagine Dragons"
+            ],
+            "release_msid": "a094c0cb-54f3-48ca-a279-b110883726e7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T10:08:12",
+        "track_name": "you should see me in a crown",
+        "artist_name": "Billie Eilish",
+        "release_name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
+        "listening_from": "spotify",
+        "isrc": "USUM71810049",
+        "additional_info": {
+            "artist_msid": "f9ee09fb-5ab4-46a2-9088-3eac0eed4920",
+            "artist_names": [
+                "Billie Eilish"
+            ],
+            "discnumber": 1,
+            "duration_ms": 180952,
+            "isrc": "USUM71810049",
+            "listening_from": "spotify",
+            "recording_msid": "74c2f6ca-7d3c-44cc-a797-5f856721c34c",
+            "release_artist_name": "Billie Eilish",
+            "release_artist_names": [
+                "Billie Eilish"
+            ],
+            "release_msid": "4635dd12-8749-4773-b925-95a3b5d62a85",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T09:59:16",
+        "track_name": "HONEY",
+        "artist_name": "Solar",
+        "release_name": "\u5bb9 : FACE",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n",
+        "listening_from": "spotify",
+        "isrc": "KRA382203888",
+        "additional_info": {
+            "artist_msid": "802de255-f7ce-4327-9e5e-546f0e0339ed",
+            "artist_names": [
+                "Solar"
+            ],
+            "discnumber": 1,
+            "duration_ms": 167626,
+            "isrc": "KRA382203888",
+            "listening_from": "spotify",
+            "recording_msid": "d34b87c9-9a70-4ece-a952-af5e80d9af1b",
+            "release_artist_name": "Solar",
+            "release_artist_names": [
+                "Solar"
+            ],
+            "release_msid": "7411d724-4eca-4358-a9b0-338b92050f19",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T09:54:55",
+        "track_name": "MANIAC",
+        "artist_name": "Stray Kids",
+        "release_name": "ODDINARY",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR",
+        "listening_from": "spotify",
+        "isrc": "US5TA2200027",
+        "additional_info": {
+            "artist_msid": "ad11bf90-ed19-438e-b661-8e3a8f922124",
+            "artist_names": [
+                "Stray Kids"
+            ],
+            "discnumber": 1,
+            "duration_ms": 182757,
+            "isrc": "US5TA2200027",
+            "listening_from": "spotify",
+            "recording_msid": "bdd7f841-6299-44f1-8c13-98d767e94b1b",
+            "release_artist_name": "Stray Kids",
+            "release_artist_names": [
+                "Stray Kids"
+            ],
+            "release_msid": "b5aa7f14-eb36-4660-875c-1b94cc5f4f1b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            ],
+            "spotify_id": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:39:43",
+        "track_name": "MANIAC",
+        "artist_name": "Stray Kids",
+        "release_name": "ODDINARY",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR",
+        "listening_from": "spotify",
+        "isrc": "US5TA2200027",
+        "additional_info": {
+            "artist_msid": "ad11bf90-ed19-438e-b661-8e3a8f922124",
+            "artist_names": [
+                "Stray Kids"
+            ],
+            "discnumber": 1,
+            "duration_ms": 182757,
+            "isrc": "US5TA2200027",
+            "listening_from": "spotify",
+            "recording_msid": "bdd7f841-6299-44f1-8c13-98d767e94b1b",
+            "release_artist_name": "Stray Kids",
+            "release_artist_names": [
+                "Stray Kids"
+            ],
+            "release_msid": "b5aa7f14-eb36-4660-875c-1b94cc5f4f1b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            ],
+            "spotify_id": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:36:55",
+        "track_name": "SMILEY(Feat. BIBI)",
+        "artist_name": "YENA, BIBI",
+        "release_name": "\u02e3\u203f\u02e3 (SMiLEY)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF",
+        "listening_from": "spotify",
+        "isrc": "KRMIM2201803",
+        "additional_info": {
+            "artist_msid": "da653a5e-5563-40a7-8721-0fe27b39640e",
+            "artist_names": [
+                "YENA",
+                "BIBI"
+            ],
+            "discnumber": 1,
+            "duration_ms": 173413,
+            "isrc": "KRMIM2201803",
+            "listening_from": "spotify",
+            "recording_msid": "42566235-269c-441c-8682-f0b681e0d8c7",
+            "release_artist_name": "YENA",
+            "release_artist_names": [
+                "YENA"
+            ],
+            "release_msid": "224f16ae-7d3d-4793-8c30-6356605946f9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN",
+                "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:34:02",
+        "track_name": "Callin'",
+        "artist_name": "SUPER JUNIOR",
+        "release_name": "The Road : Winter for Spring",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq",
+        "listening_from": "spotify",
+        "isrc": "KRA302200041",
+        "additional_info": {
+            "artist_msid": "9d7ab5e8-62cd-4948-abc2-d926766a62fd",
+            "artist_names": [
+                "SUPER JUNIOR"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228093,
+            "isrc": "KRA302200041",
+            "listening_from": "spotify",
+            "recording_msid": "ce2dce26-0284-4511-8cee-4d911882b2cc",
+            "release_artist_name": "SUPER JUNIOR",
+            "release_artist_names": [
+                "SUPER JUNIOR"
+            ],
+            "release_msid": "5610d44f-843a-4c4a-82f4-336d6440197f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:29:31",
+        "track_name": "Too Bad",
+        "artist_name": "WEi",
+        "release_name": "Love Pt.1 : First Love",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ",
+        "listening_from": "spotify",
+        "isrc": "KRA382204085",
+        "additional_info": {
+            "artist_msid": "ab1de88d-9fa9-43b5-8252-7b51dc9eca6a",
+            "artist_names": [
+                "WEi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 196560,
+            "isrc": "KRA382204085",
+            "listening_from": "spotify",
+            "recording_msid": "13e567a4-d263-46ba-a60d-f1539adba169",
+            "release_artist_name": "WEi",
+            "release_artist_names": [
+                "WEi"
+            ],
+            "release_msid": "aee49440-5628-4b9b-a101-a04a9602536b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:24:23",
+        "track_name": "Ven para",
+        "artist_name": "Weeekly",
+        "release_name": "Play Game : AWAKE",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR",
+        "listening_from": "spotify",
+        "isrc": "KRA382203778",
+        "additional_info": {
+            "artist_msid": "1a62953c-bc3e-471a-8fcb-3d033ac8dd00",
+            "artist_names": [
+                "Weeekly"
+            ],
+            "discnumber": 1,
+            "duration_ms": 194693,
+            "isrc": "KRA382203778",
+            "listening_from": "spotify",
+            "recording_msid": "b34fae3a-9a2e-4971-8983-06867b10ae56",
+            "release_artist_name": "Weeekly",
+            "release_artist_names": [
+                "Weeekly"
+            ],
+            "release_msid": "a6d70788-52fc-40c3-bea0-2d91cc9e1a41",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:21:08",
+        "track_name": "Super Yuppers!",
+        "artist_name": "WJSN Chocome",
+        "release_name": "Super Yuppers!",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/31bblGq3GvqLutoW9wTcZy",
+        "listening_from": "spotify",
+        "isrc": "KRA382164381",
+        "additional_info": {
+            "artist_msid": "02afd4fe-2744-4a44-8a23-10a15d15431a",
+            "artist_names": [
+                "WJSN Chocome"
+            ],
+            "discnumber": 1,
+            "duration_ms": 217453,
+            "isrc": "KRA382164381",
+            "listening_from": "spotify",
+            "recording_msid": "0d4b7632-25c8-4c4d-8445-655f1cb894cd",
+            "release_artist_name": "WJSN Chocome",
+            "release_artist_names": [
+                "WJSN Chocome"
+            ],
+            "release_msid": "3e4263fb-5728-477c-8316-e1a1647b0f98",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn"
+            ],
+            "spotify_id": "https://open.spotify.com/track/31bblGq3GvqLutoW9wTcZy",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:17:30",
+        "track_name": "O.O",
+        "artist_name": "NMIXX",
+        "release_name": "AD MARE",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6",
+        "listening_from": "spotify",
+        "isrc": "US5TA2100138",
+        "additional_info": {
+            "artist_msid": "4f930620-168f-4daa-b690-f8fa458c0d0b",
+            "artist_names": [
+                "NMIXX"
+            ],
+            "discnumber": 1,
+            "duration_ms": 172936,
+            "isrc": "US5TA2100138",
+            "listening_from": "spotify",
+            "recording_msid": "6dab13f8-9f3c-4ed7-8f28-ec3c33ca2306",
+            "release_artist_name": "NMIXX",
+            "release_artist_names": [
+                "NMIXX"
+            ],
+            "release_msid": "91950ddf-8f53-4d2d-8dbf-41d8c670c8ca",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T17:12:55",
+        "track_name": "Ghostin'",
+        "artist_name": "KIM WOO SEOK",
+        "release_name": "3RD DESIRE [Reve]",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5DOKAQqo9fIVlF5QREqMN5",
+        "listening_from": "spotify",
+        "isrc": "KRB462200239",
+        "additional_info": {
+            "artist_msid": "9b07985e-6b0a-4b33-a8c8-75525e62ae92",
+            "artist_names": [
+                "KIM WOO SEOK"
+            ],
+            "discnumber": 1,
+            "duration_ms": 186866,
+            "isrc": "KRB462200239",
+            "listening_from": "spotify",
+            "recording_msid": "cd3be940-689c-4cc5-8926-eca0973a269d",
+            "release_artist_name": "KIM WOO SEOK",
+            "release_artist_names": [
+                "KIM WOO SEOK"
+            ],
+            "release_msid": "f71032cf-a65a-475a-b4fa-01cb594b6ffa",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5DOKAQqo9fIVlF5QREqMN5",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T17:08:03",
+        "track_name": "Love In Space",
+        "artist_name": "Cherry Bullet",
+        "release_name": "Cherry Wish",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y",
+        "listening_from": "spotify",
+        "isrc": "KRA382203664",
+        "additional_info": {
+            "artist_msid": "06f4a561-c6a7-4a2b-aaff-fb6d72676f7f",
+            "artist_names": [
+                "Cherry Bullet"
+            ],
+            "discnumber": 1,
+            "duration_ms": 216973,
+            "isrc": "KRA382203664",
+            "listening_from": "spotify",
+            "recording_msid": "a6cabbee-ec9b-4c27-8a5c-5ed3285d340e",
+            "release_artist_name": "Cherry Bullet",
+            "release_artist_names": [
+                "Cherry Bullet"
+            ],
+            "release_msid": "7fffcc81-9aca-4837-bae9-b747f61e5e42",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T17:03:36",
+        "track_name": "Step Back",
+        "artist_name": "GOT the beat",
+        "release_name": "Step Back",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx",
+        "listening_from": "spotify",
+        "isrc": "KRA302200001",
+        "additional_info": {
+            "artist_msid": "575d1929-a0c1-4867-8742-b054cd84d22a",
+            "artist_names": [
+                "GOT the beat"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228613,
+            "isrc": "KRA302200001",
+            "listening_from": "spotify",
+            "recording_msid": "8c57fada-4bdd-4a15-83db-921f81dfbd8a",
+            "release_artist_name": "GOT the beat",
+            "release_artist_names": [
+                "GOT the beat"
+            ],
+            "release_msid": "a3e5be82-eda5-4ae9-8960-4b8d6cdc7e40",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:59:45",
+        "track_name": "Chronograph",
+        "artist_name": "VICTON",
+        "release_name": "Chronograph",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1qHBk92AaOQR4w5uzBfFGb",
+        "listening_from": "spotify",
+        "isrc": "KRA382264646",
+        "additional_info": {
+            "artist_msid": "df142f36-723b-4ead-a523-a84c7e398cca",
+            "artist_names": [
+                "VICTON"
+            ],
+            "discnumber": 1,
+            "duration_ms": 180093,
+            "isrc": "KRA382264646",
+            "listening_from": "spotify",
+            "recording_msid": "0d5a1a31-1334-4357-99a2-6a3c168b97c3",
+            "release_artist_name": "VICTON",
+            "release_artist_names": [
+                "VICTON"
+            ],
+            "release_msid": "3cb7cecc-12a9-4b1a-9e14-648e4f17fad1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0BZsGRXuCwTB0FpbuWLXCV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1qHBk92AaOQR4w5uzBfFGb",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:55:53",
+        "track_name": "SMILEY(Feat. BIBI)",
+        "artist_name": "YENA, BIBI",
+        "release_name": "\u02e3\u203f\u02e3 (SMiLEY)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF",
+        "listening_from": "spotify",
+        "isrc": "KRMIM2201803",
+        "additional_info": {
+            "artist_msid": "da653a5e-5563-40a7-8721-0fe27b39640e",
+            "artist_names": [
+                "YENA",
+                "BIBI"
+            ],
+            "discnumber": 1,
+            "duration_ms": 173413,
+            "isrc": "KRMIM2201803",
+            "listening_from": "spotify",
+            "recording_msid": "42566235-269c-441c-8682-f0b681e0d8c7",
+            "release_artist_name": "YENA",
+            "release_artist_names": [
+                "YENA"
+            ],
+            "release_msid": "224f16ae-7d3d-4793-8c30-6356605946f9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN",
+                "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:52:59",
+        "track_name": "Super Yuppers!",
+        "artist_name": "WJSN Chocome",
+        "release_name": "Super Yuppers!",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/31bblGq3GvqLutoW9wTcZy",
+        "listening_from": "spotify",
+        "isrc": "KRA382164381",
+        "additional_info": {
+            "artist_msid": "02afd4fe-2744-4a44-8a23-10a15d15431a",
+            "artist_names": [
+                "WJSN Chocome"
+            ],
+            "discnumber": 1,
+            "duration_ms": 217453,
+            "isrc": "KRA382164381",
+            "listening_from": "spotify",
+            "recording_msid": "0d4b7632-25c8-4c4d-8445-655f1cb894cd",
+            "release_artist_name": "WJSN Chocome",
+            "release_artist_names": [
+                "WJSN Chocome"
+            ],
+            "release_msid": "3e4263fb-5728-477c-8316-e1a1647b0f98",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn"
+            ],
+            "spotify_id": "https://open.spotify.com/track/31bblGq3GvqLutoW9wTcZy",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:48:21",
+        "track_name": "Crazy About You",
+        "artist_name": "UP10TION",
+        "release_name": "Novella",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH",
+        "listening_from": "spotify",
+        "isrc": "KRB462101465",
+        "additional_info": {
+            "artist_msid": "76874745-5cb0-451e-ae9a-2458f24f26db",
+            "artist_names": [
+                "UP10TION"
+            ],
+            "discnumber": 1,
+            "duration_ms": 252293,
+            "isrc": "KRB462101465",
+            "listening_from": "spotify",
+            "recording_msid": "c27de7f7-32a7-4801-aeac-0062fef53555",
+            "release_artist_name": "UP10TION",
+            "release_artist_names": [
+                "UP10TION"
+            ],
+            "release_msid": "9ee9740e-97ad-45d4-a8de-908bae3d5614",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:44:07",
+        "track_name": "Feelin' Like",
+        "artist_name": "PENTAGON",
+        "release_name": "IN:VITE U",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x",
+        "listening_from": "spotify",
+        "isrc": "KRA392100074",
+        "additional_info": {
+            "artist_msid": "6b33b0ef-04c5-42fb-b7e8-c67b12170768",
+            "artist_names": [
+                "PENTAGON"
+            ],
+            "discnumber": 1,
+            "duration_ms": 167213,
+            "isrc": "KRA392100074",
+            "listening_from": "spotify",
+            "recording_msid": "4fa63cfe-409a-4a18-a897-65705603b4f9",
+            "release_artist_name": "PENTAGON",
+            "release_artist_names": [
+                "PENTAGON"
+            ],
+            "release_msid": "bac48df0-02b0-4804-b7a6-56fbc2971dd6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:41:05",
+        "track_name": "Villain",
+        "artist_name": "DRIPPIN",
+        "release_name": "DRIPPIN 3rd Mini Album [Villain]",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY",
+        "listening_from": "spotify",
+        "isrc": "KRA382264640",
+        "additional_info": {
+            "artist_msid": "ca694cf0-a9c3-415e-9885-6baac89236ac",
+            "artist_names": [
+                "DRIPPIN"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181973,
+            "isrc": "KRA382264640",
+            "listening_from": "spotify",
+            "recording_msid": "69b7c150-c4d6-4434-86d3-9fa2c8f076f6",
+            "release_artist_name": "DRIPPIN",
+            "release_artist_names": [
+                "DRIPPIN"
+            ],
+            "release_msid": "0a4ede35-48fb-470c-81d7-768d1cda54b9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:37:00",
+        "track_name": "Ready to ride",
+        "artist_name": "KANGDANIEL",
+        "release_name": "Ready to ride",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ",
+        "listening_from": "spotify",
+        "isrc": "KRB462200407",
+        "additional_info": {
+            "artist_msid": "8b19d7b1-27df-48ba-b5ff-60f6dabec0d6",
+            "artist_names": [
+                "KANGDANIEL"
+            ],
+            "discnumber": 1,
+            "duration_ms": 217293,
+            "isrc": "KRB462200407",
+            "listening_from": "spotify",
+            "recording_msid": "553ec9c7-0c8c-4818-9753-9f3a1b2f739b",
+            "release_artist_name": "KANGDANIEL",
+            "release_artist_names": [
+                "KANGDANIEL"
+            ],
+            "release_msid": "d752e007-0c5c-4c67-94fa-e1b8fa51a726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3UtWwqV8nUxO94J65hpnrX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:33:22",
+        "track_name": "DAYDREAM",
+        "artist_name": "Highlight",
+        "release_name": "DAYDREAM",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ",
+        "listening_from": "spotify",
+        "isrc": "KRA382204102",
+        "additional_info": {
+            "artist_msid": "c8f2408c-8d2f-4d3c-b3f2-0a35800da4b1",
+            "artist_names": [
+                "Highlight"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193880,
+            "isrc": "KRA382204102",
+            "listening_from": "spotify",
+            "recording_msid": "30596acd-0481-47c5-973a-b3e3840b35d1",
+            "release_artist_name": "Highlight",
+            "release_artist_names": [
+                "Highlight"
+            ],
+            "release_msid": "3a371617-c21b-45be-8946-1058b253ba66",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:29:37",
+        "track_name": "Infection",
+        "artist_name": "BLACK LEVEL",
+        "release_name": "New Start",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3RaI2g7ltpcmyLNtnE5R8C",
+        "listening_from": "spotify",
+        "isrc": "KSA012148911",
+        "additional_info": {
+            "artist_msid": "492799fa-ffb9-4a6b-bfec-10cdc19e7fb8",
+            "artist_names": [
+                "BLACK LEVEL"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198573,
+            "isrc": "KSA012148911",
+            "listening_from": "spotify",
+            "recording_msid": "26b3219c-d001-422e-af53-54abd6fc84b4",
+            "release_artist_name": "BLACK LEVEL",
+            "release_artist_names": [
+                "BLACK LEVEL"
+            ],
+            "release_msid": "d6efd8e0-a4c8-4c99-b011-0b2490d65171",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6UEJAcUbaS0YCZrIuj3gzb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5TrzKeidrdBAY1ua7cig85",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6UEJAcUbaS0YCZrIuj3gzb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3RaI2g7ltpcmyLNtnE5R8C",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:26:18",
+        "track_name": "Gray So Gray (Feat. Younha)",
+        "artist_name": "Epik High, Younha",
+        "release_name": "Epik High Is Here \u4e0b (Part 2)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY",
+        "listening_from": "spotify",
+        "isrc": "KRB472200075",
+        "additional_info": {
+            "artist_msid": "82c8a5eb-d98c-48d8-af4b-9dfdebf40878",
+            "artist_names": [
+                "Epik High",
+                "Younha"
+            ],
+            "discnumber": 1,
+            "duration_ms": 252986,
+            "isrc": "KRB472200075",
+            "listening_from": "spotify",
+            "recording_msid": "1442f4c5-cda4-4d6b-8be6-8528a9f9d409",
+            "release_artist_name": "Epik High",
+            "release_artist_names": [
+                "Epik High"
+            ],
+            "release_msid": "c6de5882-40fb-4e9f-ba05-4a7c1834d2ea",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw",
+                "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:22:04",
+        "track_name": "RUN2U",
+        "artist_name": "STAYC",
+        "release_name": "YOUNG-LUV.COM",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8",
+        "listening_from": "spotify",
+        "isrc": "KRA382203169",
+        "additional_info": {
+            "artist_msid": "1caa6d61-13b3-4b16-92b6-f04cfde1f863",
+            "artist_names": [
+                "STAYC"
+            ],
+            "discnumber": 1,
+            "duration_ms": 213426,
+            "isrc": "KRA382203169",
+            "listening_from": "spotify",
+            "recording_msid": "0467612c-b3d3-4959-9efe-fd49920bde35",
+            "release_artist_name": "STAYC",
+            "release_artist_names": [
+                "STAYC"
+            ],
+            "release_msid": "08d9fc3b-4b86-4a26-a5d7-1f8031c3d24e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:18:31",
+        "track_name": "Yummy Yummy Love",
+        "artist_name": "MOMOLAND, Natti Natasha",
+        "release_name": "Yummy Yummy Love",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB",
+        "listening_from": "spotify",
+        "isrc": "KRB462101449",
+        "additional_info": {
+            "artist_msid": "1038becc-dac8-4095-bf4c-b04b886a38af",
+            "artist_names": [
+                "MOMOLAND",
+                "Natti Natasha"
+            ],
+            "discnumber": 1,
+            "duration_ms": 199026,
+            "isrc": "KRB462101449",
+            "listening_from": "spotify",
+            "recording_msid": "8dbcff41-11c5-42d4-9b7d-bd171307aabb",
+            "release_artist_name": "MOMOLAND, Natti Natasha",
+            "release_artist_names": [
+                "MOMOLAND",
+                "Natti Natasha"
+            ],
+            "release_msid": "40771bbc-c78d-4358-ae16-c905f8833b26",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx",
+                "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx",
+                "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:15:11",
+        "track_name": "Universe_",
+        "artist_name": "ONEWE",
+        "release_name": "Planet Nine : VOYAGER",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6zVDBEprS3mo8p0WV9MtLr",
+        "listening_from": "spotify",
+        "isrc": "KRA382164354",
+        "additional_info": {
+            "artist_msid": "6659fa94-0a18-4d2c-a730-662447480d95",
+            "artist_names": [
+                "ONEWE"
+            ],
+            "discnumber": 1,
+            "duration_ms": 216306,
+            "isrc": "KRA382164354",
+            "listening_from": "spotify",
+            "recording_msid": "86b3812d-73f4-42ae-b4d3-d8bdf527d999",
+            "release_artist_name": "ONEWE",
+            "release_artist_names": [
+                "ONEWE"
+            ],
+            "release_msid": "98200ff0-7812-41f0-afbc-117b8e08feda",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2mM97mU3Xh4IvV51Dwq8Ky",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6zVDBEprS3mo8p0WV9MtLr",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:11:17",
+        "track_name": "Bluebird",
+        "artist_name": "RYEOWOOK",
+        "release_name": "A Wild Rose - The 3rd Mini Album",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/5btxpgzMg7fgNYWm0c4kr7",
+        "listening_from": "spotify",
+        "isrc": "KRA302200081",
+        "additional_info": {
+            "artist_msid": "ff5a001c-5895-4a92-9594-22d4aebf1bec",
+            "artist_names": [
+                "RYEOWOOK"
+            ],
+            "discnumber": 1,
+            "duration_ms": 224986,
+            "isrc": "KRA302200081",
+            "listening_from": "spotify",
+            "recording_msid": "895a1874-12c9-4f87-beeb-9ef6a6caef26",
+            "release_artist_name": "RYEOWOOK",
+            "release_artist_names": [
+                "RYEOWOOK"
+            ],
+            "release_msid": "61050024-6f42-4b64-9e21-d9a3a9abffc3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5btxpgzMg7fgNYWm0c4kr7",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:07:14",
+        "track_name": "O",
+        "artist_name": "VERIVERY",
+        "release_name": "SERIES 'O' [ROUND 0 : WHO]",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7nsquDHI132iE793dXYNeW",
+        "listening_from": "spotify",
+        "isrc": "KRA382203900",
+        "additional_info": {
+            "artist_msid": "e00d9e90-4908-44b7-b30c-21557383fc24",
+            "artist_names": [
+                "VERIVERY"
+            ],
+            "discnumber": 1,
+            "duration_ms": 195893,
+            "isrc": "KRA382203900",
+            "listening_from": "spotify",
+            "recording_msid": "e387065d-be0d-45b9-96cf-3e148154a760",
+            "release_artist_name": "VERIVERY",
+            "release_artist_names": [
+                "VERIVERY"
+            ],
+            "release_msid": "98bd1c06-6081-4b0f-8b53-1dea9342fbc9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/34GI950XouNDFSO7BpEfzk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7nsquDHI132iE793dXYNeW",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T16:03:23",
+        "track_name": "Can't Control Myself",
+        "artist_name": "TAEYEON",
+        "release_name": "Can't Control Myself",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh",
+        "listening_from": "spotify",
+        "isrc": "KRA302200011",
+        "additional_info": {
+            "artist_msid": "370ef80e-a461-4d47-b803-0afd3528cac9",
+            "artist_names": [
+                "TAEYEON"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181600,
+            "isrc": "KRA302200011",
+            "listening_from": "spotify",
+            "recording_msid": "bc48ee9e-3fe0-42d1-b5a8-1893ab5a3f76",
+            "release_artist_name": "TAEYEON",
+            "release_artist_names": [
+                "TAEYEON"
+            ],
+            "release_msid": "e90abfbf-9760-4797-a240-cb0def052cf4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+            ],
+            "spotify_id": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T15:59:02",
+        "track_name": "FEARLESS",
+        "artist_name": "LE SSERAFIM",
+        "release_name": "FEARLESS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj",
+        "listening_from": "spotify",
+        "isrc": "USA2P2219222",
+        "additional_info": {
+            "artist_msid": "c649f7cd-9069-4170-a816-00a155147fdc",
+            "artist_names": [
+                "LE SSERAFIM"
+            ],
+            "discnumber": 1,
+            "duration_ms": 168437,
+            "isrc": "USA2P2219222",
+            "listening_from": "spotify",
+            "recording_msid": "84b4bb1c-77a2-42e8-a0cd-bd240a66ccce",
+            "release_artist_name": "LE SSERAFIM",
+            "release_artist_names": [
+                "LE SSERAFIM"
+            ],
+            "release_msid": "fab676a3-a875-4b8c-8696-c9181f3f6139",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            ],
+            "spotify_id": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T12:00:47",
+        "track_name": "My Name Is",
+        "artist_name": "ONF",
+        "release_name": "ONF:MY NAME",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/6muFdZyia8WdwavMktnuVd",
+        "listening_from": "spotify",
+        "isrc": "KRMIM2101967",
+        "additional_info": {
+            "artist_msid": "ca5e48b6-3163-4e8c-a6ae-489f43fc035a",
+            "artist_names": [
+                "ONF"
+            ],
+            "discnumber": 1,
+            "duration_ms": 197226,
+            "isrc": "KRMIM2101967",
+            "listening_from": "spotify",
+            "recording_msid": "9050e5d7-63dc-4675-81ea-828b37d050f9",
+            "release_artist_name": "ONF",
+            "release_artist_names": [
+                "ONF"
+            ],
+            "release_msid": "0014fc2b-663b-4d53-8bde-ed5f947e48cf",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6muFdZyia8WdwavMktnuVd",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T11:50:44",
+        "track_name": "RUB-A-DUM",
+        "artist_name": "TRI.BE",
+        "release_name": "CONMIGO",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2pVTldTTlm2lUamv5PIRBr",
+        "listening_from": "spotify",
+        "isrc": "KRUM72100123",
+        "additional_info": {
+            "artist_msid": "9fa017d1-0355-4729-940d-08c88f94b8bf",
+            "artist_names": [
+                "TRI.BE"
+            ],
+            "discnumber": 1,
+            "duration_ms": 199640,
+            "isrc": "KRUM72100123",
+            "listening_from": "spotify",
+            "recording_msid": "77b6c465-e3d9-497f-b0ea-5597e0b98391",
+            "release_artist_name": "TRI.BE",
+            "release_artist_names": [
+                "TRI.BE"
+            ],
+            "release_msid": "cc9f93e3-1d4a-4f40-b857-dd84bea26640",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7on227flmHtscIcPulRIES",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2pVTldTTlm2lUamv5PIRBr",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T11:47:23",
+        "track_name": "Switch It Up (feat. sokodomo) - Prod. Cha Cha Malone",
+        "artist_name": "JAY B, sokodomo",
+        "release_name": "Switch It Up (feat. sokodomo) [Prod. Cha Cha Malone]",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift",
+        "listening_from": "spotify",
+        "isrc": "KRF152100008",
+        "additional_info": {
+            "artist_msid": "f0d0ea64-3976-4b6b-a597-2f2dc217766c",
+            "artist_names": [
+                "JAY B",
+                "sokodomo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 215197,
+            "isrc": "KRF152100008",
+            "listening_from": "spotify",
+            "recording_msid": "b9c3678d-bb6f-4090-a92a-868a6fd021ce",
+            "release_artist_name": "JAY B",
+            "release_artist_names": [
+                "JAY B"
+            ],
+            "release_msid": "7a203e35-5f35-4828-96fc-57c8b1a49773",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT",
+                "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T11:43:47",
+        "track_name": "Like Water",
+        "artist_name": "WENDY",
+        "release_name": "Like Water - The 1st Mini Album",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY",
+        "listening_from": "spotify",
+        "isrc": "KRA302100113",
+        "additional_info": {
+            "artist_msid": "588aa8e2-e1b4-4082-8f44-d90511d8b63b",
+            "artist_names": [
+                "WENDY"
+            ],
+            "discnumber": 1,
+            "duration_ms": 261013,
+            "isrc": "KRA302100113",
+            "listening_from": "spotify",
+            "recording_msid": "73f3d179-670e-47ee-91f2-0aa47f08ecb2",
+            "release_artist_name": "WENDY",
+            "release_artist_names": [
+                "WENDY"
+            ],
+            "release_msid": "20e64590-1aeb-4915-ae9b-f2cd0aaf20ac",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+            ],
+            "spotify_id": "https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T18:07:07",
+        "track_name": "Still Life",
+        "artist_name": "BIGBANG",
+        "release_name": "Still Life",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW",
+        "listening_from": "spotify",
+        "isrc": "KRA402100165",
+        "additional_info": {
+            "artist_msid": "8f7bfdae-e1e2-4477-97e6-88834288f5ba",
+            "artist_names": [
+                "BIGBANG"
+            ],
+            "discnumber": 1,
+            "duration_ms": 188369,
+            "isrc": "KRA402100165",
+            "listening_from": "spotify",
+            "recording_msid": "3ba46c81-b559-4e14-9a60-7799b2adec00",
+            "release_artist_name": "BIGBANG",
+            "release_artist_names": [
+                "BIGBANG"
+            ],
+            "release_msid": "f91257fa-3dfe-49eb-9f32-e94fd91ae5e7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T17:59:24",
+        "track_name": "memeM",
+        "artist_name": "PURPLE KISS",
+        "release_name": "memeM",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI",
+        "listening_from": "spotify",
+        "isrc": "KRA382204228",
+        "additional_info": {
+            "artist_msid": "72ce3623-6903-437d-b1c6-8bb6197f59c7",
+            "artist_names": [
+                "PURPLE KISS"
+            ],
+            "discnumber": 1,
+            "duration_ms": 172066,
+            "isrc": "KRA382204228",
+            "listening_from": "spotify",
+            "recording_msid": "28eda6d8-c6ec-4a14-83a7-4e88c80fa906",
+            "release_artist_name": "PURPLE KISS",
+            "release_artist_names": [
+                "PURPLE KISS"
+            ],
+            "release_msid": "00a0415c-d31b-48ec-b709-b8bda5a3bf90",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T17:53:06",
+        "track_name": "ZOOM",
+        "artist_name": "Jessi",
+        "release_name": "ZOOM",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9",
+        "listening_from": "spotify",
+        "isrc": "KRA382204517",
+        "additional_info": {
+            "artist_msid": "87aca8e4-267f-44bd-9aa1-ad68b58fc6c7",
+            "artist_names": [
+                "Jessi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 174840,
+            "isrc": "KRA382204517",
+            "listening_from": "spotify",
+            "recording_msid": "e34d21e1-d27f-402e-9e7f-86b4ae7d1953",
+            "release_artist_name": "Jessi",
+            "release_artist_names": [
+                "Jessi"
+            ],
+            "release_msid": "927cda8a-bb91-4d70-90a8-1b0264a03094",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T17:40:07",
+        "track_name": "Roller Coaster",
+        "artist_name": "JEONG SEWOON",
+        "release_name": "Where is my Garden!",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV",
+        "listening_from": "spotify",
+        "isrc": "KRA382204992",
+        "additional_info": {
+            "artist_msid": "4b08eedd-263c-4c22-b891-b2ea8cdda04c",
+            "artist_names": [
+                "JEONG SEWOON"
+            ],
+            "discnumber": 1,
+            "duration_ms": 183346,
+            "isrc": "KRA382204992",
+            "listening_from": "spotify",
+            "recording_msid": "d216bf66-ca95-4070-add8-d37e588a9dcb",
+            "release_artist_name": "JEONG SEWOON",
+            "release_artist_names": [
+                "JEONG SEWOON"
+            ],
+            "release_msid": "4a17d887-0bf7-448e-b33a-51739920402d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T16:22:01",
+        "track_name": "Catch the Stars",
+        "artist_name": "woo!ah!",
+        "release_name": "Catch the Stars",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs",
+        "listening_from": "spotify",
+        "isrc": "KRA382164531",
+        "additional_info": {
+            "artist_msid": "4553112a-4018-44a6-90c6-bfc09c752a03",
+            "artist_names": [
+                "woo!ah!"
+            ],
+            "discnumber": 1,
+            "duration_ms": 200106,
+            "isrc": "KRA382164531",
+            "listening_from": "spotify",
+            "recording_msid": "313d0955-cf5d-4cc9-83c6-4d2f52f5211b",
+            "release_artist_name": "woo!ah!",
+            "release_artist_names": [
+                "woo!ah!"
+            ],
+            "release_msid": "3b7d91a0-92ae-4718-af87-4393dcf63186",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T16:20:28",
+        "track_name": "TOMBOY",
+        "artist_name": "(G)I-DLE",
+        "release_name": "I NEVER DIE",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm",
+        "listening_from": "spotify",
+        "isrc": "KRA392100080",
+        "additional_info": {
+            "artist_msid": "3d82d5e1-2848-4e8a-b211-e07a27680840",
+            "artist_names": [
+                "(G)I-DLE"
+            ],
+            "discnumber": 1,
+            "duration_ms": 174386,
+            "isrc": "KRA392100080",
+            "listening_from": "spotify",
+            "recording_msid": "b26838af-f8e3-4e36-8392-359eeac7c96c",
+            "release_artist_name": "(G)I-DLE",
+            "release_artist_names": [
+                "(G)I-DLE"
+            ],
+            "release_msid": "632eef5f-1fcf-4ff9-add1-d8eeba2954eb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T16:15:29",
+        "track_name": "INVU",
+        "artist_name": "TAEYEON",
+        "release_name": "INVU - The 3rd Album",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV",
+        "listening_from": "spotify",
+        "isrc": "KRA302200026",
+        "additional_info": {
+            "artist_msid": "370ef80e-a461-4d47-b803-0afd3528cac9",
+            "artist_names": [
+                "TAEYEON"
+            ],
+            "discnumber": 1,
+            "duration_ms": 204973,
+            "isrc": "KRA302200026",
+            "listening_from": "spotify",
+            "recording_msid": "c907f17a-497f-4093-b5ea-03fb702e9004",
+            "release_artist_name": "TAEYEON",
+            "release_artist_names": [
+                "TAEYEON"
+            ],
+            "release_msid": "ffc23a7b-40a3-4c9c-97b5-789befd0e228",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T16:12:04",
+        "track_name": "Can't Control Myself",
+        "artist_name": "TAEYEON",
+        "release_name": "Can't Control Myself",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh",
+        "listening_from": "spotify",
+        "isrc": "KRA302200011",
+        "additional_info": {
+            "artist_msid": "370ef80e-a461-4d47-b803-0afd3528cac9",
+            "artist_names": [
+                "TAEYEON"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181600,
+            "isrc": "KRA302200011",
+            "listening_from": "spotify",
+            "recording_msid": "bc48ee9e-3fe0-42d1-b5a8-1893ab5a3f76",
+            "release_artist_name": "TAEYEON",
+            "release_artist_names": [
+                "TAEYEON"
+            ],
+            "release_msid": "e90abfbf-9760-4797-a240-cb0def052cf4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+            ],
+            "spotify_id": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T16:07:16",
+        "track_name": "Step Back",
+        "artist_name": "GOT the beat",
+        "release_name": "Step Back",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx",
+        "listening_from": "spotify",
+        "isrc": "KRA302200001",
+        "additional_info": {
+            "artist_msid": "575d1929-a0c1-4867-8742-b054cd84d22a",
+            "artist_names": [
+                "GOT the beat"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228613,
+            "isrc": "KRA302200001",
+            "listening_from": "spotify",
+            "recording_msid": "8c57fada-4bdd-4a15-83db-921f81dfbd8a",
+            "release_artist_name": "GOT the beat",
+            "release_artist_names": [
+                "GOT the beat"
+            ],
+            "release_msid": "a3e5be82-eda5-4ae9-8960-4b8d6cdc7e40",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-19T10:26:04",
+        "track_name": "Step Back",
+        "artist_name": "GOT the beat",
+        "release_name": "Step Back",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx",
+        "listening_from": "spotify",
+        "isrc": "KRA302200001",
+        "additional_info": {
+            "artist_msid": "575d1929-a0c1-4867-8742-b054cd84d22a",
+            "artist_names": [
+                "GOT the beat"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228613,
+            "isrc": "KRA302200001",
+            "listening_from": "spotify",
+            "recording_msid": "8c57fada-4bdd-4a15-83db-921f81dfbd8a",
+            "release_artist_name": "GOT the beat",
+            "release_artist_names": [
+                "GOT the beat"
+            ],
+            "release_msid": "a3e5be82-eda5-4ae9-8960-4b8d6cdc7e40",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-19T10:14:43",
+        "track_name": "Take You Down (Feat. Coogie)",
+        "artist_name": "YUGYEOM, Coogie",
+        "release_name": "Take You Down",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek",
+        "listening_from": "spotify",
+        "isrc": "KRC712200010",
+        "additional_info": {
+            "artist_msid": "0344b2dc-2374-4da2-8349-88aff4c57980",
+            "artist_names": [
+                "YUGYEOM",
+                "Coogie"
+            ],
+            "discnumber": 1,
+            "duration_ms": 207560,
+            "isrc": "KRC712200010",
+            "listening_from": "spotify",
+            "recording_msid": "4d128d54-1d11-407c-abc3-b91fad63d157",
+            "release_artist_name": "YUGYEOM",
+            "release_artist_names": [
+                "YUGYEOM"
+            ],
+            "release_msid": "ed14ad53-c3c2-4b98-bd74-5356da84921c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY",
+                "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-19T10:10:13",
+        "track_name": "Play",
+        "artist_name": "YUJU",
+        "release_name": "[REC.]",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu",
+        "listening_from": "spotify",
+        "isrc": "KRA252200027",
+        "additional_info": {
+            "artist_msid": "4fb19f8d-77e8-400c-b766-e119c0896ed0",
+            "artist_names": [
+                "YUJU"
+            ],
+            "discnumber": 1,
+            "duration_ms": 201680,
+            "isrc": "KRA252200027",
+            "listening_from": "spotify",
+            "recording_msid": "5f14da89-1242-44a6-9bf3-17477e08b312",
+            "release_artist_name": "YUJU",
+            "release_artist_names": [
+                "YUJU"
+            ],
+            "release_msid": "e2bfbe6f-a60c-4e54-a4a3-5533d46d8b64",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-19T10:06:32",
+        "track_name": "Villain",
+        "artist_name": "DRIPPIN",
+        "release_name": "DRIPPIN 3rd Mini Album [Villain]",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY",
+        "listening_from": "spotify",
+        "isrc": "KRA382264640",
+        "additional_info": {
+            "artist_msid": "ca694cf0-a9c3-415e-9885-6baac89236ac",
+            "artist_names": [
+                "DRIPPIN"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181973,
+            "isrc": "KRA382264640",
+            "listening_from": "spotify",
+            "recording_msid": "69b7c150-c4d6-4434-86d3-9fa2c8f076f6",
+            "release_artist_name": "DRIPPIN",
+            "release_artist_names": [
+                "DRIPPIN"
+            ],
+            "release_msid": "0a4ede35-48fb-470c-81d7-768d1cda54b9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY",
+            "tracknumber": 2
+        },
+        "username": null
+    }
+]

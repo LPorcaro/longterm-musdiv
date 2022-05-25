@@ -1,0 +1,44 @@
+Electronic artists found: Avicii, Avicii,Aloe Blacc, Avicii,Sandro Cavazza, Avicii,Rita Ora
+Electronic genres found: edm
+Electronic music logs found: 45.45% 
+
+Top genres
+	1: pop (20.00%)
+	2: dance pop (12.50%)
+	3: edm (12.50%)
+	4: pop dance (12.50%)
+	5: pop rap (12.50%)
+Top artists
+	1: Rita Ora (16.67%)
+	2: Panic! At The Disco (16.67%)
+	3: Sandro Cavazza (16.67%)
+	4: Avicii (16.67%)
+	5: Aloe Blacc (16.67%)
+Top country
+	1: US (27.27%)
+	2: GB (27.27%)
+	3: SE (22.73%)
+	4: CH (22.73%)
+Top record
+	1: AT2 (27.27%)
+	2: HMU (27.27%)
+	3: 313 (18.18%)
+	4: 5R7 (13.64%)
+	5: UM7 (9.09%)
+Top year
+	1: 15 (36.36%)
+	2: 13 (31.82%)
+	3: 17 (9.09%)
+	4: 14 (9.09%)
+	5: 19 (4.55%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   22.000000     22.000000     22.000000         22.000000    22.000000   22.000000  22.000000  22.000000
+mean    72.227273      0.170226      0.569000          0.037710     0.045182  123.848591   0.479173   0.671909
+std      9.278402      0.251480      0.118472          0.176514     0.011966   20.455877   0.190393   0.187737
+min     54.000000      0.000430      0.174000          0.000000     0.027400   85.574000   0.097800   0.220000
+25%     65.750000      0.006275      0.528000          0.000000     0.034550  112.557250   0.359500   0.564750
+50%     74.000000      0.037600      0.576500          0.000000     0.043450  125.983000   0.485000   0.716000
+75%     79.500000      0.226500      0.641250          0.000018     0.052600  130.246250   0.635500   0.823000
+max     84.000000      0.859000      0.802000          0.828000     0.071500  175.998000   0.824000   0.889000

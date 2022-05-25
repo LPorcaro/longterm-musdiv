@@ -1,0 +1,45 @@
+Electronic artists found: Massive Attack, DIIV
+Electronic genres found: chillwave, electronica, trip hop, downtempo, big beat
+Electronic music logs found: 16.67% 
+
+Top genres
+	1: indie rock (9.41%)
+	2: modern rock (8.24%)
+	3: alternative rock (3.53%)
+	4: rock (3.53%)
+	5: dream pop (3.53%)
+Top artists
+	1: Caetano Veloso (6.67%)
+	2: Cigarettes After Sex (6.67%)
+	3: Rita Vian (6.67%)
+	4: Mama Sissoko (6.67%)
+	5: Joy Division (6.67%)
+Top country
+	1: GB (38.89%)
+	2: US (22.22%)
+	3: QM (16.67%)
+	4: PT (16.67%)
+	5: FR (5.56%)
+Top record
+	1: MZN (11.11%)
+	2: AFL (11.11%)
+	3: ARL (11.11%)
+	4: AAP (5.56%)
+	5: EM1 (5.56%)
+Top year
+	1: 13 (33.33%)
+	2: 17 (11.11%)
+	3: 22 (11.11%)
+	4: 18 (11.11%)
+	5: 06 (5.56%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    44.777778      0.409951      0.552611          0.337872     0.044111  120.115667   0.513722   0.563972
+std     13.717981      0.354712      0.148044          0.384857     0.014010   33.976868   0.261784   0.254739
+min     18.000000      0.000191      0.215000          0.000000     0.024600   73.868000   0.125000   0.069500
+25%     34.250000      0.016268      0.457250          0.000643     0.033850   94.073250   0.349000   0.433500
+50%     46.000000      0.384500      0.542500          0.122600     0.041800  115.588000   0.514500   0.540500
+75%     55.500000      0.716250      0.621250          0.742500     0.051875  147.462250   0.702250   0.658000
+max     62.000000      0.922000      0.783000          0.933000     0.081800  180.349000   0.976000   0.973000

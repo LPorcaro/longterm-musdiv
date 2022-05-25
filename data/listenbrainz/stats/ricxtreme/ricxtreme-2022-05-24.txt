@@ -1,0 +1,45 @@
+Electronic artists found: Mr. Probz,Robin Schulz, League of Legends,Against The Current, League of Legends,Cailin Russo,Chrissy Costanza, Avicii, The Chainsmokers,Kygo, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Hippie Sabotage, Surf Mesa,Emilee, Tiësto, Timmy Trumpet,Savage
+Electronic genres found: edm, dutch edm, tropical house, video game music, slap house, electronic trap, brostep, melbourne bounce, melbourne bounce international
+Electronic music logs found: 14.47% 
+
+Top genres
+	1: pop (15.22%)
+	2: dance pop (5.98%)
+	3: modern rock (4.35%)
+	4: rock (4.35%)
+	5: hip hop tuga (3.80%)
+Top artists
+	1: $uicideboy$ (1.16%)
+	2: Joey Cool (1.16%)
+	3: Santana (1.16%)
+	4: Robin Schulz (1.16%)
+	5: Ariana Grande (1.16%)
+Top country
+	1: US (56.58%)
+	2: PT (13.16%)
+	3: GB (9.21%)
+	4: QM (5.26%)
+	5: DE (2.63%)
+Top record
+	1: UM7 (21.05%)
+	2: SM1 (10.53%)
+	3: AT2 (7.89%)
+	4: UG1 (6.58%)
+	5: 2HA (5.26%)
+Top year
+	1: 21 (21.05%)
+	2: 19 (19.74%)
+	3: 20 (15.79%)
+	4: 18 (11.84%)
+	5: 15 (7.89%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   76.000000     76.000000     76.000000         76.000000    76.000000   76.000000  76.000000  76.000000
+mean    67.315789      0.157493      0.665053          0.017720     0.117846  120.247947   0.509017   0.678921
+std     17.242746      0.190789      0.145164          0.068163     0.099736   28.819926   0.237986   0.143357
+min     17.000000      0.001460      0.257000          0.000000     0.026500   74.868000   0.057300   0.373000
+25%     61.000000      0.014875      0.565750          0.000000     0.040125  100.027750   0.318750   0.594500
+50%     73.500000      0.079400      0.677000          0.000000     0.075600  118.955500   0.521000   0.691500
+75%     79.000000      0.221750      0.788250          0.000096     0.169750  140.078750   0.713500   0.786250
+max     94.000000      0.785000      0.950000          0.405000     0.438000  175.908000   0.967000   0.967000

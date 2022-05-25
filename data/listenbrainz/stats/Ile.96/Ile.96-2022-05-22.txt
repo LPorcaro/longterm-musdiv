@@ -1,0 +1,45 @@
+Electronic artists found: Tiësto,Sevenn,Gucci Mane
+Electronic genres found: tropical house, brostep, dutch edm, slap house, edm
+Electronic music logs found: 5.56% 
+
+Top genres
+	1: dancehall (7.69%)
+	2: jamaican dancehall (7.69%)
+	3: israeli pop (7.69%)
+	4: jewish pop (7.69%)
+	5: dance pop (7.69%)
+Top artists
+	1: Pitbull (4.00%)
+	2: Gucci Mane (4.00%)
+	3: Daddy Yankee (4.00%)
+	4: Mohombi (4.00%)
+	5: Charly Black (4.00%)
+Top country
+	1: US (22.22%)
+	2: QZ (22.22%)
+	3: BE (11.11%)
+	4: TC (5.56%)
+	5: NL (5.56%)
+Top record
+	1: JDW (16.67%)
+	2: D90 (11.11%)
+	3: VPR (11.11%)
+	4: ACZ (5.56%)
+	5: FYW (5.56%)
+Top year
+	1: 17 (22.22%)
+	2: 16 (16.67%)
+	3: 21 (16.67%)
+	4: 20 (16.67%)
+	5: 19 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    56.500000      0.095359      0.815111          0.000442     0.142856  105.427222   0.625222   0.772111
+std     13.102537      0.114126      0.088548          0.001469     0.122458   19.417029   0.173994   0.110868
+min     34.000000      0.001220      0.606000          0.000000     0.050000   75.171000   0.203000   0.525000
+25%     45.000000      0.019925      0.777500          0.000000     0.061850  100.004000   0.513750   0.756500
+50%     59.000000      0.052750      0.808000          0.000000     0.113000  103.998500   0.617500   0.801500
+75%     66.000000      0.102425      0.879000          0.000013     0.147000  105.042000   0.714250   0.860250
+max     78.000000      0.339000      0.947000          0.006220     0.530000  172.335000   0.912000   0.876000

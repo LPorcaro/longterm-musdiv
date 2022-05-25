@@ -1,0 +1,45 @@
+Electronic artists found: Kraftwerk, Moby,Debbie Harry, Alan Walker, Caro Emerald, Avicii, Klischée,Marina & The Kats, Afrojack,Wrabel
+Electronic genres found: electronica, electro house, progressive house, tropical house, electro swing, dusseldorf electronic, dutch house, proto-techno, downtempo, edm
+Electronic music logs found: 42.86% 
+
+Top genres
+	1: musica per bambini (11.11%)
+	2: dance pop (9.26%)
+	3: edm (7.41%)
+	4: pop dance (7.41%)
+	5: pop (5.56%)
+Top artists
+	1: Melania (3.85%)
+	2: WADD (3.85%)
+	3: Michele Del Baldo (3.85%)
+	4: Moby (3.85%)
+	5: Jetlag Music (3.85%)
+Top country
+	1: IT (28.57%)
+	2: CH (23.81%)
+	3: GB (14.29%)
+	4: TC (4.76%)
+	5: US (4.76%)
+Top record
+	1: J32 (14.29%)
+	2: 313 (9.52%)
+	3: 781 (9.52%)
+	4: S04 (4.76%)
+	5: AEL (4.76%)
+Top year
+	1: 11 (14.29%)
+	2: 13 (14.29%)
+	3: 03 (9.52%)
+	4: 14 (9.52%)
+	5: 09 (9.52%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    45.619048      0.160688      0.690238          0.049137     0.052438  126.822667   0.629381   0.722381
+std     18.877172      0.190228      0.143933          0.216364     0.022757   23.027606   0.298219   0.157253
+min     23.000000      0.000380      0.468000          0.000000     0.030700   77.018000   0.110000   0.246000
+25%     30.000000      0.030900      0.561000          0.000005     0.042100  119.938000   0.346000   0.627000
+50%     41.000000      0.076000      0.760000          0.000164     0.046300  124.080000   0.713000   0.780000
+75%     62.000000      0.220000      0.798000          0.000596     0.058800  139.781000   0.926000   0.844000
+max     83.000000      0.803000      0.952000          0.993000     0.137000  179.642000   0.966000   0.876000

@@ -1,19 +1,19 @@
-Electronic artists found: Headhunterz,Brennan Heart, Alan Walker,Georgia Ku, Brennan Heart, Brennan Heart,Jonathan Mendelsohn, Armin van Buuren, Garmiani, twocolors, MAKJ,Timmy Trumpet,Andrew W.K., Clean Bandit,Topic,Wes Nelson, Steve Aoki,Chris Lake,Tujamo, Arem Ozguc,Arman Aydin, Mangoo,IZKO,Tony Koma, Brennan Heart,Coone,Max P, Yellow Claw, Hawk,Reznikov,Alex Albino, W&W,Vini Vici, Manian, TwoRule, Tropkillaz,Yellow Claw,The Kemist
-Electronic genres found: euphoric hardstyle, turkish edm, electronic trap, brazilian edm, swedish eurodance, uk funky, edm, tropical house, rawstyle, classic hardstyle, melbourne bounce international, pop edm, electro house, progressive house, hands up, melbourne bounce, progressive electro house
+Electronic artists found: MAKJ,Timmy Trumpet,Andrew W.K., Alan Walker,Georgia Ku, Armin van Buuren, twocolors, Arem Ozguc,Arman Aydin, TwoRule, Steve Aoki,Chris Lake,Tujamo, Mangoo,IZKO,Tony Koma, Manian, Yellow Claw, Brennan Heart, Headhunterz,Brennan Heart, W&W,Vini Vici, Tropkillaz,Yellow Claw,The Kemist, Clean Bandit,Topic,Wes Nelson, Hawk,Reznikov,Alex Albino, Garmiani, Brennan Heart,Coone,Max P, Brennan Heart,Jonathan Mendelsohn
+Electronic genres found: edm, brazilian edm, tropical house, electro house, turkish edm, electronic trap, progressive house, hands up, uk funky, classic hardstyle, progressive electro house, swedish eurodance, pop edm, euphoric hardstyle, melbourne bounce, rawstyle, melbourne bounce international
 Electronic music logs found: 62.50% 
 
 Top genres
-	1: edm (7.87%)
-	2: pop dance (7.87%)
-	3: electro house (6.74%)
-	4: modern alternative rock (5.62%)
-	5: modern rock (5.62%)
+	1: edm (8.89%)
+	2: pop dance (7.78%)
+	3: electro house (6.67%)
+	4: modern alternative rock (5.56%)
+	5: modern rock (5.56%)
 Top artists
 	1: Headhunterz (2.17%)
-	2: Reznikov (2.17%)
-	3: Arman Aydin (2.17%)
-	4: The Kemist (2.17%)
-	5: MAKJ (2.17%)
+	2: MAKJ (2.17%)
+	3: Arem Ozguc (2.17%)
+	4: Alex Albino (2.17%)
+	5: The Kemist (2.17%)
 Top country
 	1: US (28.12%)
 	2: NL (21.88%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   32.000000     32.000000     32.000000         32.000000    32.000000   32.000000  32.000000  32.000000
-mean    52.687500      0.071720      0.652469          0.069626     0.091941  123.438312   0.355131   0.785719
-std     13.218847      0.104802      0.102142          0.184018     0.082408   21.804584   0.240526   0.149094
-min     10.000000      0.000956      0.474000          0.000000     0.028000   67.519000   0.068500   0.435000
+mean    52.968750      0.071720      0.652469          0.069626     0.091941  123.438312   0.355131   0.785719
+std     12.907823      0.104802      0.102142          0.184018     0.082408   21.804584   0.240526   0.149094
+min     11.000000      0.000956      0.474000          0.000000     0.028000   67.519000   0.068500   0.435000
 25%     43.750000      0.004423      0.553000          0.000000     0.041425  112.042000   0.133750   0.687750
 50%     51.000000      0.025100      0.676000          0.000294     0.056750  125.994000   0.290000   0.809500
 75%     60.250000      0.084125      0.728500          0.013527     0.082000  133.402000   0.572750   0.913750

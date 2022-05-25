@@ -1,0 +1,45 @@
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: tropical house, edm, belgian edm
+Electronic music logs found: 5.56% 
+
+Top genres
+	1: funk carioca (10.26%)
+	2: funk ostentacao (7.69%)
+	3: rap (5.13%)
+	4: trap (5.13%)
+	5: afroswing (5.13%)
+Top artists
+	1: Rah Swish (3.45%)
+	2: Vulgo FK (3.45%)
+	3: Álvaro De Luna (3.45%)
+	4: Gunna (3.45%)
+	5: League of Legends (3.45%)
+Top country
+	1: US (22.22%)
+	2: BC (22.22%)
+	3: GB (11.11%)
+	4: BX (11.11%)
+	5: ES (5.56%)
+Top record
+	1: ENK (16.67%)
+	2: UM7 (11.11%)
+	3: ARL (11.11%)
+	4: 684 (11.11%)
+	5: 515 (5.56%)
+Top year
+	1: 22 (50.00%)
+	2: 21 (16.67%)
+	3: 18 (16.67%)
+	4: 20 (5.56%)
+	5: 14 (5.56%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    72.388889      0.281350      0.727222          0.000651     0.117917  123.901444   0.621056   0.656389
+std     10.302135      0.287861      0.093678          0.001846     0.105887   25.352125   0.233334   0.115239
+min     49.000000      0.002100      0.451000          0.000000     0.034900   77.011000   0.179000   0.474000
+25%     66.750000      0.059400      0.703250          0.000000     0.051400  105.760500   0.444000   0.571000
+50%     74.000000      0.128900      0.722000          0.000000     0.065400  125.478500   0.710000   0.615000
+75%     77.750000      0.489500      0.762500          0.000014     0.142000  142.782750   0.774250   0.724000
+max     90.000000      0.811000      0.862000          0.006610     0.414000  156.101000   0.900000   0.876000

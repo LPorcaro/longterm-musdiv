@@ -1,43 +1,43 @@
-Electronic artists found: Marshmello,Demi Lovato, Gryffin,OneRepublic
-Electronic genres found: edm, tropical house, electro house, brostep, progressive electro house
-Electronic music logs found: 9.52% 
+Electronic artists found: Gryffin,OneRepublic, Marshmello,Demi Lovato
+Electronic genres found: electro house, tropical house, brostep, progressive electro house, edm
+Electronic music logs found: 9.09% 
 
 Top genres
-	1: pop (26.76%)
-	2: dance pop (8.45%)
-	3: electropop (5.63%)
-	4: australian pop (4.23%)
-	5: post-teen pop (4.23%)
+	1: pop (25.68%)
+	2: dance pop (8.11%)
+	3: electropop (5.41%)
+	4: australian pop (4.05%)
+	5: post-teen pop (4.05%)
 Top artists
-	1: Vance Joy (3.57%)
-	2: Drax Project (3.57%)
-	3: OneRepublic (3.57%)
-	4: Chelsea Cutler (3.57%)
-	5: MAX (3.57%)
+	1: MAX (3.23%)
+	2: Gryffin (3.23%)
+	3: Dua Lipa (3.23%)
+	4: Quinn XCII (3.23%)
+	5: Vance Joy (3.23%)
 Top country
-	1: US (80.95%)
-	2: GB (14.29%)
-	3: QM (4.76%)
+	1: US (77.27%)
+	2: GB (18.18%)
+	3: QM (4.55%)
 Top record
-	1: UM7 (19.05%)
-	2: UG1 (19.05%)
-	3: SM1 (14.29%)
-	4: AT2 (9.52%)
-	5: WB1 (9.52%)
+	1: UM7 (22.73%)
+	2: UG1 (18.18%)
+	3: SM1 (13.64%)
+	4: AT2 (9.09%)
+	5: WB1 (9.09%)
 Top year
-	1: 20 (38.10%)
-	2: 21 (38.10%)
-	3: 22 (9.52%)
-	4: 19 (9.52%)
-	5: 18 (4.76%)
+	1: 21 (40.91%)
+	2: 20 (36.36%)
+	3: 22 (9.09%)
+	4: 19 (9.09%)
+	5: 18 (4.55%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
-mean    71.238095      0.196302      0.640381          0.000045     0.071819  122.827190   0.467333   0.642429
-std      5.156595      0.218682      0.107682          0.000201     0.060515   30.694626   0.175437   0.117278
-min     64.000000      0.001880      0.396000          0.000000     0.034500   63.392000   0.239000   0.408000
-25%     68.000000      0.030100      0.572000          0.000000     0.040500  103.953000   0.355000   0.563000
-50%     70.000000      0.094700      0.668000          0.000000     0.048400  121.004000   0.420000   0.611000
-75%     74.000000      0.286000      0.737000          0.000000     0.068500  134.057000   0.518000   0.740000
-max     85.000000      0.802000      0.806000          0.000922     0.284000  179.954000   0.884000   0.849000
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence    energy
+count   22.000000     22.000000     22.000000         22.000000    22.000000   22.000000  22.000000  22.00000
+mean    72.045455      0.188925      0.647455          0.000045     0.069995  122.518318   0.488909   0.64950
+std      6.297976      0.216199      0.110200          0.000196     0.059673   29.989901   0.198881   0.11916
+min     64.000000      0.001880      0.396000          0.000000     0.031700   63.392000   0.239000   0.40800
+25%     68.000000      0.031075      0.574250          0.000000     0.040275  104.211750   0.357750   0.56775
+50%     70.500000      0.087600      0.676500          0.000000     0.048300  118.518000   0.431500   0.61200
+75%     74.750000      0.275750      0.741500          0.000002     0.067600  132.523000   0.567500   0.74150
+max     89.000000      0.802000      0.806000          0.000922     0.284000  179.954000   0.942000   0.84900

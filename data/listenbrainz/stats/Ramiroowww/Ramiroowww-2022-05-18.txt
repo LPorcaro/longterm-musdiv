@@ -1,0 +1,30 @@
+Electronic artists found: CamelPhat,Elderbrook
+Electronic genres found: tropical house, edm, deep tech house, progressive house
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: deep tech house (16.67%)
+	2: edm (16.67%)
+	3: house (16.67%)
+	4: pop dance (16.67%)
+	5: progressive house (16.67%)
+Top artists
+	1: Elderbrook (50.00%)
+	2: CamelPhat (50.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: CPZ (100.00%)
+Top year
+	1: 17 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0        1.0000         1.000             1.000       1.0000    1.000    1.000    1.00
+mean         66.0        0.0245         0.706             0.512       0.0325  122.007    0.444    0.74
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          66.0        0.0245         0.706             0.512       0.0325  122.007    0.444    0.74
+25%          66.0        0.0245         0.706             0.512       0.0325  122.007    0.444    0.74
+50%          66.0        0.0245         0.706             0.512       0.0325  122.007    0.444    0.74
+75%          66.0        0.0245         0.706             0.512       0.0325  122.007    0.444    0.74
+max          66.0        0.0245         0.706             0.512       0.0325  122.007    0.444    0.74

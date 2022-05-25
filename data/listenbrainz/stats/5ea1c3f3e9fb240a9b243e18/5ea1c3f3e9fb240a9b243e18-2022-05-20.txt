@@ -1,0 +1,45 @@
+Electronic artists found: LUM!X,PIA MARIA
+Electronic genres found: melbourne bounce international, slap house
+Electronic music logs found: 4.54% 
+
+Top genres
+	1: eurovision (10.00%)
+	2: junior eurovision (10.00%)
+	3: russian dance pop (5.00%)
+	4: russian pop (5.00%)
+	5: ukrainian pop (5.00%)
+Top artists
+	1: LUM!X (7.14%)
+	2: Circus Mircus (7.14%)
+	3: Chanel (7.14%)
+	4: Senhit (7.14%)
+	5: Eleftheria Eleftheriou (7.14%)
+Top country
+	1: ES (45.45%)
+	2: DK (13.64%)
+	3: US (9.09%)
+	4: RU (4.55%)
+	5: GR (4.55%)
+Top record
+	1: 94B (45.45%)
+	2: UM7 (18.18%)
+	3: A01 (4.55%)
+	4: WD1 (4.55%)
+	5: GRA (4.55%)
+Top year
+	1: 22 (59.09%)
+	2: 21 (13.64%)
+	3: 19 (9.09%)
+	4: 17 (9.09%)
+	5: 03 (4.55%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   22.000000     22.000000     22.000000         22.000000    22.000000   22.000000  22.000000  22.000000
+mean    52.454545      0.081835      0.673591          0.002720     0.078705  115.458636   0.584636   0.756545
+std     23.319167      0.113558      0.109473          0.002906     0.034924   16.528139   0.171916   0.091580
+min      1.000000      0.001700      0.472000          0.000000     0.033800   99.978000   0.197000   0.643000
+25%     38.250000      0.032500      0.614000          0.000000     0.041275  104.985000   0.596750   0.698000
+50%     69.000000      0.068200      0.741500          0.000836     0.073800  104.985000   0.618000   0.702500
+75%     69.000000      0.068200      0.756000          0.005950     0.112000  123.599500   0.618000   0.801250
+max     78.000000      0.557000      0.785000          0.005950     0.131000  149.913000   0.870000   0.935000

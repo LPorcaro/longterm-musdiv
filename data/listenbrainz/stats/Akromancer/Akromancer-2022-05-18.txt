@@ -1,0 +1,45 @@
+Electronic artists found: Flosstradamus,FKi 1st,graves,Post Malone,KEY!,Casper & B., SAINt JHN,Lil Baby, SAINt JHN,Imanbek, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry, Flosstradamus,FKi 1st,graves,Post Malone,KEY!, Ellie Goulding,Juice WRLD, Lost Kings,Wiz Khalifa,Social House, Xuitcasecity, SAINt JHN
+Electronic genres found: pop edm, electro house, tropical house, electronic trap, video game music, slap house, edm
+Electronic music logs found: 5.08% 
+
+Top genres
+	1: melodic rap (11.77%)
+	2: rap (9.62%)
+	3: pop rap (9.29%)
+	4: trap (6.47%)
+	5: sad rap (4.98%)
+Top artists
+	1: WATT (0.65%)
+	2: Roddy Ricch (0.65%)
+	3: Post Malone (0.65%)
+	4: Jez Dior (0.65%)
+	5: MAX (0.65%)
+Top country
+	1: US (58.76%)
+	2: QM (12.99%)
+	3: TC (11.30%)
+	4: GB (5.65%)
+	5: QZ (3.95%)
+Top record
+	1: UM7 (22.60%)
+	2: SM1 (7.34%)
+	3: UG1 (6.21%)
+	4: AT2 (4.52%)
+	5: RC1 (4.52%)
+Top year
+	1: 19 (27.68%)
+	2: 18 (23.16%)
+	3: 17 (12.43%)
+	4: 21 (10.17%)
+	5: 20 (9.04%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  177.000000    177.000000     177.00000        177.000000   177.000000  177.000000  177.000000  177.000000
+mean    55.033898      0.164513       0.63822          0.004455     0.097597  126.975876    0.409186    0.668328
+std     14.253747      0.196213       0.12535          0.047084     0.090057   30.898994    0.192073    0.140855
+min     25.000000      0.000017       0.33700          0.000000     0.026600   69.978000    0.038600    0.343000
+25%     44.000000      0.022600       0.54400          0.000000     0.044600   98.068000    0.263000    0.572000
+50%     55.000000      0.085000       0.65600          0.000000     0.065800  132.004000    0.379000    0.669000
+75%     66.000000      0.228000       0.71900          0.000005     0.099500  151.769000    0.547000    0.773000
+max     85.000000      0.820000       0.91800          0.623000     0.573000  196.213000    0.898000    0.972000

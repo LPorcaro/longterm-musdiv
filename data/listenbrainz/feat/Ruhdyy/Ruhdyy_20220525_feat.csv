@@ -1,0 +1,89 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5uEYRdEIh9Bo4fpjDd4Na9	Travis Scott,HVME	Goosebumps - Remix	USSM12100202	80	hip hop,rap,slap house,trap	0.418	0.841	0.0	0.0379	124.917	0.808	0.593
+6d8HN8MqqbqrEUI2bvx0aG	Kanye West	Jail	USUM72116263	69	chicago rap,rap	0.535	0.458	0.000305	0.0949	110.013	0.586	0.571
+0zLClc0emc6qUeV1p5nc99	Kanye West	No More Parties In LA	USUM71603085	70	chicago rap,rap	0.246	0.508	0.0	0.303	93.058	0.681	0.921
+29TPjc8wxfz4XMn21O7VsZ	Playboi Carti	Sky	USUM72024699	80	atl hip hop,plugg,pluggnb,rap,trap	0.258	0.785	0.0	0.21	139.98	0.565	0.903
+4aVuWgvD0X63hcOCnZtNFA	TOTO	Hold the Line	USSM17800444	76	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.00783	0.473	0.0618	0.0561	96.556	0.808	0.898
+7FIWs0pqAYbP91WWM0vlTQ	Eminem,Juice WRLD	Godzilla (feat. Juice WRLD)	USUM72000788	82	detroit hip hop,hip hop,rap	0.145	0.808	0.0	0.342	165.995	0.829	0.745
+0MrZX4ubbrpfweHuHxXUuk	Fumaxa,Richie Campbell,Julinho Ksd	The City is a Jungle	PT0JS2000001	46	hip hop tuga	0.291	0.87	0.000182	0.218	103.972	0.487	0.677
+0v1XpBHnsbkCn7iJ9Ucr1l	Bon Jovi	It's My Life	USIR20000145	77	glam metal,rock	0.0263	0.551	1.35e-05	0.0466	119.992	0.544	0.913
+5hVghJ4KaYES3BFUATCYn0	Tyler, The Creator	EARFQUAKE	USQX91901111	79	hip hop,rap	0.23	0.554	5.98e-06	0.0685	79.635	0.413	0.498
+79s5XnCN4TJKTVMSmOx8Ep	Pop Smoke	Dior	USUM71914275	80	brooklyn drill	0.212	0.548	0.000389	0.351	142.094	0.648	0.805
+2xUQFT2ndnz4NAhKloClQU	Pedro Abrunhosa,Camane	Para Os Braços Da Minha Mãe	PTJT11300065	41	portuguese pop,portuguese rock	0.94	0.393	0.00536	0.0344	105.917	0.385	0.124
+7sbEmVgE68ngice4deuQaP	Jimmy P,Deejay Telio	Ano Novo	ES71G1879262	34	hip hop tuga,portuguese pop,rap criolo	0.409	0.727	0.000282	0.12	125.068	0.551	0.87
+27NovPIUIRrOZoCHxABJwK	Lil Nas X,Jack Harlow	INDUSTRY BABY (feat. Jack Harlow)	USSM12104539	88	lgbtq+ hip hop,pop	0.0203	0.736	0.0	0.0615	149.995	0.894	0.704
+2AT8iROs4FQueDv2c8q2KE	Arctic Monkeys	R U Mine?	GBCEL1300363	77	garage rock,permanent wave,rock,sheffield indie	0.00616	0.288	0.0	0.0371	97.094	0.619	0.758
+2BSuTvvgGd7cfX1JTM9lZE	ProfJam	Água de Coco	PT8HB1800002	41	hip hop tuga,trap tuga	0.399	0.798	0.0	0.0446	119.966	0.129	0.489
+3L0IKstjUgDFVQAbQIRZRv	Playboi Carti	R.I.P.	USUM71804150	74	atl hip hop,plugg,pluggnb,rap,trap	0.0119	0.725	0.0	0.159	140.003	0.515	0.725
+2KTw4vRM6mdBzMlVkInvSS	Lhast,Dillaz	O Clima	QZ5FN1764456	40	hip hop tuga,rap angolano	0.76	0.725	0.0013	0.0574	99.087	0.306	0.454
+4mAcjwqUjHZXGOJSAh7Tqe	Julinho Ksd	Whiskey	PT1II2100015	43	hip hop tuga,rap criolo	0.689	0.794	0.00166	0.0507	114.047	0.527	0.538
+2cYqizR4lgvp4Qu6IQ3qGN	Travis Scott	BUTTERFLY EFFECT	USSM11704799	76	hip hop,rap,slap house,trap	0.0531	0.763	0.0	0.05	140.958	0.193	0.628
+5T8EDUDqKcs6OSOwEsfqG7	Queen	Don't Stop Me Now - Remastered 2011	GBUM71029610	79	classic rock,glam rock,rock	0.0475	0.559	0.000176	0.17	156.295	0.609	0.868
+386RUes7n1uM1yfzgeUuwp	Bruno Mars	The Lazy Song	USAT21001886	74	dance pop,pop	0.3	0.794	0.0	0.0699	174.915	0.955	0.711
+6mmQxU4MHG0JEC0sUVmHc0	X-Tense	11:11	TCADW1851389	32	hip hop tuga	0.533	0.75	2.61e-05	0.0594	89.042	0.304	0.378
+3Ho13bRS28xEvGvgW4LOFM	Sheff G,Polo G	On Go (feat. Polo G)	USRC12102147	66	brooklyn drill,new york drill,nyc rap	0.459	0.88	1.28e-06	0.323	103.542	0.623	0.427
+5xNUR50KxswPRAvx7S163g	Hugh Jackman,Keala Settle,Daniel Everidge,Zendaya,The Greatest Showman Ensemble	Come Alive	USAT21704619	66	hollywood,show tunes	0.00558	0.702	0.000802	0.128	118.034	0.235	0.77
+0nbXyq5TXYPCO7pr3N8S4I	Roddy Ricch	The Box	USAT21906978	79	melodic rap,rap,trap	0.104	0.896	0.0	0.0559	116.971	0.642	0.586
+5Hh75EcyZPRPcsivpZp5eL	Julinho Ksd	Sentimento Safari	QZES91939312	39	hip hop tuga,rap criolo	0.19	0.789	0.0	0.394	103.143	0.395	0.868
+45pxNtK2TTtB8dKiRH2YUX	X-Tense	Que Passa (Pablo y Pepe)	PTUM71900180	30	hip hop tuga	0.144	0.663	3e-05	0.294	90.886	0.961	0.839
+2WYs5LxOZfEyURXu7V0O1a	1nonly	Stay With Me	TCAFE2016912	79	aesthetic rap	0.302	0.684	0.0	0.335	126.677	0.335	0.844
+2BJSMvOGABRxokHKB0OI8i	Playboi Carti,Lil Uzi Vert	Shoota (feat. Lil Uzi Vert)	USUM71804149	78	atl hip hop,plugg,pluggnb,rap,trap	0.188	0.673	0.0	0.196	153.075	0.47	0.649
+68Dni7IE4VyPkTOH9mRWHr	J. Cole	No Role Modelz	USQX91402598	86	conscious hip hop,hip hop,north carolina hip hop,rap	0.324	0.69	0.0	0.339	100.028	0.494	0.521
+1ftBvRj542ol7LT1A0EtL7	Wet Bed Gang	Devia Ir	TCADS1831472	52	hip hop tuga,trap tuga	0.638	0.714	0.0	0.403	94.205	0.486	0.51
+7wBJfHzpfI3032CSD7CE2m	Travis Scott	STARGAZING	USSM11806658	73	hip hop,rap,slap house,trap	0.00947	0.487	4.05e-06	0.044	150.007	0.0564	0.789
+18vXApRmJSgQ6wG2ll9AOg	Polo G	RAPSTAR	USSM12101640	75	chicago rap	0.41	0.789	0.0	0.242	81.039	0.437	0.536
+6Yjj0HEBFdOtNjhbhiOiah	Russ Millions	Big Shark	GBAYE2100783	67	uk drill	0.398	0.81	3.32e-06	0.294	139.995	0.936	0.93
+15JINEqzVMv3SvJTAXAKED	Eminem,Rihanna	Love The Way You Lie	USUM71015397	80	detroit hip hop,hip hop,rap	0.241	0.749	0.0	0.227	86.989	0.641	0.925
+6nV2dFZXpv1JlqDWBeTXRl	KSI	Holiday	QMRSZ2101354	66	uk hip hop	0.152	0.356	0.0	0.0878	87.188	0.347	0.684
+4Pl3vnDKIJRQ1eXjeqimBR	Bispo,Deezy	NÓS2 (feat. Deezy)	PTBM11800156	39	hip hop tuga	0.477	0.462	0.0	0.381	86.968	0.452	0.647
+5TxRUOsGeWeRl3xOML59Ai	Tyler, The Creator	ARE WE STILL FRIENDS?	USQX91901168	76	hip hop,rap	0.128	0.216	2.39e-06	0.0371	187.308	0.313	0.497
+6NgYIETQ8U72CVfkzYhK30	Alexander Rybak	Fairytale	NO23B0900016	72	eurovision	0.434	0.586	1.87e-05	0.0271	107.964	0.593	0.714
+7nzsY8vlnKdvGOEE0rjAXZ	Arctic Monkeys	Arabella	GBCEL1300365	73	garage rock,permanent wave,rock,sheffield indie	0.0202	0.579	1.26e-06	0.0895	179.949	0.506	0.558
+4pt5fDVTg5GhEvEtlz9dKk	Måneskin	I WANNA BE YOUR SLAVE	ITB002100115	82	indie rock italiano,italian pop	0.00165	0.75	0.0	0.0387	132.507	0.958	0.608
+6OGogr19zPTM4BALXuMQpF	The Weeknd	Take My Breath - Single Version	USUG12102076	75	canadian contemporary r&b,canadian pop,pop	0.0107	0.748	2.18e-05	0.0484	121.004	0.518	0.74
+7woW97CfcWaKtuC6W5BP2K	Michael Jackson	Heal the World	USSM10024731	66	pop,r&b,soul	0.537	0.545	1.8e-06	0.0485	80.948	0.101	0.485
+3eekarcy7kvN4yt5ZFzltW	Travis Scott	HIGHEST IN THE ROOM	USSM11904276	80	hip hop,rap,slap house,trap	0.0546	0.598	5.83e-06	0.0317	76.469	0.0605	0.427
+5iZdN7FwGMBBaYsPP5DO8l	X-Tense	P de Pablito	QZHNA1944718	43	hip hop tuga	0.605	0.666	0.000896	0.239	85.292	0.805	0.413
+1s9DTymg5UQrdorZf43JQm	Playboi Carti,Bryson Tiller	Fell In Luv (feat. Bryson Tiller)	USUM71804159	76	atl hip hop,plugg,pluggnb,rap,trap	0.0273	0.657	0.0	0.136	162.997	0.227	0.668
+2LdgS2E3CEWAnWDBRgC1O9	X-Tense	Azzim & Azzado	PT2DY2100012	26	hip hop tuga	0.362	0.838	0.0	0.0605	113.992	0.833	0.849
+6isTQfKXhNO3EyJd9mSxx8	Lil Nas X,Miley Cyrus	AM I DREAMING (feat. Miley Cyrus)	USSM12105739	64	lgbtq+ hip hop,pop	0.77	0.629	2.92e-06	0.0258	94.103	0.209	0.445
+4lhqb6JvbHId48OUJGwymk	Avicii	Hey Brother	CH3131340084	76	dance pop,edm,pop,pop dance,pop rap	0.0309	0.545	4.64e-05	0.0436	125.014	0.458	0.78
+5MLreTrtwv7fGyyAy0RyeB	Ro Ransom,Y2K	See Me Fall - Y2K Remix	QM42K1602291	71	nyc rap	0.301	0.625	0.0	0.0976	109.976	0.131	0.829
+4xkOaSrkexMciUUogZKVTS	Eminem,Nate Dogg	'Till I Collapse	USIR10211066	83	detroit hip hop,hip hop,rap	0.0622	0.548	0.0	0.186	171.447	0.1	0.847
+37BZB0z9T8Xu7U3e65qxFy	The Weeknd,Ariana Grande	Save Your Tears (with Ariana Grande) (Remix)	USUG12101839	84	canadian contemporary r&b,canadian pop,pop	0.0215	0.65	2.44e-05	0.0325	118.091	0.593	0.825
+2TPBDdqlAb6BitW6KC1KjW	Plutónio	Lucy Lucy	PT9EV1900004	40	hip hop tuga	0.128	0.707	0.00109	0.286	150.088	0.226	0.661
+6th8IdY4lYeM0QlSQJhhkp	Lil Nas X	LOST IN THE CITADEL	USSM12105736	61	lgbtq+ hip hop,pop	0.0963	0.768	1.03e-05	0.0295	92.965	0.472	0.764
+3JR2RztQcOjUQGQSybxDIO	Lil Nas X,Elton John	ONE OF ME (feat. Elton John)	USSM12105735	61	lgbtq+ hip hop,pop	0.202	0.708	0.0	0.0617	144.09	0.561	0.598
+6LNoArVBBVZzUTUiAX2aKO	Kanye West	Off The Grid	USUM72116304	74	chicago rap,rap	0.0438	0.546	0.0	0.37	137.728	0.63	0.64
+5rW7qTn83sCKtqBoneJs63	bbno$,Rich Brian	edamame (feat. Rich Brian)	QMUY42100151	70	canadian hip hop,dark trap,vapor trap	0.0229	0.815	0.000176	0.114	106.035	0.685	0.849
+1H7KnK26kc1YyellpbINEn	Pop Smoke,50 Cent,Roddy Ricch	The Woo (feat. 50 Cent & Roddy Ricch)	USUM72013367	74	brooklyn drill	0.0221	0.49	3.77e-06	0.104	99.7	0.286	0.618
+3hd6zLhnTlbJ8PupYt3cAI	Kanye West	No Child Left Behind	USUM72116303	65	chicago rap,rap	0.00632	0.161	0.792	0.0341	135.382	0.0815	0.327
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	83	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+0pqnGHJpmpxLKifKRmU6WP	Imagine Dragons	Believer	USUM71700626	85	modern rock,rock	0.0622	0.776	0.0	0.128	124.949	0.666	0.78
+3GfFnboTlt09WXO5z33ZMe	Julinho Ksd,Yuran,Trista	Vivi Good	PT1II1900001	37	hip hop tuga,rap criolo	0.541	0.826	1.96e-06	0.104	104.988	0.596	0.8
+37ZJ0p5Jm13JPevGcx4SkF	Bon Jovi	Livin' On A Prayer	USPR38619998	82	glam metal,rock	0.0778	0.532	0.000214	0.0335	122.511	0.795	0.887
+2UepGMU5MHLyvDttnuBOMC	X-Tense,Los Cavakitos	Yolanda	PTUM71900235	37	hip hop tuga	0.535	0.58	0.000831	0.0893	200.758	0.562	0.709
+2SL6oP2YAEQbqsrkOzRGO4	Eminem	Venom - Music From The Motion Picture	USUM71813345	73	detroit hip hop,hip hop,rap	0.0193	0.749	0.0	0.064	135.959	0.46	0.794
+0JP9xo3adEtGSdUEISiszL	XXXTENTACION	Moonlight	USUG11800209	80	emo rap,miami hip hop	0.556	0.921	0.00404	0.0804	128.009	0.711	0.537
+6pQKUKBpwr6GhfhcFFFozo	MC Zaquin,MC Rick	Não Nasceu pra Namorar	BX9L12100029	69	funk bh,funk carioca	0.14	0.525	0.0	0.0443	83.406	0.527	0.448
+07VWSUwiJi9S79W60EWYOE	Sam The Kid,G.Q	Poetas De Karaoke	PTH840601165	40	hip hop tuga,rap tuga underground	0.358	0.724	0.0	0.59	93.908	0.715	0.727
+3dPQuX8Gs42Y7b454ybpMR	The White Stripes	Seven Nation Army	USVT10300001	81	alternative rock,blues rock,detroit rock,garage rock,modern blues rock,modern rock,permanent wave,punk blues,rock	0.0039	0.743	0.118	0.0683	123.596	0.278	0.446
+0nLiqZ6A27jJri2VCalIUs	Metallica	Nothing Else Matters	GBF089190020	77	hard rock,metal,old school thrash,rock,thrash metal	0.0458	0.553	6.01e-06	0.0263	142.352	0.158	0.362
+0eA43imPmYEq6166XHM3UX	Wet Bed Gang	Mais Caro	ES71G1917068	37	hip hop tuga,trap tuga	0.366	0.822	3.74e-06	0.225	125.02	0.35	0.664
+58HvfVOeJY7lUuCqF0m3ly	Elley Duhé	MIDDLE OF THE NIGHT	USRC11903813	91	alt z,pop	0.0228	0.41	0.0	0.0467	185.727	0.0899	0.611
+1AgqELuodwiIUbJhXM74Jx	Wet Bed Gang	Irresponsável	ES71G1927904	45	hip hop tuga,trap tuga	0.245	0.861	0.000121	0.45	128.094	0.278	0.516
+39Yp9wwQiSRIDOvrVg7mbk	THE SCOTTS,Travis Scott,Kid Cudi	THE SCOTTS	USSM12002217	75		0.233	0.716	0.0	0.0514	129.979	0.28	0.537
+59J5nzL1KniFHnU120dQzt	Playboi Carti,Lil Uzi Vert	wokeuplikethis*	USUM71702277	73	atl hip hop,plugg,pluggnb,rap,trap	0.0138	0.785	0.0	0.254	78.477	0.478	0.62
+1K5KBOgreBi5fkEHvg5ap3	Future,Drake	Life Is Good (feat. Drake)	USSM11914962	71	atl hip hop,rap,southern hip hop,trap	0.067	0.795	0.0	0.487	142.053	0.537	0.574
+1r9xUipOqoNwggBpENDsvJ	Imagine Dragons,JID,Arcane,League of Legends	Enemy (with JID) - from the series Arcane League of Legends	USUM72119916	89	modern rock,rock	0.237	0.728	0.0	0.266	77.011	0.555	0.783
+2Diz85eMch17UsnrZ7Ci8q	JELEEL!	JELEEL JUICE!	QM24S2104798	57	rhode island rap	0.0187	0.6	0.0	0.0508	131.059	0.839	0.916
+0A0NJtd7yYuegBrj6qvqSo	Julinho Ksd	Stunka	PT1II2100005	44	hip hop tuga,rap criolo	0.168	0.722	0.173	0.075	139.965	0.66	0.728
+4UChhDCTtneR0QXN0btEmz	Natiruts,Claudia Leitte	Sorri, Sou Rei (feat. Claudia Leitte)	BRXCR0900005	56	brazilian reggae,brazilian rock,reggae tuga	0.503	0.783	1.31e-05	0.0338	101.015	0.643	0.651
+3wuCCNCnBhJlwkIJTBZFiv	Michael Jackson	They Don't Care About Us	USSM19500629	69	pop,r&b,soul	0.205	0.859	0.00837	0.129	89.946	0.731	0.905
+5ZxHzpxIEr0rxGJN8Jsdjy	Plutónio	1 de Abril	PT9EV1900002	46	hip hop tuga	0.193	0.774	0.0	0.209	146.043	0.3	0.648
+1XGmzt0PVuFgQYYnV2It7A	Maroon 5,Wiz Khalifa	Payphone	USUM71203347	82	pop	0.0188	0.743	0.0	0.0414	110.015	0.545	0.752
+2xLMifQCjDGFmkHkpNLD9h	Travis Scott	SICKO MODE	USSM11806660	80	hip hop,rap,slap house,trap	0.00513	0.834	0.0	0.222	155.008	0.446	0.73
+300YN8ebGB90nDuzgz0f3O	Queen	Killer Queen	GBUM71029606	66	classic rock,glam rock,rock	0.365	0.526	1.3e-06	0.0472	117.132	0.622	0.64
+0vY0Kn5TJewioo4yUUAJC0	Slow J	Vida Boa	USDHM1705499	37	hip hop tuga	0.0326	0.581	5.45e-05	0.283	124.403	0.565	0.507
+50ZpPgU81payZxI2H7QXNM	Bon Jovi	Born To Be My Baby	USPR38800037	60	glam metal,rock	0.0089	0.534	0.0	0.0379	131.278	0.756	0.959
+7lAK3oHbfEnvUQWosrMMpR	Travis Scott	YOSEMITE	USSM11806669	71	hip hop,rap,slap house,trap	0.283	0.785	3.4e-06	0.0409	128.047	0.144	0.554

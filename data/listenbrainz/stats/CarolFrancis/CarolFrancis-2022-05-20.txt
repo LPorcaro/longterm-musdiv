@@ -1,0 +1,43 @@
+Electronic artists found: Marshmello,Jonas Brothers, Marshmello,Demi Lovato, Sam Fischer
+Electronic genres found: tropical house, brostep, progressive electro house, edm
+Electronic music logs found: 16.67% 
+
+Top genres
+	1: pop (27.12%)
+	2: dance pop (10.17%)
+	3: alt z (5.08%)
+	4: uk pop (3.39%)
+	5: electropop (3.39%)
+Top artists
+	1: LANY (4.35%)
+	2: Dean Lewis (4.35%)
+	3: The Kid LAROI (4.35%)
+	4: Forest Blakk (4.35%)
+	5: Gary Clark Jr. (4.35%)
+Top country
+	1: US (72.22%)
+	2: GB (11.11%)
+	3: QZ (5.56%)
+	4: AU (5.56%)
+	5: QM (5.56%)
+Top record
+	1: UM7 (22.22%)
+	2: UG1 (16.67%)
+	3: AT2 (16.67%)
+	4: SM1 (11.11%)
+	5: TTB (5.56%)
+Top year
+	1: 21 (55.56%)
+	2: 20 (27.78%)
+	3: 22 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    69.333333      0.211303      0.620667          0.000199     0.075089  103.310222   0.431278   0.604389
+std      8.574929      0.214491      0.113679          0.000579     0.080514   17.201555   0.172077   0.131917
+min     51.000000      0.002260      0.392000          0.000000     0.029200   63.392000   0.206000   0.412000
+25%     65.250000      0.045500      0.545750          0.000000     0.038425   93.170500   0.289250   0.479250
+50%     69.000000      0.163500      0.653500          0.000000     0.042700  103.626500   0.389000   0.619500
+75%     73.750000      0.294750      0.704000          0.000000     0.063375  113.524000   0.539750   0.696250
+max     88.000000      0.835000      0.783000          0.001790     0.360000  132.005000   0.882000   0.837000

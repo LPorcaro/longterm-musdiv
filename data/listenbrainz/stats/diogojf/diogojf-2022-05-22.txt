@@ -1,0 +1,41 @@
+Electronic artists found: Avicii,Joe Janiak, Avicii,Vargas & Lagola, Avicii,A R I Z O N A, Tom Hangs,Shermanology,Avicii, Avicii, Avicii,Imagine Dragons, Avicii,Noonie Bao
+Electronic genres found: progressive electro house, edm
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: dance pop (19.51%)
+	2: edm (19.51%)
+	3: pop (19.51%)
+	4: pop dance (19.51%)
+	5: pop rap (19.51%)
+Top artists
+	1: Joe Janiak (12.50%)
+	2: Noonie Bao (12.50%)
+	3: Vargas & Lagola (12.50%)
+	4: Tom Hangs (12.50%)
+	5: Avicii (12.50%)
+Top country
+	1: SE (55.56%)
+	2: CH (33.33%)
+	3: US (11.11%)
+Top record
+	1: 5R7 (55.56%)
+	2: 313 (33.33%)
+	3: A37 (11.11%)
+Top year
+	1: 19 (44.44%)
+	2: 13 (22.22%)
+	3: 11 (11.11%)
+	4: 16 (11.11%)
+	5: 17 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    53.333333      0.141892      0.605667          0.021862     0.047833  117.194889  0.489222  0.699889
+std     15.580436      0.147372      0.051066          0.059423     0.019720   17.005413  0.161957  0.132581
+min     13.000000      0.002470      0.530000          0.000000     0.032100   82.368000  0.225000  0.525000
+25%     56.000000      0.018100      0.586000          0.000002     0.034100  109.999000  0.380000  0.601000
+50%     57.000000      0.040000      0.590000          0.000026     0.039800  125.997000  0.496000  0.717000
+75%     60.000000      0.303000      0.629000          0.005990     0.056000  126.060000  0.526000  0.727000
+max     65.000000      0.329000      0.701000          0.180000     0.093900  134.236000  0.771000  0.904000

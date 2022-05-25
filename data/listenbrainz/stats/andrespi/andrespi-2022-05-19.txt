@@ -1,0 +1,32 @@
+Electronic artists found: LANNÉ,Giorgio Gee,Scott Rill
+Electronic genres found: slap house
+Electronic music logs found: 50.00% 
+
+Top genres
+	1: psybass (50.00%)
+	2: slap house (50.00%)
+Top artists
+	1: UNKNWN (20.00%)
+	2: E Knocks (20.00%)
+	3: Scott Rill (20.00%)
+	4: Giorgio Gee (20.00%)
+	5: LANNÉ (20.00%)
+Top country
+	1: QZ (100.00%)
+Top record
+	1: HN9 (50.00%)
+	2: MHM (50.00%)
+Top year
+	1: 19 (50.00%)
+	2: 20 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count     2.00000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean     33.00000      0.121500      0.728000          0.288250     0.122500  106.075000  0.234500  0.590500
+std      43.84062      0.014849      0.162635          0.387141     0.007778   22.726412  0.126572  0.248194
+min       2.00000      0.111000      0.613000          0.014500     0.117000   90.005000  0.145000  0.415000
+25%      17.50000      0.116250      0.670500          0.151375     0.119750   98.040000  0.189750  0.502750
+50%      33.00000      0.121500      0.728000          0.288250     0.122500  106.075000  0.234500  0.590500
+75%      48.50000      0.126750      0.785500          0.425125     0.125250  114.110000  0.279250  0.678250
+max      64.00000      0.132000      0.843000          0.562000     0.128000  122.145000  0.324000  0.766000

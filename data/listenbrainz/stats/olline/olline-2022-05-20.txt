@@ -1,0 +1,43 @@
+Electronic artists found: Max Richter,Daniel Hope,Konzerthaus Kammerorchester Berlin,Andre de Ridder
+Electronic genres found: compositional ambient
+Electronic music logs found: 11.11% 
+
+Top genres
+	1: pop (20.83%)
+	2: alt z (16.67%)
+	3: canadian contemporary r&b (8.33%)
+	4: dance pop (8.33%)
+	5: electropop (8.33%)
+Top artists
+	1: Lukas Graham (9.09%)
+	2: JP Saxe (9.09%)
+	3: Edith Whiskers (9.09%)
+	4: Max Richter (9.09%)
+	5: Daniel Hope (9.09%)
+Top country
+	1: US (55.56%)
+	2: GB (33.33%)
+	3: DE (11.11%)
+Top record
+	1: UM7 (44.44%)
+	2: QX9 (22.22%)
+	3: BBA (11.11%)
+	4: VHN (11.11%)
+	5: WB1 (11.11%)
+Top year
+	1: 19 (44.44%)
+	2: 08 (11.11%)
+	3: 20 (11.11%)
+	4: 09 (11.11%)
+	5: 18 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    57.888889      0.532600      0.548333          0.100542     0.059489  103.725333  0.344778  0.483667
+std     27.080641      0.366527      0.103066          0.300922     0.041359   26.286466  0.171739  0.181337
+min      4.000000      0.019600      0.438000          0.000000     0.030200   75.801000  0.129000  0.197000
+25%     35.000000      0.194000      0.464000          0.000000     0.031000   77.981000  0.225000  0.467000
+50%     66.000000      0.662000      0.516000          0.000000     0.037100  105.513000  0.322000  0.473000
+75%     77.000000      0.866000      0.600000          0.000005     0.071000  132.084000  0.386000  0.501000
+max     81.000000      0.981000      0.720000          0.903000     0.129000  132.861000  0.604000  0.876000

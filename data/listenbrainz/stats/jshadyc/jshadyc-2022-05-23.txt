@@ -1,0 +1,45 @@
+Electronic artists found: Marshmello,Bastille
+Electronic genres found: edm, brostep, progressive electro house
+Electronic music logs found: 0.81% 
+
+Top genres
+	1: pop (23.97%)
+	2: dance pop (11.34%)
+	3: post-teen pop (5.93%)
+	4: pop rock (3.61%)
+	5: neo mellow (3.35%)
+Top artists
+	1: Snow Patrol (1.25%)
+	2: Florence + The Machine (1.25%)
+	3: Paramore (1.25%)
+	4: Tracy Chapman (1.25%)
+	5: Usher (1.25%)
+Top country
+	1: US (75.61%)
+	2: GB (20.33%)
+	3: TC (1.63%)
+	4: DE (1.63%)
+	5: UK (0.81%)
+Top record
+	1: UM7 (23.58%)
+	2: UG1 (13.01%)
+	3: AT2 (9.76%)
+	4: SM1 (6.50%)
+	5: HMU (5.69%)
+Top year
+	1: 17 (9.76%)
+	2: 20 (8.94%)
+	3: 11 (8.13%)
+	4: 08 (8.13%)
+	5: 18 (7.32%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  123.000000    123.000000    123.000000        123.000000   123.000000  123.000000  123.000000  123.000000
+mean    70.276423      0.364531      0.582943          0.000354     0.061054  122.527821    0.364104    0.541763
+std     11.012884      0.303958      0.115500          0.002904     0.059787   30.760911    0.195314    0.190180
+min     39.000000      0.001070      0.324000          0.000000     0.024200   68.976000    0.059200    0.054900
+25%     65.000000      0.099500      0.496000          0.000000     0.031400   97.196000    0.205000    0.419000
+50%     72.000000      0.263000      0.581000          0.000000     0.037000  119.930000    0.331000    0.562000
+75%     77.000000      0.609000      0.670500          0.000002     0.058400  145.430500    0.485000    0.678500
+max     91.000000      0.987000      0.836000          0.031700     0.342000  185.934000    0.843000    0.936000

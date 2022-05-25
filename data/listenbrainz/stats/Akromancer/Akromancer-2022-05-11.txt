@@ -1,19 +1,19 @@
-Electronic artists found: League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry, Hyper
-Electronic genres found: big beat, video game music
+Electronic artists found: Hyper, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry
+Electronic genres found: video game music, big beat
 Electronic music logs found: 1.82% 
 
 Top genres
-	1: metalcore (13.79%)
-	2: rock (6.32%)
-	3: alternative metal (5.46%)
-	4: modern rock (5.17%)
-	5: melodic metalcore (4.89%)
+	1: metalcore (13.99%)
+	2: rock (5.83%)
+	3: alternative metal (5.54%)
+	4: modern rock (5.25%)
+	5: melodic metalcore (4.66%)
 Top artists
-	1: Golden Wizards (1.00%)
-	2: Megan Thee Stallion (1.00%)
-	3: From Ashes to New (1.00%)
-	4: Crown The Empire (1.00%)
-	5: Architects (1.00%)
+	1: Post Malone (1.00%)
+	2: You Me At Six (1.00%)
+	3: Jonathan Young (1.00%)
+	4: MAX (1.00%)
+	5: Henry (1.00%)
 Top country
 	1: US (50.00%)
 	2: GB (10.00%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  110.000000    110.000000    110.000000        110.000000   110.000000  110.000000  110.000000  110.000000
-mean    52.100000      0.047177      0.490155          0.010473     0.113111  132.487255    0.422929    0.843582
-std     14.044458      0.109146      0.134013          0.082229     0.096947   33.653164    0.156276    0.129511
+mean    52.209091      0.047177      0.490155          0.010473     0.113111  132.487255    0.422929    0.843582
+std     13.999407      0.109146      0.134013          0.082229     0.096947   33.653164    0.156276    0.129511
 min     14.000000      0.000017      0.150000          0.000000     0.025800   75.972000    0.086200    0.413000
 25%     42.000000      0.000490      0.408250          0.000000     0.051025   98.531750    0.308000    0.799000
 50%     52.000000      0.003315      0.483000          0.000000     0.079250  135.036500    0.407000    0.881500

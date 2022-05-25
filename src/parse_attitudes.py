@@ -87,9 +87,12 @@ def analyze_iat(iat_path):
 def parse(att_round, group):
     """
     """
+    print("Parsing: round {} group {}".format(att_round,group))
     group_infile = "{}_{}.csv".format(group, att_round)
     infile = os.path.join(ATT_FOLDER, att_round, group_infile)
-
+    if not os.path.exists(infile):
+        print('\tFile {} not exist'.format(infile))
+        return
     group_dscore_outf = "{}_{}_scores.csv".format(group, att_round)
     outfile1 = os.path.join(ATT_FOLDER, att_round, group_dscore_outf)
     group_cntx_outf = "{}_{}_cntx.csv".format(group, att_round)

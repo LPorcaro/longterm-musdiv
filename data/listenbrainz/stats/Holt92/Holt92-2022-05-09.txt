@@ -1,19 +1,19 @@
-Electronic artists found: OTR,Au/Ra, Adon, Blinkie,Celina Sharma, Tom Wilson,Lucas Marx, Marc Benjamin,Marcus Santoro,David Pietras, Sam Feldt,Kate Ryan,Tobtok, MEDUZA,Becky Hill,Goodboys, Tom Ferry,Marcus Mollyhus,Nova May, Wahlstedt,Backs, Syn Cole,Carly Paige, Voost,Alix Robson, Anton Powers,Joe Stone
-Electronic genres found: slap house, edm, tropical house, pop edm, deep tropical house, gaming edm, electro house, progressive house, dutch edm, future bass, deep house, progressive electro house
+Electronic artists found: Anton Powers,Joe Stone, Adon, Voost,Alix Robson, Tom Wilson,Lucas Marx, Tom Ferry,Marcus Mollyhus,Nova May, Sam Feldt,Kate Ryan,Tobtok, MEDUZA,Becky Hill,Goodboys, Blinkie,Celina Sharma, Wahlstedt,Backs, Syn Cole,Carly Paige, Marc Benjamin,Marcus Santoro,David Pietras, OTR,Au/Ra
+Electronic genres found: gaming edm, pop edm, deep tropical house, progressive house, electro house, tropical house, progressive electro house, dutch edm, future bass, deep house, slap house, edm
 Electronic music logs found: 12.74% 
 
 Top genres
-	1: tropical house (11.49%)
-	2: pop dance (10.34%)
-	3: edm (8.05%)
-	4: pop edm (8.05%)
-	5: dance pop (6.90%)
+	1: tropical house (11.63%)
+	2: pop dance (10.47%)
+	3: edm (8.14%)
+	4: pop edm (8.14%)
+	5: dance pop (6.98%)
 Top artists
-	1: Steve Reece (1.85%)
-	2: Sam Feldt (1.85%)
-	3: Jone (1.85%)
-	4: Tobtok (1.85%)
-	5: Madison Beer (1.85%)
+	1: Hier (1.85%)
+	2: Marcus Mollyhus (1.85%)
+	3: Voost (1.85%)
+	4: Alix Robson (1.85%)
+	5: Sam Feldt (1.85%)
 Top country
 	1: SE (45.10%)
 	2: GB (20.59%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  102.000000    102.000000    102.000000        102.000000   102.000000  102.000000  102.000000  102.000000
-mean    31.392157      0.088669      0.671549          0.142104     0.055430  118.325225    0.528819    0.739098
-std     13.134609      0.080851      0.108240          0.264977     0.045208   15.003319    0.253184    0.097328
+mean    31.382353      0.088669      0.671549          0.142104     0.055430  118.325225    0.528819    0.739098
+std     13.178173      0.080851      0.108240          0.264977     0.045208   15.003319    0.253184    0.097328
 min      9.000000      0.001260      0.298000          0.000000     0.027600   74.982000    0.037100    0.457000
 25%     25.000000      0.023650      0.654000          0.000045     0.040100  107.987000    0.279000    0.719500
 50%     30.000000      0.112000      0.700000          0.000045     0.040100  111.014000    0.612500    0.744000

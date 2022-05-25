@@ -1,0 +1,1394 @@
+[
+    {
+        "listened_at": "2022-05-24T18:19:20",
+        "track_name": "Du hast",
+        "artist_name": "Rammstein",
+        "release_name": "Sehnsucht",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO",
+        "listening_from": "spotify",
+        "isrc": "DED579704010",
+        "additional_info": {
+            "artist_msid": "1bfca682-3dfd-43f2-bdd8-08a99bbd847e",
+            "artist_names": [
+                "Rammstein"
+            ],
+            "discnumber": 1,
+            "duration_ms": 234226,
+            "isrc": "DED579704010",
+            "listening_from": "spotify",
+            "recording_msid": "93df6559-4364-4ce5-8624-ca9c9cbf4d02",
+            "release_artist_name": "Rammstein",
+            "release_artist_names": [
+                "Rammstein"
+            ],
+            "release_msid": "abc8a284-ddd4-40e2-b9cb-d529590ce28e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T18:09:26",
+        "track_name": "Credit Line of Whole Staff",
+        "artist_name": "Capcom Sound Team",
+        "release_name": "Resident Evil 2 Original Soundtrack",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/62zBsT42CpwRQxfcu7gHMC",
+        "listening_from": "spotify",
+        "isrc": "JPE109700050",
+        "additional_info": {
+            "artist_msid": "e2dc655e-3a43-45f6-8f8f-6363defdb968",
+            "artist_names": [
+                "Capcom Sound Team"
+            ],
+            "discnumber": 1,
+            "duration_ms": 155533,
+            "isrc": "JPE109700050",
+            "listening_from": "spotify",
+            "recording_msid": "22f613a5-a1f0-449b-a329-9f57495f54fc",
+            "release_artist_name": "Capcom Sound Team",
+            "release_artist_names": [
+                "Capcom Sound Team"
+            ],
+            "release_msid": "f80eccb1-6005-48ea-bd13-cf2c2aab453d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+            ],
+            "spotify_id": "https://open.spotify.com/track/62zBsT42CpwRQxfcu7gHMC",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T17:50:21",
+        "track_name": "Mein Land",
+        "artist_name": "Rammstein",
+        "release_name": "Made In Germany 1995 - 2011 (Special Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 16,
+        "spotify_id": "https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa",
+        "listening_from": "spotify",
+        "isrc": "DEUM71103432",
+        "additional_info": {
+            "artist_msid": "1bfca682-3dfd-43f2-bdd8-08a99bbd847e",
+            "artist_names": [
+                "Rammstein"
+            ],
+            "discnumber": 1,
+            "duration_ms": 233186,
+            "isrc": "DEUM71103432",
+            "listening_from": "spotify",
+            "recording_msid": "50ae9ab8-b3f5-4056-83a9-a04567e0a794",
+            "release_artist_name": "Rammstein",
+            "release_artist_names": [
+                "Rammstein"
+            ],
+            "release_msid": "52aca2be-d6a9-4638-a50e-7d80b59dcab6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa",
+            "tracknumber": 16
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T14:39:51",
+        "track_name": "Time Bomb",
+        "artist_name": "Rancid",
+        "release_name": "...And Out Come The Wolves",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v",
+        "listening_from": "spotify",
+        "isrc": "USEP40322104",
+        "additional_info": {
+            "artist_msid": "e0d5f756-e157-469e-8f0a-a7e912cf78ef",
+            "artist_names": [
+                "Rancid"
+            ],
+            "discnumber": 1,
+            "duration_ms": 144333,
+            "isrc": "USEP40322104",
+            "listening_from": "spotify",
+            "recording_msid": "1701ae01-c49c-4591-a0fc-977bc1c60068",
+            "release_artist_name": "Rancid",
+            "release_artist_names": [
+                "Rancid"
+            ],
+            "release_msid": "86b89a8f-738b-49b5-8e07-057267d7a0d1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+            ],
+            "spotify_id": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:48:15",
+        "track_name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+        "artist_name": "Buzzcocks",
+        "release_name": "Love Bites",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK",
+        "listening_from": "spotify",
+        "isrc": "GBAYE9600428",
+        "additional_info": {
+            "artist_msid": "a4c66ba3-535d-42d7-9709-4634c469d674",
+            "artist_names": [
+                "Buzzcocks"
+            ],
+            "discnumber": 1,
+            "duration_ms": 163693,
+            "isrc": "GBAYE9600428",
+            "listening_from": "spotify",
+            "recording_msid": "09e3e0c3-1c9c-4c8f-b6b9-c5bf36741add",
+            "release_artist_name": "Buzzcocks",
+            "release_artist_names": [
+                "Buzzcocks"
+            ],
+            "release_msid": "cd428b84-eb3d-48aa-88be-8b2fcdf767ac",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T13:45:31",
+        "track_name": "Blitzkrieg Bop - 2016 Remaster",
+        "artist_name": "Ramones",
+        "release_name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76",
+        "listening_from": "spotify",
+        "isrc": "USRH11601901",
+        "additional_info": {
+            "artist_msid": "432f3926-4427-4824-bad1-5be24d78f0ce",
+            "artist_names": [
+                "Ramones"
+            ],
+            "discnumber": 1,
+            "duration_ms": 134466,
+            "isrc": "USRH11601901",
+            "listening_from": "spotify",
+            "recording_msid": "4b2f1ea0-2971-43e9-999a-c8c6dc275dd2",
+            "release_artist_name": "Ramones",
+            "release_artist_names": [
+                "Ramones"
+            ],
+            "release_msid": "aced606a-5a2e-4d20-b6d2-a3b1f423d334",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T01:36:10",
+        "track_name": "In Too Deep",
+        "artist_name": "Sum 41",
+        "release_name": "All Killer, No Filler",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL",
+        "listening_from": "spotify",
+        "isrc": "USIR20110114",
+        "additional_info": {
+            "artist_msid": "0d5aad58-2e55-4e84-870b-99edbf958fe6",
+            "artist_names": [
+                "Sum 41"
+            ],
+            "discnumber": 1,
+            "duration_ms": 207093,
+            "isrc": "USIR20110114",
+            "listening_from": "spotify",
+            "recording_msid": "f81acb2b-b770-4efd-a3c1-d9c4e6806bd5",
+            "release_artist_name": "Sum 41",
+            "release_artist_names": [
+                "Sum 41"
+            ],
+            "release_msid": "593d8bfc-98d7-440b-a42b-0d7206f7c19a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T01:32:42",
+        "track_name": "Wild in the Streets",
+        "artist_name": "Circle Jerks",
+        "release_name": "Wild in the Streets",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV",
+        "listening_from": "spotify",
+        "isrc": "USKKF1200013",
+        "additional_info": {
+            "artist_msid": "48e4bfd4-c6f5-49a9-a1d9-ebd921976704",
+            "artist_names": [
+                "Circle Jerks"
+            ],
+            "discnumber": 1,
+            "duration_ms": 155693,
+            "isrc": "USKKF1200013",
+            "listening_from": "spotify",
+            "recording_msid": "a33af088-d535-4f03-bd41-9012df436b7c",
+            "release_artist_name": "Circle Jerks",
+            "release_artist_names": [
+                "Circle Jerks"
+            ],
+            "release_msid": "75441f87-ec68-4c21-9486-a722329e3228",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-22T01:30:06",
+        "track_name": "Savior",
+        "artist_name": "Rise Against",
+        "release_name": "Appeal To Reason",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB",
+        "listening_from": "spotify",
+        "isrc": "USUM70832584",
+        "additional_info": {
+            "artist_msid": "33c3d4ba-6f4a-4d62-bca0-c5bd0f39ac85",
+            "artist_names": [
+                "Rise Against"
+            ],
+            "discnumber": 1,
+            "duration_ms": 242280,
+            "isrc": "USUM70832584",
+            "listening_from": "spotify",
+            "recording_msid": "daf6af0d-c8a1-4ab9-b323-8202a0a35619",
+            "release_artist_name": "Rise Against",
+            "release_artist_names": [
+                "Rise Against"
+            ],
+            "release_msid": "0461e21b-fad2-4122-913c-259468bb2346",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:34:02",
+        "track_name": "M.C.D.F.",
+        "artist_name": "Ceremony",
+        "release_name": "Rohnert Park",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/67YI5Hy1sTiAJwnATYYmWF",
+        "listening_from": "spotify",
+        "isrc": "US2Y71013402",
+        "additional_info": {
+            "artist_msid": "1f2f8e35-c7d9-4604-90ff-10a809ae91c9",
+            "artist_names": [
+                "Ceremony"
+            ],
+            "discnumber": 1,
+            "duration_ms": 112866,
+            "isrc": "US2Y71013402",
+            "listening_from": "spotify",
+            "recording_msid": "3eebbda9-58ba-4f6e-92a8-1331e0f72828",
+            "release_artist_name": "Ceremony",
+            "release_artist_names": [
+                "Ceremony"
+            ],
+            "release_msid": "e496b008-7d96-4ff4-bdfd-6a57a34adb16",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6hc8fE0bIlfJRDKOdddqGV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+            ],
+            "spotify_id": "https://open.spotify.com/track/67YI5Hy1sTiAJwnATYYmWF",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:21:06",
+        "track_name": "Warning",
+        "artist_name": "Green Day",
+        "release_name": "Warning",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu",
+        "listening_from": "spotify",
+        "isrc": "USRE10000920",
+        "additional_info": {
+            "artist_msid": "7ef97e12-5648-4261-89ed-982da0eed624",
+            "artist_names": [
+                "Green Day"
+            ],
+            "discnumber": 1,
+            "duration_ms": 221666,
+            "isrc": "USRE10000920",
+            "listening_from": "spotify",
+            "recording_msid": "8f410190-263c-48f4-a1e4-6e1ea48da7db",
+            "release_artist_name": "Green Day",
+            "release_artist_names": [
+                "Green Day"
+            ],
+            "release_msid": "49dc3d9f-710e-4350-b4a0-b72462824e2c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:17:23",
+        "track_name": "Dance, Dance",
+        "artist_name": "Fall Out Boy",
+        "release_name": "From Under The Cork Tree Limited Tour Edition",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6",
+        "listening_from": "spotify",
+        "isrc": "USDJ20500174",
+        "additional_info": {
+            "artist_msid": "cda9b98a-e4b2-40ed-b70d-1b0cf647f53d",
+            "artist_names": [
+                "Fall Out Boy"
+            ],
+            "discnumber": 1,
+            "duration_ms": 180266,
+            "isrc": "USDJ20500174",
+            "listening_from": "spotify",
+            "recording_msid": "8980dcd3-99ff-44d6-8636-65a5b43317e8",
+            "release_artist_name": "Fall Out Boy",
+            "release_artist_names": [
+                "Fall Out Boy"
+            ],
+            "release_msid": "2f9eaebb-a41a-4293-8525-ae1ebb1a127a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:14:23",
+        "track_name": "Army Of One",
+        "artist_name": "The Offspring",
+        "release_name": "Let The Bad Times Roll (Deluxe Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt",
+        "listening_from": "spotify",
+        "isrc": "USC4R2007927",
+        "additional_info": {
+            "artist_msid": "f3d7c01e-8055-48c1-963b-109cd0f7ec78",
+            "artist_names": [
+                "The Offspring"
+            ],
+            "discnumber": 1,
+            "duration_ms": 191026,
+            "isrc": "USC4R2007927",
+            "listening_from": "spotify",
+            "recording_msid": "66703dd2-5538-44cf-8948-3ce4d88b98d3",
+            "release_artist_name": "The Offspring",
+            "release_artist_names": [
+                "The Offspring"
+            ],
+            "release_msid": "0c54c40b-5376-4ae8-b764-9a9e422e0f66",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:11:08",
+        "track_name": "Terminal Addiction",
+        "artist_name": "Ceremony",
+        "release_name": "Rohnert Park",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/44hzV8JTgnaQxIqyavOjGI",
+        "listening_from": "spotify",
+        "isrc": "US2Y71013407",
+        "additional_info": {
+            "artist_msid": "1f2f8e35-c7d9-4604-90ff-10a809ae91c9",
+            "artist_names": [
+                "Ceremony"
+            ],
+            "discnumber": 1,
+            "duration_ms": 106893,
+            "isrc": "US2Y71013407",
+            "listening_from": "spotify",
+            "recording_msid": "c9a07011-4bb0-4c10-9f8d-9492b8121a9f",
+            "release_artist_name": "Ceremony",
+            "release_artist_names": [
+                "Ceremony"
+            ],
+            "release_msid": "e496b008-7d96-4ff4-bdfd-6a57a34adb16",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6hc8fE0bIlfJRDKOdddqGV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+            ],
+            "spotify_id": "https://open.spotify.com/track/44hzV8JTgnaQxIqyavOjGI",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:09:21",
+        "track_name": "Bloodstains - Original Version",
+        "artist_name": "Agent Orange",
+        "release_name": "Living In Darkness (30th Anniversary Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS",
+        "listening_from": "spotify",
+        "isrc": "USEWM0910016",
+        "additional_info": {
+            "artist_msid": "75e5f665-d296-4e87-b2a8-e898e8eab568",
+            "artist_names": [
+                "Agent Orange"
+            ],
+            "discnumber": 1,
+            "duration_ms": 113240,
+            "isrc": "USEWM0910016",
+            "listening_from": "spotify",
+            "recording_msid": "69ed4d51-d0d8-4169-9102-ec1d264f1755",
+            "release_artist_name": "Agent Orange",
+            "release_artist_names": [
+                "Agent Orange"
+            ],
+            "release_msid": "919bbf58-8006-4a6d-a8e4-9141bfab97a3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:07:27",
+        "track_name": "The Rock Show",
+        "artist_name": "blink-182",
+        "release_name": "Take Off Your Pants And Jacket",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH",
+        "listening_from": "spotify",
+        "isrc": "USMC10110768",
+        "additional_info": {
+            "artist_msid": "22f6db29-ca25-4c16-9b8a-9c09cc07b183",
+            "artist_names": [
+                "blink-182"
+            ],
+            "discnumber": 1,
+            "duration_ms": 171600,
+            "isrc": "USMC10110768",
+            "listening_from": "spotify",
+            "recording_msid": "a27a1fb5-fad2-46ab-812b-e72445a5671b",
+            "release_artist_name": "blink-182",
+            "release_artist_names": [
+                "blink-182"
+            ],
+            "release_msid": "7c2a772c-4c0c-487e-81d7-05ddf314dccf",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:04:36",
+        "track_name": "Foreign Policy",
+        "artist_name": "Fear",
+        "release_name": "The Record",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/1Z27hKdsGRt27fE5RDgUMo",
+        "listening_from": "spotify",
+        "isrc": "GBAAP0500220",
+        "additional_info": {
+            "artist_msid": "35a353c5-0e3c-4a36-8807-9640f77fd922",
+            "artist_names": [
+                "Fear"
+            ],
+            "discnumber": 1,
+            "duration_ms": 134066,
+            "isrc": "GBAAP0500220",
+            "listening_from": "spotify",
+            "recording_msid": "30ff94e5-b754-4fef-8a6b-901b8e4935a0",
+            "release_artist_name": "Fear",
+            "release_artist_names": [
+                "Fear"
+            ],
+            "release_msid": "c955660a-5a79-4788-bf3a-a0b50f049f5e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1Z27hKdsGRt27fE5RDgUMo",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T17:02:19",
+        "track_name": "Self Esteem",
+        "artist_name": "The Offspring",
+        "release_name": "Smash",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP",
+        "listening_from": "spotify",
+        "isrc": "USEP40312208",
+        "additional_info": {
+            "artist_msid": "f3d7c01e-8055-48c1-963b-109cd0f7ec78",
+            "artist_names": [
+                "The Offspring"
+            ],
+            "discnumber": 1,
+            "duration_ms": 257826,
+            "isrc": "USEP40312208",
+            "listening_from": "spotify",
+            "recording_msid": "2ee2d3d0-07e0-4bc3-966b-cab8f1376f30",
+            "release_artist_name": "The Offspring",
+            "release_artist_names": [
+                "The Offspring"
+            ],
+            "release_msid": "86c1d9e7-4dbc-4609-b516-08b14155c194",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T00:16:48",
+        "track_name": "Godzilla (feat. Serj Tankian)",
+        "artist_name": "Bear McCreary, Serj Tankian",
+        "release_name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7cY7jiKLnE6a2pLmv840dm",
+        "listening_from": "spotify",
+        "isrc": "USNLR1900135",
+        "additional_info": {
+            "artist_msid": "01b970d0-98a9-4b57-b1af-e2a337c6cdd1",
+            "artist_names": [
+                "Bear McCreary",
+                "Serj Tankian"
+            ],
+            "discnumber": 1,
+            "duration_ms": 190493,
+            "isrc": "USNLR1900135",
+            "listening_from": "spotify",
+            "recording_msid": "0438edc4-e020-4338-8eb9-16f6b97d4f9b",
+            "release_artist_name": "Bear McCreary",
+            "release_artist_names": [
+                "Bear McCreary"
+            ],
+            "release_msid": "4f3c8b39-144d-4c13-b50b-0f08073a37f5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG",
+                "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7cY7jiKLnE6a2pLmv840dm",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-21T00:11:23",
+        "track_name": "ZITTI E BUONI",
+        "artist_name": "M\u00e5neskin",
+        "release_name": "Teatro d'ira - Vol. I",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw",
+        "listening_from": "spotify",
+        "isrc": "ITB002100112",
+        "additional_info": {
+            "artist_msid": "035ea0dc-5c15-4d1c-ba00-1b7aa08cd945",
+            "artist_names": [
+                "M\u00e5neskin"
+            ],
+            "discnumber": 1,
+            "duration_ms": 194786,
+            "isrc": "ITB002100112",
+            "listening_from": "spotify",
+            "recording_msid": "2e8044d8-e6de-4354-bcc4-14d0c0654742",
+            "release_artist_name": "M\u00e5neskin",
+            "release_artist_names": [
+                "M\u00e5neskin"
+            ],
+            "release_msid": "921603ea-1971-4bf9-8262-10271df9b6f2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+            ],
+            "spotify_id": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-19T11:10:52",
+        "track_name": "Nightcall",
+        "artist_name": "Kavinsky",
+        "release_name": "Nightcall",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
+        "listening_from": "spotify",
+        "isrc": "FRS710900410",
+        "additional_info": {
+            "artist_msid": "df7cffa5-bbf9-4324-89cb-56cd1a8b70ca",
+            "artist_names": [
+                "Kavinsky"
+            ],
+            "discnumber": 1,
+            "duration_ms": 258413,
+            "isrc": "FRS710900410",
+            "listening_from": "spotify",
+            "recording_msid": "062595ff-20a5-41e2-b4f9-5ed9c58f40e6",
+            "release_artist_name": "Kavinsky",
+            "release_artist_names": [
+                "Kavinsky"
+            ],
+            "release_msid": "a1025181-c04a-411f-8a11-1adb0e6511bd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-19T10:46:19",
+        "track_name": "Haunted When the Minutes Drag",
+        "artist_name": "Love and Rockets",
+        "release_name": "Seventh Dream of Teenage Heaven",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq",
+        "listening_from": "spotify",
+        "isrc": "GBAZP8500030",
+        "additional_info": {
+            "artist_msid": "475c949d-19d4-454a-a3a0-67d24de8e7c1",
+            "artist_names": [
+                "Love and Rockets"
+            ],
+            "discnumber": 1,
+            "duration_ms": 481560,
+            "isrc": "GBAZP8500030",
+            "listening_from": "spotify",
+            "recording_msid": "c55ab59f-06c9-4753-9048-5c4c3566d969",
+            "release_artist_name": "Love and Rockets",
+            "release_artist_names": [
+                "Love and Rockets"
+            ],
+            "release_msid": "bf7a6d3d-1001-40f0-b00f-635f99ef4680",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-19T10:38:17",
+        "track_name": "Good Ol' Boys - The Dukes Of Hazzard Theme",
+        "artist_name": "John Schneider",
+        "release_name": "Good Ol' Boys",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7IoY9CnuGpZR19I7apcCXJ",
+        "listening_from": "spotify",
+        "isrc": "USBAE1002338",
+        "additional_info": {
+            "artist_msid": "2b77aaca-d43e-423b-87a0-804c3690d000",
+            "artist_names": [
+                "John Schneider"
+            ],
+            "discnumber": 1,
+            "duration_ms": 156926,
+            "isrc": "USBAE1002338",
+            "listening_from": "spotify",
+            "recording_msid": "3b7cb053-c1b0-4122-8064-b5bf09081ec8",
+            "release_artist_name": "John Schneider",
+            "release_artist_names": [
+                "John Schneider"
+            ],
+            "release_msid": "de4838c4-84e1-4a8a-9cec-992129a1ce37",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5dk1fnALF9pkgCllupjX2M"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1NvamxigHLaTIbhyzJ52tr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5dk1fnALF9pkgCllupjX2M"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7IoY9CnuGpZR19I7apcCXJ",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T14:10:28",
+        "track_name": "Give Me Back My Man",
+        "artist_name": "The B-52's",
+        "release_name": "Wild Planet",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/0r2l7oQGqQosOBZ9Uen8lN",
+        "listening_from": "spotify",
+        "isrc": "USIR28000030",
+        "additional_info": {
+            "artist_msid": "dda72320-764c-4d68-985a-11b9725c4d36",
+            "artist_names": [
+                "The B-52's"
+            ],
+            "discnumber": 1,
+            "duration_ms": 241866,
+            "isrc": "USIR28000030",
+            "listening_from": "spotify",
+            "recording_msid": "e635eab8-6b3d-46d9-8e8a-877b6787feb4",
+            "release_artist_name": "The B-52's",
+            "release_artist_names": [
+                "The B-52's"
+            ],
+            "release_msid": "b9ddabb6-3c6c-44b0-9a69-635383965d83",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3FNONpkCNVPrrqEPvm5Fwn",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0r2l7oQGqQosOBZ9Uen8lN",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T14:10:17",
+        "track_name": "Boyz-N-The-Hood",
+        "artist_name": "Eazy-E",
+        "release_name": "N.W.A. And The Posse",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+        "listening_from": "spotify",
+        "isrc": "USPO18700101",
+        "additional_info": {
+            "artist_msid": "3bb87431-352b-4adc-a7bf-fcc4c6538096",
+            "artist_names": [
+                "Eazy-E"
+            ],
+            "discnumber": 1,
+            "duration_ms": 339893,
+            "isrc": "USPO18700101",
+            "listening_from": "spotify",
+            "recording_msid": "20b7d8bd-07e0-4833-adae-2c13459c6a81",
+            "release_artist_name": "N.W.A.",
+            "release_artist_names": [
+                "N.W.A."
+            ],
+            "release_msid": "34018f8f-736b-4f46-b7e7-17a2806314e3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5fPat8IjkbKuwk27MTQIWy",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T12:25:43",
+        "track_name": "Boyz-N-The-Hood",
+        "artist_name": "Eazy-E",
+        "release_name": "N.W.A. And The Posse",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+        "listening_from": "spotify",
+        "isrc": "USPO18700101",
+        "additional_info": {
+            "artist_msid": "3bb87431-352b-4adc-a7bf-fcc4c6538096",
+            "artist_names": [
+                "Eazy-E"
+            ],
+            "discnumber": 1,
+            "duration_ms": 339893,
+            "isrc": "USPO18700101",
+            "listening_from": "spotify",
+            "recording_msid": "20b7d8bd-07e0-4833-adae-2c13459c6a81",
+            "release_artist_name": "N.W.A.",
+            "release_artist_names": [
+                "N.W.A."
+            ],
+            "release_msid": "34018f8f-736b-4f46-b7e7-17a2806314e3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5fPat8IjkbKuwk27MTQIWy",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T12:20:36",
+        "track_name": "Holy Roller Novocaine",
+        "artist_name": "Kings of Leon",
+        "release_name": "Youth And Young Manhood",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/5fv9AxkRVzCwT5XkpYjWvL",
+        "listening_from": "spotify",
+        "isrc": "USRC10200830",
+        "additional_info": {
+            "artist_msid": "8001fb6e-c898-4e01-864f-7cf9ac860873",
+            "artist_names": [
+                "Kings of Leon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 243000,
+            "isrc": "USRC10200830",
+            "listening_from": "spotify",
+            "recording_msid": "8f3ad1ee-05db-45e9-a98b-e835684ed679",
+            "release_artist_name": "Kings of Leon",
+            "release_artist_names": [
+                "Kings of Leon"
+            ],
+            "release_msid": "00eaf7e6-f380-4a61-a6f1-54fa97bbbb05",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5fv9AxkRVzCwT5XkpYjWvL",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T12:16:24",
+        "track_name": "Bad, Bad Leroy Brown",
+        "artist_name": "Jim Croce",
+        "release_name": "Life & Times",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK",
+        "listening_from": "spotify",
+        "isrc": "GBAJE7100650",
+        "additional_info": {
+            "artist_msid": "18d969fd-260d-4955-a862-11e2f7229158",
+            "artist_names": [
+                "Jim Croce"
+            ],
+            "discnumber": 1,
+            "duration_ms": 182240,
+            "isrc": "GBAJE7100650",
+            "listening_from": "spotify",
+            "recording_msid": "1a59da62-8109-482c-8f79-555d7c521043",
+            "release_artist_name": "Jim Croce",
+            "release_artist_names": [
+                "Jim Croce"
+            ],
+            "release_msid": "4c34cd4f-65e7-424b-88a3-5b10cd432bff",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:37:21",
+        "track_name": "Bad, Bad Leroy Brown",
+        "artist_name": "Jim Croce",
+        "release_name": "Life & Times",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK",
+        "listening_from": "spotify",
+        "isrc": "GBAJE7100650",
+        "additional_info": {
+            "artist_msid": "18d969fd-260d-4955-a862-11e2f7229158",
+            "artist_names": [
+                "Jim Croce"
+            ],
+            "discnumber": 1,
+            "duration_ms": 182240,
+            "isrc": "GBAJE7100650",
+            "listening_from": "spotify",
+            "recording_msid": "1a59da62-8109-482c-8f79-555d7c521043",
+            "release_artist_name": "Jim Croce",
+            "release_artist_names": [
+                "Jim Croce"
+            ],
+            "release_msid": "4c34cd4f-65e7-424b-88a3-5b10cd432bff",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:22:51",
+        "track_name": "See You In My Nightmares",
+        "artist_name": "Kanye West, Lil Wayne",
+        "release_name": "808s & Heartbreak",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/5zuoz1NBnpoHK6g5sbEH8F",
+        "listening_from": "spotify",
+        "isrc": "USUM70846390",
+        "additional_info": {
+            "artist_msid": "3b5c8500-77f3-40e9-88ce-f5e54e75bdd8",
+            "artist_names": [
+                "Kanye West",
+                "Lil Wayne"
+            ],
+            "discnumber": 1,
+            "duration_ms": 258120,
+            "isrc": "USUM70846390",
+            "listening_from": "spotify",
+            "recording_msid": "f1228728-fce1-49cd-88c4-a12496e4f4ad",
+            "release_artist_name": "Kanye West",
+            "release_artist_names": [
+                "Kanye West"
+            ],
+            "release_msid": "3bef841c-f210-4ac1-ba88-f1583766c413",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+                "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5zuoz1NBnpoHK6g5sbEH8F",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-18T10:18:33",
+        "track_name": "People Who Died",
+        "artist_name": "The Jim Carroll Band",
+        "release_name": "Catholic Boy",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/5mcaY65WhtzFk1TFRGY6kY",
+        "listening_from": "spotify",
+        "isrc": "USFP71772305",
+        "additional_info": {
+            "artist_msid": "fa67722d-83cb-4269-b895-5ac23097bc34",
+            "artist_names": [
+                "The Jim Carroll Band"
+            ],
+            "discnumber": 1,
+            "duration_ms": 299640,
+            "isrc": "USFP71772305",
+            "listening_from": "spotify",
+            "recording_msid": "64aecdd6-ae31-431e-ac1c-3cb1e3b0a414",
+            "release_artist_name": "The Jim Carroll Band",
+            "release_artist_names": [
+                "The Jim Carroll Band"
+            ],
+            "release_msid": "fdbf7345-aab7-4da7-88e4-cad099701df2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7jrNr1OwKCfNDfHkwOTJnc"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4wAWa84e356LRGEPA741Fv",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7jrNr1OwKCfNDfHkwOTJnc"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5mcaY65WhtzFk1TFRGY6kY",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T20:06:20",
+        "track_name": "Return Of The Living Dead [remix]",
+        "artist_name": "Dominik Hauser",
+        "release_name": "Return Of The Living Dead - Main Theme from the Motion Picture (Matt Clifford) Single",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7z3isPIWXKLZmUYOKwsMcx",
+        "listening_from": "spotify",
+        "isrc": "QMT281202308",
+        "additional_info": {
+            "artist_msid": "c258d295-d807-43d0-a12c-24da96595516",
+            "artist_names": [
+                "Dominik Hauser"
+            ],
+            "discnumber": 1,
+            "duration_ms": 116702,
+            "isrc": "QMT281202308",
+            "listening_from": "spotify",
+            "recording_msid": "873c8fb8-4540-4187-a2eb-57d8a14b8473",
+            "release_artist_name": "Dominik Hauser",
+            "release_artist_names": [
+                "Dominik Hauser"
+            ],
+            "release_msid": "aa7e523f-7547-43fd-bfd3-f12f4099e873",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/487H4ils1sW8Yzzflsrlf6",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7z3isPIWXKLZmUYOKwsMcx",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-17T19:41:47",
+        "track_name": "TerrorVision",
+        "artist_name": "Richard Band, The Fibonaccis",
+        "release_name": "TerrorVision (Original Soundtrack - Remastered Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/6idKOE11zFavwj8EorY0j0",
+        "listening_from": "spotify",
+        "isrc": "DECY52002462",
+        "additional_info": {
+            "artist_msid": "5c6a2faf-dfbe-41d1-a20d-93289f0789e5",
+            "artist_names": [
+                "Richard Band",
+                "The Fibonaccis"
+            ],
+            "discnumber": 1,
+            "duration_ms": 221672,
+            "isrc": "DECY52002462",
+            "listening_from": "spotify",
+            "recording_msid": "23b0d193-3424-4669-b1be-8c07162a06fd",
+            "release_artist_name": "Richard Band",
+            "release_artist_names": [
+                "Richard Band"
+            ],
+            "release_msid": "083c8b56-28da-4874-bce0-b86dc272d407",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0TXK10MEUmsJGH4lMosMiT"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3Ch1LXIPX5nT8imvP29Jwp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0TXK10MEUmsJGH4lMosMiT",
+                "https://open.spotify.com/artist/7tkcsziLxSoxHNScOUrfuQ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6idKOE11zFavwj8EorY0j0",
+            "tracknumber": 11
+        },
+        "username": null
+    }
+]

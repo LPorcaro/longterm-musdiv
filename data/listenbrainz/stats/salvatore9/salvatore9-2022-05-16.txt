@@ -1,45 +1,45 @@
-Electronic artists found: Silicone Soul, Laurent Garnier, Moloko,Boris Dlugosch,Michael Lange, Kid Loco, Ultra Naté, The Prodigy, Robin S,StoneBridge, Superfunk,Ron Carroll, Flume,kai, The Avener,Phoebe Killdeer, Claptone,JAW, St Germain, Vitalic, Hardrive, River Ocean, Nightcrawlers,MK, Kavinsky, Fritz Kalkbrenner, Aurora Borealis, Martin Solveig,Hossam Ramzy, Disclosure,Sam Smith, Mr. Scruff
-Electronic genres found: classic progressive house, minimal techno, edm, deep disco house, french techno, hardcore techno, techno, diva house, tribal house, electronica, acid house, downtempo, jazztronica, hip house, deep house, disco house, tech house, acid trance, eurodance, garage house, trip hop, breakbeat, big beat, scottish techno, microhouse, german techno, tropical house, electro house, progressive house, latin house
-Electronic music logs found: 52.38% 
+Electronic artists found: Claptone,JAW, The Avener,Phoebe Killdeer, Kid Loco, Silicone Soul, Fritz Kalkbrenner, Nightcrawlers,MK, Moloko,Boris Dlugosch,Michael Lange, Martin Solveig,Hossam Ramzy, Robin S,StoneBridge, Kavinsky, Superfunk,Ron Carroll, Vitalic, St Germain, Flume,kai, River Ocean, Disclosure,Sam Smith, Mr. Scruff, The Prodigy, Laurent Garnier, Ultra Naté, Hardrive, Aurora Borealis
+Electronic genres found: edm, german techno, tropical house, garage house, jazztronica, tech house, deep disco house, electronica, breakbeat, progressive house, deep house, acid trance, french techno, downtempo, trip hop, classic progressive house, diva house, microhouse, latin house, big beat, electro house, disco house, tribal house, scottish techno, hip house, hardcore techno, techno, minimal techno, eurodance, acid house
+Electronic music logs found: 51.16% 
 
 Top genres
-	1: electronica (5.00%)
-	2: vocal house (5.00%)
-	3: filter house (4.17%)
-	4: disco house (4.17%)
-	5: big beat (3.33%)
+	1: electronica (4.96%)
+	2: vocal house (4.96%)
+	3: filter house (4.13%)
+	4: disco house (4.13%)
+	5: big beat (3.31%)
 Top artists
-	1: Silicone Soul (1.79%)
-	2: STEFAN (1.79%)
-	3: Martin Solveig (1.79%)
-	4: Laurent Garnier (1.79%)
-	5: Boris Dlugosch (1.79%)
+	1: Raze (1.75%)
+	2: Salome de Bahia (1.75%)
+	3: Moloko (1.75%)
+	4: MK (1.75%)
+	5: Achille Lauro (1.75%)
 Top country
-	1: FR (28.57%)
-	2: GB (26.19%)
-	3: IT (9.52%)
-	4: US (7.14%)
-	5: NL (4.76%)
+	1: FR (27.91%)
+	2: GB (25.58%)
+	3: IT (9.30%)
+	4: US (6.98%)
+	5: NL (4.65%)
 Top record
-	1: UM7 (9.52%)
-	2: SR3 (7.14%)
-	3: V22 (4.76%)
-	4: BVL (4.76%)
-	5: BXG (4.76%)
+	1: UM7 (9.30%)
+	2: SR3 (6.98%)
+	3: V22 (4.65%)
+	4: BVL (4.65%)
+	5: BXG (4.65%)
 Top year
-	1: 22 (19.05%)
-	2: 09 (11.90%)
-	3: 98 (9.52%)
-	4: 21 (7.14%)
-	5: 97 (7.14%)
+	1: 22 (20.93%)
+	2: 09 (11.63%)
+	3: 98 (9.30%)
+	4: 21 (6.98%)
+	5: 97 (6.98%)
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   42.000000     42.000000     42.000000         42.000000    42.000000   42.000000  42.000000  42.000000
-mean    42.904762      0.107988      0.688333          0.218033     0.069402  120.733833   0.539955   0.729595
-std     23.319425      0.196602      0.114258          0.329020     0.047615   14.347397   0.246196   0.153173
+count   43.000000     43.000000     43.000000         43.000000    43.000000   43.000000  43.000000  43.000000
+mean    43.418605      0.111151      0.687651          0.212962     0.069895  120.204721   0.542560   0.727186
+std     23.285222      0.195352      0.112978          0.326775     0.047155   14.594003   0.243847   0.152161
 min      2.000000      0.000176      0.485000          0.000000     0.028200   82.992000   0.070100   0.337000
-25%     24.500000      0.006982      0.608250          0.000059     0.038875  119.202500   0.356500   0.623250
-50%     50.500000      0.014500      0.714000          0.004540     0.051100  123.170000   0.531000   0.748500
-75%     61.750000      0.082225      0.771500          0.364750     0.086700  126.104750   0.751000   0.845500
+25%     25.000000      0.006985      0.615500          0.000047     0.038950  118.991000   0.358000   0.622500
+50%     51.000000      0.015900      0.712000          0.003130     0.053100  123.017000   0.541000   0.740000
+75%     62.000000      0.093200      0.768000          0.359500     0.090050  126.099500   0.746000   0.844000
 max     79.000000      0.793000      0.906000          0.928000     0.274000  155.829000   0.975000   0.973000

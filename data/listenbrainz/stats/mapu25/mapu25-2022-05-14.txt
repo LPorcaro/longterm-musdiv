@@ -1,5 +1,5 @@
 Electronic artists found: LUM!X,PIA MARIA
-Electronic genres found: slap house, melbourne bounce international
+Electronic genres found: melbourne bounce international, slap house
 Electronic music logs found: 4.35% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: italian pop (7.41%)
 	5: eurovision (7.41%)
 Top artists
-	1: REDDI (3.23%)
-	2: Sheldon Riley (3.23%)
-	3: The Rasmus (3.23%)
-	4: Rosa Linn (3.23%)
-	5: Mauro Castillo (3.23%)
+	1: Rosa Linn (3.23%)
+	2: Mauro Castillo (3.23%)
+	3: Michael Ben David (3.23%)
+	4: Circus Mircus (3.23%)
+	5: Sam Ryder (3.23%)
 Top country
 	1: NO (13.04%)
 	2: QZ (13.04%)
@@ -33,10 +33,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
-mean    67.347826      0.177373      0.587261          0.000279     0.067661  124.495957   0.488913   0.667391
-std      6.072357      0.201583      0.140159          0.000946     0.050503   29.639193   0.211679   0.163604
+mean    67.913043      0.177373      0.587261          0.000279     0.067661  124.495957   0.488913   0.667391
+std      6.097041      0.201583      0.140159          0.000946     0.050503   29.639193   0.211679   0.163604
 min     59.000000      0.000261      0.312000          0.000000     0.029600   79.978000   0.168000   0.366000
-25%     64.000000      0.009220      0.492000          0.000000     0.038150  102.417000   0.338000   0.577000
+25%     64.500000      0.009220      0.492000          0.000000     0.038150  102.417000   0.338000   0.577000
 50%     66.000000      0.107000      0.568000          0.000000     0.048900  122.962000   0.500000   0.673000
-75%     70.000000      0.278500      0.691000          0.000011     0.069950  140.918500   0.581000   0.810500
+75%     70.500000      0.278500      0.691000          0.000011     0.069950  140.918500   0.581000   0.810500
 max     84.000000      0.662000      0.922000          0.004110     0.230000  205.863000   0.955000   0.910000

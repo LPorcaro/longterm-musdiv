@@ -1,0 +1,44 @@
+Electronic artists found: Hooverphonic, LUM!X,PIA MARIA
+Electronic genres found: electronica, trip hop, melbourne bounce international, downtempo, slap house
+Electronic music logs found: 5.08% 
+
+Top genres
+	1: eurovision (24.14%)
+	2: swedish pop (17.24%)
+	3: romanian pop (6.90%)
+	4: polish pop (5.17%)
+	5: italian adult pop (3.45%)
+Top artists
+	1: S10 (3.45%)
+	2: Chanel (3.45%)
+	3: Destiny (3.45%)
+	4: Senhit (3.45%)
+	5: Ochman (3.45%)
+Top country
+	1: SE (16.95%)
+	2: NO (11.86%)
+	3: NL (10.17%)
+	4: IT (6.78%)
+	5: RO (6.78%)
+Top record
+	1: UM7 (25.42%)
+	2: 5YN (11.86%)
+	3: 94B (6.78%)
+	4: GRA (5.08%)
+	5: R98 (3.39%)
+Top year
+	1: 21 (55.93%)
+	2: 22 (33.90%)
+	3: 20 (6.78%)
+	4: 12 (3.39%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   59.000000     59.000000     59.000000         59.000000    59.000000   59.000000  59.000000  59.000000
+mean    64.711864      0.153066      0.606373          0.000597     0.057605  112.357678   0.444073   0.670153
+std     11.087506      0.183132      0.117124          0.001515     0.031337   19.405895   0.193738   0.150322
+min     38.000000      0.000261      0.341000          0.000000     0.028200   76.905000   0.084300   0.277000
+25%     56.500000      0.012800      0.502500          0.000000     0.038200   96.819000   0.245500   0.607500
+50%     68.000000      0.107000      0.584000          0.000001     0.042300  111.988000   0.503000   0.675000
+75%     76.000000      0.200000      0.728000          0.000029     0.066100  124.075000   0.577000   0.763000
+max     78.000000      0.861000      0.765000          0.005660     0.144000  150.060000   0.783000   0.910000

@@ -1,0 +1,43 @@
+Electronic artists found: Avicii, Jonas Blue,William Singe, Becky Hill,David Guetta
+Electronic genres found: tropical house, edm
+Electronic music logs found: 14.29% 
+
+Top genres
+	1: pop (15.73%)
+	2: dance pop (12.36%)
+	3: modern rock (5.62%)
+	4: modern alternative rock (4.49%)
+	5: pop rap (3.37%)
+Top artists
+	1: Adele (3.57%)
+	2: Pitbull (3.57%)
+	3: Bryan Adams (3.57%)
+	4: Bruno Mars (3.57%)
+	5: Meghan Trainor (3.57%)
+Top country
+	1: US (66.67%)
+	2: GB (28.57%)
+	3: SE (4.76%)
+Top record
+	1: UM7 (38.10%)
+	2: SM1 (14.29%)
+	3: RC1 (14.29%)
+	4: ARL (9.52%)
+	5: AT2 (4.76%)
+Top year
+	1: 07 (14.29%)
+	2: 13 (14.29%)
+	3: 14 (14.29%)
+	4: 17 (9.52%)
+	5: 21 (9.52%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    69.476190      0.084731      0.620381          0.000871     0.061814  128.374000   0.605429   0.792190
+std     13.358963      0.158395      0.120998          0.002355     0.032338   23.939235   0.207338   0.147463
+min     36.000000      0.000319      0.385000          0.000000     0.032000   88.098000   0.154000   0.373000
+25%     63.000000      0.008640      0.534000          0.000000     0.042200  109.021000   0.517000   0.783000
+50%     76.000000      0.023900      0.624000          0.000002     0.050300  126.050000   0.595000   0.830000
+75%     78.000000      0.073500      0.709000          0.000262     0.063300  139.131000   0.774000   0.872000
+max     84.000000      0.602000      0.814000          0.009560     0.140000  174.028000   0.961000   0.955000

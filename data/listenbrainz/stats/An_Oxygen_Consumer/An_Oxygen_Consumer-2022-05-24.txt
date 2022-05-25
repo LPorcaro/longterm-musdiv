@@ -1,0 +1,40 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: bergamo indie (17.65%)
+	2: italian indie pop (17.65%)
+	3: italian pop (17.65%)
+	4: milan indie (17.65%)
+	5: finnish alternative rock (5.88%)
+Top artists
+	1: Boombox (25.00%)
+	2: The Kiffness (25.00%)
+	3: Pinguini Tattici Nucleari (25.00%)
+	4: The Rasmus (25.00%)
+Top country
+	1: IT (40.00%)
+	2: QM (20.00%)
+	3: SE (20.00%)
+	4: QZ (20.00%)
+Top record
+	1: B00 (40.00%)
+	2: PKX (20.00%)
+	3: VJH (20.00%)
+	4: DA8 (20.00%)
+Top year
+	1: 20 (40.00%)
+	2: 22 (40.00%)
+	3: 14 (20.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    5.000000      5.000000       5.00000      5.000000e+00     5.000000    5.000000  5.000000  5.000000
+mean    54.000000      0.275796       0.63860      2.120000e-07     0.067260  140.208000  0.632600  0.799800
+std     11.811012      0.264876       0.11552      4.740464e-07     0.018902   21.218354  0.082549  0.153601
+min     37.000000      0.002980       0.49500      0.000000e+00     0.044400  116.009000  0.487000  0.531000
+25%     52.000000      0.130000       0.56500      0.000000e+00     0.050000  120.021000  0.647000  0.815000
+50%     52.000000      0.130000       0.66700      0.000000e+00     0.073700  144.968000  0.672000  0.867000
+75%     60.000000      0.511000       0.66700      0.000000e+00     0.084100  160.021000  0.672000  0.893000
+max     69.000000      0.605000       0.79900      1.060000e-06     0.084100  160.021000  0.685000  0.893000

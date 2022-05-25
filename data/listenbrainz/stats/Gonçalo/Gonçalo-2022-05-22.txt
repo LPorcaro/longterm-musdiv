@@ -1,0 +1,34 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: arrocha (16.67%)
+	2: batidao romantico (16.67%)
+	3: funk carioca (16.67%)
+	4: funk ostentacao (16.67%)
+	5: funk paulista (16.67%)
+Top artists
+	1: L7NNON (14.29%)
+	2: MC G15 (14.29%)
+	3: Mc Don Juan (14.29%)
+	4: Mc Davi (14.29%)
+	5: Os Hawaianos (14.29%)
+Top country
+	1: BR (100.00%)
+Top record
+	1: WMB (50.00%)
+	2: 5TG (50.00%)
+Top year
+	1: 22 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean    71.500000      0.314000      0.875000          0.000008     0.228750  129.910500  0.579500  0.476500
+std     12.020815      0.055154      0.077782          0.000012     0.254912    0.079903  0.523966  0.277893
+min     63.000000      0.275000      0.820000          0.000000     0.048500  129.854000  0.209000  0.280000
+25%     67.250000      0.294500      0.847500          0.000004     0.138625  129.882250  0.394250  0.378250
+50%     71.500000      0.314000      0.875000          0.000008     0.228750  129.910500  0.579500  0.476500
+75%     75.750000      0.333500      0.902500          0.000013     0.318875  129.938750  0.764750  0.574750
+max     80.000000      0.353000      0.930000          0.000017     0.409000  129.967000  0.950000  0.673000

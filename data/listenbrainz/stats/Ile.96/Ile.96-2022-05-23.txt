@@ -1,0 +1,45 @@
+Electronic artists found: Tribal Kush,Blaiz Fayah,Richie Loop, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine
+Electronic genres found: tropical house, dutch moombahton, edm
+Electronic music logs found: 15.38% 
+
+Top genres
+	1: dance pop (9.68%)
+	2: funk carioca (9.68%)
+	3: latin (6.45%)
+	4: latin hip hop (6.45%)
+	5: reggaeton (6.45%)
+Top artists
+	1: Pitbull (3.85%)
+	2: JVLA (3.85%)
+	3: Dopamine (3.85%)
+	4: Daddy Yankee (3.85%)
+	5: Zato DJ (3.85%)
+Top country
+	1: GB (23.08%)
+	2: US (23.08%)
+	3: QM (15.38%)
+	4: RU (7.69%)
+	5: FR (7.69%)
+Top record
+	1: UM7 (15.38%)
+	2: CEN (7.69%)
+	3: A1D (7.69%)
+	4: 59R (7.69%)
+	5: BZ9 (7.69%)
+Top year
+	1: 17 (30.77%)
+	2: 20 (15.38%)
+	3: 18 (15.38%)
+	4: 10 (7.69%)
+	5: 19 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   13.000000     13.000000     13.000000         13.000000    13.000000   13.000000  13.000000  13.000000
+mean    61.769231      0.168218      0.808846          0.006834     0.155800  114.038615   0.642154   0.741385
+std     11.663003      0.230379      0.101029          0.018292     0.135687   22.293649   0.158044   0.114438
+min     48.000000      0.002250      0.606000          0.000000     0.032300   89.988000   0.325000   0.536000
+25%     51.000000      0.009030      0.770000          0.000000     0.068500   99.999000   0.561000   0.659000
+50%     59.000000      0.061300      0.815000          0.000132     0.124000  105.000000   0.634000   0.797000
+75%     67.000000      0.310000      0.889000          0.004030     0.183000  125.040000   0.774000   0.849000
+max     82.000000      0.809000      0.951000          0.067000     0.530000  172.335000   0.842000   0.872000

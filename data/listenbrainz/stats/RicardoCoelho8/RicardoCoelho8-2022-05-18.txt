@@ -1,0 +1,45 @@
+Electronic artists found: Alok,John Legend
+Electronic genres found: slap house, electro house
+Electronic music logs found: 1.82% 
+
+Top genres
+	1: arrocha (11.11%)
+	2: funk carioca (10.32%)
+	3: pop (7.14%)
+	4: pop nacional (7.14%)
+	5: sertanejo pop (6.35%)
+Top artists
+	1: MC Cabelinho (1.49%)
+	2: Marcynho Sensação (1.49%)
+	3: Sam Tompkins (1.49%)
+	4: Diogo Piçarra (1.49%)
+	5: Vulgo FK (1.49%)
+Top country
+	1: BR (32.73%)
+	2: US (16.36%)
+	3: BC (14.55%)
+	4: PT (14.55%)
+	5: BX (9.09%)
+Top record
+	1: UM7 (10.91%)
+	2: WMB (9.09%)
+	3: TLW (7.27%)
+	4: SM1 (7.27%)
+	5: 27R (7.27%)
+Top year
+	1: 21 (60.00%)
+	2: 22 (16.36%)
+	3: 20 (7.27%)
+	4: 19 (5.45%)
+	5: 15 (1.82%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   55.000000     55.000000     55.000000         55.000000    55.000000   55.000000  55.000000  55.000000
+mean    63.345455      0.305361      0.659418          0.000191     0.069122  129.144291   0.606355   0.695455
+std     16.306348      0.250948      0.117953          0.001055     0.058162   30.857752   0.261715   0.180757
+min     20.000000      0.009870      0.398000          0.000000     0.026800   77.011000   0.066600   0.286000
+25%     53.000000      0.104900      0.609500          0.000000     0.038300  102.418000   0.368500   0.543000
+50%     65.000000      0.231000      0.666000          0.000000     0.048300  131.957000   0.610000   0.731000
+75%     77.500000      0.467000      0.736000          0.000004     0.070350  153.019000   0.840000   0.842000
+max     91.000000      0.871000      0.894000          0.007580     0.346000  185.936000   0.969000   0.996000

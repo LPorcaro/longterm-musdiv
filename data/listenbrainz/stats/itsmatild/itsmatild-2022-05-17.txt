@@ -1,26 +1,45 @@
-Electronic artists found: 
-Electronic genres found: 
-Electronic music logs found: 0.00% 
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: tropical house, edm, belgian edm
+Electronic music logs found: 5.56% 
 
 Top genres
-	1: bubblegum dance (50.00%)
-	2: europop (50.00%)
+	1: r&b en espanol (8.33%)
+	2: funk carioca (6.25%)
+	3: pop (6.25%)
+	4: k-pop (6.25%)
+	5: k-pop girl group (6.25%)
 Top artists
-	1: Jamelia (100.00%)
+	1: Sabrina Carpenter (5.56%)
+	2: Kendrick Lamar (5.56%)
+	3: Calum Scott (5.56%)
+	4: Bad Bunny (5.56%)
+	5: Ghostface Killah (5.56%)
 Top country
-	1: GB (100.00%)
+	1: US (50.00%)
+	2: KR (16.67%)
+	3: GB (11.11%)
+	4: QZ (11.11%)
+	5: QM (5.56%)
 Top record
-	1: AYE (100.00%)
+	1: SM1 (22.22%)
+	2: UM7 (16.67%)
+	3: AYE (11.11%)
+	4: B46 (11.11%)
+	5: GLS (5.56%)
 Top year
-	1: 02 (100.00%)
+	1: 21 (38.89%)
+	2: 22 (33.33%)
+	3: 02 (11.11%)
+	4: 20 (11.11%)
+	5: 19 (5.56%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness   tempo  valence  energy
-count         1.0        1.0000         1.000               1.0       1.0000    1.00    1.000   1.000
-mean         68.0        0.0457         0.801               0.0       0.0356  110.01    0.824   0.645
-std           NaN           NaN           NaN               NaN          NaN     NaN      NaN     NaN
-min          68.0        0.0457         0.801               0.0       0.0356  110.01    0.824   0.645
-25%          68.0        0.0457         0.801               0.0       0.0356  110.01    0.824   0.645
-50%          68.0        0.0457         0.801               0.0       0.0356  110.01    0.824   0.645
-75%          68.0        0.0457         0.801               0.0       0.0356  110.01    0.824   0.645
-max          68.0        0.0457         0.801               0.0       0.0356  110.01    0.824   0.645
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    74.611111      0.324650      0.676889          0.001489     0.144394  128.390667   0.523106   0.674556
+std     11.525618      0.311810      0.118184          0.003726     0.104271   34.181057   0.202816   0.154903
+min     53.000000      0.022800      0.410000          0.000000     0.035600   77.215000   0.089900   0.400000
+25%     68.000000      0.071525      0.634250          0.000000     0.053725  102.493500   0.403000   0.609500
+50%     76.000000      0.178500      0.661500          0.000004     0.107500  125.862500   0.523000   0.655500
+75%     82.500000      0.499750      0.797750          0.000297     0.226000  149.979250   0.704500   0.760000
+max     93.000000      0.885000      0.827000          0.011600     0.368000  185.727000   0.824000   0.955000

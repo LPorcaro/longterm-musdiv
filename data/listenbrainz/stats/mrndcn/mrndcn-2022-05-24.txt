@@ -1,0 +1,45 @@
+Electronic artists found: Artem Pivovarov,KALUSH
+Electronic genres found: ukrainian edm
+Electronic music logs found: 2.33% 
+
+Top genres
+	1: italian adult pop (24.66%)
+	2: dance pop (19.18%)
+	3: europop (19.18%)
+	4: pop (19.18%)
+	5: ukrainian hip hop (13.70%)
+Top artists
+	1: Ariana Grande (8.33%)
+	2: KALUSH (8.33%)
+	3: Tiziano Ferro (8.33%)
+	4: alyona alyona (8.33%)
+	5: Khrystyna Soloviy (8.33%)
+Top country
+	1: US (32.56%)
+	2: NL (23.26%)
+	3: RU (23.26%)
+	4: IT (18.60%)
+	5: UA (2.33%)
+Top record
+	1: EZ4 (23.26%)
+	2: A01 (23.26%)
+	3: UM7 (18.60%)
+	4: C7R (16.28%)
+	5: B92 (16.28%)
+Top year
+	1: 21 (46.51%)
+	2: 11 (25.58%)
+	3: 06 (9.30%)
+	4: 20 (6.98%)
+	5: 22 (4.65%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   43.000000     43.000000     43.000000         43.000000    43.000000   43.000000  43.000000  43.000000
+mean    37.023256      0.320329      0.653674          0.005168     0.086705  113.728000   0.571581   0.648791
+std     16.555086      0.275762      0.168197          0.020546     0.078223   23.972969   0.212592   0.143963
+min     10.000000      0.004840      0.266000          0.000000     0.028500   59.963000   0.113000   0.295000
+25%     25.000000      0.079050      0.540500          0.000000     0.048950   94.886000   0.407000   0.553000
+50%     36.000000      0.245000      0.703000          0.000000     0.064100  116.025000   0.552000   0.654000
+75%     52.000000      0.537500      0.765500          0.000139     0.081850  125.134500   0.755500   0.741500
+max     64.000000      0.861000      0.958000          0.122000     0.408000  179.514000   0.927000   0.913000

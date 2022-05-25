@@ -1,0 +1,45 @@
+Electronic artists found: Hooverphonic
+Electronic genres found: electronica, downtempo, trip hop
+Electronic music logs found: 5.00% 
+
+Top genres
+	1: vocal jazz (8.20%)
+	2: soft rock (8.20%)
+	3: contemporary vocal jazz (6.56%)
+	4: permanent wave (6.56%)
+	5: sophisti-pop (6.56%)
+Top artists
+	1: Fink (7.14%)
+	2: Harry Nilsson (7.14%)
+	3: Melanie Thornton (7.14%)
+	4: The Handsome Family (7.14%)
+	5: Gregory Porter (7.14%)
+Top country
+	1: US (40.00%)
+	2: GB (20.00%)
+	3: DE (15.00%)
+	4: SE (10.00%)
+	5: FR (5.00%)
+Top record
+	1: UM7 (30.00%)
+	2: VVQ (10.00%)
+	3: E86 (10.00%)
+	4: EM3 (5.00%)
+	5: H84 (5.00%)
+Top year
+	1: 13 (15.00%)
+	2: 01 (15.00%)
+	3: 15 (10.00%)
+	4: 04 (10.00%)
+	5: 08 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   20.000000     20.000000      20.00000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean    41.400000      0.532594       0.59125          0.071497     0.053040  106.459250   0.451840   0.514200
+std     15.435434      0.351067       0.15837          0.190903     0.048430   27.763978   0.279758   0.243979
+min     10.000000      0.001090       0.35600          0.000000     0.028700   52.536000   0.053600   0.166000
+25%     34.750000      0.214750       0.46100          0.000035     0.032025   87.261000   0.163250   0.319250
+50%     38.000000      0.576000       0.58550          0.001783     0.036600  105.579500   0.484500   0.507000
+75%     53.750000      0.856250       0.70300          0.011950     0.045800  121.309000   0.693000   0.698500
+max     66.000000      0.975000       0.89200          0.782000     0.224000  170.358000   0.901000   0.941000

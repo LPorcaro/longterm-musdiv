@@ -1,0 +1,45 @@
+Electronic artists found: The Velveteins, The Whitest Boy Alive
+Electronic genres found: electronica, edmonton indie
+Electronic music logs found: 2.20% 
+
+Top genres
+	1: rap (7.81%)
+	2: hip hop (6.64%)
+	3: pop (5.08%)
+	4: modern rock (5.08%)
+	5: rock (4.30%)
+Top artists
+	1: Dominic Fike (1.28%)
+	2: The Velveteins (1.28%)
+	3: Sara D. Francisco (1.28%)
+	4: Slow J (1.28%)
+	5: Camille (1.28%)
+Top country
+	1: US (51.65%)
+	2: GB (14.29%)
+	3: PT (10.99%)
+	4: QZ (5.49%)
+	5: ZZ (4.40%)
+Top record
+	1: UM7 (15.38%)
+	2: RC1 (6.59%)
+	3: WB1 (5.49%)
+	4: C4R (5.49%)
+	5: QX9 (5.49%)
+Top year
+	1: 20 (15.38%)
+	2: 22 (13.19%)
+	3: 19 (10.99%)
+	4: 21 (9.89%)
+	5: 18 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   91.000000     91.000000     91.000000         91.000000    91.000000   91.000000  91.000000  91.000000
+mean    55.747253      0.371941      0.621286          0.070377     0.148123  115.167989   0.474164   0.575191
+std     15.766768      0.289611      0.148171          0.204150     0.143713   32.803721   0.207211   0.174544
+min      8.000000      0.000675      0.199000          0.000000     0.024500   57.750000   0.039700   0.099400
+25%     46.000000      0.110000      0.505500          0.000000     0.037100   86.247500   0.350500   0.481500
+50%     59.000000      0.325000      0.654000          0.000020     0.078900  109.942000   0.477000   0.585000
+75%     67.000000      0.615500      0.740500          0.004260     0.201500  139.938000   0.586000   0.711000
+max     86.000000      0.983000      0.908000          0.891000     0.522000  194.274000   0.963000   0.959000

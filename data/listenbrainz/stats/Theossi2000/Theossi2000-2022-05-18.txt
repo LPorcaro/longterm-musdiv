@@ -1,0 +1,45 @@
+Electronic artists found: Danni Gato,Rafa G, Mister Ruiz, Öwnboss,Sevek, Chemical Surf,Ghabe, Allvix,No Day After
+Electronic genres found: kuduro, brazilian edm
+Electronic music logs found: 5.16% 
+
+Top genres
+	1: hip hop tuga (50.34%)
+	2: trap tuga (12.93%)
+	3: rap criolo (10.20%)
+	4: reggaeton (4.76%)
+	5: trap latino (4.76%)
+Top artists
+	1: Yuran (1.20%)
+	2: Myles 6ix (1.20%)
+	3: Vado Más Ki Ás (1.20%)
+	4: Sam The Kid (1.20%)
+	5: GROGNation (1.20%)
+Top country
+	1: PT (55.67%)
+	2: QZ (9.28%)
+	3: ES (9.28%)
+	4: QM (9.28%)
+	5: TC (4.12%)
+Top record
+	1: 2HA (9.28%)
+	2: 71G (9.28%)
+	3: 9EV (7.22%)
+	4: 1II (7.22%)
+	5: 7ED (4.12%)
+Top year
+	1: 19 (28.87%)
+	2: 20 (25.77%)
+	3: 21 (19.59%)
+	4: 18 (8.25%)
+	5: 22 (8.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   97.000000     97.000000     97.000000         97.000000    97.000000   97.000000  97.000000  97.000000
+mean    44.247423      0.416272      0.704784          0.015603     0.200533  113.728237   0.447459   0.579598
+std     12.389538      0.250926      0.112858          0.073067     0.136597   26.119180   0.198457   0.138263
+min     14.000000      0.012000      0.453000          0.000000     0.036800   69.129000   0.038300   0.232000
+25%     39.000000      0.229000      0.635000          0.000000     0.066800   94.980000   0.300000   0.510000
+50%     43.000000      0.411000      0.724000          0.000002     0.172000  104.988000   0.453000   0.567000
+75%     46.000000      0.631000      0.797000          0.000253     0.308000  128.094000   0.586000   0.677000
+max     81.000000      0.902000      0.891000          0.585000     0.671000  188.359000   0.828000   0.870000

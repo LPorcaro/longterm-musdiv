@@ -1,0 +1,39 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: swedish pop (20.00%)
+	2: musica portuguesa contemporanea (20.00%)
+	3: norwegian indie (20.00%)
+	4: norwegian pop (20.00%)
+	5: trondheim indie (20.00%)
+Top artists
+	1: Amanda Tenfjord (25.00%)
+	2: MARO (25.00%)
+	3: Konstrakta (25.00%)
+	4: Cornelia Jakobs (25.00%)
+Top country
+	1: RS (25.00%)
+	2: SE (25.00%)
+	3: PT (25.00%)
+	4: NO (25.00%)
+Top record
+	1: A04 (25.00%)
+	2: 5YN (25.00%)
+	3: UM7 (25.00%)
+	4: PRR (25.00%)
+Top year
+	1: 22 (75.00%)
+	2: 21 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo  valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.000000  4.00000  4.000000
+mean    60.500000      0.227227      0.636000          0.000056     0.055775  116.471250  0.34800  0.504000
+std     13.025616      0.306625      0.204508          0.000102     0.023501   31.640872  0.20626  0.180877
+min     41.000000      0.006410      0.475000          0.000000     0.035700   82.992000  0.18500  0.337000
+25%     59.750000      0.076228      0.496000          0.000000     0.036825   93.473250  0.19775  0.358750
+50%     66.500000      0.110750      0.573500          0.000007     0.051650  116.455500  0.28900  0.487000
+75%     67.250000      0.261750      0.713500          0.000063     0.070600  139.453500  0.43925  0.632250
+max     68.000000      0.681000      0.922000          0.000208     0.084100  149.982000  0.62900  0.705000

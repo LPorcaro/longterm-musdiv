@@ -1,0 +1,45 @@
+Electronic artists found: Dimitri Vegas & Like Mike,Martin Garrix,Like Mike
+Electronic genres found: electro house, tropical house, progressive electro house, belgian edm, edm
+Electronic music logs found: 4.35% 
+
+Top genres
+	1: dance pop (14.13%)
+	2: pop rap (14.13%)
+	3: pop (10.87%)
+	4: hip hop (5.43%)
+	5: rap (5.43%)
+Top artists
+	1: LMFAO (2.94%)
+	2: Macklemore (2.94%)
+	3: Macklemore & Ryan Lewis (2.94%)
+	4: Dimitri Vegas & Like Mike (2.94%)
+	5: City Spud (2.94%)
+Top country
+	1: US (65.22%)
+	2: PT (13.04%)
+	3: GB (8.70%)
+	4: NL (4.35%)
+	5: QM (4.35%)
+Top record
+	1: UM7 (30.43%)
+	2: AT2 (13.04%)
+	3: FA1 (4.35%)
+	4: Z54 (4.35%)
+	5: RC1 (4.35%)
+Top year
+	1: 09 (21.74%)
+	2: 10 (17.39%)
+	3: 14 (4.35%)
+	4: 06 (4.35%)
+	5: 08 (4.35%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
+mean    60.521739      0.101982      0.670130          0.030381     0.131874  120.825783   0.511496   0.737652
+std     19.095144      0.148742      0.145707          0.143153     0.177870   26.943317   0.247943   0.133101
+min     26.000000      0.001130      0.276000          0.000000     0.030200   73.435000   0.096400   0.421000
+25%     41.000000      0.009705      0.611500          0.000000     0.036400  104.942000   0.301500   0.669500
+50%     70.000000      0.033600      0.677000          0.000000     0.055400  122.010000   0.538000   0.715000
+75%     74.000000      0.100050      0.782000          0.000144     0.128450  132.522000   0.703500   0.845000
+max     81.000000      0.579000      0.851000          0.687000     0.761000  174.063000   0.919000   0.956000

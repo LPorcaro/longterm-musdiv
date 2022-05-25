@@ -1,0 +1,35 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5fZx1JgKYoL4oHdypgf0Lj	Aaron Tveit,Company Of The Original Cast Of Catch Me If You Can	Jet Set	USSK31195104	32	broadway,hollywood,show tunes	0.528	0.469	0.0	0.0749	77.984	0.82	0.597
+7kLg5Lqoz0rueYMD3SXFJx	Wilco	Red-Eyed and Blue - 2017 Remaster	USRH11702583	40	alternative country,alternative rock,chicago indie,indie pop,indie rock,rock,roots rock	0.864	0.596	0.0229	0.0299	108.747	0.167	0.29
+3WoxcHOEQsgxebPLBvMOpk	Charles Strouse,Julia Migenes,Eric Stern	Rags: The New American Musical: Blame It on the Summer Night	USSM10409538	3	broadway	0.931	0.299	1.99e-06	0.0412	114.534	0.31	0.0564
+4rKpi6H6IFtuBVAdNN3fUe	The Millennium	I Just Want to Be Your Friend	USSM16801610	30	sunshine pop	0.611	0.469	2.11e-05	0.0303	127.308	0.676	0.51
+1PK3BtcF1Dvfd8a24Xejaj	Jeremy Jordan,Newsies Original Broadway Cast	Carrying The Banner	USSK31222685	49	broadway,hollywood,show tunes	0.49	0.488	0.0	0.115	149.494	0.512	0.491
+5umt6j4cZkfrL18u8KOnyq	Alan Menken,Jack Feldman,Jeremy Jordan,Ben Fankhauser,Kara Lindsay,Ryan Breslin,Newsies Original Broadway Cast	Once And For All	USSK31222698	45	broadway,disney,hollywood,movie tunes,orchestral soundtrack,show tunes	0.351	0.48	0.0	0.114	168.003	0.211	0.483
+6xJiY2PXA5likWAqdX5tAe	James Marsden	(It's) Hairspray	USNLR0700061	39	hollywood	0.732	0.424	0.0	0.109	134.865	0.539	0.773
+4XZBtvIXApjQ75xG7RUzwu	The Vaccines	Back In Love City	GBKPL2148298	31	indie rock,modern alternative rock,modern rock,rock	0.000499	0.608	0.00223	0.0292	133.969	0.962	0.827
+0un6V0wfo3eTYOfYeMF8cC	Jealous of the Birds	Tonight I Feel Like Kafka	GB9TP1500810	21	northern irish indie	0.875	0.708	7.05e-06	0.0318	116.048	0.351	0.298
+3sPzfldicfZYCDonmeDYgt	Andrew Lloyd Webber,Original Broadway Cast Of Sunset Boulevard,Alan Campbell	Sunset Boulevard	GBALG9400021	25	broadway,show tunes,west end	0.839	0.427	0.0	0.113	93.462	0.49	0.449
+19CSr8rwW05VJL2F91KFNK	Taylor Swift	ivy	USUG12004712	65	pop	0.855	0.515	1.97e-05	0.0353	88.856	0.535	0.545
+5rvy7glNYmhpiLUaiEELn2	Super Furry Animals	Something 4 the Weekend	USSM10202478	38	alternative rock,britpop,chamber psych,welsh indie,welsh rock	0.122	0.474	0.000342	0.0323	165.646	0.563	0.78
+015ROS1oTBabLaOLMzDF47	dodie	Hate Myself	QMBZ92061363	38	alt z,indie pop,pop	0.92	0.755	0.0334	0.146	103.985	0.903	0.53
+27hhIs2fp6w06N5zx4Eaa5	The Mamas & The Papas	Dream A Little Dream Of Me	USMC16846393	67	brill building pop,bubblegum pop,classic rock,folk rock,mellow gold,psychedelic rock,rock,sunshine pop	0.791	0.413	1.5e-06	0.0519	92.515	0.349	0.313
+0VoiHqYli9AUsw5XBU8FKS	Barlow & Bear,Abigail Barlow,Emily Bear	Lady Whistledown	QZNJW2103769	47	show tunes	0.597	0.557	0.0	0.0272	94.107	0.654	0.401
+3x8QypkuOoXR86w8FnajwC	Fulminacci	Brutte compagnie	ITIWE2101492	43	italian indie pop,rome indie	0.211	0.921	6.31e-06	0.0581	122.968	0.918	0.764
+7s2kWabRM60W9I61HpKg8C	Lorde	Solar Power	NZUM72100178	68	art pop,dance pop,electropop,metropopolis,nz pop,pop	0.237	0.73	7.99e-05	0.0879	87.996	0.883	0.483
+19eS1kCEvKz2eVOrRGb1uL	Matt Maeson	Straight Razor	USAT21700289	45	modern rock	0.00857	0.546	0.000134	0.0387	135.706	0.262	0.676
+0rbkK4CMgCgc0m1q8LL19o	Elton John	Hourglass - Band Version	GBUM72003280	20	glam rock,mellow gold,piano rock	0.494	0.514	2.56e-05	0.0255	91.98	0.491	0.351
+1gbgwb8AwRo9i42YaqWnj2	Bleachers	45	USRC12002673	37	double drumming,indie pop,modern alternative rock,modern rock,pop rock	0.629	0.446	0.0	0.03	78.83	0.438	0.555
+2UTS33qrSdZUD6zApZXDcI	Christian Borle,'Legally Blonde' Greek Chorus,Laura Bell Bundy,'Legally Blonde' Ensemble	Chip on My Shoulder	USSK30720010	46	broadway,hollywood,show tunes	0.676	0.672	0.0	0.393	105.366	0.424	0.206
+6pPpMCJlAzXN78LYDS8Zxf	Denée Benton	No One Else	USRE11700085	40	broadway,show tunes	0.814	0.264	0.000333	0.0385	177.747	0.0569	0.253
+3ncX1PNhONlpP8vzeyNIle	Emitt Rhodes	Promises I've Made	USMC17054047	44	beatlesque,classic uk pop,country rock,folk rock,power pop,psychedelic rock	0.16	0.605	0.821	0.0252	92.442	0.69	0.547
+6JGh5w61gGBv8aN3QVBgkU	Original Broadway Company Of Footloose: The Musical	Footloose - Finale	USSK31192965	30		0.0642	0.514	0.0	0.0401	174.298	0.779	0.759
+0ePOwUx19bmRCSucjxpXp3	Richard Rodgers,Ezio Pinza,Salvatore Dell'Isola	South Pacific - Original Broadway Cast Recording: Some Enchanted Evening - Voice	USSM14900141	24	broadway	0.944	0.267	0.00107	0.0363	92.199	0.236	0.251
+1ER4xltmf3nqX4CsIIuYOJ	Richard Rodgers,Mary Martin,Ezio Pinza,Salvatore Dell'Isola	South Pacific - Original Broadway Cast Recording: Twin Soliloquies - Voice	USSM14900140	10	broadway	0.903	0.345	0.00903	0.0337	103.408	0.109	0.0832
+1m6dvIoTC1Hvw2jBtwtChQ	Richard Rodgers,Mary Martin,Salvatore Dell'Isola	South Pacific - Original Broadway Cast Recording: A Cockeyed Optimist - Voice	USSM14900139	16	broadway	0.846	0.588	4.04e-06	0.0349	104.297	0.472	0.128
+3LoMLL5IqV3keLuG5kHiNb	Richard Rodgers,Barbara Luna,Michael DeLeon,Salvatore Dell'Isola	South Pacific - Original Broadway Cast Recording: Dites-moi - Voice	USSM14900138	7	broadway	0.817	0.388	1.68e-06	0.0345	125.487	0.514	0.0304
+2AyRFpV0gHR18XODzvvPZl	Richard Rodgers,South Pacific Orchestra,Salvatore Dell'Isola	South Pacific - Original Broadway Cast Recording: Overture	USSM14900137	8	broadway	0.65	0.271	0.892	0.0335	101.848	0.248	0.411
+1ACaKiwf0dwRvsiZl02pWR	Lilo,Milton Rosenstock	Can-Can	USCA28900352	4		0.792	0.621	1.94e-05	0.0685	144.056	0.872	0.43
+7K3CPbJxfRvHbm7j8HYpmS	Original Broadway Cast Of Can-Can	I Love Paris	USCA28900351	4	vintage broadway	0.874	0.346	0.0	0.0319	75.835	0.379	0.116
+5KCn4XnWAPemCfHuuR5Ef6	Original Broadway Cast Of Can-Can	Every Man Is A Stupid Man	USCA28900350	1	vintage broadway	0.929	0.692	0.0	0.0661	136.94	0.55	0.0866
+5HkpZ7pTl8JxWwVfT3O2Me	Original Broadway Cast Of Can-Can	It's All Right With Me	USCA28900349	2	vintage broadway	0.956	0.42	0.033	0.0325	82.121	0.384	0.191
+7k5agf3Bo48jyzXrvrMuhb	Andrew Garfield,Robin de Jesus,Alexandra Shipp,Joshua Henry,Vanessa Hudgens	Boho Days	QZ8BZ2100735	64	hollywood,pop	0.766	0.781	0.0	0.859	81.379	0.865	0.595

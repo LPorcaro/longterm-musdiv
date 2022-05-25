@@ -1,0 +1,45 @@
+Electronic artists found: Metronomy, Gesaffelstein,The Weeknd
+Electronic genres found: electronica, destroy techno
+Electronic music logs found: 3.17% 
+
+Top genres
+	1: hip hop (6.90%)
+	2: rap (5.75%)
+	3: pop (5.17%)
+	4: alternative r&b (5.17%)
+	5: alternative hip hop (4.60%)
+Top artists
+	1: ODIE (1.59%)
+	2: Mick Jones (1.59%)
+	3: Amanda Reifer (1.59%)
+	4: alt-J (1.59%)
+	5: Grace Jones (1.59%)
+Top country
+	1: US (41.27%)
+	2: GB (28.57%)
+	3: FR (6.35%)
+	4: AU (6.35%)
+	5: TC (4.76%)
+Top record
+	1: UM7 (30.16%)
+	2: AYE (12.70%)
+	3: UYG (4.76%)
+	4: RC1 (4.76%)
+	5: 6FN (3.17%)
+Top year
+	1: 22 (20.63%)
+	2: 18 (11.11%)
+	3: 19 (11.11%)
+	4: 10 (9.52%)
+	5: 21 (7.94%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   63.000000     63.000000     63.000000         63.000000    63.000000   63.000000  63.000000  63.000000
+mean    57.634921      0.328879      0.652349          0.086775     0.140363  122.050048   0.508637   0.564048
+std     17.305883      0.285683      0.144686          0.212932     0.146667   34.105458   0.222875   0.176920
+min      5.000000      0.002520      0.350000          0.000000     0.025700   72.978000   0.043900   0.153000
+25%     47.000000      0.060400      0.552500          0.000003     0.038700   96.553500   0.334000   0.439500
+50%     58.000000      0.236000      0.658000          0.001160     0.073200  116.879000   0.511000   0.548000
+75%     66.500000      0.543500      0.760500          0.021100     0.194500  139.972000   0.669500   0.690000
+max     89.000000      0.951000      0.945000          0.900000     0.523000  199.866000   0.935000   0.926000

@@ -1,5 +1,5 @@
 Electronic artists found: Enter Shikari, Dardust,Massimo Pericolo
-Electronic genres found: compositional ambient, nintendocore, italian electronica
+Electronic genres found: italian electronica, compositional ambient, nintendocore
 Electronic music logs found: 11.11% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: bedroom pop (12.50%)
 	5: compositional ambient (2.50%)
 Top artists
-	1: ROLE MODEL (11.11%)
+	1: Crookers (11.11%)
 	2: Tom Odell (11.11%)
 	3: Massimo Pericolo (11.11%)
-	4: Nic Sarno (11.11%)
-	5: Enter Shikari (11.11%)
+	4: Tame Impala (11.11%)
+	5: Ministri (11.11%)
 Top country
 	1: IT (55.56%)
 	2: US (27.78%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
-mean    47.722222      0.232565      0.492833          0.012652     0.060161  137.976833   0.410278   0.645667
-std     17.159479      0.249788      0.153571          0.045635     0.051869   30.693875   0.193391   0.215693
+mean    48.166667      0.232565      0.492833          0.012652     0.060161  137.976833   0.410278   0.645667
+std     16.971429      0.249788      0.153571          0.045635     0.051869   30.693875   0.193391   0.215693
 min     27.000000      0.000020      0.256000          0.000000     0.032800   77.008000   0.115000   0.242000
-25%     34.000000      0.000422      0.396500          0.000000     0.038175  120.731250   0.274000   0.540000
-50%     43.000000      0.212000      0.451500          0.000014     0.042250  144.846500   0.423500   0.679000
-75%     58.750000      0.380000      0.602500          0.000548     0.053900  155.261750   0.488500   0.804000
+25%     35.000000      0.000422      0.396500          0.000000     0.038175  120.731250   0.274000   0.540000
+50%     43.500000      0.212000      0.451500          0.000014     0.042250  144.846500   0.423500   0.679000
+75%     60.250000      0.380000      0.602500          0.000548     0.053900  155.261750   0.488500   0.804000
 max     87.000000      0.748000      0.839000          0.194000     0.254000  183.737000   0.809000   0.959000

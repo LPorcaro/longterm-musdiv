@@ -1,0 +1,45 @@
+Electronic artists found: Dark Rehab, Protokseed, Phuture Noize,B-Front, D-Sturb,Sogma,E-Life, Zatox, D-Block & S-te-Fan,D-Sturb, Adaro,Vertile, Cascada,Hardwell,Maurice West, ØRGIE, Envine
+Electronic genres found: euphoric hardstyle, eurodance, frenchcore, rawstyle, acidcore, hardstyle, melbourne bounce international, classic hardstyle, german techno, hard techno
+Electronic music logs found: 26.67% 
+
+Top genres
+	1: brooklyn drill (11.22%)
+	2: nyc rap (9.18%)
+	3: rap (8.16%)
+	4: rawstyle (7.14%)
+	5: classic hardstyle (6.12%)
+Top artists
+	1: Dark Rehab (2.27%)
+	2: D-Block & S-te-Fan (2.27%)
+	3: Protokseed (2.27%)
+	4: Vertile (2.27%)
+	5: Coi Leray (2.27%)
+Top country
+	1: US (37.78%)
+	2: QZ (26.67%)
+	3: NL (13.33%)
+	4: QM (13.33%)
+	5: BE (4.44%)
+Top record
+	1: RC1 (11.11%)
+	2: UM7 (8.89%)
+	3: UYG (6.67%)
+	4: SM1 (6.67%)
+	5: S76 (4.44%)
+Top year
+	1: 21 (26.67%)
+	2: 19 (20.00%)
+	3: 20 (17.78%)
+	4: 18 (13.33%)
+	5: 17 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   45.000000     45.000000     45.000000         45.000000    45.000000   45.000000  45.000000  45.000000
+mean    65.133333      0.243815      0.624489          0.111557     0.159464  136.653867   0.378504   0.663711
+std     13.119382      0.248176      0.199323          0.264361     0.142743   33.067002   0.236218   0.177021
+min     26.000000      0.000038      0.277000          0.000000     0.030600   61.311000   0.039500   0.282000
+25%     56.000000      0.040800      0.435000          0.000000     0.057900  110.017000   0.177000   0.512000
+50%     67.000000      0.132000      0.676000          0.000002     0.083500  145.049000   0.319000   0.658000
+75%     76.000000      0.455000      0.792000          0.006360     0.196000  155.023000   0.628000   0.794000
+max     84.000000      0.947000      0.902000          0.927000     0.607000  204.132000   0.803000   0.998000

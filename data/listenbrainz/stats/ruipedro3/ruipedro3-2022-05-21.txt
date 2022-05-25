@@ -1,0 +1,45 @@
+Electronic artists found: Digitalism, Röyksopp
+Electronic genres found: electronica, electro house, trip hop, downtempo, big beat
+Electronic music logs found: 15.38% 
+
+Top genres
+	1: modern rock (12.77%)
+	2: alternative dance (10.64%)
+	3: rock (10.64%)
+	4: modern alternative rock (6.38%)
+	5: indie rock (6.38%)
+Top artists
+	1: Röyksopp (7.69%)
+	2: Sundara Karma (7.69%)
+	3: Catfish and the Bottlemen (7.69%)
+	4: Digitalism (7.69%)
+	5: Friendly Fires (7.69%)
+Top country
+	1: GB (61.54%)
+	2: FR (15.38%)
+	3: DE (7.69%)
+	4: BX (7.69%)
+	5: US (7.69%)
+Top record
+	1: ZUZ (7.69%)
+	2: X26 (7.69%)
+	3: 5TP (7.69%)
+	4: KPL (7.69%)
+	5: K3W (7.69%)
+Top year
+	1: 09 (23.08%)
+	2: 08 (15.38%)
+	3: 07 (15.38%)
+	4: 06 (7.69%)
+	5: 20 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   13.000000     13.000000     13.000000         13.000000    13.000000   13.000000  13.000000  13.000000
+mean    49.538462      0.069088      0.535769          0.096702     0.068992  131.932385   0.508923   0.822615
+std     16.586216      0.197929      0.081629          0.221436     0.035012   23.688735   0.190094   0.122635
+min     18.000000      0.000065      0.403000          0.000000     0.030700  100.028000   0.211000   0.497000
+25%     44.000000      0.001020      0.489000          0.000075     0.042900  114.061000   0.376000   0.743000
+50%     55.000000      0.006830      0.542000          0.002930     0.052200  136.013000   0.427000   0.855000
+75%     63.000000      0.010200      0.595000          0.013600     0.093500  143.995000   0.643000   0.911000
+max     68.000000      0.723000      0.676000          0.782000     0.133000  179.947000   0.811000   0.938000

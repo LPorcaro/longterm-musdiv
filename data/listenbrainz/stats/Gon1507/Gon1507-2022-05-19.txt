@@ -1,0 +1,43 @@
+Electronic artists found: LUM!X,PIA MARIA
+Electronic genres found: melbourne bounce international, slap house
+Electronic music logs found: 6.76% 
+
+Top genres
+	1: norwegian indie (17.58%)
+	2: norwegian pop (17.58%)
+	3: trondheim indie (17.58%)
+	4: swedish pop (7.69%)
+	5: melbourne bounce international (5.49%)
+Top artists
+	1: LUM!X (7.14%)
+	2: We Are Domi (7.14%)
+	3: S10 (7.14%)
+	4: Subwoolfer (7.14%)
+	5: Chanel (7.14%)
+Top country
+	1: NO (31.08%)
+	2: NL (16.22%)
+	3: AT (10.81%)
+	4: SE (9.46%)
+	5: ES (6.76%)
+Top record
+	1: PRR (21.62%)
+	2: UM7 (14.86%)
+	3: R98 (10.81%)
+	4: 5YN (9.46%)
+	5: 94B (6.76%)
+Top year
+	1: 22 (58.11%)
+	2: 21 (31.08%)
+	3: 12 (10.81%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   74.000000     74.000000     74.000000         74.000000    74.000000   74.000000  74.000000  74.000000
+mean    70.108108      0.194253      0.557959          0.000422     0.049947  120.270905   0.384311   0.591459
+std      5.742339      0.178621      0.108037          0.001202     0.022047   24.866257   0.197507   0.177071
+min     59.000000      0.000261      0.430000          0.000000     0.028200   76.905000   0.159000   0.366000
+25%     67.000000      0.107000      0.475000          0.000000     0.034625   97.875000   0.202000   0.413250
+50%     70.000000      0.122000      0.509000          0.000000     0.041100  122.919000   0.326000   0.599000
+75%     76.000000      0.201500      0.658250          0.000012     0.066100  149.913000   0.576000   0.757000
+max     78.000000      0.561000      0.755000          0.004480     0.131000  149.982000   0.691000   0.910000

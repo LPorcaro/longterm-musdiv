@@ -1,0 +1,33 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+28WmNsclKsrVmdv3tDmoYU	Metallica	Seek & Destroy - Remastered	QMKHM1600034	65	hard rock,metal,old school thrash,rock,thrash metal	0.037	0.445	0.0132	0.282	140.817	0.448	0.964
+6ZU9RJIZ0fNaFuQM57bDIA	Rage Against The Machine	Bombtrack	USSM19200660	48	alternative metal,alternative rock,conscious hip hop,funk metal,nu metal,political hip hop,rap metal,rap rock,rock	0.0134	0.478	3.18e-05	0.121	151.93	0.668	0.855
+51TG9W3y9qyO8BY5RXKgnZ	Megadeth	Symphony Of Destruction	USCA20400616	70	album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal	0.000805	0.61	0.0928	0.0587	139.903	0.51	0.891
+5sICkBXVmaCQk5aISGR3x1	Metallica	Enter Sandman	GBF089190013	77	hard rock,metal,old school thrash,rock,thrash metal	0.00213	0.577	0.0114	0.0298	123.257	0.604	0.828
+4PXbczLfGxdpLcIt8nykVn	Clan of Xymox	Hail Mary - Live At The Castle Party	DEH741010251	1	dark post-punk,dark wave,dream pop,ebm,ethereal wave,gothic rock,new romantic,new wave,synthpop	0.103	0.518	0.0402	0.0572	139.95	0.288	0.961
+1dcbYDR36Ln2OfIVZTHQ54	Clan of Xymox	Jasmine & Rose - Live at the Castle Party	DEH740401242	3	dark post-punk,dark wave,dream pop,ebm,ethereal wave,gothic rock,new romantic,new wave,synthpop	0.0497	0.668	0.0992	0.0455	131.968	0.562	0.914
+4u3WRt9hZQ6351hLkrvBMM	Clan of Xymox	In Love We Trust - Live At The Castle Party	DEH741010250	2	dark post-punk,dark wave,dream pop,ebm,ethereal wave,gothic rock,new romantic,new wave,synthpop	0.0249	0.501	0.0065	0.0455	141.984	0.552	0.932
+6HU3DzUURR0sIOV6dNaGbM	Clan of Xymox	Love Got Lost - Live At The Castle Party	DEH741010264	2	dark post-punk,dark wave,dream pop,ebm,ethereal wave,gothic rock,new romantic,new wave,synthpop	0.0014	0.586	0.0345	0.0431	134.992	0.538	0.929
+1m461l1IybBniCxwlz4kt6	Clan of Xymox	Stranger - Live At The Castle Party	DEH741010265	4	dark post-punk,dark wave,dream pop,ebm,ethereal wave,gothic rock,new romantic,new wave,synthpop	0.0274	0.561	0.623	0.0367	127.577	0.362	0.714
+67rhEVL6JLV0MElAERYAZf	Gothzilla	Tightwire	GBMJG1102729	1	modern goth	0.00206	0.406	3.06e-06	0.0484	162.127	0.445	0.901
+3zyzbrVk51Hfrxdgv4GkE2	Gothzilla	Today Is A Good Day To Die	GBMJG1102728	1	modern goth	0.000238	0.311	0.069	0.0685	155.126	0.179	0.834
+4I5NcGVjREt60IThG2GGu9	Caligula's Horse	Marigold	AUH731100021	42	djent,progressive metal	8.24e-06	0.28	0.00255	0.0678	139.958	0.0891	0.928
+3NYoc97ULcplGlU2CEV9AG	Caligula's Horse	Dark Hair Down	AUH731100015	21	djent,progressive metal	0.000218	0.265	0.203	0.137	129.16	0.174	0.943
+0JGuSgtmWyfuxLGBs2wX0C	Animals As Leaders	Physical Education	USYFZ1447405	47	djent,instrumental djent,instrumental rock,jazz metal,progressive jazz fusion,progressive metal	0.00017	0.57	0.827	0.0567	114.987	0.53	0.945
+43kvE0evfgiatOSth0XyFa	Animals As Leaders	Tooth and Claw	USYFZ1447406	42	djent,instrumental djent,instrumental rock,jazz metal,progressive jazz fusion,progressive metal	0.000546	0.277	0.834	0.202	150.037	0.253	0.967
+7hY2Kc7Hvu0BudOoQwu8Ez	Animals As Leaders	Kascade	USYFZ1447401	42	djent,instrumental djent,instrumental rock,jazz metal,progressive jazz fusion,progressive metal	0.00577	0.472	0.814	0.181	159.969	0.25	0.979
+46X4oycmSQrCUWMidhMTcy	Haken	Initiate	GBDHC1675202	14	jazz metal,neo-progressive,progressive metal,symphonic rock	0.00219	0.371	0.000538	0.0689	100.172	0.224	0.935
+34XyCvfZocNcr0jwV2olE4	Porcupine Tree	The Start of Something Beautiful	GBCQV1714820	40	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00993	0.538	0.774	0.0308	159.972	0.227	0.594
+0kiaVCnEEFQWIbEd9bjqAe	Porcupine Tree	Sleep Together	GBCQV0701073	36	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.268	0.552	0.904	0.0284	144.005	0.112	0.461
+7I1BHtM3RNofV9CPvnMem3	Porcupine Tree	Way out of Here	GBCQV0701072	38	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.0195	0.544	0.702	0.0301	111.994	0.163	0.407
+5pQNsm5hmOUVwgRtDGijyi	Porcupine Tree	Sentimental	GBCQV0701071	39	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.579	0.449	0.838	0.0348	173.988	0.167	0.392
+2VvUor8pk8HOR9cb5iC84z	Porcupine Tree	Anesthetize	GBCQV0701070	45	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.076	0.548	0.681	0.0331	110.001	0.286	0.49
+0ifoJpJbJKMsXnvsIZ58no	Porcupine Tree	My Ashes	GBCQV0701069	38	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.465	0.594	0.308	0.0357	116.024	0.0734	0.266
+5TnIBKE4G3OEqOnRG7gnNb	Porcupine Tree	Fear of a Blank Planet	GBCQV0701068	44	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00279	0.374	0.591	0.0321	162.009	0.261	0.642
+0399oOkVb2LhkExeQsW33x	Silence 4	Not Brave Enough	PTUM10000097	7	portuguese rock	0.111	0.537	0.000602	0.0288	122.274	0.223	0.462
+6blh5rXjXdQyIkrttDKbLW	Silence 4	To Give	PTUM10000084	25	portuguese rock	0.464	0.541	6.47e-05	0.0286	144.32	0.287	0.493
+23fgZUMdllZncm7K2MTvXu	Porcupine Tree	Moonloop - Unedited Improvisation	GBCQV2000317	18	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.633	0.275	0.875	0.0541	132.792	0.189	0.383
+2ixHZTXZwFkPGauOYTLQrW	Porcupine Tree	Harridan	GBCKC2100035	40	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00293	0.618	0.457	0.0376	127.027	0.223	0.753
+6et5Lrs7awxTn7xoLkpLDX	Porcupine Tree	Harridan	GBCKC2100035	35	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00293	0.618	0.457	0.0376	127.027	0.223	0.753
+5RL3Bec5a1QbdCBIoomJAJ	Porcupine Tree	Of The New Day	GBCKC2100036	44	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.117	0.394	0.00138	0.0313	140.373	0.0695	0.256
+5IBREbYRb8KyBIu1TyxDXq	Wes Montgomery	Gone With The Wind	USFI86000102	25	hard bop,jazz,jazz fusion,jazz guitar	0.957	0.595	0.854	0.0573	132.282	0.689	0.173
+2WtVKGMO7Nu7SvNL7SZsdp	Wes Montgomery	Mr. Walker	USFI86000101	20	hard bop,jazz,jazz fusion,jazz guitar	0.95	0.785	0.864	0.0476	133.671	0.821	0.321

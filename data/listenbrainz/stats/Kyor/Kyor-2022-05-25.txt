@@ -1,0 +1,44 @@
+Electronic artists found: Calvin Harris,Dua Lipa
+Electronic genres found: edm, electro house, progressive house
+Electronic music logs found: 14.29% 
+
+Top genres
+	1: pop rap (12.50%)
+	2: dance pop (12.50%)
+	3: pop (12.50%)
+	4: post-teen pop (8.33%)
+	5: ohio hip hop (4.17%)
+Top artists
+	1: Danny Quest (9.09%)
+	2: JoJo (9.09%)
+	3: Katy Perry (9.09%)
+	4: Machine Gun Kelly (9.09%)
+	5: Calvin Harris (9.09%)
+Top country
+	1: US (57.14%)
+	2: GB (14.29%)
+	3: AU (14.29%)
+	4: NL (14.29%)
+Top record
+	1: UM7 (28.57%)
+	2: ARL (14.29%)
+	3: YFZ (14.29%)
+	4: ZS2 (14.29%)
+	5: BGR (14.29%)
+Top year
+	1: 21 (28.57%)
+	2: 19 (28.57%)
+	3: 18 (14.29%)
+	4: 11 (14.29%)
+	5: 06 (14.29%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    7.000000      7.000000      7.000000          7.000000     7.000000    7.000000  7.000000  7.000000
+mean    57.571429      0.062749      0.615286          0.003807     0.080100  122.701857  0.602714  0.865286
+std     16.751688      0.087058      0.138105          0.007435     0.043442   27.898667  0.158189  0.072406
+min     35.000000      0.001770      0.365000          0.000000     0.031000   83.001000  0.310000  0.757000
+25%     45.000000      0.005585      0.566000          0.000005     0.040650  106.480000  0.544500  0.834500
+50%     57.000000      0.011300      0.632000          0.000018     0.079400  123.994000  0.634000  0.862000
+75%     70.500000      0.111000      0.693500          0.003511     0.118500  139.503000  0.703000  0.892000
+max     80.000000      0.193000      0.791000          0.019600     0.132000  159.952000  0.780000  0.985000

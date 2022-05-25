@@ -1,0 +1,43 @@
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: edm, tropical house, belgian edm
+Electronic music logs found: 4.35% 
+
+Top genres
+	1: latin (18.31%)
+	2: colombian pop (16.90%)
+	3: reggaeton colombiano (16.90%)
+	4: funk carioca (2.82%)
+	5: funk pop (2.82%)
+Top artists
+	1: Caio Luccas (3.57%)
+	2: Luan Santana (3.57%)
+	3: Ed Sheeran (3.57%)
+	4: Pineapple StormTv (3.57%)
+	5: John Legend (3.57%)
+Top country
+	1: US (69.57%)
+	2: BR (13.04%)
+	3: BX (4.35%)
+	4: PT (4.35%)
+	5: QM (4.35%)
+Top record
+	1: UM7 (56.52%)
+	2: WL1 (4.35%)
+	3: TLW (4.35%)
+	4: WMB (4.35%)
+	5: 6Y6 (4.35%)
+Top year
+	1: 22 (65.22%)
+	2: 21 (30.43%)
+	3: 19 (4.35%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
+mean    75.043478      0.183457      0.744522          0.004418     0.063417  117.404913   0.731783   0.772304
+std     10.257938      0.147841      0.077331          0.020516     0.062313   18.157530   0.239926   0.089542
+min     50.000000      0.001610      0.526000          0.000000     0.033300   86.959000   0.262000   0.586000
+25%     68.000000      0.128000      0.748000          0.000000     0.034100   98.666000   0.557000   0.685500
+50%     71.000000      0.128000      0.748000          0.000000     0.034800  123.003000   0.896000   0.838000
+75%     83.000000      0.181000      0.752000          0.000000     0.064600  123.003000   0.896000   0.838000
+max     94.000000      0.607000      0.894000          0.098500     0.309000  158.022000   0.956000   0.859000

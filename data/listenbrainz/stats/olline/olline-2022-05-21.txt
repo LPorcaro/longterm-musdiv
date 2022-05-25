@@ -1,0 +1,45 @@
+Electronic artists found: Lost Frequencies,Zonderling
+Electronic genres found: tropical house, edm, belgian edm
+Electronic music logs found: 3.23% 
+
+Top genres
+	1: pop (17.91%)
+	2: pop rock (13.43%)
+	3: neo mellow (11.94%)
+	4: italian pop (10.45%)
+	5: italian adult pop (5.97%)
+Top artists
+	1: Francesco Rossi (3.33%)
+	2: Sophie and the Giants (3.33%)
+	3: Lenny Kravitz (3.33%)
+	4: Rooney (3.33%)
+	5: MIKA (3.33%)
+Top country
+	1: GB (35.48%)
+	2: IT (32.26%)
+	3: US (25.81%)
+	4: DE (3.23%)
+	5: NL (3.23%)
+Top record
+	1: UM7 (25.81%)
+	2: BBA (16.13%)
+	3: Q00 (12.90%)
+	4: AHS (9.68%)
+	5: C7R (6.45%)
+Top year
+	1: 08 (19.35%)
+	2: 22 (12.90%)
+	3: 21 (12.90%)
+	4: 13 (12.90%)
+	5: 07 (9.68%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   31.000000     31.000000     31.000000         31.000000    31.000000   31.000000  31.000000  31.000000
+mean    52.322581      0.213542      0.621000          0.000448     0.049574  116.758935   0.515032   0.744613
+std     20.959305      0.209059      0.096253          0.001646     0.024266   26.874564   0.240382   0.137779
+min      4.000000      0.001760      0.376000          0.000000     0.028500   72.779000   0.161000   0.437000
+25%     45.500000      0.031000      0.567000          0.000000     0.032750   99.516000   0.322000   0.670500
+50%     58.000000      0.181000      0.625000          0.000000     0.040500  120.007000   0.449000   0.806000
+75%     67.000000      0.325500      0.693500          0.000006     0.059000  129.040000   0.739500   0.832500
+max     78.000000      0.675000      0.765000          0.006710     0.123000  175.795000   0.970000   0.930000

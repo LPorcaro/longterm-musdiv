@@ -1,0 +1,40 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: italian hip hop (18.18%)
+	2: rome indie (18.18%)
+	3: dance pop (9.09%)
+	4: pop (9.09%)
+	5: k-pop (9.09%)
+Top artists
+	1: Sfera Ebbasta (10.00%)
+	2: Sick Luke (10.00%)
+	3: tha Supreme (10.00%)
+	4: PSICOLOGI (10.00%)
+	5: Ariana Grande (10.00%)
+Top country
+	1: IT (66.67%)
+	2: US (16.67%)
+	3: QM (16.67%)
+Top record
+	1: UM7 (33.33%)
+	2: FME (16.67%)
+	3: B26 (16.67%)
+	4: LGE (16.67%)
+	5: IWE (16.67%)
+Top year
+	1: 20 (50.00%)
+	2: 21 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000               6.0     6.000000    6.000000  6.000000  6.000000
+mean    68.833333      0.237907      0.676833               0.0     0.062567   99.829667  0.615500  0.706000
+std     10.907184      0.129558      0.084008               0.0     0.025047   18.875182  0.078589  0.083175
+min     54.000000      0.005440      0.599000               0.0     0.042200   75.004000  0.485000  0.585000
+25%     61.250000      0.207750      0.621750               0.0     0.044000   86.013500  0.578500  0.652500
+50%     69.500000      0.259500      0.660500               0.0     0.050800  102.475500  0.650000  0.715500
+75%     77.750000      0.330000      0.691750               0.0     0.083925  110.797750  0.657750  0.777750
+max     81.000000      0.359000      0.830000               0.0     0.094900  124.925000  0.693000  0.790000

@@ -1,0 +1,37 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: cante alentejano (10.00%)
+	2: folclore portugues (10.00%)
+	3: album rock (10.00%)
+	4: beatlesque (10.00%)
+	5: classic rock (10.00%)
+Top artists
+	1: ROSALÍA (33.33%)
+	2: George Harrison (33.33%)
+	3: Grupo Coral de Cantares Regionais de Portel (33.33%)
+Top country
+	1: PT (33.33%)
+	2: GB (33.33%)
+	3: US (33.33%)
+Top record
+	1: OV1 (33.33%)
+	2: 77R (33.33%)
+	3: SM1 (33.33%)
+Top year
+	1: 03 (33.33%)
+	2: 14 (33.33%)
+	3: 21 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    3.000000      3.000000      3.000000          3.000000     3.000000    3.000000  3.000000  3.000000
+mean    53.666667      0.511733      0.604000          0.003867     0.096300  132.695000  0.577000  0.566667
+std     38.798625      0.395518      0.058026          0.006697     0.112342   42.561876  0.171079  0.116723
+min      9.000000      0.097200      0.537000          0.000000     0.029400   97.261000  0.403000  0.490000
+25%     41.000000      0.325100      0.587000          0.000000     0.031450  109.090000  0.493000  0.499500
+50%     73.000000      0.553000      0.637000          0.000000     0.033500  120.919000  0.583000  0.509000
+75%     76.000000      0.719000      0.637500          0.005800     0.129750  150.412000  0.664000  0.605000
+max     79.000000      0.885000      0.638000          0.011600     0.226000  179.905000  0.745000  0.701000

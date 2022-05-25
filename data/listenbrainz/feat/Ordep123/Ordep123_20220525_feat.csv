@@ -1,0 +1,48 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1jlG3KJ3gdYmhfuySFfpO1	Avril Lavigne	I'm with You	USAR10200224	69	canadian pop,candy pop,dance pop,pop,post-teen pop	0.08	0.457	0.0	0.0291	151.95	0.208	0.406
+1J6bub4kiTe4h0RCo9IszE	Phillip Phillips	Home	QMTM61200272	57	folk-pop,modern rock,neo mellow,pop rock	0.0256	0.606	1.56e-05	0.0307	121.04	0.322	0.826
+7k0wVBW3cvV6Xmb87JikIf	Khalid	Last Call	USRC12200429	73	pop,pop r&b	0.0254	0.553	0.0113	0.0348	173.972	0.286	0.727
+5EWPGh7jbTNO2wakv8LjUI	Lynyrd Skynyrd	Free Bird	USMC17301722	73	album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock	0.0738	0.249	9.48e-05	0.0577	118.223	0.338	0.834
+0vyNxE8W1tkbOA9s64UfGa	Aaron Espe	Back to the Beginning	CAN111700384	41	indie folk,indiecoustica,new americana,stomp and flutter,stomp and holler	0.932	0.493	0.791	0.0392	77.212	0.41	0.345
+4dVbhS6OiYvFikshyaQaCN	Foo Fighters	My Hero	USRW29600007	71	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	6.2e-05	0.398	0.000177	0.0567	77.106	0.311	0.927
+0e3yhVeNaTfKIWQRw9U9sY	Elton John	Sacrifice	GBALX8900001	71	glam rock,mellow gold,piano rock	0.0165	0.756	0.00183	0.0292	112.751	0.487	0.422
+0vJtLwyeboNJ8jLejDaWwC	Sara Tavares	Eu Sei ...	PTBM19900098	34	morna,portuguese pop	0.947	0.293	0.0	0.0409	60.083	0.113	0.177
+3KiBeJKxsQZuD9EhKwHa0e	Susana Félix	(Bem) na minha mão	PTFA10700642	18	portuguese pop	0.556	0.583	0.0	0.0276	129.744	0.309	0.471
+7DfFc7a6Rwfi3YQMRbDMau	Frank Ocean	Thinkin Bout You	USUM71202995	75	alternative r&b,hip hop,lgbtq+ hip hop,neo soul,pop	0.409	0.721	0.00153	0.0532	129.83	0.2	0.339
+5r5cp9IpziiIsR6b93vcnQ	Empire of the Sun	Walking On A Dream	AUEI10800039	76	alternative dance,australian dance,australian electropop,dance rock,electropop,indietronica,neo-synthpop,new rave	0.257	0.871	7.52e-06	0.0458	126.975	0.716	0.701
+6K4t31amVTZDgR3sKmwUJJ	Tame Impala	The Less I Know The Better	AUUM71500303	82	australian psych,neo-psychedelic	0.0115	0.64	0.00678	0.0284	116.879	0.785	0.74
+4dpEYOPcmHNfvERbiajp3G	Cage The Elephant	Sweetie Little Jean	USRC11502823	60	modern alternative rock,modern rock,punk blues,rock	0.0285	0.524	7.86e-05	0.026	135.678	0.367	0.532
+6wXEW6UfxNJcTHiRiqCCfR	The Big Pink	Hit the Ground (Superman)	GBAFL1100260	36	dance rock,electronic rock	0.000319	0.493	0.00956	0.0716	164.059	0.787	0.867
+7kzKAuUzOITUauHAhoMoxA	The Strokes	Last Nite	USRC10100765	71	alternative rock,garage rock,modern rock,permanent wave,rock	0.0285	0.624	0.000198	0.0297	104.042	0.767	0.91
+2x8evxqUlF0eRabbW2JBJd	Arctic Monkeys	Fluorescent Adolescent	GBCEL0700067	74	garage rock,permanent wave,rock,sheffield indie	0.00146	0.654	0.000144	0.0281	112.056	0.79	0.828
+2fAIfPLrPUTW1AmJRR428Q	Kaiser Chiefs	Ruby	GBDVX0600080	67	alternative rock,modern rock,rock	0.00673	0.451	4.85e-06	0.0512	93.416	0.448	0.939
+3di5hcvxxciiqwMH1jarhY	Adele	Set Fire to the Rain	GBBKS1000348	75	british soul,pop,pop soul,uk pop	0.00408	0.603	1.68e-06	0.0249	107.993	0.446	0.67
+6v0UJD4a2FtleHeSYVX02A	Adele	I Drink Wine	USSM12105975	74	british soul,pop,pop soul,uk pop	0.697	0.437	0.0	0.0466	115.389	0.306	0.565
+273QnyCvJB65rScHJ1nPZb	Adele	Make You Feel My Love	GBBKS0700586	73	british soul,pop,pop soul,uk pop	0.907	0.317	0.000383	0.0326	65.18	0.0963	0.172
+2Oycxb8QbPkpHTo8ZrmG0B	Miley Cyrus,Dua Lipa	Prisoner (feat. Dua Lipa)	USRC12003364	78	dance pop,pop,post-teen pop	0.0103	0.781	0.0	0.0452	127.99	0.595	0.67
+5zFglKYiknIxks8geR8rcL	Maroon 5,Megan Thee Stallion	Beautiful Mistakes (feat. Megan Thee Stallion)	USUM72103449	81	pop	0.0377	0.713	0.0	0.027	99.048	0.721	0.676
+2CvOqDpQIMw69cCzWqr5yr	Beyoncé	Halo	USSM10804556	71	dance pop,pop,r&b	0.273	0.422	0.0	0.1	78.454	0.471	0.712
+2HWWNoWEEEECwZhAiLg7ib	Beyoncé,Shakira	Beautiful Liar	USSM10700448	63	dance pop,pop,r&b	0.00554	0.764	0.000237	0.0703	91.977	0.418	0.751
+3ID5lLzkh4uM8XPUuB2VKq	Beyoncé	Hello	USSM10804758	43	dance pop,pop,r&b	0.206	0.33	1.54e-06	0.17	97.515	0.416	0.769
+2RWs4c3ZJ74WwXlVC3QCQN	Rihanna	What Now	USUM71214747	59	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.0476	0.402	0.0	0.0448	180.158	0.227	0.696
+4gbVRS8gloEluzf0GzDOFc	Maroon 5	Maps	USUM71407116	81	pop	0.0205	0.742	0.0	0.0303	120.032	0.879	0.713
+49FYlytm3dAAraYgpoJZux	Rihanna,JAY-Z	Umbrella	USUM70736771	80	barbadian pop,dance pop,pop,pop rap,urban contemporary	0.00864	0.583	0.0	0.134	174.028	0.575	0.829
+0nrRP2bk19rLc0orkWPQk2	Avicii	Wake Me Up	SEUM71301326	83	dance pop,edm,pop,pop dance,pop rap	0.0038	0.532	0.0012	0.0523	124.08	0.643	0.783
+47Slg6LuqLaX0VodpSCvPt	Bruno Mars	Just the Way You Are	USAT21001269	76	dance pop,pop	0.0134	0.635	0.0	0.0422	109.021	0.424	0.841
+47OVNnZJzIkrsEiZ4n187p	Jonas Blue,William Singe	Mama	GBUM71701777	60	dance pop,edm,pop,pop dance,tropical house,uk dance	0.102	0.737	0.0	0.0416	104.012	0.543	0.792
+3Kkjo3cT83cw09VJyrLNwX	Adele	Oh My God	USSM12105973	84	british soul,pop,pop soul,uk pop	0.091	0.534	0.0	0.046	88.098	0.55	0.725
+2bJvI42r8EF3wxjOuDav4r	Pitbull,Ne-Yo	Time of Our Lives	USRC11402647	79	dance pop,latin,miami hip hop,pop,pop rap	0.0921	0.721	0.0	0.0583	124.022	0.724	0.802
+0afhq8XCExXpqazXczTSve	Ed Sheeran	Galway Girl	GBAHS1700026	76	pop,uk pop	0.0735	0.624	0.0	0.1	99.943	0.781	0.876
+0BgbobvykXxEvxo2HhCuvM	Jack Johnson	Banana Pancakes	USMC60400032	68	neo mellow	0.602	0.814	1.7e-05	0.116	114.548	0.632	0.373
+7dZ1Odmx9jWIweQSatnRqo	Lady Gaga	Million Reasons	USUM71609736	74	art pop,dance pop,pop	0.494	0.666	0.0	0.043	129.89	0.154	0.423
+5jE48hhRu8E6zBDPRSkEq7	Meghan Trainor	All About That Bass	USSM11401317	71	dance pop,hip pop,pop,post-teen pop	0.0573	0.807	2.87e-06	0.0503	134.052	0.961	0.887
+5Hroj5K7vLpIG4FNCRIjbP	American Authors	Best Day Of My Life	USUM71302187	77	modern alternative rock,modern rock,pop,pop rock,rock	0.0591	0.673	0.000262	0.0346	100.012	0.538	0.902
+1kPpge9JDLpcj15qgrPbYX	Owl City,Carly Rae Jepsen	Good Time	USUM71206288	76	indietronica,modern rock,pop,pop rock	0.0239	0.56	6.98e-06	0.14	126.05	0.682	0.872
+6kopmMZiyLmw7h66uXcXR7	Mark Ronson,Amy Winehouse	Valerie (feat. Amy Winehouse) - Version Revisited	GBARL0700173	72	dance pop,pop	0.00243	0.699	0.00024	0.0633	105.809	0.889	0.83
+1yzbqrSF0vuaO7nuKYSd6f	Foster The People	Coming of Age	USSM11305799	54	indietronica,modern alternative rock,modern rock,rock	0.0219	0.534	0.00573	0.0524	130.09	0.425	0.955
+4Wvr1YaxNsCujq77dKujys	The Bravery	Believe	USUM70729586	58	alternative dance,alternative rock,dance-punk,indie rock,modern alternative rock,modern rock,new rave,rock	0.00501	0.385	2.13e-06	0.0459	166.137	0.517	0.949
+6SiufeAINMyX2STnmkZd2R	The Ting Tings	Be the One	GBARL0800131	39	alternative dance,dance pop,dance-punk,electropop,new rave	0.0573	0.709	0.000955	0.032	149.009	0.887	0.774
+5L95vS64rG1YMIFm1hLjyZ	Bleachers	Rollercoaster	USRC11400984	63	double drumming,indie pop,modern alternative rock,modern rock,pop rock	0.00205	0.421	0.000309	0.0538	162.024	0.279	0.79
+4laAKIq9ZxBCwf99rauPYb	Becky Hill,David Guetta	Remember	GBUM72102420	76	dance pop,edm,pop,pop dance,pop house,tropical house,uk dance,uk pop	0.041	0.612	0.0	0.037	123.849	0.354	0.862
+0GONea6G2XdnHWjNZd6zt3	Bryan Adams	Summer Of '69	USAM18490006	79	canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock	0.0183	0.508	0.0	0.0386	139.131	0.774	0.834
+2N0volXQpwsvjDorTTxBAU	James Blunt	Bonfire Heart	GBAHS1300301	65	neo mellow,pop,pop rock	0.181	0.575	0.0	0.0527	118.021	0.449	0.821

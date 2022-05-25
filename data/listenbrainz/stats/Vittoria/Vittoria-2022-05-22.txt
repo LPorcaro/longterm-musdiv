@@ -1,0 +1,45 @@
+Electronic artists found: Flume,T-Shirt, Dardust,Massimo Pericolo
+Electronic genres found: italian electronica, compositional ambient, downtempo, edm
+Electronic music logs found: 11.77% 
+
+Top genres
+	1: indie pop (20.41%)
+	2: modern rock (18.37%)
+	3: pop (16.33%)
+	4: italian alternative (4.08%)
+	5: italian indie pop (4.08%)
+Top artists
+	1: Wallows (8.33%)
+	2: T-Shirt (8.33%)
+	3: Crookers (8.33%)
+	4: Declan McKenna (8.33%)
+	5: Massimo Pericolo (8.33%)
+Top country
+	1: US (47.06%)
+	2: IT (29.41%)
+	3: GB (5.88%)
+	4: QZ (5.88%)
+	5: AU (5.88%)
+Top record
+	1: AT2 (47.06%)
+	2: RWL (11.76%)
+	3: ARL (5.88%)
+	4: 9Y2 (5.88%)
+	5: FF0 (5.88%)
+Top year
+	1: 21 (47.06%)
+	2: 15 (5.88%)
+	3: 17 (5.88%)
+	4: 05 (5.88%)
+	5: 07 (5.88%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   17.000000     17.000000     17.000000         17.000000    17.000000   17.000000  17.000000  17.000000
+mean    54.764706      0.188863      0.530824          0.037340     0.110076  111.642294   0.426141   0.710824
+std     18.909420      0.214674      0.125419          0.153756     0.090831   26.049883   0.197505   0.199347
+min      0.000000      0.009370      0.224000          0.000000     0.028700   55.597000   0.075400   0.261000
+25%     52.000000      0.038300      0.461000          0.000000     0.046400   94.923000   0.315000   0.561000
+50%     58.000000      0.077600      0.562000          0.000007     0.076900  116.024000   0.360000   0.728000
+75%     61.000000      0.298000      0.602000          0.000063     0.133000  124.037000   0.582000   0.899000
+max     79.000000      0.708000      0.734000          0.634000     0.364000  162.042000   0.757000   0.950000

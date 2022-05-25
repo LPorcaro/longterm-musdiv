@@ -1,43 +1,43 @@
-Electronic artists found: Two Friends,JUSCOVA,James Delaney, Snakehips,Rivers Cuomo,KYLE, Loud Luxury,Brando, Diplo,Jonas Brothers
-Electronic genres found: electro house, edm, tropical house, moombahton
-Electronic music logs found: 36.36% 
+Electronic artists found: Diplo,Jonas Brothers, Snakehips,Rivers Cuomo,KYLE, Loud Luxury,Brando, Two Friends,JUSCOVA,James Delaney
+Electronic genres found: tropical house, moombahton, edm, electro house
+Electronic music logs found: 33.33% 
 
 Top genres
-	1: pop (14.71%)
-	2: edm (11.76%)
-	3: pop dance (11.76%)
-	4: tropical house (11.76%)
-	5: dance pop (8.82%)
+	1: pop (13.89%)
+	2: edm (11.11%)
+	3: pop dance (11.11%)
+	4: tropical house (11.11%)
+	5: dance pop (8.33%)
 Top artists
-	1: Jonas Brothers (4.76%)
-	2: Eddy Rock (4.76%)
-	3: Two Friends (4.76%)
-	4: Rivers Cuomo (4.76%)
-	5: DJ E-Feezy (4.76%)
+	1: MKTO (4.35%)
+	2: WATCH THE DUCK (4.35%)
+	3: DJ E-Feezy (4.35%)
+	4: Snakehips (4.35%)
+	5: Loud Luxury (4.35%)
 Top country
-	1: US (27.27%)
-	2: NL (18.18%)
-	3: GB (18.18%)
-	4: QZ (18.18%)
-	5: TC (9.09%)
+	1: US (33.33%)
+	2: NL (16.67%)
+	3: GB (16.67%)
+	4: QZ (16.67%)
+	5: TC (8.33%)
 Top record
-	1: Q8X (9.09%)
-	2: UM7 (9.09%)
-	3: KPL (9.09%)
-	4: 22S (9.09%)
-	5: ADT (9.09%)
+	1: HR1 (8.33%)
+	2: Q8X (8.33%)
+	3: UM7 (8.33%)
+	4: KPL (8.33%)
+	5: 22S (8.33%)
 Top year
-	1: 18 (45.45%)
-	2: 17 (27.27%)
-	3: 19 (27.27%)
+	1: 18 (41.67%)
+	2: 19 (33.33%)
+	3: 17 (25.00%)
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   11.000000     11.000000     11.000000         11.000000    11.000000   11.000000  11.000000  11.000000
-mean    55.545455      0.243036      0.765455          0.000033     0.067645  113.721909   0.617364   0.717000
-std     11.361018      0.265212      0.019562          0.000046     0.039554   16.546614   0.212723   0.122219
-min     40.000000      0.012500      0.739000          0.000000     0.038000   98.047000   0.252000   0.530000
-25%     44.000000      0.054350      0.752000          0.000000     0.045550  102.011500   0.513000   0.625000
-50%     59.000000      0.127000      0.765000          0.000000     0.052600  105.992000   0.588000   0.712000
-75%     65.000000      0.317000      0.775500          0.000068     0.065700  122.971500   0.794500   0.784500
-max     71.000000      0.765000      0.797000          0.000123     0.165000  144.958000   0.907000   0.930000
+count   12.000000     12.000000     12.000000         12.000000    12.000000   12.000000  12.000000  12.000000
+mean    53.916667      0.223548      0.743917          0.000030     0.066125  116.344667   0.607667   0.725000
+std     12.213691      0.261726      0.076905          0.000045     0.038079   18.205677   0.205587   0.119782
+min     36.000000      0.009180      0.507000          0.000000     0.038000   98.047000   0.252000   0.530000
+25%     43.750000      0.044850      0.749250          0.000000     0.045575  103.024250   0.500000   0.626500
+50%     55.500000      0.095300      0.762500          0.000000     0.051000  106.503000   0.585000   0.714500
+75%     64.000000      0.286500      0.774750          0.000068     0.061100  127.988500   0.774250   0.807000
+max     71.000000      0.765000      0.797000          0.000123     0.165000  145.195000   0.907000   0.930000

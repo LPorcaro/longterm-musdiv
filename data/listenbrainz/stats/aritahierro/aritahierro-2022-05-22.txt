@@ -1,0 +1,45 @@
+Electronic artists found: Robyn Miller, Gavin Luke, Johannes Bornlöf, Ólafur Arnalds, Daniel Licht, Jack Wall, Dark Sanctuary, Mikolai Stroinski, Treyarch, Steve Jablonsky, Michael McCann, Ludovico Einaudi,Daniel Hope, Nox Arcana, HEALTH, Christopher Drake, Jason Graves
+Electronic genres found: ethereal wave, compositional ambient, grave wave, video game music, neoclassical darkwave, dungeon synth
+Electronic music logs found: 46.43% 
+
+Top genres
+	1: soundtrack (18.92%)
+	2: video game music (18.24%)
+	3: scorecore (12.16%)
+	4: neoclassical darkwave (5.41%)
+	5: epicore (4.73%)
+Top artists
+	1: Grant Newman (1.69%)
+	2: The Bedtime Orchestra (1.69%)
+	3: Ólafur Arnalds (1.69%)
+	4: Tom Tykwer (1.69%)
+	5: Treyarch Sound (1.69%)
+Top country
+	1: US (50.00%)
+	2: SE (21.43%)
+	3: TC (11.90%)
+	4: GB (4.76%)
+	5: QZ (4.76%)
+Top record
+	1: 5Q5 (17.86%)
+	2: TC9 (11.90%)
+	3: SM1 (7.14%)
+	4: HM9 (7.14%)
+	5: NLR (5.95%)
+Top year
+	1: 09 (15.48%)
+	2: 13 (14.29%)
+	3: 21 (14.29%)
+	4: 15 (9.52%)
+	5: 10 (9.52%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   84.000000     84.000000     84.000000         84.000000    84.000000   84.000000  84.000000  84.000000
+mean    23.250000      0.716605      0.295162          0.883932     0.039308  109.219190   0.082701   0.230394
+std     13.541436      0.291708      0.139534          0.132847     0.009616   34.193794   0.085871   0.145106
+min      5.000000      0.001900      0.062500          0.036300     0.025200   35.814000   0.029400   0.002560
+25%     10.750000      0.595500      0.174750          0.875500     0.034375   81.465500   0.036100   0.132250
+50%     19.000000      0.849000      0.280000          0.917500     0.037700  106.858000   0.040200   0.211500
+75%     34.500000      0.931750      0.407500          0.947500     0.041850  137.719000   0.087400   0.324750
+max     52.000000      0.995000      0.590000          0.990000     0.084800  180.051000   0.433000   0.678000

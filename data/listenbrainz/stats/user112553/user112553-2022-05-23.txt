@@ -1,0 +1,45 @@
+Electronic artists found: Duke Dumont, Maribou State,Holly Walker, Grabbitz, Feder,Lyse, Kygo,Kodaline, Phantogram,Future Islands
+Electronic genres found: edm, tropical house, electro house, future garage, progressive house, chillwave, brostep, gaming edm, destroy techno, electronica
+Electronic music logs found: 5.83% 
+
+Top genres
+	1: pop (10.28%)
+	2: pop rock (9.17%)
+	3: folk-pop (8.33%)
+	4: neo mellow (7.22%)
+	5: stomp and holler (6.94%)
+Top artists
+	1: SALES (1.32%)
+	2: Duke Dumont (1.32%)
+	3: MGMT (1.32%)
+	4: Deejay Telio (1.32%)
+	5: Grabbitz (1.32%)
+Top country
+	1: GB (34.95%)
+	2: US (32.04%)
+	3: BR (5.83%)
+	4: TC (3.88%)
+	5: QM (3.88%)
+Top record
+	1: UM7 (19.42%)
+	2: MQN (11.65%)
+	3: SM1 (6.80%)
+	4: WMB (5.83%)
+	5: 8D6 (2.91%)
+Top year
+	1: 11 (11.65%)
+	2: 22 (10.68%)
+	3: 13 (9.71%)
+	4: 21 (9.71%)
+	5: 14 (9.71%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  103.000000    103.000000    103.000000        103.000000   103.000000  103.000000  103.000000  103.000000
+mean    62.388350      0.300596      0.600689          0.059487     0.061135  117.823913    0.465454    0.614068
+std     15.768691      0.263772      0.133205          0.183576     0.063828   26.125620    0.212265    0.150840
+min     23.000000      0.000038      0.231000          0.000000     0.026500   69.617000    0.097800    0.249000
+25%     51.500000      0.052950      0.509000          0.000000     0.031650   97.239500    0.315000    0.494500
+50%     65.000000      0.245000      0.606000          0.000019     0.037500  121.639000    0.421000    0.608000
+75%     75.000000      0.513000      0.702500          0.001385     0.061500  134.813000    0.587500    0.717500
+max     90.000000      0.920000      0.870000          0.842000     0.491000  179.626000    0.956000    0.941000

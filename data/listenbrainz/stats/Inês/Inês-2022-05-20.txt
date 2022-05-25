@@ -1,0 +1,45 @@
+Electronic artists found: Portico Quartet, Connan Mockasin
+Electronic genres found: electronica, new tribe
+Electronic music logs found: 10.53% 
+
+Top genres
+	1: nova mpb (17.14%)
+	2: indie pop (8.57%)
+	3: electronica (5.71%)
+	4: south african alternative (5.71%)
+	5: irish pop (5.71%)
+Top artists
+	1: Vanessa Moreno (4.76%)
+	2: Jota.pê (4.76%)
+	3: Leo Middea (4.76%)
+	4: Pássaro Vivo (4.76%)
+	5: Connan Mockasin (4.76%)
+Top country
+	1: BX (36.84%)
+	2: FR (15.79%)
+	3: GB (10.53%)
+	4: QM (10.53%)
+	5: IE (10.53%)
+Top record
+	1: 10S (10.53%)
+	2: LL2 (10.53%)
+	3: 7LQ (10.53%)
+	4: FZ3 (10.53%)
+	5: VEN (5.26%)
+Top year
+	1: 21 (31.58%)
+	2: 20 (21.05%)
+	3: 19 (15.79%)
+	4: 10 (5.26%)
+	5: 17 (5.26%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   19.000000     19.000000     19.000000         19.000000    19.000000   19.000000  19.000000  19.000000
+mean    47.578947      0.659579      0.569211          0.094875     0.049732  108.015684   0.412895   0.385926
+std     11.157040      0.303746      0.130925          0.271233     0.019922   21.503759   0.220103   0.213159
+min     31.000000      0.130000      0.379000          0.000000     0.026100   80.901000   0.113000   0.052800
+25%     44.000000      0.408000      0.451000          0.000001     0.038500   91.825500   0.260500   0.222000
+50%     46.000000      0.779000      0.576000          0.000253     0.041800  106.433000   0.338000   0.311000
+75%     51.500000      0.904000      0.666000          0.006140     0.061600  117.998000   0.555500   0.552500
+max     85.000000      0.965000      0.804000          0.944000     0.098000  164.165000   0.868000   0.715000

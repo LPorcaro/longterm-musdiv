@@ -1,0 +1,45 @@
+Electronic artists found: Travis Scott, Super8 & Tab,Tom Fall,London Thor
+Electronic genres found: edm, progressive trance, uplifting trance, slap house, progressive house, finnish edm
+Electronic music logs found: 11.11% 
+
+Top genres
+	1: pop (6.15%)
+	2: vapor trap (6.15%)
+	3: rap (4.62%)
+	4: hip hop (3.08%)
+	5: trap (3.08%)
+Top artists
+	1: Travis Scott (4.55%)
+	2: Super8 & Tab (4.55%)
+	3: Tom Fall (4.55%)
+	4: Bad Bunny (4.55%)
+	5: Landon Cube (4.55%)
+Top country
+	1: US (33.33%)
+	2: QZ (16.67%)
+	3: QM (16.67%)
+	4: GB (11.11%)
+	5: DE (11.11%)
+Top record
+	1: UM7 (22.22%)
+	2: AT2 (11.11%)
+	3: 6MZ (11.11%)
+	4: PEW (11.11%)
+	5: K3W (5.56%)
+Top year
+	1: 22 (50.00%)
+	2: 21 (16.67%)
+	3: 19 (11.11%)
+	4: 11 (5.56%)
+	5: 20 (5.56%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    52.000000      0.123598      0.663444          0.011144     0.095472  133.946389   0.476500   0.690333
+std     20.939689      0.189842      0.160531          0.024755     0.084485   21.061369   0.172315   0.146886
+min      9.000000      0.000037      0.272000          0.000000     0.032000   93.499000   0.131000   0.439000
+25%     40.250000      0.000916      0.539500          0.000006     0.035025  121.442250   0.388000   0.586750
+50%     49.000000      0.034550      0.717500          0.000132     0.065000  135.013500   0.492500   0.655500
+75%     68.250000      0.171250      0.790500          0.005982     0.118750  146.408750   0.609750   0.824500
+max     87.000000      0.606000      0.849000          0.088200     0.367000  167.716000   0.724000   0.926000

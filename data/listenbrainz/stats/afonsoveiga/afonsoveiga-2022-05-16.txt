@@ -1,19 +1,19 @@
-Electronic artists found: Travis Scott, The xx, Stereolab
-Electronic genres found: electronica, slap house, downtempo
+Electronic artists found: Stereolab, The xx, Travis Scott
+Electronic genres found: electronica, downtempo, slap house
 Electronic music logs found: 4.76% 
 
 Top genres
-	1: rap (13.10%)
-	2: hip hop (12.30%)
-	3: hip hop tuga (5.95%)
-	4: pop (4.76%)
-	5: trap tuga (3.57%)
+	1: rap (13.36%)
+	2: hip hop (11.74%)
+	3: hip hop tuga (6.07%)
+	4: pop (4.86%)
+	5: trap tuga (3.64%)
 Top artists
-	1: Aminé (1.28%)
-	2: Ratatat (1.28%)
-	3: AJ Tracey (1.28%)
-	4: benji price (1.28%)
-	5: xtinto (1.28%)
+	1: Dominic Fike (1.28%)
+	2: The xx (1.28%)
+	3: Brent Faiyaz (1.28%)
+	4: LON3R JOHNY (1.28%)
+	5: Slow J (1.28%)
 Top country
 	1: US (54.76%)
 	2: PT (17.86%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   84.000000     84.000000     84.000000         84.000000    84.000000   84.000000  84.000000  84.000000
-mean    58.440476      0.379302      0.644310          0.051946     0.132327  114.072286   0.424454   0.566369
-std     16.488295      0.289499      0.139589          0.167140     0.118456   31.906577   0.202302   0.157172
+mean    58.559524      0.379302      0.644310          0.051946     0.132327  114.072286   0.424454   0.566369
+std     16.479524      0.289499      0.139589          0.167140     0.118456   31.906577   0.202302   0.157172
 min      2.000000      0.002500      0.232000          0.000000     0.025800   56.046000   0.039700   0.126000
-25%     47.750000      0.107075      0.559750          0.000000     0.047475   86.626750   0.300000   0.475000
+25%     48.000000      0.107075      0.559750          0.000000     0.047475   86.626750   0.300000   0.475000
 50%     65.000000      0.354500      0.651000          0.000045     0.081600  106.820000   0.399500   0.582500
 75%     70.000000      0.623000      0.747000          0.004698     0.188250  140.099250   0.618500   0.677250
 max     84.000000      0.978000      0.930000          0.925000     0.522000  179.924000   0.844000   0.931000

@@ -1,0 +1,45 @@
+Electronic artists found: Martin Solveig,ALMA, Bob Sinclar,Molly Hammar, Route 94,Jess Glynne
+Electronic genres found: tropical house, edm, disco house, electro house
+Electronic music logs found: 25.00% 
+
+Top genres
+	1: pop dance (6.38%)
+	2: tropical house (6.38%)
+	3: dance pop (6.38%)
+	4: pop (4.26%)
+	5: hip hop (4.26%)
+Top artists
+	1: Martin Solveig (4.76%)
+	2: Mr Hudson (4.76%)
+	3: Lil Nas X (4.76%)
+	4: Bob Sinclar (4.76%)
+	5: Rkomi (4.76%)
+Top country
+	1: US (33.33%)
+	2: IT (25.00%)
+	3: GB (16.67%)
+	4: UK (8.33%)
+	5: SE (8.33%)
+Top record
+	1: UM7 (16.67%)
+	2: Q00 (16.67%)
+	3: SM1 (8.33%)
+	4: JZ1 (8.33%)
+	5: QGW (8.33%)
+Top year
+	1: 21 (25.00%)
+	2: 20 (16.67%)
+	3: 22 (16.67%)
+	4: 09 (8.33%)
+	5: 13 (8.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   12.000000     12.000000     12.000000         12.000000    12.000000   12.000000  12.000000  12.000000
+mean    65.166667      0.193947      0.696583          0.060077     0.102533  111.607917   0.553583   0.762583
+std     15.723944      0.173305      0.095854          0.207822     0.084020   23.138695   0.291927   0.081448
+min     26.000000      0.000132      0.506000          0.000000     0.048400   74.992000   0.103000   0.622000
+25%     59.500000      0.070273      0.652750          0.000000     0.051975   89.038500   0.280250   0.687500
+50%     68.500000      0.150500      0.720000          0.000006     0.064150  119.977000   0.665000   0.791500
+75%     73.250000      0.279000      0.750250          0.000067     0.101175  127.716500   0.793250   0.817500
+max     89.000000      0.555000      0.817000          0.720000     0.321000  140.329000   0.846000   0.860000

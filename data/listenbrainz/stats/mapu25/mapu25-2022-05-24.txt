@@ -1,0 +1,45 @@
+Electronic artists found: Jax Jones,Demi Lovato,Stefflon Don
+Electronic genres found: tropical house, edm, electro house
+Electronic music logs found: 8.00% 
+
+Top genres
+	1: pop (15.87%)
+	2: dance pop (7.94%)
+	3: pop rap (4.76%)
+	4: latin talent show (3.17%)
+	5: latin viral pop (3.17%)
+Top artists
+	1: Jonathan Groff (4.55%)
+	2: Chanel (4.55%)
+	3: Alaina Castillo (4.55%)
+	4: Adore Delano (4.55%)
+	5: Stellan Skarsgård (4.55%)
+Top country
+	1: ES (36.00%)
+	2: US (24.00%)
+	3: GB (24.00%)
+	4: TC (4.00%)
+	5: RU (4.00%)
+Top record
+	1: UM7 (20.00%)
+	2: 94B (20.00%)
+	3: KPL (8.00%)
+	4: 568 (4.00%)
+	5: AEN (4.00%)
+Top year
+	1: 20 (20.00%)
+	2: 22 (20.00%)
+	3: 19 (16.00%)
+	4: 17 (12.00%)
+	5: 21 (12.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.000000
+mean    57.640000      0.220738      0.636120          0.001373     0.087564  124.785200   0.552000   0.678624
+std     15.140674      0.287945      0.145265          0.002436     0.070677   30.945874   0.219153   0.218876
+min     20.000000      0.000499      0.356000          0.000000     0.027700   72.877000   0.178000   0.088600
+25%     57.000000      0.050100      0.510000          0.000000     0.038200  104.985000   0.352000   0.642000
+50%     63.000000      0.076700      0.675000          0.000002     0.056600  121.074000   0.618000   0.698000
+75%     69.000000      0.269000      0.756000          0.001110     0.112000  135.937000   0.724000   0.866000
+max     76.000000      0.949000      0.817000          0.005950     0.320000  198.158000   0.934000   0.923000

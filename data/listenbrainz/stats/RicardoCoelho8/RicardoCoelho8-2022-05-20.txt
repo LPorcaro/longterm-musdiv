@@ -1,0 +1,33 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: arrocha (25.00%)
+	2: batidao romantico (25.00%)
+	3: funk carioca (25.00%)
+	4: brooklyn drill (25.00%)
+Top artists
+	1: Wesley Safadão (33.33%)
+	2: MC Rogerinho (33.33%)
+	3: Pop Smoke (33.33%)
+Top country
+	1: BC (50.00%)
+	2: US (50.00%)
+Top record
+	1: N5Z (50.00%)
+	2: UM7 (50.00%)
+Top year
+	1: 22 (50.00%)
+	2: 20 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000               2.0     2.000000    2.000000  2.000000  2.000000
+mean    71.000000      0.660000      0.788000               0.0     0.054250  108.034000  0.580500  0.620000
+std      7.071068      0.349311      0.019799               0.0     0.033305   24.047287  0.362746  0.151321
+min     66.000000      0.413000      0.774000               0.0     0.030700   91.030000  0.324000  0.513000
+25%     68.500000      0.536500      0.781000               0.0     0.042475   99.532000  0.452250  0.566500
+50%     71.000000      0.660000      0.788000               0.0     0.054250  108.034000  0.580500  0.620000
+75%     73.500000      0.783500      0.795000               0.0     0.066025  116.536000  0.708750  0.673500
+max     76.000000      0.907000      0.802000               0.0     0.077800  125.038000  0.837000  0.727000

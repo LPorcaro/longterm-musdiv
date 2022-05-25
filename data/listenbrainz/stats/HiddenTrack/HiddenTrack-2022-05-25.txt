@@ -1,0 +1,38 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: broadway (16.67%)
+	2: hollywood (8.33%)
+	3: show tunes (8.33%)
+	4: alternative country (8.33%)
+	5: alternative rock (8.33%)
+Top artists
+	1: Julia Migenes (14.29%)
+	2: Company Of The Original Cast Of Catch Me If You Can (14.29%)
+	3: Aaron Tveit (14.29%)
+	4: Wilco (14.29%)
+	5: Eric Stern (14.29%)
+Top country
+	1: US (100.00%)
+Top record
+	1: SM1 (50.00%)
+	2: SK3 (25.00%)
+	3: RH1 (25.00%)
+Top year
+	1: 11 (25.00%)
+	2: 17 (25.00%)
+	3: 04 (25.00%)
+	4: 68 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo   valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.00000  4.000000  4.000000
+mean    26.250000      0.733500      0.458250          0.005731     0.044075  107.14325  0.493250  0.363350
+std     16.090888      0.194313      0.121883          0.011446     0.021206   20.92904  0.305605  0.242003
+min      3.000000      0.528000      0.299000          0.000000     0.029900   77.98400  0.167000  0.056400
+25%     23.250000      0.590250      0.426500          0.000001     0.030200  101.05625  0.274250  0.231600
+50%     31.000000      0.737500      0.469000          0.000012     0.035750  111.64050  0.493000  0.400000
+75%     34.000000      0.880750      0.500750          0.005741     0.049625  117.72750  0.712000  0.531750
+max     40.000000      0.931000      0.596000          0.022900     0.074900  127.30800  0.820000  0.597000

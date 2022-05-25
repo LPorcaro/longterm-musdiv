@@ -1,0 +1,44 @@
+Electronic artists found: Justice, Feed Me,Crystal Fighters, Surfer Blood
+Electronic genres found: electronica, complextro, chillwave, electro house, edm
+Electronic music logs found: 7.50% 
+
+Top genres
+	1: modern rock (14.01%)
+	2: rock (11.11%)
+	3: indie rock (8.70%)
+	4: alternative rock (5.80%)
+	5: modern alternative rock (4.83%)
+Top artists
+	1: Bombay Bicycle Club (2.70%)
+	2: Vampire Weekend (2.70%)
+	3: Declan McKenna (2.70%)
+	4: Justice (2.70%)
+	5: Phoenix (2.70%)
+Top country
+	1: GB (62.50%)
+	2: US (27.50%)
+	3: FR (7.50%)
+	4: QZ (2.50%)
+Top record
+	1: UM7 (17.50%)
+	2: ARL (12.50%)
+	3: AT2 (7.50%)
+	4: CEL (7.50%)
+	5: BKS (5.00%)
+Top year
+	1: 12 (12.50%)
+	2: 13 (10.00%)
+	3: 11 (7.50%)
+	4: 19 (7.50%)
+	5: 06 (7.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   40.000000     40.000000     40.000000         40.000000    40.000000   40.000000  40.000000  40.000000
+mean    55.000000      0.039350      0.529825          0.074525     0.073497  135.632000   0.526125   0.820125
+std     11.428709      0.084343      0.138051          0.186382     0.062992   23.095488   0.188271   0.098851
+min     29.000000      0.000004      0.173000          0.000000     0.029300   81.132000   0.175000   0.613000
+25%     46.750000      0.001270      0.460250          0.000004     0.039350  125.003750   0.404500   0.754500
+50%     54.500000      0.011900      0.539500          0.000759     0.051250  130.989500   0.503500   0.799000
+75%     61.250000      0.035875      0.632250          0.010700     0.072600  149.579250   0.623500   0.916750
+max     84.000000      0.362000      0.797000          0.693000     0.345000  179.626000   0.918000   0.991000

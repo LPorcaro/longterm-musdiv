@@ -16,7 +16,7 @@ WIKI_GENRES = "../data/input/wikipedia_EM_genres.csv"
 FEAT_DIR = "../data/listenbrainz/feat"
 INFO_DIR = "../data/listenbrainz/info"
 
-end = datetime.strptime("20220509", "%Y%m%d")
+end = datetime.strptime("20220502", "%Y%m%d")
 
 NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
                 'spanish new wave', 'pop electronico', 'electronica argentina',

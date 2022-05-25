@@ -1,0 +1,45 @@
+Electronic artists found: Will Sparks,Firelite, Audiotricz,Villain, Styles & Breeze,Hypnose, Gammer,Darren Styles, Ellie Goulding, Radical Redemption, D-Block & S-te-Fan,DJ Isaac, Shogun, Ecstatic,Audiotricz,MERYLL
+Electronic genres found: euphoric hardstyle, melbourne bounce, progressive house, electro house, rawstyle, uplifting trance, hardstyle, melbourne bounce international, classic hardstyle, happy hardcore, hardcore techno, edm
+Electronic music logs found: 16.98% 
+
+Top genres
+	1: funk carioca (9.26%)
+	2: pop (5.56%)
+	3: rawstyle (3.70%)
+	4: uk pop (2.78%)
+	5: pop nacional (2.78%)
+Top artists
+	1: ARCHEZ (1.30%)
+	2: Namara (1.30%)
+	3: Radical Redemption (1.30%)
+	4: Teto (1.30%)
+	5: Mc Delux (1.30%)
+Top country
+	1: QZ (18.87%)
+	2: US (18.87%)
+	3: BR (9.43%)
+	4: PT (7.55%)
+	5: NL (7.55%)
+Top record
+	1: UM7 (15.09%)
+	2: WMB (7.55%)
+	3: W92 (3.77%)
+	4: SM1 (3.77%)
+	5: HFD (3.77%)
+Top year
+	1: 22 (35.85%)
+	2: 21 (26.42%)
+	3: 20 (18.87%)
+	4: 17 (5.66%)
+	5: 18 (3.77%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   53.000000     53.000000     53.000000         53.000000    53.000000   53.000000  53.000000  53.000000
+mean    68.452830      0.216004      0.622358          0.115997     0.118443  126.773208   0.435000   0.700774
+std     14.461575      0.239706      0.171158          0.260800     0.106372   31.336593   0.218884   0.175269
+min     34.000000      0.000119      0.150000          0.000000     0.024800   74.988000   0.039500   0.337000
+25%     59.000000      0.015500      0.511000          0.000000     0.043800   95.012000   0.269000   0.597000
+50%     74.000000      0.153000      0.658000          0.000011     0.078800  129.962000   0.404000   0.722000
+75%     80.000000      0.285000      0.743000          0.027300     0.145000  150.146000   0.584000   0.850000
+max    100.000000      0.902000      0.955000          0.974000     0.382000  180.048000   0.956000   0.981000

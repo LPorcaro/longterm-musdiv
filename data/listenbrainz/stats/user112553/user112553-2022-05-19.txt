@@ -1,0 +1,45 @@
+Electronic artists found: Sandro Cavazza
+Electronic genres found: tropical house
+Electronic music logs found: 4.00% 
+
+Top genres
+	1: british singer-songwriter (15.69%)
+	2: pop (9.80%)
+	3: indie folk (9.80%)
+	4: modern rock (7.84%)
+	5: uk pop (5.88%)
+Top artists
+	1: Sandro Cavazza (5.56%)
+	2: Dean Lewis (5.56%)
+	3: Aquilo (5.56%)
+	4: Sufjan Stevens (5.56%)
+	5: Sofi de la Torre (5.56%)
+Top country
+	1: GB (56.00%)
+	2: DE (12.00%)
+	3: AU (8.00%)
+	4: US (8.00%)
+	5: SE (4.00%)
+Top record
+	1: UM7 (28.00%)
+	2: VHN (20.00%)
+	3: ARL (8.00%)
+	4: FFM (8.00%)
+	5: 45A (4.00%)
+Top year
+	1: 18 (28.00%)
+	2: 16 (20.00%)
+	3: 19 (16.00%)
+	4: 11 (8.00%)
+	5: 17 (8.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.000000
+mean    51.400000      0.616262      0.506720          0.125642     0.047284  113.538840   0.271412   0.349328
+std     14.250731      0.332565      0.150126          0.282674     0.035607   31.855521   0.138495   0.210324
+min     29.000000      0.004740      0.234000          0.000000     0.025100   72.957000   0.039300   0.027600
+25%     37.000000      0.443000      0.393000          0.000000     0.031800   80.401000   0.187000   0.177000
+50%     52.000000      0.610000      0.530000          0.001070     0.035200  111.914000   0.252000   0.365000
+75%     60.000000      0.928000      0.613000          0.027500     0.046000  136.013000   0.341000   0.485000
+max     78.000000      0.981000      0.802000          0.933000     0.173000  181.868000   0.712000   0.746000

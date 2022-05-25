@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: italian hip hop (12.73%)
-	2: finnish alternative rock (11.82%)
-	3: funk metal (11.82%)
-	4: italian pop (7.27%)
-	5: italian indie pop (6.36%)
+	1: italian hip hop (13.21%)
+	2: finnish alternative rock (12.26%)
+	3: funk metal (12.26%)
+	4: italian pop (7.55%)
+	5: italian indie pop (6.60%)
 Top artists
-	1: Sfera Ebbasta (2.86%)
-	2: Ornella Vanoni (2.86%)
-	3: Imagine Dragons (2.86%)
-	4: The Cranberries (2.86%)
-	5: sangiovanni (2.86%)
+	1: Tom Odell (2.86%)
+	2: Shiva (2.86%)
+	3: Luca Barbarossa (2.86%)
+	4: Luchè (2.86%)
+	5: Tananai (2.86%)
 Top country
 	1: IT (44.90%)
 	2: SE (26.53%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   49.000000     49.000000     49.000000         49.000000    49.000000   49.000000  49.000000  49.000000
-mean    60.959184      0.189629      0.628837          0.000274     0.081606  125.487102   0.478904   0.710265
-std     18.454854      0.235015      0.127111          0.001060     0.080097   24.412367   0.222636   0.144408
+mean    61.163265      0.189629      0.628837          0.000274     0.081606  125.487102   0.478904   0.710265
+std     18.628324      0.235015      0.127111          0.001060     0.080097   24.412367   0.222636   0.144408
 min     19.000000      0.000109      0.431000          0.000000     0.026700   83.903000   0.077000   0.270000
 25%     48.000000      0.008400      0.520000          0.000000     0.035800  105.991000   0.324000   0.627000
 50%     66.000000      0.084100      0.601000          0.000000     0.046300  122.769000   0.469000   0.738000

@@ -1,0 +1,42 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: italian indie pop (29.11%)
+	2: italian adult pop (26.58%)
+	3: italian reggae (26.58%)
+	4: italian hip hop (7.59%)
+	5: italian underground hip hop (5.06%)
+Top artists
+	1: Matthew Marcantonio (5.88%)
+	2: Moder (5.88%)
+	3: DJ Fastcut (5.88%)
+	4: XVI Religion (5.88%)
+	5: Willie Peyote (5.88%)
+Top country
+	1: IT (93.10%)
+	2: TC (6.90%)
+Top record
+	1: UM7 (75.86%)
+	2: 2G3 (10.34%)
+	3: O95 (3.45%)
+	4: ADQ (3.45%)
+	5: ACX (3.45%)
+Top year
+	1: 21 (72.41%)
+	2: 14 (6.90%)
+	3: 18 (6.90%)
+	4: 13 (3.45%)
+	5: 20 (3.45%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
+mean    33.689655      0.193121      0.645034          0.004545     0.183086  116.201897   0.487828   0.745345
+std     12.159956      0.200870      0.107321          0.008891     0.119489   29.966968   0.207590   0.108014
+min      0.000000      0.002680      0.453000          0.000000     0.046000   77.740000   0.175000   0.506000
+25%     28.000000      0.040000      0.577000          0.000004     0.065000   96.145000   0.352000   0.685000
+50%     37.000000      0.160000      0.649000          0.000174     0.154000  107.043000   0.428000   0.756000
+75%     41.000000      0.290000      0.708000          0.003550     0.234000  133.900000   0.627000   0.812000
+max     54.000000      0.852000      0.854000          0.025300     0.557000  166.963000   0.972000   0.923000
