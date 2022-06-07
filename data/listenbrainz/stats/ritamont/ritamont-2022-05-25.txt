@@ -1,27 +1,45 @@
-Electronic artists found: 
-Electronic genres found: 
-Electronic music logs found: 0.00% 
+Electronic artists found: DIIV, Massive Attack
+Electronic genres found: chillwave, downtempo, big beat, trip hop, electronica
+Electronic music logs found: 13.33% 
 
 Top genres
-	1: alabama indie (33.33%)
-	2: modern blues rock (33.33%)
-	3: rock (33.33%)
+	1: indie rock (11.26%)
+	2: modern rock (11.26%)
+	3: rock (7.28%)
+	4: alternative rock (3.97%)
+	5: alternative dance (3.31%)
 Top artists
-	1: Alabama Shakes (100.00%)
+	1: DIIV (5.88%)
+	2: MOMO. (5.88%)
+	3: Alex Siegel (5.88%)
+	4: Childish Gambino (5.88%)
+	5: José González (5.88%)
 Top country
-	1: US (100.00%)
+	1: GB (50.00%)
+	2: US (30.00%)
+	3: QM (10.00%)
+	4: BR (3.33%)
+	5: FR (3.33%)
 Top record
-	1: ATO (100.00%)
+	1: AFL (16.67%)
+	2: UM7 (10.00%)
+	3: MZN (10.00%)
+	4: ATO (10.00%)
+	5: CA2 (6.67%)
 Top year
-	1: 14 (100.00%)
+	1: 13 (16.67%)
+	2: 07 (13.33%)
+	3: 18 (13.33%)
+	4: 14 (13.33%)
+	5: 20 (6.67%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
-count         2.0         2.000         2.000             2.000       2.0000    2.000    2.000   2.000
-mean         41.0         0.847         0.548             0.608       0.0608  114.752    0.181   0.428
-std           0.0         0.000         0.000             0.000       0.0000    0.000    0.000   0.000
-min          41.0         0.847         0.548             0.608       0.0608  114.752    0.181   0.428
-25%          41.0         0.847         0.548             0.608       0.0608  114.752    0.181   0.428
-50%          41.0         0.847         0.548             0.608       0.0608  114.752    0.181   0.428
-75%          41.0         0.847         0.548             0.608       0.0608  114.752    0.181   0.428
-max          41.0         0.847         0.548             0.608       0.0608  114.752    0.181   0.428
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   30.000000     30.000000     30.000000         30.000000    30.000000   30.000000  30.000000  30.000000
+mean    37.500000      0.419880      0.513667          0.436361     0.054273  133.775167   0.369700   0.599500
+std     15.379678      0.360344      0.148712          0.384352     0.032510   25.254737   0.230363   0.265174
+min      0.000000      0.000004      0.160000          0.000000     0.028400   85.194000   0.000000   0.155000
+25%     29.250000      0.016072      0.418250          0.005735     0.034575  119.843250   0.181000   0.433750
+50%     41.000000      0.406000      0.535000          0.598000     0.042700  131.880000   0.330500   0.543000
+75%     47.250000      0.772750      0.611000          0.795000     0.060800  151.757500   0.544750   0.872250
+max     69.000000      0.976000      0.854000          0.942000     0.168000  188.786000   0.829000   0.978000

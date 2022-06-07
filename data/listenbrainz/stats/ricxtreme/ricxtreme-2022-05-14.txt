@@ -1,19 +1,19 @@
-Electronic artists found: Lost Frequencies,Janieck, LIZOT,Holy Molly, MEDUZA,Becky Hill,Goodboys
-Electronic genres found: edm, slap house, tropical house, belgian edm
+Electronic artists found: LIZOT,Holy Molly, MEDUZA,Becky Hill,Goodboys, Lost Frequencies,Janieck
+Electronic genres found: belgian edm, tropical house, edm, slap house
 Electronic music logs found: 14.29% 
 
 Top genres
-	1: chicago rap (10.00%)
-	2: pop (6.67%)
-	3: melodic rap (6.67%)
-	4: rap (5.00%)
-	5: edm (5.00%)
+	1: chicago rap (9.84%)
+	2: pop (6.56%)
+	3: melodic rap (6.56%)
+	4: rap (4.92%)
+	5: edm (4.92%)
 Top artists
-	1: Janieck (4.17%)
-	2: Monsieur Periné (4.17%)
-	3: Ed Sheeran (4.17%)
-	4: Virgul (4.17%)
-	5: Skillet (4.17%)
+	1: Monsieur Periné (4.17%)
+	2: Domingues (4.17%)
+	3: MEDUZA (4.17%)
+	4: Snow (4.17%)
+	5: Kanye West (4.17%)
 Top country
 	1: US (57.14%)
 	2: PT (14.29%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
-mean    61.047619      0.218119      0.663905          0.000253     0.129486  114.934857   0.438619   0.693810
-std     19.921035      0.187993      0.134683          0.000917     0.107076   25.405471   0.227651   0.113732
+mean    60.904762      0.218119      0.663905          0.000253     0.129486  114.934857   0.438619   0.693810
+std     19.914579      0.187993      0.134683          0.000917     0.107076   25.405471   0.227651   0.113732
 min     20.000000      0.000394      0.465000          0.000000     0.029800   83.903000   0.138000   0.526000
-25%     47.000000      0.106000      0.511000          0.000000     0.041500   93.989000   0.218000   0.566000
+25%     46.000000      0.106000      0.511000          0.000000     0.041500   93.989000   0.218000   0.566000
 50%     67.000000      0.182000      0.714000          0.000000     0.097700  118.108000   0.441000   0.710000
 75%     77.000000      0.349000      0.756000          0.000005     0.200000  129.992000   0.586000   0.736000
-max     90.000000      0.695000      0.906000          0.004180     0.438000  173.999000   0.956000   0.896000
+max     89.000000      0.695000      0.906000          0.004180     0.438000  173.999000   0.956000   0.896000

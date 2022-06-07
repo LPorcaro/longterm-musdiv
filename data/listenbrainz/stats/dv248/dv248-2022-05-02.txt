@@ -1,0 +1,44 @@
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: belgian edm, tropical house, edm
+Electronic music logs found: 3.70% 
+
+Top genres
+	1: funk carioca (15.79%)
+	2: pop (15.79%)
+	3: post-teen pop (5.26%)
+	4: pop nacional (5.26%)
+	5: brazilian hip hop (3.51%)
+Top artists
+	1: Luísa Sonza (2.33%)
+	2: Ivandro (2.33%)
+	3: Mc Pedrinho (2.33%)
+	4: Dj Gabriel do Borel (2.33%)
+	5: Os Hawaianos (2.33%)
+Top country
+	1: US (29.63%)
+	2: BR (25.93%)
+	3: PT (11.11%)
+	4: QZ (7.41%)
+	5: BX (7.41%)
+Top record
+	1: SM1 (18.52%)
+	2: WMB (14.81%)
+	3: NJZ (7.41%)
+	4: 9GN (7.41%)
+	5: VK6 (3.70%)
+Top year
+	1: 22 (48.15%)
+	2: 21 (44.44%)
+	3: 19 (3.70%)
+	4: 17 (3.70%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
+mean    79.592593      0.292459      0.705704          0.002037     0.138478  132.358593   0.623478   0.645370
+std     11.300985      0.254874      0.146398          0.006689     0.123185   29.046959   0.260661   0.134668
+min     54.000000      0.022100      0.345000          0.000000     0.040100   63.100000   0.089900   0.348000
+25%     76.500000      0.064250      0.649000          0.000000     0.052000  121.464500   0.420000   0.574500
+50%     82.000000      0.232000      0.748000          0.000000     0.078800  134.947000   0.662000   0.639000
+75%     86.000000      0.446500      0.788500          0.000080     0.255000  146.053000   0.849500   0.746000
+max    100.000000      0.843000      0.930000          0.031800     0.421000  185.727000   0.956000   0.859000

@@ -1,19 +1,19 @@
 Electronic artists found: Bakermat, Portico Quartet
-Electronic genres found: electronica, tropical house, new tribe, minimal tech house
+Electronic genres found: new tribe, deep tropical house, electronica, minimal tech house, tropical house
 Electronic music logs found: 3.33% 
 
 Top genres
-	1: fado (13.89%)
-	2: portuguese rock (11.11%)
-	3: urbano espanol (5.56%)
-	4: classic portuguese pop (3.47%)
-	5: musica de intervencao (3.47%)
+	1: fado (13.70%)
+	2: portuguese rock (10.96%)
+	3: urbano espanol (5.48%)
+	4: classic portuguese pop (3.42%)
+	5: musica de intervencao (3.42%)
 Top artists
-	1: Niño de Elche (2.22%)
-	2: Luisa Sobral (2.22%)
-	3: Erasmo Carlos (2.22%)
-	4: Oquestrada (2.22%)
-	5: Diogo Piçarra (2.22%)
+	1: Cardellino (2.22%)
+	2: Tame Impala (2.22%)
+	3: Inês Viterbo (2.22%)
+	4: El Zar (2.22%)
+	5: José Mário Branco (2.22%)
 Top country
 	1: PT (43.33%)
 	2: ES (13.33%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   60.000000     60.000000     60.000000         60.000000    60.000000   60.000000  60.000000  60.000000
-mean    39.866667      0.590807      0.603083          0.079641     0.098838  113.196100   0.525900   0.469412
-std     18.118692      0.303843      0.139121          0.201413     0.109663   25.341067   0.189234   0.182192
+mean    39.850000      0.590807      0.603083          0.079641     0.098838  113.196100   0.525900   0.469412
+std     18.152672      0.303843      0.139121          0.201413     0.109663   25.341067   0.189234   0.182192
 min      9.000000      0.000754      0.237000          0.000000     0.025200   79.565000   0.189000   0.082700
 25%     30.500000      0.311000      0.518750          0.000035     0.037075   93.792750   0.383500   0.358750
 50%     35.000000      0.671000      0.611500          0.001395     0.048500  110.375000   0.508500   0.460000
-75%     51.500000      0.827750      0.685750          0.016825     0.091800  123.227750   0.664500   0.594250
+75%     51.750000      0.827750      0.685750          0.016825     0.091800  123.227750   0.664500   0.594250
 max     84.000000      0.992000      0.916000          0.944000     0.510000  197.549000   0.948000   0.795000

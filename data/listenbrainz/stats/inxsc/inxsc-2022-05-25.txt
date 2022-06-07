@@ -1,0 +1,45 @@
+Electronic artists found: Crazy Frog, Rednex, Yabby You, The Knife,Mount Sims
+Electronic genres found: dub, eurodance, electronica, hip house
+Electronic music logs found: 7.84% 
+
+Top genres
+	1: rap (9.20%)
+	2: hip hop (6.90%)
+	3: underground hip hop (4.60%)
+	4: conscious hip hop (3.45%)
+	5: chicago rap (2.87%)
+Top artists
+	1: Johnny Hooker (1.59%)
+	2: Electric Six (1.59%)
+	3: Dave B. (1.59%)
+	4: Budapest Failoni Chamber Orchestra (1.59%)
+	5: Nas (1.59%)
+Top country
+	1: US (50.98%)
+	2: QM (11.76%)
+	3: GB (9.80%)
+	4: FR (9.80%)
+	5: TC (5.88%)
+Top record
+	1: UM7 (11.76%)
+	2: 84R (7.84%)
+	3: UG1 (5.88%)
+	4: KSC (5.88%)
+	5: UYG (5.88%)
+Top year
+	1: 18 (17.65%)
+	2: 16 (9.80%)
+	3: 17 (9.80%)
+	4: 15 (5.88%)
+	5: 13 (5.88%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.000000  51.000000
+mean    55.294118      0.320170      0.630882          0.049985     0.139124  128.120588   0.536455   0.630294
+std     17.353149      0.260946      0.147806          0.184345     0.102234   32.083599   0.276009   0.200235
+min      2.000000      0.000095      0.332000          0.000000     0.026400   72.577000   0.047000   0.179000
+25%     44.000000      0.109000      0.540500          0.000000     0.059200  104.734000   0.324500   0.548000
+50%     57.000000      0.249000      0.636000          0.000002     0.117000  130.007000   0.536000   0.636000
+75%     71.500000      0.504500      0.739000          0.000367     0.190000  145.972000   0.762500   0.739000
+max     83.000000      0.973000      0.967000          0.880000     0.424000  197.909000   0.969000   0.988000

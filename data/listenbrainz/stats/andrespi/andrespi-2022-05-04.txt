@@ -1,0 +1,36 @@
+Electronic artists found: Sam Feldt,RANI, Jess Glynne,Jax Jones, Ellie Goulding
+Electronic genres found: electro house, tropical house, edm, pop edm
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: dance pop (15.00%)
+	2: pop (15.00%)
+	3: edm (10.00%)
+	4: pop dance (10.00%)
+	5: tropical house (10.00%)
+Top artists
+	1: RANI (20.00%)
+	2: Sam Feldt (20.00%)
+	3: Jax Jones (20.00%)
+	4: Ellie Goulding (20.00%)
+	5: Jess Glynne (20.00%)
+Top country
+	1: GB (66.67%)
+	2: NL (33.33%)
+Top record
+	1: Z54 (33.33%)
+	2: AHS (33.33%)
+	3: UM7 (33.33%)
+Top year
+	1: 19 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    3.000000      3.000000      3.000000               3.0     3.000000    3.000000  3.000000  3.000000
+mean    62.333333      0.224700      0.648333               0.0     0.129667  113.827000  0.630333  0.712000
+std      5.507571      0.131414      0.051228               0.0     0.007095    9.079371  0.081002  0.081185
+min     57.000000      0.077100      0.590000               0.0     0.122000  107.356000  0.541000  0.642000
+25%     59.500000      0.172550      0.629500               0.0     0.126500  108.637500  0.596000  0.667500
+50%     62.000000      0.268000      0.669000               0.0     0.131000  109.919000  0.651000  0.693000
+75%     65.000000      0.298500      0.677500               0.0     0.133500  117.062500  0.675000  0.747000
+max     68.000000      0.329000      0.686000               0.0     0.136000  124.206000  0.699000  0.801000

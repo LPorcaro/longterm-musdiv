@@ -1,0 +1,36 @@
+Electronic artists found: Braaheim, Viva La Panda
+Electronic genres found: deep tropical house, deep house, tropical house, slap house
+Electronic music logs found: 50.00% 
+
+Top genres
+	1: slap house (25.00%)
+	2: deep house (25.00%)
+	3: deep tropical house (25.00%)
+	4: tropical house (25.00%)
+Top artists
+	1: Stisema (14.29%)
+	2: Aili (14.29%)
+	3: ILYAA (14.29%)
+	4: Braaheim (14.29%)
+	5: Viva La Panda (14.29%)
+Top country
+	1: QM (100.00%)
+Top record
+	1: FMF (25.00%)
+	2: 4TW (25.00%)
+	3: 6MZ (25.00%)
+	4: DA6 (25.00%)
+Top year
+	1: 21 (75.00%)
+	2: 22 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.000000  4.000000  4.000000
+mean    36.750000      0.115025      0.666000          0.000108     0.140425  126.236000  0.364750  0.808500
+std     19.602296      0.151845      0.055564          0.000188     0.201741    5.796037  0.109497  0.148666
+min      9.000000      0.011800      0.602000          0.000000     0.036300  119.978000  0.219000  0.589000
+25%     30.000000      0.031825      0.628250          0.000002     0.038025  123.740000  0.328500  0.783250
+50%     43.000000      0.054150      0.674500          0.000022     0.041200  125.491500  0.378500  0.866500
+75%     49.750000      0.137350      0.712250          0.000129     0.143600  127.987500  0.414750  0.891750
+max     52.000000      0.340000      0.713000          0.000388     0.443000  133.983000  0.483000  0.912000

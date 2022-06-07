@@ -1,0 +1,33 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: alternative metal (22.61%)
+	2: nu metal (22.61%)
+	3: melodic metalcore (19.43%)
+	4: metalcore (19.43%)
+	5: french death metal (3.18%)
+Top artists
+	1: All That Remains (50.00%)
+	2: Gojira (50.00%)
+Top country
+	1: US (85.94%)
+	2: FR (14.06%)
+Top record
+	1: RZR (85.94%)
+	2: 6V8 (14.06%)
+Top year
+	1: 06 (85.94%)
+	2: 05 (14.06%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   64.000000     64.000000     64.000000         64.000000    64.000000   64.000000  64.000000  64.000000
+mean    53.406250      0.004890      0.246281          0.012937     0.087967   99.897531   0.187559   0.953391
+std      4.565984      0.038363      0.037876          0.049326     0.027342   11.814585   0.043185   0.051172
+min     38.000000      0.000002      0.173000          0.001310     0.039500   90.436000   0.036600   0.579000
+25%     55.000000      0.000103      0.241000          0.006570     0.085200   97.015000   0.195000   0.961000
+50%     55.000000      0.000103      0.241000          0.006570     0.085200   97.015000   0.195000   0.961000
+75%     55.000000      0.000103      0.241000          0.006570     0.085200   97.015000   0.195000   0.961000
+max     57.000000      0.307000      0.516000          0.400000     0.283000  174.029000   0.371000   0.996000

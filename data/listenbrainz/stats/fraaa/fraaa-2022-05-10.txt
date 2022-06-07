@@ -1,5 +1,5 @@
-Electronic artists found: Bebe Rexha, Anne-Marie,Niall Horan, Zara Larsson,Sabrina Carpenter
-Electronic genres found: edm, tropical house
+Electronic artists found: Bebe Rexha, Zara Larsson,Sabrina Carpenter, Anne-Marie,Niall Horan
+Electronic genres found: tropical house, edm
 Electronic music logs found: 9.68% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: k-pop (5.88%)
 	5: electropop (5.88%)
 Top artists
-	1: Rkomi (2.44%)
-	2: Sfera Ebbasta (2.44%)
-	3: Thegiornalisti (2.44%)
-	4: Loco (2.44%)
-	5: Ed Sheeran (2.44%)
+	1: Megan Thee Stallion (2.44%)
+	2: 5 Seconds of Summer (2.44%)
+	3: Daniel Caesar (2.44%)
+	4: Halsey (2.44%)
+	5: Hwa Sa (2.44%)
 Top country
 	1: US (35.48%)
 	2: IT (32.26%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   31.000000     31.000000     31.000000         31.000000    31.000000   31.000000  31.000000  31.000000
-mean    68.967742      0.250481      0.668226          0.004393     0.125381  114.163613   0.485458   0.664645
-std     10.575077      0.221684      0.116853          0.024240     0.113820   28.824795   0.204680   0.158637
+mean    69.064516      0.250481      0.668226          0.004393     0.125381  114.163613   0.485458   0.664645
+std     10.548098      0.221684      0.116853          0.024240     0.113820   28.824795   0.204680   0.158637
 min     41.000000      0.002810      0.367000          0.000000     0.025300   75.004000   0.070200   0.111000
 25%     62.500000      0.063700      0.604500          0.000000     0.049050   91.026000   0.333000   0.602500
 50%     70.000000      0.227000      0.661000          0.000000     0.087800  109.958000   0.519000   0.694000

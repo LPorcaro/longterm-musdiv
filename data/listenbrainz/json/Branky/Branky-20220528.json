@@ -1,0 +1,686 @@
+[
+    {
+        "listened_at": "2022-05-28T01:21:47",
+        "track_name": "Connessioni",
+        "artist_name": "Ditonellapiaga",
+        "release_name": "Camouflage",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/51v7LBLs0PsoHByC4QVnGA",
+        "listening_from": "spotify",
+        "isrc": "ITDV92100167",
+        "additional_info": {
+            "artist_msid": "8455615b-387e-43c9-b625-a0e1dc0a8b38",
+            "artist_names": [
+                "Ditonellapiaga"
+            ],
+            "discnumber": 1,
+            "duration_ms": 175466,
+            "isrc": "ITDV92100167",
+            "listening_from": "spotify",
+            "recording_msid": "ef78e4d7-9f38-4695-a129-38e01c58e2ad",
+            "release_artist_name": "Ditonellapiaga",
+            "release_artist_names": [
+                "Ditonellapiaga"
+            ],
+            "release_msid": "84152103-4982-4c16-8b68-3dba6f706ebd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7rnYrNvJzlPSYcvjAO95UO",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+            ],
+            "spotify_id": "https://open.spotify.com/track/51v7LBLs0PsoHByC4QVnGA",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-28T01:11:04",
+        "track_name": "Pakistan",
+        "artist_name": "Coma_Cose",
+        "release_name": "Inverno ticinese",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/5Sse7kGmvYd9GfgECPqE4x",
+        "listening_from": "spotify",
+        "isrc": "ITFR81700049",
+        "additional_info": {
+            "artist_msid": "acd55430-0f89-465d-be92-23e7418d5ff1",
+            "artist_names": [
+                "Coma_Cose"
+            ],
+            "discnumber": 1,
+            "duration_ms": 154999,
+            "isrc": "ITFR81700049",
+            "listening_from": "spotify",
+            "recording_msid": "14127303-13b2-48c2-b8a4-70d01311a6a6",
+            "release_artist_name": "Coma_Cose",
+            "release_artist_names": [
+                "Coma_Cose"
+            ],
+            "release_msid": "3c68ecc2-9074-47ef-9ad1-c81a4fc9313b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0PQGzGMqTlsvSWU8oXWP6y",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5Sse7kGmvYd9GfgECPqE4x",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-28T01:06:34",
+        "track_name": "A Horse with No Name",
+        "artist_name": "America, George Martin",
+        "release_name": "America",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+        "listening_from": "spotify",
+        "isrc": "USWB19901792",
+        "additional_info": {
+            "artist_msid": "f8d236e1-ed3c-4db3-9cef-da1f9734fbf5",
+            "artist_names": [
+                "America",
+                "George Martin"
+            ],
+            "discnumber": 1,
+            "duration_ms": 252239,
+            "isrc": "USWB19901792",
+            "listening_from": "spotify",
+            "recording_msid": "2c1b8621-9983-4359-a918-1c07b1b96dca",
+            "release_artist_name": "America",
+            "release_artist_names": [
+                "America"
+            ],
+            "release_msid": "126a7b3d-68dc-4e53-874a-17344b3a7998",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo",
+                "https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-28T00:57:24",
+        "track_name": "Repito",
+        "artist_name": "Ditonellapiaga",
+        "release_name": "Camouflage",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/7BkfWrlfMJGrMShj85h0r9",
+        "listening_from": "spotify",
+        "isrc": "ITDV92100037",
+        "additional_info": {
+            "artist_msid": "8455615b-387e-43c9-b625-a0e1dc0a8b38",
+            "artist_names": [
+                "Ditonellapiaga"
+            ],
+            "discnumber": 1,
+            "duration_ms": 155000,
+            "isrc": "ITDV92100037",
+            "listening_from": "spotify",
+            "recording_msid": "3a266a7a-2f60-4bba-80f7-5ef9ed3e368b",
+            "release_artist_name": "Ditonellapiaga",
+            "release_artist_names": [
+                "Ditonellapiaga"
+            ],
+            "release_msid": "84152103-4982-4c16-8b68-3dba6f706ebd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7rnYrNvJzlPSYcvjAO95UO",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7BkfWrlfMJGrMShj85h0r9",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:54:53",
+        "track_name": "If I Could Collapse the Masses",
+        "artist_name": "Trivium",
+        "release_name": "Ember to Inferno: Ab Initio",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/25VfNqor7AtwNZ1IGQdJ6k",
+        "listening_from": "spotify",
+        "isrc": "US94P0504003",
+        "additional_info": {
+            "artist_msid": "25e6324f-c670-4876-a00a-4e7b517ee88b",
+            "artist_names": [
+                "Trivium"
+            ],
+            "discnumber": 1,
+            "duration_ms": 281973,
+            "isrc": "US94P0504003",
+            "listening_from": "spotify",
+            "recording_msid": "44c1c2a3-00e4-4006-a0d1-928c06db3ee9",
+            "release_artist_name": "Trivium",
+            "release_artist_names": [
+                "Trivium"
+            ],
+            "release_msid": "6e2c57f1-de73-41c9-ad63-61bae8a799a7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/32AF2NT4Utp4EcG2vaQDIJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+            ],
+            "spotify_id": "https://open.spotify.com/track/25VfNqor7AtwNZ1IGQdJ6k",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:36:53",
+        "track_name": "I'LL SHOW YOU",
+        "artist_name": "K/DA, TWICE, Bekuh Boom, Annika Wells, League of Legends",
+        "release_name": "ALL OUT",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6",
+        "listening_from": "spotify",
+        "isrc": "QZH6S1900277",
+        "additional_info": {
+            "artist_msid": "92c26925-05b6-4f5f-a2fa-6ec70cb15999",
+            "artist_names": [
+                "K/DA",
+                "TWICE",
+                "Bekuh Boom",
+                "Annika Wells",
+                "League of Legends"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198611,
+            "isrc": "QZH6S1900277",
+            "listening_from": "spotify",
+            "recording_msid": "a8e8f8f7-91be-466b-9d99-417195f1f3da",
+            "release_artist_name": "K/DA",
+            "release_artist_names": [
+                "K/DA"
+            ],
+            "release_msid": "7c5baa9d-b11c-4a00-be67-f743afad098c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v",
+                "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0",
+                "https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL",
+                "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ",
+                "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:33:34",
+        "track_name": "Mr. Roboto",
+        "artist_name": "Styx",
+        "release_name": "Kilroy Was Here",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9",
+        "listening_from": "spotify",
+        "isrc": "USAM18300364",
+        "additional_info": {
+            "artist_msid": "6877a591-f0d7-4d0b-9a87-729f99a79e37",
+            "artist_names": [
+                "Styx"
+            ],
+            "discnumber": 1,
+            "duration_ms": 328706,
+            "isrc": "USAM18300364",
+            "listening_from": "spotify",
+            "recording_msid": "74704983-a50f-447e-bbdc-f7f7d3eb2ac1",
+            "release_artist_name": "Styx",
+            "release_artist_names": [
+                "Styx"
+            ],
+            "release_msid": "384847d7-fbb1-447a-8448-214f1a131fba",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:27:32",
+        "track_name": "The Only Thing I Know For Real - Maniac Agenda Mix",
+        "artist_name": "Tyson Yen",
+        "release_name": "METAL GEAR RISING REVENGEANCE Vocal Tracks Selection",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
+        "listening_from": "spotify",
+        "isrc": "JPM201300044",
+        "additional_info": {
+            "artist_msid": "f702473d-112c-483b-b482-217584d7c2da",
+            "artist_names": [
+                "Tyson Yen"
+            ],
+            "discnumber": 1,
+            "duration_ms": 146333,
+            "isrc": "JPM201300044",
+            "listening_from": "spotify",
+            "recording_msid": "1945b252-22c3-4157-9b86-17966a0b5679",
+            "release_artist_name": "Various Artists",
+            "release_artist_names": [
+                "Various Artists"
+            ],
+            "release_msid": "872ce417-ca09-47b8-8cb5-1b2c953624fa",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1qYedLslaYmgquDtL0GxFO"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:21:47",
+        "track_name": "TU ME FAJE ASC\u00cc PAZZ'",
+        "artist_name": "LIBERATO",
+        "release_name": "LIBERATO",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/0YH29GVTcfCZFT317NERcx",
+        "listening_from": "spotify",
+        "isrc": "FR0ML1900020",
+        "additional_info": {
+            "artist_msid": "0d95fba5-5b36-44c6-ba8f-7fdf36e68f22",
+            "artist_names": [
+                "LIBERATO"
+            ],
+            "discnumber": 1,
+            "duration_ms": 222289,
+            "isrc": "FR0ML1900020",
+            "listening_from": "spotify",
+            "recording_msid": "a2515bea-2b6b-4f0c-afb5-b789c0de536f",
+            "release_artist_name": "LIBERATO",
+            "release_artist_names": [
+                "LIBERATO"
+            ],
+            "release_msid": "960b4d02-86e0-44c9-abdd-acbc17761bc8",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0YH29GVTcfCZFT317NERcx",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:18:04",
+        "track_name": "Sweet Home Alabama",
+        "artist_name": "Lynyrd Skynyrd",
+        "release_name": "Second Helping",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
+        "listening_from": "spotify",
+        "isrc": "USMC17446153",
+        "additional_info": {
+            "artist_msid": "4f85a224-be2b-4fdc-a7d9-a1c1a8d31a1b",
+            "artist_names": [
+                "Lynyrd Skynyrd"
+            ],
+            "discnumber": 1,
+            "duration_ms": 283800,
+            "isrc": "USMC17446153",
+            "listening_from": "spotify",
+            "recording_msid": "c9633deb-c21d-42c5-9f44-5fbc5630300c",
+            "release_artist_name": "Lynyrd Skynyrd",
+            "release_artist_names": [
+                "Lynyrd Skynyrd"
+            ],
+            "release_msid": "e2612989-dd16-4b75-8105-c5130c4f5beb",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:13:09",
+        "track_name": "Dark Matter",
+        "artist_name": "Les Friction",
+        "release_name": "Dark Matter",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/6NNECt6PMWP4zfIJhPUnU3",
+        "listening_from": "spotify",
+        "isrc": "usdy41748623",
+        "additional_info": {
+            "artist_msid": "774773a8-769f-43c1-8da2-c7991b350e21",
+            "artist_names": [
+                "Les Friction"
+            ],
+            "discnumber": 1,
+            "duration_ms": 288833,
+            "isrc": "usdy41748623",
+            "listening_from": "spotify",
+            "recording_msid": "b1b9abe0-c731-4e0b-9465-e0a9701aa83f",
+            "release_artist_name": "Les Friction",
+            "release_artist_names": [
+                "Les Friction"
+            ],
+            "release_msid": "9d7fc77c-2c39-4aa9-aac1-690a05c606ba",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6w3KIJjRhRR0yuABLt68Rz"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/17Xehht6u24Nhnx8fGOIDy",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6w3KIJjRhRR0yuABLt68Rz"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6NNECt6PMWP4zfIJhPUnU3",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T23:51:48",
+        "track_name": "Africa",
+        "artist_name": "TOTO",
+        "release_name": "Toto IV",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+        "listening_from": "spotify",
+        "isrc": "USSM19801941",
+        "additional_info": {
+            "artist_msid": "1dc5b053-0b2d-4d0f-a5d9-4fe5f5008764",
+            "artist_names": [
+                "TOTO"
+            ],
+            "discnumber": 1,
+            "duration_ms": 295893,
+            "isrc": "USSM19801941",
+            "listening_from": "spotify",
+            "recording_msid": "23d9aab9-e025-438d-ba57-193cdf13ffc9",
+            "release_artist_name": "TOTO",
+            "release_artist_names": [
+                "TOTO"
+            ],
+            "release_msid": "0c12fa16-6c7f-4017-85bf-09606a9bbc6a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T23:46:52",
+        "track_name": "Renegades",
+        "artist_name": "X Ambassadors",
+        "release_name": "VHS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf",
+        "listening_from": "spotify",
+        "isrc": "USUM71502643",
+        "additional_info": {
+            "artist_msid": "a84ae402-9a31-4d39-8a02-630be24b6200",
+            "artist_names": [
+                "X Ambassadors"
+            ],
+            "discnumber": 1,
+            "duration_ms": 195200,
+            "isrc": "USUM71502643",
+            "listening_from": "spotify",
+            "recording_msid": "e27259ed-9376-4be1-982c-6163123e1839",
+            "release_artist_name": "X Ambassadors",
+            "release_artist_names": [
+                "X Ambassadors"
+            ],
+            "release_msid": "ff070bbb-dd02-474c-b826-7086538e8027",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T21:54:08",
+        "track_name": "Renegades",
+        "artist_name": "X Ambassadors",
+        "release_name": "VHS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf",
+        "listening_from": "spotify",
+        "isrc": "USUM71502643",
+        "additional_info": {
+            "artist_msid": "a84ae402-9a31-4d39-8a02-630be24b6200",
+            "artist_names": [
+                "X Ambassadors"
+            ],
+            "discnumber": 1,
+            "duration_ms": 195200,
+            "isrc": "USUM71502643",
+            "listening_from": "spotify",
+            "recording_msid": "e27259ed-9376-4be1-982c-6163123e1839",
+            "release_artist_name": "X Ambassadors",
+            "release_artist_names": [
+                "X Ambassadors"
+            ],
+            "release_msid": "ff070bbb-dd02-474c-b826-7086538e8027",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T21:17:12",
+        "track_name": "Tick Tick Boom",
+        "artist_name": "The Hives",
+        "release_name": "The Black and White album",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43",
+        "listening_from": "spotify",
+        "isrc": "GBUM70708690",
+        "additional_info": {
+            "artist_msid": "4ccaa43f-7cf9-4df8-a4b7-679f631ef36a",
+            "artist_names": [
+                "The Hives"
+            ],
+            "discnumber": 1,
+            "duration_ms": 205386,
+            "isrc": "GBUM70708690",
+            "listening_from": "spotify",
+            "recording_msid": "1071d206-9622-436f-af55-d201f3763c99",
+            "release_artist_name": "The Hives",
+            "release_artist_names": [
+                "The Hives"
+            ],
+            "release_msid": "7d67e965-75fb-4a6f-8c10-f5f51e667abe",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T21:13:46",
+        "track_name": "Get Jinxed",
+        "artist_name": "League of Legends, Djerv",
+        "release_name": "The Music of League of Legends Vol. 1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 13,
+        "spotify_id": "https://open.spotify.com/track/0WpRF4X2LyMTZnqqrXX19U",
+        "listening_from": "spotify",
+        "isrc": "QMAF31400023",
+        "additional_info": {
+            "artist_msid": "9ea3d56a-027c-4bf5-8263-8c21620bfb4d",
+            "artist_names": [
+                "League of Legends",
+                "Djerv"
+            ],
+            "discnumber": 1,
+            "duration_ms": 154960,
+            "isrc": "QMAF31400023",
+            "listening_from": "spotify",
+            "recording_msid": "d032bacf-d102-4f65-9a81-bf2d74660992",
+            "release_artist_name": "League of Legends",
+            "release_artist_names": [
+                "League of Legends"
+            ],
+            "release_msid": "04888faf-4600-4b3f-a068-fad6e38dfbf3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD",
+                "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0WpRF4X2LyMTZnqqrXX19U",
+            "tracknumber": 13
+        },
+        "username": null
+    }
+]

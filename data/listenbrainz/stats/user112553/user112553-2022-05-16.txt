@@ -1,5 +1,5 @@
-Electronic artists found: Grabbitz, LVNDSCAPE, Harold Melvin & The Blue Notes,Teddy Pendergrass, Rudimental,James Arthur
-Electronic genres found: edm, tropical house, electro house, deep tropical house, disco, deep house, uk funky, pop edm, brostep, gaming edm
+Electronic artists found: LVNDSCAPE, Harold Melvin & The Blue Notes,Teddy Pendergrass, Grabbitz, Rudimental,James Arthur
+Electronic genres found: pop edm, uk funky, disco, deep house, electro house, deep tropical house, gaming edm, brostep, tropical house, edm
 Electronic music logs found: 7.23% 
 
 Top genres
@@ -7,13 +7,13 @@ Top genres
 	2: pop (4.03%)
 	3: alt z (3.36%)
 	4: edm (3.36%)
-	5: hip hop tuga (2.68%)
+	5: swedish pop (2.68%)
 Top artists
-	1: Future (1.85%)
-	2: Grabbitz (1.85%)
-	3: Karetus (1.85%)
-	4: Peyton Cardoza (1.85%)
-	5: LVNDSCAPE (1.85%)
+	1: Moses Sumney (1.85%)
+	2: Rudimental (1.85%)
+	3: Harold Melvin & The Blue Notes (1.85%)
+	4: BoyWithUke (1.85%)
+	5: Ronela Hajati (1.85%)
 Top country
 	1: US (36.14%)
 	2: QZ (9.64%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   83.000000     83.000000     83.000000         83.000000    83.000000   83.000000  83.000000  83.000000
-mean    63.939759      0.376329      0.641422          0.000965     0.156637  114.849386   0.442148   0.605590
-std     14.913040      0.337749      0.120757          0.003308     0.161899   21.741932   0.196076   0.164144
+mean    63.951807      0.376329      0.641422          0.000965     0.156637  114.849386   0.442148   0.605590
+std     14.911040      0.337749      0.120757          0.003308     0.161899   21.741932   0.196076   0.164144
 min     13.000000      0.000261      0.216000          0.000000     0.029900   71.502000   0.084300   0.335000
 25%     60.000000      0.099500      0.560000          0.000000     0.041650   99.922500   0.324000   0.436000
 50%     66.000000      0.200000      0.650000          0.000000     0.068400  114.967000   0.402000   0.608000

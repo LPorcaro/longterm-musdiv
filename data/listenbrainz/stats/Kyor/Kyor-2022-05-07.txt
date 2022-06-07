@@ -1,0 +1,45 @@
+Electronic artists found: Robin Schulz,David Guetta, Armin van Buuren,Shapov, Modjo, Regard,Years & Years,Navos, Martin Garrix,Matisse & Sadko, Example,Bou,Nonô
+Electronic genres found: pop edm, slap house, deep house, progressive house, electro house, disco house, dutch edm, tropical house, edm, hip house
+Electronic music logs found: 33.33% 
+
+Top genres
+	1: pop (7.32%)
+	2: dance pop (6.50%)
+	3: pop dance (5.69%)
+	4: tropical house (4.88%)
+	5: edm (4.07%)
+Top artists
+	1: Matisse & Sadko (2.44%)
+	2: YUNGBLUD (2.44%)
+	3: WILLOW (2.44%)
+	4: Shapov (2.44%)
+	5: Edward Maya (2.44%)
+Top country
+	1: US (50.00%)
+	2: FR (10.00%)
+	3: NL (10.00%)
+	4: PT (6.67%)
+	5: GB (6.67%)
+Top record
+	1: UM7 (13.33%)
+	2: 9W1 (10.00%)
+	3: HR2 (10.00%)
+	4: M5S (6.67%)
+	5: SM1 (6.67%)
+Top year
+	1: 22 (66.67%)
+	2: 01 (10.00%)
+	3: 20 (10.00%)
+	4: 19 (6.67%)
+	5: 17 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   30.000000     30.000000     30.000000         30.000000    30.000000   30.000000  30.000000  30.000000
+mean    57.066667      0.134200      0.591900          0.040641     0.104413  126.451167   0.403367   0.722067
+std     13.723710      0.225864      0.127335          0.109157     0.101923   34.613262   0.231254   0.151427
+min     30.000000      0.000134      0.288000          0.000000     0.030400   77.500000   0.151000   0.200000
+25%     51.000000      0.003703      0.509250          0.000000     0.037975   88.633500   0.200500   0.650750
+50%     56.000000      0.017450      0.607500          0.000007     0.065600  126.041000   0.326000   0.754000
+75%     68.250000      0.134500      0.719000          0.019088     0.100475  153.872000   0.567500   0.808000
+max     77.000000      0.904000      0.766000          0.396000     0.375000  182.122000   0.869000   0.972000

@@ -1,19 +1,19 @@
-Electronic artists found: Galantis,David Guetta,Little Mix, Joel Corry,Jax Jones,Charli XCX,Saweetie, Hippie Sabotage, SLANDER,Dylan Matthew, Surf Mesa,Emilee, Tristam,Braken
-Electronic genres found: edm, tropical house, electro house, electronic trap, melodic dubstep, dubstep, brostep, gaming edm
+Electronic artists found: Hippie Sabotage, Joel Corry,Jax Jones,Charli XCX,Saweetie, SLANDER,Dylan Matthew, Surf Mesa,Emilee, Galantis,David Guetta,Little Mix, Tristam,Braken
+Electronic genres found: electronic trap, electro house, dubstep, gaming edm, brostep, melodic dubstep, tropical house, edm
 Electronic music logs found: 9.64% 
 
 Top genres
-	1: hip hop tuga (24.16%)
-	2: trap tuga (6.04%)
-	3: pop (6.04%)
-	4: edm (4.03%)
-	5: rap criolo (2.68%)
+	1: hip hop tuga (26.32%)
+	2: trap tuga (5.92%)
+	3: pop (5.92%)
+	4: edm (3.95%)
+	5: rap criolo (2.63%)
 Top artists
-	1: Yung Trip (1.19%)
-	2: $uicideboy$ (1.19%)
-	3: Ivandro (1.19%)
-	4: PNAU (1.19%)
-	5: Vado Más Ki Ás (1.19%)
+	1: Ashe (1.19%)
+	2: Surf Mesa (1.19%)
+	3: SLANDER (1.19%)
+	4: Gama WNTD (1.19%)
+	5: Stereossauro (1.19%)
 Top country
 	1: PT (36.14%)
 	2: US (21.69%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   83.000000      83.00000     83.000000         83.000000    83.000000   83.000000  83.000000  83.000000
-mean    56.048193       0.33372      0.649012          0.013981     0.172983  116.424084   0.439125   0.599831
-std     19.159092       0.26503      0.140310          0.068461     0.144185   28.156337   0.243439   0.164790
-min     26.000000       0.00413      0.301000          0.000000     0.025600   69.129000   0.038300   0.153000
+mean    55.939759       0.33372      0.649012          0.013981     0.172983  116.424084   0.439125   0.599831
+std     19.066219       0.26503      0.140310          0.068461     0.144185   28.156337   0.243439   0.164790
+min     27.000000       0.00413      0.301000          0.000000     0.025600   69.129000   0.038300   0.153000
 25%     41.000000       0.11450      0.548500          0.000000     0.046900   95.010000   0.253500   0.506500
-50%     48.000000       0.25600      0.674000          0.000000     0.114000  112.050000   0.414000   0.626000
+50%     47.000000       0.25600      0.674000          0.000000     0.114000  112.050000   0.414000   0.626000
 75%     74.500000       0.55450      0.763500          0.000151     0.262000  138.675500   0.611500   0.710000
 max    100.000000       0.95900      0.905000          0.405000     0.662000  181.040000   0.956000   0.943000

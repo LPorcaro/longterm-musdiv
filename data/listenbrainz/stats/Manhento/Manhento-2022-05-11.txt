@@ -1,4 +1,4 @@
-Electronic artists found: Jamie xx,Young Thug,Popcaan, Travis Scott,Justin Bieber,Young Thug
+Electronic artists found: Travis Scott,Justin Bieber,Young Thug, Jamie xx,Young Thug,Popcaan
 Electronic genres found: electronica, future garage, slap house
 Electronic music logs found: 3.33% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: trap (5.77%)
 	5: underground hip hop (5.77%)
 Top artists
-	1: Mike11 (1.43%)
-	2: Atmosphere (1.43%)
-	3: FKA twigs (1.43%)
-	4: Lhast (1.43%)
-	5: Cardi B (1.43%)
+	1: Daniel Caesar (1.43%)
+	2: Dillaz (1.43%)
+	3: Pa Salieu (1.43%)
+	4: Macklemore & Ryan Lewis (1.43%)
+	5: Childish Gambino (1.43%)
 Top country
 	1: US (58.33%)
 	2: PT (13.33%)
@@ -34,12 +34,12 @@ Top year
 	5: 16 (8.33%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
-count   60.000000     60.000000     60.000000         60.000000    60.000000   60.00000  60.000000  60.000000
-mean    53.550000      0.287172      0.667117          0.002116     0.192518  115.41965   0.452780   0.609417
-std     17.786326      0.248779      0.142270          0.007766     0.137786   28.07813   0.239069   0.161327
-min     11.000000      0.001860      0.240000          0.000000     0.029200   69.88000   0.039800   0.261000
-25%     44.000000      0.074250      0.588750          0.000000     0.081325   94.93050   0.308000   0.472750
-50%     54.500000      0.224500      0.670000          0.000000     0.170500  109.23250   0.412500   0.612500
-75%     67.000000      0.435250      0.770500          0.000010     0.301750  137.03950   0.604250   0.723750
-max     82.000000      0.801000      0.929000          0.046200     0.649000  180.27400   0.913000   0.913000
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   60.000000     60.000000     60.000000         60.000000    60.000000   60.000000  60.000000  60.000000
+mean    53.516667      0.288472      0.663667          0.002116     0.191118  115.394350   0.454130   0.609267
+std     17.764459      0.248152      0.140555          0.007766     0.136548   28.094389   0.240979   0.161134
+min     11.000000      0.001860      0.240000          0.000000     0.029200   69.880000   0.039800   0.261000
+25%     44.000000      0.074250      0.588750          0.000000     0.081325   94.930500   0.308000   0.472750
+50%     54.500000      0.224500      0.670000          0.000000     0.170500  109.232500   0.412500   0.612500
+75%     67.000000      0.435250      0.766000          0.000010     0.297000  137.039500   0.604250   0.723750
+max     82.000000      0.801000      0.929000          0.046200     0.649000  180.274000   0.913000   0.913000

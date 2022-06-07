@@ -1,0 +1,45 @@
+Electronic artists found: The xx, The Chemical Brothers
+Electronic genres found: big beat, downtempo, electronica, breakbeat
+Electronic music logs found: 8.33% 
+
+Top genres
+	1: hip hop (8.82%)
+	2: rap (8.82%)
+	3: pop (7.35%)
+	4: hip hop tuga (4.41%)
+	5: modern rock (4.41%)
+Top artists
+	1: Old Man Saxon (3.45%)
+	2: The Chemical Brothers (3.45%)
+	3: MAVI (3.45%)
+	4: Tame Impala (3.45%)
+	5: Bruno Major (3.45%)
+Top country
+	1: US (50.00%)
+	2: GB (20.83%)
+	3: PT (8.33%)
+	4: QZ (8.33%)
+	5: BR (4.17%)
+Top record
+	1: UM7 (29.17%)
+	2: QX9 (16.67%)
+	3: SM1 (8.33%)
+	4: KPL (4.17%)
+	5: LUM (4.17%)
+Top year
+	1: 20 (12.50%)
+	2: 19 (12.50%)
+	3: 09 (12.50%)
+	4: 13 (12.50%)
+	5: 15 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   24.000000     24.000000     24.000000         24.000000    24.000000   24.000000  24.000000  24.000000
+mean    60.916667      0.424967      0.635875          0.093010     0.133592  120.178000   0.436979   0.563625
+std     17.387944      0.334485      0.135123          0.235136     0.127409   31.682903   0.189430   0.183232
+min     24.000000      0.008810      0.270000          0.000000     0.025600   63.251000   0.044500   0.214000
+25%     50.000000      0.081125      0.552250          0.000009     0.038150   99.047500   0.315500   0.444000
+50%     60.500000      0.478000      0.639000          0.000293     0.054400  120.421500   0.445500   0.563500
+75%     71.250000      0.760500      0.739500          0.010408     0.227500  139.205750   0.567250   0.716750
+max    100.000000      0.889000      0.827000          0.925000     0.366000  180.114000   0.862000   0.845000

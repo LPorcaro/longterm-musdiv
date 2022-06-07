@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (11.90%)
-	2: german hip hop (7.14%)
-	3: german trap (7.14%)
-	4: alternative r&b (4.76%)
-	5: indie r&b (4.76%)
+	1: pop (11.11%)
+	2: german hip hop (6.67%)
+	3: german trap (6.67%)
+	4: alternative r&b (4.44%)
+	5: indie r&b (4.44%)
 Top artists
-	1: Faroon (3.85%)
-	2: Ayzha Nyree (3.85%)
-	3: Nova (3.85%)
-	4: ROSALÍA (3.85%)
-	5: Daddy Yankee (3.85%)
+	1: Lil Flop (3.85%)
+	2: Medasin (3.85%)
+	3: Drake (3.85%)
+	4: Wet Bed Gang (3.85%)
+	5: Sech (3.85%)
 Top country
 	1: US (25.00%)
 	2: QM (17.86%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   28.000000     28.000000     28.000000         28.000000    28.000000   28.000000  28.000000  28.000000
-mean    56.821429      0.249112      0.696143          0.050940     0.147354  109.713893   0.580786   0.660107
-std     12.177860      0.203005      0.144031          0.190338     0.127501   25.637382   0.181638   0.180123
+mean    56.857143      0.249112      0.696143          0.050940     0.147354  109.713893   0.580786   0.660107
+std     12.167699      0.203005      0.144031          0.190338     0.127501   25.637382   0.181638   0.180123
 min     39.000000      0.002910      0.447000          0.000000     0.032700   84.069000   0.235000   0.331000
 25%     44.000000      0.082400      0.547000          0.000000     0.070000   89.000500   0.456250   0.555750
 50%     60.000000      0.263500      0.707500          0.000002     0.101450   98.030000   0.634000   0.695000

@@ -1,0 +1,33 @@
+Electronic artists found: FKA twigs,Jorja Smith,unkown t, FKA twigs,Daniel Caesar, FKA twigs, FKA twigs,Shygirl
+Electronic genres found: trip hop
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: afrofuturism (14.29%)
+	2: art pop (14.29%)
+	3: dance pop (14.29%)
+	4: escape room (14.29%)
+	5: experimental r&b (14.29%)
+Top artists
+	1: Jorja Smith (20.00%)
+	2: Daniel Caesar (20.00%)
+	3: FKA twigs (20.00%)
+	4: Shygirl (20.00%)
+	5: unkown t (20.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: AT2 (100.00%)
+Top year
+	1: 22 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   15.000000     15.000000     15.000000         15.000000    15.000000   15.000000  15.000000  15.000000
+mean    49.933333      0.639280      0.558133          0.000606     0.264973  135.367733   0.374333   0.408200
+std      5.049281      0.301166      0.102393          0.000874     0.171569   31.727629   0.123042   0.103812
+min     44.000000      0.066200      0.417000          0.000000     0.041000   94.997000   0.183000   0.291000
+25%     45.000000      0.460500      0.491000          0.000000     0.107400  118.128000   0.288000   0.332000
+50%     49.000000      0.724000      0.557000          0.000020     0.289000  120.216000   0.382000   0.395000
+75%     55.000000      0.842000      0.627000          0.001780     0.360000  132.987000   0.463500   0.481000
+max     58.000000      0.950000      0.737000          0.001830     0.506000  193.885000   0.581000   0.629000

@@ -1,0 +1,45 @@
+Electronic artists found: Guru Josh Project,Klaas, Moby,Debbie Harry, David Guetta,Sam Martin, Underworld, Dubdogz,Brannco,Rodrigo Luca, Alok,Zeeba,Bruno Martini, Avicii, The Chainsmokers, Gigi D'Agostino, Axwell /\ Ingrosso,Axwell,Sebastian Ingrosso, Safri Duo
+Electronic genres found: italo dance, downtempo, brazilian edm, slap house, big beat, acid house, eurodance, electro house, brazilian bass, electronica, tropical house, edm
+Electronic music logs found: 80.77% 
+
+Top genres
+	1: dance pop (8.45%)
+	2: edm (8.45%)
+	3: pop (8.45%)
+	4: pop dance (8.45%)
+	5: brazilian bass (7.04%)
+Top artists
+	1: Moby (4.76%)
+	2: Zeeba (4.76%)
+	3: Debbie Harry (4.76%)
+	4: Klaas (4.76%)
+	5: Safri Duo (4.76%)
+Top country
+	1: US (26.92%)
+	2: TC (19.23%)
+	3: GB (19.23%)
+	4: CH (11.54%)
+	5: DE (7.69%)
+Top record
+	1: ADU (19.23%)
+	2: RE1 (19.23%)
+	3: AJH (15.38%)
+	4: 313 (11.54%)
+	5: HD6 (7.69%)
+Top year
+	1: 18 (19.23%)
+	2: 06 (15.38%)
+	3: 13 (11.54%)
+	4: 14 (11.54%)
+	5: 07 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   26.000000     26.000000     26.000000         26.000000    26.000000   26.000000  26.000000  26.000000
+mean    57.000000      0.054011      0.583885          0.054359     0.049515  127.544115   0.412000   0.842577
+std     15.520309      0.105440      0.076184          0.193736     0.042520   16.923004   0.203801   0.081556
+min     25.000000      0.000026      0.380000          0.000000     0.030200   92.161000   0.146000   0.724000
+25%     54.750000      0.000380      0.561000          0.000017     0.033300  124.024000   0.286000   0.753750
+50%     59.500000      0.017650      0.576500          0.000151     0.035250  128.031000   0.303000   0.862000
+75%     67.000000      0.062000      0.629000          0.000237     0.045700  130.000000   0.517750   0.882250
+max     76.000000      0.417000      0.789000          0.880000     0.249000  186.113000   0.769000   0.988000

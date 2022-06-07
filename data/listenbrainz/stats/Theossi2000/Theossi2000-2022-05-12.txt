@@ -1,5 +1,5 @@
-Electronic artists found: Alok,Bastille, Tiësto, Bruno Be,Fancy Inc, Tiësto,Ava Max, Alok,BLOODLINE,The Vamps, Joel Corry,MNEK, Cat Dealers,Guz Zanotto,Moore
-Electronic genres found: edm, electro house, tropical house, slap house, brazilian edm, brostep, dutch edm
+Electronic artists found: Alok,BLOODLINE,The Vamps, Tiësto,Ava Max, Joel Corry,MNEK, Cat Dealers,Guz Zanotto,Moore, Tiësto, Alok,Bastille, Bruno Be,Fancy Inc
+Electronic genres found: brazilian edm, slap house, electro house, dutch edm, brostep, tropical house, edm
 Electronic music logs found: 9.46% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: slap house (2.92%)
 	5: dance pop (2.19%)
 Top artists
-	1: illusionize (1.82%)
-	2: DreNaz (1.82%)
-	3: Ivandro (1.82%)
-	4: FRANKIEONTHEGUITAR (1.82%)
-	5: Jvst Fly (1.82%)
+	1: Joel Corry (1.82%)
+	2: Dillaz (1.82%)
+	3: Bastille (1.82%)
+	4: Bruno Be (1.82%)
+	5: Gama WNTD (1.82%)
 Top country
 	1: PT (58.11%)
 	2: ES (17.57%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   74.000000     74.000000     74.000000         74.000000    74.000000   74.000000  74.000000  74.000000
-mean    44.459459      0.377546      0.706581          0.009053     0.195519  115.062122   0.439188   0.609122
-std     10.188886      0.240295      0.111055          0.043671     0.134726   22.018072   0.229233   0.160728
-min     30.000000      0.001680      0.478000          0.000000     0.041300   69.129000   0.038300   0.232000
-25%     39.000000      0.190750      0.600000          0.000000     0.064400  100.024250   0.278000   0.520250
+mean    44.486486      0.377546      0.706581          0.009053     0.195519  115.062122   0.439188   0.609122
+std     10.213130      0.240295      0.111055          0.043671     0.134726   22.018072   0.229233   0.160728
+min     29.000000      0.001680      0.478000          0.000000     0.041300   69.129000   0.038300   0.232000
+25%     40.000000      0.190750      0.600000          0.000000     0.064400  100.024250   0.278000   0.520250
 50%     43.000000      0.308000      0.723000          0.000005     0.186000  115.857000   0.411500   0.617000
 75%     45.000000      0.573250      0.798750          0.000227     0.289000  124.992250   0.686000   0.683250
 max     89.000000      0.902000      0.921000          0.267000     0.492000  184.004000   0.905000   0.931000

@@ -1,4 +1,4 @@
-Electronic artists found: Flavien Berger, Erlend Øye,La Comitiva
+Electronic artists found: Erlend Øye,La Comitiva, Flavien Berger
 Electronic genres found: electronica
 Electronic music logs found: 8.00% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: british singer-songwriter (4.23%)
 	5: stomp and holler (4.23%)
 Top artists
-	1: Cloud Control (3.85%)
-	2: Max Pope (3.85%)
-	3: TOLEDO (3.85%)
-	4: The Strokes (3.85%)
-	5: L.A. Salami (3.85%)
+	1: Moses Sumney (3.85%)
+	2: O Terno (3.85%)
+	3: Obinrin Trio (3.85%)
+	4: Max Pope (3.85%)
+	5: TOLEDO (3.85%)
 Top country
 	1: US (28.00%)
 	2: GB (16.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
 count   25.000000      25.00000     25.000000         25.000000    25.000000   25.00000  25.000000  25.000000
-mean    46.000000       0.70392      0.548240          0.195031     0.041360  112.63260   0.411808   0.313232
-std      9.793705       0.31100      0.155829          0.285111     0.015597   28.34039   0.206283   0.149677
-min     23.000000       0.15400      0.161000          0.000000     0.026400   47.87600   0.077200   0.056800
+mean    46.120000       0.70392      0.548240          0.195031     0.041360  112.63260   0.411808   0.313232
+std      9.888208       0.31100      0.155829          0.285111     0.015597   28.34039   0.206283   0.149677
+min     24.000000       0.15400      0.161000          0.000000     0.026400   47.87600   0.077200   0.056800
 25%     42.000000       0.58000      0.451000          0.000236     0.031000   95.98400   0.292000   0.200000
 50%     44.000000       0.88100      0.547000          0.015500     0.038700  109.43700   0.398000   0.314000
 75%     49.000000       0.96500      0.640000          0.418000     0.044000  126.74800   0.508000   0.380000
-max     68.000000       0.98300      0.836000          0.774000     0.102000  168.13300   0.842000   0.658000
+max     69.000000       0.98300      0.836000          0.774000     0.102000  168.13300   0.842000   0.658000

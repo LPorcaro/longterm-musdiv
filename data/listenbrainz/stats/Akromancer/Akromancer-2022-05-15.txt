@@ -3,17 +3,17 @@ Electronic genres found: slap house
 Electronic music logs found: 1.51% 
 
 Top genres
-	1: rap (9.57%)
-	2: pop rap (9.09%)
-	3: pop (7.89%)
-	4: trap (5.74%)
-	5: dance pop (5.02%)
+	1: rap (9.59%)
+	2: pop rap (9.11%)
+	3: pop (7.91%)
+	4: trap (5.76%)
+	5: dance pop (5.04%)
 Top artists
-	1: Roddy Ricch (1.18%)
-	2: Post Malone (1.18%)
-	3: You Me At Six (1.18%)
-	4: Internet Money (1.18%)
-	5: Jonathan Young (1.18%)
+	1: The Kid LAROI (1.18%)
+	2: Neru (1.18%)
+	3: 6LACK (1.18%)
+	4: Ro Ransom (1.18%)
+	5: Fire From The Gods (1.18%)
 Top country
 	1: US (59.85%)
 	2: GB (9.85%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  132.000000    132.000000    132.000000        132.000000   132.000000  132.000000  132.000000  132.000000
-mean    59.962121      0.170268      0.638189          0.002692     0.140287  129.740348    0.465961    0.704795
-std     15.799993      0.197872      0.158762          0.017657     0.122910   27.316692    0.188768    0.155924
+mean    60.136364      0.170268      0.638189          0.002692     0.140287  129.740348    0.465961    0.704795
+std     15.885455      0.197872      0.158762          0.017657     0.122910   27.316692    0.188768    0.155924
 min     14.000000      0.000026      0.150000          0.000000     0.028700   67.480000    0.039300    0.413000
 25%     48.000000      0.016850      0.537000          0.000000     0.052175  107.696000    0.328000    0.610750
 50%     60.000000      0.095550      0.654500          0.000000     0.086650  129.464500    0.465000    0.710000

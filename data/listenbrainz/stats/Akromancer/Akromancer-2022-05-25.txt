@@ -1,44 +1,45 @@
-Electronic artists found: Arc North,Meric Again,Fallen Roses, Anthony Keyrouz,Paradigm, Arc North,Aaron Richards,New Beat Order,Cour, Alfons,Arc North
-Electronic genres found: gaming edm, brazilian edm, melbourne bounce international, slap house, arab electronic, edm
-Electronic music logs found: 7.27% 
+Electronic artists found: rayn,Thunder, Nitro Fun, EQRIC,JOZUA,Robbe, ROY KNOX, Lujavo,New Beat Order,Donovan's Playground,Britt Lari, Rolipso,Van Herpen, Niklas Dee,FVTM, Arc North,Badjack,Cour, Miscris,DSTRT, ONEIL,KANVISE, Anthony Keyrouz,Glaceo, Nils Van Zandt,BACKFLASH,Basti Woods, Arc North,Aaron Richards,New Beat Order,Cour, Marin Hoxha,Vinsmoker, EQRIC,RushLow,Nito-Onna, Lucian,Amanda Yang, Arc North,Cour,Charlie Miller, Arc North,Meric Again,Fallen Roses, Sugar Jesus,LEØN TARØ, Paradigm,Scott Rill, MKJ,Joel Coopa,Jay Mason, BIMONTE,JANFRY, Anthony Keyrouz,Séb Mont, Anthony Keyrouz,Paradigm, Alfons,Arc North, Dream Chaos,Benlon, D.O.D, Niklas Dee,Bastiqe,Jordan Rys,JOZUA, EQRIC,PHARAØH, Protocleus,Edpranz,Leila
+Electronic genres found: melbourne bounce international, slap house, finnish edm, complextro, russian edm, canadian electronic, arab electronic, lithuanian electronic, tropical house, edm, lithuanian edm, deep tropical house, pop edm, pinoy edm, brazilian edm, mexican edm, electro house, gaming edm, belarusian electronic
+Electronic music logs found: 19.21% 
 
 Top genres
-	1: metalcore (37.08%)
-	2: screamo (37.08%)
-	3: traprun (4.49%)
-	4: slap house (3.37%)
-	5: dfw rap (3.37%)
+	1: metalcore (14.47%)
+	2: screamo (14.47%)
+	3: traprun (10.09%)
+	4: rap (7.02%)
+	5: slap house (6.14%)
 Top artists
-	1: New Beat Order (2.27%)
-	2: Coopex (2.27%)
-	3: sad girls (2.27%)
-	4: Post Malone (2.27%)
-	5: Shiah Maisel (2.27%)
+	1: Cabuizee (0.52%)
+	2: Arshan Joel (0.52%)
+	3: FVTM (0.52%)
+	4: Nitro Fun (0.52%)
+	5: Lunis (0.52%)
 Top country
-	1: US (65.45%)
-	2: QZ (27.27%)
-	3: QM (5.45%)
-	4: NL (1.82%)
+	1: QZ (38.98%)
+	2: US (28.25%)
+	3: QM (21.47%)
+	4: NL (3.95%)
+	5: GX (2.26%)
 Top record
-	1: 526 (50.91%)
-	2: -TC (9.09%)
-	3: KDK (7.27%)
-	4: 42K (5.45%)
-	5: S67 (5.45%)
+	1: KDK (16.38%)
+	2: 526 (15.82%)
+	3: 42K (15.25%)
+	4: UM7 (9.60%)
+	5: S65 (5.08%)
 Top year
-	1: 22 (27.27%)
-	2: 15 (20.00%)
-	3: 19 (10.91%)
-	4: 17 (10.91%)
-	5: G- (9.09%)
+	1: 22 (65.54%)
+	2: 21 (9.60%)
+	3: 15 (6.21%)
+	4: 20 (5.08%)
+	5: 19 (3.95%)
 
 Feature statistics
-       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   55.000000     55.000000     55.000000         55.000000    55.000000   55.000000  55.000000  55.000000
-mean    45.872727      0.103262      0.499945          0.006054     0.146796  141.435236   0.373345   0.855982
-std     13.375011      0.182515      0.193299          0.044218     0.074720   28.059378   0.161761   0.154410
-min     19.000000      0.000079      0.165000          0.000000     0.030900   89.960000   0.143000   0.485000
-25%     40.000000      0.001600      0.401000          0.000000     0.092050  123.960500   0.270500   0.795500
-50%     48.000000      0.011500      0.408000          0.000000     0.158000  149.615000   0.377000   0.944000
-75%     49.000000      0.067850      0.678000          0.000007     0.192000  157.825000   0.432000   0.961000
-max     85.000000      0.699000      0.842000          0.328000     0.294000  195.999000   0.925000   0.992000
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  177.000000    177.000000    177.000000        177.000000   177.000000  177.000000  177.000000  177.000000
+mean    48.853107      0.134465      0.609571          0.018958     0.134599  128.181418    0.383977    0.800808
+std     13.547094      0.194229      0.155144          0.098578     0.097469   22.379489    0.166974    0.139775
+min     24.000000      0.000079      0.165000          0.000000     0.029300   75.163000    0.102000    0.245000
+25%     41.000000      0.011500      0.529000          0.000000     0.053100  119.801000    0.262000    0.735000
+50%     46.000000      0.053800      0.650000          0.000002     0.102000  125.989000    0.373000    0.822000
+75%     51.000000      0.147000      0.712000          0.000181     0.186000  139.956000    0.462000    0.903000
+max     90.000000      0.864000      0.907000          0.900000     0.459000  195.999000    0.925000    0.992000

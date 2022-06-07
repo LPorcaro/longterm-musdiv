@@ -1,5 +1,5 @@
 Electronic artists found: The Whitest Boy Alive, Swedish House Mafia,The Weeknd, Travis Scott
-Electronic genres found: electronica, progressive electro house, edm, slap house
+Electronic genres found: progressive electro house, electronica, edm, slap house
 Electronic music logs found: 4.81% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: hip hop tuga (4.58%)
 	5: pop (2.94%)
 Top artists
-	1: MAVI (1.11%)
-	2: Roddy Ricch (1.11%)
-	3: Sara D. Francisco (1.11%)
-	4: Post Malone (1.11%)
-	5: James Blake (1.11%)
+	1: Buzzy Lee (1.11%)
+	2: JID (1.11%)
+	3: Jalen Santoy (1.11%)
+	4: Robert Glasper (1.11%)
+	5: Teto (1.11%)
 Top country
 	1: US (54.81%)
 	2: PT (13.46%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  104.000000    104.000000    104.000000        104.000000   104.000000  104.000000  104.000000  104.000000
-mean    57.807692      0.368908      0.642279          0.056744     0.159047  121.653962    0.457404    0.582019
-std     14.572935      0.280005      0.136012          0.181988     0.134125   32.832384    0.227906    0.181891
-min     15.000000      0.000025      0.272000          0.000000     0.024700   70.022000    0.038400    0.146000
+mean    57.692308      0.368908      0.642279          0.056744     0.159047  121.653962    0.457404    0.582019
+std     14.473328      0.280005      0.136012          0.181988     0.134125   32.832384    0.227906    0.181891
+min     14.000000      0.000025      0.272000          0.000000     0.024700   70.022000    0.038400    0.146000
 25%     49.000000      0.131750      0.550000          0.000000     0.050675   91.662000    0.296000    0.471750
 50%     59.000000      0.310000      0.664000          0.000006     0.105050  118.655000    0.422500    0.595500
 75%     68.250000      0.602500      0.748500          0.002180     0.239750  143.042750    0.617750    0.739750

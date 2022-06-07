@@ -1,4 +1,4 @@
-Electronic artists found: iMeiden, Kyrrin, Stessie, BB Yukus
+Electronic artists found: Kyrrin, iMeiden, BB Yukus, Stessie
 Electronic genres found: kawaii edm, kawaii future bass
 Electronic music logs found: 33.33% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: anime rock (8.89%)
 	5: j-pop (6.67%)
 Top artists
-	1: TrySail (6.25%)
-	2: Stessie (6.25%)
-	3: Fear (6.25%)
-	4: Higuchi Ai (6.25%)
-	5: Tia (6.25%)
+	1: Tia (6.25%)
+	2: Higuchi Ai (6.25%)
+	3: iMeiden (6.25%)
+	4: GARNiDELiA (6.25%)
+	5: BB Yukus (6.25%)
 Top country
 	1: JP (61.11%)
 	2: QZ (22.22%)
@@ -36,7 +36,7 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
 mean    37.111111      0.097778      0.533333          0.092906     0.105617  135.735667   0.466889   0.892111
-std     18.543713      0.142771      0.152255          0.227625     0.112876   33.382642   0.211463   0.082922
+std     18.565905      0.142771      0.152255          0.227625     0.112876   33.382642   0.211463   0.082922
 min     12.000000      0.000145      0.175000          0.000000     0.029900   89.970000   0.220000   0.686000
 25%     18.750000      0.010273      0.447750          0.000000     0.045500  109.996500   0.291750   0.863750
 50%     40.500000      0.030350      0.545000          0.000046     0.056200  127.997000   0.425500   0.912000

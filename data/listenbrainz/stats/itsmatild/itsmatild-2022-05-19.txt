@@ -1,5 +1,5 @@
-Electronic artists found: RAYE,Rudimental, Gesaffelstein,The Weeknd, Swedish House Mafia,Connie Constance
-Electronic genres found: tropical house, progressive electro house, edm, destroy techno
+Electronic artists found: Gesaffelstein,The Weeknd, RAYE,Rudimental, Swedish House Mafia,Connie Constance
+Electronic genres found: progressive electro house, destroy techno, tropical house, edm
 Electronic music logs found: 17.65% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: k-pop (5.88%)
 	5: trap latino (3.92%)
 Top artists
-	1: Rauw Alejandro (4.76%)
-	2: Chanel (4.76%)
-	3: ROSALÍA (4.76%)
-	4: Chencho Corleone (4.76%)
-	5: Bad Bunny (4.76%)
+	1: Alvan (4.76%)
+	2: Rudimental (4.76%)
+	3: Bad Bunny (4.76%)
+	4: ROSALÍA (4.76%)
+	5: INNA (4.76%)
 Top country
 	1: US (47.06%)
 	2: ES (11.76%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   17.000000     17.000000     17.000000         17.000000    17.000000   17.000000  17.000000  17.000000
-mean    73.352941      0.255512      0.731412          0.003255     0.084906  120.493706   0.494994   0.702941
-std     13.133646      0.261306      0.109137          0.004788     0.047402   33.078739   0.193450   0.137110
+mean    73.411765      0.255512      0.731412          0.003255     0.084906  120.493706   0.494994   0.702941
+std     13.200657      0.261306      0.109137          0.004788     0.047402   33.078739   0.193450   0.137110
 min     41.000000      0.010000      0.557000          0.000000     0.036300   77.476000   0.038900   0.482000
 25%     65.000000      0.050800      0.644000          0.000000     0.054100   98.029000   0.432000   0.620000
 50%     78.000000      0.190000      0.738000          0.000927     0.078300  109.045000   0.511000   0.712000

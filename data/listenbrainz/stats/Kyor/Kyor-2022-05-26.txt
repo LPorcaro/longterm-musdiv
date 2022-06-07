@@ -1,0 +1,45 @@
+Electronic artists found: Swedish House Mafia,Pharrell Williams
+Electronic genres found: progressive electro house, edm
+Electronic music logs found: 10.53% 
+
+Top genres
+	1: pop (9.72%)
+	2: rock (8.33%)
+	3: modern rock (5.56%)
+	4: dance pop (4.17%)
+	5: canadian hip hop (4.17%)
+Top artists
+	1: Halsey (5.00%)
+	2: Bastille (5.00%)
+	3: Drake (5.00%)
+	4: Yung Lean (5.00%)
+	5: Pharrell Williams (5.00%)
+Top country
+	1: US (42.11%)
+	2: GB (26.32%)
+	3: QM (15.79%)
+	4: QZ (5.26%)
+	5: TC (5.26%)
+Top record
+	1: UM7 (21.05%)
+	2: 24S (10.53%)
+	3: AAA (10.53%)
+	4: DA5 (5.26%)
+	5: ALB (5.26%)
+Top year
+	1: 19 (21.05%)
+	2: 18 (15.79%)
+	3: 20 (10.53%)
+	4: 10 (10.53%)
+	5: 78 (5.26%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   19.000000     19.000000     19.000000         19.000000    19.000000   19.000000  19.000000  19.000000
+mean    59.210526      0.152405      0.619053          0.001434     0.080911  118.701579   0.435589   0.677053
+std     14.782042      0.250549      0.153252          0.003978     0.055357   28.129109   0.252287   0.204244
+min     16.000000      0.000038      0.399000          0.000000     0.028200   63.116000   0.054200   0.301000
+25%     52.000000      0.009185      0.472000          0.000000     0.045100  110.034500   0.250500   0.548000
+50%     61.000000      0.021400      0.625000          0.000003     0.059800  120.098000   0.376000   0.713000
+75%     68.000000      0.138500      0.733000          0.000186     0.103700  125.541500   0.636000   0.842500
+max     89.000000      0.893000      0.883000          0.016600     0.229000  171.005000   0.937000   0.994000

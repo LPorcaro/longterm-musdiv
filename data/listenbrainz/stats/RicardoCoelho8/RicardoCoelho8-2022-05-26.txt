@@ -1,0 +1,45 @@
+Electronic artists found: SLANDER,Dylan Matthew, John K, Ellie Goulding
+Electronic genres found: dubstep, tropical house, edm
+Electronic music logs found: 5.16% 
+
+Top genres
+	1: pop (25.00%)
+	2: uk pop (9.72%)
+	3: dance pop (6.94%)
+	4: portuguese pop (5.56%)
+	5: hip hop tuga (4.63%)
+Top artists
+	1: John Legend (1.59%)
+	2: Halsey (1.59%)
+	3: Nuno Ribeiro (1.59%)
+	4: Tommee Profitt (1.59%)
+	5: SLANDER (1.59%)
+Top country
+	1: US (41.24%)
+	2: PT (17.53%)
+	3: GB (14.43%)
+	4: DE (8.25%)
+	5: QZ (6.19%)
+Top record
+	1: UM7 (28.87%)
+	2: AHS (7.22%)
+	3: UG1 (6.19%)
+	4: WB1 (5.15%)
+	5: BM1 (5.15%)
+Top year
+	1: 20 (39.18%)
+	2: 19 (20.62%)
+	3: 17 (12.37%)
+	4: 18 (10.31%)
+	5: 16 (5.15%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   97.000000     97.000000     97.000000         97.000000    97.000000   97.000000  97.000000  97.000000
+mean    63.824742      0.484390      0.572969          0.000749     0.080782  117.653794   0.337460   0.494598
+std     17.170718      0.286478      0.129782          0.003628     0.082122   30.407055   0.181329   0.147781
+min      3.000000      0.015500      0.329000          0.000000     0.023200   74.988000   0.067800   0.207000
+25%     51.000000      0.203000      0.476000          0.000000     0.033300   92.024000   0.220000   0.385000
+50%     68.000000      0.487000      0.578000          0.000000     0.049300  113.820000   0.291000   0.488000
+75%     76.000000      0.695000      0.675000          0.000005     0.098900  139.688000   0.471000   0.607000
+max     87.000000      0.959000      0.958000          0.033300     0.438000  180.917000   0.828000   0.853000

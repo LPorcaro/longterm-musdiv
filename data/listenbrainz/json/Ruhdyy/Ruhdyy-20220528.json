@@ -1,0 +1,44 @@
+[
+    {
+        "listened_at": "2022-05-25T16:42:52",
+        "track_name": "The Otherside",
+        "artist_name": "Blueyes",
+        "release_name": "The Otherside",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4R8GhwR0uSAD0AECAmsP2l",
+        "listening_from": "spotify",
+        "isrc": "ZZOPM2118794",
+        "additional_info": {
+            "artist_msid": "f0dbc90e-619a-4bb7-a19d-a0f781d44147",
+            "artist_names": [
+                "Blueyes"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198319,
+            "isrc": "ZZOPM2118794",
+            "listening_from": "spotify",
+            "recording_msid": "4a86dee5-e8f4-476a-b009-192c6ab23501",
+            "release_artist_name": "Blueyes",
+            "release_artist_names": [
+                "Blueyes"
+            ],
+            "release_msid": "b2900c23-1937-4478-a97d-d8ac3c719e3e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4Ww83ftMVSTM4fdLka5lef"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0o4UkYjIG3q2VCLkf2sSWC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4Ww83ftMVSTM4fdLka5lef"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4R8GhwR0uSAD0AECAmsP2l",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

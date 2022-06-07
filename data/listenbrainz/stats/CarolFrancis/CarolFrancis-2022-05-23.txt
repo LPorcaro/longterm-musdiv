@@ -1,19 +1,19 @@
-Electronic artists found: JP Cooper, Elderbrook,Rudimental, Sam Fischer,Nea, Matt Simons,Betty Who, John K
+Electronic artists found: Matt Simons,Betty Who, John K, JP Cooper, Sam Fischer,Nea, Elderbrook,Rudimental
 Electronic genres found: tropical house
 Electronic music logs found: 10.20% 
 
 Top genres
-	1: pop (24.26%)
-	2: uk pop (8.09%)
-	3: electropop (7.35%)
-	4: dance pop (6.62%)
-	5: alt z (5.88%)
+	1: pop (24.09%)
+	2: uk pop (9.49%)
+	3: electropop (7.30%)
+	4: dance pop (6.57%)
+	5: alt z (5.84%)
 Top artists
-	1: Ava Max (1.79%)
-	2: Nea (1.79%)
-	3: Lukas Graham (1.79%)
-	4: JP Cooper (1.79%)
-	5: K E M A L (1.79%)
+	1: John Legend (1.79%)
+	2: Kina (1.79%)
+	3: Rudimental (1.79%)
+	4: Sam Fischer (1.79%)
+	5: Shawn Mendes (1.79%)
 Top country
 	1: US (36.73%)
 	2: GB (28.57%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   49.000000     49.000000     49.000000         49.000000    49.000000   49.000000  49.000000  49.000000
-mean    57.571429      0.468867      0.590000          0.001029     0.063424  115.558429   0.350922   0.453633
-std      7.716325      0.288728      0.101169          0.005208     0.041475   32.366187   0.163682   0.151672
+mean    57.693878      0.468867      0.590000          0.001029     0.063424  115.558429   0.350922   0.453633
+std      7.692540      0.288728      0.101169          0.005208     0.041475   32.366187   0.163682   0.151672
 min     40.000000      0.021500      0.361000          0.000000     0.026200   63.392000   0.096200   0.120000
 25%     52.000000      0.208000      0.523000          0.000000     0.036200   87.767000   0.244000   0.362000
 50%     59.000000      0.429000      0.617000          0.000000     0.046900  106.122000   0.290000   0.442000

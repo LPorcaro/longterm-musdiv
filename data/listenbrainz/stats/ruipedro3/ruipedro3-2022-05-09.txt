@@ -1,5 +1,5 @@
-Electronic artists found: Sigma, Sebastian Ingrosso,Tommy Trash,John Martin, Eric Prydz, Joel Corry,MNEK, Axwell /\ Ingrosso, Swedish House Mafia, David Guetta,Sam Martin, The Chainsmokers,Daya, Guru Josh Project,Klaas, Haddaway, Disclosure,Eliza Doolittle,Flume, Bob Sinclar,Gary Pine, Calvin Harris,Alesso,Hurts, ATB,Topic,A7S, Mr. Probz,Robin Schulz, Rudimental,John Newman, Avicii, Bingo Players, Swedish House Mafia,Pharrell Williams, Swedish House Mafia,John Martin, Don Diablo,AR/CO
-Electronic genres found: eurodance, electro house, progressive house, tropical house, progressive electro house, future house, uk funky, drum and bass, dutch house, acid house, hip house, german techno, edm, disco house
+Electronic artists found: Eric Prydz, Calvin Harris,Alesso,Hurts, Swedish House Mafia,Pharrell Williams, Sebastian Ingrosso,Tommy Trash,John Martin, Bingo Players, Joel Corry,MNEK, Avicii, Axwell /\ Ingrosso, ATB,Topic,A7S, David Guetta,Sam Martin, Haddaway, Mr. Probz,Robin Schulz, Disclosure,Eliza Doolittle,Flume, Don Diablo,AR/CO, Swedish House Mafia, Guru Josh Project,Klaas, Sigma, Swedish House Mafia,John Martin, Bob Sinclar,Gary Pine, The Chainsmokers,Daya, Rudimental,John Newman
+Electronic genres found: progressive electro house, uk funky, german techno, future house, progressive house, eurodance, acid house, electro house, disco house, drum and bass, tropical house, edm, hip house, dutch house
 Electronic music logs found: 36.71% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: edm (6.37%)
 	5: modern rock (5.82%)
 Top artists
-	1: Gerry Rafferty (1.25%)
-	2: Sigma (1.25%)
-	3: Robin Schulz (1.25%)
-	4: AR/CO (1.25%)
-	5: D.O.E. (1.25%)
+	1: Rudimental (1.25%)
+	2: Macklemore & Ryan Lewis (1.25%)
+	3: Daft Punk (1.25%)
+	4: Axwell /\ Ingrosso (1.25%)
+	5: Twenty One Pilots (1.25%)
 Top country
 	1: US (48.10%)
 	2: GB (30.38%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   79.000000     79.000000     79.000000         79.000000    79.000000   79.000000  79.000000  79.000000
-mean    69.936709      0.109753      0.609570          0.044814     0.071385  119.876430   0.512772   0.754177
-std     11.293681      0.145179      0.129222          0.165307     0.057123   25.115931   0.203095   0.143718
+mean    70.113924      0.109753      0.609570          0.044814     0.071385  119.876430   0.512772   0.754177
+std     11.343119      0.145179      0.129222          0.165307     0.057123   25.115931   0.203095   0.143718
 min     22.000000      0.000313      0.276000          0.000000     0.025700   73.986000   0.160000   0.322000
-25%     66.500000      0.015250      0.507000          0.000000     0.039000  100.849500   0.386000   0.705500
+25%     67.000000      0.015250      0.507000          0.000000     0.039000  100.849500   0.386000   0.705500
 50%     73.000000      0.065400      0.634000          0.000006     0.052000  124.915000   0.517000   0.754000
 75%     77.000000      0.157500      0.723000          0.000540     0.081350  128.135500   0.632500   0.872500
-max     83.000000      0.765000      0.829000          0.828000     0.375000  179.911000   0.965000   0.974000
+max     84.000000      0.765000      0.829000          0.828000     0.375000  179.911000   0.965000   0.974000

@@ -1,5 +1,5 @@
-Electronic artists found: Loud Luxury,Bryce Vine,EDX, Story Of The Year, Senses Fail, Sons Of Maria,Agatha Saron, Tom Ferry,Alex Hosking, Snapcase
-Electronic genres found: pop edm, deep tropical house, hardcore, electro house, tropical house, deep house, edm
+Electronic artists found: Loud Luxury,Bryce Vine,EDX, Sons Of Maria,Agatha Saron, Story Of The Year, Snapcase, Tom Ferry,Alex Hosking, Senses Fail
+Electronic genres found: pop edm, hardcore, deep house, electro house, deep tropical house, tropical house, edm
 Electronic music logs found: 8.70% 
 
 Top genres
@@ -10,10 +10,10 @@ Top genres
 	5: pop dance (2.13%)
 Top artists
 	1: Loud Luxury (5.00%)
-	2: Parkway Drive (5.00%)
-	3: EDX (5.00%)
-	4: Alex Hosking (5.00%)
-	5: Ash (5.00%)
+	2: Story Of The Year (5.00%)
+	3: Alex Hosking (5.00%)
+	4: ØGM (5.00%)
+	5: Sons Of Maria (5.00%)
 Top country
 	1: QZ (65.22%)
 	2: SE (14.49%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   69.000000     69.000000     69.000000         69.000000    69.000000   69.000000  69.000000  69.000000
-mean    35.869565      0.075615      0.755333          0.054589     0.053561  124.785884   0.569232   0.586986
-std     10.493574      0.065080      0.149255          0.185524     0.032365   12.143620   0.117715   0.150513
+mean    35.840580      0.075615      0.755333          0.054589     0.053561  124.785884   0.569232   0.586986
+std     10.449632      0.065080      0.149255          0.185524     0.032365   12.143620   0.117715   0.150513
 min     13.000000      0.000004      0.286000          0.000000     0.037800   90.839000   0.197000   0.501000
 25%     33.000000      0.075700      0.818000          0.000496     0.037800  123.993000   0.551000   0.501000
 50%     41.000000      0.082500      0.818000          0.000496     0.037800  123.993000   0.634000   0.501000

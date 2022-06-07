@@ -1,0 +1,41 @@
+Electronic artists found: Ludovico Einaudi
+Electronic genres found: compositional ambient
+Electronic music logs found: 20.00% 
+
+Top genres
+	1: arrocha (18.75%)
+	2: sertanejo pop (18.75%)
+	3: pop nacional (12.50%)
+	4: sertanejo universitario (6.25%)
+	5: funk carioca (6.25%)
+Top artists
+	1: Mariah Angeliq (11.11%)
+	2: Matheus & Kauan (11.11%)
+	3: LUDMILLA (11.11%)
+	4: Mari Fernandez (11.11%)
+	5: Marcynho Sensação (11.11%)
+Top country
+	1: BR (40.00%)
+	2: BC (40.00%)
+	3: IT (20.00%)
+Top record
+	1: UM7 (20.00%)
+	2: VV8 (20.00%)
+	3: WMB (20.00%)
+	4: ZT7 (20.00%)
+	5: B28 (20.00%)
+Top year
+	1: 21 (60.00%)
+	2: 20 (20.00%)
+	3: 04 (20.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    5.000000      5.000000      5.000000          5.000000     5.000000    5.000000  5.000000  5.000000
+mean    74.800000      0.351060      0.550800          0.178560     0.097200  148.472000  0.665400  0.721540
+std      4.494441      0.395781      0.214679          0.391051     0.053181   17.086996  0.348282  0.389368
+min     67.000000      0.022100      0.231000          0.000000     0.052400  128.991000  0.070000  0.029700
+25%     75.000000      0.030200      0.480000          0.000000     0.057900  131.413000  0.641000  0.823000
+50%     77.000000      0.302000      0.561000          0.000000     0.066700  155.859000  0.835000  0.889000
+75%     77.000000      0.410000      0.693000          0.014800     0.143000  160.063000  0.890000  0.930000
+max     78.000000      0.991000      0.789000          0.878000     0.166000  166.034000  0.891000  0.936000

@@ -1,0 +1,45 @@
+Electronic artists found: Tinlicker,Helsloot, Einmusik, Polaris, Y.V.E. 48, Satin Jackets, Brendon Moeller, Dreweybear, Dandara, Adon, Annisokay, SRTW, Together Alone, Ben Böhmer, Enter Shikari
+Electronic genres found: pop edm, german post-hardcore, dub techno, german techno, deep house, organic electronic, deep tropical house, nu disco, australian post-hardcore, nintendocore, minimal techno, tech house, edm, tropical house, microhouse
+Electronic music logs found: 19.05% 
+
+Top genres
+	1: metalcore (13.61%)
+	2: screamo (8.86%)
+	3: rock (8.86%)
+	4: trancecore (5.70%)
+	5: uk metalcore (5.70%)
+Top artists
+	1: BABYMETAL (1.59%)
+	2: Willie Peyote (1.59%)
+	3: Tobias Bergson (1.59%)
+	4: Holding Absence (1.59%)
+	5: Bring Me The Horizon (1.59%)
+Top country
+	1: US (32.38%)
+	2: DE (19.05%)
+	3: GB (19.05%)
+	4: QZ (8.57%)
+	5: SE (7.62%)
+Top record
+	1: EP4 (12.38%)
+	2: ARL (8.57%)
+	3: D83 (7.62%)
+	4: YT7 (6.67%)
+	5: A2P (4.76%)
+Top year
+	1: 20 (37.14%)
+	2: 21 (14.29%)
+	3: 17 (6.67%)
+	4: 19 (4.76%)
+	5: 22 (4.76%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  105.000000    105.000000    105.000000        105.000000   105.000000  105.000000  105.000000  105.000000
+mean    50.285714      0.159428      0.530829          0.228349     0.108513  129.075648    0.350138    0.754038
+std      9.232795      0.251157      0.165461          0.370958     0.082859   31.072855    0.221619    0.222190
+min     15.000000      0.000024      0.220000          0.000000     0.027300   75.034000    0.037300    0.123000
+25%     45.000000      0.000824      0.433000          0.000000     0.052600  106.026000    0.166000    0.594000
+50%     50.000000      0.015400      0.503000          0.000091     0.080600  120.020000    0.341000    0.855000
+75%     56.000000      0.211000      0.675000          0.555000     0.147000  147.108000    0.503000    0.937000
+max     72.000000      0.855000      0.890000          0.954000     0.488000  198.798000    0.962000    0.991000

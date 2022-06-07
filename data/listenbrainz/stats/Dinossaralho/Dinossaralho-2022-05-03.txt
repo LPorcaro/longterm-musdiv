@@ -1,0 +1,28 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: classic portuguese pop (25.00%)
+	2: fado (25.00%)
+	3: musica de intervencao (25.00%)
+	4: portuguese rock (25.00%)
+Top artists
+	1: Fausto (100.00%)
+Top country
+	1: PT (100.00%)
+Top record
+	1: SM1 (100.00%)
+Top year
+	1: 99 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000       6.00000      6.000000e+00     6.000000    6.000000  6.000000  6.000000
+mean     3.000000      0.500833       0.53600      2.665450e-04     0.236583  114.580333  0.546833  0.818167
+std      1.264911      0.125837       0.05494      6.483615e-04     0.273506   35.933171  0.133188  0.094143
+min      2.000000      0.344000       0.43400      0.000000e+00     0.065000   82.829000  0.350000  0.729000
+25%      2.000000      0.391250       0.52775      4.100000e-07     0.102375   84.476750  0.487250  0.742250
+50%      2.500000      0.532500       0.54850      1.660000e-06     0.116000  108.837500  0.533000  0.798000
+75%      3.750000      0.608500       0.57000      4.882500e-06     0.211750  131.603000  0.638000  0.872500
+max      5.000000      0.618000       0.58700      1.590000e-03     0.781000  171.430000  0.720000  0.963000

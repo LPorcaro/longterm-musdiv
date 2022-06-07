@@ -1,0 +1,36 @@
+Electronic artists found: Calvin Harris,Dua Lipa
+Electronic genres found: electro house, edm, progressive house
+Electronic music logs found: 25.00% 
+
+Top genres
+	1: dance pop (16.67%)
+	2: pop (16.67%)
+	3: uk pop (11.11%)
+	4: glam rock (5.56%)
+	5: mellow gold (5.56%)
+Top artists
+	1: Dua Lipa (25.00%)
+	2: Calvin Harris (25.00%)
+	3: PNAU (25.00%)
+	4: Elton John (25.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: AHT (50.00%)
+	2: UM7 (25.00%)
+	3: ARL (25.00%)
+Top year
+	1: 19 (50.00%)
+	2: 21 (25.00%)
+	3: 18 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo   valence    energy
+count     4.00000      4.000000      4.000000          4.000000     4.000000    4.00000  4.000000  4.000000
+mean     74.50000      0.128000      0.745500          0.000016     0.079000  121.77500  0.670000  0.709000
+std      12.66228      0.186674      0.079935          0.000020     0.053876    4.02160  0.186831  0.164742
+min      60.00000      0.033000      0.627000          0.000000     0.031700  116.03200  0.519000  0.486000
+25%      66.75000      0.033750      0.732750          0.000000     0.034400  120.54775  0.573750  0.639000
+50%      74.50000      0.035500      0.779500          0.000011     0.072650  123.02350  0.609500  0.744000
+75%      82.25000      0.129750      0.792250          0.000027     0.117250  124.25075  0.705750  0.814000
+max      89.00000      0.408000      0.796000          0.000042     0.139000  125.02100  0.942000  0.862000

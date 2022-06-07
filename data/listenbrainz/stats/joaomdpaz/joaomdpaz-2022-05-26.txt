@@ -1,0 +1,45 @@
+Electronic artists found: Jessie Ware, Róisín Murphy
+Electronic genres found: electronica, tropical house
+Electronic music logs found: 8.00% 
+
+Top genres
+	1: dance pop (12.66%)
+	2: pop (8.86%)
+	3: electropop (6.33%)
+	4: art pop (5.06%)
+	5: escape room (3.80%)
+Top artists
+	1: Victoria Monét (3.45%)
+	2: Alaska Thunderfuck (3.45%)
+	3: MARUV (3.45%)
+	4: Charli XCX (3.45%)
+	5: The Pom-Poms (3.45%)
+Top country
+	1: US (36.00%)
+	2: GB (12.00%)
+	3: TC (12.00%)
+	4: us (8.00%)
+	5: QZ (4.00%)
+Top record
+	1: UM7 (20.00%)
+	2: AT2 (8.00%)
+	3: ADW (8.00%)
+	4: cgh (8.00%)
+	5: RC1 (8.00%)
+Top year
+	1: 18 (20.00%)
+	2: 20 (16.00%)
+	3: 21 (16.00%)
+	4: 17 (8.00%)
+	5: 19 (8.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
+count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.00000  25.000000
+mean    50.720000      0.095486      0.727760          0.045823     0.080160  117.431040   0.57028   0.686760
+std     15.841717      0.121025      0.098279          0.133104     0.059618   19.124132   0.24573   0.145457
+min     17.000000      0.003150      0.542000          0.000000     0.027700   89.025000   0.19900   0.341000
+25%     45.000000      0.029600      0.668000          0.000000     0.047900  106.989000   0.35500   0.624000
+50%     51.000000      0.050000      0.728000          0.000002     0.057600  110.027000   0.55800   0.705000
+75%     62.000000      0.087700      0.781000          0.000353     0.097500  127.001000   0.70300   0.809000
+max     76.000000      0.437000      0.888000          0.468000     0.290000  168.995000   0.96000   0.906000

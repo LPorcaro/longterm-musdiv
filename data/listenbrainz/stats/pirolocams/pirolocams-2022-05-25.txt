@@ -1,0 +1,44 @@
+Electronic artists found: Regard,Troye Sivan,Tate McRae
+Electronic genres found: pop edm, slap house, electro house, tropical house, edm
+Electronic music logs found: 9.09% 
+
+Top genres
+	1: pop (15.79%)
+	2: dance pop (7.89%)
+	3: canadian pop (5.26%)
+	4: electropop (5.26%)
+	5: rap (5.26%)
+Top artists
+	1: Daniel Caesar (6.25%)
+	2: Jack Harlow (6.25%)
+	3: Coez (6.25%)
+	4: The Weeknd (6.25%)
+	5: Billie Eilish (6.25%)
+Top country
+	1: US (54.55%)
+	2: AU (18.18%)
+	3: GB (18.18%)
+	4: IT (9.09%)
+Top record
+	1: UM7 (54.55%)
+	2: CEN (9.09%)
+	3: UG1 (9.09%)
+	4: AT2 (9.09%)
+	5: RC1 (9.09%)
+Top year
+	1: 21 (45.45%)
+	2: 20 (18.18%)
+	3: 22 (18.18%)
+	4: 17 (9.09%)
+	5: 19 (9.09%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
+count   11.000000     11.000000     11.000000         11.000000    11.000000   11.000000  11.00000  11.000000
+mean    77.181818      0.189882      0.730091          0.012491     0.092573  111.170818   0.54200   0.646364
+std     11.822167      0.158544      0.132907          0.040637     0.069244   28.298373   0.18516   0.152203
+min     45.000000      0.016400      0.537000          0.000000     0.032500   80.870000   0.25000   0.365000
+25%     76.000000      0.049900      0.635500          0.000000     0.046700   92.023000   0.45000   0.557000
+50%     80.000000      0.162000      0.691000          0.000007     0.083200  106.064000   0.51400   0.621000
+75%     83.500000      0.286500      0.853500          0.000028     0.101700  123.538500   0.62800   0.755000
+max     89.000000      0.440000      0.907000          0.135000     0.281000  175.878000   0.87300   0.873000

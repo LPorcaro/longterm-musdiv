@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: modern rock (14.40%)
-	2: rock (14.40%)
-	3: emo (13.17%)
-	4: anime (11.52%)
-	5: anime rock (11.11%)
+	1: modern rock (14.46%)
+	2: rock (14.46%)
+	3: emo (13.22%)
+	4: anime (11.57%)
+	5: anime rock (11.16%)
 Top artists
-	1: MGMT (3.12%)
-	2: The Drums (3.12%)
-	3: Foo Fighters (3.12%)
-	4: The Killers (3.12%)
-	5: The Wombats (3.12%)
+	1: Cidergirl (3.12%)
+	2: The Last Shadow Puppets (3.12%)
+	3: Uta (3.12%)
+	4: Fall Out Boy (3.12%)
+	5: BoyWithUke (3.12%)
 Top country
 	1: US (46.51%)
 	2: JP (34.88%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   86.000000     86.000000     86.000000      8.600000e+01    86.000000   86.000000  86.000000  86.000000
-mean    54.174419      0.053396      0.503291      2.114630e-02     0.068283  135.425616   0.552193   0.816442
-std     12.447718      0.125256      0.121952      9.811462e-02     0.046028   29.115536   0.210580   0.144388
+mean    54.255814      0.053396      0.503291      2.114630e-02     0.068283  135.425616   0.552193   0.816442
+std     12.497704      0.125256      0.121952      9.811462e-02     0.046028   29.115536   0.210580   0.144388
 min     30.000000      0.000051      0.210000      0.000000e+00     0.028400   87.648000   0.066900   0.294000
 25%     44.500000      0.001177      0.415500      0.000000e+00     0.044150  113.917250   0.391750   0.748500
 50%     53.500000      0.007120      0.496000      6.150000e-07     0.054650  132.504000   0.572500   0.860500

@@ -1,0 +1,34 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: french pop (28.57%)
+	2: belgian singer-songwriter (14.29%)
+	3: chanson (14.29%)
+	4: classic soundtrack (14.29%)
+	5: french jazz (14.29%)
+Top artists
+	1: Michel Legrand (33.33%)
+	2: Jacques Brel (33.33%)
+	3: Indila (33.33%)
+Top country
+	1: FR (100.00%)
+Top record
+	1: Z03 (66.67%)
+	2: UM7 (33.33%)
+Top year
+	1: 59 (33.33%)
+	2: 69 (33.33%)
+	3: 13 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo  valence    energy
+count    3.000000      3.000000      3.000000          3.000000     3.000000    3.000000   3.0000  3.000000
+mean    45.666667      0.618333      0.468667          0.000109     0.045867  114.333667   0.3060  0.271667
+std     25.146239      0.376505      0.178864          0.000100     0.005960   14.163792   0.0210  0.162140
+min     26.000000      0.184000      0.325000          0.000000     0.039000   99.883000   0.2850  0.131000
+25%     31.500000      0.501500      0.368500          0.000064     0.043950  107.404500   0.2955  0.183000
+50%     37.000000      0.819000      0.412000          0.000128     0.048900  114.926000   0.3060  0.235000
+75%     55.500000      0.835500      0.540500          0.000163     0.049300  121.559000   0.3165  0.342000
+max     74.000000      0.852000      0.669000          0.000198     0.049700  128.192000   0.3270  0.449000

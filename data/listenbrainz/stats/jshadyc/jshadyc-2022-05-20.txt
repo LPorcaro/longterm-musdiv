@@ -1,4 +1,4 @@
-Electronic artists found: Avicii, Icona Pop,Charli XCX, David Guetta,Kid Cudi
+Electronic artists found: David Guetta,Kid Cudi, Avicii, Icona Pop,Charli XCX
 Electronic genres found: edm
 Electronic music logs found: 1.49% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: melodic rap (4.86%)
 	5: permanent wave (4.86%)
 Top artists
-	1: Snow Patrol (1.22%)
-	2: White Gold (1.22%)
-	3: OMI (1.22%)
-	4: Ariana Grande (1.22%)
-	5: Ne-Yo (1.22%)
+	1: John Legend (1.22%)
+	2: Duke & Jones (1.22%)
+	3: Rihanna (1.22%)
+	4: Ty Dolla $ign (1.22%)
+	5: Daft Punk (1.22%)
 Top country
 	1: US (77.11%)
 	2: GB (18.91%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  201.000000    201.000000    201.000000        201.000000   201.000000  201.000000  201.000000  201.000000
-mean    73.766169      0.248957      0.634692          0.011674     0.083531  122.411950    0.493413    0.620731
-std     10.543247      0.255837      0.133159          0.057020     0.079499   30.622044    0.231640    0.181850
+mean    73.840796      0.248957      0.634692          0.011674     0.083531  122.411950    0.493413    0.620731
+std     10.533970      0.255837      0.133159          0.057020     0.079499   30.622044    0.231640    0.181850
 min     43.000000      0.000532      0.288000          0.000000     0.024200   67.528000    0.051100    0.054900
 25%     65.000000      0.038700      0.546000          0.000000     0.034000   97.975000    0.307000    0.533000
 50%     74.000000      0.166000      0.650000          0.000000     0.049800  118.091000    0.479000    0.638000

@@ -1,0 +1,45 @@
+Electronic artists found: Robin Schulz,James Blunt, Naughty Boy,Beyoncé,Arrow Benjamin, Calvin Harris,Pharrell Williams,Katy Perry,Big Sean,Funk Wav
+Electronic genres found: deep house, progressive house, electro house, tropical house, edm
+Electronic music logs found: 10.00% 
+
+Top genres
+	1: pop (11.32%)
+	2: dance pop (6.60%)
+	3: rock (5.66%)
+	4: pop rap (4.72%)
+	5: modern rock (3.77%)
+Top artists
+	1: John Legend (2.27%)
+	2: Chris Brown (2.27%)
+	3: The White Stripes (2.27%)
+	4: Linkin Park (2.27%)
+	5: Arrow Benjamin (2.27%)
+Top country
+	1: US (43.33%)
+	2: GB (26.67%)
+	3: BR (13.33%)
+	4: PT (6.67%)
+	5: DE (3.33%)
+Top record
+	1: UM7 (16.67%)
+	2: WMB (10.00%)
+	3: WB1 (6.67%)
+	4: AT2 (6.67%)
+	5: AYE (6.67%)
+Top year
+	1: 17 (36.67%)
+	2: 15 (13.33%)
+	3: 21 (13.33%)
+	4: 16 (6.67%)
+	5: 91 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   30.000000     30.000000     30.000000      3.000000e+01    30.000000   30.000000  30.000000  30.000000
+mean    61.866667      0.226053      0.623567      4.140460e-02     0.072433  115.131167   0.484420   0.655600
+std     19.600727      0.292321      0.139727      1.730788e-01     0.056854   21.138594   0.267397   0.208129
+min      0.000000      0.002050      0.319000      0.000000e+00     0.026300   80.017000   0.077200   0.258000
+25%     56.000000      0.029250      0.544000      0.000000e+00     0.036625  100.254500   0.253250   0.492250
+50%     66.000000      0.088500      0.640000      9.300000e-07     0.055950  108.094000   0.505000   0.693000
+75%     76.750000      0.262000      0.713750      1.310250e-04     0.084025  130.433750   0.737750   0.820750
+max     84.000000      0.908000      0.893000      9.420000e-01     0.300000  167.997000   0.926000   0.960000

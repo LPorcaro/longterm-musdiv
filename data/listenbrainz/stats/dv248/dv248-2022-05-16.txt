@@ -1,5 +1,5 @@
 Electronic artists found: Lost Frequencies,Calum Scott
-Electronic genres found: tropical house, edm, belgian edm
+Electronic genres found: belgian edm, tropical house, edm
 Electronic music logs found: 7.69% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: canadian contemporary r&b (6.45%)
 	5: canadian hip hop (6.45%)
 Top artists
-	1: FRVRFRIDAY (5.26%)
-	2: Not3s (5.26%)
-	3: Julinho Ksd (5.26%)
-	4: Deezy (5.26%)
-	5: MC Tairon (5.26%)
+	1: Not3s (5.26%)
+	2: Ivandro (5.26%)
+	3: MC Braz (5.26%)
+	4: Russ (5.26%)
+	5: Calum Scott (5.26%)
 Top country
 	1: PT (23.08%)
 	2: GB (15.38%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   13.000000     13.000000     13.000000         13.000000    13.000000   13.000000  13.000000  13.000000
-mean    57.923077      0.579485      0.607692          0.000186     0.239577  100.412385   0.462815   0.492769
-std     14.511269      0.259975      0.139563          0.000365     0.164010   22.434144   0.236785   0.136568
+mean    58.230769      0.579485      0.607692          0.000186     0.239577  100.412385   0.462815   0.492769
+std     14.720472      0.259975      0.139563          0.000365     0.164010   22.434144   0.236785   0.136568
 min     37.000000      0.045300      0.356000          0.000000     0.052100   63.100000   0.052600   0.313000
 25%     50.000000      0.515000      0.532000          0.000000     0.087800   88.481000   0.308000   0.410000
 50%     52.000000      0.616000      0.571000          0.000003     0.199000   92.594000   0.464000   0.439000

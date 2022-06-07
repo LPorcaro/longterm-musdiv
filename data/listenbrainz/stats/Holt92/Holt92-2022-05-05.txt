@@ -1,0 +1,45 @@
+Electronic artists found: KREAM,JHart,Eden Prince, Rooftime, Viva La Panda,Finding Molly, Gorgon City,MK, Adon, David Guetta,RAYE, Revelries,The Beamish Boys, Ryllz, Jo Cohen,Whales, Cheat Codes,DVBBS, SRTW,Mauve,Pearl Andersson, T-Mass,Jaxxtone, Rolipso,LissA, Jax Jones,Martin Solveig,Madison Beer,Europa, Burak Yeter,Danelle Sandoval, T-Mass, M-22,Medina,Disco Fries, Panuma,Kleak & Veebu,Marigo Bay, Luxe Agoris,Nicholas Roberts, Captain Cuts,Zookëper,Georgia Ku
+Electronic genres found: pop edm, brazilian edm, slap house, deep house, future bass, electro house, deep tropical house, dutch edm, gaming edm, future garage, melodic dubstep, tropical house, edm
+Electronic music logs found: 38.33% 
+
+Top genres
+	1: pop dance (8.33%)
+	2: traprun (7.41%)
+	3: tropical house (7.41%)
+	4: pop edm (6.48%)
+	5: bass trap (5.56%)
+Top artists
+	1: KRAK'N (1.47%)
+	2: KREAM (1.47%)
+	3: DVBBS (1.47%)
+	4: Rooftime (1.47%)
+	5: Medina (1.47%)
+Top country
+	1: QZ (33.33%)
+	2: GB (21.67%)
+	3: US (11.67%)
+	4: TC (10.00%)
+	5: QM (8.33%)
+Top record
+	1: HN3 (33.33%)
+	2: SMU (10.00%)
+	3: UM7 (5.00%)
+	4: 2LD (5.00%)
+	5: DA7 (5.00%)
+Top year
+	1: 21 (40.00%)
+	2: 18 (20.00%)
+	3: 17 (10.00%)
+	4: 19 (10.00%)
+	5: 09 (3.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   60.000000     60.000000     60.000000         60.000000    60.000000   60.000000  60.000000  60.000000
+mean    28.800000      0.061521      0.598883          0.228727     0.102538  139.470567   0.315483   0.847717
+std     13.805919      0.108173      0.119427          0.260000     0.101810   25.040965   0.154130   0.136297
+min      2.000000      0.000895      0.353000          0.000000     0.029900   75.040000   0.074500   0.421000
+25%     19.000000      0.004480      0.535000          0.000290     0.059525  122.011000   0.239000   0.753250
+50%     24.000000      0.012600      0.541500          0.287000     0.092700  125.539000   0.242000   0.850500
+75%     35.000000      0.042050      0.671000          0.287000     0.113000  165.008000   0.418500   0.988000
+max     62.000000      0.455000      0.925000          0.926000     0.794000  180.038000   0.712000   0.988000

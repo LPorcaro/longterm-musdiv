@@ -1,0 +1,37 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: swedish pop (33.33%)
+	2: gypsy punk (16.67%)
+	3: moldovan pop (16.67%)
+	4: romanian rock (16.67%)
+	5: russian rock (16.67%)
+Top artists
+	1: Fratii Advahov (25.00%)
+	2: Cornelia Jakobs (25.00%)
+	3: Zdob si Zdub (25.00%)
+	4: Chanel (25.00%)
+Top country
+	1: SE (50.00%)
+	2: ES (25.00%)
+	3: RO (25.00%)
+Top record
+	1: 5YN (50.00%)
+	2: 94B (25.00%)
+	3: CRP (25.00%)
+Top year
+	1: 22 (50.00%)
+	2: 21 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.000000  4.000000  4.000000
+mean    69.750000      0.182500      0.608750          0.001126     0.068375  110.217750  0.479750  0.728500
+std      5.678908      0.149484      0.122606          0.002236     0.049972   21.504345  0.370887  0.142046
+min     66.000000      0.099500      0.503000          0.000000     0.037200   96.967000  0.185000  0.608000
+25%     66.000000      0.099500      0.503000          0.000000     0.037200   96.967000  0.185000  0.608000
+50%     67.500000      0.112250      0.602000          0.000012     0.047150  100.964500  0.389500  0.711000
+75%     71.250000      0.195250      0.707750          0.001138     0.078325  114.215250  0.684250  0.831500
+max     78.000000      0.406000      0.728000          0.004480     0.142000  141.975000  0.955000  0.884000

@@ -1,0 +1,45 @@
+Electronic artists found: Sigma, Sebastian Ingrosso,Tommy Trash,John Martin, Axwell /\ Ingrosso, Bob Sinclar,Gary Pine, Primal Scream,George Drakoulias,David Bianco, Metronomy, Digitalism
+Electronic genres found: progressive electro house, big beat, progressive house, electro house, disco house, electronica, drum and bass, tropical house, edm
+Electronic music logs found: 7.84% 
+
+Top genres
+	1: modern rock (13.33%)
+	2: indie pop (8.82%)
+	3: pop (8.17%)
+	4: indie rock (4.30%)
+	5: rock (4.30%)
+Top artists
+	1: David Bianco (1.56%)
+	2: Clairo (1.56%)
+	3: Surf Curse (1.56%)
+	4: Juan Luis Guerra 4.40 (1.56%)
+	5: Alfie Templeman (1.56%)
+Top country
+	1: US (58.82%)
+	2: GB (31.37%)
+	3: FR (1.96%)
+	4: SE (1.96%)
+	5: DG (1.96%)
+Top record
+	1: AT2 (35.29%)
+	2: UM7 (5.88%)
+	3: EE1 (4.90%)
+	4: SM1 (2.94%)
+	5: ARL (2.94%)
+Top year
+	1: 18 (20.59%)
+	2: 21 (15.69%)
+	3: 12 (4.90%)
+	4: 15 (4.90%)
+	5: 11 (4.90%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  102.000000    102.000000    102.000000        102.000000   102.000000  102.000000  102.000000  102.000000
+mean    59.764706      0.154671      0.569657          0.064187     0.053887  122.592716    0.523049    0.712913
+std     11.156117      0.250875      0.136834          0.188113     0.039503   23.832304    0.221867    0.192509
+min     24.000000      0.000004      0.211000          0.000000     0.024900   68.897000    0.071500    0.097100
+25%     53.000000      0.004590      0.467000          0.000006     0.030850  106.129000    0.357000    0.621500
+50%     60.500000      0.029000      0.590000          0.000334     0.037850  123.069000    0.510000    0.742000
+75%     67.750000      0.160500      0.660000          0.007615     0.056975  135.258750    0.678250    0.867750
+max     84.000000      0.872000      0.913000          0.913000     0.226000  175.616000    0.964000    0.991000

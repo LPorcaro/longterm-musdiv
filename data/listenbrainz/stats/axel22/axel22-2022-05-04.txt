@@ -1,0 +1,45 @@
+Electronic artists found: Moby,Debbie Harry, Safri Duo, Gigi D'Agostino
+Electronic genres found: downtempo, italo dance, electronica, eurodance
+Electronic music logs found: 15.00% 
+
+Top genres
+	1: pop (8.16%)
+	2: hollywood (8.16%)
+	3: canadian pop (6.12%)
+	4: candy pop (6.12%)
+	5: dance pop (6.12%)
+Top artists
+	1: John Legend (7.69%)
+	2: Moby (7.69%)
+	3: Damien Rice (7.69%)
+	4: La La Land Cast (7.69%)
+	5: Justin Hurwitz (7.69%)
+Top country
+	1: US (45.00%)
+	2: QZ (15.00%)
+	3: IT (15.00%)
+	4: IE (10.00%)
+	5: DK (5.00%)
+Top record
+	1: UG1 (30.00%)
+	2: 22B (15.00%)
+	3: J32 (15.00%)
+	4: RC1 (10.00%)
+	5: ABD (10.00%)
+Top year
+	1: 16 (30.00%)
+	2: 17 (15.00%)
+	3: 11 (15.00%)
+	4: 10 (10.00%)
+	5: 06 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   20.000000     20.000000      20.00000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean    49.150000      0.360206       0.54010          0.267565     0.049505  119.499800   0.464365   0.519370
+std     21.943168      0.411988       0.13345          0.415860     0.016725   28.930575   0.256213   0.345334
+min     13.000000      0.000380       0.34200          0.000000     0.027700   67.990000   0.074300   0.032800
+25%     30.000000      0.046950       0.41000          0.000071     0.036700  106.286500   0.288500   0.178750
+50%     58.500000      0.177000       0.56050          0.000193     0.046800  131.556500   0.430500   0.568000
+75%     63.000000      0.902500       0.60550          0.817750     0.057725  139.234250   0.713000   0.843000
+max     77.000000      0.991000       0.76000          0.928000     0.102000  163.983000   0.877000   0.970000

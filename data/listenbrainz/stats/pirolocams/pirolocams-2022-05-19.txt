@@ -1,5 +1,5 @@
-Electronic artists found: FKA twigs,The Weeknd, Cheat Codes,Tinashe, Regard,Troye Sivan,Tate McRae, Surf Mesa,Madison Beer
-Electronic genres found: pop edm, electro house, tropical house, trip hop, slap house, edm
+Electronic artists found: Cheat Codes,Tinashe, FKA twigs,The Weeknd, Regard,Troye Sivan,Tate McRae, Surf Mesa,Madison Beer
+Electronic genres found: pop edm, slap house, electro house, trip hop, tropical house, edm
 Electronic music logs found: 7.27% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: art pop (3.29%)
 	5: r&b (2.63%)
 Top artists
-	1: FKA twigs (2.22%)
-	2: Jon Bellion (2.22%)
-	3: Regard (2.22%)
-	4: Nina Nesbitt (2.22%)
-	5: Bruno Mars (2.22%)
+	1: Clairo (2.22%)
+	2: Crookers (2.22%)
+	3: FKA twigs (2.22%)
+	4: Tame Impala (2.22%)
+	5: Surf Mesa (2.22%)
 Top country
 	1: US (72.73%)
 	2: GB (10.91%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   55.000000     55.000000     55.000000         55.000000    55.000000   55.000000  55.000000  55.000000
-mean    71.472727      0.315367      0.640455          0.003093     0.096385  115.458691   0.469816   0.577036
-std     12.306058      0.248206      0.133124          0.018229     0.082067   26.849553   0.193699   0.142709
+mean    71.509091      0.315367      0.640455          0.003093     0.096385  115.458691   0.469816   0.577036
+std     12.340648      0.248206      0.133124          0.018229     0.082067   26.849553   0.193699   0.142709
 min     41.000000      0.021200      0.332000          0.000000     0.030900   71.912000   0.084900   0.225000
 25%     65.000000      0.114500      0.557500          0.000000     0.037100   93.016000   0.316500   0.490500
 50%     74.000000      0.252000      0.657000          0.000001     0.055700  113.003000   0.486000   0.575000

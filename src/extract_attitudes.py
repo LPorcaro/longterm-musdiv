@@ -34,7 +34,6 @@ def extract(att_round):
         for row in _reader:
             LD.append(row[0])
 
-
     with open(outf_g1, "w+") as outf1, open(outf_g2, "w+") as outf2, open(infile, 'r') as inf:
         _writer1 = csv.writer(outf1, delimiter="\t")
         _writer2 = csv.writer(outf2, delimiter="\t")

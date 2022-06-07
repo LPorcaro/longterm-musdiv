@@ -1,5 +1,5 @@
 Electronic artists found: Mouse On Mars,Cavern of Anti-Matter
-Electronic genres found: german electronica, microhouse, dusseldorf electronic, indie electronica, intelligent dance music
+Electronic genres found: indie electronica, german electronica, dusseldorf electronic, intelligent dance music, microhouse
 Electronic music logs found: 7.14% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: arab pop (6.25%)
 	5: moroccan pop (6.25%)
 Top artists
-	1: Guy-Manuel de Homem-Christo (6.25%)
-	2: Massimo Morante (6.25%)
-	3: Pérola (6.25%)
-	4: Nile Rodgers (6.25%)
-	5: Mouse On Mars (6.25%)
+	1: Thomas Bangalter (6.25%)
+	2: Saad Lamjarred (6.25%)
+	3: Claudio Simonetti (6.25%)
+	4: Guy-Manuel de Homem-Christo (6.25%)
+	5: Pérola (6.25%)
 Top country
 	1: PT (42.86%)
 	2: FR (21.43%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   14.000000     14.000000     14.000000         14.000000    14.000000   14.000000  14.000000  14.000000
-mean    37.642857      0.225568      0.624500          0.321813     0.066236  114.528429   0.582136   0.674207
-std     12.905617      0.288347      0.129766          0.394369     0.043062   22.333803   0.249726   0.210883
+mean    37.785714      0.225568      0.624500          0.321813     0.066236  114.528429   0.582136   0.674207
+std     13.080688      0.288347      0.129766          0.394369     0.043062   22.333803   0.249726   0.210883
 min      3.000000      0.000161      0.338000          0.000000     0.034900   65.367000   0.071900   0.077900
 25%     31.750000      0.037175      0.527250          0.000018     0.039375   97.094250   0.482000   0.646500
 50%     38.500000      0.095100      0.680500          0.078080     0.045650  121.373000   0.518000   0.688000

@@ -1,19 +1,19 @@
-Electronic artists found: JP Cooper, David Guetta,Chris Willis,Fergie,LMFAO, David Guetta,Kid Cudi
-Electronic genres found: edm, tropical house
+Electronic artists found: David Guetta,Kid Cudi, David Guetta,Chris Willis,Fergie,LMFAO, JP Cooper
+Electronic genres found: tropical house, edm
 Electronic music logs found: 2.56% 
 
 Top genres
-	1: rap (16.58%)
-	2: hip hop (16.08%)
-	3: detroit hip hop (14.32%)
-	4: pop (9.05%)
-	5: dance pop (8.04%)
+	1: rap (16.62%)
+	2: hip hop (16.12%)
+	3: detroit hip hop (14.36%)
+	4: pop (9.07%)
+	5: dance pop (8.06%)
 Top artists
-	1: Harry Styles (1.32%)
-	2: Linkin Park (1.32%)
-	3: Xzibit (1.32%)
-	4: 50 Cent (1.32%)
-	5: Scouting For Girls (1.32%)
+	1: Nico & Vinz (1.32%)
+	2: will.i.am (1.32%)
+	3: Rihanna (1.32%)
+	4: The Script (1.32%)
+	5: Dean Lewis (1.32%)
 Top country
 	1: US (88.03%)
 	2: GB (5.13%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  117.000000    117.000000    117.000000        117.000000   117.000000  117.000000  117.000000  117.000000
-mean    61.914530      0.193373      0.683368          0.000341     0.201344  120.955940    0.528744    0.712532
-std     14.631433      0.233459      0.156744          0.001473     0.194845   31.963292    0.220534    0.167985
+mean    61.923077      0.193373      0.683368          0.000341     0.201344  120.955940    0.528744    0.712532
+std     14.630597      0.233459      0.156744          0.001473     0.194845   31.963292    0.220534    0.167985
 min      2.000000      0.000145      0.215000          0.000000     0.025700   68.423000    0.036000    0.095200
 25%     53.000000      0.031900      0.549000          0.000000     0.049300   94.667000    0.375000    0.626000
 50%     64.000000      0.102000      0.684000          0.000000     0.130000  114.003000    0.550000    0.735000

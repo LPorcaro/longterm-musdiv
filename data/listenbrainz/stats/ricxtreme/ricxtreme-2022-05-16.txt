@@ -1,19 +1,19 @@
-Electronic artists found: Marshmello,Bastille, League of Legends,Against The Current, Calvin Harris,Frank Ocean,Migos,Funk Wav, Ellie Goulding,Juice WRLD, MEDUZA,Goodboys, Hardwell,Mitch Crown, Joel Corry,Jax Jones,Charli XCX,Saweetie, Avicii, Janji,Johnning, Clean Bandit,Jess Glynne, Timmy Trumpet,Savage, R3HAB,Vini Vici,PANGEA,DEGO, ARTY,Griff Clawson, Lost Frequencies,Calum Scott, R3HAB,A Touch Of Class, Avicii,iSHi, Hippie Sabotage, JETFIRE,Mutiny,Kris Kiss, Yves V,Ilkay Sencan,Emie
-Electronic genres found: edm, brostep, tropical house, video game music, electro house, slap house, uplifting trance, russian edm, electronic trap, progressive house, belgian edm, uk funky, progressive electro house, pop edm, dutch house, gaming edm, melbourne bounce, melbourne bounce international
+Electronic artists found: Calvin Harris,Frank Ocean,Migos,Funk Wav, Joel Corry,Jax Jones,Charli XCX,Saweetie, JETFIRE,Mutiny,Kris Kiss, Avicii,iSHi, Marshmello,Bastille, Avicii, Hardwell,Mitch Crown, Yves V,Ilkay Sencan,Emie, ARTY,Griff Clawson, Lost Frequencies,Calum Scott, Janji,Johnning, R3HAB,A Touch Of Class, R3HAB,Vini Vici,PANGEA,DEGO, Timmy Trumpet,Savage, Clean Bandit,Jess Glynne, Ellie Goulding,Juice WRLD, Hippie Sabotage, MEDUZA,Goodboys, League of Legends,Against The Current
+Electronic genres found: progressive electro house, pop edm, video game music, melbourne bounce, uk funky, melbourne bounce international, slap house, russian edm, progressive house, electronic trap, electro house, belgian edm, gaming edm, uplifting trance, brostep, tropical house, edm, dutch house
 Electronic music logs found: 16.67% 
 
 Top genres
-	1: pop (11.02%)
-	2: dance pop (6.89%)
-	3: edm (4.68%)
-	4: hip hop tuga (3.86%)
-	5: pop dance (3.86%)
+	1: pop (10.99%)
+	2: dance pop (6.87%)
+	3: hip hop tuga (4.67%)
+	4: edm (4.67%)
+	5: pop dance (3.85%)
 Top artists
-	1: Deejay Telio (0.70%)
-	2: DEGO (0.70%)
-	3: Joey Cool (0.70%)
-	4: Ariana Grande (0.70%)
-	5: PNAU (0.70%)
+	1: Rihanna (0.70%)
+	2: Gama WNTD (0.70%)
+	3: Ellie Goulding (0.70%)
+	4: Jess Glynne (0.70%)
+	5: League of Legends (0.70%)
 Top country
 	1: US (40.83%)
 	2: GB (14.17%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  120.000000    120.000000    120.000000        120.000000   120.000000  120.000000  120.000000  120.000000
-mean    63.216667      0.252762      0.647792          0.025896     0.103551  123.158408    0.500071    0.672325
-std     19.102195      0.301443      0.137375          0.095474     0.102617   28.550616    0.235069    0.194195
+mean    63.091667      0.252762      0.647792          0.025896     0.103551  123.158408    0.500071    0.672325
+std     19.105631      0.301443      0.137375          0.095474     0.102617   28.550616    0.235069    0.194195
 min      2.000000      0.000041      0.268000          0.000000     0.024300   72.017000    0.057300    0.146000
 25%     50.750000      0.014400      0.542250          0.000000     0.039375   99.789250    0.302750    0.550000
-50%     69.000000      0.104000      0.662000          0.000004     0.051600  123.978000    0.499000    0.722000
+50%     68.000000      0.104000      0.662000          0.000004     0.051600  123.978000    0.499000    0.722000
 75%     77.250000      0.471000      0.751000          0.000195     0.136500  140.313500    0.691000    0.814000
 max     94.000000      0.959000      0.912000          0.657000     0.590000  185.077000    0.956000    0.970000

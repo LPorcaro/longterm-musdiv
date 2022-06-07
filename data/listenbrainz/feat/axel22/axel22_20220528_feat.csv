@@ -1,0 +1,36 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0pKMDhDrQExUqF6SxUpTpb	Ina Wroldsen,Alok	Favela	GBHMU1800042	53	norwegian pop,tropical house	0.0125	0.777	0.00233	0.0598	103.023	0.283	0.812
+698ItKASDavgwZ3WjaWjtz	Alan Walker	Faded	NOG841549010	77	electro house	0.0281	0.468	7.97e-06	0.0476	179.642	0.159	0.627
+64CWyO7g09fhVSsxqUuWXE	Moby,Debbie Harry	New York, New York (feat. Debbie Harry) - Extended	GBAJH0602038	25	downtempo,electronica	0.00038	0.561	5.1e-05	0.0331	130.0	0.212	0.876
+3o6D9gHkSumEECclUt0tCN	Dubdogz,Brannco,Rodrigo Luca	Dog Days	TCADU1833484	57	brazilian bass,brazilian edm	0.062	0.629	0.000224	0.0343	124.024	0.286	0.745
+3aQz0z86zrKjd1mcZlonxE	Guru Josh Project,Klaas	Infinity 2008 - Klaas Vocal Edit	DEHD60712073	72	acid house	0.000313	0.498	0.00941	0.0589	128.034	0.47	0.862
+4ilhAiU52ZiHlfmQbmfhWq	Jean-Michel Jarre	Fourth Rendez-Vous	DEE861400759	44	laboratorio,synthesizer,vintage french electronic	0.083	0.605	0.274	0.0312	132.508	0.498	0.815
+0TlC8s4PT0TD9oKGKCaLfJ	DANNE,ANICIO,VIPP Code	Tempo Perdido	QZ5FN1841167	47	brazilian edm	0.0173	0.68	0.000789	0.0312	123.971	0.149	0.752
+4tMPe8Yvkyfyld49AWhqWj	Moby	Where You End	GBAJH0403052	30	downtempo,electronica	0.0697	0.607	0.0738	0.0319	122.975	0.615	0.811
+7k5dNiHDR47XeeB7g4kfFu	Röyksopp	This Must Be It	FRZ110802637	38	alternative dance,big beat,downtempo,electronica,electropop,trip hop	0.00014	0.525	0.000335	0.0589	121.88	0.521	0.958
+6Pgkp4qUoTmJIPn7ReaGxL	Avicii,Sandro Cavazza	Without You (feat. Sandro Cavazza)	SE5R71700101	77	dance pop,edm,pop,pop dance,pop rap	0.00163	0.662	0.0	0.0428	133.993	0.295	0.858
+36xsgGPL8pgiAO9gzMZwpl	Carolina Marquez	The Killer's Song - The Killer's Song Club Edit	ITA810400270	52	italo dance	0.0281	0.759	0.0814	0.0512	127.984	0.608	0.974
+4lhqb6JvbHId48OUJGwymk	Avicii	Hey Brother	CH3131340084	76	dance pop,edm,pop,pop dance,pop rap	0.0309	0.545	4.64e-05	0.0436	125.014	0.458	0.78
+6JIC3hbC28JZKZ8AlAqX8h	Elton John,Dua Lipa,PNAU	Cold Heart - PNAU Remix	GBUM72104705	83	glam rock,mellow gold,piano rock	0.0354	0.795	7.25e-05	0.0309	116.032	0.934	0.8
+1Sm14ee7LxZN2H9nafPupr	Alok,Zeeba,Bruno Martini	Never Let Me Go	NLZ541700394	49	electro house,pop nacional,slap house	0.383	0.668	5.82e-06	0.038	123.992	0.493	0.774
+5Iy2Jj87Ha0C0IBlNE1I4y	Avicii	The Days	CH3131340471	66	dance pop,edm,pop,pop dance,pop rap	0.04	0.59	4.07e-05	0.0439	127.059	0.526	0.724
+5C4NMi4fPpdFPnMZVsyG8H	Axwell /\ Ingrosso,Axwell,Sebastian Ingrosso	Something New	USUG11401855	57	dance pop,edm,electro house,pop,pop dance,tropical house	0.0197	0.577	0.000462	0.0339	129.952	0.396	0.851
+4eDYMhIin1pSLIG96f1aD0	Avicii	Addicted To You	CH3131340085	68	dance pop,edm,pop,pop dance,pop rap	0.0505	0.569	1.12e-06	0.0457	128.031	0.303	0.785
+7uuo02BIR76qZ6ZXQhz7Ys	Safri Duo	Played-A-Live (The Bongo Song)	DKBKA0100501	63	eurodance,europop	0.0156	0.634	0.88	0.0569	137.997	0.202	0.97
+1HOlb9rdNOmy9b1Fakicjo	The Chainsmokers	#SELFIE	USDM31400016	63	dance pop,edm,electropop,pop,pop dance,tropical house	0.0135	0.789	8.09e-06	0.249	127.956	0.658	0.916
+7xQYVjs4wZNdCwO0EeAWMC	Underworld	Born Slippy (Nuxx)	UK7EF9500001	63	alternative dance,big beat,electronica	0.00106	0.576	0.49	0.0362	140.042	0.303	0.953
+7pqgMEKsDMOHUdFQ7n0N9K	David Guetta,Sam Martin	Dangerous (feat. Sam Martin)	GB28K1400036	65	big room,dance pop,edm,pop,pop dance,pop rap	0.417	0.466	9.76e-06	0.0795	92.161	0.43	0.747
+52LJ3hyknOijCrE5gCD0rE	Gigi D'Agostino	L'Amour Toujours	NLS241000174	71	eurodance,europop,italo dance	0.0771	0.638	0.0221	0.0302	139.052	0.743	0.877
+5vfjUAhefN7IjHbTvVCT4Z	Green Day	Holiday	USRE10500451	68	permanent wave,punk	0.000138	0.538	0.0	0.031	146.511	0.736	0.884
+3ZffCQKLFLUvYM59XKLbVm	Green Day	Wake Me up When September Ends	USRE10400992	74	permanent wave,punk	0.023	0.546	0.0	0.0314	104.98	0.146	0.814
+6nTiIhLmQ3FWhvrGafw2zj	Green Day	American Idiot	USRE10400888	76	permanent wave,punk	2.64e-05	0.38	7.86e-05	0.0639	186.113	0.769	0.988
+2Q22sa3Y4lKXHHBBAxEhYY	Green Day	Stray Heart	USRE11200482	54	permanent wave,punk	0.000504	0.628	0.000237	0.0402	104.041	0.743	0.943
+6clsmQJYrDXCFRJQElCKmN	Queen	These Are The Days Of Our Lives	GBCEE0900081	38	classic rock,glam rock,rock	0.432	0.683	7.36e-05	0.028	112.495	0.546	0.421
+1pWscEL17ssjbKXIS5nlQv	Tiësto,Bright Sparks	On My Way	CYA111600201	54	big room,brostep,dance pop,dutch edm,edm,house,pop,pop dance,slap house,trance,tropical house	0.00856	0.634	0.0	0.0346	123.977	0.539	0.775
+7mDtUkJQryQSqDV8DZJKbX	Michele Del Baldo	Torero camomillo	ITJ321100326	33	musica per bambini	0.22	0.76	0.000164	0.0463	139.781	0.713	0.568
+2rgtCOVK2tpfao2VjURn84	David Guetta,Sam Martin	Lovers on the Sun (feat. Sam Martin)	GB28K1400016	67	big room,dance pop,edm,pop,pop dance,pop rap	0.0932	0.645	3.88e-06	0.0387	124.915	0.568	0.891
+0nrRP2bk19rLc0orkWPQk2	Avicii	Wake Me Up	SEUM71301326	83	dance pop,edm,pop,pop dance,pop rap	0.0038	0.532	0.0012	0.0523	124.08	0.643	0.783
+39cmB3ZoTOLwOTq7tMNqKa	Alok,Zeeba,Bruno Martini	Hear Me Now (feat. Zeeba)	NLZ541600800	72	electro house,pop nacional,slap house	0.546	0.778	0.00289	0.0389	121.999	0.496	0.463
+28B3hPOLvDiW2Hah3Gnnci	Adriano Celentano	Il Tempo Se Ne Va	ITR058000013	50	classic italian pop,italian adult pop	0.497	0.604	8.11e-06	0.0347	121.217	0.64	0.508
+6qVXkG01rBYGfxIndGOQ3z	David Guetta	Shot Me Down (feat. Skylar Grey) - Radio Edit	GB28K1400001	59	big room,dance pop,edm,pop,pop dance,pop rap	0.0597	0.347	0.0333	0.0549	192.118	0.035	0.772
+5RYLa5P4qweEAKq5U1gdcK	Queen	A Kind Of Magic - Remastered 2011	GBUM71029621	67	classic rock,glam rock,rock	0.0184	0.67	0.00294	0.0356	130.128	0.703	0.776

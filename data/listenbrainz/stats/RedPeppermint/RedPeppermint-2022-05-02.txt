@@ -1,0 +1,44 @@
+Electronic artists found: Miracle Of Sound
+Electronic genres found: video game music
+Electronic music logs found: 6.67% 
+
+Top genres
+	1: alternative metal (13.04%)
+	2: german metal (13.04%)
+	3: industrial (13.04%)
+	4: industrial metal (13.04%)
+	5: industrial rock (13.04%)
+Top artists
+	1: Miracle Of Sound (20.00%)
+	2: Nomy (20.00%)
+	3: Rammstein (20.00%)
+	4: Flower Face (20.00%)
+	5: Die Ärzte (20.00%)
+Top country
+	1: DE (73.33%)
+	2: SE (13.33%)
+	3: QM (6.67%)
+	4: TC (6.67%)
+Top record
+	1: N12 (33.33%)
+	2: UM7 (20.00%)
+	3: YOK (13.33%)
+	4: F08 (6.67%)
+	5: D57 (6.67%)
+Top year
+	1: 04 (13.33%)
+	2: 01 (13.33%)
+	3: 11 (6.67%)
+	4: 95 (6.67%)
+	5: 19 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   15.000000     15.000000     15.000000         15.000000    15.000000   15.000000  15.000000  15.000000
+mean    48.466667      0.080530      0.526200          0.034788     0.071187  128.009667   0.405420   0.816533
+std     19.715355      0.207774      0.094438          0.088423     0.076041   31.844092   0.224821   0.164874
+min      7.000000      0.000091      0.336000          0.000000     0.029600   83.046000   0.052300   0.382000
+25%     38.000000      0.001900      0.496000          0.000009     0.036500  103.051500   0.237500   0.781500
+50%     53.000000      0.007770      0.522000          0.000044     0.045000  125.105000   0.361000   0.892000
+75%     63.500000      0.067750      0.607000          0.020800     0.056950  146.028500   0.577500   0.914500
+max     71.000000      0.817000      0.652000          0.346000     0.310000  186.989000   0.760000   0.966000

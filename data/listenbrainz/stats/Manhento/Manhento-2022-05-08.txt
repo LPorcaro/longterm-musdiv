@@ -1,0 +1,45 @@
+Electronic artists found: The xx, Jamie xx, Jamie xx,Romy, FKA twigs,Shygirl
+Electronic genres found: future garage, trip hop, electronica, downtempo
+Electronic music logs found: 14.81% 
+
+Top genres
+	1: rap (11.65%)
+	2: hip hop (7.77%)
+	3: alternative r&b (5.83%)
+	4: pop (4.85%)
+	5: r&b (4.85%)
+Top artists
+	1: Daniel Caesar (3.03%)
+	2: James Blake (3.03%)
+	3: FKA twigs (3.03%)
+	4: Dino d'Santiago (3.03%)
+	5: Drake (3.03%)
+Top country
+	1: US (66.67%)
+	2: UK (11.11%)
+	3: GB (7.41%)
+	4: PT (7.41%)
+	5: TC (3.70%)
+Top record
+	1: UM7 (18.52%)
+	2: AT2 (14.81%)
+	3: SM1 (11.11%)
+	4: RC1 (11.11%)
+	5: 7MC (7.41%)
+Top year
+	1: 22 (22.22%)
+	2: 18 (18.52%)
+	3: 19 (14.81%)
+	4: 17 (11.11%)
+	5: 16 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
+mean    59.518519      0.390065      0.667593          0.075423     0.158181  130.460333   0.406704   0.539148
+std     13.687081      0.288990      0.131706          0.213252     0.125451   27.212272   0.162943   0.116235
+min     25.000000      0.004620      0.359000          0.000000     0.027000   94.997000   0.152000   0.292000
+25%     53.000000      0.122000      0.617000          0.000000     0.064050  107.407000   0.311500   0.487000
+50%     61.000000      0.428000      0.649000          0.000009     0.120000  129.938000   0.396000   0.525000
+75%     69.500000      0.584500      0.733500          0.002257     0.267500  144.940500   0.463500   0.618000
+max     81.000000      0.891000      0.902000          0.925000     0.460000  199.976000   0.767000   0.782000

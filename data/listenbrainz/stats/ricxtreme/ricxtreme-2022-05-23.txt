@@ -1,19 +1,19 @@
-Electronic artists found: Danni Gato,Rafa G, Lost Frequencies,Calum Scott, Hippie Sabotage, Surf Mesa,Emilee, League of Legends,Cailin Russo,Chrissy Costanza, Joel Corry,MNEK
-Electronic genres found: edm, tropical house, video game music, electronic trap, kuduro, belgian edm
+Electronic artists found: Joel Corry,MNEK, Hippie Sabotage, Danni Gato,Rafa G, League of Legends,Cailin Russo,Chrissy Costanza, Surf Mesa,Emilee, Lost Frequencies,Calum Scott
+Electronic genres found: video game music, kuduro, electronic trap, belgian edm, tropical house, edm
 Electronic music logs found: 6.67% 
 
 Top genres
-	1: hip hop tuga (31.84%)
-	2: trap tuga (11.17%)
-	3: pop (7.26%)
-	4: rap criolo (5.03%)
-	5: modern rock (2.23%)
+	1: hip hop tuga (31.67%)
+	2: trap tuga (11.11%)
+	3: pop (7.22%)
+	4: rap criolo (5.00%)
+	5: modern rock (2.22%)
 Top artists
-	1: Yung Trip (0.93%)
-	2: Yuran (0.93%)
-	3: Deejay Telio (0.93%)
-	4: Ivandro (0.93%)
-	5: Ariana Grande (0.93%)
+	1: Surf Mesa (0.93%)
+	2: Gama WNTD (0.93%)
+	3: Myles 6ix (0.93%)
+	4: Mizzy Miles (0.93%)
+	5: League of Legends (0.93%)
 Top country
 	1: PT (48.57%)
 	2: US (17.14%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness      tempo     valence      energy
 count  105.000000    105.000000    105.000000        105.000000   105.000000  105.00000  105.000000  105.000000
-mean    52.609524      0.378126      0.696048          0.012522     0.160742  112.09901    0.463611    0.601562
-std     18.325316      0.264789      0.117588          0.067689     0.122092   26.34369    0.202435    0.136067
-min     20.000000      0.000041      0.391000          0.000000     0.027900   63.10000    0.073800    0.232000
+mean    52.552381      0.378126      0.696048          0.012522     0.160742  112.09901    0.463611    0.601562
+std     18.315599      0.264789      0.117588          0.067689     0.122092   26.34369    0.202435    0.136067
+min     19.000000      0.000041      0.391000          0.000000     0.027900   63.10000    0.073800    0.232000
 25%     41.000000      0.141000      0.636000          0.000000     0.064800   94.04300    0.317000    0.510000
 50%     45.000000      0.380000      0.717000          0.000004     0.113000  106.99800    0.447000    0.615000
 75%     67.000000      0.605000      0.789000          0.000250     0.235000  124.98400    0.593000    0.695000

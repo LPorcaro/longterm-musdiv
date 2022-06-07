@@ -1,0 +1,41 @@
+Electronic artists found: The Weather Girls, Michael Sembello
+Electronic genres found: hi-nrg, disco
+Electronic music logs found: 18.18% 
+
+Top genres
+	1: bergamo indie (16.13%)
+	2: italian indie pop (16.13%)
+	3: italian pop (16.13%)
+	4: milan indie (16.13%)
+	5: europop (12.90%)
+Top artists
+	1: Pinguini Tattici Nucleari (25.00%)
+	2: ABBA (25.00%)
+	3: The Weather Girls (25.00%)
+	4: Michael Sembello (25.00%)
+Top country
+	1: IT (45.45%)
+	2: SE (36.36%)
+	3: US (18.18%)
+Top record
+	1: B00 (45.45%)
+	2: AYD (36.36%)
+	3: SM1 (9.09%)
+	4: PR3 (9.09%)
+Top year
+	1: 20 (45.45%)
+	2: 79 (18.18%)
+	3: 99 (9.09%)
+	4: 80 (9.09%)
+	5: 76 (9.09%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   11.000000     11.000000     11.000000         11.000000    11.000000   11.000000  11.000000  11.000000
+mean    67.000000      0.167255      0.662636          0.002146     0.060282  129.865000   0.637091   0.725909
+std      9.154234      0.144350      0.074220          0.003579     0.037864   21.464834   0.131728   0.166768
+min     52.000000      0.020000      0.543000          0.000000     0.025800   89.986000   0.378000   0.491000
+25%     60.500000      0.068400      0.617000          0.000000     0.037100  119.528000   0.544000   0.592500
+50%     69.000000      0.123000      0.678000          0.000004     0.041100  135.071000   0.651000   0.743000
+75%     74.000000      0.242000      0.720500          0.002449     0.074600  138.072500   0.732000   0.881500
+max     79.000000      0.451000      0.749000          0.008990     0.137000  160.021000   0.835000   0.925000

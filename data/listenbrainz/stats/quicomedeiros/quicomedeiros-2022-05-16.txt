@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: brooklyn drill (37.84%)
-	2: hip hop tuga (5.41%)
-	3: chicago rap (5.41%)
-	4: pop (5.41%)
-	5: pop rap (5.41%)
+	1: brooklyn drill (40.00%)
+	2: chicago rap (5.71%)
+	3: pop (5.71%)
+	4: pop rap (5.71%)
+	5: new york drill (2.86%)
 Top artists
-	1: 6ix9ine (4.17%)
-	2: DaBaby (4.17%)
-	3: Roddy Ricch (4.17%)
-	4: 24kGoldn (4.17%)
-	5: Aya Nakamura (4.17%)
+	1: Rihanna (4.17%)
+	2: Chris Brown (4.17%)
+	3: NAV (4.17%)
+	4: Holly-Hood (4.17%)
+	5: Murda Beatz (4.17%)
 Top country
 	1: US (83.33%)
 	2: QM (8.33%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   24.000000     24.000000     24.000000         24.000000    24.000000   24.000000  24.000000  24.000000
-mean    65.250000      0.206481      0.711792          0.000003     0.235137  122.901750   0.432208   0.628875
-std     12.251885      0.188618      0.116353          0.000006     0.122165   28.322808   0.166766   0.103819
+mean    65.333333      0.206481      0.711792          0.000003     0.235137  122.901750   0.432208   0.628875
+std     12.153606      0.188618      0.116353          0.000006     0.122165   28.322808   0.166766   0.103819
 min     38.000000      0.008150      0.490000          0.000000     0.032600   61.311000   0.167000   0.387000
 25%     59.750000      0.069275      0.608250          0.000000     0.173750   99.754000   0.315500   0.572000
 50%     69.500000      0.146500      0.731500          0.000000     0.204000  125.938500   0.373000   0.633000

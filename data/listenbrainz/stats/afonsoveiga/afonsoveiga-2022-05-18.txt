@@ -1,19 +1,19 @@
-Electronic artists found: Travis Scott, Mac DeMarco
+Electronic artists found: Mac DeMarco, Travis Scott
 Electronic genres found: edmonton indie, slap house
 Electronic music logs found: 1.50% 
 
 Top genres
-	1: hip hop (10.19%)
-	2: rap (9.37%)
-	3: pop (6.61%)
-	4: hip hop tuga (4.41%)
-	5: modern rock (4.13%)
+	1: hip hop (10.63%)
+	2: rap (9.26%)
+	3: pop (6.54%)
+	4: hip hop tuga (4.36%)
+	5: modern rock (4.09%)
 Top artists
-	1: Dominic Fike (1.02%)
-	2: Nile Rodgers (1.02%)
-	3: Slow J (1.02%)
-	4: Camille (1.02%)
-	5: Regula (1.02%)
+	1: JID (1.02%)
+	2: Oaoji Odialevi (1.02%)
+	3: Daft Punk (1.02%)
+	4: bbno$ (1.02%)
+	5: Slow J (1.02%)
 Top country
 	1: US (45.86%)
 	2: GB (12.03%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  133.000000    133.000000    133.000000        133.000000   133.000000  133.000000  133.000000  133.000000
-mean    55.368421      0.503702      0.616338          0.062425     0.127823  114.126707    0.434598    0.488748
-std     15.553171      0.306544      0.139997          0.170634     0.131665   32.128755    0.218129    0.190129
+mean    55.263158      0.503702      0.616338          0.062425     0.127823  114.126707    0.434598    0.488748
+std     15.527051      0.306544      0.139997          0.170634     0.131665   32.128755    0.218129    0.190129
 min      9.000000      0.002110      0.216000          0.000000     0.025600   63.251000    0.037600    0.009440
 25%     45.000000      0.191000      0.531000          0.000002     0.038400   87.500000    0.293000    0.342000
 50%     58.000000      0.570000      0.621000          0.000232     0.062300  111.059000    0.420000    0.478000

@@ -1,0 +1,930 @@
+[
+    {
+        "listened_at": "2022-05-27T09:27:47",
+        "track_name": "Feel",
+        "artist_name": "While She Sleeps",
+        "release_name": "You Are We",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/16TBGCOSHkBnVZ4cqXACul",
+        "listening_from": "spotify",
+        "isrc": "FR10S1764382",
+        "additional_info": {
+            "artist_msid": "569b742d-1a8d-470d-9b3f-113c68d11016",
+            "artist_names": [
+                "While She Sleeps"
+            ],
+            "discnumber": 1,
+            "duration_ms": 279671,
+            "isrc": "FR10S1764382",
+            "listening_from": "spotify",
+            "recording_msid": "d6f4b052-1ad3-4c59-b7ed-acd8dffaaee4",
+            "release_artist_name": "While She Sleeps",
+            "release_artist_names": [
+                "While She Sleeps"
+            ],
+            "release_msid": "492cfdde-1fe7-4a11-88cb-bcf5038408b4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3xrOPnlP48SkQ4hzqssnis",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+            ],
+            "spotify_id": "https://open.spotify.com/track/16TBGCOSHkBnVZ4cqXACul",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T09:26:28",
+        "track_name": "Papercut",
+        "artist_name": "Linkin Park",
+        "release_name": "Hybrid Theory (Bonus Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1",
+        "listening_from": "spotify",
+        "isrc": "USWB10002403",
+        "additional_info": {
+            "artist_msid": "1b173852-64e9-4c7f-8ed7-01ce6158a6fd",
+            "artist_names": [
+                "Linkin Park"
+            ],
+            "discnumber": 1,
+            "duration_ms": 184866,
+            "isrc": "USWB10002403",
+            "listening_from": "spotify",
+            "recording_msid": "5c65dd43-26da-46a5-9d33-61feb770c144",
+            "release_artist_name": "Linkin Park",
+            "release_artist_names": [
+                "Linkin Park"
+            ],
+            "release_msid": "617d1d32-c62d-4648-ba22-646739f9a269",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T09:23:07",
+        "track_name": "Final Warning",
+        "artist_name": "NLE Choppa",
+        "release_name": "Final Warning",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3LVcKphzONOdQ2EATazlZq",
+        "listening_from": "spotify",
+        "isrc": "USWB12101188",
+        "additional_info": {
+            "artist_msid": "e841a0d4-08a1-4ac5-9004-b90ba701f983",
+            "artist_names": [
+                "NLE Choppa"
+            ],
+            "discnumber": 1,
+            "duration_ms": 156894,
+            "isrc": "USWB12101188",
+            "listening_from": "spotify",
+            "recording_msid": "93ab79ac-5c8b-43b4-a6fc-80b606d4840c",
+            "release_artist_name": "NLE Choppa",
+            "release_artist_names": [
+                "NLE Choppa"
+            ],
+            "release_msid": "a0e3183a-42ab-45fa-bafc-d1681fe24f67",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7MJhmpSt8rHsk44vyrBQvh",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3LVcKphzONOdQ2EATazlZq",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T09:20:31",
+        "track_name": "Down Me",
+        "artist_name": "King Von, Lil Durk",
+        "release_name": "Levon James",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/6to1tNRE8t1WuTSdvDnsmw",
+        "listening_from": "spotify",
+        "isrc": "USUYG1296666",
+        "additional_info": {
+            "artist_msid": "13ff532b-c1ce-48cf-ac16-20e1923b9454",
+            "artist_names": [
+                "King Von",
+                "Lil Durk"
+            ],
+            "discnumber": 1,
+            "duration_ms": 122666,
+            "isrc": "USUYG1296666",
+            "listening_from": "spotify",
+            "recording_msid": "d388bdaa-c0fc-4abc-bb2c-d5fcdcbc264a",
+            "release_artist_name": "King Von",
+            "release_artist_names": [
+                "King Von"
+            ],
+            "release_msid": "fdb1a815-5260-4704-8ab1-31adf2304fb7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp",
+                "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6to1tNRE8t1WuTSdvDnsmw",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T09:16:44",
+        "track_name": "N\u00f3s Pimba",
+        "artist_name": "Chico da Tina",
+        "release_name": "N\u00f3s Pimba",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/41vGMNuSiFf7K8ZDPzix6z",
+        "listening_from": "spotify",
+        "isrc": "PTBM12100155",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 208275,
+            "isrc": "PTBM12100155",
+            "listening_from": "spotify",
+            "recording_msid": "3481da26-b242-4288-9a92-12a25349129f",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "0adbbc36-c48b-47c9-b922-99da17760dab",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2KJzKh3Po3vQbxIV0nB1V0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/41vGMNuSiFf7K8ZDPzix6z",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T09:11:19",
+        "track_name": "Jumpin (feat. Polo G)",
+        "artist_name": "NLE Choppa, Polo G",
+        "release_name": "Jumpin (feat. Polo G)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA",
+        "listening_from": "spotify",
+        "isrc": "USWB12104153",
+        "additional_info": {
+            "artist_msid": "888a9e20-d1ed-4e90-b517-5e4cbdf04d5e",
+            "artist_names": [
+                "NLE Choppa",
+                "Polo G"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181198,
+            "isrc": "USWB12104153",
+            "listening_from": "spotify",
+            "recording_msid": "1e043c16-4a6c-4727-b20e-07ad039f7272",
+            "release_artist_name": "NLE Choppa",
+            "release_artist_names": [
+                "NLE Choppa"
+            ],
+            "release_msid": "b49ae885-bf22-495f-b67a-2e45535c8d6a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ",
+                "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T09:07:42",
+        "track_name": "Sauce",
+        "artist_name": "Sippinpurpp",
+        "release_name": "3880",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/6CcPsOriKrXYQifRgg617q",
+        "listening_from": "spotify",
+        "isrc": "PT7HL1800002",
+        "additional_info": {
+            "artist_msid": "75d38952-732b-4f1f-b95b-a98ed2b2ff7f",
+            "artist_names": [
+                "Sippinpurpp"
+            ],
+            "discnumber": 1,
+            "duration_ms": 180800,
+            "isrc": "PT7HL1800002",
+            "listening_from": "spotify",
+            "recording_msid": "105e0bdb-14e3-4574-bb58-2db68e9fd118",
+            "release_artist_name": "Sippinpurpp",
+            "release_artist_names": [
+                "Sippinpurpp"
+            ],
+            "release_msid": "ce65dfa5-8c1b-4321-a1b8-93cc8bed0a53",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7wlhXUS16ath1YNJOfIxZk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6CcPsOriKrXYQifRgg617q",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T19:15:16",
+        "track_name": "No Love/No One",
+        "artist_name": "Gideon",
+        "release_name": "No Love/No One",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3p2dIJEHSRvY9tiPFkHL5A",
+        "listening_from": "spotify",
+        "isrc": "ITH711900011",
+        "additional_info": {
+            "artist_msid": "5501633c-dbf1-4728-a91d-89a2d879d9db",
+            "artist_names": [
+                "Gideon"
+            ],
+            "discnumber": 1,
+            "duration_ms": 208950,
+            "isrc": "ITH711900011",
+            "listening_from": "spotify",
+            "recording_msid": "f7b01396-368b-4724-b183-bda7bef6dfc6",
+            "release_artist_name": "Gideon",
+            "release_artist_names": [
+                "Gideon"
+            ],
+            "release_msid": "b4fe2415-273e-4fa5-8797-ee9878c73b53",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3pqRbzSeA7Weo0wYpTHgWn",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3p2dIJEHSRvY9tiPFkHL5A",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T19:14:49",
+        "track_name": "All My Life",
+        "artist_name": "Attack Attack!",
+        "release_name": "Long Time, No Sea (Expanded Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV",
+        "listening_from": "spotify",
+        "isrc": "QMBZ92067544",
+        "additional_info": {
+            "artist_msid": "2ee7d03b-6cfe-4fde-a480-9d25885536ea",
+            "artist_names": [
+                "Attack Attack!"
+            ],
+            "discnumber": 1,
+            "duration_ms": 184285,
+            "isrc": "QMBZ92067544",
+            "listening_from": "spotify",
+            "recording_msid": "d4577477-afab-43ed-bdc1-a475b29599cf",
+            "release_artist_name": "Attack Attack!",
+            "release_artist_names": [
+                "Attack Attack!"
+            ],
+            "release_msid": "20ff00ce-c40c-4c2e-92d1-664620bd1004",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T19:11:00",
+        "track_name": "Mobilete",
+        "artist_name": "Chico da Tina",
+        "release_name": "Trapalhadas",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/1tP6DRhhZp7wOO6uDlQU7x",
+        "listening_from": "spotify",
+        "isrc": "PTRO11900176",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 200341,
+            "isrc": "PTRO11900176",
+            "listening_from": "spotify",
+            "recording_msid": "df5676ec-b344-4b8f-92b4-a178b58d4a61",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "d0a7ee1e-c335-4070-853c-48e160115589",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1dgBxgMNNuHZfQ4LPLemmp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1tP6DRhhZp7wOO6uDlQU7x",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T19:07:46",
+        "track_name": "Cabral Moncada",
+        "artist_name": "Chico da Tina",
+        "release_name": "Minho Trapstar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/30hCN3CScr37CEsaP4W3nj",
+        "listening_from": "spotify",
+        "isrc": "PTRO11900259",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 121338,
+            "isrc": "PTRO11900259",
+            "listening_from": "spotify",
+            "recording_msid": "bf923716-e886-4d83-b236-574feb4b7a8f",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "0880b62e-dfe5-4897-b36c-a9a6e96c59c7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0yYXwzzUbmYn27MBwh3jGN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/30hCN3CScr37CEsaP4W3nj",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T13:45:12",
+        "track_name": "Sou Rei",
+        "artist_name": "Chico da Tina",
+        "release_name": "Minho Trapstar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/1lHuBeQW6evlvuxAYxv7YC",
+        "listening_from": "spotify",
+        "isrc": "PTRO11900240",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 169142,
+            "isrc": "PTRO11900240",
+            "listening_from": "spotify",
+            "recording_msid": "1653c211-ad38-4b86-a0f1-3fa371eec5fb",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "0880b62e-dfe5-4897-b36c-a9a6e96c59c7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0yYXwzzUbmYn27MBwh3jGN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1lHuBeQW6evlvuxAYxv7YC",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T13:42:07",
+        "track_name": "N\u00f3s Pimba",
+        "artist_name": "Chico da Tina",
+        "release_name": "E Agora Como \u00c9 Que \u00c9",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT",
+        "listening_from": "spotify",
+        "isrc": "PTBM12100155",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 208275,
+            "isrc": "PTBM12100155",
+            "listening_from": "spotify",
+            "recording_msid": "5d462de9-addc-4734-b690-72018e50eaa4",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "6129b7ca-e743-4ca3-81e0-d00bebad358a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T11:37:20",
+        "track_name": "SHOPPING",
+        "artist_name": "Chico da Tina",
+        "release_name": "E Agora Como \u00c9 Que \u00c9",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/2iVyWsyIU955myZTJS35Uh",
+        "listening_from": "spotify",
+        "isrc": "PTBM12100149",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 166000,
+            "isrc": "PTBM12100149",
+            "listening_from": "spotify",
+            "recording_msid": "b65398e4-0697-4b72-8990-32b74c085928",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "6129b7ca-e743-4ca3-81e0-d00bebad358a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2iVyWsyIU955myZTJS35Uh",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T19:54:41",
+        "track_name": "Doomsday",
+        "artist_name": "Architects",
+        "release_name": "Holy Hell",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt",
+        "listening_from": "spotify",
+        "isrc": "USEP41735003",
+        "additional_info": {
+            "artist_msid": "6b200299-1dbc-4079-a262-2776b7e92f35",
+            "artist_names": [
+                "Architects"
+            ],
+            "discnumber": 1,
+            "duration_ms": 248880,
+            "isrc": "USEP41735003",
+            "listening_from": "spotify",
+            "recording_msid": "5ae9e88f-0387-498c-8c7a-deed6aa2cabf",
+            "release_artist_name": "Architects",
+            "release_artist_names": [
+                "Architects"
+            ],
+            "release_msid": "543031bc-5076-46e8-9bc6-521d6a374ecf",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+            ],
+            "spotify_id": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T19:50:33",
+        "track_name": "Animals",
+        "artist_name": "Architects",
+        "release_name": "For Those That Wish To Exist",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz",
+        "listening_from": "spotify",
+        "isrc": "USEP42058010",
+        "additional_info": {
+            "artist_msid": "6b200299-1dbc-4079-a262-2776b7e92f35",
+            "artist_names": [
+                "Architects"
+            ],
+            "discnumber": 1,
+            "duration_ms": 244364,
+            "isrc": "USEP42058010",
+            "listening_from": "spotify",
+            "recording_msid": "d589abb4-c550-4593-89e9-22b81e4eadb8",
+            "release_artist_name": "Architects",
+            "release_artist_names": [
+                "Architects"
+            ],
+            "release_msid": "e7456726-14d8-4981-8664-94e13f980c29",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T19:46:15",
+        "track_name": "when we were young",
+        "artist_name": "Architects",
+        "release_name": "when we were young",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox",
+        "listening_from": "spotify",
+        "isrc": "USEP42222006",
+        "additional_info": {
+            "artist_msid": "6b200299-1dbc-4079-a262-2776b7e92f35",
+            "artist_names": [
+                "Architects"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193886,
+            "isrc": "USEP42222006",
+            "listening_from": "spotify",
+            "recording_msid": "137a31b2-a01f-440e-82f0-2493b7fd53b6",
+            "release_artist_name": "Architects",
+            "release_artist_names": [
+                "Architects"
+            ],
+            "release_msid": "2f76bc3a-b4f6-44dd-96f4-3affc5f8df0c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T19:43:03",
+        "track_name": "The Hell I Overcame",
+        "artist_name": "Bad Omens",
+        "release_name": "Finding God Before God Finds Me",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/2PRHWq5uWiCfjYprnvYPrf",
+        "listening_from": "spotify",
+        "isrc": "USYFZ1808701",
+        "additional_info": {
+            "artist_msid": "14520fee-cfe9-4dce-8e5d-3c148e08ee54",
+            "artist_names": [
+                "Bad Omens"
+            ],
+            "discnumber": 1,
+            "duration_ms": 214399,
+            "isrc": "USYFZ1808701",
+            "listening_from": "spotify",
+            "recording_msid": "2ac09ebb-0e2c-4ff4-99f4-facba8250ec3",
+            "release_artist_name": "Bad Omens",
+            "release_artist_names": [
+                "Bad Omens"
+            ],
+            "release_msid": "c6cd636c-6348-4a3d-81ce-646501328ca9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6lhfQyYPcupBJC2oICae7J",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2PRHWq5uWiCfjYprnvYPrf",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T19:39:28",
+        "track_name": "Burning Out",
+        "artist_name": "Bad Omens",
+        "release_name": "Finding God Before God Finds Me",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/6fI30hZt8ONFq9IYdcsKHc",
+        "listening_from": "spotify",
+        "isrc": "USYFZ1917809",
+        "additional_info": {
+            "artist_msid": "14520fee-cfe9-4dce-8e5d-3c148e08ee54",
+            "artist_names": [
+                "Bad Omens"
+            ],
+            "discnumber": 1,
+            "duration_ms": 265400,
+            "isrc": "USYFZ1917809",
+            "listening_from": "spotify",
+            "recording_msid": "3d259dd8-cc64-475d-9d58-a9a6030a47ad",
+            "release_artist_name": "Bad Omens",
+            "release_artist_names": [
+                "Bad Omens"
+            ],
+            "release_msid": "c6cd636c-6348-4a3d-81ce-646501328ca9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6lhfQyYPcupBJC2oICae7J",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6fI30hZt8ONFq9IYdcsKHc",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T19:34:25",
+        "track_name": "Severance",
+        "artist_name": "Allt",
+        "release_name": "The Seed of Self-Destruction",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q",
+        "listening_from": "spotify",
+        "isrc": "QZES52294022",
+        "additional_info": {
+            "artist_msid": "f552f374-b004-4408-87a1-c98fc0008943",
+            "artist_names": [
+                "Allt"
+            ],
+            "discnumber": 1,
+            "duration_ms": 243722,
+            "isrc": "QZES52294022",
+            "listening_from": "spotify",
+            "recording_msid": "c204778b-abb1-4cff-9f73-d443fbf977e2",
+            "release_artist_name": "Allt",
+            "release_artist_names": [
+                "Allt"
+            ],
+            "release_msid": "bd332090-313d-4063-86f3-b7e572e14063",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T13:37:03",
+        "track_name": "Cabral Moncada",
+        "artist_name": "Chico da Tina",
+        "release_name": "Minho Trapstar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/0zU8RMlTsfY41BCQfDsOWH",
+        "listening_from": "spotify",
+        "isrc": "PTRO11900259",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 121338,
+            "isrc": "PTRO11900259",
+            "listening_from": "spotify",
+            "recording_msid": "7106ea6e-cb07-42a2-94a9-5362550eab36",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "0880b62e-dfe5-4897-b36c-a9a6e96c59c7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5noYZcD373usaGINaVqZsK",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0zU8RMlTsfY41BCQfDsOWH",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T21:15:28",
+        "track_name": "N\u00f3s Pimba",
+        "artist_name": "Chico da Tina",
+        "release_name": "E Agora Como \u00c9 Que \u00c9",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT",
+        "listening_from": "spotify",
+        "isrc": "PTBM12100155",
+        "additional_info": {
+            "artist_msid": "6188bb8d-ebff-4aec-bc2c-9909f9c3200f",
+            "artist_names": [
+                "Chico da Tina"
+            ],
+            "discnumber": 1,
+            "duration_ms": 208275,
+            "isrc": "PTBM12100155",
+            "listening_from": "spotify",
+            "recording_msid": "5d462de9-addc-4734-b690-72018e50eaa4",
+            "release_artist_name": "Chico da Tina",
+            "release_artist_names": [
+                "Chico da Tina"
+            ],
+            "release_msid": "6129b7ca-e743-4ca3-81e0-d00bebad358a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+            ],
+            "spotify_id": "https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT",
+            "tracknumber": 9
+        },
+        "username": null
+    }
+]

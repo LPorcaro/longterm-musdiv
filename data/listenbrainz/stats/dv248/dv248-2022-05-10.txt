@@ -1,19 +1,19 @@
 Electronic artists found: Lost Frequencies,Calum Scott
-Electronic genres found: tropical house, edm, belgian edm
+Electronic genres found: belgian edm, tropical house, edm
 Electronic music logs found: 5.26% 
 
 Top genres
-	1: portuguese pop (13.89%)
-	2: hip hop tuga (13.89%)
-	3: pop rap (8.33%)
-	4: reggae tuga (8.33%)
-	5: rap angolano (8.33%)
+	1: portuguese pop (14.29%)
+	2: hip hop tuga (11.43%)
+	3: pop rap (8.57%)
+	4: reggae tuga (8.57%)
+	5: rap angolano (8.57%)
 Top artists
-	1: Muni Long (4.55%)
-	2: Lhast (4.55%)
-	3: Slow J (4.55%)
-	4: Chunkz (4.55%)
-	5: Julinho Ksd (4.55%)
+	1: Young Family (4.55%)
+	2: Ivandro (4.55%)
+	3: Trx Music (4.55%)
+	4: Bazanji (4.55%)
+	5: Russ (4.55%)
 Top country
 	1: PT (31.58%)
 	2: QZ (26.32%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   19.000000     19.000000     19.000000         19.000000    19.000000   19.000000  19.000000  19.000000
-mean    49.789474      0.458353      0.614105          0.016489     0.151000  113.759842   0.470105   0.540842
-std     15.153214      0.283246      0.123236          0.053950     0.110621   29.011838   0.166443   0.143328
+mean    49.842105      0.458353      0.614105          0.016489     0.151000  113.759842   0.470105   0.540842
+std     15.170377      0.283246      0.123236          0.053950     0.110621   29.011838   0.166443   0.143328
 min     22.000000      0.058500      0.356000          0.000000     0.041300   63.100000   0.201000   0.252000
 25%     40.000000      0.160000      0.534500          0.000000     0.080650   87.805000   0.335000   0.451500
 50%     48.000000      0.516000      0.607000          0.000000     0.103000  120.000000   0.478000   0.503000
-75%     55.000000      0.635500      0.684000          0.000231     0.184000  139.735000   0.598500   0.637500
+75%     55.500000      0.635500      0.684000          0.000231     0.184000  139.735000   0.598500   0.637500
 max     90.000000      0.959000      0.843000          0.233000     0.421000  150.096000   0.780000   0.813000

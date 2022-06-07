@@ -1,0 +1,45 @@
+Electronic artists found: Paradis, Mauro Pastrana, Metronomy
+Electronic genres found: nu disco, electronica, kuduro
+Electronic music logs found: 2.86% 
+
+Top genres
+	1: pop (7.94%)
+	2: dance pop (4.69%)
+	3: hip hop tuga (4.33%)
+	4: rap (2.89%)
+	5: modern rock (2.89%)
+Top artists
+	1:  Charlie Brown (0.82%)
+	2: Moncho Chavea (0.82%)
+	3: Mauro Pastrana (0.82%)
+	4: Niño de Elche (0.82%)
+	5: Daft Punk (0.82%)
+Top country
+	1: US (37.14%)
+	2: PT (20.00%)
+	3: GB (14.29%)
+	4: ES (5.71%)
+	5: TC (3.81%)
+Top record
+	1: UM7 (15.24%)
+	2: SM1 (5.71%)
+	3: RO1 (3.81%)
+	4: RC1 (3.81%)
+	5: 8HB (3.81%)
+Top year
+	1: 20 (13.33%)
+	2: 18 (13.33%)
+	3: 19 (12.38%)
+	4: 16 (10.48%)
+	5: 17 (8.57%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  105.000000    105.000000    105.000000        105.000000   105.000000  105.000000  105.000000  105.000000
+mean    51.257143      0.264412      0.676095          0.060428     0.145842  115.831724    0.477269    0.600752
+std     20.027399      0.283019      0.171563          0.166977     0.147681   28.092666    0.252783    0.167298
+min      5.000000      0.000135      0.235000          0.000000     0.025700   70.956000    0.038900    0.153000
+25%     37.000000      0.047800      0.540000          0.000001     0.043800   94.964000    0.282000    0.487000
+50%     54.000000      0.126000      0.712000          0.000082     0.078000  113.236000    0.445000    0.624000
+75%     67.000000      0.399000      0.798000          0.009760     0.229000  128.954000    0.690000    0.713000
+max     85.000000      0.944000      0.967000          0.867000     0.884000  215.572000    0.977000    0.948000

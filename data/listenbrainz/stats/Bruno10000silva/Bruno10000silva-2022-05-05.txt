@@ -1,0 +1,34 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: deep underground hip hop (20.00%)
+	2: kentucky hip hop (20.00%)
+	3: rap (20.00%)
+	4: drill espanol (20.00%)
+	5: trap latino (20.00%)
+Top artists
+	1: Jack Harlow (25.00%)
+	2: Beny Jr (25.00%)
+	3: Morad (25.00%)
+	4: K y B (25.00%)
+Top country
+	1: US (50.00%)
+	2: ES (50.00%)
+Top record
+	1: AT2 (50.00%)
+	2: 71G (50.00%)
+Top year
+	1: 22 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000       2.00000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean    79.000000       0.30804      0.679500          0.016404     0.117200  136.090000  0.347000  0.632500
+std      5.656854       0.42845      0.003536          0.023187     0.067599   19.851316  0.349311  0.106773
+min     75.000000       0.00508      0.677000          0.000008     0.069400  122.053000  0.100000  0.557000
+25%     77.000000       0.15656      0.678250          0.008206     0.093300  129.071500  0.223500  0.594750
+50%     79.000000       0.30804      0.679500          0.016404     0.117200  136.090000  0.347000  0.632500
+75%     81.000000       0.45952      0.680750          0.024602     0.141100  143.108500  0.470500  0.670250
+max     83.000000       0.61100      0.682000          0.032800     0.165000  150.127000  0.594000  0.708000

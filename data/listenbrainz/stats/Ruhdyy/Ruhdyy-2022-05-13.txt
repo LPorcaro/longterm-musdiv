@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (10.00%)
-	2: rap (10.00%)
-	3: rock (10.00%)
-	4: chicago rap (7.50%)
-	5: modern rock (7.50%)
+	1: pop (10.26%)
+	2: rap (10.26%)
+	3: rock (10.26%)
+	4: chicago rap (7.69%)
+	5: modern rock (7.69%)
 Top artists
 	1: The White Stripes (5.00%)
-	2: Trippie Redd (5.00%)
-	3: Lil Nas X (5.00%)
+	2: Playboi Carti (5.00%)
+	3: MC Lan (5.00%)
 	4: MARO (5.00%)
-	5: Jerry Smith (5.00%)
+	5: Menor MC (5.00%)
 Top country
 	1: US (61.11%)
 	2: PT (11.11%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   18.000000     18.000000      18.00000         18.000000    18.000000   18.000000  18.000000  18.000000
-mean    68.777778      0.174152       0.72150          0.022453     0.167217  112.348222   0.534444   0.654611
-std     15.581118      0.213838       0.14524          0.066109     0.127295   30.272603   0.206759   0.192461
+mean    68.833333      0.174152       0.72150          0.022453     0.167217  112.348222   0.534444   0.654611
+std     15.628970      0.213838       0.14524          0.066109     0.127295   30.272603   0.206759   0.192461
 min     39.000000      0.003900       0.46200          0.000000     0.031400   62.529000   0.162000   0.331000
 25%     57.250000      0.016775       0.60450          0.000000     0.079475   87.202250   0.358750   0.508750
 50%     75.000000      0.062200       0.74300          0.000001     0.128000  113.530500   0.576000   0.663500

@@ -1,0 +1,43 @@
+Electronic artists found: Flume,T-Shirt, Dardust, Dardust,Massimo Pericolo
+Electronic genres found: compositional ambient, downtempo, edm, italian electronica
+Electronic music logs found: 13.64% 
+
+Top genres
+	1: italian hip hop (36.73%)
+	2: trap metal italiana (32.65%)
+	3: compositional ambient (4.08%)
+	4: italian electronica (4.08%)
+	5: neo-classical (4.08%)
+Top artists
+	1: Crookers (6.67%)
+	2: Goedi (6.67%)
+	3: Dardust (6.67%)
+	4: Tame Impala (6.67%)
+	5: Flume (6.67%)
+Top country
+	1: IT (86.36%)
+	2: AU (9.09%)
+	3: US (4.55%)
+Top record
+	1: RWL (72.73%)
+	2: UM7 (13.64%)
+	3: FF0 (4.55%)
+	4: SM1 (4.55%)
+	5: IWE (4.55%)
+Top year
+	1: 20 (54.55%)
+	2: 19 (22.73%)
+	3: 22 (9.09%)
+	4: 05 (4.55%)
+	5: 15 (4.55%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   22.000000     22.000000     22.000000         22.000000    22.000000   22.000000  22.000000  22.000000
+mean    54.909091      0.236182      0.547864          0.041995     0.134291  114.453955   0.401636   0.699136
+std     10.596087      0.225127      0.109088          0.194771     0.093366   32.689739   0.185948   0.134674
+min     38.000000      0.006190      0.196000          0.000000     0.032200   75.042000   0.136000   0.267000
+25%     46.750000      0.029525      0.502750          0.000000     0.047025   83.582750   0.266750   0.629750
+50%     55.000000      0.182500      0.579500          0.000000     0.123000  114.128000   0.408500   0.715000
+75%     61.000000      0.394000      0.618000          0.000026     0.183000  140.355000   0.489500   0.786750
+max     76.000000      0.765000      0.680000          0.914000     0.364000  170.069000   0.840000   0.895000

@@ -1,19 +1,19 @@
-Electronic artists found: Stereolab, The Avalanches,MGMT,Johnny Marr, Mac DeMarco
-Electronic genres found: electronica, edmonton indie
+Electronic artists found: The Avalanches,MGMT,Johnny Marr, Mac DeMarco, Stereolab
+Electronic genres found: edmonton indie, electronica
 Electronic music logs found: 5.36% 
 
 Top genres
-	1: rap (10.24%)
-	2: hip hop (9.76%)
-	3: underground hip hop (7.32%)
-	4: dark trap (5.37%)
-	5: drill (5.37%)
+	1: hip hop (10.10%)
+	2: rap (10.10%)
+	3: underground hip hop (7.21%)
+	4: dark trap (5.29%)
+	5: drill (5.29%)
 Top artists
-	1: Dominic Fike (1.75%)
-	2: Jaden (1.75%)
-	3: Angèle (1.75%)
-	4: DaBaby (1.75%)
-	5: Rico Nasty (1.75%)
+	1: Dillaz (1.75%)
+	2: John Legend (1.75%)
+	3: JID (1.75%)
+	4: Two Door Cinema Club (1.75%)
+	5: Mac Miller (1.75%)
 Top country
 	1: US (64.29%)
 	2: QM (8.93%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   56.000000     56.000000     56.000000         56.000000    56.000000   56.000000  56.000000  56.000000
-mean    57.375000      0.261464      0.628536          0.041541     0.125564  112.413982   0.498102   0.655107
-std     13.601554      0.249308      0.123278          0.130447     0.114923   27.991151   0.237345   0.127371
+mean    57.321429      0.261464      0.628536          0.041541     0.125564  112.413982   0.498102   0.655107
+std     13.619648      0.249308      0.123278          0.130447     0.114923   27.991151   0.237345   0.127371
 min      3.000000      0.000603      0.275000          0.000000     0.025800   79.008000   0.047900   0.298000
 25%     52.750000      0.061425      0.563000          0.000000     0.038950   87.718250   0.325750   0.574500
 50%     59.000000      0.145500      0.634500          0.000018     0.069800  106.342000   0.460000   0.658500

@@ -1,5 +1,5 @@
-Electronic artists found: Sebastian Ingrosso,Tommy Trash,John Martin, Mac DeMarco, LCD Soundsystem, Swedish House Mafia,Pharrell Williams, David Guetta,Sam Martin, WU LYF, Don Diablo,AR/CO
-Electronic genres found: electronica, chillwave, progressive house, electro house, tropical house, progressive electro house, edmonton indie, edm, future house
+Electronic artists found: David Guetta,Sam Martin, Mac DeMarco, Swedish House Mafia,Pharrell Williams, Sebastian Ingrosso,Tommy Trash,John Martin, Don Diablo,AR/CO, LCD Soundsystem, WU LYF
+Electronic genres found: progressive electro house, chillwave, future house, progressive house, electro house, edmonton indie, electronica, tropical house, edm
 Electronic music logs found: 10.77% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop (4.31%)
 	5: modern alternative rock (3.35%)
 Top artists
-	1: Circa Waves (1.64%)
-	2: Dominic Fike (1.64%)
-	3: Bombay Bicycle Club (1.64%)
-	4: Declan McKenna (1.64%)
-	5: AR/CO (1.64%)
+	1: Bad Suns (1.64%)
+	2: Surf Curse (1.64%)
+	3: Tame Impala (1.64%)
+	4: Alfie Templeman (1.64%)
+	5: Lovejoy (1.64%)
 Top country
 	1: GB (35.38%)
 	2: US (26.15%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   65.000000     65.000000     65.000000         65.000000     65.00000   65.000000  65.000000  65.000000
-mean    58.476923      0.116368      0.575677          0.095057      0.06078  126.488385   0.622354   0.739169
-std     12.354285      0.166740      0.150359          0.231464      0.04882   27.831865   0.195133   0.133009
+mean    58.538462      0.116368      0.575677          0.095057      0.06078  126.488385   0.622354   0.739169
+std     12.337794      0.166740      0.150359          0.231464      0.04882   27.831865   0.195133   0.133009
 min     27.000000      0.000001      0.244000          0.000000      0.02660   74.991000   0.176000   0.336000
-25%     50.000000      0.006960      0.473000          0.000008      0.03230  105.220000   0.464000   0.643000
+25%     51.000000      0.006960      0.473000          0.000008      0.03230  105.220000   0.464000   0.643000
 50%     59.000000      0.041700      0.577000          0.000360      0.04300  124.915000   0.671000   0.743000
 75%     67.000000      0.134000      0.654000          0.005740      0.06720  145.965000   0.782000   0.832000
 max     84.000000      0.673000      0.951000          0.910000      0.29800  183.577000   0.974000   0.988000

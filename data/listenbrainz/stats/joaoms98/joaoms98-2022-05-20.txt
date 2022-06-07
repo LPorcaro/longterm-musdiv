@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: tuna (35.85%)
-	2: portuguese pop (11.32%)
-	3: fado (8.49%)
-	4: portuguese folk (4.72%)
-	5: folclore portugues (3.77%)
+	1: tuna (35.19%)
+	2: portuguese pop (11.11%)
+	3: fado (8.33%)
+	4: portuguese folk (4.63%)
+	5: folclore portugues (3.70%)
 Top artists
-	1: Real Tunel Académico (2.44%)
-	2: Baptiste Herbin (2.44%)
-	3: Tuna de Medicina da Universidade de Coimbra (2.44%)
-	4: André Ceccarelli (2.44%)
-	5: Diogo Piçarra (2.44%)
+	1: Jamie Cullum (2.44%)
+	2: Afonsina - Tuna de Engenharia da Universidade do Minho (2.44%)
+	3: Benjamin Henocq (2.44%)
+	4: Baptiste Herbin (2.44%)
+	5: Tunadão 1998 - Tuna do Instituto Politécnico de Viseu (2.44%)
 Top country
 	1: PT (32.43%)
 	2: GB (22.97%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   74.000000     74.000000     74.000000         74.000000    74.000000   74.000000  74.000000  74.000000
-mean    15.297297      0.631094      0.545959          0.065826     0.061372  111.686919   0.561297   0.452154
-std     12.053226      0.267679      0.145143          0.181820     0.051416   29.029714   0.232947   0.221236
+mean    15.202703      0.631094      0.545959          0.065826     0.061372  111.686919   0.561297   0.452154
+std     12.094355      0.267679      0.145143          0.181820     0.051416   29.029714   0.232947   0.221236
 min      0.000000      0.000192      0.196000          0.000000     0.025900   66.685000   0.168000   0.055500
 25%      5.000000      0.420250      0.450500          0.000000     0.038000   90.016000   0.379250   0.281750
 50%     12.500000      0.726000      0.585500          0.000024     0.046100  108.699000   0.549500   0.452000

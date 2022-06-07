@@ -1,0 +1,39 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: italian indie pop (30.00%)
+	2: classic italian pop (10.00%)
+	3: italian adult pop (10.00%)
+	4: rome indie (10.00%)
+	5: dance pop (10.00%)
+Top artists
+	1: Willie Peyote (12.50%)
+	2: Fulminacci (12.50%)
+	3: DJ TREEPLO (12.50%)
+	4: Cesare Cremonini (12.50%)
+	5: MOBRICI (12.50%)
+Top country
+	1: IT (83.33%)
+	2: US (16.67%)
+Top record
+	1: UM7 (50.00%)
+	2: IWE (16.67%)
+	3: CV3 (16.67%)
+	4: B00 (16.67%)
+Top year
+	1: 22 (50.00%)
+	2: 21 (33.33%)
+	3: 07 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    54.000000      0.247406      0.599667          0.000054     0.064967  122.145500  0.390667  0.726500
+std      6.449806      0.242141      0.130857          0.000114     0.055227   30.407085  0.173046  0.143309
+min     43.000000      0.000039      0.470000          0.000000     0.033200   92.474000  0.134000  0.529000
+25%     51.750000      0.070550      0.506000          0.000000     0.039625   97.187500  0.279000  0.645250
+50%     55.000000      0.168250      0.557000          0.000006     0.045850  114.695500  0.425000  0.711500
+75%     58.250000      0.464250      0.692750          0.000024     0.049225  146.917750  0.524500  0.831000
+max     61.000000      0.547000      0.787000          0.000287     0.177000  161.998000  0.572000  0.913000

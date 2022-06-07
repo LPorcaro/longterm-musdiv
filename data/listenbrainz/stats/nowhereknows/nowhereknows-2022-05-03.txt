@@ -1,0 +1,45 @@
+Electronic artists found: Wax Motif
+Electronic genres found: electro house, bass house, edm, electronic trap
+Electronic music logs found: 1.79% 
+
+Top genres
+	1: pop (16.48%)
+	2: alt z (5.49%)
+	3: electropop (4.40%)
+	4: rock (4.40%)
+	5: pop rock (4.40%)
+Top artists
+	1: Dillaz (3.23%)
+	2: Vanessa Hudgens (3.23%)
+	3: BoyWithUke (3.23%)
+	4: Finneas O'Connell (3.23%)
+	5: Clinton Kane (3.23%)
+Top country
+	1: TC (44.64%)
+	2: US (39.29%)
+	3: GB (7.14%)
+	4: QZ (5.36%)
+	5: NZ (1.79%)
+Top record
+	1: AFH (17.86%)
+	2: AFM (16.07%)
+	3: UM7 (8.93%)
+	4: SM1 (8.93%)
+	5: AFN (7.14%)
+Top year
+	1: 21 (39.29%)
+	2: 20 (21.43%)
+	3: 22 (14.29%)
+	4: 19 (5.36%)
+	5: 16 (3.57%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   56.000000     56.000000     56.000000         56.000000    56.000000   56.000000  56.000000  56.000000
+mean    60.642857      0.622541      0.678125          0.028925     0.151137  116.206607   0.447898   0.433762
+std     15.290435      0.312936      0.162292          0.133359     0.158873   30.554952   0.233272   0.220901
+min     11.000000      0.000334      0.316000          0.000000     0.025200   72.380000   0.038100   0.060700
+25%     52.000000      0.344250      0.544000          0.000000     0.044825   89.358750   0.285000   0.254000
+50%     60.500000      0.691500      0.699000          0.000024     0.085650  112.874000   0.448500   0.411000
+75%     69.250000      0.914000      0.813250          0.001208     0.195250  138.745500   0.568750   0.586250
+max    100.000000      0.975000      0.939000          0.920000     0.667000  173.930000   0.982000   0.886000

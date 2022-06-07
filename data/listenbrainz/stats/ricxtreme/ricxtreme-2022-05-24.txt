@@ -1,19 +1,19 @@
-Electronic artists found: Mr. Probz,Robin Schulz, League of Legends,Against The Current, League of Legends,Cailin Russo,Chrissy Costanza, Avicii, The Chainsmokers,Kygo, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Hippie Sabotage, Surf Mesa,Emilee, Tiësto, Timmy Trumpet,Savage
-Electronic genres found: edm, dutch edm, tropical house, video game music, slap house, electronic trap, brostep, melbourne bounce, melbourne bounce international
+Electronic artists found: Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Hippie Sabotage, Tiësto, The Chainsmokers,Kygo, Mr. Probz,Robin Schulz, League of Legends,Cailin Russo,Chrissy Costanza, Avicii, Surf Mesa,Emilee, Timmy Trumpet,Savage, League of Legends,Against The Current
+Electronic genres found: video game music, melbourne bounce, melbourne bounce international, slap house, electronic trap, dutch edm, brostep, tropical house, edm
 Electronic music logs found: 14.47% 
 
 Top genres
-	1: pop (15.22%)
-	2: dance pop (5.98%)
-	3: modern rock (4.35%)
-	4: rock (4.35%)
-	5: hip hop tuga (3.80%)
+	1: pop (14.89%)
+	2: dance pop (5.85%)
+	3: hip hop tuga (4.26%)
+	4: modern rock (4.26%)
+	5: rock (4.26%)
 Top artists
-	1: $uicideboy$ (1.16%)
-	2: Joey Cool (1.16%)
-	3: Santana (1.16%)
-	4: Robin Schulz (1.16%)
-	5: Ariana Grande (1.16%)
+	1: Surf Mesa (1.16%)
+	2: The Kid LAROI (1.16%)
+	3: League of Legends (1.16%)
+	4: Dwayne Johnson (1.16%)
+	5: Demi Lovato (1.16%)
 Top country
 	1: US (56.58%)
 	2: PT (13.16%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   76.000000     76.000000     76.000000         76.000000    76.000000   76.000000  76.000000  76.000000
-mean    67.315789      0.157493      0.665053          0.017720     0.117846  120.247947   0.509017   0.678921
-std     17.242746      0.190789      0.145164          0.068163     0.099736   28.819926   0.237986   0.143357
+mean    67.236842      0.157493      0.665053          0.017720     0.117846  120.247947   0.509017   0.678921
+std     17.240935      0.190789      0.145164          0.068163     0.099736   28.819926   0.237986   0.143357
 min     17.000000      0.001460      0.257000          0.000000     0.026500   74.868000   0.057300   0.373000
 25%     61.000000      0.014875      0.565750          0.000000     0.040125  100.027750   0.318750   0.594500
 50%     73.500000      0.079400      0.677000          0.000000     0.075600  118.955500   0.521000   0.691500

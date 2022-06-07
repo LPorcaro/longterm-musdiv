@@ -1,5 +1,5 @@
 Electronic artists found: Hooverphonic, LUM!X,PIA MARIA
-Electronic genres found: electronica, trip hop, melbourne bounce international, downtempo, slap house
+Electronic genres found: downtempo, melbourne bounce international, slap house, trip hop, electronica
 Electronic music logs found: 2.94% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop (11.63%)
 	5: eurovision (10.85%)
 Top artists
-	1: S10 (3.12%)
-	2: Chanel (3.12%)
-	3: Destiny (3.12%)
-	4: Senhit (3.12%)
-	5: Albina (3.12%)
+	1: LUM!X (3.12%)
+	2: Roxen (3.12%)
+	3: Elena Tsagrinou (3.12%)
+	4: Hooverphonic (3.12%)
+	5: STEFAN (3.12%)
 Top country
 	1: NO (20.59%)
 	2: US (14.71%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  102.000000    102.000000    102.000000        102.000000   102.000000  102.000000  102.000000  102.000000
-mean    67.196078      0.209300      0.571804          0.000392     0.062020  118.226412    0.369831    0.580843
-std     10.748280      0.218642      0.115755          0.001253     0.037596   24.121849    0.200400    0.181395
-min     38.000000      0.000261      0.394000          0.000000     0.028200   76.905000    0.076200    0.170000
-25%     60.000000      0.056400      0.475000          0.000000     0.038200   96.819000    0.198250    0.384000
+mean    66.970588      0.209300      0.571804          0.000392     0.062020  118.226412    0.369831    0.580843
+std     11.139490      0.218642      0.115755          0.001253     0.037596   24.121849    0.200400    0.181395
+min     37.000000      0.000261      0.394000          0.000000     0.028200   76.905000    0.076200    0.170000
+25%     58.500000      0.056400      0.475000          0.000000     0.038200   96.819000    0.198250    0.384000
 50%     70.000000      0.122000      0.509000          0.000000     0.047300  119.971000    0.326000    0.616000
-75%     76.750000      0.281500      0.683000          0.000007     0.066100  139.862000    0.559250    0.751750
+75%     77.000000      0.281500      0.683000          0.000007     0.066100  139.862000    0.559250    0.751750
 max     86.000000      0.869000      0.783000          0.005660     0.219000  160.036000    0.783000    0.910000

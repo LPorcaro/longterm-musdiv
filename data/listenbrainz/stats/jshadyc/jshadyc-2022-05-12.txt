@@ -1,5 +1,5 @@
-Electronic artists found: Avicii, The Chainsmokers, Martin Garrix,Dua Lipa
-Electronic genres found: edm, tropical house, dutch edm, progressive house
+Electronic artists found: Martin Garrix,Dua Lipa, Avicii, The Chainsmokers
+Electronic genres found: dutch edm, tropical house, edm, progressive house
 Electronic music logs found: 4.76% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop (8.96%)
 	5: dance pop (7.46%)
 Top artists
-	1: Harry Styles (1.82%)
-	2: Joyner Lucas (1.82%)
-	3: Paul Rosenberg (1.82%)
-	4: 50 Cent (1.82%)
-	5: Wiz Khalifa (1.82%)
+	1: Jamie Foxx (1.82%)
+	2: Nico & Vinz (1.82%)
+	3: The Script (1.82%)
+	4: will.i.am (1.82%)
+	5: Rihanna (1.82%)
 Top country
 	1: US (80.95%)
 	2: GB (8.33%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   84.000000     84.000000     84.000000         84.000000    84.000000   84.000000  84.000000  84.000000
-mean    66.357143      0.201904      0.662357          0.000137     0.186840  119.144631   0.524344   0.689371
-std     12.304023      0.251336      0.151106          0.000638     0.177597   35.204981   0.206799   0.185000
+mean    66.428571      0.201904      0.662357          0.000137     0.186840  119.144631   0.524344   0.689371
+std     12.355464      0.251336      0.151106          0.000638     0.177597   35.204981   0.206799   0.185000
 min     37.000000      0.000068      0.215000          0.000000     0.025600   74.541000   0.059300   0.095200
 25%     57.000000      0.027500      0.560250          0.000000     0.045025   89.727250   0.359500   0.558500
 50%     68.500000      0.087950      0.667500          0.000000     0.129000  107.490500   0.509000   0.703500

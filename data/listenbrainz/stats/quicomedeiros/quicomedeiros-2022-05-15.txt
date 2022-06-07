@@ -1,19 +1,19 @@
-Electronic artists found: Gigi D'Agostino, Fedde Le Grand, Eiffel 65,Gabry Ponte, David Guetta,Akon, Mike Posner,Seeb, Bob Sinclar,Gary Pine, Years & Years, O-Zone, Travis Scott, Avicii, Yves Larock, David Guetta,Akon,Ne-Yo, Otto Knows
-Electronic genres found: eurodance, electro house, progressive house, tropical house, progressive electro house, italo dance, dutch house, deep house, slap house, edm, disco house
+Electronic artists found: Eiffel 65,Gabry Ponte, Avicii, Bob Sinclar,Gary Pine, Yves Larock, O-Zone, Gigi D'Agostino, Years & Years, David Guetta,Akon, Travis Scott, Otto Knows, David Guetta,Akon,Ne-Yo, Mike Posner,Seeb, Fedde Le Grand
+Electronic genres found: progressive electro house, italo dance, slap house, deep house, progressive house, eurodance, electro house, disco house, tropical house, edm, dutch house
 Electronic music logs found: 14.75% 
 
 Top genres
-	1: dance pop (11.54%)
-	2: pop (11.09%)
-	3: pop rap (9.05%)
-	4: hip hop tuga (4.07%)
-	5: rap (4.07%)
+	1: dance pop (11.59%)
+	2: pop (11.14%)
+	3: pop rap (9.09%)
+	4: rap (4.09%)
+	5: hip hop tuga (3.86%)
 Top artists
-	1: Marc Anthony (0.95%)
-	2: Snow (0.95%)
-	3: ARON (0.95%)
-	4: Pitbull (0.95%)
-	5: a-ha (0.95%)
+	1: Rihanna (0.94%)
+	2: Macklemore & Ryan Lewis (0.94%)
+	3: Edward Maya (0.94%)
+	4: John Ryan (0.94%)
+	5: Holly-Hood (0.94%)
 Top country
 	1: US (53.28%)
 	2: PT (10.66%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  122.000000    122.000000    122.000000        122.000000   122.000000  122.000000  122.000000  122.000000
-mean    64.877049      0.152106      0.713164          0.007948     0.110942  123.689697    0.587386    0.752443
-std     15.803848      0.187500      0.111391          0.051693     0.093346   21.248608    0.211162    0.139085
+mean    64.926230      0.152106      0.713164          0.007948     0.110942  123.689697    0.587386    0.752443
+std     15.793695      0.187500      0.111391          0.051693     0.093346   21.248608    0.211162    0.139085
 min     22.000000      0.000079      0.279000          0.000000     0.026500   81.039000    0.047700    0.414000
 25%     51.250000      0.021300      0.648000          0.000000     0.049600  105.952000    0.458500    0.666000
 50%     71.000000      0.067300      0.723500          0.000000     0.065800  126.039000    0.610000    0.766000

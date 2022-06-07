@@ -1,0 +1,45 @@
+Electronic artists found: Mac DeMarco, Grizzly Bear
+Electronic genres found: edmonton indie, chillwave
+Electronic music logs found: 2.78% 
+
+Top genres
+	1: rap (9.77%)
+	2: hip hop (8.37%)
+	3: pop (5.58%)
+	4: hip hop tuga (4.19%)
+	5: modern rock (2.79%)
+Top artists
+	1: Daniel Caesar (1.35%)
+	2: Dillaz (1.35%)
+	3: ProfJam (1.35%)
+	4: Los Retros (1.35%)
+	5: Childish Gambino (1.35%)
+Top country
+	1: US (55.56%)
+	2: PT (11.11%)
+	3: GB (11.11%)
+	4: QM (8.33%)
+	5: QZ (5.56%)
+Top record
+	1: QX9 (13.89%)
+	2: UM7 (11.11%)
+	3: UG1 (5.56%)
+	4: SM1 (5.56%)
+	5: RC1 (4.17%)
+Top year
+	1: 18 (18.06%)
+	2: 19 (13.89%)
+	3: 21 (12.50%)
+	4: 20 (9.72%)
+	5: 17 (9.72%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
+count   72.000000     72.000000     72.000000         72.000000    72.000000   72.000000  72.00000  72.000000
+mean    58.097222      0.317851      0.630194          0.038493     0.138903  114.315069   0.51599   0.613069
+std     19.789854      0.241563      0.156628          0.134614     0.131260   31.832228   0.21427   0.157695
+min      4.000000      0.000566      0.216000          0.000000     0.026100   68.985000   0.03830   0.238000
+25%     47.750000      0.133250      0.517750          0.000000     0.038000   89.602250   0.33375   0.507000
+50%     60.500000      0.286000      0.612000          0.000036     0.072850  105.809000   0.50300   0.613500
+75%     71.000000      0.434500      0.773000          0.005200     0.213500  141.983500   0.66200   0.735250
+max    100.000000      0.890000      0.961000          0.939000     0.671000  187.308000   0.96300   0.944000

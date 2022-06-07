@@ -1,0 +1,43 @@
+Electronic artists found: Sleeping At Last, Max Richter,Daniel Hope,Konzerthaus Kammerorchester Berlin,Andre de Ridder
+Electronic genres found: ambient worship, compositional ambient
+Electronic music logs found: 42.86% 
+
+Top genres
+	1: pop (27.78%)
+	2: ambient worship (11.11%)
+	3: chamber pop (11.11%)
+	4: danish pop (11.11%)
+	5: scandipop (11.11%)
+Top artists
+	1: Sleeping At Last (12.50%)
+	2: SYML (12.50%)
+	3: The Rolling Stones (12.50%)
+	4: Konzerthaus Kammerorchester Berlin (12.50%)
+	5: Andre de Ridder (12.50%)
+Top country
+	1: US (57.14%)
+	2: GB (14.29%)
+	3: CA (14.29%)
+	4: DE (14.29%)
+Top record
+	1: GES (28.57%)
+	2: UM7 (28.57%)
+	3: WB1 (28.57%)
+	4: N11 (14.29%)
+Top year
+	1: 14 (28.57%)
+	2: 18 (28.57%)
+	3: 09 (14.29%)
+	4: 17 (14.29%)
+	5: 12 (14.29%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    7.000000      7.000000      7.000000          7.000000     7.000000    7.000000  7.000000  7.000000
+mean    54.714286      0.458971      0.589857          0.133904     0.032900   97.436286  0.278000  0.465857
+std     18.803495      0.317472      0.077286          0.339380     0.005863   18.229702  0.152117  0.081738
+min     35.000000      0.043800      0.438000          0.000000     0.025300   77.981000  0.129000  0.341000
+25%     35.000000      0.194000      0.593000          0.000003     0.029000   79.291500  0.146000  0.430000
+50%     65.000000      0.499000      0.600000          0.000012     0.031000  103.985000  0.225000  0.500000
+75%     68.000000      0.707000      0.602000          0.017156     0.037100  111.754500  0.417500  0.501000
+max     77.000000      0.868000      0.701000          0.903000     0.041800  117.996000  0.465000  0.558000

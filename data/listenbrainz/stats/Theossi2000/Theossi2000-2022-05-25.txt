@@ -1,0 +1,45 @@
+Electronic artists found: Marshmello,Jonas Brothers, Swedish House Mafia,The Weeknd
+Electronic genres found: progressive electro house, edm, brostep
+Electronic music logs found: 1.74% 
+
+Top genres
+	1: portuguese pop (9.72%)
+	2: pop (8.33%)
+	3: hip hop tuga (7.87%)
+	4: trap latino (6.02%)
+	5: reggaeton (5.56%)
+Top artists
+	1: Ozuna (0.72%)
+	2: SUAVEYOUKNOW (0.72%)
+	3: Catarina Filipe (0.72%)
+	4: Wisin (0.72%)
+	5: Jahzel (0.72%)
+Top country
+	1: PT (43.48%)
+	2: US (26.96%)
+	3: QZ (9.57%)
+	4: GB (4.35%)
+	5: QM (3.48%)
+Top record
+	1: UM7 (31.30%)
+	2: UG1 (8.70%)
+	3: 2DY (6.96%)
+	4: NO1 (6.96%)
+	5: 71G (3.48%)
+Top year
+	1: 21 (46.96%)
+	2: 22 (20.87%)
+	3: 19 (13.04%)
+	4: 20 (10.43%)
+	5: 18 (4.35%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  115.000000    115.000000    115.000000        115.000000   115.000000  115.000000  115.000000  115.000000
+mean    49.034783      0.379218      0.657887          0.025194     0.105848  110.785678    0.474330    0.551470
+std     22.685079      0.281720      0.134360          0.119899     0.103330   30.089792    0.212884    0.188184
+min      2.000000      0.002090      0.296000          0.000000     0.027600   57.006000    0.038300    0.073100
+25%     32.000000      0.108150      0.574500          0.000000     0.040450   90.507500    0.319000    0.425000
+50%     42.000000      0.362000      0.683000          0.000009     0.060200   99.900000    0.486000    0.554000
+75%     69.500000      0.624500      0.759000          0.000244     0.121000  125.317500    0.627500    0.704500
+max     89.000000      0.965000      0.913000          0.787000     0.611000  199.988000    0.967000    0.898000

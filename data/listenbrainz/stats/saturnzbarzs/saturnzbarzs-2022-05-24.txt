@@ -1,45 +1,45 @@
-Electronic artists found: League of Legends,PVRIS, Metronomy, The Whitest Boy Alive, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry
+Electronic artists found: League of Legends,PVRIS, The Whitest Boy Alive, Metronomy, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry
 Electronic genres found: video game music, electronica
-Electronic music logs found: 8.51% 
+Electronic music logs found: 8.33% 
 
 Top genres
-	1: modern rock (9.52%)
-	2: rock (6.35%)
-	3: rap (3.97%)
-	4: pop (3.97%)
-	5: hip hop (3.17%)
+	1: modern rock (9.76%)
+	2: rock (6.50%)
+	3: rap (4.07%)
+	4: pop (4.07%)
+	5: hip hop (2.44%)
 Top artists
-	1: Monico Blonde (2.04%)
-	2: The Whitest Boy Alive (2.04%)
-	3: Jaira Burns (2.04%)
-	4: tobi lou (2.04%)
+	1: Gerard Way (2.04%)
+	2: James Blake (2.04%)
+	3: Surf Curse (2.04%)
+	4: BoyWithUke (2.04%)
 	5: Fall Out Boy (2.04%)
 Top country
-	1: US (48.94%)
-	2: GB (14.89%)
-	3: QZ (8.51%)
-	4: QM (8.51%)
-	5: TC (6.38%)
+	1: US (47.92%)
+	2: GB (14.58%)
+	3: TC (8.33%)
+	4: QZ (8.33%)
+	5: QM (8.33%)
 Top record
-	1: UG1 (14.89%)
-	2: AT2 (6.38%)
-	3: H6S (6.38%)
-	4: RE1 (6.38%)
-	5: UM7 (4.26%)
+	1: UG1 (14.58%)
+	2: AT2 (6.25%)
+	3: H6S (6.25%)
+	4: RE1 (6.25%)
+	5: UM7 (4.17%)
 Top year
-	1: 20 (17.02%)
-	2: 21 (14.89%)
-	3: 17 (12.77%)
-	4: 19 (12.77%)
-	5: 22 (10.64%)
+	1: 20 (16.67%)
+	2: 21 (16.67%)
+	3: 17 (12.50%)
+	4: 19 (12.50%)
+	5: 22 (10.42%)
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   47.000000     47.000000     47.000000         47.000000    47.000000   47.000000  47.000000  47.000000
-mean    58.617021      0.248687      0.588766          0.078136     0.102030  134.031894   0.584255   0.698745
-std     14.607254      0.301124      0.160180          0.177809     0.098758   28.799183   0.221837   0.195112
+count   48.000000     48.000000     48.000000         48.000000    48.000000   48.000000  48.000000  48.000000
+mean    58.708333      0.262506      0.595125          0.076508     0.105883  134.259771   0.581646   0.693125
+std     14.417717      0.312910      0.164477          0.176268     0.101284   28.534871   0.220208   0.196913
 min     24.000000      0.000004      0.309000          0.000000     0.029800   72.517000   0.181000   0.078000
-25%     52.000000      0.004330      0.448000          0.000003     0.040000  120.498500   0.387500   0.606500
-50%     60.000000      0.080800      0.606000          0.001490     0.060300  139.816000   0.568000   0.700000
-75%     68.000000      0.500000      0.719000          0.040800     0.117500  156.401000   0.761000   0.856500
+25%     52.500000      0.004535      0.449000          0.000003     0.040450  120.744250   0.388750   0.596500
+50%     60.500000      0.087250      0.606000          0.001300     0.060850  139.834000   0.557500   0.698000
+75%     67.250000      0.505500      0.722750          0.037900     0.128000  154.857500   0.751500   0.856250
 max     84.000000      0.975000      0.900000          0.891000     0.369000  179.629000   0.986000   0.991000

@@ -1,5 +1,5 @@
 Electronic artists found: Martin Garrix,Khalid
-Electronic genres found: progressive house, electro house, tropical house, dutch edm, edm
+Electronic genres found: progressive house, electro house, dutch edm, tropical house, edm
 Electronic music logs found: 0.83% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: gainesville indie (7.68%)
 	5: rock (6.87%)
 Top artists
-	1: Jason Richardson (5.26%)
-	2: Silver End (5.26%)
-	3: Breaking Benjamin (5.26%)
-	4: Thousand Foot Krutch (5.26%)
-	5: Trivium (5.26%)
+	1: System Of A Down (5.26%)
+	2: Avenged Sevenfold (5.26%)
+	3: Martin Garrix (5.26%)
+	4: The Hails (5.26%)
+	5: Thousand Foot Krutch (5.26%)
 Top country
 	1: SE (31.67%)
 	2: FR (23.33%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  120.000000    120.000000    120.000000        120.000000   120.000000  120.000000  120.000000  120.000000
-mean    50.008333      0.021571      0.463333          0.041586     0.071608  123.425542    0.412046    0.851667
-std      9.681044      0.089631      0.179750          0.162415     0.054570   22.421299    0.223643    0.132858
+mean    50.575000      0.021571      0.463333          0.041586     0.071608  123.425542    0.412046    0.851667
+std      9.568561      0.089631      0.179750          0.162415     0.054570   22.421299    0.223643    0.132858
 min     27.000000      0.000002      0.166000          0.000000     0.026900   89.014000    0.036600    0.387000
 25%     44.000000      0.000022      0.262250          0.000951     0.026900  105.173750    0.198750    0.723000
-50%     51.000000      0.000563      0.508000          0.000975     0.056200  127.035000    0.423500    0.925000
+50%     52.000000      0.000563      0.508000          0.000975     0.056200  127.035000    0.423500    0.925000
 75%     55.000000      0.004120      0.665000          0.006570     0.089200  127.035000    0.657000    0.961000
 max     77.000000      0.584000      0.665000          0.885000     0.283000  185.095000    0.711000    0.996000

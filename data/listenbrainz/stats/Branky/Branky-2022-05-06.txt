@@ -1,0 +1,36 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: alternative rock (11.11%)
+	2: blues rock (11.11%)
+	3: garage rock (11.11%)
+	4: modern blues rock (11.11%)
+	5: modern rock (11.11%)
+Top artists
+	1: League of Legends (12.50%)
+	2: JEON SOYEON (12.50%)
+	3: Duckwrth (12.50%)
+	4: Becky G (12.50%)
+	5: The Black Keys (12.50%)
+Top country
+	1: US (50.00%)
+	2: QZ (50.00%)
+Top record
+	1: NO1 (50.00%)
+	2: H6S (50.00%)
+Top year
+	1: 11 (50.00%)
+	2: 19 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean    67.500000      0.043785      0.499000          0.004875     0.165000  160.590500  0.595500  0.777500
+std      3.535534      0.056024      0.202233          0.006894     0.137179    8.074452  0.016263  0.133643
+min     65.000000      0.004170      0.356000          0.000000     0.068000  154.881000  0.584000  0.683000
+25%     66.250000      0.023977      0.427500          0.002437     0.116500  157.735750  0.589750  0.730250
+50%     67.500000      0.043785      0.499000          0.004875     0.165000  160.590500  0.595500  0.777500
+75%     68.750000      0.063592      0.570500          0.007312     0.213500  163.445250  0.601250  0.824750
+max     70.000000      0.083400      0.642000          0.009750     0.262000  166.300000  0.607000  0.872000

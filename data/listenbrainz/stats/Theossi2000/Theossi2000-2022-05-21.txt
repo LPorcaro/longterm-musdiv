@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: hip hop tuga (47.06%)
-	2: rap criolo (8.82%)
-	3: trap tuga (5.88%)
-	4: rap tuga underground (5.88%)
-	5: latin (5.88%)
+	1: hip hop tuga (48.48%)
+	2: rap criolo (9.09%)
+	3: trap tuga (6.06%)
+	4: rap tuga underground (6.06%)
+	5: latin (6.06%)
 Top artists
-	1: Aragão (3.45%)
-	2: Ivandro (3.45%)
-	3: FRANKIEONTHEGUITAR (3.45%)
-	4: Mizzy Miles (3.45%)
-	5: LON3R JOHNY (3.45%)
+	1: Dillaz (3.45%)
+	2: Bomba Estéreo (3.45%)
+	3: Bad Bunny (3.45%)
+	4: Ivandro (3.45%)
+	5: Wet Bed Gang (3.45%)
 Top country
 	1: PT (65.22%)
 	2: QM (13.04%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
-mean    48.217391      0.393535      0.674304          0.001977     0.230330  112.970565   0.390204   0.578087
-std     17.544635      0.278686      0.135380          0.005589     0.129301   30.763654   0.221169   0.130407
+mean    48.347826      0.393535      0.674304          0.001977     0.230330  112.970565   0.390204   0.578087
+std     17.757479      0.278686      0.135380          0.005589     0.129301   30.763654   0.221169   0.130407
 min     33.000000      0.051200      0.475000          0.000000     0.041300   69.129000   0.038300   0.328000
 25%     40.500000      0.125500      0.567000          0.000000     0.123000   88.477000   0.273000   0.502000
 50%     43.000000      0.300000      0.647000          0.000000     0.230000  102.003000   0.382000   0.563000

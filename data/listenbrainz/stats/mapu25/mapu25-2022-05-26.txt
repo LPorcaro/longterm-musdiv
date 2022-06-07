@@ -1,0 +1,45 @@
+Electronic artists found: LUM!X,PIA MARIA
+Electronic genres found: melbourne bounce international, slap house
+Electronic music logs found: 3.12% 
+
+Top genres
+	1: pop (22.58%)
+	2: dance pop (6.45%)
+	3: latin talent show (6.45%)
+	4: latin viral pop (4.84%)
+	5: spanish pop (4.84%)
+Top artists
+	1: Alaska Thunderfuck (3.23%)
+	2: Amaia (3.23%)
+	3: Christine Baranski (3.23%)
+	4: LUM!X (3.23%)
+	5: Olivia Rodrigo (3.23%)
+Top country
+	1: US (43.75%)
+	2: ES (25.00%)
+	3: GB (12.50%)
+	4: TC (9.38%)
+	5: QM (3.12%)
+Top record
+	1: 570 (12.50%)
+	2: 94B (12.50%)
+	3: UM7 (9.38%)
+	4: SM1 (6.25%)
+	5: UG1 (6.25%)
+Top year
+	1: 22 (25.00%)
+	2: 21 (18.75%)
+	3: 19 (18.75%)
+	4: 18 (9.38%)
+	5: 17 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   32.000000     32.000000     32.000000         32.000000    32.000000   32.000000  32.000000  32.000000
+mean    64.468750      0.272381      0.638375          0.000869     0.073472  114.349844   0.511094   0.663281
+std     18.616649      0.277473      0.159302          0.001933     0.060684   22.750938   0.224605   0.156335
+min      9.000000      0.001700      0.321000          0.000000     0.024900   77.599000   0.120000   0.225000
+25%     58.000000      0.068200      0.547000          0.000000     0.033850  100.748500   0.318500   0.638750
+50%     69.000000      0.148500      0.677500          0.000002     0.053300  109.488000   0.579000   0.701500
+75%     77.000000      0.404250      0.756000          0.000116     0.092575  126.860750   0.682000   0.743750
+max     92.000000      0.934000      0.856000          0.005950     0.265000  169.994000   0.934000   0.910000

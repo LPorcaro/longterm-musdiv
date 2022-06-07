@@ -1,19 +1,19 @@
 Electronic artists found: Spandau Ballet, Modern Talking
-Electronic genres found: disco, eurodance
+Electronic genres found: eurodance, disco
 Electronic music logs found: 3.77% 
 
 Top genres
-	1: metal (9.72%)
-	2: rock (9.31%)
-	3: hard rock (7.29%)
-	4: album rock (6.48%)
-	5: death metal (6.07%)
+	1: metal (9.76%)
+	2: rock (9.35%)
+	3: hard rock (7.32%)
+	4: album rock (6.50%)
+	5: death metal (6.10%)
 Top artists
-	1: Dio (4.00%)
-	2: Saxon (4.00%)
-	3: Black Sabbath (4.00%)
-	4: Scorpions (4.00%)
-	5: Bon Jovi (4.00%)
+	1: Deathhammer (4.00%)
+	2: Scorpions (4.00%)
+	3: Angel Witch (4.00%)
+	4: Midnight (4.00%)
+	5: MARO (4.00%)
 Top country
 	1: GB (41.51%)
 	2: US (28.30%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   53.000000     53.000000     53.000000         53.000000    53.000000   53.000000  53.000000  53.000000
-mean    39.773585      0.064463      0.355396          0.112867     0.076819  129.588434   0.408811   0.824396
-std     18.580016      0.163567      0.153155          0.213451     0.042700   28.370374   0.231454   0.173424
+mean    39.886792      0.064463      0.355396          0.112867     0.076819  129.588434   0.408811   0.824396
+std     18.621390      0.163567      0.153155          0.213451     0.042700   28.370374   0.231454   0.173424
 min     11.000000      0.000002      0.072200          0.000000     0.027400   77.795000   0.060300   0.296000
 25%     23.000000      0.000047      0.235000          0.000050     0.046600  106.807000   0.213000   0.775000
 50%     43.000000      0.000833      0.364000          0.009410     0.063000  127.631000   0.369000   0.854000

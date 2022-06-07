@@ -1,0 +1,150 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+4HlFJV71xXKIGcU3kRyttv	Train	Hey, Soul Sister	USSM10904113	81	dance pop,neo mellow,pop,pop rock	0.185	0.673	0.0	0.0431	97.012	0.795	0.886
+1PXsUXSM3LF2XNSkmIldPb	The Black Keys	Little Black Submarines	USNO11100276	64	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.161	0.365	6.68e-06	0.0418	95.163	0.487	0.466
+5VGlqQANWDKJFl0MBG3sg2	Kings of Leon	Use Somebody	USRC10800301	74	modern rock,rock	0.00552	0.276	0.000417	0.0432	137.028	0.173	0.715
+0ct6r3EGTcMLPtrXHDvVjc	Avicii	The Nights	CH3131340464	84	dance pop,edm,pop,pop dance,pop rap	0.0166	0.527	0.0	0.0433	125.983	0.654	0.835
+6ebkx7Q5tTxrCxKq4GYj0Y	Flo Rida,David Guetta	Club Can't Handle Me (feat. David Guetta)	USAT21001281	75	dance pop,miami hip hop,pop,pop rap	0.0283	0.616	0.0	0.0327	127.966	0.473	0.869
+62yJjFtgkhUrXktIoSjgP2	Imagine Dragons	Radioactive	USUM71201074	76	modern rock,rock	0.106	0.448	0.000108	0.0627	136.245	0.236	0.784
+5jyUBKpmaH670zrXrE0wmO	Sebastian Ingrosso,Tommy Trash,John Martin	Reload - Radio Edit	GBJ4B1300159	67	dance pop,edm,electro house,pop dance,progressive electro house,progressive house	0.0736	0.485	0.0	0.0521	128.045	0.433	0.724
+41GfuxQ04frU1uDO5IzvuQ	Don Diablo,AR/CO	Hot Air Balloon	NL1ZN2001453	52	dance pop,edm,electro house,future house,house,pop dance,progressive electro house,progressive house,tropical house	0.127	0.816	0.515	0.0464	122.974	0.567	0.708
+4jYt1pQqg2mIZmY4FWCZEM	Daisy the Great,AJR	Record Player (with AJR)	USHR12141957	67	brooklyn indie,indie pop	0.247	0.665	0.0	0.106	73.986	0.927	0.684
+2rgtCOVK2tpfao2VjURn84	David Guetta,Sam Martin	Lovers on the Sun (feat. Sam Martin)	GB28K1400016	67	big room,dance pop,edm,pop,pop dance,pop rap	0.0932	0.645	3.88e-06	0.0387	124.915	0.568	0.891
+1mea3bSkSGXuIRvnydlB5b	Coldplay	Viva La Vida	GBAYE0800265	79	permanent wave,pop	0.0954	0.486	3.23e-06	0.0287	138.015	0.417	0.617
+4QNpBfC0zvjKqPJcyqBy9W	Pitbull,Ne-Yo,Afrojack,Nayer	Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)	USJAY1100032	80	dance pop,latin,miami hip hop,pop,pop rap	0.191	0.671	0.0	0.161	129.024	0.53	0.939
+213x4gsFDm04hSqIUkg88w	Imagine Dragons	On Top Of The World	USUM71201073	73	modern rock,rock	0.0841	0.631	3.59e-06	0.146	100.045	0.755	0.924
+2LEF1A8DOZ9wRYikWgVlZ8	Flo Rida	Good Feeling	USAT21101961	75	dance pop,miami hip hop,pop,pop rap	0.0588	0.706	0.00286	0.0688	128.011	0.684	0.89
+0nrRP2bk19rLc0orkWPQk2	Avicii	Wake Me Up	SEUM71301326	83	dance pop,edm,pop,pop dance,pop rap	0.0038	0.532	0.0012	0.0523	124.08	0.643	0.783
+3W2ZcrRsInZbjWylOi6KhZ	Disclosure,Eliza Doolittle,Flume	You & Me - Flume Remix	GBUM71303827	71	edm,house,pop,uk dance	0.382	0.593	0.000114	0.0257	75.065	0.25	0.392
+1zB4vmk8tFRmM9UULNzbLB	Imagine Dragons	Thunder	USUM71704167	82	modern rock,rock	0.00671	0.605	0.134	0.0438	167.997	0.288	0.822
+5qaEfEh1AtSdrdrByCP7qR	Imagine Dragons	Demons	USUM71201071	80	modern rock,rock	0.19	0.505	0.00025	0.0321	89.938	0.428	0.71
+4u8Gkqyg87iGSW3hQbbnQZ	AJR	Burn the House Down	QMRSZ1702960	62	modern rock	0.0364	0.454	0.0	0.168	184.353	0.568	0.66
+2xXPVOKw75Ouju8Qu4SdIA	Glass Animals	I Don't Wanna Talk (I Just Wanna Dance)	GBUM72105458	67	gauze pop,indietronica,shiver pop	0.0156	0.703	5.53e-05	0.0364	131.966	0.808	0.624
+7Ewz6bJ97vUqk5HdkvguFQ	Bryan Adams	Heaven	USAM18490004	74	canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock	0.0465	0.382	0.0	0.0267	140.059	0.335	0.589
+0yEhNqCwEfy8LHUmnZoHpP	The Dandy Warhols	Bohemian Like You	USCA20000241	68	alternative dance,alternative rock,indie rock,modern rock,pop rock,rock	0.00315	0.584	0.772	0.0344	131.275	0.694	0.931
+5jtsoDkXoYALcGr0oeOMhF	Lone Tusker	Wicked Game	SE6XY2127467	52		0.0373	0.642	0.0658	0.0406	123.968	0.24	0.868
+3GfOAdcoc3X5GPiiXmpBjK	Blur	Song 2	GBAYE9600015	65	alternative rock,britpop,madchester,modern rock,permanent wave,pop rock,rock	0.00188	0.658	0.00447	0.0904	129.701	0.855	0.709
+1ZDq0oRT40CkuADdE4Jvrq	Rival Sons	Do Your Worst	USAT21810416	56	alternative roots rock,garage rock,modern alternative rock,modern blues rock,modern hard rock,modern rock,rock	0.0113	0.392	1.43e-06	0.0509	83.868	0.413	0.791
+7ueP5u2qkdZbIPN2YA6LR0	AWOLNATION	Sail	USP6L1000053	73	la indie,modern alternative rock,modern rock,pop rock,rock,stomp pop	0.441	0.826	0.615	0.0558	119.051	0.272	0.436
+31AOj9sFz2gM0O3hMARRBx	R.E.M.	Losing My Religion	USC4R1605373	80	alternative rock,athens indie,permanent wave,pop rock,rock	0.179	0.666	1.2e-06	0.0295	125.639	0.803	0.855
+1OxcIUqVmVYxT6427tbhDW	Lenny Kravitz	Fly Away	USVI29800169	70	permanent wave,pop rock,rock	0.018	0.587	0.0	0.0484	159.925	0.735	0.872
+2ihCaVdNZmnHZWt0fvAM7B	Of Monsters and Men	Little Talks	USUM71119106	78	folk-pop,metropopolis,modern alternative rock,modern rock,pop rock,stomp and holler	0.0206	0.457	0.0	0.032	102.961	0.417	0.757
+1JSTJqkT5qHq8MDJnJbRE1	The Police	Every Breath You Take	GBAAM0201110	82	album rock,art rock,classic rock,mellow gold,new wave,permanent wave,rock,soft rock	0.543	0.82	0.00294	0.0348	117.401	0.74	0.452
+1K3LRUEcUz5FMtPYyg0F45	The Lumineers	Ho Hey	USDMG1260805	74	folk-pop,pop,stomp and holler	0.765	0.682	0.0	0.0301	79.907	0.421	0.471
+4KFM3A5QF2IMcc6nHsu3Wp	Sting	Englishman In New York	USAM18700040	69	permanent wave,soft rock,sophisti-pop	0.396	0.674	1.05e-05	0.0364	102.013	0.647	0.347
+7M13FwBAKWNa2jqcZeUhL6	Bob Sinclar,Gary Pine	Love Generation - Radio Edit	FR4E41811680	66	dance pop,disco house,edm,electro house,filter house,pop dance,tropical house,vocal house	0.192	0.723	0.000154	0.0586	128.038	0.544	0.872
+7yWCstlfqJwCYZFdycrFQe	The Royal Concept	On Our Way	USUM71403853	51	pop rock,swedish alternative rock,swedish indie pop	0.00433	0.604	0.0	0.111	130.944	0.341	0.822
+6h5PAsRni4IRlxWr6uDPTP	Axwell /\ Ingrosso	More Than You Know	GBUM71701735	78	dance pop,edm,electro house,pop,pop dance,tropical house	0.0275	0.646	0.0	0.034	123.077	0.571	0.741
+2jsmSLoX8y0h6k4YzDCFH1	Sigma	Nobody To Love - Radio Edit	GBSXS1400074	62	dance pop,dancefloor dnb,drum and bass,house,pop dance,tropical house,uk dance	0.000526	0.441	6.34e-06	0.0436	175.001	0.182	0.921
+67y8hDBlt0p74eeRwKz1KJ	Digitalism	Pogo	FRU700700013	53	alternative dance,dance-punk,electro house,electronica,indietronica,new rave	6.46e-05	0.403	7.52e-05	0.0447	136.013	0.392	0.743
+6ilW3AWjrcIlDmcSXFYKPB	We Are Scientists	I Cut My Own Hair	GBLAZ2001328	29	alternative dance,dance-punk,indie rock,modern rock,new rave	0.0111	0.587	0.00169	0.119	149.984	0.502	0.967
+32zkKx35Et6A515oZKxDkD	Glass Animals	Life Itself	GB2DY1600018	64	gauze pop,indietronica,shiver pop	0.0147	0.699	0.22	0.0347	111.988	0.556	0.67
+12HB8AmFTovKrFcGG36KbL	Florence + The Machine	Delilah	GBUM71500285	55	baroque pop,pop,uk alternative pop	0.096	0.426	0.0	0.0621	169.946	0.414	0.87
+003vvx7Niy0yvhvHt4a68B	The Killers	Mr. Brightside	USIR20400274	81	alternative rock,dance rock,modern rock,permanent wave,rock	0.00121	0.352	0.0	0.0747	148.033	0.236	0.911
+04caEZhAsQKnWqKsMwk9ud	Foals	My Number	GBAHT1200723	65	alternative dance,indie rock,modern rock,new rave,oxford indie,rock	0.0243	0.639	0.000552	0.0392	128.072	0.813	0.715
+2Lumsra3kuU61wXkEKzKaK	Surf Curse	Disco	USAT22103311	68	dreamo,indie surf,surf punk,vegas indie	0.0253	0.473	0.000366	0.0291	173.083	0.782	0.621
+20j7B6mL9gnNvG3ic6Vwh5	The Hives	Hate To Say I Told You So	SEVHC0007060	66	alternative rock,garage rock,garage rock revival,modern rock,new rave,rock,swedish garage rock,swedish hard rock,swedish indie rock	0.00126	0.459	0.00881	0.0612	135.826	0.419	0.931
+7lVgkCY44RkrITnnjtKtrn	Circa Waves	Jacqueline	GBPVV1902926	40	britpop revival,english indie rock,indie surf,liverpool indie,modern alternative rock,modern rock,rock	0.0638	0.661	0.0	0.0889	117.967	0.625	0.842
+0OM7XnLJnT441emHL5upvW	Alfie Templeman	Happiness In Liquid Form	GBKPL2091260	62	indie soul,modern alternative pop	0.00181	0.691	0.00762	0.068	124.005	0.833	0.854
+52a6VcF23v5HB7KfDEmBHq	Passion Pit	Carried Away	USSM11202619	58	alternative dance,indie pop,indie rock,indietronica,modern alternative rock,modern rock,pop rock	0.0176	0.772	8.56e-06	0.0344	119.995	0.871	0.826
+4Sfa7hdVkqlM8UW5LsSY3F	Passion Pit	Take a Walk	USSM11202617	67	alternative dance,indie pop,indie rock,indietronica,modern alternative rock,modern rock,pop rock	0.0338	0.566	0.0	0.0368	101.006	0.445	0.755
+2lwwrWVKdf3LR9lbbhnr6R	Modest Mouse	Float On	USSM10315494	70	alternative rock,double drumming,indie pop,indie rock,modern rock,rock,washington indie	0.013	0.649	2.23e-06	0.0293	100.975	0.553	0.888
+4G21jWo0Cm6lOIUNnZ2mUI	The Postal Service	Such Great Heights - Remastered	USSUB1304502	62	indie pop,indie rock,indietronica,modern rock,seattle indie	0.0467	0.644	0.187	0.0513	174.98	0.175	0.808
+4KHQQYJSAfvSJzh0LIpm9X	Belle and Sebastian	The Party Line	USMTD1505521	40	alternative rock,anti-folk,baroque pop,chamber pop,indie pop,indie rock,melancholia,scottish indie,scottish rock,twee pop	0.0143	0.657	5.51e-06	0.0508	116.98	0.68	0.695
+4L2F0LcDVtNrFc1K4lmx3m	Everything Everything	Distant Past	GBARL1500070	51	alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave	0.0666	0.694	0.000533	0.0355	129.988	0.522	0.812
+305WCRhhS10XUcH6AEwZk6	Jet	Are You Gonna Be My Girl	USEE10340526	74	alternative rock,modern rock,rock	0.00148	0.613	0.000582	0.0855	105.046	0.537	0.953
+0xOeB16JDbBJBJKSdHbElT	Arcade Fire	Rebellion (Lies)	USMRG0467010	62	baroque pop,canadian indie,indie rock,modern rock,permanent wave,quebec indie,rock	0.00744	0.401	0.627	0.0344	127.193	0.734	0.933
+20I8RduZC2PWMWTDCZuuAN	Franz Ferdinand	Take Me Out	GBCEL0300192	77	alternative rock,dance rock,indie rock,modern rock,rock,scottish rock	0.000409	0.277	0.00051	0.0377	104.561	0.527	0.663
+4MzGM692jKGkNSQ7qzeTaJ	The Black Keys	Fever	USNO11400180	46	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.00378	0.609	0.000302	0.0355	127.541	0.743	0.674
+7f9I5WdyXm5q1XqnSYgQZb	Arctic Monkeys	Brianstorm	GBCEL0700061	66	garage rock,permanent wave,rock,sheffield indie	8.15e-05	0.42	0.00155	0.191	165.182	0.463	0.974
+4z2xy1UYMu70xCkWudeL96	Metric	Gimme Sympathy	CARB70901906	52	alternative dance,canadian indie,canadian rock,electropop,indie pop,indie rock,indietronica,metropopolis,modern rock,neo-synthpop,new rave	0.0093	0.452	0.000945	0.0806	139.021	0.114	0.885
+2c9OnhCwDVpKZWjOPqKiA8	Gerry Cinnamon	Sometimes	UKLT81700001	64	glasgow indie,modern rock,scottish indie rock	0.0214	0.638	0.0	0.0304	149.992	0.959	0.699
+2akjLHnHjDGsgqxuf48VYs	Metronomy	The Bay	GBMVH1100060	60	alternative dance,electronica,indie rock,indietronica,modern rock,new rave,socal pop punk	0.587	0.803	0.091	0.0387	121.226	0.887	0.47
+6zfczP87XO2SxWlQtnjFNa	Metronomy	The Look	GBMVH1100040	68	alternative dance,electronica,indie rock,indietronica,modern rock,new rave,socal pop punk	0.623	0.638	0.0391	0.0415	84.947	0.504	0.535
+4baAwbpkroYCwSIlaqzNXy	Kasabian	Shoot the Runner	GBARL0600586	52	alternative rock,britpop,garage rock,leicester indie,modern rock,rock	0.000431	0.526	0.0157	0.0852	131.194	0.524	0.776
+3nClCcBmn9NnrRQkQTkx1J	Bombay Bicycle Club	Eat, Sleep, Wake (Nothing But You)	GB2DY1900396	60	alternative dance,british indie rock,indie rock,indietronica,modern rock,new rave,stomp and holler	0.000132	0.596	0.264	0.028	117.016	0.288	0.807
+4IvZLDtwBHmBmwgDIUbuwa	Pixies	Here Comes Your Man	GBAFL9700090	67	alternative rock,boston rock,modern rock,permanent wave,rock	0.00772	0.669	0.0781	0.0285	124.594	0.882	0.795
+4KspXoCVJXGY1VrvEe1Hdm	The Libertines	Don't Look Back into the Sun	GBCVZ0300617	62	alternative rock,britpop,garage rock,garage rock revival,indie rock,modern rock,rock	0.00605	0.211	0.000436	0.116	175.616	0.59	0.849
+5C7nNkKBjaZRzqt408fxpr	Miles Kane	Don't Forget Who You Are	GBARL1300367	44	baroque pop,garage rock,indie rock,modern alternative rock,modern rock,new rave,rock	0.000571	0.465	7.06e-06	0.0343	93.966	0.444	0.951
+1EmimnysAUBhiy8rDbNN01	Django Django	Default	GBMVH1100350	56	alternative dance,chamber psych,electronic rock,indie rock,modern rock,new rave,shimmer pop	0.00733	0.747	1.1e-06	0.0282	115.967	0.913	0.875
+2anqvLXhJRNLJC6K4XD0Mj	Santigold	Disparate Youth	GBAHS1100389	34	alternative dance,art pop,electropop,new rave	0.0131	0.642	0.825	0.0417	152.005	0.548	0.931
+5W3cjX2J3tjhG8zb6u0qHn	Daft Punk	Harder, Better, Faster, Stronger	GBDUW0000059	70	electro,filter house	0.0427	0.817	0.00263	0.144	123.474	0.692	0.716
+0DiWol3AO6WpXZgp0goxAV	Daft Punk	One More Time	GBDUW0000053	75	electro,filter house	0.0194	0.613	0.0	0.133	122.746	0.476	0.697
+3rcjhifzy0XkdBHXL3xsfr	Primal Scream,George Drakoulias,David Bianco	Rocks	GBBQY9402015	58	alternative rock,big beat,britpop,dance rock,new wave,rock,scottish indie	0.000247	0.619	0.00292	0.0376	127.671	0.935	0.855
+4yYvWFUWMaKMXtoJKJnmZk	Bombay Bicycle Club	Shuffle	GBUM71104663	61	alternative dance,british indie rock,indie rock,indietronica,modern rock,new rave,stomp and holler	0.316	0.627	0.00576	0.0298	109.981	0.397	0.959
+2fXKyAyPrEa24c6PJyqznF	Pulp	Common People	GBAAN9500078	68	alternative rock,art rock,britpop,new wave,permanent wave,pop rock,rock,sheffield indie	0.0057	0.314	5.59e-05	0.038	145.393	0.569	0.797
+2yH16s2lLbYtLziVwqw7Pf	Grouplove	Deleter	USAT21906910	53	indie pop,indie rock,indietronica,la indie,modern alternative rock,modern rock,pop rock,rock,stomp and holler	3.81e-06	0.421	0.0466	0.124	159.998	0.446	0.991
+4sG2lkGzzYu7CAT0Z2V8Vu	Natalie Cole	Our Love Is Here To Stay	USEE19100029	50	adult standards,lounge,mellow gold,quiet storm,soul,vocal jazz	0.863	0.399	3.83e-06	0.0285	68.897	0.135	0.0971
+2AcDdgk7gSs1gJKcIsi6Ep	Ray Charles,Natalie Cole	Fever	USC4R0405434	51	adult standards,classic soul,jazz blues,piano blues,soul,soul blues,vocal jazz	0.402	0.671	0.0	0.21	133.557	0.331	0.417
+40Syt8S53TbeflxJopZdKv	Natalie Cole	Starting Over Again	USEE19100089	55	adult standards,lounge,mellow gold,quiet storm,soul,vocal jazz	0.819	0.58	5.97e-06	0.0325	115.393	0.18	0.3
+0qLqqJYI7wW8w93fgqd2LN	Natalie Cole,Juan Luis Guerra 4.40	Bachata Rosa	USUM71306181	57	adult standards,lounge,mellow gold,quiet storm,soul,vocal jazz	0.77	0.672	2e-06	0.0305	111.914	0.486	0.424
+2MVQbDuhVs2muWFURtIdNb	Natalie Cole,Nat King Cole	Unforgettable	USEE19100030	60	adult standards,lounge,mellow gold,quiet storm,soul,vocal jazz	0.85	0.286	0.000138	0.028	85.691	0.142	0.288
+6d1IYeSfyqOTW61rPgocGD	Natalie Cole	Miss You Like Crazy	USEE19100085	62	adult standards,lounge,mellow gold,quiet storm,soul,vocal jazz	0.633	0.595	0.00422	0.0267	131.136	0.255	0.546
+0PDCewmZCp0P5s00bptcdd	Natalie Cole	This Will Be (An Everlasting Love)	USCA28700188	70	adult standards,lounge,mellow gold,quiet storm,soul,vocal jazz	0.228	0.685	0.00234	0.042	126.739	0.896	0.623
+0BbvSCBpxz2yjPXINwFWOw	Wallows	At the End of the Day	USAT22106285	53	indie pop,modern rock,pop	0.0383	0.562	1.26e-05	0.0464	117.29	0.575	0.881
+5y3QjURtPq4V186jTPMA8Y	Wallows	Do Not Wait	USAT21812265	52	indie pop,modern rock,pop	0.0305	0.23	0.0133	0.0303	99.832	0.0715	0.473
+7E9OnFFwTYDz6ZllgfbwOd	Wallows	I'm Full	USAT21812264	49	indie pop,modern rock,pop	0.00537	0.457	0.00246	0.0737	159.987	0.231	0.84
+5naar7XewEOAjOywIp6Jjq	Wallows	Remember When	USAT21812263	72	indie pop,modern rock,pop	0.00112	0.504	0.000424	0.0343	82.009	0.51	0.708
+7ndWF1H191Fx8Jq3xXncqy	Wallows	What You Like	USAT21812262	47	indie pop,modern rock,pop	0.0014	0.721	0.0	0.0375	105.998	0.36	0.398
+2cjgdu1MVfnVShIbLp3XvI	Wallows	Worlds Apart	USAT21812261	46	indie pop,modern rock,pop	0.0154	0.314	0.0387	0.0457	169.946	0.427	0.755
+2XzAcJx3qBDnS1hD2vNwbh	Wallows	Ice Cold Pool	USAT21812260	50	indie pop,modern rock,pop	0.00817	0.572	0.0	0.0316	103.025	0.356	0.662
+1pNUmVxDiE8t6P1XxcZAv8	Wallows	Scrawny	USAT21812259	69	indie pop,modern rock,pop	0.000985	0.639	0.0604	0.0485	138.008	0.802	0.816
+57RA3JGafJm5zRtKJiKPIm	Wallows,Clairo	Are You Bored Yet? (feat. Clairo)	USAT21812258	78	indie pop,modern rock,pop	0.156	0.682	2.32e-05	0.0287	120.023	0.64	0.683
+3gar285uWggoxHwOwO7Ng9	Wallows	Sidelines	USAT21812257	51	indie pop,modern rock,pop	0.00211	0.639	0.000247	0.0299	105.024	0.809	0.655
+40WWDaK7arn7ilmufbHmdo	Wallows	Treacherous Doctor	USAT21812256	54	indie pop,modern rock,pop	0.00193	0.459	0.00249	0.0603	160.039	0.767	0.861
+5q6Ue2SuMhMBxFPDP2VWXm	Wallows	Only Friend	USAT21812255	55	indie pop,modern rock,pop	1.51e-05	0.295	0.913	0.0413	153.914	0.0835	0.835
+38MpHJPfachRo2T0W5zd9O	Wallows	Guitar Romantic Search Adventure	USAT22106291	57	indie pop,modern rock,pop	0.307	0.492	4.17e-05	0.0312	123.474	0.328	0.455
+764ujNLl9iNMXJhpGRo6aq	Wallows	That's What I Get	USAT22106290	52	indie pop,modern rock,pop	0.0512	0.568	9.98e-05	0.0289	110.027	0.27	0.495
+4cbNeycqW9YZni7g4zDCYd	Wallows	Hurts Me	USAT22106289	55	indie pop,modern rock,pop	0.0977	0.57	0.0	0.0587	99.972	0.582	0.913
+4oKYs7OydCvG8wXUYdwlIH	Wallows	Missing Out	USAT22106288	52	indie pop,modern rock,pop	0.553	0.602	2.21e-06	0.0317	102.638	0.333	0.531
+0WH2vgjbjYALOklYnZPYjH	Wallows	Permanent Price	USAT22106287	52	indie pop,modern rock,pop	0.298	0.429	0.000236	0.0911	124.054	0.337	0.899
+5wkEdciZkVGiasumRPReSV	Wallows	Marvelous	USAT22106286	59	indie pop,modern rock,pop	0.22	0.635	0.0	0.162	124.037	0.673	0.921
+7xdKRHvX5OXoRyfPQ8w2mU	Wallows	At the End of the Day	USAT22106285	58	indie pop,modern rock,pop	0.0383	0.562	1.26e-05	0.0464	117.29	0.575	0.881
+4lTaOALACghmELb2QTPxn0	Wallows	Especially You	USAT22106284	57	indie pop,modern rock,pop	0.0375	0.546	6.3e-05	0.133	94.923	0.757	0.95
+1JiaqVxC0ZKjazNSjjJsnk	Wallows	I Don't Want to Talk	USAT22104993	58	indie pop,modern rock,pop	0.0133	0.461	1.4e-06	0.0768	162.042	0.636	0.908
+0KOUhmRuztZUFOl6QCogLE	Wallows	Hard to Believe	USAT22106283	58	indie pop,modern rock,pop	0.0714	0.567	7.24e-06	0.0769	108.055	0.489	0.672
+3VzULnaqPKf1deQyZ5W4Ah	Wallows	1980s Horror Film II	USAT21811470	60	indie pop,modern rock,pop	0.0038	0.593	0.0126	0.0304	116.021	0.27	0.658
+4BreyjJu4w5EUhTKPIQymq	Wallows	Uncomfortable	USAT21801168	60	indie pop,modern rock,pop	0.115	0.395	0.0204	0.0311	142.016	0.251	0.768
+0Jgbauc8Nv2OOjR5ERW28B	Wallows	Just Like A Movie	USAT21900584	61	indie pop,modern rock,pop	0.00121	0.449	0.0	0.037	135.934	0.223	0.825
+2OwIGCjx7e7J1HHdAqIv21	Wallows	Quarterback	USAT22100359	62	indie pop,modern rock,pop	0.0135	0.689	1.64e-06	0.031	121.008	0.557	0.719
+4gZDCOFuLCxCRWNhSEcOtJ	Wallows	These Days	USAT21800737	65	indie pop,modern rock,pop	0.0398	0.655	0.0302	0.0272	93.003	0.867	0.668
+0APAKxMXB7jdDs4kw1l30y	Wallows	OK	USAT22000802	66	indie pop,modern rock,pop	0.0112	0.72	0.0076	0.0362	102.006	0.818	0.625
+11zf7m4vw9Ze7cer9Nyhk1	Wallows	Pleaser	USAT21801170	68	indie pop,modern rock,pop	0.126	0.497	1.98e-05	0.0455	148.893	0.385	0.914
+5m7nNrNPOwpxT15ksFIGSE	Brijs,Dandelion	Shy	GBLFP1537429	24		0.784	0.79	0.492	0.0475	126.056	0.592	0.549
+7HrdrDCJWFRpU5eqgTJyHB	Brijs,Dandelion	Friends	GBLFP1537427	32		0.641	0.644	0.771	0.029	107.995	0.288	0.473
+2PLi7OmleXPNBrGLon3sUy	The Temper Trap	Sweet Disposition	GBZUZ0900013	68	alternative dance,modern rock	0.0765	0.542	0.252	0.0429	129.09	0.305	0.813
+6HTVZeVQ9J6Uiq6tHESxU9	Radical Face	Welcome Home, Son	DEX260606902	67	indie folk,jacksonville indie,stomp and holler	0.723	0.587	0.782	0.0307	144.972	0.401	0.497
+7AlzbuJ7jtFC2roWwgXvLL	Brijs	Mol y Sol	DGA072134660	53		0.141	0.58	0.00411	0.0259	93.011	0.506	0.798
+6jKOxnQ1Pdsr4KblSSeA0j	Aaron Taos	Control	SE5VF1800512	51	brooklyn indie	0.0712	0.638	0.000144	0.0308	75.52	0.464	0.565
+5nrmGFJ87crVoJF5xdRqwn	The Kinks	Waterloo Sunset - Mono Mix	GBAJE6700003	61	album rock,art rock,british invasion,classic rock,folk rock,glam rock,mellow gold,protopunk,psychedelic rock,rock	0.162	0.512	0.0	0.0249	107.839	0.417	0.69
+3GZD6HmiNUhxXYf8Gch723	Frank Ocean	Lost	USUM71207186	84	alternative r&b,hip hop,lgbtq+ hip hop,neo soul,pop	0.0272	0.913	0.000503	0.226	123.061	0.497	0.603
+7caj6X6NMX3tlhWnu1du6V	Ritchie Valens	We Belong Together	USRH10551595	66	adult standards,brill building pop,rock-and-roll,rockabilly	0.872	0.684	0.000166	0.0281	106.522	0.768	0.247
+2Xb6wJYGi0QXwURw5WWvI5	Gerry Rafferty	Right Down the Line	GBAYE7800544	73	art rock,classic rock,classic uk pop,country rock,folk rock,mellow gold,soft rock	0.213	0.783	0.00243	0.0343	128.226	0.77	0.322
+3Vby4nGmtbDo7HDJamOWkT	Stealers Wheel	Stuck In The Middle With You	GBAAM7200002	74	classic rock,classic uk pop,folk rock,mellow gold	0.0936	0.82	0.000135	0.0408	123.765	0.964	0.575
+27hhIs2fp6w06N5zx4Eaa5	The Mamas & The Papas	Dream A Little Dream Of Me	USMC16846393	67	brill building pop,bubblegum pop,classic rock,folk rock,mellow gold,psychedelic rock,rock,sunshine pop	0.791	0.413	1.5e-06	0.0519	92.515	0.349	0.313
+21XK3S7N0Jyx9IJLG1tF6D	Nick Leng	Spirals	QM24S2201767	39	vapor soul	0.219	0.505	0.00972	0.0386	115.592	0.32	0.467
+6jXJmMCmEXC8SmZTK0KId6	alt-J	Left Hand Free	GBZUZ1400272	66	indie rock	0.456	0.698	0.0157	0.0482	101.989	0.811	0.875
+0HArmXzQ6asU6AEFygI0KF	Grady Strange	I Listen to Your Radio Show at Night	TCAES2054844	42		0.00114	0.316	0.0367	0.0367	149.035	0.877	0.854
+2u96akbqgCRtkjfLMYrgZo	Simple Minds	Don't You (Forget About Me) - Remastered 2001	GBAAA0100587	66	art rock,dance rock,mellow gold,new romantic,new wave,new wave pop,rock,scottish new wave,soft rock,synthpop	0.0884	0.666	0.0628	0.0276	111.257	0.675	0.788
+0kuSx4Cm1q6N6pOmCI9CRY	Cold War Kids	First	USCJ81401258	53	alternative rock,indie pop,indie rock,modern alternative rock,modern blues rock,modern rock,piano rock,pop rock,rock,stomp and holler	0.0225	0.464	1.62e-06	0.0303	77.996	0.58	0.714
+7Jh1bpe76CNTCgdgAdBw4Z	David Bowie	Heroes - 2017 Remaster	USJT11700005	74	art rock,classic rock,glam rock,permanent wave,rock	0.000671	0.49	0.484	0.0297	112.114	0.435	0.758
+4JHg4nNYUJQ5HULcCmI18R	Two Door Cinema Club	What You Know	FRU700900116	70	indie rock,indietronica,irish rock,modern alternative rock,modern rock,northern irish indie,rock	0.000675	0.549	6.24e-06	0.0407	139.052	0.828	0.754
+2R68N68VJzuZhXgikT6hQg	Jack Gray	I Got 3	AUWA02000273	54	aussietronica	0.339	0.78	0.0	0.0387	121.029	0.838	0.712
+34xGLuxM0rkxhCVyMSqwJO	Milky Chance	Stolen Dance	DEL211300741	76	german pop	0.427	0.884	0.000206	0.0378	114.016	0.728	0.581
+5ruzrDWcT0vuJIOMW7gMnW	The Strokes	The Adults Are Talking	USRC11902726	77	alternative rock,garage rock,modern rock,permanent wave,rock	0.0113	0.593	0.106	0.0475	164.959	0.649	0.749
+7mnGQesk1TzQLzQ9bYWZPR	Tal Bachman	She's so High	USSM19802720	70	pop rock	0.2	0.537	2.15e-06	0.0363	124.269	0.211	0.84
+5L95vS64rG1YMIFm1hLjyZ	Bleachers	Rollercoaster	USRC11400984	63	double drumming,indie pop,modern alternative rock,modern rock,pop rock	0.00205	0.421	0.000309	0.0538	162.024	0.279	0.79
+2vQQfWTanvD99OeHLAoyhW	Arctic Monkeys	From The Ritz To The Rubble	GBCEL0501191	64	garage rock,permanent wave,rock,sheffield indie	0.00147	0.216	0.0	0.0439	189.286	0.656	0.882
+686Al5Fl1wzyp7vwAss0pW	Death From Above 1979	Trainwreck 1979	CAL451355523	45	alternative dance,alternative rock,canadian rock,dance-punk,garage rock,indie rock,indietronica,modern alternative rock,modern rock,new rave,rock	5.79e-05	0.552	0.0315	0.0502	135.041	0.232	0.909
+61bVwTPWKU7GVXCjNkt19F	Speelburg	Lay it Right	GBARL1500420	36	modern alternative pop	0.0707	0.737	0.0	0.223	116.003	0.449	0.699
+0A0RBBTrgfq9eClnw6ZXT7	The Kills	Future Starts Slow	GBCEL1100005	54	alternative dance,alternative rock,dance-punk,garage rock,garage rock revival,indie rock,modern blues rock,modern rock,new rave,rock	0.0135	0.677	0.00222	0.0611	127.971	0.469	0.743
+6ORqU0bHbVCRjXm9AjyHyZ	Green Day	Good Riddance (Time of Your Life)	USRE19700545	74	permanent wave,punk	0.183	0.475	0.0	0.0302	94.605	0.648	0.432
+1aDLUzCyYpRXgrjwUWzV2X	Silversun Pickups	Lazy Eye	US3R20600207	63	alternative metal,alternative rock,indie pop,indie rock,la indie,modern rock,rock	0.0401	0.633	0.693	0.0461	127.397	0.243	0.831
+2OjZhG8BnvrsVWqGnZk4PO	TOLEDO	Sunday Funday	QZNK52000004	56	brooklyn indie,indie pop	0.0352	0.429	0.291	0.0404	82.971	0.686	0.699
+56PgQIFxAvXcEtXNYrsB0w	Sjowgren	I Don't Know	QZK6J2031755	60	indie folk,indie pop,indie poptimism,indie rock,modern rock,stomp and holler	0.0115	0.673	0.0162	0.0266	111.968	0.961	0.739
+2p7YemMTF5HRnAeL139VxD	Adam Melchor	Begin Again	USWB12100236	49	indie folk,indie pop,new jersey indie	0.0234	0.494	0.0159	0.0376	94.96	0.58	0.791
+54Te8w8d4uJShbLC3BI14J	Balthazar	The Boatman	NLK530800547	37	belgian indie,belgian rock,dutch indie,ghent indie	0.0762	0.697	0.0	0.0504	78.007	0.726	0.534
+3lPr8ghNDBLc2uZovNyLs9	Muse	Supermassive Black Hole	GBAHT0500593	75	modern rock,permanent wave,rock	0.0492	0.668	0.00517	0.0439	120.0	0.782	0.921
+1fidCEsYlaVE3pHwKCvpFZ	Nico & Vinz	Am I Wrong	USWB11304681	76	pop rap	0.175	0.729	1.58e-06	0.0312	119.968	0.779	0.675
+5UqCQaDshqbIk3pkhy4Pjg	Avicii	Levels - Radio Edit	SEUM71100962	76	dance pop,edm,pop,pop dance,pop rap	0.0462	0.584	0.828	0.0343	126.04	0.464	0.889
+0j2T0R9dR9qdJYsB7ciXhf	Kanye West	Stronger	USUM70741299	80	chicago rap,rap	0.00564	0.617	0.0	0.153	103.992	0.49	0.717
+7ARveOiD31w2Nq0n5FsSf8	Lorde	Perfect Places	NZUM71700074	69	art pop,dance pop,electropop,metropopolis,nz pop,pop	0.00241	0.622	2.95e-05	0.0504	104.41	0.512	0.58

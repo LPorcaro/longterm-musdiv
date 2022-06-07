@@ -1,0 +1,32 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: album rock (16.67%)
+	2: classic rock (16.67%)
+	3: country rock (16.67%)
+	4: rock (16.67%)
+	5: southern rock (16.67%)
+Top artists
+	1: Creedence Clearwater Revival (50.00%)
+	2: Done Again (50.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: K4W (50.00%)
+	2: C4R (50.00%)
+Top year
+	1: 07 (50.00%)
+	2: 08 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean    34.000000      0.112300      0.749000          0.001749     0.048700  116.577500  0.849500  0.759500
+std     46.669048      0.107056      0.005657          0.002292     0.011597   15.923338  0.012021  0.146371
+min      1.000000      0.036600      0.745000          0.000128     0.040500  105.318000  0.841000  0.656000
+25%     17.500000      0.074450      0.747000          0.000938     0.044600  110.947750  0.845250  0.707750
+50%     34.000000      0.112300      0.749000          0.001749     0.048700  116.577500  0.849500  0.759500
+75%     50.500000      0.150150      0.751000          0.002560     0.052800  122.207250  0.853750  0.811250
+max     67.000000      0.188000      0.753000          0.003370     0.056900  127.837000  0.858000  0.863000

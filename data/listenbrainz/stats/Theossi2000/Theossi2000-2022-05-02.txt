@@ -1,0 +1,45 @@
+Electronic artists found: Martin Garrix,Khalid
+Electronic genres found: dutch edm, tropical house, edm, progressive house
+Electronic music logs found: 3.33% 
+
+Top genres
+	1: hip hop tuga (40.38%)
+	2: pop (11.54%)
+	3: trap tuga (7.69%)
+	4: dance pop (5.77%)
+	5: uk pop (3.85%)
+Top artists
+	1: Dillaz (3.12%)
+	2: ProfJam (3.12%)
+	3: Gama WNTD (3.12%)
+	4: Yuri NR5 (3.12%)
+	5: Martin Garrix (3.12%)
+Top country
+	1: PT (56.67%)
+	2: GB (10.00%)
+	3: US (10.00%)
+	4: BR (6.67%)
+	5: TC (6.67%)
+Top record
+	1: UM7 (13.33%)
+	2: 2HA (10.00%)
+	3: AHS (6.67%)
+	4: SM1 (6.67%)
+	5: 2DY (6.67%)
+Top year
+	1: 20 (26.67%)
+	2: 17 (20.00%)
+	3: 19 (20.00%)
+	4: 21 (16.67%)
+	5: 18 (13.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   30.000000     30.000000     30.000000         30.000000    30.000000   30.000000  30.000000  30.000000
+mean    49.766667      0.407640      0.694367          0.011588     0.158550  110.047833   0.468860   0.564367
+std     15.522361      0.227147      0.111582          0.049547     0.161418   24.075850   0.216886   0.147453
+min     29.000000      0.018000      0.462000          0.000000     0.028800   75.603000   0.097800   0.232000
+25%     40.000000      0.230000      0.641000          0.000000     0.049750   92.253000   0.305000   0.453500
+50%     44.000000      0.416000      0.699000          0.000002     0.076950  105.072500   0.423500   0.569500
+75%     62.250000      0.571750      0.769000          0.000043     0.203000  123.855750   0.671250   0.659500
+max     84.000000      0.902000      0.891000          0.267000     0.671000  180.165000   0.871000   0.870000

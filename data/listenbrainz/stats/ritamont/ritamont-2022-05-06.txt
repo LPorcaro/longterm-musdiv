@@ -1,0 +1,29 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: alternative rock (12.50%)
+	2: baroque pop (12.50%)
+	3: canadian indie (12.50%)
+	4: indie rock (12.50%)
+	5: modern rock (12.50%)
+Top artists
+	1: Arcade Fire (100.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: ARL (100.00%)
+Top year
+	1: 22 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    63.444444      0.358470      0.351222          0.171371     0.036189  116.366667  0.117900  0.424000
+std      1.810463      0.301899      0.125867          0.255757     0.007534   39.046833  0.102454  0.308745
+min     62.000000      0.003170      0.223000          0.000029     0.028200   67.349000  0.030900  0.115000
+25%     62.000000      0.022400      0.280000          0.004680     0.032500   73.761000  0.037400  0.173000
+50%     63.000000      0.523000      0.323000          0.005320     0.033900  124.650000  0.095600  0.319000
+75%     63.000000      0.549000      0.355000          0.444000     0.038900  137.378000  0.195000  0.547000
+max     67.000000      0.829000      0.659000          0.627000     0.049400  179.578000  0.312000  0.929000

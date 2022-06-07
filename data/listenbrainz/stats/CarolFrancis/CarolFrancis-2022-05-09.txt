@@ -1,4 +1,4 @@
-Electronic artists found: JP Cooper, Elderbrook,Rudimental, John K, Shallou,Daya, Sam Fischer, Anne-Marie, Astrid S
+Electronic artists found: Astrid S, Sam Fischer, Shallou,Daya, John K, Anne-Marie, JP Cooper, Elderbrook,Rudimental
 Electronic genres found: tropical house
 Electronic music logs found: 15.69% 
 
@@ -6,14 +6,14 @@ Top genres
 	1: pop (20.81%)
 	2: electropop (9.83%)
 	3: dance pop (9.25%)
-	4: uk pop (7.51%)
+	4: uk pop (8.09%)
 	5: alt z (6.94%)
 Top artists
-	1: Ava Max (1.59%)
-	2: Burna Boy (1.59%)
-	3: Billy Lockett (1.59%)
-	4: JP Cooper (1.59%)
-	5: Daya (1.59%)
+	1: John Legend (1.59%)
+	2: Lennon Stella (1.59%)
+	3: Lauv (1.59%)
+	4: Sam Fischer (1.59%)
+	5: Christian French (1.59%)
 Top country
 	1: US (43.14%)
 	2: GB (25.49%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.000000  51.000000
-mean    60.568627      0.492056      0.616255          0.001952     0.071861  124.058000   0.368690   0.444078
-std      7.119705      0.282805      0.135405          0.007343     0.051982   31.678875   0.163581   0.160801
+mean    60.647059      0.492056      0.616255          0.001952     0.071861  124.058000   0.368690   0.444078
+std      7.115683      0.282805      0.135405          0.007343     0.051982   31.678875   0.163581   0.160801
 min     40.000000      0.001770      0.322000          0.000000     0.026200   71.023000   0.096200   0.120000
 25%     57.000000      0.275500      0.520000          0.000000     0.037350  101.918500   0.263000   0.355500
 50%     61.000000      0.456000      0.624000          0.000000     0.051100  122.961000   0.340000   0.410000

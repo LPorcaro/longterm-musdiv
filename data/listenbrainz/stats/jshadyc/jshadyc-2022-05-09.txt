@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (23.66%)
-	2: dance pop (13.98%)
-	3: uk pop (8.24%)
-	4: glam metal (5.73%)
-	5: rock (5.73%)
+	1: pop (23.74%)
+	2: dance pop (14.03%)
+	3: uk pop (8.27%)
+	4: glam metal (5.76%)
+	5: rock (5.76%)
 Top artists
-	1: Harry Styles (2.38%)
-	2: Ala Dos Namorados (2.38%)
-	3: Ed Sheeran (2.38%)
-	4: Wiz Khalifa (2.38%)
-	5: Xutos & Pontapés (2.38%)
+	1: Rihanna (2.38%)
+	2: Humanos (2.38%)
+	3: Paulo Gonzo (2.38%)
+	4: U.S.A. For Africa (2.38%)
+	5: Adele (2.38%)
 Top country
 	1: US (55.86%)
 	2: PT (22.52%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  111.000000    111.000000    111.000000        111.000000   111.000000  111.000000  111.000000  111.000000
-mean    62.657658      0.316262      0.594405          0.003616     0.050095  123.148802    0.530158    0.608639
-std     16.738359      0.322316      0.149770          0.026298     0.031642   30.917245    0.260169    0.224063
+mean    62.738739      0.316262      0.594405          0.003616     0.050095  123.148802    0.530158    0.608639
+std     16.734130      0.322316      0.149770          0.026298     0.031642   30.917245    0.260169    0.224063
 min     21.000000      0.000048      0.245000          0.000000     0.024900   66.212000    0.059200    0.054900
 25%     54.000000      0.034750      0.517000          0.000000     0.032050  100.011500    0.299000    0.453500
 50%     68.000000      0.189000      0.589000          0.000000     0.039100  122.511000    0.542000    0.655000

@@ -1,0 +1,44 @@
+Electronic artists found: Poolside,L'Impératrice
+Electronic genres found: nu disco
+Electronic music logs found: 2.04% 
+
+Top genres
+	1: indie soul (10.66%)
+	2: french indie pop (10.15%)
+	3: french indietronica (10.15%)
+	4: french synthpop (10.15%)
+	5: new french touch (10.15%)
+Top artists
+	1: Jordi Rossy (4.76%)
+	2: Benny Green (4.76%)
+	3: Spektral Quartet (4.76%)
+	4: Yellowjackets (4.76%)
+	5: Tony Glausi (4.76%)
+Top country
+	1: QM (34.69%)
+	2: FR (34.69%)
+	3: US (22.45%)
+	4: GB (8.16%)
+Top record
+	1: 9W1 (30.61%)
+	2: AAK (26.53%)
+	3: MJG (8.16%)
+	4: MAR (8.16%)
+	5: ME3 (6.12%)
+Top year
+	1: 20 (28.57%)
+	2: 19 (24.49%)
+	3: 15 (14.29%)
+	4: 21 (10.20%)
+	5: 17 (8.16%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   49.000000     49.000000     49.000000         49.000000    49.000000   49.000000  49.000000  49.000000
+mean    28.285714      0.588176      0.631286          0.434609     0.101135  110.382204   0.546243   0.439184
+std     18.691576      0.305637      0.158694          0.351447     0.178396   16.937838   0.236111   0.169977
+min      1.000000      0.039900      0.308000          0.000000     0.032700   71.527000   0.068900   0.097000
+25%     11.000000      0.340000      0.513000          0.013100     0.038000   99.334000   0.399000   0.291000
+50%     29.000000      0.673000      0.594000          0.529000     0.048700  110.029000   0.537000   0.471000
+75%     42.000000      0.840000      0.721000          0.768000     0.067400  116.998000   0.738000   0.580000
+max     61.000000      0.993000      0.975000          0.976000     0.931000  155.995000   0.944000   0.720000

@@ -1,31 +1,31 @@
-Electronic artists found: Vitor Kley, Avicii,Imagine Dragons, Sleeping At Last
-Electronic genres found: ambient worship, brazilian edm, edm
+Electronic artists found: Vitor Kley, Sleeping At Last, Avicii,Imagine Dragons
+Electronic genres found: ambient worship, edm, brazilian edm
 Electronic music logs found: 11.32% 
 
 Top genres
 	1: pop (19.08%)
-	2: alt z (9.92%)
-	3: electropop (9.92%)
-	4: dance pop (4.58%)
+	2: electropop (9.92%)
+	3: alt z (9.92%)
+	4: art pop (4.58%)
 	5: gen z singer-songwriter (4.58%)
 Top artists
-	1: Alec Benjamin (2.27%)
-	2: Grayson Villanueva (2.27%)
-	3: Måneskin (2.27%)
+	1: Nico & Vinz (2.27%)
+	2: The Script (2.27%)
+	3: Vanessa Hudgens (2.27%)
 	4: BoyWithUke (2.27%)
-	5: Nico & Vinz (2.27%)
+	5: Diana Castro (2.27%)
 Top country
 	1: US (43.40%)
 	2: GB (16.98%)
 	3: QZ (9.43%)
 	4: BR (7.55%)
-	5: TC (5.66%)
+	5: PT (5.66%)
 Top record
 	1: UM7 (33.96%)
-	2: KPL (7.55%)
-	3: 375 (7.55%)
-	4: WB1 (3.77%)
-	5: ACU (3.77%)
+	2: 375 (7.55%)
+	3: KPL (7.55%)
+	4: UG1 (3.77%)
+	5: 8BZ (3.77%)
 Top year
 	1: 21 (26.42%)
 	2: 22 (20.75%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   53.000000     53.000000     53.000000         53.000000    53.000000   53.000000  53.000000  53.000000
-mean    55.094340      0.518735      0.564453          0.034522     0.074296  123.990434   0.373091   0.447847
-std     20.653054      0.328711      0.151178          0.130784     0.062455   35.271687   0.205518   0.219546
+mean    55.132075      0.518735      0.564453          0.034522     0.074296  123.990434   0.373091   0.447847
+std     20.689125      0.328711      0.151178          0.130784     0.062455   35.271687   0.205518   0.219546
 min      1.000000      0.000609      0.173000          0.000000     0.025600   66.088000   0.061400   0.060700
 25%     44.000000      0.273000      0.492000          0.000000     0.034900   95.003000   0.238000   0.241000
 50%     57.000000      0.585000      0.572000          0.000002     0.048800  120.983000   0.300000   0.423000

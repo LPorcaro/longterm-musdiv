@@ -1,0 +1,44 @@
+Electronic artists found: DJ Snake,Selena Gomez,Ozuna,Cardi B
+Electronic genres found: edm, electronic trap
+Electronic music logs found: 4.00% 
+
+Top genres
+	1: pop (22.22%)
+	2: funk carioca (6.35%)
+	3: adult standards (4.76%)
+	4: classic country pop (4.76%)
+	5: folk (4.76%)
+Top artists
+	1: Ozuna (4.76%)
+	2: MC Pupio (4.76%)
+	3: Bianca (4.76%)
+	4: Peter Manos (4.76%)
+	5: John Denver (4.76%)
+Top country
+	1: US (76.00%)
+	2: BR (16.00%)
+	3: BX (4.00%)
+	4: TC (4.00%)
+Top record
+	1: SM1 (48.00%)
+	2: A37 (12.00%)
+	3: KO1 (8.00%)
+	4: WMB (4.00%)
+	5: UG1 (4.00%)
+Top year
+	1: 19 (48.00%)
+	2: 18 (16.00%)
+	3: 05 (12.00%)
+	4: 17 (12.00%)
+	5: 20 (4.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count     25.0000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.000000
+mean      65.1200      0.297232      0.613600          0.015452     0.081072  120.771960   0.545436   0.610000
+std       18.9326      0.252217      0.123498          0.074084     0.073737   32.207709   0.239617   0.196846
+min       26.0000      0.000532      0.380000          0.000000     0.025900   82.204000   0.059200   0.181000
+25%       51.0000      0.099800      0.535000          0.000000     0.032300   95.390000   0.359000   0.467000
+50%       72.0000      0.214000      0.570000          0.000016     0.047900  110.011000   0.569000   0.621000
+75%       75.0000      0.530000      0.676000          0.000795     0.096700  140.039000   0.705000   0.789000
+max      100.0000      0.839000      0.869000          0.371000     0.286000  179.980000   0.887000   0.903000

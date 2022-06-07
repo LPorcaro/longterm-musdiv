@@ -1,0 +1,45 @@
+Electronic artists found: HVME, Yves Larock, Trinix, Mis-Teeq
+Electronic genres found: disco house, tropical house, uk garage, slap house
+Electronic music logs found: 13.33% 
+
+Top genres
+	1: pop (11.11%)
+	2: dance pop (9.88%)
+	3: pop rap (4.94%)
+	4: canadian pop (3.70%)
+	5: urban contemporary (3.70%)
+Top artists
+	1: JID (2.38%)
+	2: Lizz Robinett (2.38%)
+	3: HVME (2.38%)
+	4: Trinix (2.38%)
+	5: Junior K (2.38%)
+Top country
+	1: US (36.67%)
+	2: GB (16.67%)
+	3: IT (13.33%)
+	4: TC (6.67%)
+	5: RU (6.67%)
+Top record
+	1: UM7 (16.67%)
+	2: UG1 (6.67%)
+	3: AR1 (6.67%)
+	4: AT2 (3.33%)
+	5: AEW (3.33%)
+Top year
+	1: 21 (16.67%)
+	2: 20 (13.33%)
+	3: 15 (10.00%)
+	4: 17 (6.67%)
+	5: 22 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   30.000000     30.000000     30.000000         30.000000    30.000000   30.000000  30.000000  30.000000
+mean    70.233333      0.113678      0.719367          0.005941     0.088690  112.240367   0.592400   0.719200
+std     12.816163      0.131392      0.111801          0.018258     0.072312   21.539703   0.209974   0.107089
+min     39.000000      0.000658      0.514000          0.000000     0.030600   77.011000   0.137000   0.525000
+25%     61.250000      0.016875      0.632500          0.000000     0.042250   97.184750   0.440000   0.637250
+50%     71.500000      0.050450      0.724000          0.000009     0.058150  112.495500   0.571000   0.728000
+75%     81.500000      0.173000      0.792000          0.001102     0.114500  123.960750   0.752250   0.790750
+max     89.000000      0.440000      0.949000          0.093800     0.355000  171.005000   0.961000   0.968000

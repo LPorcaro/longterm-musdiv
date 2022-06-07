@@ -1,0 +1,45 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: hip hop tuga (39.39%)
+	2: portuguese rock (22.73%)
+	3: dance pop (7.58%)
+	4: pop (6.06%)
+	5: post-teen pop (6.06%)
+Top artists
+	1: Dillaz (9.09%)
+	2: Bruno Mars (9.09%)
+	3: David Archuleta (9.09%)
+	4: Antonio Neto (9.09%)
+	5: Da Weasel com Czech National Symphonic Orchestra (9.09%)
+Top country
+	1: PT (66.67%)
+	2: US (12.12%)
+	3: TC (12.12%)
+	4: GB (3.03%)
+	5: QZ (3.03%)
+Top record
+	1: EM1 (51.52%)
+	2: 5HT (12.12%)
+	3: ACO (12.12%)
+	4: UM7 (6.06%)
+	5: BGR (3.03%)
+Top year
+	1: 04 (18.18%)
+	2: 07 (15.15%)
+	3: 16 (12.12%)
+	4: 06 (9.09%)
+	5: 01 (9.09%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   33.000000     33.000000     33.000000         33.000000    33.000000   33.000000  33.000000  33.000000
+mean    32.424242      0.343674      0.745242          0.007321     0.157715  110.596939   0.511127   0.606424
+std     15.473829      0.284223      0.133454          0.022112     0.130929   29.925908   0.251347   0.176740
+min     13.000000      0.001490      0.407000          0.000000     0.030300   77.989000   0.038200   0.202000
+25%     18.000000      0.123000      0.660000          0.000000     0.070800   92.497000   0.306000   0.475000
+50%     31.000000      0.252000      0.775000          0.000004     0.132000  101.037000   0.481000   0.582000
+75%     43.000000      0.557000      0.841000          0.000678     0.187000  122.018000   0.712000   0.752000
+max     69.000000      0.945000      0.942000          0.111000     0.671000  196.738000   0.926000   0.956000

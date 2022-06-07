@@ -1,19 +1,19 @@
-Electronic artists found: Bolier,NBLM, VAVO,ZHIKO, Lacosh,Ipe Ramos, Delta Queens, Klingande,Bright Sparks, Joel Corry, dave rodgers, Nicky Romero,Taio Cruz, Viva La Panda,Anzano, Viva La Panda, Viva La Panda,Friends & I, Max Coveri, Panuma,Alande,Nina Carr, Go2, Feint,Laura Brehm, Matt Nash, Norma Sheffield, Karen Harding
-Electronic genres found: gaming edm, pop edm, deep tropical house, brazilian edm, electro house, progressive house, tropical house, dutch edm, progressive electro house, super eurobeat, deep house, melodic dubstep, eurobeat, edm, chillstep
+Electronic artists found: Joel Corry, Viva La Panda,Anzano, Norma Sheffield, VAVO,ZHIKO, Matt Nash, Lacosh,Ipe Ramos, Delta Queens, Karen Harding, Panuma,Alande,Nina Carr, Viva La Panda,Friends & I, Klingande,Bright Sparks, Max Coveri, Feint,Laura Brehm, Viva La Panda, Nicky Romero,Taio Cruz, Bolier,NBLM, dave rodgers, Go2
+Electronic genres found: pop edm, progressive electro house, chillstep, brazilian edm, deep house, progressive house, electro house, eurobeat, dutch edm, deep tropical house, gaming edm, super eurobeat, melodic dubstep, tropical house, edm
 Electronic music logs found: 36.00% 
 
 Top genres
-	1: tropical house (9.00%)
-	2: edm (6.00%)
-	3: super eurobeat (5.00%)
-	4: pop dance (5.00%)
-	5: pop edm (5.00%)
+	1: tropical house (8.91%)
+	2: edm (5.94%)
+	3: super eurobeat (4.95%)
+	4: pop dance (4.95%)
+	5: pop edm (4.95%)
 Top artists
-	1: VAVO (1.52%)
-	2: Klingande (1.52%)
-	3: Lvne (1.52%)
-	4: dave rodgers (1.52%)
-	5: Lou Lou Marina (1.52%)
+	1: Joel Corry (1.52%)
+	2: Norma Sheffield (1.52%)
+	3: BIONT (1.52%)
+	4: Nicky Romero (1.52%)
+	5: Taio Cruz (1.52%)
 Top country
 	1: US (16.00%)
 	2: GB (16.00%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   50.000000     50.000000     50.000000         50.000000    50.000000   50.000000  50.000000  50.000000
-mean    33.840000      0.058988      0.606620          0.144841     0.067852  134.289360   0.454026   0.854780
-std     16.119908      0.108190      0.139791          0.294534     0.044660   23.120537   0.229474   0.096821
+mean    33.740000      0.058988      0.606620          0.144841     0.067852  134.289360   0.454026   0.854780
+std     16.058325      0.108190      0.139791          0.294534     0.044660   23.120537   0.229474   0.096821
 min      1.000000      0.000006      0.369000          0.000000     0.033400   77.042000   0.091300   0.645000
 25%     22.000000      0.001361      0.502750          0.000007     0.042450  121.974750   0.267750   0.760000
 50%     30.500000      0.023050      0.622500          0.000380     0.052000  124.973500   0.415500   0.879500

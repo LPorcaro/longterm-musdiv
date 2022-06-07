@@ -1,19 +1,19 @@
-Electronic artists found: SAINt JHN,Imanbek, Diplo,Morgan Wallen
-Electronic genres found: electro house, tropical house, slap house, moombahton, edm
+Electronic artists found: Diplo,Morgan Wallen, SAINt JHN,Imanbek
+Electronic genres found: slap house, moombahton, electro house, tropical house, edm
 Electronic music logs found: 3.12% 
 
 Top genres
-	1: rap (11.15%)
-	2: pop rap (10.47%)
-	3: pop (10.14%)
-	4: trap (6.42%)
-	5: melodic rap (6.42%)
+	1: rap (11.22%)
+	2: pop rap (10.20%)
+	3: pop (10.20%)
+	4: trap (6.46%)
+	5: melodic rap (6.46%)
 Top artists
-	1: Vin Jay (1.37%)
-	2: Masked Wolf (1.37%)
-	3: Trippie Redd (1.37%)
-	4: Jonny Craig (1.37%)
-	5: Megan Thee Stallion (1.37%)
+	1: Megan Thee Stallion (1.37%)
+	2: 5 Seconds of Summer (1.37%)
+	3: Masked Wolf (1.37%)
+	4: Dean Lewis (1.37%)
+	5: Dax (1.37%)
 Top country
 	1: US (67.71%)
 	2: QZ (8.33%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   96.000000     96.000000     96.000000         96.000000    96.000000   96.000000  96.000000  96.000000
-mean    64.750000      0.186099      0.684177          0.001039     0.125217  128.626135   0.482319   0.651771
-std     14.603532      0.201429      0.130191          0.005114     0.116607   26.022911   0.198459   0.128171
-min     36.000000      0.000328      0.354000          0.000000     0.028700   78.479000   0.039300   0.413000
-25%     52.000000      0.042650      0.599250          0.000000     0.049000  107.321000   0.353750   0.567000
+mean    65.000000      0.186099      0.684177          0.001039     0.125217  128.626135   0.482319   0.651771
+std     14.640247      0.201429      0.130191          0.005114     0.116607   26.022911   0.198459   0.128171
+min     37.000000      0.000328      0.354000          0.000000     0.028700   78.479000   0.039300   0.413000
+25%     53.000000      0.042650      0.599250          0.000000     0.049000  107.321000   0.353750   0.567000
 50%     69.000000      0.101000      0.715500          0.000000     0.072150  129.464500   0.465000   0.670500
-75%     78.000000      0.276000      0.771000          0.000003     0.159000  149.995250   0.598750   0.728750
+75%     77.250000      0.276000      0.771000          0.000003     0.159000  149.995250   0.598750   0.728750
 max     88.000000      0.810000      0.963000          0.034000     0.594000  174.084000   0.910000   0.955000

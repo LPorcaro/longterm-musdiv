@@ -1,19 +1,19 @@
-Electronic artists found: mikanzil,PSYQUI, PSYQUI,Such, PSYQUI,mami, PSYQUI
+Electronic artists found: PSYQUI, PSYQUI,Such, PSYQUI,mami, mikanzil,PSYQUI
 Electronic genres found: kawaii edm
 Electronic music logs found: 12.96% 
 
 Top genres
-	1: modern rock (18.48%)
-	2: kawaii edm (7.61%)
-	3: rap (7.61%)
-	4: pop (7.61%)
-	5: alternative r&b (7.61%)
+	1: modern rock (18.89%)
+	2: kawaii edm (7.78%)
+	3: rap (7.78%)
+	4: pop (7.78%)
+	5: alternative r&b (7.78%)
 Top artists
-	1: mami (2.50%)
-	2: mikanzil (2.50%)
-	3: Diplo (2.50%)
-	4: JVKE (2.50%)
-	5: The Wombats (2.50%)
+	1: Gerard Way (2.50%)
+	2: BoyWithUke (2.50%)
+	3: DJ Dahi (2.50%)
+	4: grandson (2.50%)
+	5: Baby Keem (2.50%)
 Top country
 	1: US (64.81%)
 	2: GB (12.96%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   54.000000     54.000000     54.000000         54.000000    54.000000   54.000000  54.000000  54.000000
-mean    55.888889      0.258226      0.623574          0.102123     0.108128  122.460556   0.593722   0.697907
-std     13.373681      0.276555      0.158159          0.211780     0.100359   30.158102   0.213946   0.213621
+mean    56.037037      0.258226      0.623574          0.102123     0.108128  122.460556   0.593722   0.697907
+std     13.433221      0.276555      0.158159          0.211780     0.100359   30.158102   0.213946   0.213621
 min     33.000000      0.000019      0.248000          0.000000     0.024800   70.027000   0.142000   0.157000
 25%     45.500000      0.004730      0.515000          0.000004     0.045775   97.108250   0.473000   0.529000
 50%     55.500000      0.135000      0.595500          0.001455     0.068550  125.083500   0.624500   0.724500
-75%     65.750000      0.484750      0.768750          0.067675     0.112250  147.808500   0.754500   0.868250
+75%     66.750000      0.484750      0.768750          0.067675     0.112250  147.808500   0.754500   0.868250
 max     83.000000      0.945000      0.900000          0.872000     0.471000  171.992000   0.925000   0.988000

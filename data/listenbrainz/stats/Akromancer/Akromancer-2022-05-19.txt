@@ -1,19 +1,19 @@
-Electronic artists found: Travis Scott, SAINt JHN,Imanbek
+Electronic artists found: SAINt JHN,Imanbek, Travis Scott
 Electronic genres found: slap house
 Electronic music logs found: 1.91% 
 
 Top genres
-	1: rap (23.31%)
-	2: melodic rap (21.78%)
-	3: dfw rap (19.33%)
-	4: pop rap (4.91%)
-	5: pop (3.68%)
+	1: rap (23.38%)
+	2: melodic rap (21.85%)
+	3: dfw rap (19.38%)
+	4: pop rap (4.92%)
+	5: pop (3.69%)
 Top artists
-	1: Masked Wolf (1.32%)
+	1: Spark Master Tape (1.32%)
 	2: Megan Thee Stallion (1.32%)
-	3: DaBaby (1.32%)
-	4: Roddy Ricch (1.32%)
-	5: Post Malone (1.32%)
+	3: 5 Seconds of Summer (1.32%)
+	4: Halsey (1.32%)
+	5: Masked Wolf (1.32%)
 Top country
 	1: US (84.76%)
 	2: QZ (5.71%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  105.000000    105.000000    105.000000        105.000000   105.000000  105.000000  105.000000  105.000000
-mean    66.228571      0.246319      0.646971          0.000541     0.089216  124.075610    0.402998    0.642848
-std     12.287624      0.217194      0.125145          0.003513     0.075350   28.054871    0.196015    0.131055
+mean    66.123810      0.246319      0.646971          0.000541     0.089216  124.075610    0.402998    0.642848
+std     12.424151      0.217194      0.125145          0.003513     0.075350   28.054871    0.196015    0.131055
 min     30.000000      0.000045      0.354000          0.000000     0.022900   72.976000    0.039300    0.227000
 25%     61.000000      0.058900      0.556000          0.000000     0.042500   99.700000    0.262000    0.550000
 50%     67.000000      0.191000      0.665000          0.000000     0.057000  128.041000    0.377000    0.643000

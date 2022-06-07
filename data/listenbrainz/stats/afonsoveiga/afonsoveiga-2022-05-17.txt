@@ -1,19 +1,19 @@
-Electronic artists found: Earth, Wind & Fire, Mac DeMarco
-Electronic genres found: disco, edmonton indie
+Electronic artists found: Mac DeMarco, Earth, Wind & Fire
+Electronic genres found: edmonton indie, disco
 Electronic music logs found: 2.63% 
 
 Top genres
 	1: rap (9.87%)
-	2: hip hop (7.73%)
+	2: hip hop (8.15%)
 	3: rock (4.72%)
 	4: permanent wave (4.29%)
 	5: alternative rock (3.43%)
 Top artists
-	1: Dominic Fike (1.39%)
-	2: Lhast (1.39%)
-	3: Jaden (1.39%)
-	4: Junior H (1.39%)
-	5: Macklemore (1.39%)
+	1: Matuê (1.39%)
+	2: Jamie Foxx (1.39%)
+	3: ProfJam (1.39%)
+	4: Il-Brutto (1.39%)
+	5: JID (1.39%)
 Top country
 	1: US (56.58%)
 	2: GB (7.89%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   76.000000     76.000000     76.000000         76.000000    76.000000   76.000000  76.000000  76.000000
-mean    59.973684      0.355813      0.602592          0.062359     0.173024  121.150342   0.525368   0.603882
-std     14.696007      0.275569      0.134974          0.181974     0.164754   32.218182   0.218652   0.181326
-min     14.000000      0.000603      0.355000          0.000000     0.024700   69.930000   0.087000   0.222000
+mean    59.934211      0.355813      0.602592          0.062359     0.173024  121.150342   0.525368   0.603882
+std     14.731676      0.275569      0.134974          0.181974     0.164754   32.218182   0.218652   0.181326
+min     13.000000      0.000603      0.355000          0.000000     0.024700   69.930000   0.087000   0.222000
 25%     51.750000      0.108575      0.486500          0.000000     0.041675   91.986750   0.387750   0.478500
 50%     63.500000      0.314000      0.582000          0.000007     0.080200  120.137000   0.539500   0.616500
 75%     70.250000      0.595000      0.716000          0.001605     0.315250  145.115000   0.665000   0.746750

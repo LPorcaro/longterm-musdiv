@@ -1,0 +1,43 @@
+Electronic artists found: The Chainsmokers,Coldplay
+Electronic genres found: tropical house, edm
+Electronic music logs found: 2.56% 
+
+Top genres
+	1: rock (15.26%)
+	2: permanent wave (13.68%)
+	3: alternative rock (12.63%)
+	4: modern rock (6.32%)
+	5: grunge (5.26%)
+Top artists
+	1: Red Hot Chili Peppers (6.25%)
+	2: Chris Cornell (6.25%)
+	3: Rage Against The Machine (6.25%)
+	4: The Goo Goo Dolls (6.25%)
+	5: Olivia Vedder (6.25%)
+Top country
+	1: US (92.31%)
+	2: GB (5.13%)
+	3: NL (2.56%)
+Top record
+	1: SM1 (15.38%)
+	2: WB1 (15.38%)
+	3: NO1 (15.38%)
+	4: RW3 (12.82%)
+	5: JY5 (12.82%)
+Top year
+	1: 99 (17.95%)
+	2: 17 (15.38%)
+	3: 11 (10.26%)
+	4: 07 (7.69%)
+	5: 02 (7.69%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   39.000000     39.000000     39.000000         39.000000    39.000000   39.000000  39.000000  39.000000
+mean    65.282051      0.295193      0.488462          0.011431     0.044774  125.278923   0.385933   0.612615
+std     10.649805      0.330021      0.113743          0.041633     0.024858   25.871395   0.173035   0.221004
+min     39.000000      0.000014      0.209000          0.000000     0.024300   77.150000   0.040000   0.209000
+25%     60.000000      0.003665      0.413500          0.000018     0.029050  106.650500   0.280500   0.382000
+50%     66.000000      0.164000      0.494000          0.000202     0.033800  129.341000   0.364000   0.635000
+75%     73.000000      0.617500      0.576000          0.002645     0.052850  143.774000   0.505000   0.803500
+max     82.000000      0.909000      0.696000          0.217000     0.139000  173.277000   0.774000   0.970000

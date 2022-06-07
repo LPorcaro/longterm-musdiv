@@ -1,0 +1,39 @@
+Electronic artists found: The Chainsmokers,5 Seconds of Summer
+Electronic genres found: tropical house, edm
+Electronic music logs found: 6.67% 
+
+Top genres
+	1: dance pop (24.19%)
+	2: pop (24.19%)
+	3: boy band (22.58%)
+	4: post-teen pop (22.58%)
+	5: edm (1.61%)
+Top artists
+	1: 5 Seconds of Summer (50.00%)
+	2: The Chainsmokers (50.00%)
+Top country
+	1: US (60.00%)
+	2: GB (33.33%)
+	3: QM (6.67%)
+Top record
+	1: UG1 (53.33%)
+	2: UM7 (33.33%)
+	3: QX9 (6.67%)
+	4: RSZ (6.67%)
+Top year
+	1: 20 (46.67%)
+	2: 14 (20.00%)
+	3: 18 (20.00%)
+	4: 22 (6.67%)
+	5: 19 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count    15.00000     15.000000     15.000000         15.000000    15.000000   15.000000  15.000000  15.000000
+mean     61.80000      0.108129      0.548667          0.000016     0.057913  113.101733   0.433600   0.764200
+std       5.95459      0.199586      0.086817          0.000051     0.031370   26.437310   0.186327   0.128762
+min      49.00000      0.000979      0.380000          0.000000     0.030300   81.377000   0.101000   0.497000
+25%      59.50000      0.008545      0.501000          0.000000     0.038250   93.040000   0.306500   0.740000
+50%      62.00000      0.020500      0.576000          0.000000     0.045500  101.668000   0.475000   0.822000
+75%      63.50000      0.147000      0.621000          0.000003     0.065200  133.927000   0.588000   0.852000
+max      73.00000      0.784000      0.648000          0.000198     0.118000  169.614000   0.693000   0.891000

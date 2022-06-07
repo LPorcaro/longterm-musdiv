@@ -1,0 +1,45 @@
+Electronic artists found: David Guetta,Sam Martin, Moby,Debbie Harry, Dubdogz,Brannco,Rodrigo Luca, Alok,Zeeba,Bruno Martini, Avicii, Carolina Marquez, Tiësto,Bright Sparks, Avicii,Sandro Cavazza
+Electronic genres found: italo dance, downtempo, brazilian edm, slap house, electro house, dutch edm, brazilian bass, brostep, electronica, tropical house, edm
+Electronic music logs found: 70.37% 
+
+Top genres
+	1: dance pop (9.88%)
+	2: edm (9.88%)
+	3: pop (9.88%)
+	4: pop dance (9.88%)
+	5: brazilian bass (8.64%)
+Top artists
+	1: Brannco (5.56%)
+	2: Sandro Cavazza (5.56%)
+	3: Moby (5.56%)
+	4: Tiësto (5.56%)
+	5: Queen (5.56%)
+Top country
+	1: TC (25.93%)
+	2: IT (25.93%)
+	3: SE (18.52%)
+	4: GB (14.81%)
+	5: NL (7.41%)
+Top record
+	1: ADU (25.93%)
+	2: J32 (22.22%)
+	3: 5R7 (14.81%)
+	4: Z54 (7.41%)
+	5: A11 (7.41%)
+Top year
+	1: 18 (29.63%)
+	2: 11 (22.22%)
+	3: 17 (18.52%)
+	4: 16 (11.11%)
+	5: 09 (3.70%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
+mean    52.851852      0.121356      0.677111          0.003352     0.040678  128.121037   0.458778   0.725889
+std     17.399610      0.146878      0.069228          0.015614     0.007364    8.910376   0.184703   0.140491
+min     25.000000      0.000380      0.532000          0.000000     0.028000  103.023000   0.212000   0.421000
+25%     34.000000      0.008560      0.629000          0.000005     0.034300  124.024000   0.286000   0.568000
+50%     57.000000      0.062000      0.662000          0.000164     0.038900  124.080000   0.493000   0.745000
+75%     61.500000      0.220000      0.760000          0.000224     0.046300  133.993000   0.625500   0.835000
+max     83.000000      0.546000      0.778000          0.081400     0.059800  139.781000   0.713000   0.974000

@@ -1,0 +1,27 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: emo (33.33%)
+	2: modern rock (33.33%)
+	3: rock (33.33%)
+Top artists
+	1: Fall Out Boy (100.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: UM7 (100.00%)
+Top year
+	1: 07 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0       1.00000         1.000               1.0       1.0000    1.000    1.000   1.000
+mean         75.0       0.00511         0.459               0.0       0.0623  154.837    0.588   0.891
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          75.0       0.00511         0.459               0.0       0.0623  154.837    0.588   0.891
+25%          75.0       0.00511         0.459               0.0       0.0623  154.837    0.588   0.891
+50%          75.0       0.00511         0.459               0.0       0.0623  154.837    0.588   0.891
+75%          75.0       0.00511         0.459               0.0       0.0623  154.837    0.588   0.891
+max          75.0       0.00511         0.459               0.0       0.0623  154.837    0.588   0.891

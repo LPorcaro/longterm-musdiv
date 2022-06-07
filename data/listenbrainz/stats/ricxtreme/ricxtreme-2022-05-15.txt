@@ -1,5 +1,5 @@
-Electronic artists found: ARTY,Griff Clawson, Hippie Sabotage, Joel Corry,MNEK, Alan Walker,Julie Bergan,K-391,SEUNGRI, Clean Bandit,Jess Glynne
-Electronic genres found: edm, tropical house, electro house, uplifting trance, russian edm, electronic trap, progressive house, uk funky, progressive electro house, pop edm
+Electronic artists found: Joel Corry,MNEK, Hippie Sabotage, ARTY,Griff Clawson, Clean Bandit,Jess Glynne, Alan Walker,Julie Bergan,K-391,SEUNGRI
+Electronic genres found: pop edm, progressive electro house, uk funky, russian edm, progressive house, electronic trap, electro house, uplifting trance, tropical house, edm
 Electronic music logs found: 13.64% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop (5.15%)
 	5: modern rock (4.12%)
 Top artists
-	1: MGMT (1.85%)
-	2: Alan Walker (1.85%)
-	3: Gson (1.85%)
-	4: benji price (1.85%)
-	5: Joel Corry (1.85%)
+	1: Dillaz (1.85%)
+	2: Joel Corry (1.85%)
+	3: SEUNGRI (1.85%)
+	4: LilyPichu (1.85%)
+	5: BoyWithUke (1.85%)
 Top country
 	1: PT (40.91%)
 	2: US (22.73%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   44.000000     44.000000     44.000000         44.000000    44.000000   44.000000  44.000000  44.000000
-mean    52.886364      0.356270      0.645682          0.024722     0.172386  118.116523   0.470239   0.596045
-std     17.612385      0.253460      0.135017          0.093078     0.135447   31.419874   0.201513   0.167675
+mean    52.772727      0.356270      0.645682          0.024722     0.172386  118.116523   0.470239   0.596045
+std     17.551073      0.253460      0.135017          0.093078     0.135447   31.419874   0.201513   0.167675
 min     20.000000      0.000394      0.356000          0.000000     0.034300   74.868000   0.091500   0.146000
 25%     38.750000      0.150500      0.568000          0.000000     0.057450   94.402500   0.324250   0.489750
 50%     47.000000      0.323500      0.667500          0.000002     0.134000  109.136000   0.475500   0.621500

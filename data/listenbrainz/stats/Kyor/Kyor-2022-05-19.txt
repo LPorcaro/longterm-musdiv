@@ -1,19 +1,19 @@
 Electronic artists found: Martin Garrix,DubVision,Jordan Grace
-Electronic genres found: edm, tropical house, electro house, progressive house, dutch edm
+Electronic genres found: dutch edm, tropical house, edm, progressive house
 Electronic music logs found: 5.00% 
 
 Top genres
-	1: underground hip hop (3.90%)
-	2: hip hop (3.90%)
-	3: rap (3.90%)
-	4: pop (3.90%)
-	5: latin (2.60%)
+	1: underground hip hop (4.00%)
+	2: hip hop (4.00%)
+	3: rap (4.00%)
+	4: pop (4.00%)
+	5: latin (2.67%)
 Top artists
-	1: Sfera Ebbasta (3.85%)
-	2: Billy Joel (3.85%)
-	3: Bladee (3.85%)
-	4: Bad Bunny (3.85%)
-	5: Kendrick Lamar (3.85%)
+	1: Bad Bunny (3.85%)
+	2: Shawn Mendes (3.85%)
+	3: Pale Waves (3.85%)
+	4: Oliver Francis (3.85%)
+	5: Martin Garrix (3.85%)
 Top country
 	1: US (50.00%)
 	2: QM (15.00%)
@@ -34,10 +34,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   20.000000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.000000
-mean    56.900000      0.092451      0.596650          0.005905     0.096970  131.278700   0.461190   0.694000
-std     15.890745      0.134841      0.158128          0.019882     0.091499   26.129248   0.241461   0.130145
+mean    55.450000      0.092451      0.596650          0.005905     0.096970  131.278700   0.461190   0.694000
+std     15.709451      0.134841      0.158128          0.019882     0.091499   26.129248   0.241461   0.130145
 min     33.000000      0.000343      0.255000          0.000000     0.030200   82.499000   0.098800   0.457000
-25%     45.000000      0.013565      0.514250          0.000000     0.036750  115.018000   0.284000   0.584750
-50%     54.000000      0.041450      0.588000          0.000004     0.067650  133.459500   0.431500   0.721000
-75%     63.000000      0.098425      0.718000          0.000179     0.115000  151.345750   0.665500   0.754500
-max     89.000000      0.523000      0.849000          0.088200     0.394000  170.059000   0.921000   0.901000
+25%     44.000000      0.013565      0.514250          0.000000     0.036750  115.018000   0.284000   0.584750
+50%     52.500000      0.041450      0.588000          0.000004     0.067650  133.459500   0.431500   0.721000
+75%     61.000000      0.098425      0.718000          0.000179     0.115000  151.345750   0.665500   0.754500
+max     84.000000      0.523000      0.849000          0.088200     0.394000  170.059000   0.921000   0.901000

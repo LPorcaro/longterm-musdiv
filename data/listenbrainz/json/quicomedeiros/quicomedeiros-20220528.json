@@ -1,0 +1,982 @@
+[
+    {
+        "listened_at": "2022-05-28T03:31:24",
+        "track_name": "Wake Me up When September Ends",
+        "artist_name": "Green Day",
+        "release_name": "American Idiot",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm",
+        "listening_from": "spotify",
+        "isrc": "USRE10400992",
+        "additional_info": {
+            "artist_msid": "7ef97e12-5648-4261-89ed-982da0eed624",
+            "artist_names": [
+                "Green Day"
+            ],
+            "discnumber": 1,
+            "duration_ms": 285653,
+            "isrc": "USRE10400992",
+            "listening_from": "spotify",
+            "recording_msid": "4fa43dd7-5d24-4350-b7b2-762557427360",
+            "release_artist_name": "Green Day",
+            "release_artist_names": [
+                "Green Day"
+            ],
+            "release_msid": "a572164b-a5fd-483e-9ab1-3bac45d5a603",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-28T03:27:27",
+        "track_name": "A Sky Full of Stars",
+        "artist_name": "Coldplay",
+        "release_name": "Ghost Stories",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ",
+        "listening_from": "spotify",
+        "isrc": "GBAYE1400217",
+        "additional_info": {
+            "artist_msid": "6599e41e-390c-4855-a2ac-68ee798538b4",
+            "artist_names": [
+                "Coldplay"
+            ],
+            "discnumber": 1,
+            "duration_ms": 267866,
+            "isrc": "GBAYE1400217",
+            "listening_from": "spotify",
+            "recording_msid": "df44735c-4d72-42aa-9881-13bacb2e78aa",
+            "release_artist_name": "Coldplay",
+            "release_artist_names": [
+                "Coldplay"
+            ],
+            "release_msid": "623a3d9d-9d22-418e-9adf-0de145dd871e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-28T03:22:59",
+        "track_name": "Here Without You",
+        "artist_name": "Boyce Avenue",
+        "release_name": "Cover Sessions, Vol. 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 28,
+        "spotify_id": "https://open.spotify.com/track/3Fwdij9seLaCGs4yOCQcJM",
+        "listening_from": "spotify",
+        "isrc": "USM951100031",
+        "additional_info": {
+            "artist_msid": "f5e64189-e742-4143-a290-da0c1d6bd988",
+            "artist_names": [
+                "Boyce Avenue"
+            ],
+            "discnumber": 1,
+            "duration_ms": 219999,
+            "isrc": "USM951100031",
+            "listening_from": "spotify",
+            "recording_msid": "07911ee2-2259-422a-99ea-ac900be5e278",
+            "release_artist_name": "Boyce Avenue",
+            "release_artist_names": [
+                "Boyce Avenue"
+            ],
+            "release_msid": "653a00ef-333c-4295-9b31-e0655b9b5895",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3Fwdij9seLaCGs4yOCQcJM",
+            "tracknumber": 28
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T23:50:50",
+        "track_name": "Wolves (with NAV)",
+        "artist_name": "Pop Smoke, NAV",
+        "release_name": "Meet The Woo 2 (Deluxe)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj",
+        "listening_from": "spotify",
+        "isrc": "USUM72003037",
+        "additional_info": {
+            "artist_msid": "d061698b-9263-4d4d-a25d-a48b4e5a3ac9",
+            "artist_names": [
+                "Pop Smoke",
+                "NAV"
+            ],
+            "discnumber": 1,
+            "duration_ms": 194680,
+            "isrc": "USUM72003037",
+            "listening_from": "spotify",
+            "recording_msid": "d34b0d61-63cf-493d-8378-2264582afc77",
+            "release_artist_name": "Pop Smoke",
+            "release_artist_names": [
+                "Pop Smoke"
+            ],
+            "release_msid": "7509ee1a-1616-4855-b139-b96e2cef3e2f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj",
+                "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T23:47:35",
+        "track_name": "Element",
+        "artist_name": "Pop Smoke",
+        "release_name": "Meet The Woo 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB",
+        "listening_from": "spotify",
+        "isrc": "USUM72002041",
+        "additional_info": {
+            "artist_msid": "5d79b9d6-2298-4a80-8e46-35df3209f285",
+            "artist_names": [
+                "Pop Smoke"
+            ],
+            "discnumber": 1,
+            "duration_ms": 135746,
+            "isrc": "USUM72002041",
+            "listening_from": "spotify",
+            "recording_msid": "76de5911-9335-48fa-826c-7b963455e96a",
+            "release_artist_name": "Pop Smoke",
+            "release_artist_names": [
+                "Pop Smoke"
+            ],
+            "release_msid": "7d4f1fb3-cf95-4d6c-8de2-bcc39b5976cf",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+            ],
+            "spotify_id": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T02:13:38",
+        "track_name": "Here Without You",
+        "artist_name": "Boyce Avenue",
+        "release_name": "Cover Sessions, Vol. 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 28,
+        "spotify_id": "https://open.spotify.com/track/3Fwdij9seLaCGs4yOCQcJM",
+        "listening_from": "spotify",
+        "isrc": "USM951100031",
+        "additional_info": {
+            "artist_msid": "f5e64189-e742-4143-a290-da0c1d6bd988",
+            "artist_names": [
+                "Boyce Avenue"
+            ],
+            "discnumber": 1,
+            "duration_ms": 219999,
+            "isrc": "USM951100031",
+            "listening_from": "spotify",
+            "recording_msid": "07911ee2-2259-422a-99ea-ac900be5e278",
+            "release_artist_name": "Boyce Avenue",
+            "release_artist_names": [
+                "Boyce Avenue"
+            ],
+            "release_msid": "653a00ef-333c-4295-9b31-e0655b9b5895",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3Fwdij9seLaCGs4yOCQcJM",
+            "tracknumber": 28
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T02:12:36",
+        "track_name": "Love Yourself",
+        "artist_name": "Justin Bieber",
+        "release_name": "Purpose (Deluxe)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0",
+        "listening_from": "spotify",
+        "isrc": "USUM71516761",
+        "additional_info": {
+            "artist_msid": "50fbeb99-f068-41f7-beaf-cf18daf19124",
+            "artist_names": [
+                "Justin Bieber"
+            ],
+            "discnumber": 1,
+            "duration_ms": 233720,
+            "isrc": "USUM71516761",
+            "listening_from": "spotify",
+            "recording_msid": "817e090e-1d91-4474-8bde-6a4aba5cb3a3",
+            "release_artist_name": "Justin Bieber",
+            "release_artist_names": [
+                "Justin Bieber"
+            ],
+            "release_msid": "1a25d504-5380-4d22-8de1-cd099bca162f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+            ],
+            "spotify_id": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T02:08:42",
+        "track_name": "S2",
+        "artist_name": "Bispo",
+        "release_name": "S2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5ST37xjKMW3WL0a723EN1b",
+        "listening_from": "spotify",
+        "isrc": "PTBM12000081",
+        "additional_info": {
+            "artist_msid": "52b5fd01-9e72-4c3c-b799-94c59f2c2c60",
+            "artist_names": [
+                "Bispo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 153738,
+            "isrc": "PTBM12000081",
+            "listening_from": "spotify",
+            "recording_msid": "3a1d0e40-ffc9-4b51-8056-22506b660330",
+            "release_artist_name": "Bispo",
+            "release_artist_names": [
+                "Bispo"
+            ],
+            "release_msid": "d34daaf0-324b-4857-b45f-9cb8f93f82a7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3VYlWyyKlrrqnaLOjpaDSj",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5ST37xjKMW3WL0a723EN1b",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T02:06:08",
+        "track_name": "Bad Liar",
+        "artist_name": "Imagine Dragons",
+        "release_name": "Origins (Deluxe)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3",
+        "listening_from": "spotify",
+        "isrc": "USUM71816161",
+        "additional_info": {
+            "artist_msid": "fecda98e-0533-4b87-a9d1-c89b4521918b",
+            "artist_names": [
+                "Imagine Dragons"
+            ],
+            "discnumber": 1,
+            "duration_ms": 260773,
+            "isrc": "USUM71816161",
+            "listening_from": "spotify",
+            "recording_msid": "2fa39d77-5b54-4ee7-94cb-f19e6e8444d8",
+            "release_artist_name": "Imagine Dragons",
+            "release_artist_names": [
+                "Imagine Dragons"
+            ],
+            "release_msid": "8e117f3d-013d-4c42-96e4-96cfa552fee7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T02:01:47",
+        "track_name": "Diz-Me Que Sim",
+        "artist_name": "4Taste",
+        "release_name": "Morangos com A\u00e7\u00facar - O Filme",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/2K7rnJCn30fS39C4eakuWe",
+        "listening_from": "spotify",
+        "isrc": "PTFA10800726",
+        "additional_info": {
+            "artist_msid": "628eaadc-fc8b-4137-9517-ccbccfd1f764",
+            "artist_names": [
+                "4Taste"
+            ],
+            "discnumber": 1,
+            "duration_ms": 160733,
+            "isrc": "PTFA10800726",
+            "listening_from": "spotify",
+            "recording_msid": "298d6c9c-8afb-40a1-a519-07f88bf13dbc",
+            "release_artist_name": "Various Artists",
+            "release_artist_names": [
+                "Various Artists"
+            ],
+            "release_msid": "52d5dc0f-3545-43cb-831c-5afd9782ef75",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7zXGglBIGr4yGYUyNmEExU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0qrfmTq2F6RkLpMs7ulwiK"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2K7rnJCn30fS39C4eakuWe",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:59:05",
+        "track_name": "Jealous",
+        "artist_name": "Labrinth",
+        "release_name": "Jealous - EP",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z",
+        "listening_from": "spotify",
+        "isrc": "GBHMU1400291",
+        "additional_info": {
+            "artist_msid": "0429f238-f888-4f35-aa10-540948635371",
+            "artist_names": [
+                "Labrinth"
+            ],
+            "discnumber": 1,
+            "duration_ms": 287693,
+            "isrc": "GBHMU1400291",
+            "listening_from": "spotify",
+            "recording_msid": "9c97db4a-3e6d-432d-aa0c-2b5e0334eee8",
+            "release_artist_name": "Labrinth",
+            "release_artist_names": [
+                "Labrinth"
+            ],
+            "release_msid": "09c02d2d-63f2-4148-a340-00602f3a1e0f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:54:17",
+        "track_name": "D\u00e1-me Um Abra\u00e7o",
+        "artist_name": "Miguel Gameiro",
+        "release_name": "A Porta Ao Lado",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/324M4IuiOPMsseUtBHLLoR",
+        "listening_from": "spotify",
+        "isrc": "PTIP11000011",
+        "additional_info": {
+            "artist_msid": "25ac2a62-cbe0-404e-8f12-f432297b511e",
+            "artist_names": [
+                "Miguel Gameiro"
+            ],
+            "discnumber": 1,
+            "duration_ms": 245386,
+            "isrc": "PTIP11000011",
+            "listening_from": "spotify",
+            "recording_msid": "aa1d42a2-95d3-4b00-8c15-cb17c6815a5a",
+            "release_artist_name": "Miguel Gameiro",
+            "release_artist_names": [
+                "Miguel Gameiro"
+            ],
+            "release_msid": "6cc8ffd0-664f-4f21-b39d-61f96fb67689",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3c36Iqp2Pd26nnJtkmDBd3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6EPo6Wb8sKxaa2KvlQcVXR",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3c36Iqp2Pd26nnJtkmDBd3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/324M4IuiOPMsseUtBHLLoR",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:50:12",
+        "track_name": "How to Save a Life",
+        "artist_name": "The Fray",
+        "release_name": "How To Save A Life",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J",
+        "listening_from": "spotify",
+        "isrc": "USSM10601178",
+        "additional_info": {
+            "artist_msid": "3b155259-b29e-4515-aa62-cb0b917f4cfd",
+            "artist_names": [
+                "The Fray"
+            ],
+            "discnumber": 1,
+            "duration_ms": 262533,
+            "isrc": "USSM10601178",
+            "listening_from": "spotify",
+            "recording_msid": "f6d5c230-6969-4f07-877a-4f4fac032700",
+            "release_artist_name": "The Fray",
+            "release_artist_names": [
+                "The Fray"
+            ],
+            "release_msid": "ab4e8956-3782-482b-9b2d-de1111c200f7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:45:48",
+        "track_name": "Because of You",
+        "artist_name": "Kelly Clarkson",
+        "release_name": "Breakaway",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc",
+        "listening_from": "spotify",
+        "isrc": "GBCTA0400265",
+        "additional_info": {
+            "artist_msid": "63edafe9-2559-4f79-9fc3-33258bc730dc",
+            "artist_names": [
+                "Kelly Clarkson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 219493,
+            "isrc": "GBCTA0400265",
+            "listening_from": "spotify",
+            "recording_msid": "3ca8f6df-afa4-49f6-889a-2abdf8667340",
+            "release_artist_name": "Kelly Clarkson",
+            "release_artist_names": [
+                "Kelly Clarkson"
+            ],
+            "release_msid": "228c62f1-6795-4ee1-8894-69cb5f6d55ea",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:42:08",
+        "track_name": "Love Me Like You Do",
+        "artist_name": "Boyce Avenue",
+        "release_name": "Cover Sessions, Vol. 4",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5LHruF9uFyPxGpimaknrU8",
+        "listening_from": "spotify",
+        "isrc": "USM951500004",
+        "additional_info": {
+            "artist_msid": "f5e64189-e742-4143-a290-da0c1d6bd988",
+            "artist_names": [
+                "Boyce Avenue"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198218,
+            "isrc": "USM951500004",
+            "listening_from": "spotify",
+            "recording_msid": "158f8e18-2b4f-488b-996f-bddb266097f7",
+            "release_artist_name": "Boyce Avenue",
+            "release_artist_names": [
+                "Boyce Avenue"
+            ],
+            "release_msid": "7fb6df00-b080-4af5-9207-24fd73e39eee",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5LHruF9uFyPxGpimaknrU8",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:38:49",
+        "track_name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+        "artist_name": "James Arthur, Anne-Marie",
+        "release_name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV",
+        "listening_from": "spotify",
+        "isrc": "USAT21811554",
+        "additional_info": {
+            "artist_msid": "fee9f366-0b2d-42a4-bee0-7601fe69e8df",
+            "artist_names": [
+                "James Arthur",
+                "Anne-Marie"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218293,
+            "isrc": "USAT21811554",
+            "listening_from": "spotify",
+            "recording_msid": "52565da7-d0d4-4024-b320-de8b24645d2a",
+            "release_artist_name": "James Arthur, Anne-Marie",
+            "release_artist_names": [
+                "James Arthur",
+                "Anne-Marie"
+            ],
+            "release_msid": "88c8fd6b-924d-4643-88d9-49e0045293e8",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM",
+                "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM",
+                "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:29:08",
+        "track_name": "Shallow",
+        "artist_name": "Lady Gaga, Bradley Cooper",
+        "release_name": "A Star Is Born Soundtrack",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 12,
+        "spotify_id": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B",
+        "listening_from": "spotify",
+        "isrc": "USUM71813192",
+        "additional_info": {
+            "artist_msid": "0edc3247-c9a8-4676-ab15-4a610d885665",
+            "artist_names": [
+                "Lady Gaga",
+                "Bradley Cooper"
+            ],
+            "discnumber": 1,
+            "duration_ms": 215733,
+            "isrc": "USUM71813192",
+            "listening_from": "spotify",
+            "recording_msid": "4a266ce3-81e9-4522-91b4-1616c4d27d4a",
+            "release_artist_name": "Lady Gaga, Bradley Cooper",
+            "release_artist_names": [
+                "Lady Gaga",
+                "Bradley Cooper"
+            ],
+            "release_msid": "0d9961a8-b183-4e48-975f-1db6cfdde143",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+                "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+                "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B",
+            "tracknumber": 12
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T01:23:45",
+        "track_name": "Before You Go",
+        "artist_name": "Lewis Capaldi",
+        "release_name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 13,
+        "spotify_id": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP",
+        "listening_from": "spotify",
+        "isrc": "DEUM71905868",
+        "additional_info": {
+            "artist_msid": "0a83aed4-d336-4e75-9b6b-8622c9e23bce",
+            "artist_names": [
+                "Lewis Capaldi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 215106,
+            "isrc": "DEUM71905868",
+            "listening_from": "spotify",
+            "recording_msid": "aeb7e6c1-2527-4345-a293-6e9fc3ae2424",
+            "release_artist_name": "Lewis Capaldi",
+            "release_artist_names": [
+                "Lewis Capaldi"
+            ],
+            "release_msid": "0569f8a0-0d7f-46be-ac8e-5562d1f0fdab",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP",
+            "tracknumber": 13
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T00:57:40",
+        "track_name": "Before You Go",
+        "artist_name": "Lewis Capaldi",
+        "release_name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 13,
+        "spotify_id": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP",
+        "listening_from": "spotify",
+        "isrc": "DEUM71905868",
+        "additional_info": {
+            "artist_msid": "0a83aed4-d336-4e75-9b6b-8622c9e23bce",
+            "artist_names": [
+                "Lewis Capaldi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 215106,
+            "isrc": "DEUM71905868",
+            "listening_from": "spotify",
+            "recording_msid": "aeb7e6c1-2527-4345-a293-6e9fc3ae2424",
+            "release_artist_name": "Lewis Capaldi",
+            "release_artist_names": [
+                "Lewis Capaldi"
+            ],
+            "release_msid": "0569f8a0-0d7f-46be-ac8e-5562d1f0fdab",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP",
+            "tracknumber": 13
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T00:54:05",
+        "track_name": "Trap Queen",
+        "artist_name": "Fetty Wap",
+        "release_name": "Fetty Wap",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0TzxcB6dK46vgXZT2P8qeR",
+        "listening_from": "spotify",
+        "isrc": "QM7XC1400004",
+        "additional_info": {
+            "artist_msid": "1fd86d79-a958-434f-aff5-e033b3f6243b",
+            "artist_names": [
+                "Fetty Wap"
+            ],
+            "discnumber": 1,
+            "duration_ms": 222128,
+            "isrc": "QM7XC1400004",
+            "listening_from": "spotify",
+            "recording_msid": "3d855264-cce2-4b42-97f5-50538d6c6a6d",
+            "release_artist_name": "Fetty Wap",
+            "release_artist_names": [
+                "Fetty Wap"
+            ],
+            "release_msid": "28e6c887-e121-4b4e-926c-64f031059d1a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1wCr7zhB4lMa2vZVhu4ty6",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0TzxcB6dK46vgXZT2P8qeR",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T00:50:23",
+        "track_name": "Blinding Lights",
+        "artist_name": "The Weeknd",
+        "release_name": "After Hours",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+        "listening_from": "spotify",
+        "isrc": "USUG11904206",
+        "additional_info": {
+            "artist_msid": "2b0646af-f3f0-4a5b-b629-6c31301c1c29",
+            "artist_names": [
+                "The Weeknd"
+            ],
+            "discnumber": 1,
+            "duration_ms": 200040,
+            "isrc": "USUG11904206",
+            "listening_from": "spotify",
+            "recording_msid": "a125fcbd-e9a3-41b2-adc0-dae6b33c95c2",
+            "release_artist_name": "The Weeknd",
+            "release_artist_names": [
+                "The Weeknd"
+            ],
+            "release_msid": "67541a34-c2b0-4f0a-87df-1fe7636e90ec",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T15:53:37",
+        "track_name": "N\u00e3o Tens Visto",
+        "artist_name": "Wet Bed Gang",
+        "release_name": "Filhos do Rossi",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/3WzINtpiKu6mwJu8ax7EdC",
+        "listening_from": "spotify",
+        "isrc": "ES71G1730552",
+        "additional_info": {
+            "artist_msid": "cded20de-2a35-47bd-9400-4c7e3e8a8bad",
+            "artist_names": [
+                "Wet Bed Gang"
+            ],
+            "discnumber": 1,
+            "duration_ms": 327400,
+            "isrc": "ES71G1730552",
+            "listening_from": "spotify",
+            "recording_msid": "75274c44-4a24-43b7-aeff-8114bab7552c",
+            "release_artist_name": "Wet Bed Gang",
+            "release_artist_names": [
+                "Wet Bed Gang"
+            ],
+            "release_msid": "b360187d-4e16-4f17-ae26-a90bc233c9e9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2f5uxbx6FAcV7ZdlMIFv3p",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3WzINtpiKu6mwJu8ax7EdC",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-23T22:52:21",
+        "track_name": "Meu Ego",
+        "artist_name": "Deejay Telio, Deedz B",
+        "release_name": "Happy Day",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4g7pN0tzE26Hv4HM3UTwfO",
+        "listening_from": "spotify",
+        "isrc": "ES71G1875730",
+        "additional_info": {
+            "artist_msid": "06e2c019-17fb-49e3-a6f1-33b29baf904f",
+            "artist_names": [
+                "Deejay Telio",
+                "Deedz B"
+            ],
+            "discnumber": 1,
+            "duration_ms": 221927,
+            "isrc": "ES71G1875730",
+            "listening_from": "spotify",
+            "recording_msid": "c0971dad-2696-4c39-be88-8048bc7b067e",
+            "release_artist_name": "Deejay Telio, Deedz B",
+            "release_artist_names": [
+                "Deejay Telio",
+                "Deedz B"
+            ],
+            "release_msid": "929bb82b-11f0-4e43-83bd-af98c2dad6dc",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n",
+                "https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1LolhKys5DMOaGRAzaqPsE",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n",
+                "https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4g7pN0tzE26Hv4HM3UTwfO",
+            "tracknumber": 3
+        },
+        "username": null
+    }
+]

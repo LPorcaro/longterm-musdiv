@@ -1,19 +1,19 @@
-Electronic artists found: JP Cooper, Surf Mesa,Emilee, Ludovico Einaudi, Sam Fischer,Demi Lovato, Joep Beving, Elderbrook,Rudimental, Shallou,Daya, John K,Kelsea Ballerini, Ludovico Einaudi,Daniel Hope,I Virtuosi Italiani, Kygo,OneRepublic, Sam Fischer, John K
+Electronic artists found: Joep Beving, Shallou,Daya, John K,Kelsea Ballerini, Sam Fischer, John K, Surf Mesa,Emilee, JP Cooper, Sam Fischer,Demi Lovato, Ludovico Einaudi, Ludovico Einaudi,Daniel Hope,I Virtuosi Italiani, Elderbrook,Rudimental, Kygo,OneRepublic
 Electronic genres found: tropical house, compositional ambient, edm
 Electronic music logs found: 20.25% 
 
 Top genres
-	1: pop (12.97%)
-	2: electropop (6.69%)
-	3: classical (6.28%)
-	4: uk pop (6.28%)
-	5: alt z (5.02%)
+	1: pop (12.92%)
+	2: uk pop (7.08%)
+	3: electropop (6.67%)
+	4: classical (6.25%)
+	5: alt z (5.00%)
 Top artists
-	1: Gabriel Fauré (0.94%)
-	2: Víkingur Ólafsson (0.94%)
-	3: NOAH (0.94%)
-	4: Mokita (0.94%)
-	5: Kygo (0.94%)
+	1: Alexander Scriabin (0.94%)
+	2: Rudimental (0.94%)
+	3: Sam Fischer (0.94%)
+	4: Joann Falletta (0.94%)
+	5: K E M A L (0.94%)
 Top country
 	1: GB (35.44%)
 	2: US (18.99%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   79.000000     79.000000     79.000000         79.000000    79.000000   79.000000  79.000000  79.000000
-mean    59.151899      0.673037      0.472684          0.327980     0.066733  110.151696   0.278118   0.298638
-std      7.731203      0.318651      0.200456          0.437324     0.052060   34.356022   0.182765   0.244803
+mean    59.215190      0.673037      0.472684          0.327980     0.066733  110.151696   0.278118   0.298638
+std      7.722214      0.318651      0.200456          0.437324     0.052060   34.356022   0.182765   0.244803
 min     38.000000      0.056300      0.092100          0.000000     0.027900   62.668000   0.033200   0.001930
 25%     55.000000      0.355000      0.306000          0.000000     0.040500   80.537000   0.134500   0.024700
 50%     59.000000      0.802000      0.474000          0.000018     0.047600  104.935000   0.265000   0.351000
 75%     63.000000      0.986000      0.646000          0.908000     0.069300  138.917500   0.374500   0.470000
-max     76.000000      0.995000      0.955000          0.961000     0.350000  191.817000   0.795000   0.843000
+max     77.000000      0.995000      0.955000          0.961000     0.350000  191.817000   0.795000   0.843000

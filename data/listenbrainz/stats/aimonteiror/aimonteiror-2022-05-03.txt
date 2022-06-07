@@ -1,0 +1,33 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: dance pop (20.00%)
+	2: pop (20.00%)
+	3: post-teen pop (20.00%)
+	4: indie pop (20.00%)
+	5: la indie (20.00%)
+Top artists
+	1: Ed Sheeran (33.33%)
+	2: Camila Cabello (33.33%)
+	3: The Regrettes (33.33%)
+Top country
+	1: US (100.00%)
+Top record
+	1: SM1 (50.00%)
+	2: WB1 (50.00%)
+Top year
+	1: 22 (50.00%)
+	2: 21 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    2.000000      2.000000      2.000000               2.0     2.000000    2.000000  2.000000  2.000000
+mean    75.000000      0.219500      0.753500               0.0     0.037550  107.492000  0.812000  0.690000
+std     21.213203      0.053033      0.003536               0.0     0.003606   17.672013  0.203647  0.009899
+min     60.000000      0.182000      0.751000               0.0     0.035000   94.996000  0.668000  0.683000
+25%     67.500000      0.200750      0.752250               0.0     0.036275  101.244000  0.740000  0.686500
+50%     75.000000      0.219500      0.753500               0.0     0.037550  107.492000  0.812000  0.690000
+75%     82.500000      0.238250      0.754750               0.0     0.038825  113.740000  0.884000  0.693500
+max     90.000000      0.257000      0.756000               0.0     0.040100  119.988000  0.956000  0.697000

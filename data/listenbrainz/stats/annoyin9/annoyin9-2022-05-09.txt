@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (12.50%)
-	2: r&b (11.11%)
-	3: alternative r&b (10.42%)
-	4: dance pop (7.99%)
-	5: pop rap (5.90%)
+	1: pop (12.86%)
+	2: r&b (11.43%)
+	3: alternative r&b (8.57%)
+	4: dance pop (7.86%)
+	5: pop rap (6.07%)
 Top artists
-	1: Muni Long (1.56%)
-	2: IZ*ONE (1.56%)
-	3: Eladio Carrion (1.56%)
-	4: Rauw Alejandro (1.56%)
-	5: Omar Apollo (1.56%)
+	1: Bomba Estéreo (1.56%)
+	2: Avry (1.56%)
+	3: Bad Bunny (1.56%)
+	4: Guaynaa (1.56%)
+	5: Eladio Carrion (1.56%)
 Top country
 	1: US (54.05%)
 	2: QM (16.22%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   74.000000     74.000000     74.000000         74.000000    74.000000   74.000000  74.000000  74.000000
-mean    63.189189      0.282832      0.700703          0.003964     0.102758  115.757878   0.528568   0.616089
-std     13.179141      0.222684      0.122772          0.027938     0.070286   31.128073   0.186849   0.159860
+mean    63.297297      0.282832      0.700703          0.003964     0.102758  115.757878   0.528568   0.616089
+std     13.205156      0.222684      0.122772          0.027938     0.070286   31.128073   0.186849   0.159860
 min     37.000000      0.001840      0.192000          0.000000     0.032800   60.042000   0.183000   0.074600
 25%     53.000000      0.097200      0.621500          0.000000     0.053925   90.532500   0.404750   0.513000
 50%     63.000000      0.258000      0.725500          0.000004     0.077800  113.488000   0.517000   0.615500

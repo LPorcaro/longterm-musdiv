@@ -1,0 +1,45 @@
+Electronic artists found: Bob Sinclar,Gary Pine,DollarMan, Bob Sinclar,Molly Hammar, NOËP,CHINCHILLA
+Electronic genres found: estonian electronic, electro house, disco house, tropical house, edm
+Electronic music logs found: 33.33% 
+
+Top genres
+	1: dance pop (9.38%)
+	2: pop (6.25%)
+	3: italian adult pop (6.25%)
+	4: italian pop (6.25%)
+	5: disco house (6.25%)
+Top artists
+	1: Gary Go (7.69%)
+	2: Timbaland (7.69%)
+	3: NOËP (7.69%)
+	4: Irama (7.69%)
+	5: The Neighbourhood (7.69%)
+Top country
+	1: US (33.33%)
+	2: IT (22.22%)
+	3: FR (22.22%)
+	4: EE (11.11%)
+	5: GB (11.11%)
+Top record
+	1: Q00 (22.22%)
+	2: 4E4 (22.22%)
+	3: JI1 (11.11%)
+	4: TI1 (11.11%)
+	5: SD1 (11.11%)
+Top year
+	1: 22 (22.22%)
+	2: 06 (11.11%)
+	3: 19 (11.11%)
+	4: 20 (11.11%)
+	5: 13 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    62.333333      0.140888      0.724889          0.002069     0.080056  110.614222  0.714889  0.757667
+std     20.124612      0.129853      0.127213          0.005866     0.039769   22.118488  0.273137  0.135193
+min     26.000000      0.008090      0.506000          0.000000     0.033600   74.992000  0.145000  0.486000
+25%     48.000000      0.049500      0.668000          0.000001     0.057200  100.070000  0.669000  0.756000
+50%     74.000000      0.091000      0.742000          0.000010     0.059000  119.978000  0.828000  0.808000
+75%     74.000000      0.279000      0.775000          0.000214     0.098900  124.053000  0.846000  0.808000
+max     88.000000      0.362000      0.967000          0.017700     0.159000  131.945000  0.964000  0.906000

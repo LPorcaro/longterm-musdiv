@@ -1,0 +1,31 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: cantautor (25.00%)
+	2: spanish folk rock (25.00%)
+	3: spanish new wave (25.00%)
+	4: spanish pop (25.00%)
+Top artists
+	1: Enrique Urquijo y Los problemas (50.00%)
+	2: Carmen Boza (50.00%)
+Top country
+	1: ES (100.00%)
+Top record
+	1: 501 (50.00%)
+	2: 94J (50.00%)
+Top year
+	1: 98 (50.00%)
+	2: 18 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence   energy
+count    2.000000      2.000000      2.000000      2.000000e+00     2.000000    2.000000  2.000000  2.00000
+mean    24.000000      0.413000      0.666500      1.605000e-06     0.037000  137.316000  0.589000  0.48100
+std      7.071068      0.393151      0.006364      2.269813e-06     0.008485   48.593792  0.118794  0.16122
+min     19.000000      0.135000      0.662000      0.000000e+00     0.031000  102.955000  0.505000  0.36700
+25%     21.500000      0.274000      0.664250      8.025000e-07     0.034000  120.135500  0.547000  0.42400
+50%     24.000000      0.413000      0.666500      1.605000e-06     0.037000  137.316000  0.589000  0.48100
+75%     26.500000      0.552000      0.668750      2.407500e-06     0.040000  154.496500  0.631000  0.53800
+max     29.000000      0.691000      0.671000      3.210000e-06     0.043000  171.677000  0.673000  0.59500

@@ -1,0 +1,41 @@
+Electronic artists found: League of Legends,Nicki Taylor
+Electronic genres found: video game music
+Electronic music logs found: 16.67% 
+
+Top genres
+	1: pop (10.53%)
+	2: rock (10.53%)
+	3: bergamo indie (5.26%)
+	4: italian indie pop (5.26%)
+	5: italian pop (5.26%)
+Top artists
+	1: Pentatonix (11.11%)
+	2: League of Legends (11.11%)
+	3: Nicki Taylor (11.11%)
+	4: Queen (11.11%)
+	5: PVRIS (11.11%)
+Top country
+	1: QZ (33.33%)
+	2: US (33.33%)
+	3: IT (16.67%)
+	4: GB (16.67%)
+Top record
+	1: H6S (33.33%)
+	2: UM7 (33.33%)
+	3: B00 (16.67%)
+	4: 4DG (16.67%)
+Top year
+	1: 19 (66.67%)
+	2: 13 (16.67%)
+	3: 10 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    58.500000      0.187180      0.602000          0.000280     0.080783  129.991000  0.561667  0.651333
+std     12.045746      0.258872      0.141769          0.000485     0.078920   20.897039  0.150703  0.163021
+min     41.000000      0.000397      0.421000          0.000000     0.031700  108.950000  0.366000  0.435000
+25%     50.750000      0.001074      0.508500          0.000012     0.035025  112.101750  0.471750  0.544500
+50%     60.000000      0.042915      0.599500          0.000084     0.056200  126.497000  0.545500  0.639000
+75%     67.750000      0.388525      0.689000          0.000225     0.070025  146.240500  0.647750  0.789750
+max     72.000000      0.546000      0.795000          0.001250     0.238000  157.877000  0.784000  0.842000

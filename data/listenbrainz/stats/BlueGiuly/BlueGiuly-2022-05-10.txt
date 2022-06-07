@@ -1,5 +1,5 @@
-Electronic artists found: Zara Larsson,Sabrina Carpenter, R3HAB,Sigala,JP Cooper
-Electronic genres found: electro house, tropical house, progressive electro house, dutch house, slap house, edm
+Electronic artists found: R3HAB,Sigala,JP Cooper, Zara Larsson,Sabrina Carpenter
+Electronic genres found: progressive electro house, slap house, electro house, tropical house, edm, dutch house
 Electronic music logs found: 13.33% 
 
 Top genres
@@ -10,10 +10,10 @@ Top genres
 	5: dance pop (7.14%)
 Top artists
 	1: The Kid LAROI (5.56%)
-	2: Sabrina Carpenter (5.56%)
-	3: SUHO (5.56%)
-	4: Zara Larsson (5.56%)
-	5: Harry Styles (5.56%)
+	2: PSY (5.56%)
+	3: Doja Cat (5.56%)
+	4: TWICE (5.56%)
+	5: Justin Bieber (5.56%)
 Top country
 	1: US (46.67%)
 	2: KR (26.67%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   15.000000     15.000000      15.00000         15.000000    15.000000   15.000000  15.000000  15.000000
-mean    78.333333      0.188519       0.67680          0.000086     0.082793  128.919667   0.596033   0.752667
-std     10.097147      0.186334       0.12553          0.000258     0.045609   28.847630   0.221145   0.115040
+mean    78.466667      0.188519       0.67680          0.000086     0.082793  128.919667   0.596033   0.752667
+std     10.225086      0.186334       0.12553          0.000258     0.045609   28.847630   0.221145   0.115040
 min     64.000000      0.003790       0.43600          0.000000     0.030900   77.486000   0.095500   0.482000
 25%     72.500000      0.034100       0.60350          0.000000     0.045800  114.451500   0.488500   0.697500
 50%     78.000000      0.089900       0.70200          0.000000     0.071300  121.830000   0.538000   0.744000
-75%     84.500000      0.315500       0.74850          0.000054     0.104550  146.880500   0.759000   0.811000
+75%     85.000000      0.315500       0.74850          0.000054     0.104550  146.880500   0.759000   0.811000
 max    100.000000      0.586000       0.90500          0.001010     0.164000  173.930000   0.922000   0.962000

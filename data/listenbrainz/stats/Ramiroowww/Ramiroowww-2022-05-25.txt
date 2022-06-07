@@ -1,6 +1,6 @@
-Electronic artists found: Calvin Harris, Kozlov, Hippie Sabotage, Nico Moreno, Martin Garrix, CamelPhat,Elderbrook, VINAI,Hard Lights,Afrojack, Rephate,RZVX, ØRGIE, Matt Simons
-Electronic genres found: deep tech house, electro house, progressive house, tropical house, dutch edm, electronic trap, melbourne bounce international, techno rave, slap house, edm, hard techno
-Electronic music logs found: 18.33% 
+Electronic artists found: ØRGIE, Hippie Sabotage, Kozlov, CamelPhat,Elderbrook, Matt Simons, Martin Garrix, Rephate,RZVX, Calvin Harris, Nico Moreno, VINAI,Hard Lights,Afrojack
+Electronic genres found: melbourne bounce international, slap house, deep tech house, progressive house, electronic trap, techno rave, electro house, dutch edm, hard techno, tropical house, edm
+Electronic music logs found: 18.03% 
 
 Top genres
 	1: pop (8.63%)
@@ -9,37 +9,37 @@ Top genres
 	4: electropop (4.06%)
 	5: dance pop (3.55%)
 Top artists
-	1: The Calling (1.75%)
-	2: All Time Low (1.75%)
-	3: Hippie Sabotage (1.75%)
-	4: Megan Thee Stallion (1.75%)
-	5: CamelPhat (1.75%)
+	1: Megan Thee Stallion (1.72%)
+	2: Bad Bunny (1.72%)
+	3: Surf Curse (1.72%)
+	4: FKA twigs (1.72%)
+	5: ARENCI (1.72%)
 Top country
-	1: US (61.67%)
-	2: GB (10.00%)
-	3: QM (8.33%)
-	4: QZ (6.67%)
-	5: NL (5.00%)
+	1: US (60.66%)
+	2: GB (9.84%)
+	3: QZ (8.20%)
+	4: QM (8.20%)
+	5: NL (4.92%)
 Top record
-	1: UM7 (21.67%)
-	2: RC1 (6.67%)
-	3: WB1 (5.00%)
-	4: AT2 (5.00%)
-	5: HR1 (3.33%)
+	1: UM7 (21.31%)
+	2: RC1 (6.56%)
+	3: WB1 (4.92%)
+	4: AT2 (4.92%)
+	5: HR1 (3.28%)
 Top year
-	1: 20 (21.67%)
-	2: 21 (16.67%)
-	3: 19 (11.67%)
-	4: 17 (6.67%)
-	5: 03 (6.67%)
+	1: 20 (22.95%)
+	2: 21 (16.39%)
+	3: 19 (11.48%)
+	4: 17 (6.56%)
+	5: 03 (6.56%)
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count    60.00000     60.000000     60.000000         60.000000    60.000000   60.000000  60.000000  60.000000
-mean     60.55000      0.174692      0.603133          0.171162     0.103835  128.515683   0.432433   0.729850
-std      19.03202      0.289171      0.152754          0.317495     0.096219   29.131490   0.237895   0.243799
-min      12.00000      0.000012      0.332000          0.000000     0.025200   75.008000   0.036600   0.133000
-25%      47.75000      0.003375      0.504250          0.000000     0.044450  106.341500   0.267000   0.527750
-50%      67.00000      0.026600      0.593500          0.000048     0.061050  127.978000   0.405500   0.834000
-75%      73.25000      0.150750      0.678500          0.070775     0.132500  149.311250   0.637250   0.934250
-max      87.00000      0.974000      0.934000          0.949000     0.445000  199.972000   0.933000   0.998000
+count   61.000000     61.000000     61.000000         61.000000    61.000000   61.000000  61.000000  61.000000
+mean    60.770492      0.172497      0.598066          0.170094     0.102770  128.866902   0.425992   0.729475
+std     18.951160      0.287263      0.156562          0.314948     0.095776   29.017654   0.241209   0.241776
+min     12.000000      0.000012      0.294000          0.000000     0.025200   75.008000   0.036600   0.133000
+25%     48.000000      0.003590      0.502000          0.000000     0.044000  107.984000   0.261000   0.533000
+50%     68.000000      0.027200      0.593000          0.000074     0.061000  128.007000   0.404000   0.831000
+75%     74.000000      0.127000      0.675000          0.106000     0.130000  149.940000   0.637000   0.932000
+max     87.000000      0.974000      0.934000          0.949000     0.445000  199.972000   0.933000   0.998000

@@ -1,0 +1,41 @@
+Electronic artists found: DJ Snake,Ozuna,Megan Thee Stallion,LISA
+Electronic genres found: edm, electronic trap
+Electronic music logs found: 14.29% 
+
+Top genres
+	1: pop (21.43%)
+	2: dance pop (10.71%)
+	3: latin (10.71%)
+	4: latin pop (7.14%)
+	5: latin viral pop (7.14%)
+Top artists
+	1: Ozuna (9.09%)
+	2: Megan Thee Stallion (9.09%)
+	3: Danna Paola (9.09%)
+	4: Doja Cat (9.09%)
+	5: Snow (9.09%)
+Top country
+	1: US (71.43%)
+	2: MX (28.57%)
+Top record
+	1: UM7 (42.86%)
+	2: RC1 (14.29%)
+	3: AT2 (14.29%)
+	4: UG1 (14.29%)
+	5: 2BU (14.29%)
+Top year
+	1: 19 (28.57%)
+	2: 21 (28.57%)
+	3: 20 (28.57%)
+	4: 15 (14.29%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    7.000000      7.000000      7.000000          7.000000     7.000000    7.000000  7.000000  7.000000
+mean    69.000000      0.248666      0.740286          0.001507     0.074957  109.303000  0.505143  0.745286
+std     10.311806      0.236332      0.047324          0.002852     0.047679   30.144505  0.160196  0.113259
+min     50.000000      0.004060      0.680000          0.000000     0.032200   77.014000  0.281000  0.615000
+25%     64.000000      0.076800      0.705500          0.000000     0.048300   96.992000  0.406500  0.647500
+50%     73.000000      0.217000      0.737000          0.000002     0.059300  100.003000  0.450000  0.729000
+75%     77.000000      0.377000      0.777000          0.001569     0.081800  111.992500  0.645000  0.848500
+max     78.000000      0.612000      0.800000          0.007410     0.173000  170.135000  0.702000  0.881000

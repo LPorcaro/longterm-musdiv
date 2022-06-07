@@ -1,0 +1,44 @@
+Electronic artists found: Swedish House Mafia,Connie Constance, Felix Jaehn,Robin Schulz,James Hype,Georgia Ku, Jax Jones,Au/Ra, KVSH,Schillist, Tungevaag,Raaban,Isac Elliot
+Electronic genres found: progressive electro house, brazilian edm, electro house, tropical house, edm
+Electronic music logs found: 50.00% 
+
+Top genres
+	1: dance pop (9.30%)
+	2: pop (9.30%)
+	3: edm (9.30%)
+	4: electro house (9.30%)
+	5: pop dance (9.30%)
+Top artists
+	1: Raaban (5.56%)
+	2: Georgia Ku (5.56%)
+	3: Schillist (5.56%)
+	4: Connie Constance (5.56%)
+	5: Felix Jaehn (5.56%)
+Top country
+	1: US (30.00%)
+	2: NL (20.00%)
+	3: CH (10.00%)
+	4: DE (10.00%)
+	5: GB (10.00%)
+Top record
+	1: UM7 (40.00%)
+	2: AT2 (10.00%)
+	3: G66 (10.00%)
+	4: 654 (10.00%)
+	5: M5S (10.00%)
+Top year
+	1: 22 (40.00%)
+	2: 21 (30.00%)
+	3: 20 (20.00%)
+	4: 16 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   10.000000     10.000000     10.000000         10.000000    10.000000   10.000000  10.000000  10.000000
+mean    69.400000      0.213520      0.733500          0.127230     0.068140  123.803700   0.461690   0.681300
+std     14.773851      0.190333      0.134956          0.271787     0.034946   18.760965   0.304688   0.145795
+min     44.000000      0.012400      0.502000          0.000000     0.028200   90.043000   0.038900   0.397000
+25%     59.000000      0.053900      0.665750          0.000000     0.040125  113.488250   0.198250   0.680750
+50%     71.000000      0.144500      0.757500          0.000018     0.057400  124.556000   0.430500   0.732000
+75%     77.500000      0.370000      0.824500          0.006955     0.100025  129.005250   0.692250   0.759500
+max     89.000000      0.564000      0.947000          0.760000     0.123000  160.014000   0.910000   0.833000

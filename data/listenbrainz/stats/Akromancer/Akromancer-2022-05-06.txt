@@ -1,0 +1,45 @@
+Electronic artists found: Diplo,Morgan Wallen, SAINt JHN,Imanbek
+Electronic genres found: slap house, moombahton, electro house, tropical house, edm
+Electronic music logs found: 2.13% 
+
+Top genres
+	1: rap (9.88%)
+	2: pop rap (8.70%)
+	3: hip hop tuga (8.30%)
+	4: pop (7.51%)
+	5: trap (5.53%)
+Top artists
+	1: The Kid LAROI (1.18%)
+	2: Neru (1.18%)
+	3: 6LACK (1.18%)
+	4: Morgan Wallen (1.18%)
+	5: Ro Ransom (1.18%)
+Top country
+	1: US (52.13%)
+	2: PT (13.83%)
+	3: TC (9.57%)
+	4: QZ (6.38%)
+	5: GB (6.38%)
+Top record
+	1: UM7 (14.89%)
+	2: 5HT (13.83%)
+	3: SM1 (11.70%)
+	4: UG1 (6.38%)
+	5: AT2 (5.32%)
+Top year
+	1: 19 (29.79%)
+	2: 20 (28.72%)
+	3: 21 (14.89%)
+	4: 18 (8.51%)
+	5: 16 (8.51%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   94.000000     94.000000     94.000000         94.000000    94.000000   94.000000  94.000000  94.000000
+mean    56.404255      0.258909      0.692032          0.017421     0.163276  123.997755   0.460821   0.612904
+std     17.481369      0.233136      0.140110          0.111774     0.138332   28.705844   0.205377   0.158230
+min     21.000000      0.000328      0.354000          0.000000     0.028700   62.021000   0.039300   0.012000
+25%     41.250000      0.063900      0.596250          0.000000     0.054675  100.241500   0.313250   0.511500
+50%     56.500000      0.180000      0.715000          0.000000     0.100800  125.487500   0.466500   0.615500
+75%     72.000000      0.386750      0.792000          0.000012     0.243500  144.506750   0.605500   0.722750
+max     88.000000      0.836000      0.963000          0.872000     0.671000  203.123000   0.898000   0.962000

@@ -1,19 +1,19 @@
-Electronic artists found: Bakermat, Portico Quartet
-Electronic genres found: electronica, new tribe, tropical house, minimal tech house
+Electronic artists found: Portico Quartet, Bakermat
+Electronic genres found: new tribe, deep tropical house, minimal tech house, electronica, tropical house
 Electronic music logs found: 2.74% 
 
 Top genres
-	1: hip hop (10.79%)
-	2: rap (10.79%)
-	3: pittsburgh rap (9.54%)
-	4: mpb (7.47%)
-	5: samba (7.05%)
+	1: hip hop (10.70%)
+	2: rap (10.70%)
+	3: pittsburgh rap (9.47%)
+	4: mpb (7.41%)
+	5: samba (7.00%)
 Top artists
-	1: Teresa Cristina (1.67%)
-	2: Arlindo Cruz (1.67%)
-	3: Dominic Fike (1.67%)
-	4: Baptiste Herbin (1.67%)
-	5: Omar Apollo (1.67%)
+	1: Ivan Lins (1.67%)
+	2: Martinho Da Vila (1.67%)
+	3: Tame Impala (1.67%)
+	4: Eduardo Farias (1.67%)
+	5: Iman Omari (1.67%)
 Top country
 	1: US (46.58%)
 	2: BR (24.66%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   73.000000     73.000000     73.000000         73.000000    73.000000   73.000000  73.000000  73.000000
-mean    46.726027      0.493665      0.667329          0.087046     0.114407  115.331753   0.615932   0.511145
-std     18.509952      0.296898      0.135152          0.210655     0.120069   26.898087   0.253865   0.191428
+mean    46.657534      0.493665      0.667329          0.087046     0.114407  115.331753   0.615932   0.511145
+std     18.561623      0.296898      0.135152          0.210655     0.120069   26.898087   0.253865   0.191428
 min      1.000000      0.000754      0.272000          0.000000     0.027100   77.021000   0.112000   0.031600
 25%     30.000000      0.236000      0.579000          0.000000     0.040300   94.488000   0.396000   0.378000
 50%     49.000000      0.540000      0.666000          0.000355     0.057300  107.018000   0.694000   0.492000

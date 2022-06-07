@@ -1,5 +1,5 @@
 Electronic artists found: Galantis,David Guetta,Little Mix, Mabel
-Electronic genres found: tropical house, edm, electro house
+Electronic genres found: electro house, tropical house, edm
 Electronic music logs found: 3.23% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: dance pop (7.09%)
 	5: k-rap (4.96%)
 Top artists
-	1: Adele (2.33%)
-	2: Steve Aoki (2.33%)
-	3: Bruno Mars (2.33%)
-	4: Jimin (2.33%)
-	5: Meghan Trainor (2.33%)
+	1: Halsey (2.33%)
+	2: Charli XCX (2.33%)
+	3: Lauv (2.33%)
+	4: Red Velvet (2.33%)
+	5: Mabel (2.33%)
 Top country
 	1: US (41.94%)
 	2: QM (25.81%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   62.000000     62.000000     62.000000      6.200000e+01    62.000000   62.000000  62.000000  62.000000
-mean    69.016129      0.240941      0.617516      2.264882e-02     0.070469  118.598032   0.470916   0.666710
-std      9.541097      0.274900      0.146461      1.203121e-01     0.055846   26.899372   0.254649   0.198677
+mean    69.241935      0.240941      0.617516      2.264882e-02     0.070469  118.598032   0.470916   0.666710
+std      9.565453      0.274900      0.146461      1.203121e-01     0.055846   26.899372   0.254649   0.198677
 min     51.000000      0.000907      0.252000      0.000000e+00     0.028200   72.017000   0.078400   0.196000
 25%     62.250000      0.029750      0.531250      0.000000e+00     0.038400   98.996750   0.213500   0.466250
 50%     68.000000      0.130000      0.616500      0.000000e+00     0.046400  117.983500   0.476000   0.740500

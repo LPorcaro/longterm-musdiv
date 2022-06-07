@@ -1,0 +1,45 @@
+Electronic artists found: League of Legends, Swedish House Mafia,The Weeknd
+Electronic genres found: electro house, video game music, edm, progressive electro house
+Electronic music logs found: 7.41% 
+
+Top genres
+	1: pop (12.07%)
+	2: neo soul (6.90%)
+	3: dance pop (6.90%)
+	4: indie rock (5.17%)
+	5: r&b (5.17%)
+Top artists
+	1: Tash Sultana (3.33%)
+	2: Pk (3.33%)
+	3: Da Weasel (3.33%)
+	4: Chico da Tina (3.33%)
+	5: League of Legends (3.33%)
+Top country
+	1: US (37.04%)
+	2: GB (25.93%)
+	3: PT (14.81%)
+	4: TC (7.41%)
+	5: BR (3.70%)
+Top record
+	1: RC1 (14.81%)
+	2: UM7 (14.81%)
+	3: 5KW (11.11%)
+	4: AEQ (7.41%)
+	5: SM1 (7.41%)
+Top year
+	1: 21 (25.93%)
+	2: 20 (18.52%)
+	3: 17 (11.11%)
+	4: 19 (7.41%)
+	5: 18 (7.41%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
+mean    55.851852      0.314209      0.632481          0.050411     0.122781  119.800667   0.492267   0.571889
+std     15.024861      0.285159      0.131023          0.178231     0.097421   28.454984   0.237983   0.182436
+min     29.000000      0.001220      0.408000          0.000000     0.028500   60.479000   0.036200   0.130000
+25%     40.000000      0.043800      0.539000          0.000000     0.037650   99.992000   0.353500   0.477500
+50%     61.000000      0.285000      0.625000          0.000081     0.084600  115.039000   0.512000   0.604000
+75%     67.000000      0.496500      0.704500          0.007850     0.195500  146.992000   0.640000   0.699500
+max     80.000000      0.925000      0.906000          0.927000     0.345000  177.956000   0.966000   0.862000

@@ -1,5 +1,5 @@
-Electronic artists found: RAYE,Rudimental, David Guetta,Sam Martin, Just Kiddin,Camden Cox, Regard,RAYE
-Electronic genres found: pop edm, electro house, tropical house, nu disco, slap house, edm
+Electronic artists found: David Guetta,Sam Martin, Regard,RAYE, RAYE,Rudimental, Just Kiddin,Camden Cox
+Electronic genres found: pop edm, slap house, electro house, nu disco, tropical house, edm
 Electronic music logs found: 17.39% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: k-pop (6.67%)
 	5: edm (5.33%)
 Top artists
-	1: Regard (3.57%)
-	2: Camden Cox (3.57%)
-	3: ROSALÍA (3.57%)
-	4: The Change (3.57%)
-	5: David Guetta (3.57%)
+	1: Rudimental (3.57%)
+	2: Bad Bunny (3.57%)
+	3: BLOO (3.57%)
+	4: ROSALÍA (3.57%)
+	5: Luísa Sonza (3.57%)
 Top country
 	1: US (34.78%)
 	2: KR (34.78%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   23.000000     23.000000     23.000000         23.000000    23.000000   23.000000  23.000000  23.000000
-mean    69.260870      0.205404      0.704130          0.011645     0.113535  128.958870   0.575826   0.740043
-std     12.432426      0.204128      0.149147          0.035070     0.091220   27.364707   0.200833   0.171982
+mean    69.304348      0.205404      0.704130          0.011645     0.113535  128.958870   0.575826   0.740043
+std     12.436876      0.204128      0.149147          0.035070     0.091220   27.364707   0.200833   0.171982
 min     43.000000      0.020500      0.384000          0.000000     0.034000   81.993000   0.233000   0.294000
 25%     61.500000      0.064800      0.610500          0.000000     0.041350  111.617500   0.389000   0.631500
 50%     71.000000      0.129000      0.720000          0.000006     0.077600  122.998000   0.626000   0.773000

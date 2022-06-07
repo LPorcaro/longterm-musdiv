@@ -1,0 +1,45 @@
+Electronic artists found: Inhaler, Modjo, O-Zone
+Electronic genres found: disco house, eurodance, dublin indie
+Electronic music logs found: 8.33% 
+
+Top genres
+	1: rock (6.19%)
+	2: rap (6.19%)
+	3: modern rock (5.31%)
+	4: pop (3.54%)
+	5: emo rap (3.54%)
+Top artists
+	1: Megan Thee Stallion (2.04%)
+	2: Fresno (2.04%)
+	3: Bastille (2.04%)
+	4: Fall Out Boy (2.04%)
+	5: CHARLIE BEATS (2.04%)
+Top country
+	1: US (47.22%)
+	2: PT (13.89%)
+	3: QZ (8.33%)
+	4: GB (8.33%)
+	5: FR (5.56%)
+Top record
+	1: UM7 (33.33%)
+	2: HR2 (5.56%)
+	3: AT2 (5.56%)
+	4: 9GN (5.56%)
+	5: MSA (2.78%)
+Top year
+	1: 19 (13.89%)
+	2: 22 (13.89%)
+	3: 20 (11.11%)
+	4: 17 (11.11%)
+	5: 06 (8.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   36.000000     36.000000     36.000000         36.000000    36.000000   36.000000  36.000000  36.000000
+mean    52.333333      0.245707      0.599528          0.003888     0.110678  127.363528   0.421025   0.666917
+std     13.363062      0.276388      0.166102          0.015678     0.095482   31.643885   0.218846   0.183441
+min     19.000000      0.000096      0.297000          0.000000     0.027400   64.331000   0.040900   0.179000
+25%     44.000000      0.016800      0.471000          0.000000     0.036500  103.712000   0.267250   0.545750
+50%     51.500000      0.078000      0.633000          0.000000     0.076400  127.991500   0.395000   0.700000
+75%     61.500000      0.394250      0.716500          0.000209     0.161250  149.707000   0.584250   0.792250
+max     77.000000      0.976000      0.898000          0.090400     0.442000  178.072000   0.869000   0.969000

@@ -1,5 +1,5 @@
-Electronic artists found: Surf Mesa,Emilee, Paul Young, Joep Beving, Alexis Ffrench, The Supremes, GÅEL
-Electronic genres found: tropical house, compositional ambient, disco, ambient worship
+Electronic artists found: Joep Beving, Surf Mesa,Emilee, The Supremes, GÅEL, Alexis Ffrench, Paul Young
+Electronic genres found: tropical house, ambient worship, compositional ambient, disco
 Electronic music logs found: 11.29% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: soul (4.53%)
 	5: bebop (4.15%)
 Top artists
-	1: Sonny Rollins (1.49%)
-	2: Bobby Darin (1.49%)
-	3: Tony Bennett (1.49%)
-	4: a-ha (1.49%)
-	5: Paul Young (1.49%)
+	1: Diana Krall (1.49%)
+	2: Joni Mitchell (1.49%)
+	3: Horst Jankowski (1.49%)
+	4: Paul Chambers (1.49%)
+	5: Dizzy Gillespie (1.49%)
 Top country
 	1: US (66.13%)
 	2: DE (9.68%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   62.000000     62.000000     62.000000         62.000000    62.000000   62.000000  62.000000  62.000000
-mean    58.080645      0.665414      0.539235          0.243560     0.048229  111.357129   0.426560   0.336190
-std     13.842555      0.335479      0.153928          0.392573     0.021164   28.017436   0.242675   0.242565
+mean    58.096774      0.665414      0.539235          0.243560     0.048229  111.357129   0.426560   0.336190
+std     13.864342      0.335479      0.153928          0.392573     0.021164   28.017436   0.242675   0.242565
 min     23.000000      0.001460      0.086600          0.000000     0.025900   65.814000   0.071700   0.029400
 25%     50.250000      0.448000      0.429500          0.000001     0.035350   88.070250   0.251250   0.121000
 50%     56.500000      0.829000      0.554000          0.001335     0.041750  108.356000   0.393500   0.286500

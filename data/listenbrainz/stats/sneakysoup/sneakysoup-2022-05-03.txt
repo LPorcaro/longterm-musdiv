@@ -1,0 +1,37 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: rap portuense (36.36%)
+	2: mathcore (9.09%)
+	3: melodic metalcore (9.09%)
+	4: metalcore (9.09%)
+	5: progressive metalcore (9.09%)
+Top artists
+	1: Justin Bieber (25.00%)
+	2: Chico da Tina (25.00%)
+	3: Architects (25.00%)
+	4: Don Toliver (25.00%)
+Top country
+	1: PT (66.67%)
+	2: US (33.33%)
+Top record
+	1: BM1 (66.67%)
+	2: EP4 (16.67%)
+	3: UG1 (16.67%)
+Top year
+	1: 21 (50.00%)
+	2: 22 (33.33%)
+	3: 20 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    50.666667      0.295007      0.719500          0.000033     0.119933  137.001167  0.532500  0.583167
+std     19.200694      0.250084      0.148926          0.000041     0.049224   35.078870  0.171281  0.231692
+min     32.000000      0.000044      0.443000          0.000000     0.069800   82.007000  0.289000  0.247000
+25%     37.500000      0.128250      0.689000          0.000001     0.087350  121.278250  0.462250  0.477750
+50%     45.000000      0.265000      0.782000          0.000013     0.105000  137.520000  0.541000  0.596000
+75%     59.250000      0.435500      0.803750          0.000066     0.146500  164.996750  0.569500  0.661750
+max     83.000000      0.665000      0.841000          0.000088     0.198000  174.940000  0.809000  0.938000

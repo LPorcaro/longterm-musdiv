@@ -1,19 +1,19 @@
-Electronic artists found: Hyper, SAINt JHN,Imanbek, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry, Travis Scott, Diplo,Morgan Wallen
-Electronic genres found: electro house, tropical house, video game music, slap house, moombahton, edm, big beat
+Electronic artists found: SAINt JHN,Imanbek, Diplo,Morgan Wallen, Hyper, Travis Scott, League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry
+Electronic genres found: video game music, slap house, big beat, moombahton, electro house, tropical house, edm
 Electronic music logs found: 3.12% 
 
 Top genres
-	1: rap (11.20%)
-	2: pop rap (6.64%)
-	3: melodic rap (6.64%)
-	4: pop (5.81%)
-	5: trap (4.98%)
+	1: rap (11.18%)
+	2: melodic rap (6.63%)
+	3: pop rap (6.42%)
+	4: pop (5.80%)
+	5: trap (4.97%)
 Top artists
-	1: Roddy Ricch (0.62%)
-	2: Post Malone (0.62%)
-	3: You Me At Six (0.62%)
-	4: Internet Money (0.62%)
-	5: Braden Barrie (0.62%)
+	1: Divided Minds (0.62%)
+	2: Golden Wizards (0.62%)
+	3: Silverstein (0.62%)
+	4: Tyga (0.62%)
+	5: The Kid LAROI (0.62%)
 Top country
 	1: US (61.25%)
 	2: QZ (8.75%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  160.000000    160.000000    160.000000        160.000000   160.000000  160.000000  160.000000  160.000000
-mean    60.793750      0.151629      0.633713          0.006303     0.131328  126.009931    0.459455    0.696656
-std     15.789534      0.179924      0.159116          0.066645     0.121776   29.780713    0.207266    0.150707
+mean    60.925000      0.151629      0.633713          0.006303     0.131328  126.009931    0.459455    0.696656
+std     15.866007      0.179924      0.159116          0.066645     0.121776   29.780713    0.207266    0.150707
 min     11.000000      0.000017      0.246000          0.000000     0.025800   67.480000    0.039300    0.336000
-25%     48.750000      0.010398      0.520000          0.000000     0.048875   99.291750    0.309500    0.592000
-50%     62.500000      0.092900      0.645500          0.000000     0.080900  128.522500    0.460000    0.706000
+25%     49.000000      0.010398      0.520000          0.000000     0.048875   99.291750    0.309500    0.592000
+50%     63.000000      0.092900      0.645500          0.000000     0.080900  128.522500    0.460000    0.706000
 75%     75.000000      0.213000      0.755000          0.000004     0.164000  147.966500    0.590750    0.816500
 max     88.000000      0.810000      0.964000          0.841000     0.594000  196.213000    0.925000    0.985000

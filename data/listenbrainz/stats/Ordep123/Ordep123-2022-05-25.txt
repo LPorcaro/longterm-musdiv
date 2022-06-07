@@ -1,0 +1,43 @@
+Electronic artists found: Clean Bandit,Jess Glynne, Stadiumx,Taylr Renee
+Electronic genres found: progressive electro house, pop edm, uk funky, progressive house, electro house, tropical house, edm
+Electronic music logs found: 12.50% 
+
+Top genres
+	1: pop (11.27%)
+	2: pop rock (8.45%)
+	3: modern rock (7.04%)
+	4: rock (5.63%)
+	5: dance pop (5.63%)
+Top artists
+	1: Nico & Vinz (6.25%)
+	2: Rihanna (6.25%)
+	3: Jason Derulo (6.25%)
+	4: Jess Glynne (6.25%)
+	5: Stadiumx (6.25%)
+Top country
+	1: US (56.25%)
+	2: GB (31.25%)
+	3: QM (12.50%)
+Top record
+	1: WB1 (18.75%)
+	2: AHS (18.75%)
+	3: UM7 (18.75%)
+	4: MC1 (6.25%)
+	5: AMB (6.25%)
+Top year
+	1: 14 (31.25%)
+	2: 13 (25.00%)
+	3: 15 (12.50%)
+	4: 74 (6.25%)
+	5: 72 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean    69.625000      0.155841      0.667125          0.000604     0.050831  119.474938   0.517313   0.697187
+std     19.221082      0.183378      0.087668          0.001042     0.024706   13.399734   0.186262   0.161201
+min      0.000000      0.007010      0.514000          0.000000     0.025500   97.798000   0.182000   0.379000
+25%     70.250000      0.042300      0.598250          0.000000     0.030475  111.560500   0.435500   0.600250
+50%     73.500000      0.055850      0.663500          0.000004     0.042650  118.994500   0.513500   0.715000
+75%     77.500000      0.181000      0.735750          0.000571     0.062300  129.759000   0.628250   0.812750
+max     82.000000      0.607000      0.799000          0.003360     0.099200  140.046000   0.886000   0.934000

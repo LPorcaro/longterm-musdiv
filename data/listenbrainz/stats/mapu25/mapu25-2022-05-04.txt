@@ -1,19 +1,19 @@
 Electronic artists found: LUM!X,PIA MARIA
-Electronic genres found: slap house, melbourne bounce international
+Electronic genres found: melbourne bounce international, slap house
 Electronic music logs found: 5.00% 
 
 Top genres
-	1: pop (20.00%)
-	2: spanish synthpop (11.43%)
-	3: dance pop (8.57%)
-	4: escape room (5.71%)
-	5: minnesota hip hop (5.71%)
+	1: pop (18.92%)
+	2: spanish synthpop (10.81%)
+	3: dance pop (8.11%)
+	4: escape room (5.41%)
+	5: minnesota hip hop (5.41%)
 Top artists
-	1: Chanel (7.14%)
-	2: Rigoberta Bandini (7.14%)
-	3: Taylor Swift (7.14%)
-	4: Conan Gray (7.14%)
-	5: LUM!X (7.14%)
+	1: Taylor Swift (7.14%)
+	2: Spotify (7.14%)
+	3: Conan Gray (7.14%)
+	4: LUM!X (7.14%)
+	5: PIA MARIA (7.14%)
 Top country
 	1: US (42.11%)
 	2: QM (21.05%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   20.000000     19.000000     19.000000         19.000000    19.000000   19.000000  19.000000  19.000000
-mean    62.900000      0.180538      0.564474          0.000630     0.061005  126.264000   0.487684   0.687789
-std     21.215436      0.280343      0.183332          0.001204     0.054356   24.369884   0.196575   0.189172
+mean    63.650000      0.180538      0.564474          0.000630     0.061005  126.264000   0.487684   0.687789
+std     21.875906      0.280343      0.183332          0.001204     0.054356   24.369884   0.196575   0.189172
 min      0.000000      0.001700      0.305000          0.000000     0.029600   86.910000   0.137000   0.305000
 25%     52.000000      0.011595      0.390000          0.000000     0.034000  108.966000   0.385000   0.664000
 50%     68.000000      0.019600      0.614000          0.000006     0.044000  120.934000   0.517000   0.768000
-75%     77.250000      0.199500      0.657000          0.001140     0.060750  148.294000   0.622500   0.798500
-max     89.000000      0.936000      0.836000          0.004480     0.265000  172.054000   0.734000   0.910000
+75%     79.000000      0.199500      0.657000          0.001140     0.060750  148.294000   0.622500   0.798500
+max     92.000000      0.936000      0.836000          0.004480     0.265000  172.054000   0.734000   0.910000

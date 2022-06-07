@@ -1,0 +1,38 @@
+Electronic artists found: Don Diablo,Jessie J
+Electronic genres found: progressive electro house, future house, progressive house, electro house, tropical house, edm
+Electronic music logs found: 5.56% 
+
+Top genres
+	1: indie pop (22.64%)
+	2: modern alternative pop (22.64%)
+	3: dance pop (11.32%)
+	4: pop (9.43%)
+	5: pop rap (9.43%)
+Top artists
+	1: B.o.B (20.00%)
+	2: MAY-A (20.00%)
+	3: Don Diablo (20.00%)
+	4: Jessie J (20.00%)
+	5: Baby Queen (20.00%)
+Top country
+	1: GB (66.67%)
+	2: US (33.33%)
+Top record
+	1: UM7 (100.00%)
+Top year
+	1: 21 (38.89%)
+	2: 20 (22.22%)
+	3: 10 (11.11%)
+	4: 22 (5.56%)
+	5: 19 (5.56%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
+mean    53.111111      0.097577      0.628000          0.006505     0.090150  129.241333   0.595111   0.784444
+std     12.242111      0.150327      0.092219          0.027576     0.077949   28.939993   0.218899   0.113510
+min     33.000000      0.001670      0.383000          0.000000     0.032500   74.988000   0.121000   0.542000
+25%     44.250000      0.015300      0.610250          0.000000     0.041750  114.021000   0.481750   0.753750
+50%     52.500000      0.033300      0.639000          0.000000     0.047800  124.019000   0.645500   0.831500
+75%     64.250000      0.140325      0.659250          0.000006     0.150075  149.343250   0.751000   0.849750
+max     72.000000      0.598000      0.831000          0.117000     0.239000  175.015000   0.942000   0.904000

@@ -1,0 +1,45 @@
+Electronic artists found: Earth, Wind & Fire, Gesaffelstein,The Weeknd
+Electronic genres found: destroy techno, disco
+Electronic music logs found: 3.66% 
+
+Top genres
+	1: pop (5.95%)
+	2: rap (3.57%)
+	3: german hip hop (2.98%)
+	4: german trap (2.98%)
+	5: modern rock (2.38%)
+Top artists
+	1: Melvin (1.43%)
+	2: notsick (1.43%)
+	3: WILLOW (1.43%)
+	4: Eslabon Armado (1.43%)
+	5: Medasin (1.43%)
+Top country
+	1: US (26.83%)
+	2: QZ (23.17%)
+	3: QM (12.20%)
+	4: DE (9.76%)
+	5: GB (8.54%)
+Top record
+	1: UM7 (10.98%)
+	2: CE7 (6.10%)
+	3: 24S (4.88%)
+	4: UYG (4.88%)
+	5: HN3 (4.88%)
+Top year
+	1: 21 (39.02%)
+	2: 22 (20.73%)
+	3: 20 (12.20%)
+	4: 19 (8.54%)
+	5: 18 (4.88%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   82.000000     82.000000     82.000000         82.000000    82.000000   82.000000  82.000000  82.000000
+mean    63.402439      0.296435      0.668317          0.004740     0.123204  115.262061   0.518061   0.595549
+std     14.848087      0.223061      0.116965          0.033507     0.104200   30.013331   0.215528   0.127165
+min     34.000000      0.007830      0.390000          0.000000     0.027100   67.529000   0.133000   0.251000
+25%     54.000000      0.104800      0.612000          0.000000     0.048875   90.001000   0.340750   0.507750
+50%     61.000000      0.277500      0.669500          0.000000     0.097100  116.541500   0.506500   0.598000
+75%     74.000000      0.376000      0.747500          0.000061     0.135000  130.782750   0.668750   0.695000
+max     90.000000      0.905000      0.954000          0.303000     0.495000  201.985000   0.925000   0.817000

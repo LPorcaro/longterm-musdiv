@@ -1,0 +1,27 @@
+Electronic artists found: Hilight Tribe,Vini Vici
+Electronic genres found: psychedelic trance
+Electronic music logs found: 100.00% 
+
+Top genres
+	1: didgeridoo (50.00%)
+	2: psychedelic trance (50.00%)
+Top artists
+	1: Vini Vici (50.00%)
+	2: Hilight Tribe (50.00%)
+Top country
+	1: DK (100.00%)
+Top record
+	1: ZVA (100.00%)
+Top year
+	1: 15 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0        1.0000         1.000             1.000       1.0000    1.000   1.0000   1.000
+mean         59.0        0.0132         0.382             0.698       0.0662  103.495   0.0728   0.947
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          59.0        0.0132         0.382             0.698       0.0662  103.495   0.0728   0.947
+25%          59.0        0.0132         0.382             0.698       0.0662  103.495   0.0728   0.947
+50%          59.0        0.0132         0.382             0.698       0.0662  103.495   0.0728   0.947
+75%          59.0        0.0132         0.382             0.698       0.0662  103.495   0.0728   0.947
+max          59.0        0.0132         0.382             0.698       0.0662  103.495   0.0728   0.947

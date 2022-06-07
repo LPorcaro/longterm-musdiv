@@ -1,5 +1,5 @@
-Electronic artists found: Steve Angello, Steve Angello,Barns Courtney, CAZZETTE,The High,Prinston, Grabbitz, Sam Feldt,RANI, The Chainsmokers,Emily Warren, Robin Schulz,Akon, David Guetta, Lost Kings,Katelyn Tarver, Lost Frequencies,Flynn, Major Lazer,Nyla,Fuse ODG, Galantis,Uffie,MOTi, Avicii,Aluna, Avicii,Vargas & Lagola, Martin Garrix,Troye Sivan, Avicii,Sandro Cavazza
-Electronic genres found: edm, electro house, tropical house, disco house, moombahton, complextro, progressive house, deep house, progressive electro house, pop edm, brostep, gaming edm, dutch edm, belgian edm
+Electronic artists found: Steve Angello, Steve Angello,Barns Courtney, Galantis,Uffie,MOTi, Lost Kings,Katelyn Tarver, Major Lazer,Nyla,Fuse ODG, Martin Garrix,Troye Sivan, Sam Feldt,RANI, David Guetta, The Chainsmokers,Emily Warren, CAZZETTE,The High,Prinston, Avicii,Aluna, Lost Frequencies,Flynn, Avicii,Vargas & Lagola, Robin Schulz,Akon, Avicii,Sandro Cavazza, Grabbitz
+Electronic genres found: progressive electro house, pop edm, deep house, progressive house, moombahton, complextro, electro house, disco house, belgian edm, dutch edm, gaming edm, brostep, tropical house, edm
 Electronic music logs found: 32.50% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: ambient folk (5.46%)
 	5: electro house (5.46%)
 Top artists
-	1: CAZZETTE (1.85%)
-	2: Grabbitz (1.85%)
-	3: Robin Schulz (1.85%)
-	4: Akon (1.85%)
-	5: Karetus (1.85%)
+	1: Vargas & Lagola (1.85%)
+	2: Dean Lewis (1.85%)
+	3: Prinston (1.85%)
+	4: CAZZETTE (1.85%)
+	5: Wallows (1.85%)
 Top country
 	1: GB (38.75%)
 	2: US (25.00%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   80.000000     80.000000     80.000000         80.000000    80.000000   80.000000  80.000000  80.000000
-mean    51.225000      0.388820      0.620600          0.089568     0.094225  107.607550   0.378856   0.588262
-std     16.475509      0.348438      0.178111          0.222097     0.086354   15.012759   0.222091   0.193765
+mean    51.237500      0.388820      0.620600          0.089568     0.094225  107.607550   0.378856   0.588262
+std     16.485701      0.348438      0.178111          0.222097     0.086354   15.012759   0.222091   0.193765
 min     13.000000      0.000535      0.139000          0.000000     0.024900   72.490000   0.034800   0.143000
 25%     44.750000      0.131000      0.486000          0.000000     0.033850   99.858000   0.219000   0.462000
 50%     52.000000      0.191000      0.677000          0.000015     0.043600  106.496500   0.337000   0.569000

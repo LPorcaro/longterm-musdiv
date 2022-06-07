@@ -1,0 +1,38 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: sertanejo (20.00%)
+	2: sertanejo universitario (20.00%)
+	3: forro (10.00%)
+	4: funk carioca (10.00%)
+	5: sertanejo pop (10.00%)
+Top artists
+	1: Bruno Mars (20.00%)
+	2: Mano Walter (20.00%)
+	3: Silk Sonic (20.00%)
+	4: Anderson .Paak (20.00%)
+	5: Gusttavo Lima (20.00%)
+Top country
+	1: BR (33.33%)
+	2: US (33.33%)
+	3: BX (33.33%)
+Top record
+	1: 9T6 (33.33%)
+	2: AT2 (33.33%)
+	3: BAL (33.33%)
+Top year
+	1: 21 (66.67%)
+	2: 17 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo  valence    energy
+count    3.000000      3.000000      3.000000               3.0     3.000000    3.000000  3.00000  3.000000
+mean    70.666667      0.301333      0.756000               0.0     0.042800  127.378667  0.67300  0.694667
+std     16.441817      0.232259      0.147797               0.0     0.011915   21.616984  0.03985  0.069357
+min     52.000000      0.153000      0.586000               0.0     0.032400  104.956000  0.64900  0.616000
+25%     64.500000      0.167500      0.707000               0.0     0.036300  117.024000  0.65000  0.668500
+50%     77.000000      0.182000      0.828000               0.0     0.040200  129.092000  0.65100  0.721000
+75%     80.000000      0.375500      0.841000               0.0     0.048000  138.590000  0.68500  0.734000
+max     83.000000      0.569000      0.854000               0.0     0.055800  148.088000  0.71900  0.747000

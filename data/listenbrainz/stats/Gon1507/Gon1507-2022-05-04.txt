@@ -1,0 +1,43 @@
+Electronic artists found: Astrid S, Clean Bandit,Julia Michaels
+Electronic genres found: uk funky, tropical house, edm
+Electronic music logs found: 2.20% 
+
+Top genres
+	1: pop (77.16%)
+	2: dance pop (4.31%)
+	3: alt z (4.31%)
+	4: post-teen pop (3.45%)
+	5: electropop (3.02%)
+Top artists
+	1: Julia Michaels (7.14%)
+	2: Astrid S (7.14%)
+	3: Kelly Clarkson (7.14%)
+	4: JP Saxe (7.14%)
+	5: Clean Bandit (7.14%)
+Top country
+	1: US (96.70%)
+	2: GB (1.65%)
+	3: NO (1.65%)
+Top record
+	1: UG1 (80.77%)
+	2: WD1 (7.69%)
+	3: UM7 (4.40%)
+	4: RC1 (3.85%)
+	5: QX9 (1.65%)
+Top year
+	1: 21 (76.37%)
+	2: 20 (9.34%)
+	3: 19 (8.79%)
+	4: 16 (2.20%)
+	5: 17 (1.10%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  182.000000    182.000000    182.000000        182.000000   182.000000  182.000000  182.000000  182.000000
+mean    80.494505      0.528921      0.510582          0.000335     0.080955  134.736835    0.306851    0.426863
+std      6.996248      0.303941      0.120584          0.004469     0.040776   37.881515    0.195018    0.146904
+min     47.000000      0.002060      0.369000          0.000000     0.030200   77.253000    0.076200    0.170000
+25%     77.000000      0.219000      0.395000          0.000000     0.037950  100.607000    0.172000    0.298000
+50%     83.000000      0.584000      0.473000          0.000000     0.064400  143.875000    0.269000    0.430500
+75%     86.000000      0.768000      0.638000          0.000006     0.112000  168.884000    0.385000    0.575000
+max     89.000000      0.941000      0.851000          0.060300     0.219000  199.828000    0.787000    0.806000

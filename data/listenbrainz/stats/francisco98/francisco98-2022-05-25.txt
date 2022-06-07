@@ -1,0 +1,45 @@
+Electronic artists found: Tez Cadey
+Electronic genres found: deep tropical house, tropical house
+Electronic music logs found: 11.11% 
+
+Top genres
+	1: pop (13.33%)
+	2: arrocha (6.67%)
+	3: sertanejo (6.67%)
+	4: indie anthem-folk (6.67%)
+	5: modern rock (6.67%)
+Top artists
+	1: The Kid LAROI (9.09%)
+	2: Tom Walker (9.09%)
+	3: CKay (9.09%)
+	4: Ruben Aguiar (9.09%)
+	5: Ivandro (9.09%)
+Top country
+	1: PT (22.22%)
+	2: US (22.22%)
+	3: FR (22.22%)
+	4: BR (11.11%)
+	5: GB (11.11%)
+Top record
+	1: SM1 (22.22%)
+	2: WNV (11.11%)
+	3: ARL (11.11%)
+	4: 9GN (11.11%)
+	5: 10S (11.11%)
+Top year
+	1: 18 (22.22%)
+	2: 19 (22.22%)
+	3: 21 (11.11%)
+	4: 22 (11.11%)
+	5: 20 (11.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    9.000000      9.000000      9.000000          9.000000     9.000000    9.000000  9.000000  9.000000
+mean    62.555556      0.369400      0.661556          0.001736     0.077133  123.165556  0.561889  0.629333
+std     25.889723      0.256593      0.089821          0.003337     0.084911   27.520163  0.180919  0.218708
+min     12.000000      0.012200      0.520000          0.000000     0.029900   92.061000  0.357000  0.234000
+25%     51.000000      0.213000      0.592000          0.000000     0.041500   93.005000  0.448000  0.416000
+50%     64.000000      0.365000      0.665000          0.000000     0.047300  122.467000  0.533000  0.731000
+75%     79.000000      0.456000      0.727000          0.001370     0.056700  139.315000  0.658000  0.743000
+max    100.000000      0.828000      0.803000          0.010200     0.301000  173.930000  0.961000  0.861000

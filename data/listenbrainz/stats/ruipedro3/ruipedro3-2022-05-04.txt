@@ -1,0 +1,45 @@
+Electronic artists found: Simple Minds, Grizzly Bear
+Electronic genres found: scottish new wave, chillwave
+Electronic music logs found: 4.00% 
+
+Top genres
+	1: rock (9.13%)
+	2: modern rock (7.76%)
+	3: pop rock (4.11%)
+	4: alternative rock (3.65%)
+	5: permanent wave (3.65%)
+Top artists
+	1: Tal Bachman (2.27%)
+	2: Jamws (2.27%)
+	3: Surf Curse (2.27%)
+	4: Grizzly Bear (2.27%)
+	5: Wallows (2.27%)
+Top country
+	1: US (40.00%)
+	2: GB (34.00%)
+	3: QZ (8.00%)
+	4: QM (4.00%)
+	5: DG (4.00%)
+Top record
+	1: RC1 (6.00%)
+	2: SM1 (6.00%)
+	3: AT2 (6.00%)
+	4: TAA (4.00%)
+	5: ZUZ (4.00%)
+Top year
+	1: 21 (18.00%)
+	2: 20 (10.00%)
+	3: 19 (8.00%)
+	4: 14 (8.00%)
+	5: 16 (6.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   50.000000     50.000000     50.000000      5.000000e+01    50.000000   50.000000  50.000000  50.000000
+mean    63.980000      0.184116      0.541700      8.976706e-02     0.046992  126.604940   0.575100   0.734060
+std      9.875738      0.242174      0.111071      2.219591e-01     0.046247   29.446907   0.217289   0.184797
+min     38.000000      0.000038      0.316000      0.000000e+00     0.024800   75.050000   0.103000   0.256000
+25%     60.250000      0.005237      0.452250      2.600000e-07     0.030200  104.036500   0.409500   0.655750
+50%     65.000000      0.045850      0.543000      1.091500e-04     0.037350  124.954000   0.605000   0.798000
+75%     70.000000      0.320500      0.637500      2.487500e-02     0.047275  148.507250   0.756750   0.854750
+max     84.000000      0.887000      0.777000      8.290000e-01     0.349000  208.055000   0.917000   0.962000

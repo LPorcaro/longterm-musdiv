@@ -1,0 +1,45 @@
+Electronic artists found: KSHMR,Sidnie Tipton, Galantis, Jac & Harri, Steve Angello, LVNDSCAPE,Kaptan, Gryffin,SLANDER,Calle Lehmann, Steve Angello,Barns Courtney, Lost Kings,Katelyn Tarver, Armin van Buuren,AVIAN GRAYS,Jordan Shaw, Kill The Noise,Mija, Afrojack,Jewelz & Sparks,Nicky Romero, Brooks,KSHMR,Tzar, The Chainsmokers,Emily Warren, Pierce Fulton, Valentino Khan,Eptic,Lil Jon, Quintino,AFSHEEN,Cher Lloyd, Avicii,Sandro Cavazza, Don Diablo,Jessie J
+Electronic genres found: slap house, complextro, disco house, progressive electro house, moombahton, dutch edm, indian edm, melodic dubstep, tropical house, edm, dutch house, future house, progressive house, deep tropical house, brostep, bass house, pop edm, deep house, fidget house, electronic trap, electro house, dubstep
+Electronic music logs found: 54.29% 
+
+Top genres
+	1: edm (11.84%)
+	2: pop dance (10.53%)
+	3: electro house (8.55%)
+	4: tropical house (5.92%)
+	5: pop (5.92%)
+Top artists
+	1: Jac & Harri (1.82%)
+	2: Nicky Romero (1.82%)
+	3: SLANDER (1.82%)
+	4: Emily Warren (1.82%)
+	5: Jewelz & Sparks (1.82%)
+Top country
+	1: US (28.57%)
+	2: GB (20.00%)
+	3: NL (17.14%)
+	4: QZ (11.43%)
+	5: CY (5.71%)
+Top record
+	1: Z54 (11.43%)
+	2: UM7 (11.43%)
+	3: QX9 (8.57%)
+	4: XGT (5.71%)
+	5: VHN (5.71%)
+Top year
+	1: 19 (25.71%)
+	2: 17 (17.14%)
+	3: 18 (14.29%)
+	4: 20 (14.29%)
+	5: 21 (8.57%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   35.000000     35.000000     35.000000         35.000000    35.000000   35.000000  35.000000  35.000000
+mean    45.457143      0.208332      0.619229          0.088607     0.090629  117.236114   0.443474   0.660543
+std     14.007021      0.264515      0.107547          0.232397     0.097080   21.570232   0.227892   0.208590
+min     19.000000      0.000535      0.314000          0.000000     0.027600   75.171000   0.034800   0.156000
+25%     33.500000      0.030500      0.567000          0.000000     0.036900  100.031000   0.238000   0.533000
+50%     50.000000      0.099800      0.643000          0.000002     0.046600  119.850000   0.472000   0.711000
+75%     56.500000      0.252500      0.671500          0.000957     0.075900  130.944500   0.545000   0.819500
+max     65.000000      0.920000      0.803000          0.868000     0.338000  170.089000   0.911000   0.996000

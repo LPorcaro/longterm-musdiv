@@ -1,19 +1,19 @@
-Electronic artists found: Axwell /\ Ingrosso, Seeb,Neev,Dimitri Vangelis & Wyman, Gryffin,SLANDER,Calle Lehmann, Gryffin,Jason Ross,Calle Lehmann, Zara Larsson,MNEK, Surf Mesa,Emilee, Martin Garrix,Bono,The Edge, Joel Corry,MNEK, Disclosure,Zedd, Kygo,Whitney Houston, Calvin Harris,Ellie Goulding, Dimitri Vangelis & Wyman,Mike Perry, Avicii, Third Party, Alesso,Katy Perry, The Chainsmokers, Kygo,Tina Turner, Otto Knows,Alex Aris, Janji,Johnning, Axwell,A-Trak, Rita Ora, MEDUZA,Becky Hill,Goodboys, Lost Frequencies,Calum Scott, Sigala,Rita Ora, Martin Garrix,DubVision,Shaun Farrugia, Alesso,Zara Larsson, Wahlstedt, Third Party,GVN,Errol Reid, Sam Feldt,Kesha, Jonas Blue,JP Cooper, Swedish House Mafia,Sting, Galantis,David Guetta,Little Mix, David Guetta,Becky Hill,Ella Henderson, Clean Bandit,Topic,Wes Nelson, Olly Murs,Demi Lovato, Avicii,iSHi, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Becky Hill,David Guetta, Hippie Sabotage, Dash Berlin, Öwnboss,Sevek, French 79,Tiësto,VER:WEST,Sarah Rebecca, Years & Years,Galantis, Avicii,Sandro Cavazza
-Electronic genres found: edm, electro house, tropical house, disco house, uplifting trance, electronic trap, progressive house, belgian edm, uk funky, progressive electro house, brazilian edm, pop edm, gaming edm, dutch edm, electronica
+Electronic artists found: Dimitri Vangelis & Wyman,Mike Perry, MEDUZA,Becky Hill,Goodboys, Seeb,Neev,Dimitri Vangelis & Wyman, David Guetta,Becky Hill,Ella Henderson, Disclosure,Zedd, Avicii,iSHi, Swedish House Mafia,Sting, Axwell,A-Trak, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Joel Corry,MNEK, Zara Larsson,MNEK, Sigala,Rita Ora, Alesso,Katy Perry, Avicii, The Chainsmokers, Otto Knows,Alex Aris, Axwell /\ Ingrosso, Galantis,David Guetta,Little Mix, Öwnboss,Sevek, Martin Garrix,DubVision,Shaun Farrugia, Lost Frequencies,Calum Scott, Becky Hill,David Guetta, Janji,Johnning, Avicii,Sandro Cavazza, Third Party, French 79,Tiësto,VER:WEST,Sarah Rebecca, Rita Ora, Gryffin,SLANDER,Calle Lehmann, Alesso,Zara Larsson, Surf Mesa,Emilee, Clean Bandit,Topic,Wes Nelson, Third Party,GVN,Errol Reid, Kygo,Whitney Houston, Wahlstedt, Gryffin,Jason Ross,Calle Lehmann, Hippie Sabotage, Dash Berlin, Kygo,Tina Turner, Sam Feldt,Kesha, Calvin Harris,Ellie Goulding, Olly Murs,Demi Lovato, Years & Years,Galantis, Jonas Blue,JP Cooper, Martin Garrix,Bono,The Edge
+Electronic genres found: pop edm, progressive electro house, uk funky, brazilian edm, progressive house, electronic trap, electro house, disco house, dutch edm, belgian edm, gaming edm, uplifting trance, electronica, tropical house, edm
 Electronic music logs found: 38.33% 
 
 Top genres
-	1: pop (14.04%)
-	2: edm (9.93%)
-	3: dance pop (9.69%)
-	4: pop dance (9.44%)
-	5: tropical house (6.78%)
+	1: pop (14.11%)
+	2: edm (9.98%)
+	3: dance pop (9.73%)
+	4: pop dance (9.49%)
+	5: tropical house (6.81%)
 Top artists
-	1: Olly Murs (0.66%)
-	2: Robin Schulz (0.66%)
-	3: PNAU (0.66%)
-	4: Vado Más Ki Ás (0.66%)
-	5: Sam The Kid (0.66%)
+	1: Kenty Clide (0.66%)
+	2: VER:WEST (0.66%)
+	3: Rihanna (0.66%)
+	4: Surf Mesa (0.66%)
+	5: SLANDER (0.66%)
 Top country
 	1: US (40.00%)
 	2: GB (16.67%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  120.000000    120.000000    120.000000        120.000000   120.000000  120.000000  120.000000  120.000000
-mean    63.000000      0.175637      0.658025          0.031229     0.101510  120.102600    0.454358    0.708567
-std     16.915012      0.230826      0.113057          0.136115     0.092353   21.918503    0.212567    0.145629
+mean    62.975000      0.175637      0.658025          0.031229     0.101510  120.102600    0.454358    0.708567
+std     16.863497      0.230826      0.113057          0.136115     0.092353   21.918503    0.212567    0.145629
 min     27.000000      0.000041      0.300000          0.000000     0.026000   69.129000    0.037600    0.229000
 25%     46.000000      0.022975      0.582000          0.000000     0.041150  104.974250    0.312000    0.627500
-50%     68.000000      0.064550      0.670500          0.000001     0.056050  123.927500    0.429000    0.738500
+50%     68.500000      0.064550      0.670500          0.000001     0.056050  123.927500    0.429000    0.738500
 75%     77.000000      0.220000      0.739500          0.000286     0.129750  128.064000    0.597500    0.804000
 max     90.000000      0.979000      0.959000          0.952000     0.412000  184.090000    0.942000    0.994000

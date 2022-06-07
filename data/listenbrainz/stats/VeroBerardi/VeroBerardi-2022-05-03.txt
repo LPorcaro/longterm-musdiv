@@ -1,0 +1,45 @@
+Electronic artists found: Flume,KUČKA,QUIET BISON
+Electronic genres found: downtempo, edm
+Electronic music logs found: 5.88% 
+
+Top genres
+	1: baroque (25.00%)
+	2: italian baroque (18.75%)
+	3: classical (14.58%)
+	4: early music (14.58%)
+	5: classical performance (6.25%)
+Top artists
+	1: Antonio Vivaldi (2.94%)
+	2: Karl Richter (2.94%)
+	3: Il Pomo D'oro (2.94%)
+	4: Antonio Montanari (2.94%)
+	5: Arion Baroque Orchestra (2.94%)
+Top country
+	1: FR (41.18%)
+	2: DE (11.76%)
+	3: CA (11.76%)
+	4: AU (5.88%)
+	5: US (5.88%)
+Top record
+	1: 1P7 (23.53%)
+	2: F05 (11.76%)
+	3: AOY (11.76%)
+	4: FF0 (5.88%)
+	5: AT2 (5.88%)
+Top year
+	1: 01 (23.53%)
+	2: 64 (11.76%)
+	3: 22 (11.76%)
+	4: 05 (11.76%)
+	5: 13 (11.76%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   17.000000     17.000000     17.000000         17.000000    17.000000   17.000000  17.000000  17.000000
+mean    16.058824      0.693218      0.334194          0.181053     0.051912  116.513529   0.376488   0.257747
+std     21.293986      0.277934      0.153233          0.278292     0.021980   35.710569   0.238433   0.211802
+min      0.000000      0.045300      0.087300          0.000000     0.033700   62.220000   0.088300   0.064900
+25%      2.000000      0.570000      0.182000          0.000039     0.041000   87.555000   0.138000   0.139000
+50%      6.000000      0.799000      0.351000          0.000665     0.043700  113.341000   0.366000   0.223000
+75%     16.000000      0.859000      0.435000          0.401000     0.050500  138.258000   0.533000   0.243000
+max     77.000000      0.978000      0.554000          0.888000     0.110000  175.852000   0.814000   0.835000

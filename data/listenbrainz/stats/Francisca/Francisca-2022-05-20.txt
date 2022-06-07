@@ -1,5 +1,5 @@
-Electronic artists found: Claptone,JAW, MEDUZA,Becky Hill,Goodboys
-Electronic genres found: deep disco house, tropical house, edm, german techno, progressive house
+Electronic artists found: MEDUZA,Becky Hill,Goodboys, Claptone,JAW
+Electronic genres found: german techno, progressive house, edm, tropical house, deep disco house
 Electronic music logs found: 3.06% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: rap (10.34%)
 	5: dance pop (4.60%)
 Top artists
-	1: Dominic Fike (1.61%)
-	2: Lhast (1.61%)
-	3: Jaden (1.61%)
-	4: Pitbull (1.61%)
-	5: Matthew Santos (1.61%)
+	1: Dillaz (1.61%)
+	2: Jamie Foxx (1.61%)
+	3: Crookers (1.61%)
+	4: will.i.am (1.61%)
+	5: Taio Cruz (1.61%)
 Top country
 	1: US (56.12%)
 	2: PT (28.57%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   98.000000     98.000000     98.000000         98.000000    98.000000   98.000000  98.000000  98.000000
-mean    60.489796      0.315271      0.649143          0.008617     0.141446  115.329878   0.390516   0.598571
-std     14.947499      0.255530      0.162718          0.038452     0.120630   23.602367   0.211321   0.138617
+mean    60.500000      0.315271      0.649143          0.008617     0.141446  115.329878   0.390516   0.598571
+std     14.955777      0.255530      0.162718          0.038452     0.120630   23.602367   0.211321   0.138617
 min     24.000000      0.002490      0.318000          0.000000     0.033800   68.337000   0.038300   0.298000
 25%     49.250000      0.110250      0.559000          0.000000     0.048100   95.819500   0.204000   0.503250
 50%     62.500000      0.201500      0.650000          0.000072     0.099450  114.128000   0.362000   0.595000

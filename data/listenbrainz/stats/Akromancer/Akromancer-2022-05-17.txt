@@ -1,19 +1,19 @@
-Electronic artists found: SAINt JHN,Meek Mill, Travis Scott, Diplo,Morgan Wallen, SAINt JHN
-Electronic genres found: electro house, tropical house, slap house, moombahton, edm
+Electronic artists found: Diplo,Morgan Wallen, SAINt JHN,Meek Mill, SAINt JHN, Travis Scott
+Electronic genres found: slap house, moombahton, electro house, tropical house, edm
 Electronic music logs found: 7.34% 
 
 Top genres
-	1: rap (19.63%)
-	2: melodic rap (18.30%)
-	3: dfw rap (11.14%)
-	4: pop rap (9.28%)
-	5: trap (7.96%)
+	1: rap (19.68%)
+	2: melodic rap (18.35%)
+	3: dfw rap (11.17%)
+	4: pop rap (9.04%)
+	5: trap (7.98%)
 Top artists
-	1: Trippie Redd (1.32%)
-	2: Megan Thee Stallion (1.32%)
-	3: Brendon Urie (1.32%)
-	4: DaBaby (1.32%)
-	5: 24kGoldn (1.32%)
+	1: Megan Thee Stallion (1.32%)
+	2: Halsey (1.32%)
+	3: Chris Brown (1.32%)
+	4: GASHI (1.32%)
+	5: Joyner Lucas (1.32%)
 Top country
 	1: US (81.65%)
 	2: QM (5.50%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  109.000000    109.000000    109.000000        109.000000   109.000000  109.000000  109.000000  109.000000
-mean    65.348624      0.257277      0.691073          0.015214     0.094331  120.241055    0.381704    0.592624
-std     11.459572      0.213815      0.120253          0.104276     0.080437   28.938938    0.202329    0.118897
-min     35.000000      0.001270      0.380000          0.000000     0.022900   68.580000    0.060500    0.206000
+mean    65.302752      0.257277      0.691073          0.015214     0.094331  120.241055    0.381704    0.592624
+std     11.604201      0.213815      0.120253          0.104276     0.080437   28.938938    0.202329    0.118897
+min     34.000000      0.001270      0.380000          0.000000     0.022900   68.580000    0.060500    0.206000
 25%     58.000000      0.075800      0.613000          0.000000     0.047200   96.946000    0.218000    0.522000
 50%     65.000000      0.192000      0.706000          0.000000     0.067100  120.042000    0.367000    0.591000
 75%     75.000000      0.406000      0.762000          0.000006     0.113000  145.038000    0.494000    0.662000

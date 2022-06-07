@@ -1,0 +1,35 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: rock (16.67%)
+	2: alternative metal (11.11%)
+	3: permanent wave (11.11%)
+	4: punk (5.56%)
+	5: skate punk (5.56%)
+Top artists
+	1: Nirvana (33.33%)
+	2: Rage Against The Machine (33.33%)
+	3: The Offspring (33.33%)
+Top country
+	1: US (100.00%)
+Top record
+	1: EP4 (33.33%)
+	2: GF1 (33.33%)
+	3: SM1 (33.33%)
+Top year
+	1: 03 (33.33%)
+	2: 99 (33.33%)
+	3: 95 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count         3.0      3.000000      3.000000          3.000000     3.000000    3.000000  3.000000  3.000000
+mean         74.0      0.010987      0.466667          0.020570     0.090133  130.350667  0.605667  0.868333
+std           2.0      0.010194      0.047721          0.034243     0.081410   32.147309  0.088444  0.047816
+min          72.0      0.000160      0.412000          0.000000     0.038800  104.560000  0.539000  0.824000
+25%          73.0      0.006280      0.450000          0.000805     0.043200  112.342500  0.555500  0.843000
+50%          74.0      0.012400      0.488000          0.001610     0.047600  120.125000  0.572000  0.862000
+75%          75.0      0.016400      0.494000          0.030855     0.115800  143.246000  0.639000  0.890500
+max          76.0      0.020400      0.500000          0.060100     0.184000  166.367000  0.706000  0.919000

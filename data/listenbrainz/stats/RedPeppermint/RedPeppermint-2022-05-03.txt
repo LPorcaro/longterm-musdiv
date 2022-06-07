@@ -1,0 +1,45 @@
+Electronic artists found: Miracle Of Sound
+Electronic genres found: video game music
+Electronic music logs found: 7.14% 
+
+Top genres
+	1: alternative metal (11.76%)
+	2: german metal (10.29%)
+	3: industrial (8.82%)
+	4: industrial metal (8.82%)
+	5: industrial rock (8.82%)
+Top artists
+	1: Killswitch Engage (11.11%)
+	2: Powerwolf (11.11%)
+	3: Flower Face (11.11%)
+	4: Miracle Of Sound (11.11%)
+	5: Rammstein (11.11%)
+Top country
+	1: DE (50.00%)
+	2: NL (14.29%)
+	3: TC (7.14%)
+	4: SE (7.14%)
+	5: US (7.14%)
+Top record
+	1: N12 (21.43%)
+	2: D57 (14.29%)
+	3: ABC (7.14%)
+	4: H84 (7.14%)
+	5: B93 (7.14%)
+Top year
+	1: 04 (21.43%)
+	2: 11 (14.29%)
+	3: 06 (14.29%)
+	4: 95 (14.29%)
+	5: 17 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   14.000000     14.000000     14.000000         14.000000    14.000000   14.000000  14.000000  14.000000
+mean    45.714286      0.064912      0.491714          0.103856     0.055671  122.864500   0.395714   0.780643
+std     14.720099      0.217099      0.161961          0.227895     0.028898   29.421414   0.163354   0.195385
+min     13.000000      0.000002      0.162000          0.000000     0.025800   74.807000   0.201000   0.382000
+25%     38.000000      0.000422      0.388000          0.000025     0.032250   99.993500   0.290750   0.619500
+50%     47.500000      0.002160      0.487000          0.000086     0.048050  127.009500   0.334000   0.850000
+75%     54.750000      0.004760      0.606500          0.049414     0.068425  143.288250   0.512000   0.928750
+max     72.000000      0.817000      0.798000          0.763000     0.112000  164.114000   0.649000   0.988000

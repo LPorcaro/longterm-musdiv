@@ -1,0 +1,45 @@
+Electronic artists found: Bonnie Tyler
+Electronic genres found: disco
+Electronic music logs found: 5.41% 
+
+Top genres
+	1: italian indie pop (6.67%)
+	2: europop (6.67%)
+	3: bergamo indie (5.93%)
+	4: italian pop (5.93%)
+	5: milan indie (5.93%)
+Top artists
+	1: ABBA (3.85%)
+	2: Yusuf / Cat Stevens (3.85%)
+	3: Public Image Ltd. (3.85%)
+	4: Daft Punk (3.85%)
+	5: Pharrell Williams (3.85%)
+Top country
+	1: US (29.73%)
+	2: IT (24.32%)
+	3: SE (21.62%)
+	4: GB (16.22%)
+	5: us (2.70%)
+Top record
+	1: AYD (18.92%)
+	2: B00 (16.22%)
+	3: SM1 (10.81%)
+	4: UM7 (8.11%)
+	5: XEH (5.41%)
+Top year
+	1: 19 (21.62%)
+	2: 10 (8.11%)
+	3: 83 (8.11%)
+	4: 80 (8.11%)
+	5: 79 (8.11%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   37.000000     37.000000     37.000000         37.000000    37.000000   37.000000  37.000000  37.000000
+mean    59.270270      0.243113      0.622838          0.003726     0.050673  124.748568   0.658595   0.676108
+std     18.721124      0.247764      0.131982          0.010871     0.026010   27.822705   0.193831   0.177179
+min     12.000000      0.000070      0.252000          0.000000     0.025800   70.863000   0.171000   0.311000
+25%     47.000000      0.024500      0.543000          0.000000     0.036500  110.009000   0.536000   0.574000
+50%     64.000000      0.170000      0.673000          0.000110     0.041800  121.454000   0.691000   0.685000
+75%     77.000000      0.414000      0.697000          0.002440     0.057000  133.481000   0.830000   0.811000
+max     82.000000      0.920000      0.816000          0.062500     0.170000  200.164000   0.943000   0.941000

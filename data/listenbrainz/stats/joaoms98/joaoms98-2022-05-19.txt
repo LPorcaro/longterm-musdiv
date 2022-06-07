@@ -1,19 +1,19 @@
-Electronic artists found: Bakermat, Portico Quartet
-Electronic genres found: electronica, new tribe, tropical house, minimal tech house
+Electronic artists found: Portico Quartet, Bakermat
+Electronic genres found: new tribe, deep tropical house, minimal tech house, electronica, tropical house
 Electronic music logs found: 2.35% 
 
 Top genres
-	1: french jazz (12.60%)
-	2: hip hop tuga (10.24%)
-	3: portuguese pop (8.66%)
-	4: fado (8.66%)
-	5: portuguese rock (7.87%)
+	1: french jazz (12.50%)
+	2: hip hop tuga (10.16%)
+	3: portuguese pop (8.59%)
+	4: fado (8.59%)
+	5: portuguese rock (7.81%)
 Top artists
-	1: Baptiste Herbin (1.89%)
-	2: Tuna de Medicina da Universidade de Coimbra (1.89%)
-	3: André Ceccarelli (1.89%)
-	4: Diogo Piçarra (1.89%)
-	5: Denize Machado (1.89%)
+	1: Dino d'Santiago (1.89%)
+	2: Orquestra Jazz de Leiria (1.89%)
+	3: Vulfpeck (1.89%)
+	4: Orquestra Bamba Social (1.89%)
+	5: Benjamin Henocq (1.89%)
 Top country
 	1: PT (48.24%)
 	2: FR (22.35%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   85.000000     85.000000     85.000000         85.000000    85.000000   85.000000  85.000000  85.000000
-mean    24.047059      0.551298      0.593988          0.164133     0.094311  118.374882   0.489788   0.471936
-std     17.349287      0.311959      0.162880          0.294629     0.101825   25.672332   0.223397   0.215060
+mean    24.035294      0.551298      0.593988          0.164133     0.094311  118.374882   0.489788   0.471936
+std     17.362005      0.311959      0.162880          0.294629     0.101825   25.672332   0.223397   0.215060
 min      0.000000      0.000754      0.201000          0.000000     0.029300   74.914000   0.102000   0.004730
 25%      8.000000      0.253000      0.475000          0.000009     0.037100  101.304000   0.313000   0.314000
 50%     20.000000      0.607000      0.604000          0.000355     0.049400  117.716000   0.466000   0.507000

@@ -1,5 +1,5 @@
 Electronic artists found: Spandau Ballet, Modern Talking
-Electronic genres found: disco, eurodance
+Electronic genres found: eurodance, disco
 Electronic music logs found: 14.81% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: hard rock (6.84%)
 	5: rock (6.84%)
 Top artists
-	1: Spandau Ballet (9.09%)
-	2: Saxon (9.09%)
-	3: Mötley Crüe (9.09%)
+	1: Van Halen (9.09%)
+	2: Whitesnake (9.09%)
+	3: Leprous (9.09%)
 	4: Hällas (9.09%)
-	5: Modern Talking (9.09%)
+	5: Deep Purple (9.09%)
 Top country
 	1: GB (74.07%)
 	2: US (14.81%)
@@ -35,8 +35,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
-mean    45.296296      0.135482      0.450148          0.089819     0.049533  123.533481   0.407611   0.691148
-std     10.698004      0.207929      0.181766          0.160035     0.017138   25.655716   0.238760   0.176511
+mean    45.370370      0.135482      0.450148          0.089819     0.049533  123.533481   0.407611   0.691148
+std     10.645144      0.207929      0.181766          0.160035     0.017138   25.655716   0.238760   0.176511
 min     30.000000      0.000004      0.153000          0.000005     0.027700   77.488000   0.071700   0.325000
 25%     38.000000      0.006830      0.308000          0.001735     0.036050  106.089000   0.212500   0.544500
 50%     43.000000      0.052500      0.411000          0.021200     0.047100  119.968000   0.368000   0.731000

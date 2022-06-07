@@ -1,0 +1,45 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: urbano espanol (13.79%)
+	2: new orleans jazz (11.21%)
+	3: dixieland (10.34%)
+	4: ragtime (6.03%)
+	5: swing (6.03%)
+Top artists
+	1: Eliades Ochoa (2.56%)
+	2: Claude Luter et son orchestre (2.56%)
+	3: Desbundixie Dixie Band (2.56%)
+	4: Effi Netzer Band (2.56%)
+	5: Louis Armstrong (2.56%)
+Top country
+	1: ES (28.57%)
+	2: us (21.43%)
+	3: US (16.07%)
+	4: BR (7.14%)
+	5: FR (7.14%)
+Top record
+	1: 502 (28.57%)
+	2: dy4 (12.50%)
+	3: hm9 (7.14%)
+	4: 18D (5.36%)
+	5: SM1 (5.36%)
+Top year
+	1: 21 (23.21%)
+	2: 18 (16.07%)
+	3: 20 (10.71%)
+	4: 17 (7.14%)
+	5: 16 (5.36%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   56.000000     56.000000     56.000000         56.000000    56.000000   56.000000  56.000000  56.000000
+mean    34.732143      0.635411      0.636393          0.220481     0.134914  119.198732   0.624696   0.419555
+std     27.328634      0.251310      0.121169          0.332371     0.131866   25.681302   0.213890   0.157998
+min      0.000000      0.018400      0.460000          0.000000     0.028500   79.040000   0.209000   0.077100
+25%      2.500000      0.474500      0.524000          0.000304     0.042950  103.351250   0.430250   0.313250
+50%     34.500000      0.688000      0.638500          0.023500     0.079500  118.177500   0.637000   0.379500
+75%     59.250000      0.828250      0.723750          0.356000     0.181250  128.705000   0.810750   0.515750
+max     84.000000      0.988000      0.913000          0.935000     0.523000  203.006000   0.977000   0.757000

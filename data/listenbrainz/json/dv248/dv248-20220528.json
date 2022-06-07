@@ -1,0 +1,428 @@
+[
+    {
+        "listened_at": "2022-05-26T22:35:01",
+        "track_name": "Holiday",
+        "artist_name": "KSI",
+        "release_name": "All Over The Place (Platinum VIP Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/14Bcv6siTBPw3TlP84dasC",
+        "listening_from": "spotify",
+        "isrc": "QMRSZ2101354",
+        "additional_info": {
+            "artist_msid": "8a701db0-688c-4e3a-a0a8-a3d5690aeab2",
+            "artist_names": [
+                "KSI"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193733,
+            "isrc": "QMRSZ2101354",
+            "listening_from": "spotify",
+            "recording_msid": "221fb44e-8508-4116-95a9-4972d01988bb",
+            "release_artist_name": "KSI",
+            "release_artist_names": [
+                "KSI"
+            ],
+            "release_msid": "d61935f7-09f7-4489-89fc-882e512e22f5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/41jQTuRYzHH58MwygrUxty",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+            ],
+            "spotify_id": "https://open.spotify.com/track/14Bcv6siTBPw3TlP84dasC",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:31:47",
+        "track_name": "Vibranium",
+        "artist_name": "Chunkz, Neji",
+        "release_name": "Vibranium",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2YBywWeiTiso2SuSg8PWTG",
+        "listening_from": "spotify",
+        "isrc": "QZDA71850203",
+        "additional_info": {
+            "artist_msid": "e7be30ef-aa2f-4868-add7-79fbb2c6676d",
+            "artist_names": [
+                "Chunkz",
+                "Neji"
+            ],
+            "discnumber": 1,
+            "duration_ms": 208509,
+            "isrc": "QZDA71850203",
+            "listening_from": "spotify",
+            "recording_msid": "dee7a1dc-8745-486a-94ef-ef5e6b6cbfdb",
+            "release_artist_name": "Chunkz",
+            "release_artist_names": [
+                "Chunkz"
+            ],
+            "release_msid": "bef5902f-3aad-439c-aa21-0115315175aa",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3Lpx3ZSrsLeaVD9zKtGPiG"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7aQc56F6P5UdnfpPd71Xio",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3Lpx3ZSrsLeaVD9zKtGPiG",
+                "https://open.spotify.com/artist/4Zpw485tk1ubdqIBe6GX9O"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2YBywWeiTiso2SuSg8PWTG",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:28:19",
+        "track_name": "Blame It On Me",
+        "artist_name": "Richie Campbell",
+        "release_name": "Blame It On Me",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/14OMwxQYP1kjise1JlBj6q",
+        "listening_from": "spotify",
+        "isrc": "PT9AN1200016",
+        "additional_info": {
+            "artist_msid": "a232051b-470e-446e-ac9d-ad19e7fc6796",
+            "artist_names": [
+                "Richie Campbell"
+            ],
+            "discnumber": 1,
+            "duration_ms": 163514,
+            "isrc": "PT9AN1200016",
+            "listening_from": "spotify",
+            "recording_msid": "16f52d01-8032-4699-80e6-7abda4663a37",
+            "release_artist_name": "Richie Campbell",
+            "release_artist_names": [
+                "Richie Campbell"
+            ],
+            "release_msid": "e9872482-9888-410b-a618-e3bf0a185d2e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5ZwC8fGLk5L8P096bpj2Uf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+            ],
+            "spotify_id": "https://open.spotify.com/track/14OMwxQYP1kjise1JlBj6q",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:25:33",
+        "track_name": "Barracada",
+        "artist_name": "Deejay Telio",
+        "release_name": "Barracada",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4naJPdc1rc8OknFjgxJFar",
+        "listening_from": "spotify",
+        "isrc": "ES71G2140946",
+        "additional_info": {
+            "artist_msid": "673e63eb-9232-4b8f-87af-fc805d5d8d31",
+            "artist_names": [
+                "Deejay Telio"
+            ],
+            "discnumber": 1,
+            "duration_ms": 205000,
+            "isrc": "ES71G2140946",
+            "listening_from": "spotify",
+            "recording_msid": "94cede36-160a-4432-8516-7f1fa5916d3c",
+            "release_artist_name": "Deejay Telio",
+            "release_artist_names": [
+                "Deejay Telio"
+            ],
+            "release_msid": "92bfae8e-4b22-4091-b66b-18454cd34ab7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5eaK6o9oj9wXElwgpMkPUC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4naJPdc1rc8OknFjgxJFar",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:22:07",
+        "track_name": "Lua",
+        "artist_name": "Ivandro",
+        "release_name": "Lua",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3",
+        "listening_from": "spotify",
+        "isrc": "PT9GN2200001",
+        "additional_info": {
+            "artist_msid": "d45db68c-00c2-4ebe-abf0-ea0007b5809a",
+            "artist_names": [
+                "Ivandro"
+            ],
+            "discnumber": 1,
+            "duration_ms": 192631,
+            "isrc": "PT9GN2200001",
+            "listening_from": "spotify",
+            "recording_msid": "f5b3a411-1a2a-46f3-ade9-23ac8ffdbb59",
+            "release_artist_name": "Ivandro",
+            "release_artist_names": [
+                "Ivandro"
+            ],
+            "release_msid": "30b77df4-301b-4214-88f2-f215c7129d42",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:17:58",
+        "track_name": "Let You Go",
+        "artist_name": "Richie Campbell",
+        "release_name": "Let You Go",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV",
+        "listening_from": "spotify",
+        "isrc": "PT9AN2200001",
+        "additional_info": {
+            "artist_msid": "a232051b-470e-446e-ac9d-ad19e7fc6796",
+            "artist_names": [
+                "Richie Campbell"
+            ],
+            "discnumber": 1,
+            "duration_ms": 204320,
+            "isrc": "PT9AN2200001",
+            "listening_from": "spotify",
+            "recording_msid": "6ad9d77b-cd95-4dcf-b49b-2d618fd037c9",
+            "release_artist_name": "Richie Campbell",
+            "release_artist_names": [
+                "Richie Campbell"
+            ],
+            "release_msid": "33021105-fb27-403f-948c-3466c7a33293",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:14:33",
+        "track_name": "Where Are You Now",
+        "artist_name": "Lost Frequencies, Calum Scott",
+        "release_name": "Where Are You Now",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
+        "listening_from": "spotify",
+        "isrc": "BEHP42100067",
+        "additional_info": {
+            "artist_msid": "d865bf78-8b4e-4110-90e8-134911694dca",
+            "artist_names": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "discnumber": 1,
+            "duration_ms": 148197,
+            "isrc": "BEHP42100067",
+            "listening_from": "spotify",
+            "recording_msid": "d765fde8-ad3a-4609-ac6d-2f2d4bcfdb66",
+            "release_artist_name": "Lost Frequencies, Calum Scott",
+            "release_artist_names": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "release_msid": "01aa26f9-5e5d-4f6e-a256-401dc4a0a908",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+                "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+                "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:12:04",
+        "track_name": "Hrs & Hrs",
+        "artist_name": "Muni Long",
+        "release_name": "Public Displays Of Affection",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb",
+        "listening_from": "spotify",
+        "isrc": "QZAKB2136210",
+        "additional_info": {
+            "artist_msid": "67ea57dc-953f-4600-8915-56ba13109863",
+            "artist_names": [
+                "Muni Long"
+            ],
+            "discnumber": 1,
+            "duration_ms": 204316,
+            "isrc": "QZAKB2136210",
+            "listening_from": "spotify",
+            "recording_msid": "92e10dd3-951c-430e-a5bd-4e8d9ad25235",
+            "release_artist_name": "Muni Long",
+            "release_artist_names": [
+                "Muni Long"
+            ],
+            "release_msid": "1089ad31-fd18-4eb5-9714-b5711a68b895",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-26T22:08:38",
+        "track_name": "MIDDLE OF THE NIGHT",
+        "artist_name": "Elley Duh\u00e9",
+        "release_name": "MIDDLE OF THE NIGHT",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly",
+        "listening_from": "spotify",
+        "isrc": "USRC11903813",
+        "additional_info": {
+            "artist_msid": "0818eecd-a267-4e32-b749-991e41f7e120",
+            "artist_names": [
+                "Elley Duh\u00e9"
+            ],
+            "discnumber": 1,
+            "duration_ms": 184447,
+            "isrc": "USRC11903813",
+            "listening_from": "spotify",
+            "recording_msid": "cb87c86a-5ebb-49af-8d22-7129a31fa88e",
+            "release_artist_name": "Elley Duh\u00e9",
+            "release_artist_names": [
+                "Elley Duh\u00e9"
+            ],
+            "release_msid": "d680a11f-a28a-4df1-b26e-f37e7e535aba",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+            ],
+            "spotify_id": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-25T22:12:57",
+        "track_name": "Treat People With Kindness",
+        "artist_name": "Harry Styles",
+        "release_name": "Fine Line",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0",
+        "listening_from": "spotify",
+        "isrc": "USSM11912594",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 197346,
+            "isrc": "USSM11912594",
+            "listening_from": "spotify",
+            "recording_msid": "72b806f3-df72-46fd-b7ea-bf7f29f72f7d",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "357d1d94-339f-4e41-9cef-4a609cc573b6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0",
+            "tracknumber": 11
+        },
+        "username": null
+    }
+]

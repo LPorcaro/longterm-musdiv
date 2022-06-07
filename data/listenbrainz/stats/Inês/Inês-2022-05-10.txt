@@ -3,17 +3,17 @@ Electronic genres found: chillwave, compositional ambient
 Electronic music logs found: 13.79% 
 
 Top genres
-	1: nova mpb (8.77%)
-	2: brazilian rock (7.89%)
-	3: mpb (7.02%)
-	4: indie folk (5.26%)
-	5: stomp and holler (4.39%)
+	1: nova mpb (8.93%)
+	2: brazilian rock (8.04%)
+	3: mpb (7.14%)
+	4: indie folk (5.36%)
+	5: stomp and holler (4.46%)
 Top artists
-	1: The Japanese House (5.56%)
-	2: Yann Tiersen (5.56%)
-	3: Tim Bernardes (5.56%)
-	4: Gia Margaret (5.56%)
-	5: Highasakite (5.56%)
+	1: Leo Middea (5.56%)
+	2: The Japanese House (5.56%)
+	3: John Denver (5.56%)
+	4: Shakey Graves (5.56%)
+	5: Gia Margaret (5.56%)
 Top country
 	1: US (31.03%)
 	2: BR (31.03%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
-mean    42.896552      0.690862      0.570276          0.059583     0.060193  124.682310   0.403986   0.369976
-std     14.624697      0.225482      0.120926          0.173939     0.054181   29.775426   0.214726   0.177031
+mean    42.965517      0.690862      0.570276          0.059583     0.060193  124.682310   0.403986   0.369976
+std     14.607930      0.225482      0.120926          0.173939     0.054181   29.775426   0.214726   0.177031
 min      8.000000      0.117000      0.348000          0.000000     0.026600   76.470000   0.093600   0.055900
 25%     35.000000      0.588000      0.514000          0.000001     0.033200  108.129000   0.206000   0.222000
 50%     44.000000      0.739000      0.576000          0.000136     0.043900  122.012000   0.389000   0.371000

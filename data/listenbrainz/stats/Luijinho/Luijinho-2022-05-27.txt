@@ -1,0 +1,45 @@
+Electronic artists found: Mandragora, Mandragora,La P'tite Fumée, Mandragora,Berg,Phanatic
+Electronic genres found: brazilian edm, mexican edm
+Electronic music logs found: 10.71% 
+
+Top genres
+	1: alternative metal (11.71%)
+	2: alternative rock (11.71%)
+	3: art rock (11.71%)
+	4: nu metal (11.71%)
+	5: progressive metal (11.71%)
+Top artists
+	1: Mandragora (8.33%)
+	2: MC Ingryd (8.33%)
+	3: FKJ (8.33%)
+	4: TOOL (8.33%)
+	5: Berg (8.33%)
+Top country
+	1: US (46.43%)
+	2: PT (21.43%)
+	3: QZ (17.86%)
+	4: GB (7.14%)
+	5: DE (3.57%)
+Top record
+	1: VR1 (25.00%)
+	2: BM1 (14.29%)
+	3: RC1 (14.29%)
+	4: HN7 (14.29%)
+	5: RO1 (7.14%)
+Top year
+	1: 19 (21.43%)
+	2: 20 (17.86%)
+	3: 21 (10.71%)
+	4: 01 (7.14%)
+	5: 96 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   28.000000     28.000000     28.000000         28.000000    28.000000   28.000000  28.000000  28.000000
+mean    47.214286      0.137585      0.533893          0.397701     0.097639  134.385786   0.247989   0.677393
+std     11.285379      0.219047      0.201564          0.370337     0.072802   28.403881   0.182122   0.174129
+min     19.000000      0.000013      0.241000          0.000000     0.032000   78.010000   0.036200   0.338000
+25%     43.000000      0.001148      0.371250          0.000805     0.050325  113.159000   0.065325   0.575250
+50%     49.000000      0.006580      0.492500          0.514000     0.064250  138.876500   0.236500   0.679500
+75%     54.500000      0.202750      0.730250          0.778000     0.138000  156.286000   0.375000   0.817000
+max     65.000000      0.665000      0.838000          0.895000     0.319000  180.738000   0.609000   0.941000

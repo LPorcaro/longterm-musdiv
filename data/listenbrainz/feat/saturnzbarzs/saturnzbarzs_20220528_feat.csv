@@ -1,0 +1,78 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+4Aocy7YAyOYf5YHj18Vfj3	Aminé	Charmander	QZLBC2100449	68	hip hop,pop,portland hip hop,rap,underground hip hop	0.542	0.708	0.00377	0.0714	87.195	0.596	0.552
+7CAbF0By0Fpnbiu6Xn5ZF7	Bring Me The Horizon,BABYMETAL	Kingslayer (feat. BABYMETAL)	GBARL2001276	68	melodic metalcore,metalcore,rock,uk metalcore	0.000207	0.434	0.00109	0.147	92.541	0.428	0.929
+4UiogCfzKQW98U1GTCivsn	Joji,rei brown	Normal People (feat. rei brown)	ZZOPM2002176	60	alternative r&b,viral pop	0.384	0.678	0.736	0.0472	173.104	0.637	0.685
+4YMc3A256xFBS0xcT77Qce	bbno$,Diamond Pistols	help herself	QM24S2100146	67	canadian hip hop,dark trap,vapor trap	0.623	0.607	0.351	0.0364	168.049	0.479	0.851
+1qxZswAdBvM0JMUoV83J1b	Still Woozy	BS	USUG12003263	58	bedroom pop,modern rock,oakland indie	0.503	0.616	0.0035	0.0455	79.574	0.53	0.458
+5i0jWb3Q8AZSXudqOrovxr	Young Lungs,Verzache	I Want My Life To Change	QZNWV2067844	43	canadian hip hop	0.407	0.759	2.04e-06	0.0426	119.97	0.677	0.609
+6Pif6RkFoYzLygdqktus4Q	My Chemical Romance	The Foundations of Decay	USRE12200285	77	emo,pop punk	0.000582	0.363	0.548	0.0552	150.15	0.198	0.67
+4qPbHPTHniTcYt6oeboB7r	My Chemical Romance	House of Wolves	USRE10602908	41	emo,pop punk	0.000347	0.445	0.0235	0.0995	105.825	0.239	0.977
+0Jli6hojT6aSBcFg4L2P5f	My Chemical Romance	I Don't Love You	USRE10602907	44	emo,pop punk	0.00837	0.289	2.61e-05	0.0494	169.835	0.33	0.796
+5EgnurNPXl2Arm2RDt6Aid	My Chemical Romance	The Sharpest Lives	USRE10602906	43	emo,pop punk	0.000111	0.513	0.000102	0.0532	155.015	0.543	0.937
+7vBczWEtVRGXkI5HOISv7L	My Chemical Romance	This Is How I Disappear	USRE10602905	43	emo,pop punk	5.08e-05	0.242	4.43e-05	0.106	163.366	0.301	0.983
+3262RRKqFC1oJXFwCMqgM0	My Chemical Romance	Dead!	USRE10602904	45	emo,pop punk	0.0037	0.481	0.000877	0.0542	99.331	0.362	0.973
+7oiqxhRXTv11kRqEV0D70G	My Chemical Romance	The End.	USRE10602903	43	emo,pop punk	0.0827	0.292	0.0	0.0363	175.053	0.207	0.548
+1yKAqZoi8xWGLCf5vajroL	My Chemical Romance	The Ghost of You	USRE10400661	68	emo,pop punk	0.0286	0.202	0.0	0.0816	145.781	0.192	0.886
+0uukw2CgEIApv4IWAjXrBC	My Chemical Romance	Dead!	USRE10602904	68	emo,pop punk	0.0037	0.481	0.000877	0.0542	99.331	0.362	0.973
+5BB0Jzw60KyfSTyjJqtely	My Chemical Romance	Na Na Na (Na Na Na Na Na Na Na Na Na)	USRE11000909	69	emo,pop punk	0.000264	0.411	0.00148	0.0583	165.981	0.649	0.986
+4RAOI1etsgbh5NP3T5R8rN	My Chemical Romance	I Don't Love You	USRE10602907	70	emo,pop punk	0.00837	0.289	2.61e-05	0.0494	169.835	0.33	0.796
+2d6m2F4I7wCuAKtSsdhh83	My Chemical Romance	Famous Last Words	USRE10602914	71	emo,pop punk	0.000321	0.467	0.000152	0.106	122.252	0.309	0.883
+5dTHtzHFPyi8TlTtzoz1J9	My Chemical Romance	Helena	USRE10400656	73	emo,pop punk	0.0142	0.356	0.0	0.104	125.921	0.0857	0.96
+7lRlq939cDG4SzWOF4VAnd	My Chemical Romance	I'm Not Okay (I Promise)	USRE10400660	74	emo,pop punk	0.00602	0.21	0.0	0.123	179.722	0.255	0.94
+7j31rVgGX9Q2blT92VBEA0	My Chemical Romance	Teenagers	USRE10602912	79	emo,pop punk	0.0506	0.463	0.0	0.0632	111.647	0.856	0.857
+4d4jAHkTIfNr2EpSrLvI9f	bbno$,lentra	roo doo	QM24S1847162	44	canadian hip hop,dark trap,vapor trap	0.215	0.915	3.37e-05	0.151	100.98	0.835	0.534
+4RYhSQFFlquCTb8XRMJgFU	$uicideboy$,Shakewell	Venom	QM8DG1702189	64	dark trap,new orleans rap,underground hip hop	0.239	0.796	0.0	0.289	147.98	0.591	0.637
+1IhMuuTCpO0K7BM2MmIZ0w	bbno$,Yung Gravy	shining on my ex	QM24S1926160	59	canadian hip hop,dark trap,vapor trap	0.121	0.645	0.0	0.352	88.893	0.618	0.487
+75nIh1J0rqev9DTQj6P8eq	Verzache	Look Away	QZNRC2000006	37	lo-fi chill	0.0937	0.728	0.00749	0.0306	144.997	0.625	0.777
+2QCUME7yICpQB7thog8aKX	bbno$,Warhol.SS,Dilip	cheesy	QM24S1915525	31	canadian hip hop,dark trap,vapor trap	0.0523	0.96	3.15e-05	0.224	125.014	0.689	0.496
+14wlnbFSJj5VTK5c1cDQMQ	bbno$	mathematics	GBKPL2291589	67	canadian hip hop,dark trap,vapor trap	0.0608	0.758	1.5e-05	0.272	169.882	0.871	0.843
+7sdqtgsO9zxvKdrrVDpaNu	Aminé	Money	USUG11700917	40	hip hop,pop,portland hip hop,rap,underground hip hop	0.757	0.502	0.0	0.369	82.393	0.742	0.466
+3zLmQwnPe8RJdkK3lr4AJm	bbno$,lentra	moves	QM24S1833684	45	canadian hip hop,dark trap,vapor trap	0.197	0.917	0.00458	0.241	97.977	0.813	0.757
+3qbqWUDl9j09PeBaQ6CZgr	Rich Brian,Joji	Introvert (feat. Joji)	USUYG1181125	58	indonesian hip hop	0.14	0.836	0.00231	0.0413	110.029	0.632	0.686
+6qZcifm7zyUgsjXzooHbpz	bbno$	i remember	QMUY42100212	53	canadian hip hop,dark trap,vapor trap	0.000925	0.602	0.712	0.0408	76.986	0.821	0.821
+5g0Tf8CGwDtx1nsN9HI5xu	Shakewell,Fat Nick	I Feel Like Chingy	QMEZE1920823	33	dark trap,underground hip hop,vapor trap	0.00405	0.839	0.357	0.128	80.003	0.24	0.725
+1hJZvoGEYJAggWTWSPEzVu	bbno$,Y2K,Lewis Grant	thankful	QM24S1845649	48	canadian hip hop,dark trap,vapor trap	0.796	0.763	0.0	0.0356	135.03	0.603	0.444
+5rW7qTn83sCKtqBoneJs63	bbno$,Rich Brian	edamame (feat. Rich Brian)	QMUY42100151	70	canadian hip hop,dark trap,vapor trap	0.0229	0.815	0.000176	0.114	106.035	0.685	0.849
+51Fjme0JiitpyXKuyQiCDo	Y2K,bbno$	Lalala	USSM11904230	74	pop rap	0.178	0.843	0.0	0.0846	129.972	0.495	0.39
+5dwd4rLLaw91tKAa3fHJgk	Aminé	Mrs. Clean	USUM72021996	45	hip hop,pop,portland hip hop,rap,underground hip hop	0.0859	0.826	6.26e-06	0.0708	151.011	0.456	0.621
+4DGmoB9LuGlOY91jFugBYU	Rich Brian	watch out!	USUYG1190366	40	indonesian hip hop	0.0166	0.865	0.000112	0.275	160.019	0.385	0.686
+5eakE6GwfSZritlV8VwoAq	bbno$,Yung Gravy,lentra	jack money bean	QM24S2007822	42	canadian hip hop,dark trap,vapor trap	0.358	0.808	0.0	0.244	92.012	0.757	0.52
+6cZSRZJfYKvNzUo8ZNUy81	Panic! At The Disco	But It's Better If You Do	US56V0507709	52	modern rock	0.0617	0.467	0.0	0.0716	170.036	0.674	0.848
+3l9CW99AHtExIRV4hW2N5m	Paramore	Misery Business	USAT20702617	72	candy pop,pixie,pop emo,pop punk	0.00272	0.517	9.26e-06	0.0735	172.977	0.731	0.906
+5kxVyCgEUND7E2QKG7JmoF	Arctic Monkeys	Teddy Picker	GBCEL0700064	66	garage rock,permanent wave,rock,sheffield indie	0.000286	0.637	0.000889	0.0882	150.1	0.823	0.963
+7oWbeO9v3Cfs900q7JhLAs	Cage The Elephant	Come A Little Closer	USRC11301144	70	modern alternative rock,modern rock,punk blues,rock	0.0265	0.44	1.04e-06	0.0327	148.038	0.304	0.778
+2fyIS6GXMgUcSv4oejx63f	Arctic Monkeys	Mardy Bum	GBCEL0501188	69	garage rock,permanent wave,rock,sheffield indie	0.0288	0.634	0.0	0.0365	112.215	0.312	0.599
+3lPr8ghNDBLc2uZovNyLs9	Muse	Supermassive Black Hole	GBAHT0500593	75	modern rock,permanent wave,rock	0.0492	0.668	0.00517	0.0439	120.0	0.782	0.921
+6GPpocnUJbzMNMTJDLYCim	Paramore	Brick by Boring Brick	USAT20902321	55	candy pop,pixie,pop emo,pop punk	9.56e-05	0.436	0.000438	0.0496	164.975	0.5	0.942
+0EQCmMEQu5YHEFeh9QcnCB	Panic! At The Disco	Nails for Breakfast, Tacks for Snacks	US56V0507704	40	modern rock	0.0131	0.6	0.0	0.114	145.004	0.621	0.946
+21Qsj3cMVCx2xF2EVVNbEu	The White Stripes	Fell In Love With a Girl	GBBKS0100352	69	alternative rock,blues rock,detroit rock,garage rock,modern blues rock,modern rock,permanent wave,punk blues,rock	0.713	0.356	0.00145	0.112	95.754	0.299	0.982
+5ZdrNnYV5VZWds4WXKf8kf	Paramore	Ignorance	USAT20902050	59	candy pop,pixie,pop emo,pop punk	0.00109	0.522	0.000389	0.095	170.944	0.51	0.964
+6pjJUY0O4XgrYFGf9SwD7u	Wet Leg	Wet Dream	GBCEL2100487	59		0.00096	0.721	0.0106	0.0284	130.051	0.898	0.697
+4nlT0Ch4qpqoS8O1RsdzjH	girl in red	You Stupid Bitch	GBKPL2136769	67	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.00721	0.521	0.00119	0.053	149.006	0.764	0.833
+7G934pV1tSJ6UohJSOxpRF	The Front Bottoms	Flashlight	US37V1120701	40	asbury park indie,emo,modern rock,new jersey indie	0.00144	0.428	0.0	0.0636	151.495	0.653	0.865
+7tCHpjktA50ihtkLz6bAnn	Cage The Elephant	Ain't No Rest For The Wicked - Original Version	GBGLM0700133	65	modern alternative rock,modern rock,punk blues,rock	0.0597	0.635	0.0	0.111	156.014	0.922	0.914
+0GO8y8jQk1PkHzS31d699N	Grouplove	Tongue Tied	USAT21101334	78	indie pop,indie rock,indietronica,la indie,modern alternative rock,modern rock,pop rock,rock,stomp and holler	0.00847	0.56	0.0	0.0439	112.96	0.371	0.936
+3yfI1O9gzffOZdfkVfZ5uC	Riscas	Talk Your Mind	UKDKX1700762	38	birmingham indie,english indie rock	0.00997	0.534	0.00679	0.0268	156.003	0.564	0.673
+7EkWXAI1wn8Ii883ecd9xr	Surf Curse	Freaks	USAT22102269	84	dreamo,indie surf,surf punk,vegas indie	3.84e-05	0.345	0.633	0.0466	179.626	0.407	0.941
+3Wu6MhnZuLuzfH5wFC2g9i	alt-J	Breezeblocks	GBZUZ1200067	70	indie rock	0.117	0.611	0.00101	0.037	74.991	0.258	0.643
+0sTlGEld0h8kIPZaKDYUf4	The Rare Occasions	Notion	USHM21617726	84	la indie	0.0673	0.309	0.00111	0.0808	159.488	0.312	0.883
+2yH16s2lLbYtLziVwqw7Pf	Grouplove	Deleter	USAT21906910	53	indie pop,indie rock,indietronica,la indie,modern alternative rock,modern rock,pop rock,rock,stomp and holler	3.81e-06	0.421	0.0466	0.124	159.998	0.446	0.991
+5ykbOijJEfRhuo2Td1m0Qd	Catfish and the Bottlemen	7	GBUM71600834	65	modern alternative rock,modern rock,rock,stomp pop,welsh rock	0.000204	0.531	0.00291	0.0398	155.068	0.279	0.711
+1M4Ud66z18wuIq3oOxqVHa	girl in red	bad idea!	GBKPL1963282	75	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.03	0.511	0.0465	0.0481	162.04	0.41	0.806
+5EV4bGHxVN0kHpcAFvgnTt	boy pablo	Dance, Baby!	USQY51745799	68	bedroom pop,bergen indie,indie pop,norwegian indie	0.037	0.602	0.0046	0.0411	122.017	0.856	0.601
+4JHg4nNYUJQ5HULcCmI18R	Two Door Cinema Club	What You Know	FRU700900116	70	indie rock,indietronica,irish rock,modern alternative rock,modern rock,northern irish indie,rock	0.000675	0.549	6.24e-06	0.0407	139.052	0.828	0.754
+415dK4glwDO7fXxYg3np8B	Wallows	Pictures of Girls	USAT21800731	59	indie pop,modern rock,pop	0.000248	0.443	0.00759	0.0322	154.958	0.494	0.819
+5Z9KJZvQzH6PFmb8SNkxuk	Lil Nas X,Jack Harlow	INDUSTRY BABY (feat. Jack Harlow)	USSM12104539	84	lgbtq+ hip hop,pop	0.0221	0.741	0.0	0.0672	150.087	0.892	0.691
+3grVoZ10bm2jUGpo7BxpuF	Lil Nas X	DEAD RIGHT NOW	USSM12105731	64	lgbtq+ hip hop,pop	0.101	0.685	1.87e-05	0.0411	127.963	0.549	0.717
+1SC5rEoYDGUK4NfG82494W	Lil Nas X	MONTERO (Call Me By Your Name)	USSM12100531	83	lgbtq+ hip hop,pop	0.293	0.593	0.0	0.22	178.781	0.71	0.503
+3BiWvG9j7UqmyOvMdC0DgO	BoyWithUke	Scared of the Dark	USUG12201576	66		0.982	0.632	1.29e-05	0.0566	170.006	0.697	0.321
+6dGqGkYDoRrKh5UiIcTT22	BoyWithUke	Understand	USUG12201585	75		0.81	0.828	1.06e-06	0.14	103.051	0.917	0.658
+19bC1ceaYvTf1ByKQps3hZ	BoyWithUke,Powfu	Contigo (with Powfu)	USUG12201559	66		0.707	0.733	0.0	0.102	90.45	0.906	0.755
+4ZUpTMKPYFTfJqamWFU9Zv	BoyWithUke,blackbear	IDGAF (with blackbear)	USUG12201227	70		0.427	0.782	0.0	0.0768	97.975	0.876	0.728
+0wIxgiUk2S1hrwLr5Y0PIt	BoyWithUke	Heart of Ice	USUG12201565	68		0.629	0.766	0.0	0.119	112.509	0.916	0.5
+7k5b0qVGM007o03HAMYY7p	BoyWithUke	She Said No	USUG12201580	67		0.879	0.786	0.0	0.176	98.061	0.815	0.553
+7w2iqaRxQgAGnkOdMhsiqu	BoyWithUke,mxmtoon	Prairies (with mxmtoon)	USUG12201571	68		0.189	0.717	0.0	0.0382	103.517	0.568	0.7
+4bAKBlxMI0eNoy1aNonUrV	BoyWithUke	Let Me Down	USUG12201569	65		0.56	0.818	0.0	0.264	97.535	0.848	0.47
+1APefTkgjjwQfZbUWQkOFc	BoyWithUke	Long Drives	USUG12200347	67		0.513	0.854	3.21e-05	0.111	130.021	0.986	0.667
+6d9tQk2l8UPqiwkf9ZUp6L	BoyWithUke	Far Away	USUG12201788	66		0.802	0.684	0.0	0.427	87.37	0.905	0.384
+2P375Ek8tXZjgo0bef9Sc1	BoyWithUke	Hazel Eyes	TCAFM2110473	62		0.912	0.894	0.0	0.287	144.97	0.459	0.429

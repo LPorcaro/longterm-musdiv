@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: metalcore (24.49%)
-	2: post-screamo (14.29%)
-	3: melodic metalcore (10.20%)
-	4: progressive metalcore (6.12%)
-	5: uk metalcore (6.12%)
+	1: metalcore (24.00%)
+	2: post-screamo (14.00%)
+	3: melodic metalcore (10.00%)
+	4: progressive metalcore (6.00%)
+	5: uk metalcore (6.00%)
 Top artists
-	1: The Amity Affliction (7.69%)
-	2: Don Toliver (7.69%)
-	3: ERRA (7.69%)
-	4: Monuments (7.69%)
-	5: Bad Omens (7.69%)
+	1: DJ Quik (7.69%)
+	2: The Amity Affliction (7.69%)
+	3: Mick Gordon (7.69%)
+	4: ERRA (7.69%)
+	5: Justin Bieber (7.69%)
 Top country
 	1: US (72.22%)
 	2: AU (5.56%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   18.000000     18.000000     18.000000         18.000000    18.000000   18.000000  18.000000  18.000000
-mean    48.777778      0.022812      0.551500          0.000664     0.149017  115.717444   0.342333   0.860000
-std     13.313220      0.058071      0.212963          0.002755     0.070423   35.470789   0.158474   0.183717
+mean    48.833333      0.022812      0.551500          0.000664     0.149017  115.717444   0.342333   0.860000
+std     13.232091      0.058071      0.212963          0.002755     0.070423   35.470789   0.158474   0.183717
 min     27.000000      0.000026      0.386000          0.000000     0.069800   74.999000   0.099000   0.433000
 25%     43.250000      0.000026      0.391000          0.000000     0.106000   74.999000   0.253000   0.754500
 50%     45.000000      0.000058      0.446500          0.000000     0.106000  123.069000   0.307500   0.959000

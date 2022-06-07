@@ -1,25 +1,25 @@
-Electronic artists found: R3HAB,Vini Vici,PANGEA,DEGO, Avicii,Sebastien Drums, Avicii, Calvin Harris,Frank Ocean,Migos,Funk Wav, Lost Frequencies,Calum Scott, Hippie Sabotage, David Guetta,Akon, Joel Corry,MNEK, Alan Walker,Julie Bergan,K-391,SEUNGRI, Icona Pop,Charli XCX, Timmy Trumpet,Savage
-Electronic genres found: edm, electro house, tropical house, slap house, electronic trap, progressive house, melbourne bounce international, progressive electro house, dutch house, melbourne bounce, belgian edm
+Electronic artists found: Joel Corry,MNEK, Hippie Sabotage, Avicii,Sebastien Drums, Icona Pop,Charli XCX, Calvin Harris,Frank Ocean,Migos,Funk Wav, R3HAB,Vini Vici,PANGEA,DEGO, Avicii, Timmy Trumpet,Savage, David Guetta,Akon, Lost Frequencies,Calum Scott, Alan Walker,Julie Bergan,K-391,SEUNGRI
+Electronic genres found: progressive electro house, melbourne bounce, melbourne bounce international, slap house, progressive house, electronic trap, electro house, belgian edm, tropical house, edm, dutch house
 Electronic music logs found: 10.74% 
 
 Top genres
 	1: pop (12.83%)
 	2: dance pop (11.78%)
-	3: pop rap (4.71%)
-	4: urban contemporary (4.45%)
+	3: urban contemporary (4.45%)
+	4: pop rap (4.45%)
 	5: hip hop tuga (4.19%)
 Top artists
-	1: Yung Trip (0.73%)
-	2: XEG (0.73%)
-	3: DEGO (0.73%)
-	4: Alan Walker (0.73%)
-	5: Sam The Kid (0.73%)
+	1: JID (0.73%)
+	2: Rihanna (0.73%)
+	3: Jesse McCartney (0.73%)
+	4: CeeLo Green (0.73%)
+	5: The Kid LAROI (0.73%)
 Top country
 	1: US (57.85%)
 	2: PT (14.88%)
 	3: GB (6.61%)
-	4: NL (3.31%)
-	5: ES (3.31%)
+	4: ES (3.31%)
+	5: NL (3.31%)
 Top record
 	1: UM7 (21.49%)
 	2: RC1 (5.79%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  121.000000    120.000000    120.000000        120.000000   120.000000  120.000000  120.000000  120.000000
-mean    61.231405      0.200854      0.680833          0.032683     0.117075  119.524975    0.527716    0.679075
-std     18.666708      0.214963      0.130074          0.118276     0.112336   28.279809    0.227530    0.156162
+mean    61.165289      0.200854      0.680833          0.032683     0.117075  119.524975    0.527716    0.679075
+std     18.645530      0.214963      0.130074          0.118276     0.112336   28.279809    0.227530    0.156162
 min      9.000000      0.000014      0.257000          0.000000     0.026100   68.490000    0.063500    0.340000
 25%     47.000000      0.031875      0.612250          0.000000     0.047200   99.112000    0.363250    0.561250
 50%     66.000000      0.122000      0.702500          0.000000     0.073300  115.483500    0.523500    0.692500

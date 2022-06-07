@@ -1,0 +1,44 @@
+Electronic artists found: SRTW,Katata, SRTW,COLIN,Nokyo, SRTW,nourii, SRTW,Noile,LIZ LUNE, SRTW, SRTW,COLIN, Mauve, SRTW,Oyzeau,CLOSR, Alok,John Legend, NLSN,scanta rose
+Electronic genres found: electro house, tropical house, pop edm, slap house
+Electronic music logs found: 17.46% 
+
+Top genres
+	1: pop edm (19.15%)
+	2: arrocha (12.77%)
+	3: sertanejo pop (10.64%)
+	4: pop (8.51%)
+	5: sertanejo (6.38%)
+Top artists
+	1: John Legend (1.56%)
+	2: Deeplace (1.56%)
+	3: Shawn Mendes (1.56%)
+	4: John Amplificado (1.56%)
+	5: LIVII (1.56%)
+Top country
+	1: DE (74.60%)
+	2: BR (7.94%)
+	3: BC (6.35%)
+	4: US (6.35%)
+	5: PT (3.17%)
+Top record
+	1: YT7 (73.02%)
+	2: 27R (4.76%)
+	3: SM1 (3.17%)
+	4: 3RD (1.59%)
+	5: 2EO (1.59%)
+Top year
+	1: 21 (47.62%)
+	2: 22 (46.03%)
+	3: 19 (3.17%)
+	4: 20 (3.17%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   63.000000     63.000000     63.000000         63.000000    63.000000   63.000000  63.000000  63.000000
+mean    54.476190      0.457271      0.642444          0.086924     0.067740  110.413587   0.396378   0.517079
+std     10.820913      0.249523      0.110814          0.222548     0.077108   19.704308   0.225443   0.167909
+min     36.000000      0.011700      0.398000          0.000000     0.027200   78.262000   0.066600   0.282000
+25%     49.000000      0.253000      0.569500          0.000000     0.037350  100.030500   0.221000   0.387000
+50%     51.000000      0.485000      0.667000          0.000146     0.048500  105.235000   0.349000   0.476000
+75%     55.500000      0.682500      0.732500          0.011705     0.058450  115.486000   0.493500   0.604000
+max     91.000000      0.966000      0.823000          0.886000     0.543000  185.727000   0.969000   0.996000

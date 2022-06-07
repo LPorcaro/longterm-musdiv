@@ -1,19 +1,19 @@
 Electronic artists found: Bakermat, Portico Quartet
-Electronic genres found: electronica, tropical house, new tribe, minimal tech house
+Electronic genres found: new tribe, deep tropical house, electronica, minimal tech house, tropical house
 Electronic music logs found: 9.68% 
 
 Top genres
-	1: musica portuguesa contemporanea (11.67%)
-	2: urbano espanol (5.00%)
-	3: deep euro house (3.33%)
-	4: minimal tech house (3.33%)
-	5: pop dance (3.33%)
+	1: musica portuguesa contemporanea (11.29%)
+	2: urbano espanol (4.84%)
+	3: deep euro house (3.23%)
+	4: deep tropical house (3.23%)
+	5: minimal tech house (3.23%)
 Top artists
-	1: Dominic Fike (2.86%)
-	2: Baptiste Herbin (2.86%)
-	3: Guerrinha (2.86%)
-	4: Luisa Sobral (2.86%)
-	5: Bruno Pernadas (2.86%)
+	1: Rogê (2.86%)
+	2: Silva (2.86%)
+	3: Dori Caymmi (2.86%)
+	4: Orquestra Bamba Social (2.86%)
+	5: Eduardo Farias (2.86%)
 Top country
 	1: FR (16.13%)
 	2: PT (16.13%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   31.000000     31.000000     31.000000         31.000000    31.000000   31.000000  31.000000  31.000000
-mean    38.677419      0.604862      0.659516          0.151583     0.123132  106.474677   0.613613   0.454129
-std     17.187955      0.301601      0.139508          0.264982     0.171232   24.974226   0.240661   0.151351
+mean    38.548387      0.604862      0.659516          0.151583     0.123132  106.474677   0.613613   0.454129
+std     17.239178      0.301601      0.139508          0.264982     0.171232   24.974226   0.240661   0.151351
 min      1.000000      0.000754      0.367000          0.000000     0.033000   82.882000   0.103000   0.169000
 25%     29.000000      0.520000      0.579000          0.000022     0.043450   89.009000   0.458000   0.375500
 50%     38.000000      0.627000      0.628000          0.004770     0.066100   95.800000   0.670000   0.436000

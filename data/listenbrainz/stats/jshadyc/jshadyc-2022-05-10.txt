@@ -1,4 +1,4 @@
-Electronic artists found: Village People, Gloria Gaynor, Culture Club, Eurythmics,Annie Lennox,Dave Stewart, Cyndi Lauper, Wham!
+Electronic artists found: Culture Club, Wham!, Gloria Gaynor, Village People, Cyndi Lauper, Eurythmics,Annie Lennox,Dave Stewart
 Electronic genres found: disco
 Electronic music logs found: 5.00% 
 
@@ -9,11 +9,11 @@ Top genres
 	4: portuguese rock (4.79%)
 	5: uk pop (3.89%)
 Top artists
-	1: Ray Charles (1.82%)
-	2: Madonna (1.82%)
-	3: Ala Dos Namorados (1.82%)
-	4: Ed Sheeran (1.82%)
-	5: Xutos & Pontapés (1.82%)
+	1: Roy Orbison (1.82%)
+	2: ABBA (1.82%)
+	3: Rihanna (1.82%)
+	4: Survivor (1.82%)
+	5: Los Lobos (1.82%)
 Top country
 	1: US (54.17%)
 	2: PT (18.33%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  120.000000    120.000000    120.000000        120.000000   120.000000  120.000000  120.000000  120.000000
-mean    62.625000      0.250938      0.614100          0.011887     0.055219  125.966200    0.589250    0.646582
-std     15.118058      0.278071      0.172674          0.063840     0.044729   30.489709    0.262677    0.207006
+mean    62.716667      0.250938      0.614100          0.011887     0.055219  125.966200    0.589250    0.646582
+std     15.046808      0.278071      0.172674          0.063840     0.044729   30.489709    0.262677    0.207006
 min     30.000000      0.000079      0.245000          0.000000     0.025700   64.177000    0.107000    0.054900
 25%     49.750000      0.032875      0.506000          0.000000     0.033275  108.961250    0.337500    0.475000
 50%     67.000000      0.137000      0.607000          0.000002     0.040200  124.517500    0.598000    0.669000

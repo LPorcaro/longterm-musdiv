@@ -1,0 +1,38 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: pop (13.64%)
+	2: dance pop (9.09%)
+	3: post-teen pop (9.09%)
+	4: classic soul (4.55%)
+	5: jazz blues (4.55%)
+Top artists
+	1: Juicy J (16.67%)
+	2: X Ambassadors (16.67%)
+	3: Kendrick Lamar (16.67%)
+	4: Katy Perry (16.67%)
+	5: Bryan Ferry & The Bryan Ferry Orchestra (16.67%)
+Top country
+	1: US (100.00%)
+Top record
+	1: UM7 (66.67%)
+	2: SM1 (16.67%)
+	3: NLR (16.67%)
+Top year
+	1: 13 (50.00%)
+	2: 11 (16.67%)
+	3: 19 (16.67%)
+	4: 17 (16.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    6.000000      6.000000      6.000000          6.000000     6.000000    6.000000  6.000000  6.000000
+mean    61.166667      0.296935      0.735667          0.007128     0.069650  124.415500  0.585333  0.556833
+std     17.982399      0.454390      0.096691          0.012328     0.026127   21.308257  0.241466  0.079212
+min     38.000000      0.000282      0.645000          0.000000     0.043000   90.638000  0.353000  0.401000
+25%     46.000000      0.003140      0.665250          0.000003     0.051300  113.979750  0.370000  0.562500
+50%     67.000000      0.005595      0.729000          0.000033     0.060300  131.931000  0.548500  0.585000
+75%     73.000000      0.658262      0.751500          0.009463     0.093075  133.472250  0.778750  0.591750
+max     81.000000      0.892000      0.908000          0.030100     0.102000  150.011000  0.896000  0.621000

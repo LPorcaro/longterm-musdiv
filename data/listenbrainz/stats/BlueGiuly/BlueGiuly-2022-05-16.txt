@@ -1,5 +1,5 @@
-Electronic artists found: Calvin Harris,Tom Grennan, Galantis,David Guetta,Little Mix, Jess Glynne, Zara Larsson,Sabrina Carpenter, Mabel
-Electronic genres found: tropical house, edm, progressive house, electro house
+Electronic artists found: Calvin Harris,Tom Grennan, Galantis,David Guetta,Little Mix, Mabel, Jess Glynne, Zara Larsson,Sabrina Carpenter
+Electronic genres found: electro house, tropical house, edm, progressive house
 Electronic music logs found: 5.68% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: k-pop boy group (7.17%)
 	5: uk pop (5.58%)
 Top artists
-	1: Adele (1.45%)
-	2: PENTAGON (1.45%)
-	3: Zara Larsson (1.45%)
-	4: Megan Thee Stallion (1.45%)
-	5: ATEEZ (1.45%)
+	1: Megan Thee Stallion (1.45%)
+	2: John Legend (1.45%)
+	3: Dean Lewis (1.45%)
+	4: Shawn Mendes (1.45%)
+	5: Henry (1.45%)
 Top country
 	1: US (51.14%)
 	2: GB (14.77%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   88.000000     88.000000     88.000000         88.000000    88.000000   88.000000  88.000000  88.000000
-mean    71.204545      0.253794      0.619205          0.021194     0.074540  119.372807   0.479534   0.660987
-std     11.315902      0.292856      0.133924          0.139145     0.067192   26.587020   0.229582   0.199529
+mean    71.352273      0.253794      0.619205          0.021194     0.074540  119.372807   0.479534   0.660987
+std     11.346213      0.292856      0.133924          0.139145     0.067192   26.587020   0.229582   0.199529
 min     31.000000      0.001190      0.240000          0.000000     0.024700   62.292000   0.104000   0.048900
 25%     65.000000      0.041250      0.532750          0.000000     0.037850  101.253250   0.296250   0.579250
 50%     72.000000      0.109500      0.626000          0.000000     0.046850  114.506500   0.479000   0.723000

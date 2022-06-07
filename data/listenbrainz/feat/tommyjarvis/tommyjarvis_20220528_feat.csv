@@ -1,0 +1,47 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5awDvzxWfd53SSrsRZ8pXO	Rammstein	Du hast	DED579704010	71	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00369	0.64	0.055	0.0385	125.105	0.716	0.922
+3X0K6fII7VIwL1URPrp8Ko	Rammstein	Ich will	DEN120100004	66	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00138	0.648	0.000819	0.041	128.115	0.468	0.896
+1a8JpAL3vbAdXYrEABvOtb	Rammstein	Amerika	DEN120404987	65	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00258	0.608	1.33e-05	0.0963	125.023	0.518	0.885
+3gVhsZtseYtY1fMuyYq06F	Rammstein	Sonne	DEN120003766	69	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0054	0.51	0.000133	0.0854	75.098	0.313	0.917
+1Cssm6TMieYSFz8gQyPzxa	Rammstein	Mein Land	DEUM71103432	59	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000108	0.378	0.12	0.0351	176.036	0.356	0.905
+5KGbRvZyVyKP2AEJMHErB4	Arctic Monkeys	Old Yellow Bricks	GBCEL0700073	64	garage rock,permanent wave,rock,sheffield indie	0.000147	0.66	6.62e-06	0.0682	135.158	0.757	0.837
+5aNH8inF5BsbThDeOLs7zs	Rammstein	Feuer frei!	DEN120100007	65	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	9.12e-05	0.491	0.346	0.0463	95.141	0.223	0.966
+0sTr11m140rnutSTKuFvPB	Robzzz,Space Surimi	cupi cupi	QZDA82217713	27		0.0107	0.873	0.154	0.0856	126.991	0.43	0.745
+1yS0zNAoM3a0u1SMFbLkxW	Robzzz	peluxito - remix	QZDA82219337	11		0.000195	0.655	0.785	0.0347	145.025	0.817	0.77
+2edx3DumMUu3kTN5YZelj9	Robzzz	er universo sobre mi - amaral remix	QZHNB2280687	10		0.0349	0.778	0.0	0.21	126.992	0.788	0.857
+7i6iWf6dd0qSZkD3Oww5WG	Robzzz	kusha las paya - remix	QZES62217576	21		0.00538	0.576	0.061	0.162	170.328	0.847	0.962
+2GYHyAoLWpkxLVa4oYTVko	Stromae	Alors on danse - Radio Edit	FRUM70902424	76	belgian pop,g-house	0.0994	0.791	0.00203	0.0793	119.951	0.714	0.59
+1FtqYazfNvsqR4CQvzrrD3	Emma Muscat	I Am What I Am	ITQ002200235	64	italian adult pop,italian pop	0.037	0.563	0.0	0.0296	97.875	0.383	0.712
+3n9qn38IhqkC7DcdIRaM9q	wrs	Llámame	ROGRA2102089	70	romanian pop	0.0564	0.755	0.0	0.131	119.971	0.661	0.757
+0JNPmXGU9K9DJpV9eHppZz	Monika LIU	Sentimentai	QZ93L2201560	69	lithuanian indie,lithuanian pop	0.0902	0.675	0.00411	0.0325	93.075	0.5	0.555
+3XREkzDHsWdBL5tybyCDBH	Chanel	SloMo	ES94B2100282	79		0.125	0.728	0.00448	0.0571	104.962	0.594	0.814
+6cTWJgNkmhATsI6RJgTPH4	Cornelia Jakobs	Hold Me Closer - Eurovision Version	SE5YN2200303	67	swedish pop	0.0995	0.503	0.0	0.0372	96.967	0.185	0.608
+70HQXHPuU7EyUroOYkOzdk	Andromache	Ela	GRPA12200072	67	greek pop	0.244	0.659	0.0	0.0906	97.982	0.652	0.626
+5bx4DPSuvBUn6luswgF7Ez	LPS	Disko	SIAC72200001	64		0.00179	0.683	0.0	0.0287	119.991	0.601	0.611
+43UejonUIN69O8NNAFRu5X	Alvan,Ahez	Fulenn	FR9W12204047	65	eurovision,new french touch	0.0127	0.742	3.41e-06	0.116	120.036	0.48	0.837
+59bx5emG4yTKWzAxwxgrKv	Colt Ford,JJ Lawhorn	Answer to No One (feat. JJ Lawhorn)	USASN1109781	57	contemporary country,country,country rap,country road,modern country rock,redneck	0.187	0.468	0.0	0.0992	79.988	0.523	0.874
+5arnJj92N08FfBrWcCtIRs	The Statler Brothers	New York City	USMR17080075	41	country,country rock	0.74	0.493	0.00325	0.0296	78.611	0.759	0.371
+6iOtb6MszNnFjItSl3BTTW	Bob Wayne	Hillbilly Heaven	GBDHC1429307	13	deathgrass,truck-driving country	0.214	0.586	0.152	0.0347	125.991	0.963	0.947
+6YLYkAcoOq6kbm9q3W0eaB	IV and The Strange Band	Deep Down	USME32100048	23		0.0667	0.2	0.347	0.0551	84.199	0.376	0.853
+0jo2E9nTTflJzAadadRaek	Hank Williams,Drifting Cowboys	Lost Highway	USPR34900125	47	honky tonk,traditional country,yodeling	0.855	0.593	0.000182	0.029	132.943	0.551	0.296
+2ehfX1liKrMjpYNDOoG8G1	IV and The Strange Band	Stand Your Ground	USME32100049	32		0.251	0.357	0.000698	0.0344	79.35	0.329	0.583
+0hveAq1VSNWo9MQYGMHvFF	Hank Williams	I'm So Lonesome I Could Cry	USPR34900126	48	honky tonk,traditional country,yodeling	0.874	0.678	0.000697	0.0288	110.964	0.652	0.218
+4cv6zLi4QDylVpuXzMJ6KV	Vera Sola	The Colony	QZDPP1800002	30	alternative americana	0.449	0.595	0.00438	0.0595	131.166	0.569	0.633
+7IoY9CnuGpZR19I7apcCXJ	John Schneider	Good Ol' Boys - The Dukes Of Hazzard Theme	USBAE1002338	28	country,country rock	0.419	0.685	2.59e-05	0.0308	141.88	0.88	0.644
+0AQquaENerGps8BQmbPw14	Marty Robbins	Big Iron	USSM15901193	66	cowboy western,nashville sound	0.803	0.726	0.0	0.0491	116.027	0.57	0.474
+4hZKQgu9lhERXZeOvTzlAB	Billy Joe Shaver	Wacko from Waco	US2761280334	40	alternative country,country rock,folk,outlaw country,roots americana,roots rock,texas country	0.408	0.561	0.0	0.135	110.635	0.663	0.656
+7k1Xm1wy00hCKJDYJL5p1n	George Strait	All My Ex's Live In Texas	USMC18622149	56	contemporary country,country,country road,country rock	0.217	0.764	1.02e-05	0.0308	130.541	0.738	0.333
+2PGF8vSlZMfaKX0HNN2pDT	Hank Williams, Jr.,Brad Paisley	I'm Gonna Get Drunk and Play Hank Williams	USE9B1200014	7	country,country road,country rock,outlaw country	0.148	0.675	0.0	0.026	127.999	0.81	0.712
+3KOxj3ig0Xtc3qsh4Lg6Ou	Waylon Jennings	Luckenbach, Texas (Back to the Basics of Love)	USRN19600113	35	country,country rock,outlaw country,texas country	0.718	0.69	0.0035	0.0333	102.913	0.664	0.467
+5aRopd46gsNihs5zO9ABBb	Sylvester Stallone	Drinkin' Stein	USRN11501173	13		0.386	0.744	0.0	0.0592	96.143	0.885	0.619
+17wRhaQnnPql78HxaxClTa	Hank Williams, Jr.	Keep the Change	USE9B1200023	1	country,country road,country rock,outlaw country	0.0363	0.622	8.44e-05	0.035	93.619	0.691	0.666
+1jFqNxoIpLHkor2pGQiaDu	Roger Alan Wade	If Your Gonna Be Dumb, You Gotta Be Tough	USOEG0583507	51	chattanooga indie,comic,outlaw country	0.839	0.652	0.0	0.0299	90.026	0.749	0.303
+0aBnwozLw0Q28XZEYPWRZF	Hank Williams III	P.F.F.	USCRB0707783	32	cowpunk,outlaw country	0.176	0.495	1.35e-05	0.0757	122.328	0.345	0.811
+166Dyvfibu4SOygA4vub85	Willie Nelson	Cruel World	USLS51939906	52	classic country pop,country,country rock,nashville sound,outlaw country,singer-songwriter,texas country	0.952	0.366	0.000504	0.051	167.475	0.514	0.31
+1YYhDizHx7PnDhAhko6cDS	John Denver	Take Me Home, Country Roads	USRC11100481	70	adult standards,classic country pop,folk,folk rock,mellow gold,soft rock	0.758	0.462	0.0	0.0264	82.259	0.625	0.395
+1wKTKig9qt8TO7am7zLqjj	Ceremony	Into The Wayside Part I/Sick	US2Y71013401	30	dreamo,indie punk,melodic hardcore	0.00012	0.264	0.493	0.0984	173.087	0.312	0.981
+0PVplC5P6JJXzEKfIoNTRo	Green Day	East Jesus Nowhere	USRE10900671	45	permanent wave,punk	0.000718	0.466	0.000443	0.0574	143.947	0.422	0.899
+0gJ4X2ojTykeaoDEDEE1Xj	Dead Kennedys	Too Drunk to Fuck	USA560456445	47	early us punk,hardcore punk,punk,skate punk	0.000548	0.441	0.000829	0.0503	103.327	0.586	0.966
+0BRHnOFm6sjxN1i9LJrUDu	Good Charlotte	The Anthem	USSM10209827	72	alternative metal,pop punk,rock	0.00666	0.494	0.0	0.126	177.751	0.893	0.939
+6FW73aHNeOW3tqNsBt8j78	Done Again	Hot Rod Lincoln (In the Style of Jim Varney) [Performance Track with Demonstration Vocals]	USK4W0712191	1		0.0366	0.753	0.000128	0.0569	127.837	0.841	0.863
+3RTUfvRgq3pYTf7XY0FIcS	Creedence Clearwater Revival	Lookin' Out My Back Door	USC4R0817630	67	album rock,classic rock,country rock,rock,southern rock,swamp rock	0.188	0.745	0.00337	0.0405	105.318	0.858	0.656

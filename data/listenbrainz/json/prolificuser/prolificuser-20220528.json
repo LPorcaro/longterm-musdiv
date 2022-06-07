@@ -1,0 +1,1052 @@
+[
+    {
+        "listened_at": "2022-05-27T22:27:20",
+        "track_name": "Lightweight",
+        "artist_name": "Demi Lovato",
+        "release_name": "Unbroken",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/74gb7o6hIkT67zWpQKTP46",
+        "listening_from": "spotify",
+        "isrc": "USHR11132989",
+        "additional_info": {
+            "artist_msid": "6141d63c-719d-4866-94a8-720b7ed812af",
+            "artist_names": [
+                "Demi Lovato"
+            ],
+            "discnumber": 1,
+            "duration_ms": 241626,
+            "isrc": "USHR11132989",
+            "listening_from": "spotify",
+            "recording_msid": "69421379-70ea-4a35-8e4f-2372f36b303d",
+            "release_artist_name": "Demi Lovato",
+            "release_artist_names": [
+                "Demi Lovato"
+            ],
+            "release_msid": "3f53311e-7e1d-4ad8-bbe2-4dc0b8be4fb4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2gvjoyajBJe7RPyE8UidmP",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+            ],
+            "spotify_id": "https://open.spotify.com/track/74gb7o6hIkT67zWpQKTP46",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T22:23:17",
+        "track_name": "Don't Mind",
+        "artist_name": "Kent Jones",
+        "release_name": "Don't Mind",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ",
+        "listening_from": "spotify",
+        "isrc": "USSM11603011",
+        "additional_info": {
+            "artist_msid": "69fd2fd0-a329-4d70-9b0b-a6218b3b2048",
+            "artist_names": [
+                "Kent Jones"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198236,
+            "isrc": "USSM11603011",
+            "listening_from": "spotify",
+            "recording_msid": "5fe0559a-48b2-4726-bdf0-fc58cacd7ae5",
+            "release_artist_name": "Kent Jones",
+            "release_artist_names": [
+                "Kent Jones"
+            ],
+            "release_msid": "47b8fb61-4cb1-4f0d-a288-b72d7ffb36f9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+            ],
+            "spotify_id": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T22:19:20",
+        "track_name": "La notte sul tetto",
+        "artist_name": "Matteo Branciamore",
+        "release_name": "La mia compilation (Colonna sonora originale della serie TV)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/62ChRvuv5fDJDw2pdwYTcp",
+        "listening_from": "spotify",
+        "isrc": "ITC040600001",
+        "additional_info": {
+            "artist_msid": "2a59d890-dd18-47e1-b7d9-e9cc22b887db",
+            "artist_names": [
+                "Matteo Branciamore"
+            ],
+            "discnumber": 1,
+            "duration_ms": 203093,
+            "isrc": "ITC040600001",
+            "listening_from": "spotify",
+            "recording_msid": "dc721aa9-f709-459a-a083-0ee9a95ad371",
+            "release_artist_name": "Matteo Branciamore",
+            "release_artist_names": [
+                "Matteo Branciamore"
+            ],
+            "release_msid": "c9d39c2b-c361-47c3-9e53-16a3d7796677",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4aoRUBp0RHtQywQBkiLFTh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KxtOe7dapkv57m7RZtRFQ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4aoRUBp0RHtQywQBkiLFTh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/62ChRvuv5fDJDw2pdwYTcp",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T22:15:58",
+        "track_name": "Tutto quello che ho",
+        "artist_name": "Matteo Branciamore",
+        "release_name": "La mia compilation (Colonna sonora originale della serie TV)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/3y731Au1jK2tTyHHVTowPz",
+        "listening_from": "spotify",
+        "isrc": "ITC040600003",
+        "additional_info": {
+            "artist_msid": "2a59d890-dd18-47e1-b7d9-e9cc22b887db",
+            "artist_names": [
+                "Matteo Branciamore"
+            ],
+            "discnumber": 1,
+            "duration_ms": 174533,
+            "isrc": "ITC040600003",
+            "listening_from": "spotify",
+            "recording_msid": "41b231b7-4007-4ad4-b725-0139948ef3f7",
+            "release_artist_name": "Matteo Branciamore",
+            "release_artist_names": [
+                "Matteo Branciamore"
+            ],
+            "release_msid": "c9d39c2b-c361-47c3-9e53-16a3d7796677",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4aoRUBp0RHtQywQBkiLFTh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KxtOe7dapkv57m7RZtRFQ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4aoRUBp0RHtQywQBkiLFTh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3y731Au1jK2tTyHHVTowPz",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T22:04:12",
+        "track_name": "Treat You Better",
+        "artist_name": "Shawn Mendes",
+        "release_name": "Illuminate",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
+        "listening_from": "spotify",
+        "isrc": "USUM71604711",
+        "additional_info": {
+            "artist_msid": "7bb2fcd0-1edb-4c35-bde2-052f9c8efd2f",
+            "artist_names": [
+                "Shawn Mendes"
+            ],
+            "discnumber": 1,
+            "duration_ms": 187973,
+            "isrc": "USUM71604711",
+            "listening_from": "spotify",
+            "recording_msid": "5dc356d6-c04e-4186-afa6-6d6a443376b1",
+            "release_artist_name": "Shawn Mendes",
+            "release_artist_names": [
+                "Shawn Mendes"
+            ],
+            "release_msid": "cdc1cfdd-e196-4f4e-b800-926777cb2790",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T22:01:03",
+        "track_name": "Read All About It, Pt. III",
+        "artist_name": "Emeli Sand\u00e9",
+        "release_name": "Our Version Of Events (Special Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje",
+        "listening_from": "spotify",
+        "isrc": "GBAAA1200018",
+        "additional_info": {
+            "artist_msid": "172cb644-a2a1-4e5f-a6a8-c6e953028c6c",
+            "artist_names": [
+                "Emeli Sand\u00e9"
+            ],
+            "discnumber": 1,
+            "duration_ms": 283706,
+            "isrc": "GBAAA1200018",
+            "listening_from": "spotify",
+            "recording_msid": "a173ec8f-84a1-4e30-b4cd-bc1cc1c11687",
+            "release_artist_name": "Emeli Sand\u00e9",
+            "release_artist_names": [
+                "Emeli Sand\u00e9"
+            ],
+            "release_msid": "24c1d935-08c4-4834-9219-2acd586c8d54",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+            ],
+            "spotify_id": "https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T21:55:23",
+        "track_name": "Parole nuove",
+        "artist_name": "Matteo Branciamore",
+        "release_name": "La mia compilation (Colonna sonora originale della serie TV)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/3IKxCfjWsliz9ikmjgWBwg",
+        "listening_from": "spotify",
+        "isrc": "ITC040600004",
+        "additional_info": {
+            "artist_msid": "2a59d890-dd18-47e1-b7d9-e9cc22b887db",
+            "artist_names": [
+                "Matteo Branciamore"
+            ],
+            "discnumber": 1,
+            "duration_ms": 196146,
+            "isrc": "ITC040600004",
+            "listening_from": "spotify",
+            "recording_msid": "5e865591-1bee-41a8-8b3f-d3f76b631dc0",
+            "release_artist_name": "Matteo Branciamore",
+            "release_artist_names": [
+                "Matteo Branciamore"
+            ],
+            "release_msid": "c9d39c2b-c361-47c3-9e53-16a3d7796677",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4aoRUBp0RHtQywQBkiLFTh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4KxtOe7dapkv57m7RZtRFQ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4aoRUBp0RHtQywQBkiLFTh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3IKxCfjWsliz9ikmjgWBwg",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T19:15:40",
+        "track_name": "Un Senso",
+        "artist_name": "Vasco Rossi",
+        "release_name": "Buoni O Cattivi (Remastered 2017)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 12,
+        "spotify_id": "https://open.spotify.com/track/7knLxpsAZfqSbdF8Xt8HpN",
+        "listening_from": "spotify",
+        "isrc": "ITUM71700291",
+        "additional_info": {
+            "artist_msid": "99c1ebba-b8fd-472f-96a7-0a4bd7cee4da",
+            "artist_names": [
+                "Vasco Rossi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 245920,
+            "isrc": "ITUM71700291",
+            "listening_from": "spotify",
+            "recording_msid": "24b3eda6-5a7d-4f49-8f6d-27a36d3b3eb8",
+            "release_artist_name": "Vasco Rossi",
+            "release_artist_names": [
+                "Vasco Rossi"
+            ],
+            "release_msid": "73940a4d-168d-47b8-8e5f-fd5f74919f92",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7knLxpsAZfqSbdF8Xt8HpN",
+            "tracknumber": 12
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T19:11:34",
+        "track_name": "Walls Could Talk",
+        "artist_name": "Halsey",
+        "release_name": "hopeless fountain kingdom (Deluxe)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/5ln5yQdUywVbf8HhFsOcd6",
+        "listening_from": "spotify",
+        "isrc": "USUM71702219",
+        "additional_info": {
+            "artist_msid": "99ca577a-a4b7-4219-bbb5-0144e93cf542",
+            "artist_names": [
+                "Halsey"
+            ],
+            "discnumber": 1,
+            "duration_ms": 101789,
+            "isrc": "USUM71702219",
+            "listening_from": "spotify",
+            "recording_msid": "70dd6080-7ce4-472d-942a-9ea34e3f4ee9",
+            "release_artist_name": "Halsey",
+            "release_artist_names": [
+                "Halsey"
+            ],
+            "release_msid": "2d5634cb-3961-4059-b1be-e9cc80e0f3b0",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5ln5yQdUywVbf8HhFsOcd6",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T19:09:51",
+        "track_name": "Still Waiting",
+        "artist_name": "Sum 41",
+        "release_name": "Does This Look Infected?",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD",
+        "listening_from": "spotify",
+        "isrc": "USIR20200792",
+        "additional_info": {
+            "artist_msid": "0d5aad58-2e55-4e84-870b-99edbf958fe6",
+            "artist_names": [
+                "Sum 41"
+            ],
+            "discnumber": 1,
+            "duration_ms": 158733,
+            "isrc": "USIR20200792",
+            "listening_from": "spotify",
+            "recording_msid": "0bf8e463-829c-476d-89f6-3b053b81bf39",
+            "release_artist_name": "Sum 41",
+            "release_artist_names": [
+                "Sum 41"
+            ],
+            "release_msid": "ad3cb680-9335-49bd-9353-a2e9fcf57c59",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T19:06:53",
+        "track_name": "How You Remind Me",
+        "artist_name": "Nickelback",
+        "release_name": "Silver Side Up",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf",
+        "listening_from": "spotify",
+        "isrc": "NLA320119533",
+        "additional_info": {
+            "artist_msid": "765fba92-fae2-498b-b04a-327690869e15",
+            "artist_names": [
+                "Nickelback"
+            ],
+            "discnumber": 1,
+            "duration_ms": 223840,
+            "isrc": "NLA320119533",
+            "listening_from": "spotify",
+            "recording_msid": "edf51558-8614-499b-87cb-f33ad774a988",
+            "release_artist_name": "Nickelback",
+            "release_artist_names": [
+                "Nickelback"
+            ],
+            "release_msid": "59da42c6-d8e8-47a4-9213-7664f89e1c93",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T19:03:09",
+        "track_name": "Sigarette",
+        "artist_name": "Neffa",
+        "release_name": "Sigarette",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4xycjuCA3EyVszWP3GfJwD",
+        "listening_from": "spotify",
+        "isrc": "IT1I91500001",
+        "additional_info": {
+            "artist_msid": "0f06f3e7-51ed-4355-a761-a72a7b91785f",
+            "artist_names": [
+                "Neffa"
+            ],
+            "discnumber": 1,
+            "duration_ms": 183572,
+            "isrc": "IT1I91500001",
+            "listening_from": "spotify",
+            "recording_msid": "510c2ff4-0b46-4854-b82b-dc3273a1249e",
+            "release_artist_name": "Neffa",
+            "release_artist_names": [
+                "Neffa"
+            ],
+            "release_msid": "e62be5dd-ab02-4510-b7dc-43bc3d55f287",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4sfEXLbe1WB7O4O4Qh68pq",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4xycjuCA3EyVszWP3GfJwD",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:58:51",
+        "track_name": "Memories",
+        "artist_name": "Maroon 5",
+        "release_name": "JORDI (Deluxe)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI",
+        "listening_from": "spotify",
+        "isrc": "USUM71913350",
+        "additional_info": {
+            "artist_msid": "9d5adabb-9775-4535-93eb-12b485aed8bf",
+            "artist_names": [
+                "Maroon 5"
+            ],
+            "discnumber": 1,
+            "duration_ms": 189486,
+            "isrc": "USUM71913350",
+            "listening_from": "spotify",
+            "recording_msid": "bc4f0f3d-ef78-4adb-855d-da7b3031a2f9",
+            "release_artist_name": "Maroon 5",
+            "release_artist_names": [
+                "Maroon 5"
+            ],
+            "release_msid": "a39d289c-b760-4d57-9007-1e715b56360a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:54:12",
+        "track_name": "If I Die Young (Glee Cast Version)",
+        "artist_name": "Glee Cast",
+        "release_name": "The Quarterback",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC",
+        "listening_from": "spotify",
+        "isrc": "USQX91302068",
+        "additional_info": {
+            "artist_msid": "3be17e74-5cf4-48f5-b3a8-c50296c60385",
+            "artist_names": [
+                "Glee Cast"
+            ],
+            "discnumber": 1,
+            "duration_ms": 221773,
+            "isrc": "USQX91302068",
+            "listening_from": "spotify",
+            "recording_msid": "b30f6926-6265-4c19-9e27-b7cbd9fe208e",
+            "release_artist_name": "Glee Cast",
+            "release_artist_names": [
+                "Glee Cast"
+            ],
+            "release_msid": "eefb9101-867d-4502-894a-a947d136e2a2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:49:59",
+        "track_name": "Martelli",
+        "artist_name": "Gazzelle",
+        "release_name": "Martelli",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4yBh57eYz4S6leDJBLC3zL",
+        "listening_from": "spotify",
+        "isrc": "IT8U11701713",
+        "additional_info": {
+            "artist_msid": "82da290e-769e-40f3-9c6b-3bf79aa19c4b",
+            "artist_names": [
+                "Gazzelle"
+            ],
+            "discnumber": 1,
+            "duration_ms": 180108,
+            "isrc": "IT8U11701713",
+            "listening_from": "spotify",
+            "recording_msid": "87d55f28-0bc9-47ca-876d-22a20f35a4b7",
+            "release_artist_name": "Gazzelle",
+            "release_artist_names": [
+                "Gazzelle"
+            ],
+            "release_msid": "7e27122b-2a33-47d5-902e-9471f26c2e2e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6Dv0d398t8jIppPfrde0q2",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4yBh57eYz4S6leDJBLC3zL",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:46:58",
+        "track_name": "Tardes Negras",
+        "artist_name": "Tiziano Ferro",
+        "release_name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ",
+        "listening_from": "spotify",
+        "isrc": "ITB920300049",
+        "additional_info": {
+            "artist_msid": "65ee4d91-e48c-453f-91da-5c8dfbce9ffe",
+            "artist_names": [
+                "Tiziano Ferro"
+            ],
+            "discnumber": 1,
+            "duration_ms": 262693,
+            "isrc": "ITB920300049",
+            "listening_from": "spotify",
+            "recording_msid": "c59b7f74-10c6-45ce-9243-a23ca5fd4c01",
+            "release_artist_name": "Tiziano Ferro",
+            "release_artist_names": [
+                "Tiziano Ferro"
+            ],
+            "release_msid": "b48e5fb7-75f8-4980-bc60-5130377ab5b4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:42:35",
+        "track_name": "Guilty",
+        "artist_name": "Blue",
+        "release_name": "Guilty",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/1hosOKMreUyXeptkiqLMMT",
+        "listening_from": "spotify",
+        "isrc": "GBAAA0300704",
+        "additional_info": {
+            "artist_msid": "e5bb1516-1a31-4e33-8950-227983b8eb0b",
+            "artist_names": [
+                "Blue"
+            ],
+            "discnumber": 1,
+            "duration_ms": 225973,
+            "isrc": "GBAAA0300704",
+            "listening_from": "spotify",
+            "recording_msid": "5696e7f0-193b-417a-84e9-237f51aeca94",
+            "release_artist_name": "Blue",
+            "release_artist_names": [
+                "Blue"
+            ],
+            "release_msid": "bddef8d3-f7ef-4c56-af5c-15ffbf6b42c0",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2cB7BB0FN9qff1dAHCpNEy",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1hosOKMreUyXeptkiqLMMT",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:38:08",
+        "track_name": "All Rise",
+        "artist_name": "Blue",
+        "release_name": "All Rise",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb",
+        "listening_from": "spotify",
+        "isrc": "GBAAA0100115",
+        "additional_info": {
+            "artist_msid": "e5bb1516-1a31-4e33-8950-227983b8eb0b",
+            "artist_names": [
+                "Blue"
+            ],
+            "discnumber": 1,
+            "duration_ms": 223546,
+            "isrc": "GBAAA0100115",
+            "listening_from": "spotify",
+            "recording_msid": "be6f2fcb-a7eb-4557-acfa-02a643255e38",
+            "release_artist_name": "Blue",
+            "release_artist_names": [
+                "Blue"
+            ],
+            "release_msid": "44c3763c-ddb6-450f-b505-f61dbfa1d5b2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:33:27",
+        "track_name": "Good Times",
+        "artist_name": "Ghali",
+        "release_name": "DNA",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/3vgclHni3T3qu7ZXz8idsk",
+        "listening_from": "spotify",
+        "isrc": "IT4U12000004",
+        "additional_info": {
+            "artist_msid": "e3278f1d-a871-493d-989b-27427afab2c9",
+            "artist_names": [
+                "Ghali"
+            ],
+            "discnumber": 2,
+            "duration_ms": 163073,
+            "isrc": "IT4U12000004",
+            "listening_from": "spotify",
+            "recording_msid": "04189b05-a804-4c52-bd6b-3e1bcee101e5",
+            "release_artist_name": "Ghali",
+            "release_artist_names": [
+                "Ghali"
+            ],
+            "release_msid": "6baeb3be-9f6f-495a-a3e7-eaf8565deddd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3vgclHni3T3qu7ZXz8idsk",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:30:26",
+        "track_name": "How Deep Is Your Love",
+        "artist_name": "Bee Gees",
+        "release_name": "Greatest",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP",
+        "listening_from": "spotify",
+        "isrc": "GBAKW7701005",
+        "additional_info": {
+            "artist_msid": "a18358c5-1e26-4468-ba7f-28390bd0b510",
+            "artist_names": [
+                "Bee Gees"
+            ],
+            "discnumber": 1,
+            "duration_ms": 245200,
+            "isrc": "GBAKW7701005",
+            "listening_from": "spotify",
+            "recording_msid": "db78731f-63cc-4f67-b7aa-56afc6a9ee97",
+            "release_artist_name": "Bee Gees",
+            "release_artist_names": [
+                "Bee Gees"
+            ],
+            "release_msid": "1d3e7f05-6454-4b7b-bd49-e271657c0383",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:25:32",
+        "track_name": "Spirits",
+        "artist_name": "The Strumbellas",
+        "release_name": "Hope",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6yDXmurL5FA9Rjn94cRp2g",
+        "listening_from": "spotify",
+        "isrc": "CA6MD1500001",
+        "additional_info": {
+            "artist_msid": "185b5d5b-e238-4737-b390-aa5b3e222f59",
+            "artist_names": [
+                "The Strumbellas"
+            ],
+            "discnumber": 1,
+            "duration_ms": 203653,
+            "isrc": "CA6MD1500001",
+            "listening_from": "spotify",
+            "recording_msid": "32bb838f-d1f3-4b37-b76c-a0a0b0d1a5b6",
+            "release_artist_name": "The Strumbellas",
+            "release_artist_names": [
+                "The Strumbellas"
+            ],
+            "release_msid": "1e0ee87d-09cf-4dea-87c0-f6a7294677fd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3dK4m8ozvewgKyyYVQHWLY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6yDXmurL5FA9Rjn94cRp2g",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:19:57",
+        "track_name": "Just the Way You Are",
+        "artist_name": "Bruno Mars",
+        "release_name": "Doo-Wops & Hooligans",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt",
+        "listening_from": "spotify",
+        "isrc": "USAT21001269",
+        "additional_info": {
+            "artist_msid": "abf274d4-a1f8-4477-b5c6-8c1121a13cf6",
+            "artist_names": [
+                "Bruno Mars"
+            ],
+            "discnumber": 1,
+            "duration_ms": 220734,
+            "isrc": "USAT21001269",
+            "listening_from": "spotify",
+            "recording_msid": "0baeb478-65cd-4cc6-8d74-55f8874ee2fd",
+            "release_artist_name": "Bruno Mars",
+            "release_artist_names": [
+                "Bruno Mars"
+            ],
+            "release_msid": "f3376a1c-85c9-4894-823c-9082d494db66",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            ],
+            "spotify_id": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:15:12",
+        "track_name": "Bubblin'",
+        "artist_name": "Blue",
+        "release_name": "Guilty",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/4sleHoE4royhmWQcNYe48T",
+        "listening_from": "spotify",
+        "isrc": "GBAAA0300707",
+        "additional_info": {
+            "artist_msid": "e5bb1516-1a31-4e33-8950-227983b8eb0b",
+            "artist_names": [
+                "Blue"
+            ],
+            "discnumber": 1,
+            "duration_ms": 185760,
+            "isrc": "GBAAA0300707",
+            "listening_from": "spotify",
+            "recording_msid": "7804db86-c5e7-4881-94e9-c3249db14a22",
+            "release_artist_name": "Blue",
+            "release_artist_names": [
+                "Blue"
+            ],
+            "release_msid": "bddef8d3-f7ef-4c56-af5c-15ffbf6b42c0",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2cB7BB0FN9qff1dAHCpNEy",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4sleHoE4royhmWQcNYe48T",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-27T18:11:30",
+        "track_name": "Shut Up and Dance",
+        "artist_name": "WALK THE MOON",
+        "release_name": "TALKING IS HARD",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA",
+        "listening_from": "spotify",
+        "isrc": "USRC11401949",
+        "additional_info": {
+            "artist_msid": "b7b9ce30-b3b9-4d91-a385-8450d0a83832",
+            "artist_names": [
+                "WALK THE MOON"
+            ],
+            "discnumber": 1,
+            "duration_ms": 199080,
+            "isrc": "USRC11401949",
+            "listening_from": "spotify",
+            "recording_msid": "1951af74-fd8a-4536-b180-ce5784a6588e",
+            "release_artist_name": "WALK THE MOON",
+            "release_artist_names": [
+                "WALK THE MOON"
+            ],
+            "release_msid": "4db7a01b-9c42-4200-a79c-f193ae210310",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-05-24T19:37:46",
+        "track_name": "Esseri umani",
+        "artist_name": "Marco Mengoni",
+        "release_name": "Parole in circolo",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/1tefUBqLAW9l6HC10qOtCA",
+        "listening_from": "spotify",
+        "isrc": "ITB001400578",
+        "additional_info": {
+            "artist_msid": "8846a173-8be2-4242-8134-d791283bdeb1",
+            "artist_names": [
+                "Marco Mengoni"
+            ],
+            "discnumber": 1,
+            "duration_ms": 212413,
+            "isrc": "ITB001400578",
+            "listening_from": "spotify",
+            "recording_msid": "0019e5f1-ac7e-4853-b178-77ae5f94386f",
+            "release_artist_name": "Marco Mengoni",
+            "release_artist_names": [
+                "Marco Mengoni"
+            ],
+            "release_msid": "fbf15ae4-8a00-4976-b991-d4681510ac4b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0XZk3coJHXIQnpj1J7R3FD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1tefUBqLAW9l6HC10qOtCA",
+            "tracknumber": 2
+        },
+        "username": null
+    }
+]

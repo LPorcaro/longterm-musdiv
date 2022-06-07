@@ -1,0 +1,45 @@
+Electronic artists found: VINAI,Stefy De Cicco,Jessica Chertock, Felix Jaehn,Zoe Wees, Jonas Blue,Julian Perretta
+Electronic genres found: melbourne bounce international, slap house, electro house, tropical house, edm
+Electronic music logs found: 6.82% 
+
+Top genres
+	1: pop (7.63%)
+	2: celtic (5.93%)
+	3: irish folk (5.08%)
+	4: dance pop (5.08%)
+	5: latin alternative (5.08%)
+Top artists
+	1: John McCusker (2.04%)
+	2: Mike Vass (2.04%)
+	3: Anne-Marie (2.04%)
+	4: Felix Jaehn (2.04%)
+	5: Ross Ainslie (2.04%)
+Top country
+	1: GB (27.27%)
+	2: US (20.45%)
+	3: FR (15.91%)
+	4: IT (15.91%)
+	5: us (4.55%)
+Top record
+	1: Z18 (13.64%)
+	2: UM7 (11.36%)
+	3: QX9 (11.36%)
+	4: M9P (4.55%)
+	5: DFK (4.55%)
+Top year
+	1: 22 (45.45%)
+	2: 98 (13.64%)
+	3: 18 (9.09%)
+	4: 10 (4.55%)
+	5: 21 (4.55%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   44.000000     44.000000     44.000000         44.000000    44.000000   44.000000  44.000000  44.000000
+mean    31.863636      0.428889      0.609614          0.121366     0.084225  124.762795   0.564927   0.613136
+std     16.182952      0.372102      0.167859          0.276394     0.083227   24.889351   0.278711   0.207504
+min      0.000000      0.003720      0.235000          0.000000     0.027800   61.202000   0.067000   0.150000
+25%     21.500000      0.065125      0.493250          0.000000     0.033900  109.548250   0.375000   0.488250
+50%     30.500000      0.351500      0.668500          0.000077     0.059450  123.078500   0.492000   0.634500
+75%     37.250000      0.800250      0.746000          0.033225     0.071600  139.975250   0.816250   0.804250
+max     65.000000      0.962000      0.827000          0.960000     0.415000  180.801000   0.964000   0.877000

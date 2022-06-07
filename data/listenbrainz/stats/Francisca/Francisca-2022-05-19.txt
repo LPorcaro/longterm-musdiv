@@ -1,5 +1,5 @@
 Electronic artists found: Bicep, David Guetta
-Electronic genres found: electronica, ambient house, edm
+Electronic genres found: ambient house, edm, electronica
 Electronic music logs found: 3.23% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop rap (6.31%)
 	5: dance pop (5.83%)
 Top artists
-	1: D.O.E. (1.22%)
-	2: Sara D. Francisco (1.22%)
-	3: Brent Faiyaz (1.22%)
-	4: LON3R JOHNY (1.22%)
-	5: Britney Spears (1.22%)
+	1: DJ Redbi (1.22%)
+	2: Tyga (1.22%)
+	3: Usher (1.22%)
+	4: Anna Wise (1.22%)
+	5: Papillon (1.22%)
 Top country
 	1: US (61.29%)
 	2: PT (16.13%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   62.000000     62.000000     62.000000         62.000000    62.000000   62.000000  62.000000  62.000000
-mean    61.532258      0.225166      0.677677          0.033689     0.147845  121.828742   0.476950   0.641887
-std     15.432261      0.216486      0.144378          0.156069     0.130183   23.946432   0.240556   0.165400
+mean    61.564516      0.225166      0.677677          0.033689     0.147845  121.828742   0.476950   0.641887
+std     15.450207      0.216486      0.144378          0.156069     0.130183   23.946432   0.240556   0.165400
 min     24.000000      0.001130      0.276000          0.000000     0.027400   74.132000   0.038300   0.229000
 25%     52.000000      0.057125      0.583500          0.000000     0.051950  103.802000   0.337250   0.538750
 50%     67.000000      0.148000      0.712000          0.000000     0.092900  122.988500   0.457500   0.632500

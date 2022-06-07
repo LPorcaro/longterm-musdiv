@@ -1,19 +1,19 @@
-Electronic artists found: Alok,Bhaskar,Tom Enzy, Regard,RAYE, MEDUZA,Becky Hill,Goodboys, Vintage Culture,KVSH,Bruno Be,The Beach, Alok,Mojjo,Gilsons, Lost Frequencies,Calum Scott, Swedish House Mafia,The Weeknd, Sofi Tukker,Vintage Culture,John Summit, Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Alesso,CORSAK, Krmoni,Milo Cadman, Groove Delight, Los XL,Mannie D Cruz, Sonny Fodera,Vintage Culture,MKLA, Joel Corry,RAYE,David Guetta, Bhaskar,Lucas Estrada,EEVA, Joel Corry,David Guetta,Bryson Tiller
-Electronic genres found: edm, tropical house, electro house, brazilian bass, slap house, moombahton, progressive electro house, brazilian edm, pop edm, belgian edm
+Electronic artists found: Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine, Groove Delight, Alesso,CORSAK, Alok,Mojjo,Gilsons, Vintage Culture,KVSH,Bruno Be,The Beach, Alok,Bhaskar,Tom Enzy, Joel Corry,RAYE,David Guetta, Joel Corry,David Guetta,Bryson Tiller, Los XL,Mannie D Cruz, MEDUZA,Becky Hill,Goodboys, Krmoni,Milo Cadman, Sonny Fodera,Vintage Culture,MKLA, Regard,RAYE, Bhaskar,Lucas Estrada,EEVA, Lost Frequencies,Calum Scott, Sofi Tukker,Vintage Culture,John Summit, Swedish House Mafia,The Weeknd
+Electronic genres found: progressive electro house, pop edm, brazilian edm, slap house, moombahton, electro house, belgian edm, brazilian bass, tropical house, edm
 Electronic music logs found: 12.59% 
 
 Top genres
-	1: trap latino (18.00%)
-	2: reggaeton (16.79%)
-	3: latin (16.55%)
-	4: latin hip hop (8.76%)
-	5: reggaeton flow (4.87%)
+	1: trap latino (18.05%)
+	2: reggaeton (16.83%)
+	3: latin (16.59%)
+	4: latin hip hop (8.78%)
+	5: reggaeton flow (4.88%)
 Top artists
-	1: Justin Quiles (0.58%)
-	2: Yo Soy Jay (0.58%)
-	3: Tiago PZK (0.58%)
-	4: L-Gante (0.58%)
-	5: Mora (0.58%)
+	1: Ozuna (0.58%)
+	2: M-Squared (0.58%)
+	3: Mr. Catra (0.58%)
+	4: Nohemy (0.58%)
+	5: B.E.B.O (0.58%)
 Top country
 	1: US (32.59%)
 	2: QM (25.19%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  135.000000    135.000000    135.000000        135.000000   135.000000  135.000000  135.000000  135.000000
-mean    55.525926      0.170241      0.754074          0.013193     0.111393  130.140556    0.587892    0.721948
-std     24.312281      0.164486      0.081734          0.078855     0.076558   37.826840    0.192129    0.105241
+mean    55.548148      0.170241      0.754074          0.013193     0.111393  130.140556    0.587892    0.721948
+std     24.360391      0.164486      0.081734          0.078855     0.076558   37.826840    0.192129    0.105241
 min      5.000000      0.000324      0.537000          0.000000     0.029500   74.979000    0.091400    0.414000
 25%     45.000000      0.058300      0.702500          0.000000     0.055750   93.895000    0.495500    0.659500
 50%     59.000000      0.114000      0.771000          0.000007     0.086100  123.935000    0.607000    0.735000

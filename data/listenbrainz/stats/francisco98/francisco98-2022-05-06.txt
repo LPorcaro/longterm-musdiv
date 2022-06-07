@@ -1,0 +1,43 @@
+Electronic artists found: Lost Frequencies,Calum Scott
+Electronic genres found: belgian edm, tropical house, edm
+Electronic music logs found: 12.50% 
+
+Top genres
+	1: canadian pop (14.81%)
+	2: pop (14.81%)
+	3: canadian hip hop (7.41%)
+	4: hip hop (7.41%)
+	5: rap (7.41%)
+Top artists
+	1: Calum Scott (7.69%)
+	2: Tainy (7.69%)
+	3: Ara Ketu (7.69%)
+	4: The Weeknd (7.69%)
+	5: Bruno Mars (7.69%)
+Top country
+	1: US (62.50%)
+	2: BE (12.50%)
+	3: BR (12.50%)
+	4: FR (12.50%)
+Top record
+	1: UG1 (25.00%)
+	2: HP4 (12.50%)
+	3: SME (12.50%)
+	4: 10S (12.50%)
+	5: CM5 (12.50%)
+Top year
+	1: 21 (62.50%)
+	2: 98 (12.50%)
+	3: 19 (12.50%)
+	4: 18 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    8.000000      8.000000      8.000000          8.000000     8.000000    8.000000  8.000000  8.000000
+mean    70.375000      0.126475      0.674625          0.000070     0.126887  133.856250  0.496537  0.697750
+std     16.970037      0.171734      0.148072          0.000145     0.105906   23.143349  0.312959  0.142209
+min     41.000000      0.010600      0.414000          0.000000     0.032400   96.304000  0.085300  0.424000
+25%     60.500000      0.021650      0.577250          0.000000     0.048350  120.988500  0.234750  0.631000
+50%     75.000000      0.046600      0.709000          0.000000     0.095850  133.044000  0.508500  0.708000
+75%     83.000000      0.176000      0.782750          0.000048     0.151250  146.437250  0.733000  0.811250
+max     90.000000      0.515000      0.849000          0.000411     0.324000  172.521000  0.961000  0.861000

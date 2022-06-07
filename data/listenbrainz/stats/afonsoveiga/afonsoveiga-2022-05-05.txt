@@ -1,0 +1,45 @@
+Electronic artists found: Mac DeMarco, STRFKR, The Avalanches,MGMT,Johnny Marr, The xx, The Avalanches
+Electronic genres found: edmonton indie, electronica, chillwave, downtempo
+Electronic music logs found: 2.50% 
+
+Top genres
+	1: rap (7.61%)
+	2: pop (7.61%)
+	3: hip hop (7.45%)
+	4: modern rock (4.04%)
+	5: rock (3.57%)
+Top artists
+	1: Larry Lovestein & The Velvet Revival (0.74%)
+	2: JID (0.74%)
+	3: Daft Punk (0.74%)
+	4: SALES (0.74%)
+	5: Anna Wise (0.74%)
+Top country
+	1: US (41.67%)
+	2: QM (11.25%)
+	3: GB (9.58%)
+	4: PT (8.75%)
+	5: TC (8.33%)
+Top record
+	1: UM7 (10.42%)
+	2: QX9 (7.08%)
+	3: WB1 (7.08%)
+	4: RC1 (5.83%)
+	5: OPM (5.42%)
+Top year
+	1: 19 (21.25%)
+	2: 20 (15.00%)
+	3: 18 (14.17%)
+	4: 16 (10.42%)
+	5: 17 (7.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  240.000000    240.000000    240.000000        240.000000   240.000000  240.000000  240.000000  240.000000
+mean    56.612500      0.501904      0.619879          0.061228     0.106193  115.213492    0.433123    0.481555
+std     15.487741      0.320213      0.142111          0.175477     0.114866   31.820740    0.213416    0.201761
+min      4.000000      0.000566      0.216000          0.000000     0.025600   63.251000    0.035800    0.009440
+25%     46.750000      0.191750      0.529500          0.000000     0.035675   85.713750    0.284750    0.327500
+50%     59.000000      0.573000      0.607500          0.000182     0.050400  112.069000    0.420500    0.488000
+75%     69.000000      0.792000      0.719750          0.011825     0.143000  138.168500    0.562000    0.634250
+max     87.000000      0.995000      0.961000          0.947000     0.834000  209.870000    0.963000    0.922000

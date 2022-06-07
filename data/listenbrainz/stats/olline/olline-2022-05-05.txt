@@ -1,0 +1,45 @@
+Electronic artists found: Bob Sinclar,Molly Hammar, Sleeping At Last, Martin Solveig,ALMA, Max Richter,Daniel Hope,Konzerthaus Kammerorchester Berlin,Andre de Ridder, Route 94,Jess Glynne
+Electronic genres found: electro house, disco house, ambient worship, compositional ambient, tropical house, edm
+Electronic music logs found: 42.86% 
+
+Top genres
+	1: pop (8.47%)
+	2: hip hop (6.78%)
+	3: rap (6.78%)
+	4: dance pop (6.78%)
+	5: pop dance (5.08%)
+Top artists
+	1: Halsey (4.35%)
+	2: Konzerthaus Kammerorchester Berlin (4.35%)
+	3: benny blanco (4.35%)
+	4: Jess Glynne (4.35%)
+	5: Max Richter (4.35%)
+Top country
+	1: US (57.14%)
+	2: DE (14.29%)
+	3: FR (7.14%)
+	4: CA (7.14%)
+	5: GB (7.14%)
+Top record
+	1: UM7 (28.57%)
+	2: JZ1 (14.29%)
+	3: GES (7.14%)
+	4: WB1 (7.14%)
+	5: 4E4 (7.14%)
+Top year
+	1: 18 (21.43%)
+	2: 09 (14.29%)
+	3: 12 (14.29%)
+	4: 17 (14.29%)
+	5: 14 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   14.000000     14.000000     14.000000         14.000000    14.000000   14.000000  14.000000  14.000000
+mean    65.500000      0.352766      0.699500          0.182952     0.084843  115.787714   0.420500   0.587500
+std     10.747093      0.262728      0.107057          0.359679     0.078986   18.256519   0.262464   0.162967
+min     35.000000      0.000132      0.560000          0.000000     0.025300   77.981000   0.103000   0.341000
+25%     63.250000      0.176000      0.612250          0.000000     0.041800  105.513000   0.163000   0.491000
+50%     65.000000      0.357000      0.684500          0.000067     0.059250  118.986000   0.417500   0.651000
+75%     73.500000      0.499000      0.769250          0.025893     0.091800  126.250500   0.611500   0.702000
+max     77.000000      0.868000      0.934000          0.903000     0.321000  140.329000   0.806000   0.808000

@@ -1,0 +1,42 @@
+Electronic artists found: Becky Hill,Galantis, Afrojack,Lucas & Steve,DubVision, The Chainsmokers, Joel Corry,David Guetta,Bryson Tiller, Jonas Blue,LÉON, Galantis,David Guetta,Little Mix, La Roux,GAMPER & DADONI, Cheat Codes,Icona Pop, Becky Hill,David Guetta
+Electronic genres found: progressive house, electro house, electronica, tropical house, edm, dutch house
+Electronic music logs found: 66.67% 
+
+Top genres
+	1: dance pop (15.66%)
+	2: pop (13.25%)
+	3: edm (10.84%)
+	4: pop dance (10.84%)
+	5: tropical house (10.84%)
+Top artists
+	1: Joel Corry (4.17%)
+	2: Bryson Tiller (4.17%)
+	3: Jonas Blue (4.17%)
+	4: Galantis (4.17%)
+	5: The Chainsmokers (4.17%)
+Top country
+	1: US (46.67%)
+	2: GB (40.00%)
+	3: CY (6.67%)
+	4: QZ (6.67%)
+Top record
+	1: UM7 (26.67%)
+	2: AT2 (13.33%)
+	3: 3DF (6.67%)
+	4: RC1 (6.67%)
+	5: AHS (6.67%)
+Top year
+	1: 21 (66.67%)
+	2: 22 (20.00%)
+	3: 20 (13.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   15.000000     15.000000     15.000000         15.000000    15.000000   15.000000  15.000000  15.000000
+mean    76.000000      0.109225      0.678800          0.004030     0.069620  121.327267   0.579933   0.800133
+std      8.272156      0.102348      0.083328          0.013962     0.050444   11.484878   0.181016   0.068170
+min     57.000000      0.003410      0.595000          0.000000     0.030200   87.981000   0.194000   0.609000
+25%     71.000000      0.026100      0.601000          0.000000     0.036150  122.913000   0.502000   0.779500
+50%     77.000000      0.069600      0.672000          0.000000     0.047400  124.111000   0.546000   0.800000
+75%     80.000000      0.182500      0.719500          0.000011     0.095300  125.951500   0.661500   0.841000
+max     89.000000      0.304000      0.854000          0.054200     0.220000  134.981000   0.915000   0.895000

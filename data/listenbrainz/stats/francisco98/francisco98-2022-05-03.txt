@@ -1,0 +1,29 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: canadian hip hop (20.00%)
+	2: canadian pop (20.00%)
+	3: hip hop (20.00%)
+	4: rap (20.00%)
+	5: toronto rap (20.00%)
+Top artists
+	1: Drake (100.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: CM5 (100.00%)
+Top year
+	1: 18 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0        1.0000         1.000               1.0        1.000    1.000   1.0000   1.000
+mean         63.0        0.0248         0.414               0.0        0.254  172.521   0.0853   0.677
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          63.0        0.0248         0.414               0.0        0.254  172.521   0.0853   0.677
+25%          63.0        0.0248         0.414               0.0        0.254  172.521   0.0853   0.677
+50%          63.0        0.0248         0.414               0.0        0.254  172.521   0.0853   0.677
+75%          63.0        0.0248         0.414               0.0        0.254  172.521   0.0853   0.677
+max          63.0        0.0248         0.414               0.0        0.254  172.521   0.0853   0.677

@@ -1,19 +1,19 @@
-Electronic artists found: Tiësto,Dzeko,Preme,Post Malone, REZarin, Rolipso,LissA, Feint,Laura Brehm, RetroVision,AWR, Galantis,Uffie,MOTi, STVCKS,Dim Wilder,Alex Hackett, Robin Hustin, Clarx, Rich Edwards,Cozi Zuehlsdorff, Funkin Matt, Funkin Matt,Bobby Rock, WATEVA, Jonas Blue,Liam Payne,Lennon Stella,HUGEL, Lucas & Steve,Brandy, Sagan, Dropgun,Bryan Finlay, Philipp Semingo, Clean Bandit,Demi Lovato, R3HAB,Mike Williams,Steff da Campo, CLMD, Brooks, Domastic,Chris Linton, NGTY,ALEV, Sj,Zookëper,Emmalyn, WATEVA,Emily J, Rootkit,Joe Erickson, Stonebank, Noisestorm, Loud Luxury,anders, Shane 54,Cubicore,Eric Lumiere,Sagan, LVTHER,Myzica, GSPR, Defqwop,STRIX, Star Party,Zookeepers, Tiësto,Dzeko,Preme,Post Malone,Keanu Silva
-Electronic genres found: pop edm, brostep, uk funky, estonian electronic, russian edm, future bass, slap house, electro house, tropical house, progressive electro house, latvian electronic, dutch house, belgian edm, melodic dubstep, progressive house, complextro, gaming edm, ukrainian edm, dutch edm, edm, future house, chillstep
+Electronic artists found: Loud Luxury,anders, LVTHER,Myzica, Sj,Zookëper,Emmalyn, R3HAB,Mike Williams,Steff da Campo, NGTY,ALEV, Tiësto,Dzeko,Preme,Post Malone, Jonas Blue,Liam Payne,Lennon Stella,HUGEL, Dropgun,Bryan Finlay, Robin Hustin, Tiësto,Dzeko,Preme,Post Malone,Keanu Silva, Philipp Semingo, Funkin Matt, CLMD, Defqwop,STRIX, Rich Edwards,Cozi Zuehlsdorff, Clean Bandit,Demi Lovato, Shane 54,Cubicore,Eric Lumiere,Sagan, Stonebank, Clarx, Domastic,Chris Linton, Rolipso,LissA, Galantis,Uffie,MOTi, STVCKS,Dim Wilder,Alex Hackett, Rootkit,Joe Erickson, Noisestorm, Sagan, RetroVision,AWR, WATEVA, Lucas & Steve,Brandy, REZarin, Brooks, GSPR, Feint,Laura Brehm, Star Party,Zookeepers, WATEVA,Emily J, Funkin Matt,Bobby Rock
+Electronic genres found: slap house, estonian electronic, complextro, belgian edm, progressive electro house, russian edm, dutch edm, melodic dubstep, tropical house, edm, dutch house, chillstep, future house, future bass, progressive house, brostep, ukrainian edm, pop edm, uk funky, electro house, gaming edm, latvian electronic
 Electronic music logs found: 33.64% 
 
 Top genres
-	1: edm (10.19%)
-	2: electro house (8.92%)
-	3: pop dance (8.28%)
-	4: gaming edm (7.64%)
-	5: tropical house (6.37%)
+	1: edm (10.26%)
+	2: electro house (8.97%)
+	3: pop dance (8.33%)
+	4: gaming edm (7.69%)
+	5: tropical house (6.41%)
 Top artists
-	1: Post Malone (0.96%)
-	2: Rhea Raj (0.96%)
-	3: Mordkey (0.96%)
-	4: Jonas Blue (0.96%)
-	5: LAN.na (0.96%)
+	1: Alex Hackett (0.96%)
+	2: anders (0.96%)
+	3: Galantis (0.96%)
+	4: Philipp Semingo (0.96%)
+	5: Joe Erickson (0.96%)
 Top country
 	1: QZ (38.18%)
 	2: GB (17.27%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  110.000000    110.000000    110.000000        110.000000   110.000000  110.000000  110.000000  110.000000
-mean    38.027273      0.113224      0.572000          0.327494     0.074211  129.933118    0.288620    0.755182
-std     17.487851      0.137409      0.151457          0.385627     0.056376   21.335378    0.210338    0.144839
+mean    38.009091      0.113224      0.572000          0.327494     0.074211  129.933118    0.288620    0.755182
+std     17.391602      0.137409      0.151457          0.385627     0.056376   21.335378    0.210338    0.144839
 min      0.000000      0.000013      0.199000          0.000000     0.027600   67.466000    0.035800    0.374000
-25%     24.250000      0.025600      0.448000          0.000074     0.039450  124.014500    0.118000    0.667250
-50%     38.000000      0.053100      0.575000          0.087600     0.050100  128.010500    0.227000    0.777000
+25%     24.000000      0.025600      0.448000          0.000074     0.039450  124.014500    0.118000    0.667250
+50%     38.500000      0.053100      0.575000          0.087600     0.050100  128.010500    0.227000    0.777000
 75%     50.750000      0.147000      0.703000          0.750000     0.089100  140.031000    0.418000    0.871000
-max     74.000000      0.763000      0.885000          0.974000     0.302000  199.900000    0.913000    0.951000
+max     73.000000      0.763000      0.885000          0.974000     0.302000  199.900000    0.913000    0.951000

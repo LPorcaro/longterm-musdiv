@@ -1,19 +1,19 @@
-Electronic artists found: The Chainsmokers,Kygo, Galantis,Lucas & Steve,ILIRA, Swedish House Mafia,The Weeknd, Mike Perry,SHY Martin, Tiësto,KSHMR,VASSY, Tiësto, S-X,KSI, Joel Corry,Jax Jones,Charli XCX,Saweetie, Tungevaag,Bassjackers, Alok,Au/Ra, S-X,Trippie Redd, Topic,Bebe Rexha, Martin Garrix,Matisse & Sadko,John Martin, Timmy Trumpet, Alesso,Katy Perry, ATB,Topic,A7S, DVBBS,Quinn XCII, Martin Jensen,Amber Van Day,N.F.I, MEDUZA,Hozier, Tungevaag,Kid Ink, Alesso,Armin van Buuren, Swedish House Mafia,Ty Dolla $ign,070 Shake, Feder,Ofenbach,Dawty Music, ARTY,Griff Clawson, Lost Frequencies,Calum Scott, SLANDER,Dylan Matthew, MOTi,Gustavo Dotch,Deza, Armin van Buuren,The Stickmen Project, Alok,Sofi Tukker,INNA, Danko,Dastic, Tujamo, Aaron Smith,Krono,Luvli, David Guetta,Becky Hill,Ella Henderson, Yves V,Dubdogz,ILIRA, Hippie Sabotage, Topic,A7S, DJ Snake,Ozuna,Megan Thee Stallion,LISA, KSHMR,Mike Waters, Imanbek,BYOR, Alan Walker,Julie Bergan,K-391,SEUNGRI, Alan Walker,Imanbek
-Electronic genres found: edm, german techno, tropical house, electronic trap, pop edm, brostep, melbourne bounce, danish electronic, progressive house, canadian electronic, deep house, progressive electro house, dubstep, dutch edm, uplifting trance, instrumental grime, russian edm, chicago house, belgian edm, electro house, indian edm, slap house, swedish tropical house, melbourne bounce international
+Electronic artists found: KSHMR,Mike Waters, Feder,Ofenbach,Dawty Music, Joel Corry,Jax Jones,Charli XCX,Saweetie, SLANDER,Dylan Matthew, Mike Perry,SHY Martin, Tungevaag,Kid Ink, Swedish House Mafia,Ty Dolla $ign,070 Shake, David Guetta,Becky Hill,Ella Henderson, S-X,Trippie Redd, Galantis,Lucas & Steve,ILIRA, Martin Garrix,Matisse & Sadko,John Martin, Martin Jensen,Amber Van Day,N.F.I, The Chainsmokers,Kygo, Topic,Bebe Rexha, Alesso,Katy Perry, Topic,A7S, Imanbek,BYOR, Alan Walker,Imanbek, Danko,Dastic, ARTY,Griff Clawson, Lost Frequencies,Calum Scott, ATB,Topic,A7S, Alok,Sofi Tukker,INNA, Tujamo, Armin van Buuren,The Stickmen Project, Swedish House Mafia,The Weeknd, Alesso,Armin van Buuren, Tiësto,KSHMR,VASSY, Tiësto, Tungevaag,Bassjackers, Timmy Trumpet, Alok,Au/Ra, Yves V,Dubdogz,ILIRA, MOTi,Gustavo Dotch,Deza, Alan Walker,Julie Bergan,K-391,SEUNGRI, MEDUZA,Hozier, Aaron Smith,Krono,Luvli, Hippie Sabotage, S-X,KSI, DJ Snake,Ozuna,Megan Thee Stallion,LISA, DVBBS,Quinn XCII
+Electronic genres found: danish electronic, melbourne bounce international, slap house, german techno, belgian edm, chicago house, instrumental grime, progressive electro house, russian edm, canadian electronic, swedish tropical house, dutch edm, indian edm, tropical house, edm, melbourne bounce, progressive house, brostep, pop edm, deep house, electronic trap, electro house, dubstep, uplifting trance
 Electronic music logs found: 28.82% 
 
 Top genres
-	1: pop (11.66%)
-	2: dance pop (8.61%)
-	3: edm (6.42%)
-	4: pop dance (6.08%)
-	5: tropical house (4.73%)
+	1: pop (11.62%)
+	2: dance pop (8.59%)
+	3: edm (6.40%)
+	4: pop dance (6.06%)
+	5: tropical house (4.71%)
 Top artists
-	1: Yung Trip (0.50%)
-	2: Travis Scott (0.50%)
-	3: Quinn XCII (0.50%)
-	4: Ariana Grande (0.50%)
-	5: PNAU (0.50%)
+	1: Ozuna (0.50%)
+	2: JID (0.50%)
+	3: Matisse & Sadko (0.50%)
+	4: Jesse McCartney (0.50%)
+	5: SLANDER (0.50%)
 Top country
 	1: US (45.29%)
 	2: GB (13.53%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  170.000000    170.000000    170.000000        170.000000   170.000000  170.000000  170.000000  170.000000
-mean    71.300000      0.160578      0.667153          0.015345     0.101735  121.742194    0.497156    0.685612
-std     14.766767      0.212464      0.130742          0.068505     0.091003   26.234334    0.223414    0.148100
+mean    71.223529      0.160578      0.667153          0.015345     0.101735  121.742194    0.497156    0.685612
+std     14.734636      0.212464      0.130742          0.068505     0.091003   26.234334    0.223414    0.148100
 min      7.000000      0.000329      0.288000          0.000000     0.025900   75.023000    0.034800    0.153000
 25%     62.250000      0.018000      0.586500          0.000000     0.039600  103.232750    0.324250    0.609250
 50%     74.000000      0.058150      0.685000          0.000002     0.060050  120.575000    0.495000    0.703000

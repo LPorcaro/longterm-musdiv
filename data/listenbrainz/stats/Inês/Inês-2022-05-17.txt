@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: nova mpb (18.29%)
-	2: indie pop (9.76%)
-	3: art pop (6.10%)
-	4: indie folk (6.10%)
-	5: irish pop (4.88%)
+	1: nova mpb (18.75%)
+	2: indie pop (10.00%)
+	3: indie folk (6.25%)
+	4: irish pop (5.00%)
+	5: small room (5.00%)
 Top artists
-	1: DUDA BEAT (3.57%)
-	2: Vanessa Moreno (3.57%)
-	3: Pássaro Vivo (3.57%)
-	4: Leo Middea (3.57%)
-	5: Julio Secchin (3.57%)
+	1: Alice Phoebe Lou (3.57%)
+	2: As Orquídeas do Brasil (3.57%)
+	3: O Terno (3.57%)
+	4: Rebeca (3.57%)
+	5: CMAT (3.57%)
 Top country
 	1: BX (39.47%)
 	2: FR (15.79%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   38.000000     38.000000      38.00000         38.000000    38.000000   38.000000  38.000000  38.000000
-mean    43.473684      0.779316       0.55650          0.122080     0.047384  106.977211   0.427768   0.311603
-std      7.706567      0.217796       0.14252          0.230555     0.017556   20.910039   0.220129   0.189486
+mean    43.973684      0.779316       0.55650          0.122080     0.047384  106.977211   0.427768   0.311603
+std      7.649366      0.217796       0.14252          0.230555     0.017556   20.910039   0.220129   0.189486
 min     30.000000      0.194000       0.35600          0.000000     0.026400   80.901000   0.093600   0.045700
 25%     39.000000      0.750500       0.45100          0.000003     0.039100   89.247750   0.253000   0.160000
 50%     45.000000      0.873500       0.52150          0.005985     0.042050  103.334000   0.411000   0.292000

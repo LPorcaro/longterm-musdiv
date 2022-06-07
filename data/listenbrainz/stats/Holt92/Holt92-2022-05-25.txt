@@ -1,45 +1,45 @@
-Electronic artists found: Louis The Child,Wafia,Shaun Frank, Lucas Estrada,Wahlstedt, Loud Luxury,Bryce Vine,EDX, Petit Biscuit, Joel Corry, Viva La Panda, Tom Ferry,Marcus Mollyhus,Nova May, M-22, Rolipso,LissA, Viva La Panda,Rebecca & Fiona, Wahlstedt,Backs, EDX, Klingande,Bright Sparks, Nora Van Elken,Clara Mae, Robin Schulz,Erika Sirola, JYYE,Britt Lari, Goldbird,Dominic Neill, Jon Sine,Salvo, Marc Benjamin,Marcus Santoro,David Pietras, Lost Frequencies,Flynn, Black Coffee,David Guetta,Delilah Montagu, Vincent,Love, Alexa, Madism,Felix Samuel,Tom Ferry, 3LAU,LUNA AURA, Kenn Colt,Luciana,Andros, Midsplit,BLEM,A-SHO, Thomas Nan, Jay Pryor, Adon,Nicolas Haelg,Sam Halabi, Voost,Rachel Raditz, SRTW,Nokyo, DJ Snake,ZHU
-Electronic genres found: pop edm, deep tropical house, electro house, progressive house, tropical house, progressive electro house, dutch edm, dusseldorf electronic, electronic trap, future bass, deep pop edm, belgian edm, deep house, slap house, swedish tropical house, edm
-Electronic music logs found: 72.13% 
+Electronic artists found: Joel Corry, JYYE, Voost,Rachel Raditz, Merk & Kremont,DNCE,Sunstars, Madism,Felix Samuel,Tom Ferry, Black Coffee,David Guetta,Delilah Montagu, JYYE,Britt Lari, Klingande,Bright Sparks, Louis The Child,Wafia,Shaun Frank, Petit Biscuit, M-22, Lucas Estrada,Wahlstedt, Shift K3Y, Mark Mendy,Conan Mac,Le Boeuf, Showtek,MOTi,Starley,Wyclef Jean,Zonderling, Viva La Panda,Friends & I, Nora Van Elken,Clara Mae, Thomas Nan, Midsplit,BLEM,A-SHO, Viva La Panda,Rebecca & Fiona, Rolipso,LissA, ellis,MALARKEY,Tom Westy, Robin Schulz,Erika Sirola, Loud Luxury,Bryce Vine,EDX, Vincent,Love, Alexa, DJ Snake,ZHU, Goldbird,Dominic Neill, Marc Benjamin,Marcus Santoro,David Pietras, Kenn Colt,Luciana,Andros, Jay Pryor, Adon,Nicolas Haelg,Sam Halabi, EDX, Lost Frequencies,Flynn, Wahlstedt,Backs, Tom Ferry,Marcus Mollyhus,Nova May, SRTW,Nokyo, Jon Sine,Salvo, 3LAU,LUNA AURA, Jax Jones,Au/Ra, Viva La Panda
+Electronic genres found: deep pop edm, slap house, belgian edm, progressive electro house, swedish tropical house, dutch edm, tropical house, edm, progressive house, future bass, euphoric hardstyle, deep tropical house, pop edm, deep house, electronic trap, electro house, gaming edm, classic hardstyle, dusseldorf electronic
+Electronic music logs found: 70.13% 
 
 Top genres
-	1: pop edm (11.82%)
-	2: pop dance (11.33%)
-	3: tropical house (9.85%)
-	4: deep groove house (8.87%)
-	5: house (7.88%)
+	1: pop dance (12.05%)
+	2: pop edm (10.84%)
+	3: tropical house (10.44%)
+	4: deep groove house (8.84%)
+	5: house (8.84%)
 Top artists
-	1: Nicolas Haelg (1.23%)
-	2: Louis The Child (1.23%)
-	3: Robin Schulz (1.23%)
-	4: Madism (1.23%)
-	5: Wafia (1.23%)
+	1: Robin Tayger (0.97%)
+	2: Sam Halabi (0.97%)
+	3: Erika Sirola (0.97%)
+	4: MALARKEY (0.97%)
+	5: Zonderling (0.97%)
 Top country
-	1: GB (31.15%)
-	2: QM (22.95%)
-	3: NL (11.48%)
-	4: DE (8.20%)
-	5: QZ (6.56%)
+	1: GB (33.77%)
+	2: QM (19.48%)
+	3: NL (11.69%)
+	4: QZ (9.09%)
+	5: DE (7.79%)
 Top record
-	1: SMU (19.67%)
-	2: 6MZ (9.84%)
-	3: KPL (3.28%)
-	4: DA7 (3.28%)
-	5: AX1 (3.28%)
+	1: SMU (16.88%)
+	2: UM7 (10.39%)
+	3: 6MZ (7.79%)
+	4: T2H (3.90%)
+	5: 4JJ (2.60%)
 Top year
-	1: 21 (26.23%)
-	2: 19 (22.95%)
-	3: 60 (13.11%)
-	4: 18 (11.48%)
-	5: 20 (9.84%)
+	1: 21 (27.27%)
+	2: 19 (23.38%)
+	3: 18 (11.69%)
+	4: 20 (11.69%)
+	5: 60 (10.39%)
 
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
-count   61.000000     61.000000     61.000000         61.000000    61.000000   61.000000  61.000000  61.000000
-mean    37.311475      0.148396      0.686230          0.094838     0.072777  122.316213   0.389349   0.738869
-std     13.677891      0.198291      0.099848          0.226277     0.077418   11.130673   0.213965   0.137204
-min      8.000000      0.000156      0.405000          0.000000     0.027900   90.838000   0.063000   0.324000
-25%     26.000000      0.030300      0.645000          0.000000     0.033000  120.009000   0.187000   0.687000
-50%     38.000000      0.056900      0.718000          0.000293     0.043300  123.995000   0.409000   0.751000
-75%     46.000000      0.174000      0.751000          0.015500     0.070400  124.990000   0.527000   0.843000
-max     69.000000      0.729000      0.840000          0.824000     0.387000  159.984000   0.866000   0.951000
+count   77.000000     77.000000     77.000000         77.000000    77.000000   77.000000  77.000000  77.000000
+mean    36.480519      0.142769      0.684714          0.126827     0.079301  123.015896   0.410706   0.742974
+std     14.191927      0.186829      0.103408          0.263236     0.079904   10.195728   0.212996   0.137531
+min      8.000000      0.000156      0.272000          0.000000     0.027900   90.838000   0.063000   0.324000
+25%     26.000000      0.020100      0.645000          0.000000     0.033900  121.006000   0.214000   0.698000
+50%     38.000000      0.056900      0.715000          0.000293     0.045900  124.012000   0.424000   0.756000
+75%     46.000000      0.174000      0.751000          0.045400     0.074800  125.047000   0.582000   0.866000
+max     69.000000      0.729000      0.840000          0.908000     0.387000  159.984000   0.866000   0.951000

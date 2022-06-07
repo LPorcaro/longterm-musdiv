@@ -1,0 +1,39 @@
+Electronic artists found: MEDUZA,Hozier
+Electronic genres found: tropical house, edm
+Electronic music logs found: 33.33% 
+
+Top genres
+	1: baroque (6.25%)
+	2: french baroque (6.25%)
+	3: album rock (6.25%)
+	4: alternative metal (6.25%)
+	5: hard rock (6.25%)
+Top artists
+	1: Hozier (16.67%)
+	2: Megadeth (16.67%)
+	3: Jean-Féry Rebel (16.67%)
+	4: MEDUZA (16.67%)
+	5: Amandine Beyer (16.67%)
+Top country
+	1: FR (33.33%)
+	2: US (33.33%)
+	3: GB (33.33%)
+Top record
+	1: 1P7 (33.33%)
+	2: CA2 (33.33%)
+	3: UM7 (33.33%)
+Top year
+	1: 05 (33.33%)
+	2: 04 (33.33%)
+	3: 21 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    3.000000      3.000000       3.00000          3.000000     3.000000    3.000000  3.000000  3.000000
+mean    46.333333      0.325510       0.39500          0.002013     0.069133  100.836667  0.306367  0.601667
+std     40.648903      0.539231       0.23231          0.003023     0.035057   21.637794  0.215215  0.447887
+min      0.000000      0.002030       0.12700          0.000000     0.039900   80.911000  0.069100  0.108000
+25%     31.500000      0.014265       0.32300          0.000275     0.049700   89.328000  0.215050  0.411500
+50%     63.000000      0.026500       0.51900          0.000550     0.059500   97.745000  0.361000  0.715000
+75%     69.500000      0.487250       0.52900          0.003020     0.083750  110.799500  0.425000  0.848500
+max     76.000000      0.948000       0.53900          0.005490     0.108000  123.854000  0.489000  0.982000

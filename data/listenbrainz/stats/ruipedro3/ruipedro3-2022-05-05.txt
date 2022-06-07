@@ -1,0 +1,45 @@
+Electronic artists found: Simple Minds, The Whitest Boy Alive
+Electronic genres found: scottish new wave, electronica
+Electronic music logs found: 4.25% 
+
+Top genres
+	1: rock (9.43%)
+	2: modern rock (6.56%)
+	3: permanent wave (4.10%)
+	4: new wave (3.69%)
+	5: indie rock (2.87%)
+Top artists
+	1: The White Stripes (2.13%)
+	2: Jamws (2.13%)
+	3: Wallows (2.13%)
+	4: Duran Duran (2.13%)
+	5: Faces (2.13%)
+Top country
+	1: GB (38.30%)
+	2: US (34.04%)
+	3: QZ (8.51%)
+	4: DE (4.26%)
+	5: FR (2.13%)
+Top record
+	1: SM1 (6.38%)
+	2: UM7 (6.38%)
+	3: ALB (4.26%)
+	4: ARL (4.26%)
+	5: F08 (4.26%)
+Top year
+	1: 14 (8.51%)
+	2: 09 (8.51%)
+	3: 21 (8.51%)
+	4: 19 (6.38%)
+	5: 05 (6.38%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   47.000000     47.000000     47.000000         47.000000    47.000000   47.000000  47.000000  47.000000
+mean    61.574468      0.167331      0.536872          0.037229     0.045915  130.976064   0.555213   0.731021
+std     13.530553      0.227407      0.141874          0.132956     0.018116   28.092875   0.209729   0.177380
+min     23.000000      0.000252      0.184000          0.000000     0.024800   75.050000   0.136000   0.367000
+25%     52.500000      0.003070      0.425500          0.000004     0.034550  110.684500   0.404000   0.562000
+50%     63.000000      0.040400      0.534000          0.000243     0.040800  128.978000   0.585000   0.795000
+75%     71.000000      0.276500      0.651500          0.017750     0.053200  150.079000   0.704500   0.869000
+max     83.000000      0.887000      0.821000          0.891000     0.116000  208.055000   0.942000   0.979000

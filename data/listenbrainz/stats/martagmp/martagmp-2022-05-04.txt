@@ -1,0 +1,45 @@
+Electronic artists found: Tiësto,Ava Max, Gabry Ponte,LUM!X,Prezioso, Will Sparks,Wiley,Elen Levon, VAVO,ZHIKO, Martin Garrix,Zedd, KVSH,Schillist, CLMD,Tungevaag, twocolors, Merk & Kremont, HEDEGAARD,CANCUN?, VINAI,Hard Lights,Afrojack, Chico Rose,Afrojack, Tujamo,VIZE,MAJAN
+Electronic genres found: progressive electro house, pop edm, italo dance, danish electronic, melbourne bounce, brazilian edm, melbourne bounce international, slap house, progressive house, eurodance, dutch edm, electro house, brostep, tropical house, edm
+Electronic music logs found: 70.00% 
+
+Top genres
+	1: pop dance (12.00%)
+	2: edm (10.67%)
+	3: tropical house (9.33%)
+	4: dance pop (6.67%)
+	5: electro house (6.67%)
+Top artists
+	1: Prezioso (2.94%)
+	2: LUM!X (2.94%)
+	3: Will Sparks (2.94%)
+	4: Martin Garrix (2.94%)
+	5: Hard Lights (2.94%)
+Top country
+	1: IT (25.00%)
+	2: NL (20.00%)
+	3: DE (10.00%)
+	4: QZ (5.00%)
+	5: GB (5.00%)
+Top record
+	1: UM7 (25.00%)
+	2: M5S (15.00%)
+	3: Q00 (10.00%)
+	4: MWW (5.00%)
+	5: WUL (5.00%)
+Top year
+	1: 21 (25.00%)
+	2: 20 (25.00%)
+	3: 19 (25.00%)
+	4: 22 (20.00%)
+	5: 14 (5.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count    20.00000     20.000000     20.000000         20.000000    20.000000   20.000000  20.000000  20.000000
+mean     57.55000      0.119932      0.721950          0.120168     0.099915  122.974300   0.445850   0.719950
+std      15.32619      0.192103      0.076776          0.264714     0.090756   20.176666   0.195725   0.145655
+min      18.00000      0.005690      0.588000          0.000000     0.034200   78.046000   0.153000   0.463000
+25%      51.75000      0.027250      0.669250          0.000000     0.043425  116.721500   0.298000   0.599250
+50%      60.00000      0.037800      0.712500          0.000024     0.060850  123.983000   0.416000   0.739500
+75%      68.00000      0.089275      0.776500          0.009525     0.106075  127.289500   0.634500   0.790750
+max      89.00000      0.779000      0.843000          0.760000     0.367000  180.095000   0.776000   0.958000

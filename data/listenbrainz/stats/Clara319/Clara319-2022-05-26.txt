@@ -1,0 +1,45 @@
+Electronic artists found: Naughty Boy,Bastille
+Electronic genres found: tropical house
+Electronic music logs found: 8.33% 
+
+Top genres
+	1: pop (10.26%)
+	2: modern rock (7.69%)
+	3: pop rock (7.69%)
+	4: stomp and holler (5.13%)
+	5: modern alternative rock (5.13%)
+Top artists
+	1: Hozier (7.69%)
+	2: Chase Atlantic (7.69%)
+	3: Bastille (7.69%)
+	4: 2WEI (7.69%)
+	5: Edda Hayes (7.69%)
+Top country
+	1: US (41.67%)
+	2: GB (25.00%)
+	3: NZ (16.67%)
+	4: IE (8.33%)
+	5: AU (8.33%)
+Top record
+	1: UM7 (25.00%)
+	2: DY1 (16.67%)
+	3: ACJ (8.33%)
+	4: 2ME (8.33%)
+	5: AHS (8.33%)
+Top year
+	1: 17 (25.00%)
+	2: 14 (16.67%)
+	3: 13 (16.67%)
+	4: 18 (16.67%)
+	5: 12 (8.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   12.000000     12.000000     12.000000         12.000000    12.000000   12.000000  12.000000  12.000000
+mean    48.916667      0.249235      0.521667          0.087364     0.058583  129.209167   0.383642   0.578167
+std     16.284172      0.290575      0.134171          0.150999     0.037230   26.356270   0.242751   0.223473
+min     22.000000      0.004620      0.281000          0.000000     0.029400   78.129000   0.094700   0.151000
+25%     42.250000      0.021250      0.470250          0.000004     0.034475  116.483500   0.172750   0.413500
+50%     48.000000      0.107500      0.586000          0.002850     0.044800  130.637000   0.332000   0.598500
+75%     60.250000      0.577000      0.618000          0.093450     0.058700  145.004000   0.566750   0.783000
+max     71.000000      0.769000      0.636000          0.376000     0.137000  177.714000   0.731000   0.863000

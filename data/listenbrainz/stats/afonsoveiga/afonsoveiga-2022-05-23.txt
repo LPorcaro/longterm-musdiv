@@ -3,17 +3,17 @@ Electronic genres found: electronica, slap house
 Electronic music logs found: 2.56% 
 
 Top genres
-	1: pop (8.80%)
-	2: rap (7.92%)
-	3: hip hop (7.33%)
-	4: modern rock (3.23%)
-	5: alternative r&b (2.35%)
+	1: pop (8.67%)
+	2: hip hop (8.38%)
+	3: rap (7.80%)
+	4: modern rock (3.18%)
+	5: alternative r&b (2.31%)
 Top artists
-	1: Dominic Fike (1.19%)
-	2: Slow J (1.19%)
-	3: Tiago Bettencourt (1.19%)
-	4: Bridget Perez (1.19%)
-	5: boy pablo (1.19%)
+	1: Cannibal Kids (1.19%)
+	2: Yeek (1.19%)
+	3: Daft Punk (1.19%)
+	4: SALES (1.19%)
+	5: redveil (1.19%)
 Top country
 	1: US (44.44%)
 	2: QM (10.26%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  117.000000    117.000000    117.000000        117.000000   117.000000  117.000000  117.000000  117.000000
-mean    58.991453      0.355360      0.655521          0.036408     0.107340  116.258650    0.516547    0.580851
-std     14.089918      0.295978      0.142832          0.133945     0.109652   29.408941    0.217887    0.183023
+mean    58.880342      0.355360      0.655521          0.036408     0.107340  116.258650    0.516547    0.580851
+std     14.038225      0.295978      0.142832          0.133945     0.109652   29.408941    0.217887    0.183023
 min     21.000000      0.000925      0.280000          0.000000     0.027000   68.985000    0.070300    0.015800
 25%     50.000000      0.104000      0.559000          0.000000     0.038400   91.336000    0.336000    0.510000
 50%     59.000000      0.291000      0.657000          0.000046     0.055700  116.362000    0.528000    0.585000

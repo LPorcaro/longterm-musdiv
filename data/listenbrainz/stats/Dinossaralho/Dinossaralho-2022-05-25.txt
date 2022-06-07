@@ -1,0 +1,38 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: alternative rock (9.09%)
+	2: blues rock (9.09%)
+	3: garage rock (9.09%)
+	4: modern blues rock (9.09%)
+	5: modern rock (9.09%)
+Top artists
+	1: The Black Keys (33.33%)
+	2: Bezegol (33.33%)
+	3: Billy F Gibbons (33.33%)
+Top country
+	1: US (50.00%)
+	2: QM (40.00%)
+	3: PT (10.00%)
+Top record
+	1: NO1 (50.00%)
+	2: FMF (30.00%)
+	3: OHU (10.00%)
+	4: FMG (10.00%)
+Top year
+	1: 22 (50.00%)
+	2: 15 (40.00%)
+	3: 19 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count   10.000000     10.000000      10.00000      1.000000e+01    10.000000   10.000000  10.00000  10.00000
+mean    41.700000      0.134520       0.73720      5.974711e-03     0.049460  111.983500   0.67750   0.56100
+std     15.100037      0.100479       0.10701      1.593319e-02     0.022167   13.544487   0.21344   0.13333
+min     22.000000      0.017000       0.57100      0.000000e+00     0.027800   91.206000   0.23600   0.28400
+25%     28.500000      0.056075       0.65675      5.050000e-07     0.035925   99.641000   0.55850   0.55050
+50%     42.500000      0.127500       0.74550      6.725450e-04     0.039900  117.312500   0.69400   0.60050
+75%     55.000000      0.175500       0.79700      2.105000e-03     0.058900  123.355750   0.78750   0.63575
+max     59.000000      0.345000       0.94600      5.120000e-02     0.094100  125.993000   0.95700   0.73400

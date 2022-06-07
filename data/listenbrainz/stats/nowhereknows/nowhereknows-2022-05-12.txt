@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: hip hop (13.92%)
-	2: pop rap (13.92%)
-	3: rap (13.92%)
-	4: pop (12.66%)
-	5: gen z singer-songwriter (7.59%)
+	1: hip hop (14.67%)
+	2: pop rap (14.67%)
+	3: rap (14.67%)
+	4: pop (13.33%)
+	5: gen z singer-songwriter (8.00%)
 Top artists
-	1: Brent Morgan (5.26%)
-	2: BoyWithUke (5.26%)
-	3: Benson Boone (5.26%)
-	4: Leah Kate (5.26%)
-	5: Fleurie (5.26%)
+	1: BoyWithUke (5.26%)
+	2: Leah Kate (5.26%)
+	3: Niall Horan (5.26%)
+	4: Jake Daniels (5.26%)
+	5: Os Azeitonas (5.26%)
 Top country
 	1: US (43.48%)
 	2: TC (26.09%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   46.000000     46.000000     46.000000         46.000000    46.000000   46.000000  46.000000  46.000000
-mean    58.043478      0.419547      0.610696          0.003968     0.092748  128.275696   0.393939   0.585378
-std     17.725006      0.342809      0.112396          0.009325     0.111540   24.053436   0.218339   0.219880
+mean    58.086957      0.419547      0.610696          0.003968     0.092748  128.275696   0.393939   0.585378
+std     17.791166      0.342809      0.112396          0.009325     0.111540   24.053436   0.218339   0.219880
 min      8.000000      0.000056      0.362000          0.000000     0.028600   75.027000   0.038700   0.069400
 25%     51.250000      0.033425      0.527750          0.000000     0.034700  119.930000   0.214000   0.438500
 50%     56.000000      0.448000      0.631500          0.000003     0.045800  134.413500   0.377000   0.620000

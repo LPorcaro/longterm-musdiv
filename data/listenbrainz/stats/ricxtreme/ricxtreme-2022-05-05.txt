@@ -1,0 +1,45 @@
+Electronic artists found: MEDUZA,Dermot Kennedy, Joel Corry,MNEK, Marshmello,Jonas Brothers, Tiësto, David Guetta,Kid Cudi, SLANDER,Dylan Matthew, Anne-Marie, Marshmello,Halsey, Alan Walker,Ava Max, Axwell /\ Ingrosso, The Chainsmokers,5 Seconds of Summer, Clean Bandit,Jess Glynne, Marshmello,Bastille, Travis Scott,HVME, Clean Bandit,Zara Larsson, Kygo,OneRepublic
+Electronic genres found: progressive electro house, uk funky, slap house, electro house, dubstep, dutch edm, brostep, tropical house, edm
+Electronic music logs found: 11.72% 
+
+Top genres
+	1: pop (19.15%)
+	2: dance pop (8.24%)
+	3: pop dance (3.99%)
+	4: edm (3.72%)
+	5: hip hop tuga (3.46%)
+Top artists
+	1: Ashe (0.75%)
+	2: SLANDER (0.75%)
+	3: Sia (0.75%)
+	4: VALORANT (0.75%)
+	5: Jess Glynne (0.75%)
+Top country
+	1: US (59.31%)
+	2: GB (10.34%)
+	3: PT (6.90%)
+	4: QZ (4.83%)
+	5: QM (4.14%)
+Top record
+	1: UM7 (24.83%)
+	2: UG1 (11.03%)
+	3: SM1 (10.34%)
+	4: AT2 (8.97%)
+	5: RC1 (4.83%)
+Top year
+	1: 20 (26.90%)
+	2: 21 (20.69%)
+	3: 19 (17.24%)
+	4: 18 (11.03%)
+	5: 22 (7.59%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  145.000000    145.000000    145.000000        145.000000   145.000000  145.000000  145.000000  145.000000
+mean    73.248276      0.266952      0.653310          0.012207     0.088543  119.426759    0.489212    0.614828
+std     14.805466      0.274505      0.132875          0.082645     0.084019   26.751655    0.225000    0.169048
+min     20.000000      0.001440      0.259000          0.000000     0.027000   72.017000    0.082300    0.153000
+25%     72.000000      0.034000      0.561000          0.000000     0.038200   96.133000    0.306000    0.491000
+50%     77.000000      0.180000      0.686000          0.000000     0.051600  116.735000    0.486000    0.613000
+75%     83.000000      0.414000      0.759000          0.000006     0.099300  138.723000    0.640000    0.731000
+max    100.000000      0.959000      0.905000          0.709000     0.438000  180.917000    0.956000    0.956000

@@ -1,0 +1,43 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: country (11.69%)
+	2: country rock (11.69%)
+	3: outlaw country (9.09%)
+	4: country road (5.19%)
+	5: texas country (3.90%)
+Top artists
+	1: The Statler Brothers (4.00%)
+	2: John Schneider (4.00%)
+	3: George Strait (4.00%)
+	4: Waylon Jennings (4.00%)
+	5: Green Day (4.00%)
+Top country
+	1: US (88.89%)
+	2: QZ (7.41%)
+	3: GB (3.70%)
+Top record
+	1: MR1 (7.41%)
+	2: ME3 (7.41%)
+	3: PR3 (7.41%)
+	4: DPP (7.41%)
+	5: SM1 (7.41%)
+Top year
+	1: 12 (11.11%)
+	2: 11 (7.41%)
+	3: 70 (7.41%)
+	4: 21 (7.41%)
+	5: 49 (7.41%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   27.000000     27.000000     27.000000         27.000000    27.000000   27.000000  27.000000  27.000000
+mean    37.333333      0.397431      0.552519          0.037569     0.052985  116.325296   0.638444   0.622852
+std     19.495562      0.329080      0.148019          0.115779     0.030101   29.150678   0.183242   0.242561
+min      1.000000      0.000120      0.200000          0.000000     0.026000   78.611000   0.312000   0.218000
+25%     29.000000      0.107350      0.467000          0.000000     0.030350   91.822500   0.537000   0.383000
+50%     40.000000      0.386000      0.586000          0.000182     0.049100  116.027000   0.652000   0.633000
+75%     49.500000      0.740000      0.676500          0.003250     0.059350  131.166000   0.759000   0.858000
+max     72.000000      0.952000      0.764000          0.493000     0.135000  177.751000   0.963000   0.981000

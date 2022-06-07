@@ -1,0 +1,45 @@
+Electronic artists found: The Chainsmokers,Louane, Ramin Djawadi, Marshmello,Anne-Marie, Naughty Boy,Bastille
+Electronic genres found: progressive electro house, video game music, brostep, tropical house, edm
+Electronic music logs found: 10.87% 
+
+Top genres
+	1: pop (21.28%)
+	2: modern rock (9.93%)
+	3: electropop (8.51%)
+	4: rock (7.09%)
+	5: dance pop (4.96%)
+Top artists
+	1: Ramin Djawadi (3.12%)
+	2: Bastille (3.12%)
+	3: Fall Out Boy (3.12%)
+	4: Tommee Profitt (3.12%)
+	5: Thirty Seconds To Mars (3.12%)
+Top country
+	1: US (65.22%)
+	2: TC (17.39%)
+	3: GB (8.70%)
+	4: IE (2.17%)
+	5: QM (2.17%)
+Top record
+	1: UM7 (36.96%)
+	2: UG1 (13.04%)
+	3: ACU (6.52%)
+	4: WB1 (6.52%)
+	5: QX9 (4.35%)
+Top year
+	1: 17 (30.43%)
+	2: 19 (17.39%)
+	3: 16 (17.39%)
+	4: 18 (15.22%)
+	5: 14 (8.70%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   46.000000     46.000000     46.000000         46.000000    46.000000   46.000000  46.000000  46.000000
+mean    63.826087      0.295262      0.546587          0.050599     0.073972  116.215565   0.278852   0.566152
+std     12.456688      0.313531      0.129485          0.188178     0.069006   28.323447   0.195601   0.216406
+min     35.000000      0.000367      0.265000          0.000000     0.027200   65.991000   0.038900   0.125000
+25%     55.000000      0.035675      0.473250          0.000000     0.037275   95.478500   0.135750   0.432250
+50%     64.000000      0.154000      0.556500          0.000048     0.052600  112.272000   0.255500   0.542000
+75%     73.000000      0.576750      0.644000          0.001765     0.067150  134.751250   0.355000   0.745000
+max     88.000000      0.946000      0.853000          0.913000     0.375000  177.913000   0.844000   0.938000

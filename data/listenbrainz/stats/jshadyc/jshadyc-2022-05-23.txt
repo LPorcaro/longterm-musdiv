@@ -1,5 +1,5 @@
 Electronic artists found: Marshmello,Bastille
-Electronic genres found: edm, brostep, progressive electro house
+Electronic genres found: progressive electro house, edm, brostep
 Electronic music logs found: 0.81% 
 
 Top genres
@@ -9,10 +9,10 @@ Top genres
 	4: pop rock (3.61%)
 	5: neo mellow (3.35%)
 Top artists
-	1: Snow Patrol (1.25%)
-	2: Florence + The Machine (1.25%)
-	3: Paramore (1.25%)
-	4: Tracy Chapman (1.25%)
+	1: John Legend (1.25%)
+	2: Rihanna (1.25%)
+	3: James TW (1.25%)
+	4: The Kid LAROI (1.25%)
 	5: Usher (1.25%)
 Top country
 	1: US (75.61%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  123.000000    123.000000    123.000000        123.000000   123.000000  123.000000  123.000000  123.000000
-mean    70.276423      0.364531      0.582943          0.000354     0.061054  122.527821    0.364104    0.541763
-std     11.012884      0.303958      0.115500          0.002904     0.059787   30.760911    0.195314    0.190180
+mean    70.463415      0.364531      0.582943          0.000354     0.061054  122.527821    0.364104    0.541763
+std     10.923949      0.303958      0.115500          0.002904     0.059787   30.760911    0.195314    0.190180
 min     39.000000      0.001070      0.324000          0.000000     0.024200   68.976000    0.059200    0.054900
-25%     65.000000      0.099500      0.496000          0.000000     0.031400   97.196000    0.205000    0.419000
+25%     65.500000      0.099500      0.496000          0.000000     0.031400   97.196000    0.205000    0.419000
 50%     72.000000      0.263000      0.581000          0.000000     0.037000  119.930000    0.331000    0.562000
-75%     77.000000      0.609000      0.670500          0.000002     0.058400  145.430500    0.485000    0.678500
+75%     77.500000      0.609000      0.670500          0.000002     0.058400  145.430500    0.485000    0.678500
 max     91.000000      0.987000      0.836000          0.031700     0.342000  185.934000    0.843000    0.936000

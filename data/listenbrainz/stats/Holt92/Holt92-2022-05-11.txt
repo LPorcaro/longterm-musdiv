@@ -1,19 +1,19 @@
-Electronic artists found: David Guetta,Showtek, Tritonal,Angel Taylor, Tiësto,Dzeko,Preme,Post Malone, Tujamo,Miranda Glory,Haris,Steff da Campo, DLMT,Vanrip,Deverano, Summer Was Fun, Jo Cohen,Whales, Sappheiros, Captain Cuts,Zookëper,Georgia Ku, Sagan, Philipp Semingo, Toby Green, Going Deeper,Doreus, Cash Cash,ABIR,Madison Mars, Murat Salman, Angger Dimas,NERVO,Dave Winnel, Rootkit,Joe Erickson, Rootkit,Danyka Nadeau, Dzeko,Riggi & Piros,Veronica, Trinix, Cedric Gervais,Wealth,D.O.D, GSPR
-Electronic genres found: pop edm, brostep, canadian electronic, russian edm, future bass, slap house, progressive trance, electro house, tropical house, progressive electro house, uplifting trance, melodic dubstep, progressive house, complextro, gaming edm, ukrainian edm, dutch edm, edm, future house, chillstep, indonesian edm
+Electronic artists found: Tritonal,Angel Taylor, Trinix, Sappheiros, David Guetta,Showtek, Tiësto,Dzeko,Preme,Post Malone, Toby Green, Cash Cash,ABIR,Madison Mars, Philipp Semingo, Dzeko,Riggi & Piros,Veronica, Jo Cohen,Whales, DLMT,Vanrip,Deverano, Tujamo,Miranda Glory,Haris,Steff da Campo, Cedric Gervais,Wealth,D.O.D, Rootkit,Joe Erickson, Rootkit,Danyka Nadeau, Sagan, Going Deeper,Doreus, Angger Dimas,NERVO,Dave Winnel, Summer Was Fun, GSPR, Murat Salman, Captain Cuts,Zookëper,Georgia Ku
+Electronic genres found: slap house, complextro, progressive electro house, russian edm, canadian electronic, dutch edm, melodic dubstep, tropical house, edm, chillstep, indonesian edm, future house, future bass, progressive house, brostep, ukrainian edm, pop edm, progressive trance, electro house, gaming edm, uplifting trance
 Electronic music logs found: 29.11% 
 
 Top genres
-	1: electro house (12.26%)
-	2: edm (8.49%)
-	3: pop edm (8.49%)
-	4: pop dance (5.66%)
-	5: house (4.72%)
+	1: electro house (12.38%)
+	2: edm (8.57%)
+	3: pop edm (7.62%)
+	4: pop dance (5.71%)
+	5: house (4.76%)
 Top artists
-	1: Steff da Campo (1.56%)
-	2: Dave Winnel (1.56%)
-	3: Georgia Ku (1.56%)
-	4: Post Malone (1.56%)
-	5: Captain Cuts (1.56%)
+	1: Sappheiros (1.56%)
+	2: Trinix (1.56%)
+	3: Wealth (1.56%)
+	4: ABIR (1.56%)
+	5: CIC (1.56%)
 Top country
 	1: QZ (41.77%)
 	2: GB (27.85%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   79.000000     79.000000     79.000000         79.000000    79.000000   79.000000  79.000000  79.000000
-mean    38.518987      0.091935      0.577582          0.360841     0.066449  133.177051   0.267282   0.777810
-std     17.950688      0.154942      0.150305          0.338938     0.039686   20.389766   0.195618   0.107228
+mean    38.405063      0.091935      0.577582          0.360841     0.066449  133.177051   0.267282   0.777810
+std     17.873142      0.154942      0.150305          0.338938     0.039686   20.389766   0.195618   0.107228
 min      0.000000      0.000013      0.294000          0.000000     0.028800   74.976000   0.037100   0.448000
 25%     25.000000      0.004695      0.476500          0.002000     0.042200  125.013000   0.126000   0.707000
 50%     38.000000      0.032200      0.571000          0.304000     0.051700  128.005000   0.222000   0.767000
 75%     54.500000      0.112000      0.699000          0.606000     0.079150  145.129500   0.354500   0.856000
-max     74.000000      0.933000      0.820000          0.973000     0.223000  180.038000   0.789000   0.988000
+max     73.000000      0.933000      0.820000          0.973000     0.223000  180.038000   0.789000   0.988000

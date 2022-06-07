@@ -1,5 +1,5 @@
 Electronic artists found: Lost Frequencies,Calum Scott
-Electronic genres found: tropical house, edm, belgian edm
+Electronic genres found: belgian edm, tropical house, edm
 Electronic music logs found: 10.00% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: portuguese pop (8.70%)
 	5: afroswing (4.35%)
 Top artists
-	1: Muni Long (9.09%)
-	2: Julinho Ksd (9.09%)
-	3: X-Tense (9.09%)
-	4: Calum Scott (9.09%)
-	5: T-Rex (9.09%)
+	1: T-Rex (9.09%)
+	2: Calum Scott (9.09%)
+	3: Julinho Ksd (9.09%)
+	4: KSI (9.09%)
+	5: Muni Long (9.09%)
 Top country
 	1: PT (50.00%)
 	2: TC (10.00%)
@@ -35,10 +35,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   10.000000     10.000000     10.000000         10.000000    10.000000   10.000000  10.000000  10.000000
-mean    54.600000      0.503940      0.693300          0.026540     0.168170  115.380500   0.456360   0.558800
-std     16.235763      0.227183      0.145603          0.073225     0.125517   18.980158   0.243762   0.076025
+mean    54.800000      0.503940      0.693300          0.026540     0.168170  115.380500   0.456360   0.558800
+std     16.233025      0.227183      0.145603          0.073225     0.125517   18.980158   0.243762   0.076025
 min     41.000000      0.043400      0.477000          0.000000     0.050900   87.907000   0.052600   0.427000
 25%     43.000000      0.398750      0.556000          0.000000     0.076500  100.268750   0.298000   0.531500
 50%     52.000000      0.597000      0.718500          0.000000     0.131000  120.483000   0.424500   0.578000
-75%     54.000000      0.613750      0.827250          0.000354     0.222500  128.571500   0.655250   0.614500
+75%     55.000000      0.613750      0.827250          0.000354     0.222500  128.571500   0.655250   0.614500
 max     90.000000      0.807000      0.845000          0.233000     0.399000  142.019000   0.780000   0.639000

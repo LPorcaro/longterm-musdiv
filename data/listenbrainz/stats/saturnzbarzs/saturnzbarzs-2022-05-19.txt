@@ -3,17 +3,17 @@ Electronic genres found:
 Electronic music logs found: 0.00% 
 
 Top genres
-	1: pop (25.76%)
-	2: alternative pop rock (12.12%)
-	3: lgbtq+ hip hop (10.61%)
-	4: underground hip hop (4.55%)
-	5: alternative r&b (3.79%)
+	1: pop (25.95%)
+	2: alternative pop rock (12.21%)
+	3: lgbtq+ hip hop (10.69%)
+	4: underground hip hop (4.58%)
+	5: alternative r&b (3.82%)
 Top artists
-	1: Peven Everett (5.00%)
-	2: LORD$OFDOGTOWN (5.00%)
-	3: De La Soul (5.00%)
-	4: Nothing But Thieves (5.00%)
-	5: Paramore (5.00%)
+	1: Megan Thee Stallion (5.00%)
+	2: Halsey (5.00%)
+	3: LORD$OFDOGTOWN (5.00%)
+	4: Elton John (5.00%)
+	5: Twenty One Pilots (5.00%)
 Top country
 	1: US (83.33%)
 	2: GB (12.96%)
@@ -34,8 +34,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   54.000000     54.000000     54.000000         54.000000    54.000000   54.000000  54.000000  54.000000
-mean    59.925926      0.262169      0.647870          0.015291     0.153911  124.790981   0.510478   0.684537
-std     14.293226      0.281168      0.142181          0.087522     0.161479   31.512170   0.226188   0.186655
+mean    59.944444      0.262169      0.647870          0.015291     0.153911  124.790981   0.510478   0.684537
+std     14.313757      0.281168      0.142181          0.087522     0.161479   31.512170   0.226188   0.186655
 min      3.000000      0.000264      0.379000          0.000000     0.029100   70.027000   0.078700   0.342000
 25%     57.000000      0.014550      0.526500          0.000000     0.054900   98.467750   0.325750   0.528500
 50%     62.000000      0.171500      0.687000          0.000015     0.078900  120.486500   0.547500   0.708500

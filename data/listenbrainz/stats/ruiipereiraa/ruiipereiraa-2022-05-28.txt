@@ -1,0 +1,41 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: alternative pop rock (9.09%)
+	2: modern alternative rock (9.09%)
+	3: modern rock (9.09%)
+	4: rock (9.09%)
+	5: afropop (9.09%)
+Top artists
+	1: Nothing But Thieves (16.67%)
+	2: BROCKHAMPTON (16.67%)
+	3: Mayra Andrade (16.67%)
+	4: Paul Simonon (16.67%)
+	5: Gorillaz (16.67%)
+Top country
+	1: GB (50.00%)
+	2: FR (25.00%)
+	3: US (25.00%)
+Top record
+	1: ARL (25.00%)
+	2: Z05 (25.00%)
+	3: UYG (25.00%)
+	4: AYE (25.00%)
+Top year
+	1: 15 (25.00%)
+	2: 18 (25.00%)
+	3: 11 (25.00%)
+	4: 10 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.000000  4.000000  4.000000
+mean    57.750000      0.307830      0.619750          0.193050     0.070525  113.549500  0.667250  0.720000
+std      6.946222      0.396022      0.148484          0.334402     0.030053   47.692008  0.177491  0.154352
+min     50.000000      0.002520      0.497000          0.008100     0.025700   79.955000  0.499000  0.550000
+25%     53.000000      0.014730      0.527000          0.017850     0.067550   86.337500  0.531250  0.616750
+50%     58.000000      0.190900      0.576000          0.035050     0.083550   95.231500  0.647500  0.718500
+75%     62.750000      0.484000      0.668750          0.210250     0.086525  122.443500  0.783500  0.821750
+max     65.000000      0.847000      0.830000          0.694000     0.089300  183.780000  0.875000  0.893000

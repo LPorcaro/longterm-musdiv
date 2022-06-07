@@ -1,0 +1,44 @@
+Electronic artists found: FKA twigs, FKA twigs,Jorja Smith,unkown t, FKA twigs,The Weeknd, FKA twigs,Dystopia, FKA twigs,Rema, FKA twigs,Solo, FKA twigs,Pa Salieu, FKA twigs,Shygirl
+Electronic genres found: trip hop
+Electronic music logs found: 41.38% 
+
+Top genres
+	1: escape room (9.93%)
+	2: afrofuturism (8.51%)
+	3: art pop (8.51%)
+	4: dance pop (8.51%)
+	5: experimental r&b (8.51%)
+Top artists
+	1: Pa Salieu (3.33%)
+	2: Rihanna (3.33%)
+	3: FKA twigs (3.33%)
+	4: Yung Lean (3.33%)
+	5: Dystopia (3.33%)
+Top country
+	1: US (82.76%)
+	2: GB (6.90%)
+	3: CA (3.45%)
+	4: PT (3.45%)
+	5: SE (3.45%)
+Top record
+	1: AT2 (41.38%)
+	2: UM7 (27.59%)
+	3: MVH (6.90%)
+	4: 5KR (3.45%)
+	5: C4R (3.45%)
+Top year
+	1: 22 (62.07%)
+	2: 17 (20.69%)
+	3: 21 (10.34%)
+	4: 16 (6.90%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   29.000000     29.000000     29.000000         29.000000    29.000000   29.000000  29.000000  29.000000
+mean    57.137931      0.302743      0.675103          0.005360     0.245507  130.094414   0.493017   0.613172
+std     14.635388      0.244548      0.143343          0.016743     0.149552   31.648900   0.218315   0.162962
+min      4.000000      0.004540      0.298000          0.000000     0.033400   69.986000   0.072500   0.238000
+25%     51.000000      0.083200      0.616000          0.000000     0.097400  109.968000   0.328000   0.523000
+50%     59.000000      0.204000      0.732000          0.000013     0.266000  129.894000   0.488000   0.629000
+75%     66.000000      0.532000      0.758000          0.000901     0.357000  150.070000   0.581000   0.713000
+max     78.000000      0.810000      0.907000          0.085900     0.506000  193.885000   0.960000   0.981000

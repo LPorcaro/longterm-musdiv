@@ -1,0 +1,44 @@
+Electronic artists found: Zara Larsson, DJ Snake,Ozuna,Megan Thee Stallion,LISA, Zara Larsson,Sabrina Carpenter
+Electronic genres found: tropical house, edm, electronic trap
+Electronic music logs found: 12.00% 
+
+Top genres
+	1: pop (26.39%)
+	2: dance pop (11.11%)
+	3: italian hip hop (8.33%)
+	4: italian underground hip hop (5.56%)
+	5: rap napoletano (5.56%)
+Top artists
+	1: Ozuna (3.33%)
+	2: Megan Thee Stallion (3.33%)
+	3: ROLE MODEL (3.33%)
+	4: Marracash (3.33%)
+	5: Chance the Rapper (3.33%)
+Top country
+	1: US (68.00%)
+	2: IT (24.00%)
+	3: QM (4.00%)
+	4: SE (4.00%)
+Top record
+	1: UM7 (32.00%)
+	2: SM1 (32.00%)
+	3: UG1 (8.00%)
+	4: RC1 (8.00%)
+	5: B00 (4.00%)
+Top year
+	1: 21 (28.00%)
+	2: 20 (24.00%)
+	3: 22 (24.00%)
+	4: 19 (8.00%)
+	5: 17 (4.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   25.000000     25.000000     25.000000         25.000000    25.000000   25.000000  25.000000  25.000000
+mean    75.280000      0.220980      0.684080          0.011883     0.082204  116.878360   0.553088   0.698680
+std     10.426409      0.185183      0.088715          0.037964     0.090688   27.220939   0.238514   0.118112
+min     57.000000      0.003140      0.520000          0.000000     0.027000   77.486000   0.070200   0.457000
+25%     66.000000      0.108000      0.645000          0.000000     0.036300   95.997000   0.342000   0.641000
+50%     76.000000      0.149000      0.696000          0.000000     0.049100  113.971000   0.570000   0.698000
+75%     86.000000      0.342000      0.733000          0.000297     0.080300  128.986000   0.721000   0.790000
+max     89.000000      0.669000      0.856000          0.143000     0.365000  182.928000   0.956000   0.921000

@@ -1,19 +1,19 @@
-Electronic artists found: The Chainsmokers, David Guetta,Ella Henderson,A7S,Becky Hill, Martin Garrix,DubVision,Jordan Grace
-Electronic genres found: edm, electro house, tropical house, progressive house, dutch edm
+Electronic artists found: Martin Garrix,DubVision,Jordan Grace, The Chainsmokers, David Guetta,Ella Henderson,A7S,Becky Hill
+Electronic genres found: dutch edm, tropical house, edm, progressive house
 Electronic music logs found: 18.75% 
 
 Top genres
-	1: pop (6.90%)
-	2: dark trap (6.90%)
-	3: dance pop (5.17%)
-	4: edm (5.17%)
-	5: pop dance (5.17%)
+	1: pop (7.14%)
+	2: dark trap (7.14%)
+	3: dance pop (5.36%)
+	4: edm (5.36%)
+	5: pop dance (5.36%)
 Top artists
-	1: Bad Bunny (4.35%)
-	2: The Chainsmokers (4.35%)
+	1: A7S (4.35%)
+	2: Bad Bunny (4.35%)
 	3: Shawn Mendes (4.35%)
-	4: Jez Dior (4.35%)
-	5: CRIM (4.35%)
+	4: Pale Waves (4.35%)
+	5: Martin Garrix (4.35%)
 Top country
 	1: US (37.50%)
 	2: QZ (25.00%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
-mean    54.312500      0.080567      0.610250          0.046789     0.087088  127.569000   0.438625   0.689312
-std     12.359713      0.111267      0.151272          0.160760     0.074752   23.544939   0.239254   0.167630
-min     39.000000      0.000004      0.364000          0.000000     0.028500   90.990000   0.122000   0.429000
+mean    53.125000      0.080567      0.610250          0.046789     0.087088  127.569000   0.438625   0.689312
+std     12.748202      0.111267      0.151272          0.160760     0.074752   23.544939   0.239254   0.167630
+min     37.000000      0.000004      0.364000          0.000000     0.028500   90.990000   0.122000   0.429000
 25%     45.750000      0.013895      0.511750          0.000000     0.031400  112.509500   0.212500   0.554000
-50%     53.500000      0.033250      0.594500          0.000003     0.051350  123.039000   0.440000   0.723500
-75%     60.000000      0.125500      0.721750          0.001083     0.116250  143.223000   0.635750   0.831500
-max     85.000000      0.431000      0.849000          0.644000     0.239000  170.059000   0.810000   0.940000
+50%     51.000000      0.033250      0.594500          0.000003     0.051350  123.039000   0.440000   0.723500
+75%     58.250000      0.125500      0.721750          0.001083     0.116250  143.223000   0.635750   0.831500
+max     84.000000      0.431000      0.849000          0.644000     0.239000  170.059000   0.810000   0.940000

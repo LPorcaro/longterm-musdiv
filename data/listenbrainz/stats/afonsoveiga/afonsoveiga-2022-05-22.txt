@@ -1,19 +1,19 @@
-Electronic artists found: The Avalanches, Mac DeMarco, Avicii, STRFKR, Grizzly Bear, Matt Simons,Deepend
-Electronic genres found: chillwave, electronica, tropical house, edmonton indie, edm
+Electronic artists found: Mac DeMarco, Grizzly Bear, STRFKR, Avicii, Matt Simons,Deepend, The Avalanches
+Electronic genres found: chillwave, edmonton indie, electronica, tropical house, edm
 Electronic music logs found: 9.68% 
 
 Top genres
-	1: rap (9.05%)
-	2: pop (8.04%)
-	3: hip hop (7.04%)
-	4: rock (3.52%)
-	5: modern rock (3.02%)
+	1: rap (8.96%)
+	2: pop (7.96%)
+	3: hip hop (7.46%)
+	4: rock (3.48%)
+	5: modern rock (2.99%)
 Top artists
-	1: Dominic Fike (1.69%)
-	2: Jaden (1.69%)
-	3: Lucy Rose (1.69%)
-	4: The Alchemist (1.69%)
-	5: Brent Faiyaz (1.69%)
+	1: Daniel Caesar (1.69%)
+	2: ProfJam (1.69%)
+	3: Grizzly Bear (1.69%)
+	4: Foo Fighters (1.69%)
+	5: Freddie Gibbs (1.69%)
 Top country
 	1: US (48.39%)
 	2: GB (11.29%)
@@ -36,9 +36,9 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   62.000000     62.000000     62.000000         62.000000     62.00000   62.000000  62.000000  62.000000
-mean    58.645161      0.328505      0.631823          0.071719      0.12770  111.982242   0.467677   0.624145
-std     13.979020      0.289908      0.143721          0.184366      0.13550   26.357703   0.223605   0.195094
-min     18.000000      0.000769      0.270000          0.000000      0.02710   56.046000   0.044500   0.149000
+mean    58.612903      0.328505      0.631823          0.071719      0.12770  111.982242   0.467677   0.624145
+std     14.008610      0.289908      0.143721          0.184366      0.13550   26.357703   0.223605   0.195094
+min     17.000000      0.000769      0.270000          0.000000      0.02710   56.046000   0.044500   0.149000
 25%     50.250000      0.055425      0.558250          0.000000      0.03890   90.471750   0.343000   0.489750
 50%     61.000000      0.253000      0.651000          0.000136      0.05345  112.439000   0.465000   0.647000
 75%     69.000000      0.580750      0.727250          0.007280      0.17675  130.196500   0.634750   0.771250

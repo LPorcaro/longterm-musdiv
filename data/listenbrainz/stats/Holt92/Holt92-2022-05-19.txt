@@ -1,19 +1,19 @@
-Electronic artists found: Sam Feldt,Kimberly Anne,EDX, Nora Van Elken, Voost,Juliette Claire, Adon,Nicolas Haelg,Sam Halabi, Viva La Panda,Friends & I, Mick Gordon, Viva La Panda,Rebecca & Fiona, Irene
-Electronic genres found: electronic djent, pop edm, deep tropical house, electro house, tropical house, dutch edm, super eurobeat, deep house, edm
+Electronic artists found: Viva La Panda,Rebecca & Fiona, Mick Gordon, Sam Feldt,Kimberly Anne,EDX, Viva La Panda,Friends & I, Voost,Juliette Claire, Nora Van Elken, Irene, Adon,Nicolas Haelg,Sam Halabi
+Electronic genres found: pop edm, deep house, dutch edm, deep tropical house, electro house, super eurobeat, electronic djent, tropical house, edm
 Electronic music logs found: 8.33% 
 
 Top genres
-	1: pop punk (4.98%)
-	2: rock (4.48%)
-	3: nu metal (3.98%)
-	4: metalcore (3.48%)
-	5: punk (2.99%)
+	1: pop punk (5.00%)
+	2: rock (4.50%)
+	3: nu metal (4.00%)
+	4: metalcore (3.50%)
+	5: punk (3.00%)
 Top artists
-	1: Helmet (1.43%)
-	2: Nicolas Haelg (1.43%)
-	3: Nora Van Elken (1.43%)
-	4: RÜFÜS DU SOL (1.43%)
-	5: Sam Feldt (1.43%)
+	1: The Bronx (1.43%)
+	2: Fall Out Boy (1.43%)
+	3: Strung Out (1.43%)
+	4: Army Of Me (1.43%)
+	5: Adon (1.43%)
 Top country
 	1: US (34.38%)
 	2: QZ (26.04%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   96.000000     96.000000     96.000000         96.000000    96.000000   96.000000  96.000000  96.000000
-mean    41.125000      0.033589      0.507052          0.241373     0.082586  122.275208   0.420359   0.811594
-std     15.202666      0.067385      0.159386          0.320460     0.047760   36.918217   0.200054   0.151107
+mean    41.031250      0.033589      0.507052          0.241373     0.082586  122.275208   0.420359   0.811594
+std     15.170229      0.067385      0.159386          0.320460     0.047760   36.918217   0.200054   0.151107
 min      7.000000      0.000001      0.134000          0.000000     0.028700   74.976000   0.036200   0.472000
 25%     30.000000      0.000095      0.381000          0.000013     0.040625   93.841750   0.285000   0.708000
 50%     41.000000      0.001880      0.508500          0.002535     0.073800  117.416000   0.418000   0.873000

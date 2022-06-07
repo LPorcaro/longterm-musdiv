@@ -1,19 +1,19 @@
-Electronic artists found: Nora Van Elken, Kris Kross Amsterdam,The Boy Next Door,Conor Maynard, Da Tweekaz,Marion Kelly, Hayden James, Voost,Alix Robson, Koni,SVRCINA, WATEVA, Riton,Oliver Heldens,Vula, Luxe Agoris,Nicholas Roberts, Cartoon,Jason Diaz, Madism,Felix Samuel,Tom Ferry, Tom Ferry,Clear Six,Hayley May, Revelries,Rob Tirea,Kayrae, Nicky Romero,Taio Cruz, Sons Of Maria,Agatha Saron, Mahmut Orhan,Irina Rimes, Virtual Riot, Redondo, Marshmello,Bastille,Frank Walker, DJ Snake,ZHU
-Electronic genres found: pop edm, deep tropical house, deep tech house, brostep, rawstyle, turkish deep house, estonian electronic, future bass, slap house, disco house, electro house, tropical house, progressive electro house, electronic trap, dutch house, melodic dubstep, deep house, progressive house, complextro, euphoric hardstyle, gaming edm, turkish edm, gaming dubstep, dutch edm, classic hardstyle, dubstep, edm
+Electronic artists found: Madism,Felix Samuel,Tom Ferry, Da Tweekaz,Marion Kelly, Revelries,Rob Tirea,Kayrae, Virtual Riot, Kris Kross Amsterdam,The Boy Next Door,Conor Maynard, Hayden James, Redondo, Tom Ferry,Clear Six,Hayley May, Cartoon,Jason Diaz, Riton,Oliver Heldens,Vula, Sons Of Maria,Agatha Saron, DJ Snake,ZHU, Voost,Alix Robson, Mahmut Orhan,Irina Rimes, Marshmello,Bastille,Frank Walker, Nora Van Elken, Koni,SVRCINA, WATEVA, Nicky Romero,Taio Cruz, Luxe Agoris,Nicholas Roberts
+Electronic genres found: slap house, rawstyle, estonian electronic, complextro, disco house, progressive electro house, dutch edm, gaming dubstep, melodic dubstep, tropical house, edm, turkish edm, dutch house, turkish deep house, future bass, progressive house, euphoric hardstyle, deep tropical house, brostep, pop edm, deep house, deep tech house, electronic trap, electro house, dubstep, gaming edm, classic hardstyle
 Electronic music logs found: 35.00% 
 
 Top genres
-	1: edm (8.48%)
-	2: electro house (6.06%)
-	3: brostep (5.45%)
-	4: tropical house (5.45%)
-	5: complextro (4.85%)
+	1: edm (8.54%)
+	2: electro house (6.10%)
+	3: brostep (5.49%)
+	4: tropical house (5.49%)
+	5: complextro (4.88%)
 Top artists
-	1: Jason Diaz (1.85%)
-	2: Stephen (1.85%)
-	3: Nora Van Elken (1.85%)
-	4: Madism (1.85%)
-	5: Leshii (1.85%)
+	1: Nicky Romero (1.85%)
+	2: Taio Cruz (1.85%)
+	3: Bastille (1.85%)
+	4: Cartoon (1.85%)
+	5: Koni (1.85%)
 Top country
 	1: QZ (35.00%)
 	2: QM (13.75%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   80.000000     80.000000     80.000000         80.000000    80.000000   80.000000  80.000000  80.000000
-mean    38.137500      0.145863      0.585850          0.388388     0.076552  129.458137   0.280941   0.723312
-std     14.060217      0.177586      0.150431          0.400670     0.072132   23.670667   0.212930   0.134382
+mean    38.000000      0.145863      0.585850          0.388388     0.076552  129.458137   0.280941   0.723312
+std     14.030708      0.177586      0.150431          0.400670     0.072132   23.670667   0.212930   0.134382
 min     11.000000      0.000017      0.232000          0.000000     0.029000   67.466000   0.037900   0.389000
 25%     26.000000      0.017575      0.459000          0.000189     0.039600  120.766000   0.098900   0.642000
 50%     37.000000      0.058250      0.594000          0.308500     0.055300  132.012000   0.202000   0.721000
-75%     46.250000      0.250750      0.713750          0.863750     0.080625  140.114000   0.443000   0.816000
+75%     46.000000      0.250750      0.713750          0.863750     0.080625  140.114000   0.443000   0.816000
 max     75.000000      0.763000      0.905000          0.964000     0.455000  173.999000   0.774000   0.966000

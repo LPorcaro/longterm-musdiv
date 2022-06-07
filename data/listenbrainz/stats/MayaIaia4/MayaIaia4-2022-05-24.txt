@@ -1,19 +1,19 @@
 Electronic artists found: Brian Eno
-Electronic genres found: electronica, compositional ambient, experimental ambient, ambient
+Electronic genres found: ambient, compositional ambient, experimental ambient, electronica
 Electronic music logs found: 2.38% 
 
 Top genres
-	1: background jazz (10.42%)
-	2: italian hip hop (6.25%)
-	3: italian indie pop (5.21%)
-	4: italian pop (5.21%)
-	5: classic italian pop (5.21%)
+	1: background jazz (10.31%)
+	2: italian hip hop (6.19%)
+	3: italian indie pop (5.15%)
+	4: italian pop (5.15%)
+	5: classic italian pop (5.15%)
 Top artists
-	1: Frah Quintale (2.70%)
-	2: Angèle (2.70%)
-	3: Francesco Guccini (2.70%)
+	1: James Jackson Jazz Trio (2.70%)
+	2: GnuQuartet (2.70%)
+	3: Martin Landström (2.70%)
 	4: Samuele Bersani (2.70%)
-	5: Verdena (2.70%)
+	5: Maler (2.70%)
 Top country
 	1: IT (40.48%)
 	2: SE (23.81%)
@@ -37,7 +37,7 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   42.000000     42.000000     42.000000         42.000000    42.000000   42.000000  42.000000  42.000000
 mean    52.642857      0.491783      0.604667          0.226245     0.062650  111.395357   0.409110   0.442955
-std     14.556570      0.361317      0.137399          0.351672     0.067997   26.457801   0.263386   0.263017
+std     14.621770      0.361317      0.137399          0.351672     0.067997   26.457801   0.263386   0.263017
 min      7.000000      0.017800      0.311000          0.000000     0.026100   62.343000   0.068500   0.015500
 25%     48.000000      0.134750      0.503500          0.000000     0.034575   91.175750   0.179500   0.199750
 50%     55.500000      0.400500      0.592500          0.000068     0.040350  110.005000   0.388500   0.502500

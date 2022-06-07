@@ -1,0 +1,45 @@
+Electronic artists found: Dimitri Vegas & Like Mike,Martin Garrix,Like Mike, Swedish House Mafia,Pharrell Williams
+Electronic genres found: progressive electro house, electro house, belgian edm, tropical house, edm
+Electronic music logs found: 9.52% 
+
+Top genres
+	1: dance pop (9.59%)
+	2: hip hop tuga (8.22%)
+	3: pop (8.22%)
+	4: rap (6.85%)
+	5: pop rap (6.85%)
+Top artists
+	1: Dillaz (2.50%)
+	2: ProfJam (2.50%)
+	3: will.i.am (2.50%)
+	4: Rihanna (2.50%)
+	5: Asaf Avidan (2.50%)
+Top country
+	1: US (47.62%)
+	2: PT (23.81%)
+	3: QM (4.76%)
+	4: GB (4.76%)
+	5: NL (4.76%)
+Top record
+	1: UM7 (23.81%)
+	2: 6HL (4.76%)
+	3: SM1 (4.76%)
+	4: JAY (4.76%)
+	5: 2HA (4.76%)
+Top year
+	1: 19 (14.29%)
+	2: 06 (9.52%)
+	3: 07 (9.52%)
+	4: 16 (9.52%)
+	5: 10 (9.52%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   21.000000     21.000000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
+mean    60.714286      0.248684      0.754048          0.033058     0.171481  129.617667   0.495190   0.635619
+std     14.394940      0.200055      0.091762          0.149841     0.143125   23.226248   0.199357   0.170214
+min     38.000000      0.000362      0.607000          0.000000     0.026500   86.844000   0.129000   0.332000
+25%     45.000000      0.074300      0.671000          0.000000     0.061400  119.966000   0.368000   0.489000
+50%     65.000000      0.264000      0.743000          0.000008     0.127000  125.061000   0.534000   0.668000
+75%     71.000000      0.344000      0.835000          0.000218     0.283000  130.470000   0.610000   0.699000
+max     80.000000      0.763000      0.906000          0.687000     0.499000  180.165000   0.831000   0.939000

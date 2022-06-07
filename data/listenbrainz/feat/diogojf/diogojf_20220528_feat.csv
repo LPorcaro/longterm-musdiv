@@ -1,0 +1,5 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0xl5SmrxNAmwc92Ihv9e5s	Arizona Zervas,John Wolf	Zone	USSM12000909	47	pop rap,rhode island rap	0.25	0.722	6.39e-05	0.0397	139.983	0.531	0.551
+3TXYRNSjz8txG5rL5H9RWO	Arizona Zervas	Swerve	QZ4JJ1735038	48	pop rap,rhode island rap	0.157	0.918	1.12e-05	0.0935	128.006	0.842	0.834
+7piU1yHaKMD9PaOPvEymOr	Arizona Zervas,27CLUB	Drinking Problem (feat. 27CLUB)	USSM11914458	58	pop rap,rhode island rap	0.428	0.514	8.77e-06	0.334	76.393	0.487	0.712
+611S5ABF6Xk3JIZ8aMS5KH	Arizona Zervas,Woody Pond	Bad Luck	USSM12002285	34	pop rap,rhode island rap	0.572	0.764	0.0	0.129	82.924	0.544	0.543

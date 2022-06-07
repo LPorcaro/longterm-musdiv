@@ -1,5 +1,5 @@
-Electronic artists found: Uplink,Danny Lunt,Syon, Rich Edwards,Cozi Zuehlsdorff, Tom Budin,DLMT, Dannic, Kenn Colt,Luciana,Andros, Merk & Kremont, ellis,MALARKEY,Tom Westy, Deepend,Joe Killington,Stadiumx, Stadiumx,Metrush,BISHØP, Martin Garrix,Mike Yung,Brooks, Regard,Troye Sivan,Tate McRae, Virtual Riot,PRXZM, Jay Pryor, Showtek,MOTi,Starley,Wyclef Jean,Zonderling, Thomas Gold
-Electronic genres found: pop edm, deep tropical house, brostep, german techno, future bass, funky tech house, slap house, electro house, tropical house, progressive electro house, belgian edm, deep house, melodic dubstep, progressive house, euphoric hardstyle, complextro, gaming edm, gaming dubstep, dutch edm, classic hardstyle, dubstep, edm
+Electronic artists found: Dannic, Uplink,Danny Lunt,Syon, ellis,MALARKEY,Tom Westy, Tom Budin,DLMT, Showtek,MOTi,Starley,Wyclef Jean,Zonderling, Martin Garrix,Mike Yung,Brooks, Rich Edwards,Cozi Zuehlsdorff, Regard,Troye Sivan,Tate McRae, Deepend,Joe Killington,Stadiumx, Virtual Riot,PRXZM, Thomas Gold, Kenn Colt,Luciana,Andros, Jay Pryor, Merk & Kremont, Stadiumx,Metrush,BISHØP
+Electronic genres found: slap house, german techno, complextro, funky tech house, belgian edm, progressive electro house, dutch edm, gaming dubstep, melodic dubstep, tropical house, edm, progressive house, future bass, euphoric hardstyle, deep tropical house, brostep, pop edm, deep house, electro house, dubstep, gaming edm, classic hardstyle
 Electronic music logs found: 34.09% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: pop edm (10.13%)
 	5: progressive electro house (5.06%)
 Top artists
-	1: Tom Budin (2.08%)
-	2: Regard (2.08%)
-	3: PRXZM (2.08%)
-	4: Merk & Kremont (2.08%)
-	5: Calippo (2.08%)
+	1: Luciana (2.08%)
+	2: Andros (2.08%)
+	3: BISHØP (2.08%)
+	4: Regard (2.08%)
+	5: Martin Garrix (2.08%)
 Top country
 	1: QZ (38.64%)
 	2: GB (29.55%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   44.000000     44.000000     44.000000         44.000000    44.000000   44.000000  44.000000  44.000000
-mean    24.659091      0.060268      0.633682          0.163641     0.080034  137.302636   0.356709   0.858886
-std     11.988256      0.102832      0.096680          0.167141     0.038672   22.151030   0.183528   0.126032
+mean    24.613636      0.060268      0.633682          0.163641     0.080034  137.302636   0.356709   0.858886
+std     11.889444      0.102832      0.096680          0.167141     0.038672   22.151030   0.183528   0.126032
 min     11.000000      0.004050      0.510000          0.000000     0.033000  101.999000   0.088200   0.554000
 25%     19.000000      0.004480      0.535000          0.000045     0.042600  124.005750   0.239000   0.744000
 50%     19.000000      0.011275      0.636500          0.168800     0.068550  126.035000   0.279000   0.890000

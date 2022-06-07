@@ -1,19 +1,19 @@
-Electronic artists found: Bolier,NBLM, Sam Feldt,Kimberly Anne,EDX, James Carter,nourii,SRTW,Ella Claire, Nora Van Elken, Anton Powers,Joe Stone, Steam Phunk,Idun Nicoline, Sub Focus, Nora Van Elken,Clara Mae, Cartoon,Asena, JYYE,Kelly Boek, The Prodigy, MEDUZA,Becky Hill,Goodboys, Enkode,STRR,Lunna, Matt Nash, Riton,Oliver Heldens,Vula, Pendulum,Celldweller
-Electronic genres found: gaming edm, brazilian edm, deep tropical house, pop edm, electro house, tropical house, progressive electro house, drum and bass, breakbeat, hardcore techno, deep house, edm, big beat
+Electronic artists found: Anton Powers,Joe Stone, James Carter,nourii,SRTW,Ella Claire, Riton,Oliver Heldens,Vula, Enkode,STRR,Lunna, Matt Nash, JYYE,Kelly Boek, Pendulum,Celldweller, Sam Feldt,Kimberly Anne,EDX, The Prodigy, Cartoon,Asena, MEDUZA,Becky Hill,Goodboys, Steam Phunk,Idun Nicoline, Nora Van Elken, Sub Focus, Nora Van Elken,Clara Mae, Bolier,NBLM
+Electronic genres found: pop edm, progressive electro house, brazilian edm, deep house, big beat, progressive house, electro house, deep tropical house, hardcore techno, gaming edm, drum and bass, tropical house, edm, breakbeat
 Electronic music logs found: 23.08% 
 
 Top genres
-	1: hardcore hip hop (7.22%)
-	2: gangster rap (4.94%)
-	3: hip hop (4.94%)
-	4: pop rap (4.94%)
-	5: r&b (4.94%)
+	1: hip hop (9.45%)
+	2: hardcore hip hop (6.91%)
+	3: gangster rap (4.73%)
+	4: pop rap (4.73%)
+	5: r&b (4.73%)
 Top artists
-	1: Liffy Stokes (1.52%)
-	2: Ekstrak (1.52%)
-	3: Nora Van Elken (1.52%)
-	4: Ella Claire (1.52%)
-	5: Sub Focus (1.52%)
+	1: JYYE (1.52%)
+	2: Parx (1.52%)
+	3: Pendulum (1.52%)
+	4: TwoWorldsApart (1.52%)
+	5: Drics (1.52%)
 Top country
 	1: US (34.62%)
 	2: GB (17.95%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   78.000000     78.000000     78.000000         78.000000    78.000000   78.000000  78.000000  78.000000
-mean    33.858974      0.070229      0.662987          0.083708     0.117426  113.837936   0.419906   0.744692
-std     10.477836      0.129435      0.117700          0.206810     0.093277   21.392306   0.133389   0.132209
+mean    33.641026      0.070229      0.662987          0.083708     0.117426  113.837936   0.419906   0.744692
+std     10.434675      0.129435      0.117700          0.206810     0.093277   21.392306   0.133389   0.132209
 min     15.000000      0.000021      0.332000          0.000000     0.032000   72.533000   0.036300   0.370000
-25%     27.000000      0.015100      0.548000          0.000005     0.043500   94.350000   0.360000   0.682000
-50%     34.000000      0.028100      0.673500          0.000012     0.068550  119.977000   0.418000   0.763000
+25%     26.000000      0.015100      0.548000          0.000005     0.043500   94.350000   0.360000   0.682000
+50%     33.500000      0.028100      0.673500          0.000012     0.068550  119.977000   0.418000   0.763000
 75%     36.000000      0.073100      0.759000          0.001500     0.181250  124.049000   0.526000   0.854000
 max     76.000000      0.824000      0.838000          0.921000     0.292000  173.985000   0.721000   0.952000

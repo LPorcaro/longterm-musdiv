@@ -1,0 +1,45 @@
+Electronic artists found: Guru Josh Project,Klaas, Moby,Debbie Harry, DANNE,ANICIO,VIPP Code, Moby, Röyksopp, Dubdogz,Brannco,Rodrigo Luca, Alok,Zeeba,Bruno Martini, Avicii, Jean-Michel Jarre, Carolina Marquez, Alan Walker, Avicii,Sandro Cavazza
+Electronic genres found: italo dance, vintage french electronic, downtempo, brazilian edm, slap house, big beat, acid house, electro house, brazilian bass, trip hop, electronica, edm
+Electronic music logs found: 85.71% 
+
+Top genres
+	1: downtempo (8.82%)
+	2: electronica (8.82%)
+	3: electro house (5.88%)
+	4: brazilian edm (5.88%)
+	5: dance pop (5.88%)
+Top artists
+	1: Moby (4.35%)
+	2: Zeeba (4.35%)
+	3: Debbie Harry (4.35%)
+	4: Carolina Marquez (4.35%)
+	5: Klaas (4.35%)
+Top country
+	1: GB (28.57%)
+	2: DE (14.29%)
+	3: NO (7.14%)
+	4: TC (7.14%)
+	5: QZ (7.14%)
+Top record
+	1: AJH (14.29%)
+	2: HMU (7.14%)
+	3: G84 (7.14%)
+	4: ADU (7.14%)
+	5: HD6 (7.14%)
+Top year
+	1: 18 (21.43%)
+	2: 04 (14.29%)
+	3: 17 (14.29%)
+	4: 15 (7.14%)
+	5: 06 (7.14%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   14.000000     14.000000     14.000000         14.000000    14.000000   14.000000  14.000000  14.000000
+mean    55.500000      0.053747      0.627071          0.031605     0.042386  128.076571   0.427214   0.817429
+std     18.620708      0.098482      0.103090          0.075069     0.011157   16.673018   0.214758   0.088054
+min     25.000000      0.000140      0.468000          0.000000     0.030900  103.023000   0.149000   0.627000
+25%     44.750000      0.004348      0.549000          0.000048     0.032200  123.224000   0.283750   0.775500
+50%     52.000000      0.028100      0.618000          0.000280     0.040400  124.519000   0.464000   0.811500
+75%     75.000000      0.055350      0.677000          0.007640     0.050300  129.508500   0.515250   0.861000
+max     83.000000      0.383000      0.795000          0.274000     0.059800  179.642000   0.934000   0.974000

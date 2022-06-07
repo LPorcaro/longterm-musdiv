@@ -1,0 +1,45 @@
+Electronic artists found: Jesper Ryom, Kollektiv Turmstrasse,DAVID AUGUST, Fouk, Bicep
+Electronic genres found: hamburg electronic, ambient house, german techno, deep house, organic electronic, disco house, tech house, minimal techno, electronica, microhouse
+Electronic music logs found: 18.92% 
+
+Top genres
+	1: pop (39.44%)
+	2: dance pop (15.49%)
+	3: deep house (7.04%)
+	4: electronica (7.04%)
+	5: indie soul (4.23%)
+Top artists
+	1: Kenton Slash Demon (5.00%)
+	2: Bicep (5.00%)
+	3: Olivia Rodrigo (5.00%)
+	4: Zendaya (5.00%)
+	5: The Kid LAROI (5.00%)
+Top country
+	1: US (72.97%)
+	2: SE (8.11%)
+	3: GB (8.11%)
+	4: DE (2.70%)
+	5: QM (2.70%)
+Top record
+	1: UG1 (24.32%)
+	2: RC1 (18.92%)
+	3: UM7 (13.51%)
+	4: SM1 (10.81%)
+	5: 2EY (8.11%)
+Top year
+	1: 21 (32.43%)
+	2: 14 (16.22%)
+	3: 20 (16.22%)
+	4: 19 (16.22%)
+	5: 15 (5.41%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   37.000000     37.000000     37.000000         37.000000    37.000000   37.000000  37.000000  37.000000
+mean    69.729730      0.236626      0.655568          0.153551     0.069270  127.002054   0.401111   0.583649
+std     17.516102      0.268950      0.139685          0.330464     0.046552   24.075760   0.194582   0.155823
+min     31.000000      0.000806      0.369000          0.000000     0.028400   77.014000   0.059200   0.240000
+25%     62.000000      0.016400      0.562000          0.000000     0.037300  110.970000   0.240000   0.486000
+50%     75.000000      0.198000      0.674000          0.000001     0.055700  124.038000   0.398000   0.609000
+75%     83.000000      0.335000      0.764000          0.005600     0.084200  140.013000   0.519000   0.722000
+max    100.000000      0.920000      0.907000          0.948000     0.259000  173.930000   0.781000   0.802000

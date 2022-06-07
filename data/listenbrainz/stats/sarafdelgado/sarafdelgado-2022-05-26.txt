@@ -1,0 +1,34 @@
+Electronic artists found: Steve Aoki,Autoerotique
+Electronic genres found: electro house, tropical house, edm
+Electronic music logs found: 50.00% 
+
+Top genres
+	1: dance pop (14.29%)
+	2: edm (14.29%)
+	3: electro house (14.29%)
+	4: pop dance (14.29%)
+	5: pop rap (14.29%)
+Top artists
+	1: Apashe (33.33%)
+	2: Steve Aoki (33.33%)
+	3: Autoerotique (33.33%)
+Top country
+	1: US (50.00%)
+	2: CA (50.00%)
+Top record
+	1: DM3 (50.00%)
+	2: 5KR (50.00%)
+Top year
+	1: 16 (50.00%)
+	2: 20 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count     2.00000      2.000000      2.000000          2.000000     2.000000    2.000000  2.000000  2.000000
+mean     48.50000      0.053450      0.632500          0.490500     0.139800  138.025000  0.336500  0.856500
+std       2.12132      0.007425      0.026163          0.475883     0.151604   17.008747  0.057276  0.038891
+min      47.00000      0.048200      0.614000          0.154000     0.032600  125.998000  0.296000  0.829000
+25%      47.75000      0.050825      0.623250          0.322250     0.086200  132.011500  0.316250  0.842750
+50%      48.50000      0.053450      0.632500          0.490500     0.139800  138.025000  0.336500  0.856500
+75%      49.25000      0.056075      0.641750          0.658750     0.193400  144.038500  0.356750  0.870250
+max      50.00000      0.058700      0.651000          0.827000     0.247000  150.052000  0.377000  0.884000

@@ -1,0 +1,45 @@
+Electronic artists found: Sam Fischer, Alok,John Legend
+Electronic genres found: electro house, tropical house, slap house
+Electronic music logs found: 10.00% 
+
+Top genres
+	1: uk contemporary r&b (16.00%)
+	2: pop (14.00%)
+	3: pop soul (14.00%)
+	4: indie soul (8.00%)
+	5: uk pop (8.00%)
+Top artists
+	1: John Legend (6.25%)
+	2: Apostol (6.25%)
+	3: Sam Fischer (6.25%)
+	4: Aeris Roves (6.25%)
+	5: Gary Clark Jr. (6.25%)
+Top country
+	1: GB (60.00%)
+	2: US (20.00%)
+	3: FR (5.00%)
+	4: TC (5.00%)
+	5: UK (5.00%)
+Top record
+	1: UM7 (25.00%)
+	2: SM1 (15.00%)
+	3: 23W (15.00%)
+	4: X87 (5.00%)
+	5: AYE (5.00%)
+Top year
+	1: 19 (40.00%)
+	2: 20 (30.00%)
+	3: 21 (15.00%)
+	4: 18 (10.00%)
+	5: 00 (5.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
+count   20.000000     20.000000     20.000000         20.000000    20.000000   20.000000  20.00000  20.000000
+mean    49.100000      0.476465      0.611750          0.014758     0.060735  113.788950   0.43625   0.479450
+std     10.067666      0.298291      0.111702          0.046195     0.047114   36.667433   0.14348   0.214454
+min     36.000000      0.036000      0.359000          0.000000     0.029000   63.392000   0.17700   0.163000
+25%     40.500000      0.242250      0.553250          0.000000     0.038950   81.511250   0.35325   0.324000
+50%     48.000000      0.338000      0.625500          0.000001     0.042250  108.476500   0.40450   0.474500
+75%     54.500000      0.718250      0.693000          0.000038     0.055575  131.294250   0.55175   0.601250
+max     68.000000      0.929000      0.803000          0.176000     0.225000  191.817000   0.67600   0.843000

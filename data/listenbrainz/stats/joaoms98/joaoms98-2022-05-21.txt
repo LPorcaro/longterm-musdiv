@@ -1,5 +1,5 @@
-Electronic artists found: Bakermat, Portico Quartet, Mac DeMarco
-Electronic genres found: electronica, tropical house, edmonton indie, new tribe, minimal tech house
+Electronic artists found: Portico Quartet, Bakermat, Mac DeMarco
+Electronic genres found: new tribe, deep tropical house, minimal tech house, edmonton indie, electronica, tropical house
 Electronic music logs found: 5.88% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: portuguese pop (13.21%)
 	5: jazz catala (1.89%)
 Top artists
-	1: Baptiste Herbin (4.00%)
+	1: Eduardo Farias (4.00%)
 	2: Rita Payés (4.00%)
-	3: The klezmer festival band (4.00%)
-	4: Bakermat (4.00%)
-	5: Kiko Veneno (4.00%)
+	3: Baptiste Herbin (4.00%)
+	4: Odette Peters (4.00%)
+	5: Mac Miller (4.00%)
 Top country
 	1: US (45.10%)
 	2: PT (29.41%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.000000  51.000000
-mean    39.549020      0.564310      0.665510          0.112373     0.098657  115.072745   0.431553   0.412945
-std     14.937622      0.316849      0.127715          0.229007     0.098125   31.744682   0.201936   0.175710
+mean    39.333333      0.564310      0.665510          0.112373     0.098657  115.072745   0.431553   0.412945
+std     15.024868      0.316849      0.127715          0.229007     0.098125   31.744682   0.201936   0.175710
 min      1.000000      0.000754      0.326000          0.000000     0.026100   68.985000   0.054600   0.031600
 25%     25.000000      0.375500      0.585500          0.000875     0.042350   89.891500   0.313000   0.301000
 50%     47.000000      0.662000      0.677000          0.018900     0.052000  107.596000   0.386000   0.403000

@@ -1,18 +1,18 @@
-Electronic artists found: Vitor Kley, Flume,Chet Faker, The Cinematic Orchestra,Patrick Watson
+Electronic artists found: Vitor Kley, The Cinematic Orchestra,Patrick Watson, Flume,Chet Faker
 Electronic genres found: electronica, downtempo, brazilian edm, edm
 Electronic music logs found: 5.43% 
 
 Top genres
-	1: pop (17.21%)
-	2: alt z (11.89%)
-	3: electropop (9.02%)
-	4: la indie (6.97%)
-	5: hollywood (2.87%)
+	1: pop (17.14%)
+	2: alt z (11.84%)
+	3: electropop (8.98%)
+	4: la indie (6.94%)
+	5: hollywood (2.86%)
 Top artists
-	1: Alec Benjamin (1.37%)
-	2: Brent Morgan (1.37%)
-	3: Grayson Villanueva (1.37%)
-	4: Mindchatter (1.37%)
+	1: Nico & Vinz (1.37%)
+	2: Vanessa Hudgens (1.37%)
+	3: The Script (1.37%)
+	4: Finneas O'Connell (1.37%)
 	5: BoyWithUke (1.37%)
 Top country
 	1: US (41.30%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   92.000000     92.000000     92.000000         92.000000    92.000000   92.000000  92.000000  92.000000
-mean    57.608696      0.535041      0.567467          0.065146     0.096798  118.986587   0.387660   0.454246
-std     19.162668      0.329530      0.160579          0.208238     0.138648   30.475270   0.229196   0.236126
+mean    57.695652      0.535041      0.567467          0.065146     0.096798  118.986587   0.387660   0.454246
+std     19.220376      0.329530      0.160579          0.208238     0.138648   30.475270   0.229196   0.236126
 min      6.000000      0.000545      0.176000          0.000000     0.028500   53.863000   0.061400   0.000937
 25%     49.750000      0.217000      0.455250          0.000000     0.035725   93.827750   0.211750   0.255000
 50%     59.500000      0.591000      0.564000          0.000003     0.051450  116.053000   0.342000   0.497000

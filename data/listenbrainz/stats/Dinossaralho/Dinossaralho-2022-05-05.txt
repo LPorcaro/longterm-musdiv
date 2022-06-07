@@ -1,0 +1,43 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: portuguese rock (26.21%)
+	2: portuguese indie (24.83%)
+	3: portuguese indie rock (15.17%)
+	4: musica portuguesa contemporanea (5.52%)
+	5: fado (3.45%)
+Top artists
+	1: Rita Redshoes (3.23%)
+	2: George Harrison (3.23%)
+	3: Benjamim (3.23%)
+	4: Miguel Guedes (3.23%)
+	5: PZ (3.23%)
+Top country
+	1: PT (92.00%)
+	2: GB (6.00%)
+	3: US (2.00%)
+Top record
+	1: BM1 (48.00%)
+	2: KQ1 (16.00%)
+	3: UM1 (6.00%)
+	4: SM1 (6.00%)
+	5: RO1 (4.00%)
+Top year
+	1: 21 (46.00%)
+	2: 20 (8.00%)
+	3: 14 (8.00%)
+	4: 12 (6.00%)
+	5: 19 (6.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   50.000000     50.000000     50.000000         50.000000    50.000000   50.000000  50.000000  50.000000
+mean    25.000000      0.257871      0.476660          0.187323     0.047540  118.232240   0.538260   0.638560
+std     13.190906      0.249675      0.151291          0.318085     0.047999   28.949332   0.213169   0.165103
+min      5.000000      0.000154      0.156000          0.000000     0.025300   76.455000   0.102000   0.250000
+25%     19.000000      0.064300      0.382000          0.000009     0.032200   97.802250   0.385750   0.503750
+50%     22.000000      0.180000      0.497500          0.001358     0.036350  115.444000   0.538000   0.679000
+75%     26.000000      0.393250      0.560750          0.301500     0.045550  133.526500   0.691500   0.749250
+max     73.000000      0.948000      0.836000          0.926000     0.341000  201.140000   0.974000   0.920000

@@ -1,19 +1,19 @@
-Electronic artists found: Dagny, Metronomy, Primal Scream,George Drakoulias,David Bianco, Warpaint, Matt Simons,Deepend
-Electronic genres found: chillwave, tropical house, electronica, big beat
+Electronic artists found: Warpaint, Dagny, Matt Simons,Deepend, Primal Scream,George Drakoulias,David Bianco, Metronomy
+Electronic genres found: electronica, tropical house, big beat, chillwave
 Electronic music logs found: 9.38% 
 
 Top genres
-	1: modern rock (10.54%)
-	2: indie rock (7.14%)
-	3: alternative dance (4.76%)
-	4: rock (4.42%)
-	5: indie pop (4.08%)
+	1: modern rock (10.44%)
+	2: indie rock (7.07%)
+	3: alternative dance (4.71%)
+	4: new rave (4.38%)
+	5: rock (4.38%)
 Top artists
-	1: Dagny (1.52%)
-	2: Dominic Fike (1.52%)
-	3: Circa Waves (1.52%)
-	4: Bombay Bicycle Club (1.52%)
-	5: The Postal Service (1.52%)
+	1: Mansionair (1.52%)
+	2: David Bianco (1.52%)
+	3: Warpaint (1.52%)
+	4: Arlo Parks (1.52%)
+	5: Bastille (1.52%)
 Top country
 	1: GB (48.44%)
 	2: US (28.12%)
@@ -36,10 +36,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   64.000000     64.000000     64.000000         64.000000    64.000000   64.000000  64.000000  64.000000
-mean    57.203125      0.228619      0.590031          0.088262     0.063558  125.732797   0.524300   0.681297
-std     12.698181      0.291328      0.133637          0.200078     0.051514   29.246736   0.227977   0.189858
+mean    57.437500      0.228619      0.590031          0.088262     0.063558  125.732797   0.524300   0.681297
+std     12.692799      0.291328      0.133637          0.200078     0.051514   29.246736   0.227977   0.189858
 min     20.000000      0.000038      0.211000          0.000000     0.025600   75.053000   0.091200   0.193000
-25%     49.750000      0.007647      0.525250          0.000008     0.034300  104.523250   0.397750   0.552250
+25%     50.500000      0.007647      0.525250          0.000008     0.034300  104.523250   0.397750   0.552250
 50%     58.000000      0.055250      0.620500          0.000607     0.041700  123.739500   0.517000   0.696500
 75%     67.000000      0.458250      0.670000          0.074425     0.076175  148.518750   0.697000   0.843750
 max     84.000000      0.953000      0.838000          0.901000     0.301000  180.007000   0.959000   0.974000

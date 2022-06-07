@@ -9,11 +9,11 @@ Top genres
 	4: boy band (4.69%)
 	5: hip hop (4.69%)
 Top artists
-	1: Queens of the Stone Age (3.23%)
-	2: Foo Fighters (3.23%)
-	3: The Killers (3.23%)
-	4: The Wombats (3.23%)
-	5: Paramore (3.23%)
+	1: Cidergirl (3.23%)
+	2: The Last Shadow Puppets (3.23%)
+	3: Fall Out Boy (3.23%)
+	4: The White Stripes (3.23%)
+	5: Foo Fighters (3.23%)
 Top country
 	1: US (47.06%)
 	2: GB (31.37%)
@@ -36,7 +36,7 @@ Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
 count   51.000000     51.000000     51.000000         51.000000    51.000000   51.000000  51.00000  51.000000
 mean    57.823529      0.078879      0.502588          0.022541     0.119625  137.048784   0.57532   0.799627
-std     14.202402      0.195667      0.153186          0.103491     0.106949   32.719139   0.20690   0.155128
+std     14.210849      0.195667      0.153186          0.103491     0.106949   32.719139   0.20690   0.155128
 min     20.000000      0.000029      0.198000          0.000000     0.025700   66.454000   0.07830   0.199000
 25%     49.000000      0.001090      0.384000          0.000000     0.044950  113.254000   0.47350   0.711500
 50%     60.000000      0.006140      0.497000          0.000007     0.077300  144.036000   0.61200   0.839000

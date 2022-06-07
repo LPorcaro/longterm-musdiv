@@ -1,19 +1,19 @@
-Electronic artists found: The Chainsmokers, Madwave,Paipy, Martin Garrix,DubVision,Jordan Grace
-Electronic genres found: edm, electro house, tropical house, uplifting trance, progressive house, dutch edm
+Electronic artists found: Martin Garrix,DubVision,Jordan Grace, Madwave,Paipy, The Chainsmokers
+Electronic genres found: progressive house, dutch edm, uplifting trance, tropical house, edm
 Electronic music logs found: 11.77% 
 
 Top genres
-	1: pop (6.67%)
-	2: dance pop (5.00%)
-	3: rap (3.33%)
-	4: vapor trap (3.33%)
-	5: emo rap (3.33%)
+	1: pop (6.84%)
+	2: dance pop (5.13%)
+	3: rap (3.42%)
+	4: vapor trap (3.42%)
+	5: emo rap (3.42%)
 Top artists
-	1: Sfera Ebbasta (2.56%)
-	2: Mayday Parade (2.56%)
-	3: Paipy (2.56%)
-	4: Ivandro (2.56%)
-	5: Bad Bunny (2.56%)
+	1: Megan Thee Stallion (2.56%)
+	2: Bad Bunny (2.56%)
+	3: Shawn Mendes (2.56%)
+	4: Edward Maya (2.56%)
+	5: Pale Waves (2.56%)
 Top country
 	1: US (38.24%)
 	2: QM (17.65%)
@@ -33,10 +33,10 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   34.000000     34.000000     34.000000         34.000000    34.000000   34.000000  34.000000  34.000000
-mean    54.205882      0.111396      0.624324          0.039206     0.078944  124.587382   0.441018   0.712412
-std     13.418168      0.180824      0.142745          0.152423     0.079415   23.436723   0.227344   0.117316
+mean    53.294118      0.111396      0.624324          0.039206     0.078944  124.587382   0.441018   0.712412
+std     13.599308      0.180824      0.142745          0.152423     0.079415   23.436723   0.227344   0.117316
 min     31.000000      0.000023      0.255000          0.000000     0.028600   82.499000   0.098800   0.457000
-25%     45.000000      0.002600      0.555000          0.000000     0.035250  109.765250   0.268750   0.613000
-50%     54.000000      0.037300      0.598500          0.000007     0.050500  128.447000   0.433500   0.721000
-75%     61.000000      0.120725      0.746750          0.001495     0.069000  139.233750   0.611500   0.789000
+25%     44.000000      0.002600      0.555000          0.000000     0.035250  109.765250   0.268750   0.613000
+50%     51.500000      0.037300      0.598500          0.000007     0.050500  128.447000   0.433500   0.721000
+75%     60.000000      0.120725      0.746750          0.001495     0.069000  139.233750   0.611500   0.789000
 max     87.000000      0.636000      0.849000          0.836000     0.394000  170.059000   0.932000   0.945000

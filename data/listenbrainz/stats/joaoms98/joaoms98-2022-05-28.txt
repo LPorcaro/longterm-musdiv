@@ -1,0 +1,27 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: indie soul (50.00%)
+	2: jazz pop (50.00%)
+Top artists
+	1: De La Soul (50.00%)
+	2: Tom Misch (50.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: KPL (100.00%)
+Top year
+	1: 17 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness   tempo  valence  energy
+count         1.0         1.000         1.000          1.000000        1.000   1.000    1.000   1.000
+mean         66.0         0.205         0.802          0.000748        0.289  96.916    0.274   0.607
+std           NaN           NaN           NaN               NaN          NaN     NaN      NaN     NaN
+min          66.0         0.205         0.802          0.000748        0.289  96.916    0.274   0.607
+25%          66.0         0.205         0.802          0.000748        0.289  96.916    0.274   0.607
+50%          66.0         0.205         0.802          0.000748        0.289  96.916    0.274   0.607
+75%          66.0         0.205         0.802          0.000748        0.289  96.916    0.274   0.607
+max          66.0         0.205         0.802          0.000748        0.289  96.916    0.274   0.607

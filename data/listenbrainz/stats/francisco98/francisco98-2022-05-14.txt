@@ -1,5 +1,5 @@
 Electronic artists found: Lost Frequencies,Calum Scott
-Electronic genres found: tropical house, edm, belgian edm
+Electronic genres found: belgian edm, tropical house, edm
 Electronic music logs found: 4.76% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: canadian pop (4.35%)
 	5: forro (4.35%)
 Top artists
-	1: Post Malone (3.70%)
-	2: Sweet Cocoa (3.70%)
-	3: Slow J (3.70%)
-	4: Cosmo Klein (3.70%)
-	5: MARO (3.70%)
+	1: Jean Elan (3.70%)
+	2: Ivandro (3.70%)
+	3: Videoclub (3.70%)
+	4: Drake (3.70%)
+	5: Sia (3.70%)
 Top country
 	1: US (38.10%)
 	2: PT (19.05%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   21.000000      21.00000     21.000000         21.000000    21.000000   21.000000  21.000000  21.000000
-mean    62.857143       0.43419      0.630238          0.000276     0.118724  119.992952   0.540586   0.617952
-std     24.775564       0.27950      0.127619          0.000478     0.154315   30.794738   0.232365   0.195770
+mean    62.904762       0.43419      0.630238          0.000276     0.118724  119.992952   0.540586   0.617952
+std     24.762683       0.27950      0.127619          0.000478     0.154315   30.794738   0.232365   0.195770
 min     15.000000       0.01880      0.309000          0.000000     0.028800   81.672000   0.085300   0.214000
 25%     51.000000       0.25500      0.568000          0.000000     0.040200   97.014000   0.357000   0.492000
 50%     68.000000       0.46800      0.663000          0.000005     0.055800  107.821000   0.530000   0.671000

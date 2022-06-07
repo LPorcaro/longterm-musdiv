@@ -1,5 +1,5 @@
 Electronic artists found: STRFKR, Sebastian Ingrosso,Tommy Trash,John Martin
-Electronic genres found: chillwave, progressive house, electro house, progressive electro house, edm
+Electronic genres found: progressive electro house, chillwave, progressive house, electro house, edm
 Electronic music logs found: 3.45% 
 
 Top genres
@@ -9,11 +9,11 @@ Top genres
 	4: indie pop (5.58%)
 	5: modern alternative rock (4.72%)
 Top artists
-	1: Circa Waves (2.22%)
-	2: Adele (2.22%)
-	3: Foster The People (2.22%)
-	4: Vampire Weekend (2.22%)
-	5: Paulina Eisenberg (2.22%)
+	1: Yot Club (2.22%)
+	2: Portugal. The Man (2.22%)
+	3: Wallows (2.22%)
+	4: Pixies (2.22%)
+	5: The Wombats (2.22%)
 Top country
 	1: GB (32.76%)
 	2: US (25.86%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
 count   58.000000     58.000000     58.000000         58.000000    58.000000   58.000000  58.000000  58.000000
-mean    64.965517      0.113094      0.566828          0.107931     0.052109  127.586621   0.542259   0.724810
-std      9.631756      0.178411      0.150379          0.235866     0.035378   28.004621   0.216955   0.144261
+mean    65.000000      0.113094      0.566828          0.107931     0.052109  127.586621   0.542259   0.724810
+std      9.586174      0.178411      0.150379          0.235866     0.035378   28.004621   0.216955   0.144261
 min     42.000000      0.000252      0.174000          0.000000     0.025900   74.991000   0.172000   0.435000
 25%     59.250000      0.007347      0.488500          0.000004     0.035100  102.749250   0.365000   0.604000
 50%     65.000000      0.043200      0.561500          0.000438     0.041650  128.567500   0.550000   0.752000

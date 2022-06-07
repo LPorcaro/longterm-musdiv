@@ -1,0 +1,34 @@
+Electronic artists found: Swedish House Mafia,John Martin
+Electronic genres found: electro house, edm, progressive electro house
+Electronic music logs found: 50.00% 
+
+Top genres
+	1: alternative dance (7.69%)
+	2: australian dance (7.69%)
+	3: australian electropop (7.69%)
+	4: dance rock (7.69%)
+	5: electropop (7.69%)
+Top artists
+	1: Swedish House Mafia (33.33%)
+	2: John Martin (33.33%)
+	3: Empire of the Sun (33.33%)
+Top country
+	1: AU (50.00%)
+	2: GB (50.00%)
+Top record
+	1: EI1 (50.00%)
+	2: AAA (50.00%)
+Top year
+	1: 08 (50.00%)
+	2: 12 (50.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo   valence    energy
+count    2.000000       2.00000      2.000000          2.000000     2.000000    2.00000  2.000000  2.000000
+mean    75.500000       0.18450      0.741500          0.000004     0.048350  128.00850  0.577000  0.770500
+std      0.707107       0.10253      0.183141          0.000005     0.003606    1.46159  0.196576  0.098288
+min     75.000000       0.11200      0.612000          0.000000     0.045800  126.97500  0.438000  0.701000
+25%     75.250000       0.14825      0.676750          0.000002     0.047075  127.49175  0.507500  0.735750
+50%     75.500000       0.18450      0.741500          0.000004     0.048350  128.00850  0.577000  0.770500
+75%     75.750000       0.22075      0.806250          0.000006     0.049625  128.52525  0.646500  0.805250
+max     76.000000       0.25700      0.871000          0.000008     0.050900  129.04200  0.716000  0.840000

@@ -1,0 +1,45 @@
+Electronic artists found: Guru Josh Project,Klaas, David Guetta,Sam Martin, Moby,Debbie Harry, Robert Palmer,Eric 'ET' Thorngren, Alok,Zeeba,Bruno Martini, The Underdog Project, Avicii, Yves Larock, Gigi D'Agostino, Alan Walker, Axwell /\ Ingrosso,Axwell,Sebastian Ingrosso, Safri Duo
+Electronic genres found: italo dance, downtempo, disco, slap house, acid house, eurodance, electro house, disco house, electronica, tropical house, edm
+Electronic music logs found: 22.06% 
+
+Top genres
+	1: europop (16.77%)
+	2: swedish pop (15.57%)
+	3: hollywood (8.98%)
+	4: rock (5.39%)
+	5: classic rock (3.59%)
+Top artists
+	1: Moby (2.63%)
+	2: Elisa (2.63%)
+	3: WADD (2.63%)
+	4: ABBA (2.63%)
+	5: Zeeba (2.63%)
+Top country
+	1: SE (39.71%)
+	2: US (32.35%)
+	3: GB (8.82%)
+	4: CH (5.88%)
+	5: IT (2.94%)
+Top record
+	1: AYD (33.82%)
+	2: UG1 (23.53%)
+	3: 6XG (4.41%)
+	4: 313 (4.41%)
+	5: UM7 (2.94%)
+Top year
+	1: 16 (23.53%)
+	2: 79 (10.29%)
+	3: 76 (7.35%)
+	4: 13 (5.88%)
+	5: 12 (4.41%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence     energy
+count   68.000000     68.000000     68.000000         68.000000    68.000000   68.000000  68.00000  68.000000
+mean    62.044118      0.384146      0.572750          0.021165     0.046069  122.051412   0.58536   0.603250
+std     10.164959      0.342998      0.129117          0.112945     0.025508   17.391654   0.22295   0.296926
+min     25.000000      0.000313      0.260000          0.000000     0.024400   82.216000   0.08850   0.116000
+25%     58.750000      0.059775      0.492000          0.000002     0.035475  111.787000   0.43400   0.383750
+50%     62.000000      0.302000      0.510500          0.000006     0.037900  121.727000   0.52700   0.721500
+75%     68.000000      0.691250      0.672000          0.001100     0.045175  130.480500   0.75475   0.824250
+max     83.000000      0.899000      0.933000          0.880000     0.161000  179.642000   0.97500   0.990000

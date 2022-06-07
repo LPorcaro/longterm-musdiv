@@ -1,0 +1,42 @@
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: italian hip hop (32.61%)
+	2: italian indie pop (19.57%)
+	3: indie rock italiano (17.39%)
+	4: italian underground hip hop (17.39%)
+	5: rap napoletano (13.04%)
+Top artists
+	1: Claver Gold (7.69%)
+	2: Dia (7.69%)
+	3: DJ Caster (7.69%)
+	4: Fabri Fibra (7.69%)
+	5: Caph (7.69%)
+Top country
+	1: IT (93.33%)
+	2: NL (6.67%)
+Top record
+	1: 2G3 (46.67%)
+	2: B00 (20.00%)
+	3: UM7 (13.33%)
+	4: C94 (6.67%)
+	5: I02 (6.67%)
+Top year
+	1: 21 (46.67%)
+	2: 22 (20.00%)
+	3: 06 (13.33%)
+	4: 04 (6.67%)
+	5: 13 (6.67%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count    15.00000     15.000000     15.000000         15.000000      15.0000   15.000000  15.000000  15.000000
+mean     42.40000      0.180680      0.700533          0.000029       0.2263  105.619200   0.596933   0.668733
+std      10.54785      0.131969      0.126564          0.000094       0.1118   32.502108   0.204821   0.096342
+min      16.00000      0.019000      0.325000          0.000000       0.0793   77.250000   0.171000   0.448000
+25%      38.00000      0.076950      0.665000          0.000000       0.1565   86.276500   0.523000   0.629500
+50%      40.00000      0.159000      0.712000          0.000000       0.2020   89.928000   0.634000   0.663000
+75%      46.00000      0.257000      0.761000          0.000000       0.3055  120.955000   0.721000   0.754000
+max      60.00000      0.480000      0.840000          0.000363       0.4690  178.321000   0.892000   0.790000

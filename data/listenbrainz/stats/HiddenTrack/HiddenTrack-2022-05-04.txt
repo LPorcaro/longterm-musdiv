@@ -1,0 +1,45 @@
+Electronic artists found: Allie X, Metronomy
+Electronic genres found: electronica, tropical house
+Electronic music logs found: 6.25% 
+
+Top genres
+	1: hollywood (7.92%)
+	2: show tunes (7.92%)
+	3: broadway (6.93%)
+	4: pop rock (4.95%)
+	5: indie pop (3.96%)
+Top artists
+	1: The Vaccines (2.94%)
+	2: Travis (2.94%)
+	3: Anika Noni Rose (2.94%)
+	4: The La's (2.94%)
+	5: Sammy Rae & The Friends (2.94%)
+Top country
+	1: US (50.00%)
+	2: GB (25.00%)
+	3: QZ (12.50%)
+	4: SE (3.12%)
+	5: CA (3.12%)
+Top record
+	1: SK3 (9.38%)
+	2: RP5 (6.25%)
+	3: KPL (6.25%)
+	4: UM7 (6.25%)
+	5: V11 (6.25%)
+Top year
+	1: 17 (15.62%)
+	2: 21 (15.62%)
+	3: 20 (9.38%)
+	4: 19 (6.25%)
+	5: 06 (6.25%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   32.000000     32.000000     32.000000         32.000000    32.000000   32.000000  32.000000  32.000000
+mean    41.375000      0.454430      0.521344          0.049956     0.059556  115.883969   0.485438   0.535653
+std     18.735424      0.318319      0.114608          0.162229     0.054948   30.249160   0.237468   0.220704
+min      9.000000      0.000499      0.285000          0.000000     0.026400   71.655000   0.191000   0.059900
+25%     34.750000      0.193500      0.439500          0.000000     0.032275   83.749500   0.254500   0.402750
+50%     38.000000      0.387500      0.530000          0.000043     0.040300  122.006500   0.447000   0.518500
+75%     45.500000      0.789250      0.585500          0.003047     0.051650  129.628000   0.601250   0.717500
+max    100.000000      0.948000      0.716000          0.829000     0.269000  173.930000   0.962000   0.971000

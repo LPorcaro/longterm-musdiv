@@ -1,0 +1,45 @@
+Electronic artists found: R3HAB,A Touch Of Class, Marshmello,Jonas Brothers, Avicii,Aloe Blacc, David Guetta,Kid Cudi, Martin Jensen, Zara Larsson,MNEK, The Chainsmokers,Halsey, The Chainsmokers, Avicii, Axwell /\ Ingrosso, Sam Feldt,RANI, League of Legends,Against The Current, Galantis,David Guetta,Little Mix, Ellie Goulding, Calvin Harris,Ellie Goulding, Zara Larsson, Martin Garrix,Bebe Rexha, Avicii,Sandro Cavazza
+Electronic genres found: pop edm, progressive electro house, video game music, danish electronic, slap house, deep house, progressive house, electro house, dutch edm, brostep, tropical house, edm, dutch house
+Electronic music logs found: 15.50% 
+
+Top genres
+	1: pop (21.33%)
+	2: dance pop (13.11%)
+	3: edm (4.22%)
+	4: pop rock (4.22%)
+	5: pop dance (4.22%)
+Top artists
+	1: Rihanna (0.88%)
+	2: Fall Out Boy (0.88%)
+	3: Gama WNTD (0.88%)
+	4: Sia (0.88%)
+	5: Kimbra (0.88%)
+Top country
+	1: US (60.47%)
+	2: GB (17.05%)
+	3: SE (3.88%)
+	4: PT (3.10%)
+	5: QM (2.33%)
+Top record
+	1: UM7 (31.78%)
+	2: AT2 (10.08%)
+	3: RC1 (6.20%)
+	4: SM1 (4.65%)
+	5: UG1 (3.88%)
+Top year
+	1: 13 (12.40%)
+	2: 15 (10.85%)
+	3: 16 (10.08%)
+	4: 17 (10.08%)
+	5: 18 (10.08%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
+count  129.000000    129.000000    129.000000        129.000000   129.000000  129.000000  129.000000  129.000000
+mean    73.356589      0.195768      0.643597          0.006085     0.087300  119.410814    0.506588    0.679295
+std     11.593909      0.223543      0.127985          0.031578     0.087822   27.421869    0.212951    0.143191
+min     27.000000      0.000185      0.259000          0.000000     0.025900   74.267000    0.057300    0.319000
+25%     72.000000      0.028500      0.574000          0.000000     0.038200   99.048000    0.349000    0.577000
+50%     76.000000      0.102000      0.665000          0.000000     0.051400  120.032000    0.486000    0.680000
+75%     80.000000      0.297000      0.745000          0.000007     0.086600  134.999000    0.654000    0.799000
+max     87.000000      0.893000      0.863000          0.267000     0.463000  194.169000    0.960000    0.963000

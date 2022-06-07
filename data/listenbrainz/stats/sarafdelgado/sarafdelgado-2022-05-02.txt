@@ -1,0 +1,45 @@
+Electronic artists found: Blasterjaxx,Jebroer, KSHMR,JDG,Mariana BO, Dimension, Ella Eyre, Metronomy, Steve Aoki,Autoerotique, Sigala,John Newman,Nile Rodgers
+Electronic genres found: slap house, drum and bass, electro house, indian edm, electronica, tropical house, edm, dutch house
+Electronic music logs found: 43.75% 
+
+Top genres
+	1: pop dance (6.76%)
+	2: indie rock (6.76%)
+	3: modern rock (6.76%)
+	4: edm (5.41%)
+	5: tropical house (5.41%)
+Top artists
+	1: Smookie Illson (3.85%)
+	2: Jebroer (3.85%)
+	3: Calder Quartet (3.85%)
+	4: Fly Boy Keno (3.85%)
+	5: Lamedica (3.85%)
+Top country
+	1: US (43.75%)
+	2: GB (25.00%)
+	3: NL (12.50%)
+	4: IT (6.25%)
+	5: UK (6.25%)
+Top record
+	1: UM7 (18.75%)
+	2: Z54 (12.50%)
+	3: MVH (6.25%)
+	4: DM3 (6.25%)
+	5: LZJ (6.25%)
+Top year
+	1: 16 (18.75%)
+	2: 10 (12.50%)
+	3: 17 (12.50%)
+	4: 15 (12.50%)
+	5: 11 (12.50%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   16.000000     16.000000     16.000000         16.000000    16.000000   16.000000  16.000000  16.000000
+mean    43.750000      0.025421      0.593813          0.075369     0.090869  136.551063   0.485938   0.833125
+std     13.742877      0.051376      0.176581          0.200273     0.054013   23.888184   0.215415   0.152563
+min     12.000000      0.000204      0.258000          0.000000     0.032600   98.797000   0.165000   0.517000
+25%     36.000000      0.004038      0.455000          0.000022     0.051800  125.026250   0.292750   0.795000
+50%     45.500000      0.010545      0.622500          0.002268     0.069050  130.998500   0.500500   0.886500
+75%     50.000000      0.018475      0.707000          0.040600     0.124000  156.749750   0.612500   0.941250
+max     76.000000      0.212000      0.893000          0.804000     0.208000  174.668000   0.883000   1.000000

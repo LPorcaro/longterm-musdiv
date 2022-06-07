@@ -3,16 +3,16 @@ Electronic genres found: hip house
 Electronic music logs found: 0.93% 
 
 Top genres
-	1: k-pop (31.37%)
-	2: k-pop girl group (23.53%)
-	3: pop (6.67%)
-	4: dance pop (5.88%)
-	5: electropop (5.49%)
+	1: k-pop (30.83%)
+	2: k-pop girl group (23.72%)
+	3: pop (6.72%)
+	4: dance pop (5.93%)
+	5: electropop (5.53%)
 Top artists
-	1: Hoody (2.27%)
-	2: Apink (2.27%)
-	3: Azealia Banks (2.27%)
-	4: Red Velvet - IRENE & SEULGI (2.27%)
+	1: TAEYEON (2.27%)
+	2: KittiB (2.27%)
+	3: SUNMI (2.27%)
+	4: Red Velvet (2.27%)
 	5: Charli XCX (2.27%)
 Top country
 	1: KR (76.85%)
@@ -36,8 +36,8 @@ Top year
 Feature statistics
        popularity  acousticness  danceability  instrumentalness  speechiness       tempo     valence      energy
 count  108.000000    108.000000    108.000000        108.000000   108.000000  108.000000  108.000000  108.000000
-mean    51.212963      0.179650      0.653426          0.001320     0.093785  123.513815    0.573343    0.773019
-std     10.741700      0.161837      0.098600          0.006913     0.066559   25.456969    0.180849    0.125585
+mean    51.296296      0.179650      0.653426          0.001320     0.093785  123.513815    0.573343    0.773019
+std     10.763611      0.161837      0.098600          0.006913     0.066559   25.456969    0.180849    0.125585
 min     11.000000      0.001920      0.413000          0.000000     0.027700   74.029000    0.114000    0.403000
 25%     44.000000      0.046250      0.577000          0.000000     0.049325  104.973000    0.457250    0.680000
 50%     51.000000      0.138500      0.656500          0.000000     0.068400  120.013500    0.574000    0.796000
