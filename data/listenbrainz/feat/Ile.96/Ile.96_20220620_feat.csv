@@ -1,0 +1,75 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1V6gIisPpYqgFeWbMLI0bA	Demi Lovato	Heart Attack	USHR11334249	79	dance pop,pop,post-teen pop	0.0738	0.504	0.0	0.104	173.968	0.502	0.785
+3ggtU1ZOKO8ZNiqPNyXGcm	Trinidad Cardona	Dinero	USUM71800195	75		0.00772	0.708	0.0	0.0674	119.997	0.484	0.782
+6Uj1ctrBOjOas8xZXGqKk4	Doja Cat	Woman	USRC12101532	92	dance pop,pop	0.0888	0.824	0.00294	0.0854	107.998	0.881	0.764
+35mvY5S1H3J2QZyna3TFe0	Ariana Grande	positions	USUM72019412	85	dance pop,pop	0.468	0.737	0.0	0.0878	144.015	0.682	0.802
+08THWTAolAd4hkmkFIPxhH	Demarco,Rihanna	RudeBoy - Remix	FR9W18898719	51	bongo flava,dancehall,jamaican dancehall,modern reggae,reggae fusion,riddim,soca	0.0742	0.583	0.0	0.137	179.858	0.593	0.779
+4NOZ35Dhucr6UlVyLOtktd	Kardinal Offishall,Akon	Dangerous	USUM70830921	76	canadian old school hip hop,pop rap,toronto rap	0.00437	0.949	0.0	0.0756	117.002	0.807	0.79
+1PQNR7X8dkeC6S24LbR9fs	Charly Black,Juan Magán,Yonny Atella	You're Perfect - Remix	JMI051713452	56	dancehall,jamaican dancehall	0.0429	0.821	0.0	0.218	104.953	0.785	0.789
+4jPy3l0RUwlUI9T5XHBW2m	24kGoldn,iann dior	Mood (feat. iann dior)	USQX92003025	85	cali rap,pop rap	0.174	0.701	0.0	0.0361	91.007	0.732	0.716
+71R6zJsrF3ffc3TBFHfivX	Mohombi	Bumpy Ride	GBUM71024652	73	dance pop	0.0476	0.706	0.0	0.038	104.958	0.818	0.842
+0VzBKgimNRMauaqzT2rEnS	Spice,Shaggy,Sean Paul	Go Down Deh (feat. Shaggy and Sean Paul)	USVPR2100046	75	dancehall,dancehall queen,jamaican dancehall	0.12	0.817	3.9e-05	0.108	90.016	0.534	0.8
+49FYlytm3dAAraYgpoJZux	Rihanna,JAY-Z	Umbrella	USUM70736771	82	barbadian pop,dance pop,pop,urban contemporary	0.00864	0.583	0.0	0.134	174.028	0.575	0.829
+2EowclmjcHVK6W8xlngurh	Skylar Grey	Coming Home - Part II / Bonus Track	USUM71200003	57	piano rock	0.93	0.568	2.04e-05	0.0333	130.052	0.173	0.283
+08QaHlMPWuO5PUxjl61bXn	Klaus Badelt	He's a Pirate	USWD10321341	65	german soundtrack,orchestral soundtrack,soundtrack	0.0206	0.465	0.929	0.0495	70.507	0.13	0.687
+416MsJxvxSKY96DCmbJIRs	James Newton Howard,Jennifer Lawrence	The Hanging Tree	USUG11401803	62	orchestral soundtrack,soundtrack	0.344	0.213	3.45e-05	0.0408	53.863	0.145	0.0743
+0cPvRrV9PBBHVfHoGBlFdO	Poor Mans Poison	Hell's Comin' with Me	TCAEN1964122	75	deathgrass	0.395	0.581	5.34e-06	0.0383	129.879	0.533	0.619
+2sutkCzyCRK5ZCZnvvQGNU	Morgan St. Jean	Not All Men	UKW3Q2000042	31	alt z,la pop	0.622	0.611	0.0	0.0336	116.752	0.208	0.48
+2lnzGkdtDj5mtlcOW2yRtG	Shakira	Whenever, Wherever	NLB630100324	76	colombian pop,dance pop,latin,latin pop,pop	0.237	0.794	1.14e-05	0.0407	107.657	0.871	0.832
+3850dYVgOFIXJh5U4BFEWH	Madonna	Hung Up	USWB10504319	76	dance pop,pop	0.0039	0.649	0.161	0.0452	125.02	0.405	0.647
+7oTov4796jJPow87dcAsyn	Jamelia	Beware of the Dog	GBAYE0601124	42	dance pop,europop	0.00285	0.548	0.0228	0.115	130.064	0.688	0.968
+1fr92Vupmcs2vgLMFVQ7rd	The Rasmus	In the Shadows	SEVJH0201601	70	finnish alternative rock,funk metal	0.000109	0.6	5.2e-05	0.0275	105.991	0.75	0.796
+6pKsTTHXmxXjJWx94LPQhR	Omega,Daddy Yankee	Si Te Vas/Que Tengo Que Hacer - Miami Paris Remix	ITF251000010	50	rap dominicano	0.0855	0.809	3.6e-05	0.0619	125.0	0.941	0.712
+0TwBtDAWpkpM3srywFVOV5	Beyoncé,JAY-Z	Crazy In Love (feat. Jay-Z)	USSM10305425	74	dance pop,pop,r&b	0.00238	0.664	0.0	0.21	99.259	0.701	0.758
+2YdX7PEziOImkySNDWsaKM	Yves Larock	Rise Up - Radio Edit	CH6361507470	63	disco house	0.000658	0.655	0.0	0.131	128.103	0.855	0.798
+6ZblDQM0Gq0daaPAwuHOmD	The Longest Johns	Wellerman	UKPGJ1800016	62	shanty	0.692	0.795	0.0	0.266	95.476	0.824	0.438
+2DgdHcjWmO3qd50RzuBLgZ	Panic! At The Disco	House of Memories	USAT21503701	88	modern rock	0.00272	0.506	0.0	0.0335	109.952	0.506	0.817
+545MwdSc2QIFQl23EZdZke	Zaryah	Wasted	QZMEP2001894	11		0.561	0.742	1.12e-05	0.0509	124.98	0.447	0.425
+6Jkm5kUldvIqxzI1Pa7nXH	Leah Kate	10 Things I Hate About You	QZES62254244	85	alt z,pop	0.00991	0.544	0.0	0.0501	153.967	0.446	0.786
+5MWXOo8DJwgODtPGaietNz	EMELINE	cinderella's dead	USUG12201893	77	alt z	0.33	0.596	0.0	0.168	119.882	0.531	0.607
+7rUknGmak4AplYiHvvthaW	Cloudy June	Monsters in My Mind	NL4NL2106173	49	alt z,social media pop	0.0963	0.694	0.0	0.0428	159.96	0.851	0.699
+6LfzViiIqsweZi9V8A2BvG	HAVEN	Paranoia	QZNMZ2105510	43	alt z,social media pop	0.126	0.502	3.36e-06	0.264	209.612	0.45	0.648
+3kX6dZqt19oK9PUXfHLOZD	Zaryah	Youdofuckingyou	QZDA61995884	29		0.151	0.595	0.0	0.254	73.877	0.391	0.503
+7vguMCv8uVuZLiQJ156u3Z	Sam Tinnesz,Yacht Money	Play with Fire (feat. Yacht Money)	TCADC1794515	75	alt z,modern rock,rebel blues	0.0162	0.573	1.16e-05	0.0322	75.012	0.39	0.539
+59CfNbkERJ3NoTXDvoURjj	Dove Cameron	Boyfriend	USQX92200693	89	pop,post-teen pop	0.232	0.345	0.0	0.0608	179.773	0.232	0.612
+5TIyFlLF0EfYOUZH1TYxBq	GIRLI	More Than a Friend	GB45A2002356	70	alt z,dark pop,escape room,indie pop,proto-hyperpop	0.0301	0.689	0.0	0.0584	137.112	0.653	0.594
+7xg41ENLdW3nyy2p5C28ZW	Leah Kate	Fuck Up The Friendship	QZHN32055844	71	alt z,pop	0.142	0.744	1.1e-05	0.291	103.993	0.77	0.736
+72vVa7iyvVtjeaNDJfVBYq	Stela Cole	I Shot Cupid	QZLBC2100190	71	alt z,social media pop	0.0865	0.742	0.0	0.0831	95.017	0.691	0.612
+3imd2WJDPDoIOyqDmw3plc	Tessa Violet	YES MOM	QM4TW2207715	68	alt z,indie pop	0.143	0.78	7.27e-05	0.0328	97.054	0.541	0.672
+6xlOnm5MITIKtixzJW8R0j	Neoni	DARKSIDE	DEWO71700190	75	alt z	0.31	0.533	1.58e-06	0.0608	165.037	0.454	0.714
+2g1QPpTd4o8gTAapxEUPnz	Chloe Adams	Dirty Thoughts	SGB502103181	65	alt z	0.168	0.66	1.37e-06	0.103	167.098	0.384	0.462
+5YuN7z17cD0PRXVX2twIjG	HAVEN	Friends Don't Fuck	QZMEV2111079	58	alt z,social media pop	0.454	0.733	0.0	0.548	107.55	0.804	0.611
+6H6M3RdPVYAURu9oCimO2z	EMELINE	what it means to be a girl	USUG12106121	59	alt z	0.136	0.786	0.0	0.0688	110.006	0.523	0.408
+3hzGYuJ7FVEghlOOCuUxis	Zaryah	deep dive	QZS7J2160872	49		0.114	0.798	6.09e-05	0.0396	82.983	0.314	0.433
+3JTjLyrnevl9ASw3ayGO2P	Superfruit	GUY.exe	USRC11701437	79		0.0305	0.77	0.0	0.0508	110.011	0.889	0.732
+2ejorilxdO80UI3XbCgMt6	Naïka	Sauce	GBKPL2031414	65		0.229	0.864	0.00087	0.154	127.002	0.663	0.669
+20McUFi8KCIVdNDLrkTDuZ	HVME	Goosebumps	TCAEW2040509	76	slap house	0.325	0.767	0.0	0.0444	124.946	0.439	0.659
+3FcseYxP7eeE7ihwgz2U2c	YES YES,Jaxomy	MONTERO (Call Me By Your Name)	NLT2H2100728	69		0.013	0.746	0.0	0.197	99.965	0.499	0.826
+4cG7HUWYHBV6R6tHn1gxrl	Riton,Nightcrawlers,Mufasa & Hypeman,Dopamine	Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit	GBCEN2000163	84	dance pop,edm,house,pop dance,tropical house,uk dance	0.0076	0.824	0.000132	0.126	122.98	0.801	0.862
+0ikO1s1OLNIoDlgaduDWbc	Ahzee	Go Gyal - Radio Edit	BED901607601	47		0.339	0.808	0.0	0.122	105.042	0.507	0.826
+5flI2BZNspm0H1pbVMEvPL	Chrissy DePauw	Set It On Fire	USQ4E1000357	46		0.079	0.719	9.17e-06	0.201	129.946	0.603	0.951
+6A25J9As7towpxovYryAWr	JVLA	Such a Whore (Stellular Remix)	RUA1D2023452	72	viral rap	0.00391	0.624	0.0278	0.0448	168.87	0.139	0.614
+49TdDKC3qa3Hsyiuh518MN	Nfasis,DJ Tao,Zato DJ	Lento Mix	QMBZ91903301	55	dembow,dominican pop,perreo,rap dominicano	0.1	0.889	0.000541	0.0895	102.032	0.628	0.849
+5OAwYkBdkemkWdU9GShNod	Clymed	Candy Shop (Remix)	TCADY1895181	53		0.00903	0.815	0.00596	0.24	107.984	0.561	0.659
+2dl5K2ScW7jYhAhuem06cm	Daddy Yankee	PROBLEMA	USUG12100762	68	latin,latin hip hop,reggaeton,trap latino	0.0613	0.773	0.00403	0.0987	89.988	0.842	0.8
+5s6YxDJaHIz08u1Wj0KGnZ	DeeWunn,Marcy Chin	Mek It Bunx Up	JMA271300696	54	dancehall colombiano	0.00815	0.947	0.0	0.296	99.999	0.634	0.806
+58dGRQrNmAJeRMFuguUbvD	Spice,Shaggy,Sean Paul	Go Down Deh (feat. Shaggy and Sean Paul)	USVPR2100046	68	dancehall,dancehall queen,jamaican dancehall	0.109	0.801	1.62e-05	0.0986	89.999	0.578	0.764
+1gVZRO8RdxbaUuxKNRcFsd	Static & Ben El,Black Eyed Peas	Shake Ya Boom Boom	QZJDW2000062	61	israeli pop,jewish pop	0.071	0.917	0.0	0.15	104.95	0.501	0.869
+3mruwwpKfG5NYmnEr6O5Dw	Sam Feldt,RANI,VIZE	Post Malone (feat. RANI) - VIZE Remix	NLZ541901329	67	dance pop,edm,electro house,pop,pop dance,pop edm,tropical house	0.00438	0.687	0.00629	0.0564	124.017	0.345	0.887
+0k2GOhqsrxDTAbFFSdNJjT	Sean Paul	Temperature	USAT20505520	79	dance pop,dancehall,pop,pop rap	0.106	0.951	0.0	0.0685	125.04	0.822	0.6
+1kWwNpx68BMAjJeksmN3JV	MC Gustta,MC DG	Abusadamente	BRKO11700104	66	funk carioca	0.809	0.787	0.00252	0.126	130.079	0.404	0.653
+228BxWXUYQPJrJYHDLOHkj	Daddy Yankee	Gasolina	QM6N21759342	80	latin,latin hip hop,reggaeton,trap latino	0.322	0.852	2.69e-06	0.0614	96.008	0.741	0.797
+3ao5U0ksMLvgSoJqOpsgmv	Bonde R300	Oh Nanana	US7VG1770309	53	funk carioca,funk paulista	0.0506	0.606	0.0	0.53	172.335	0.614	0.536
+6k2900NjJeVqZM55G3Danu	MC Fioti,Future,J Balvin,Stefflon Don,Juan Magán	Bum Bum Tam Tam	GBUM71706300	70	funk carioca,funk paulista	0.346	0.896	8.11e-06	0.124	131.999	0.659	0.675
+25j0Sape7qZbq6ZPLFefTT	Erica Banks	Buss It	USUYG1312999	66	trap queen	0.0593	0.956	0.0	0.213	110.003	0.795	0.502
+1r7UK61NfEp0dPscWav94I	VillaBanks,Bello Figo,Linch,Brando Luis	Barbie	QZK6N1954725	61	italian hip hop,trap italiana	0.0664	0.906	0.0	0.277	148.018	0.709	0.571
+5by3TCFHK3YRQzxpR9PcZ0	VillaBanks,Linch,Brando Luis	Caribe	QZK6N1954726	67	italian hip hop,trap italiana	0.222	0.932	0.0	0.158	139.962	0.49	0.419
+4oPh7HAoMR1bLBbxwqKmgn	VillaBanks,Boro Boro	Rompo (feat. Boro Boro)	ITUM72100380	65	italian hip hop,trap italiana	0.295	0.7	9.09e-06	0.152	174.008	0.885	0.747
+59tskctgqUmjCWAwhzYAFm	Sabrina Carpenter	Looking at Me	USHR11838865	72	alt z,dance pop,electropop,pop,post-teen pop	0.00398	0.681	5.11e-06	0.0375	105.99	0.516	0.798
+4ClnJdCaf6PLeLgStqb1e9	Lizz Robinett	Hide and Seek	GBSMU5755670	61	otacore	0.335	0.625	0.0	0.031	119.994	0.559	0.726
+03eyNjBM2mpx28H6kdaufN	Ryan Mack	Overwhelmed (Ryan Mack Remix)	IERZR2100004	77	alt z,irish pop	0.161	0.658	0.0	0.154	174.111	0.513	0.445
+03B2SfXuvDh1m9F4tqrX07	Sabrina Carpenter	Skin	USUM72100805	71	alt z,dance pop,electropop,pop,post-teen pop	0.428	0.557	0.0	0.0335	105.918	0.328	0.457
+3dBrghGhy0rlNH41DHr9AK	JESSIA	I'm not Pretty	USUM72102142	38	alt z	0.0927	0.706	0.0	0.275	75.173	0.937	0.54
+3promGTTwsn1N5D6RzaFMV	JESSIA	I'm not Pretty	QZFYW2140933	67	alt z	0.0827	0.71	0.0	0.311	75.171	0.903	0.525
+1ei3hzQmrgealgRKFxIcWn	Benson Boone	In The Stars	USWB12201574	88	pop	0.338	0.362	0.0	0.0528	78.007	0.3	0.54
+4Of7rzpRpV1mWRbhp5rAqG	Lewis Capaldi	Bruises	GBKPL1778698	79	pop,uk pop	0.946	0.736	0.0	0.0677	111.202	0.361	0.308

@@ -1,0 +1,181 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5vZ4IeUenK2cHub2d7yfWk	Rammstein	Radio	DEUM71900525	69	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00404	0.652	0.00381	0.0409	132.03	0.76	0.894
+7j43FohbLVulScL7S9sQZk	Rammstein	Ausländer	DEUM71900527	70	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000757	0.681	0.00136	0.0912	125.031	0.479	0.912
+0S2UfCA5A275xChEi9a6vU	Rammstein	Tier	DED579703990	58	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00429	0.591	0.0558	0.0576	95.084	0.456	0.942
+33LTCp3HM36k7KuB7M3IHd	Rammstein	Heirate mich	DED579505260	61	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000857	0.651	0.000297	0.103	94.783	0.479	0.867
+2KsHzM4L7ThhNJB6MHXkPx	Rammstein	Zeit	DEUM72118403	75	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.132	0.55	1.47e-05	0.0462	123.179	0.0518	0.569
+2mZ7SXzf5mZkohPfDFIUET	Rammstein	Wo bist du	DEUM70502172	51	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00905	0.464	0.36	0.0478	158.097	0.155	0.779
+7lL7AgPCYvDHz8AI4nergA	Rammstein	Laichzeit	DED579505280	52	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000244	0.786	0.143	0.0736	133.604	0.687	0.635
+5QueZSIpWUbH4nLZlkjjkP	Rammstein	Bestrafe mich	DED579704000	51	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00615	0.71	0.0166	0.0361	103.024	0.851	0.858
+6bvTzuFABmFnAAmVZ3nlMh	Rammstein	Reise, Reise	DEN120405586	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0027	0.475	0.366	0.0644	130.065	0.248	0.816
+5R5mJezbWNqlVvRip6oEfd	Rammstein	Donaukinder	DEMH50900013	50	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00092	0.481	0.537	0.0331	120.004	0.0891	0.586
+1Ix5KgMrv9kFPZN6g75CeS	Rammstein	Herzeleid	DED579505270	51	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000214	0.703	0.683	0.037	100.94	0.734	0.72
+56SLMIzWKrEOWIQ5LCzKXV	Rammstein	Adieu	DEUM72118412	71	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0261	0.609	0.00173	0.0412	125.048	0.189	0.718
+4XXb1rsJNdi3QhtUjs8VI9	Harakiri for the Sky	Bury Me	DEPI81600059	21	austrian black metal,austrian metal,blackgaze,post-black metal	4.3e-06	0.415	0.0114	0.135	140.012	0.113	0.995
+58WnCtoXAG5IBx3rpK8IDM	Demon Hunter	Peace	QMGVJ1800192	42	alternative metal,christian alternative rock,christian metal,christian metalcore,christian rock,melodic metalcore,nu metal	1.87e-05	0.409	0.118	0.085	166.001	0.473	0.974
+478DFkaMDuzRrqv0mqxLmh	In Flames	Our Infinite Struggle	DED830585911	30	alternative metal,gothenburg metal,melodic death metal,metal,nu metal,swedish death metal,swedish melodeath,swedish metal	1.05e-05	0.468	0.0745	0.0905	110.025	0.075	0.974
+0QKbdxTc8UOxbhAKDBIifQ	HammerFall	Remember Yesterday	DED839841605	41	gothenburg metal,hard rock,melodic metal,metal,neo classical metal,power metal,swedish power metal	0.000649	0.527	0.000147	0.028	120.058	0.208	0.636
+21uuus0muRkqa2qSU3NtCD	Cavetown	Pigeon	USCGH1805111	55	bedroom pop,indie pop	0.741	0.656	0.0	0.0364	110.013	0.0587	0.392
+0Mjm1d3HKx2SV8t98O9EQL	carolesdaughter	Violent - Acoustic	USQX92100470	43	alt z,indie pop	0.907	0.768	1.13e-05	0.0626	131.167	0.219	0.215
+4XQKfDwyYw0p1p8WvC2e7j	NOAHFINNCE	WORMS (In My Brain)	USHR22214101	49	indie pop	0.00306	0.421	0.0	0.152	100.15	0.264	0.888
+4QrP9gVlY2cXvdR5RG8nhV	Flower Face	April to Death	QMAAK1807705	49	ambient folk,indie pop	0.817	0.59	4.37e-05	0.0296	98.029	0.287	0.382
+0UjJ89GHYTykKaNUi55zvH	NOAHFINNCE	TELL ME THAT YOU’RE OKAY	USHR22214105	49	indie pop	0.00354	0.465	0.0	0.0665	150.023	0.512	0.802
+5xLv5i7u2e4uT3Ewgvkr8Z	NOAHFINNCE,Hot Mulligan,Extra Large Holiday Card	AFTER THERAPY (feat. Hot Mulligan)	USHR22214106	49	indie pop	0.001	0.532	0.0	0.0459	92.007	0.578	0.845
+0cPvRrV9PBBHVfHoGBlFdO	Poor Mans Poison	Hell's Comin' with Me	TCAEN1964122	75	deathgrass	0.395	0.581	5.34e-06	0.0383	129.879	0.533	0.619
+0AnyQT7iUOKlM1KhgxN4Zu	Leo	Smooth (Metal Cover)	QZ22B1828797	25	comic,comic metal	0.00758	0.666	0.00727	0.0605	134.997	0.746	0.929
+6T7MAQCekVb3UnCykjX3BP	My Chemical Romance	Disenchanted	USRE10602913	64	emo,pop punk	0.00218	0.343	0.0	0.0355	174.07	0.153	0.692
+1MdH9YQqUCYX5CDHMWAjrR	Royal Blood	Where Are You Now?	GBAHT1700102	46	alternative rock,brighton indie,garage rock,modern alternative rock,modern blues rock,modern hard rock,modern rock,rock	5.32e-05	0.474	0.00072	0.0546	140.086	0.338	0.794
+4hao5QyH9QKXi902ERMQ5D	Killswitch Engage	Desperate Times	NLA320682671	38	alternative metal,boston metal,melodic metalcore,metalcore,nu metal	0.000389	0.502	0.0657	0.0382	99.989	0.224	0.85
+4hLvUbH5dkCByoNFsM02Js	Architects	Doomsday	USEP41735003	40	mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore	2.56e-05	0.523	2.81e-05	0.161	125.041	0.181	0.979
+7IcKHPLfhvdfSBYTPMAbga	Megadeth	Death From Within	USUM71514122	39	album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal	0.000122	0.202	5.79e-05	0.356	82.496	0.152	0.993
+2iOcY8YdNryQcQ9MBiWDCm	Nomy	Smoke and colors	SEYOK1752578	29	swedish alternative rock	0.0233	0.422	0.0	0.0515	150.087	0.105	0.862
+3I50P6a8P4c9SxIYSeZUhS	Thrice	Hurricane	QMRSZ1600151	49	post-hardcore,screamo	0.000245	0.281	6.64e-06	0.0464	106.791	0.175	0.814
+64yrDBpcdwEdNY9loyEGbX	Green Day	21 Guns	USRE10900679	75	permanent wave,punk	0.0518	0.268	0.0	0.0355	159.779	0.416	0.742
+0AQquaENerGps8BQmbPw14	Marty Robbins	Big Iron	USSM15901193	68	cowboy western,nashville sound	0.803	0.726	0.0	0.0491	116.027	0.57	0.474
+6sfU2LwBKxjbukPZnUbGtt	Sum 41	Blood In My Eyes	USUM71102183	43	canadian pop punk,canadian punk,pop punk,punk,rock	0.000566	0.229	0.0101	0.0593	97.513	0.296	0.914
+1tqZNNfMFZPjUtpmBCrEQd	NOFX	The Man I Killed	USFW40671106	42	punk,skate punk,socal pop punk	0.00585	0.598	0.0	0.0774	136.027	0.794	0.974
+6UzeOH4bRPzKTo2wCXMZmC	Linkin Park	By Myself	USWB10001174	61	alternative metal,nu metal,post-grunge,rap metal	0.0171	0.544	0.00301	0.173	103.026	0.339	0.935
+48xM7BdRK3RdeNZkuIls8y	Misfits	Shining	USGF19712616	37	horror punk,new jersey hardcore,new jersey punk,punk	7.26e-05	0.455	3.81e-06	0.151	137.596	0.12	0.993
+3XUnEyS2m0cMaHYLON7skY	Hollywood Undead	Bloody Nose	QMRSZ1800791	48	alternative metal,modern rock,nu metal,rap metal,rap rock,rock	5.45e-05	0.483	9.61e-06	0.107	88.003	0.459	0.962
+6nTiIhLmQ3FWhvrGafw2zj	Green Day	American Idiot	USRE10400888	78	permanent wave,punk	2.64e-05	0.38	7.86e-05	0.0639	186.113	0.769	0.988
+2mtDwjfrevoXLrJVQvZGBx	Teenage Bottlerocket	I Wanna Die	USEK71527612	40	melodic hardcore,orgcore,power-pop punk,punk,ramonescore,skate punk,wyoming indie	4.15e-06	0.411	0.178	0.0482	138.48	0.67	0.975
+4sJZeNc8FAXxV5wCQigb3j	Bullet For My Valentine	Room 409	GBHQD0500011	37	alternative metal,melodic metalcore,metalcore,nu metal,rap rock,uk metalcore,welsh metal	0.000152	0.374	0.0	0.129	92.992	0.598	0.95
+3AJwUDP919kvQ9QcozQPxg	Coldplay	Yellow	GBAYE0000267	87	permanent wave,pop	0.00239	0.429	0.000121	0.0281	173.372	0.285	0.661
+7D0RhFcb3CrfPuTJ0obrod	Coldplay	Sparks	GBAYE0000569	84	permanent wave,pop	0.748	0.371	0.0517	0.0281	102.617	0.165	0.268
+7vRia9rlEuTDQxkfXIKySi	Rex Orange County	It's Not The Same Anymore	USRC11902536	71	bedroom pop,pop	0.873	0.666	3.74e-05	0.0327	117.676	0.359	0.317
+5ft9yiGXI9o4bnbznZFP3U	Rammstein	Der Meister	DED579505210	54	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	7.07e-06	0.661	0.666	0.0369	130.144	0.629	0.699
+7ublZG5PXnJo5haa7lrhfL	Rammstein	Küss mich (Fellfrosch)	DED579704070	48	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00703	0.608	0.00109	0.0556	106.06	0.379	0.982
+4anzVbFPUuZTw0KQeZ0qnu	Rammstein	Was ich liebe	DEUM71900530	64	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.001	0.571	0.0621	0.044	172.005	0.582	0.665
+3zPvL6ZCSVAHvSZXNoAbkl	Rammstein	Adios	DEN120003767	54	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000432	0.608	0.0547	0.0377	115.16	0.377	0.953
+50LmbBKCBeDRKYvpR7ApjG	Rammstein	Rosenrot	DEUM70502176	64	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00144	0.591	0.431	0.0273	114.072	0.183	0.629
+3d3k8g4GTVx9EFIFlOZOEX	Rammstein	Zeig dich	DEUM71900526	67	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00108	0.545	0.0246	0.0417	165.066	0.365	0.942
+6X5zsgjDlssIkv0sVYZgx1	Rammstein	Tattoo	DEUM71900532	59	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00262	0.612	7.93e-05	0.091	141.042	0.302	0.96
+5AqeVqjU3bu67klDEEW8eS	Rammstein	Pussy	DEUM71103426	42	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000335	0.573	0.118	0.039	134.986	0.518	0.735
+20hfLWeQSJnJ2CiPxmjzsj	Rammstein	Stein um Stein	DEN120405587	51	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000181	0.582	0.225	0.032	120.002	0.118	0.559
+3Ye7vnZdrO2Gq5IyyH3cOp	Rammstein	Giftig	DEUM72118405	73	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0031	0.608	0.000133	0.0522	144.959	0.508	0.845
+3X0K6fII7VIwL1URPrp8Ko	Rammstein	Ich will	DEN120100004	68	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00138	0.648	0.000819	0.041	128.115	0.468	0.896
+52XYwQKlXp7scE7KrBBCID	Rammstein	Links 2 3 4	DEN120002818	65	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00112	0.624	0.0231	0.0479	130.153	0.649	0.904
+0UuNO0yYvsMPlyLF7RfQlg	Rammstein	Angst	DEUM72118409	76	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000306	0.639	0.00549	0.069	112.025	0.328	0.86
+5392GpKmAP3UvIAfHC8LAW	Rammstein	Haifisch	DEMH50900004	62	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000832	0.627	0.898	0.0375	134.98	0.309	0.842
+5HnDSays3F7o6F2pavjCdi	Rammstein	Liebe ist für alle da	DEMH50900009	50	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000208	0.394	0.0916	0.0768	180.049	0.429	0.959
+0M08QCHnOtyMq321MXEjF3	Rammstein	Halt	DEMH50900014	48	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00111	0.636	0.819	0.0424	119.053	0.213	0.886
+2R5Zsb2TtsjHAEJFUZvf7v	Rammstein	Eifersucht	DED579704060	51	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.13	0.816	0.00692	0.0542	130.085	0.831	0.968
+5vsD7190tljIoeaezvki5S	Rammstein	Kokain	DED579707280	46	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0373	0.7	0.422	0.076	95.091	0.643	0.717
+15f16lrsDzFeNpHYBTzHLI	Rammstein	Sex	DEUM71900528	60	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000561	0.608	0.00175	0.0604	123.018	0.432	0.93
+1UZs9dauJnxrqYxMIzxnwC	Rammstein	Diamant	DEUM71900531	59	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.813	0.347	2.37e-05	0.0375	140.506	0.122	0.272
+0qGZkkxnyfGrUBLflKwBQG	Rammstein	Meine Tränen	DEUM72118408	70	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0186	0.569	0.000168	0.0307	114.967	0.189	0.752
+2iFgHPoa7FNHwgLnjXzu7F	Rammstein	Puppe	DEUM71900529	66	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0229	0.581	0.0	0.0574	116.929	0.3	0.822
+407eqFGqQc40KPf43YrQ44	Rammstein	Asche zu Asche	DED579505230	64	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00164	0.563	0.0179	0.0734	169.967	0.71	0.906
+1LvyuaK3gMkd4MLxSEf9MO	Rammstein	Lügen	DEUM72118411	70	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0379	0.449	0.0	0.059	129.942	0.245	0.687
+4yUcHLkHUwAPpKN0Uvdo8I	Rammstein	Du riechst so gut	DED579504840	66	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000111	0.676	0.203	0.0308	111.85	0.797	0.747
+0Z8q59waoxGjcRZDC3ffhH	Rammstein	Spring	DEUM70502175	58	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00429	0.54	0.0125	0.0385	116.099	0.168	0.73
+2bPGTMB5sFfFYQ2YvSmup0	Rammstein	Deutschland	DEUM71900524	75	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	5.54e-05	0.521	0.349	0.0442	120.117	0.237	0.895
+7jfZybgHr6yzp4iuMS2K8u	Rammstein	Mutter	DEN120003765	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0152	0.491	0.00045	0.0349	116.145	0.0824	0.616
+4fPrxIohi60EZfNy2TlD44	Rammstein	Rein raus	DEN120100006	53	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00107	0.67	0.131	0.0488	122.153	0.767	0.856
+2bHRnMtpXMUmzDHZrAyxne	Rammstein	Hallomann	DEUM71900534	55	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0171	0.419	0.0244	0.038	171.997	0.143	0.706
+1Cssm6TMieYSFz8gQyPzxa	Rammstein	Mein Land	DEUM71103432	61	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000108	0.378	0.12	0.0351	176.036	0.356	0.905
+2qiNfSncVqWp4Do6D4a3Le	Rammstein	Waidmanns Heil	DEMH50900003	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00113	0.578	0.0234	0.0317	104.999	0.684	0.969
+39RKlCfLoqb8o2aXfpVfjW	Rammstein	Mein Teil	DEN120405655	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00535	0.47	0.0101	0.075	88.0	0.199	0.959
+2MC5MLUdhrVUWGHUFHvaLF	Rammstein	Wollt ihr das Bett in Flammen sehen	DED579504860	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	2.37e-05	0.673	0.673	0.0394	129.928	0.641	0.766
+514GW1c9Jn21KgZmO6mZIE	Rammstein	Armee der Tristen	DEUM72118402	76	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000415	0.447	0.000103	0.0491	86.01	0.334	0.901
+0Zfh4uDmJz3D44Qy9nYMqu	Rammstein	Rammstein	DED579505290	62	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00155	0.657	0.763	0.0564	113.939	0.201	0.708
+7fL0Tc5DGA7wLeXzkckiLW	Rammstein	Dalai Lama	DEN120405581	53	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00912	0.522	5.06e-06	0.0345	156.034	0.5	0.907
+0gf9HMeZDXRexbuM5CihZg	Rammstein	Morgenstern	DEN120405588	53	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00234	0.514	0.000158	0.105	104.971	0.409	0.945
+2kP38S9AFm1siKp9hAJcYF	Rammstein	Stripped	DED579804860	52	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00479	0.603	0.000103	0.0289	99.744	0.242	0.743
+5ArNGisLzrNOIVwWajRRdt	Rammstein	Mein Herz brennt	DEN120100002	67	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00268	0.501	0.0616	0.0343	83.046	0.138	0.76
+3VV34wEqOwTee9mJr3goxD	Rammstein	Vergiss uns nicht	DEUM71103433	42	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00777	0.407	0.0185	0.0602	154.116	0.173	0.646
+1pOkWIJCshtoREcAcXmYSk	Rammstein	Amour	DEN120405580	53	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0053	0.64	0.0919	0.0275	104.023	0.259	0.529
+4aFC7Mes7CW5vHcb8ZApAx	Rammstein	Ohne dich	DEN120405585	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00389	0.424	0.000432	0.0294	136.033	0.204	0.59
+2y8vqn0teE91IJOIlINSTI	NOAHFINNCE,Doll Skin	parents (feat. Doll Skin)	USHR22014103	40	indie pop	0.0208	0.539	0.0	0.0808	82.071	0.715	0.854
+15RqTkeydc3cso3JSM2fHr	NOAHFINNCE	MIND BLANK NO THOUGHTS	USHR22014104	39	indie pop	0.00269	0.221	0.0	0.148	174.791	0.154	0.939
+1aEc77hzAYxfk7GO3xkpZ3	NOAHFINNCE	Underachiever	QM6N22040390	46	indie pop	0.00983	0.64	0.0	0.129	97.659	0.681	0.773
+6GWdh20NqAxywqE3LFbaEc	NOAHFINNCE	LIFE'S A BIT	USHR22014101	60	indie pop	0.00239	0.58	6.17e-06	0.0948	119.894	0.649	0.933
+44NmxZCZhCVgrSIXQQdCOi	NOAHFINNCE	STUPID	USHR22014102	48	indie pop	0.0184	0.519	0.0	0.0907	156.985	0.817	0.688
+2UK4qw712yzFh8vYYJGv2B	Rammstein	Schwarz	DEUM72118404	72	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0534	0.559	0.00127	0.0319	127.008	0.145	0.77
+3Q70zeuBGJzhCOtzeBXoPS	Rammstein	Zwitter	DEN120100005	55	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	9.16e-06	0.467	0.757	0.0877	160.17	0.354	0.968
+4gUq1k2i3zn6dd7PbfbxED	Rammstein	Das alte Leid	DED579505250	49	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000109	0.631	0.000557	0.0719	129.992	0.634	0.85
+2STUa7rb27i7mCX7eOvr5K	Rammstein	Hilf mir	DEUM70502178	49	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000149	0.56	0.00167	0.0388	107.988	0.198	0.71
+4HLcqGelHzQY7nAhxhh1hO	Rammstein	Zerstören	DEUM70502171	58	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	7.88e-05	0.412	0.137	0.0417	165.921	0.123	0.775
+38Q2aSuGKf0vZmd28jufMa	Rammstein	Gib mir deine Augen	DEUM71204148	45	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000354	0.616	0.636	0.0389	139.011	0.333	0.838
+2w7Ca8DNYXBCgA6Bht7o0N	Rammstein	Zick Zack	DEUM72118406	75	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00118	0.669	0.00131	0.0681	130.014	0.398	0.814
+0HSVba6oa1QdUkco67C3e3	Rammstein	Bück dich	DED579704020	60	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00655	0.693	0.291	0.0913	149.099	0.653	0.979
+7eeDeUM9E7b0vkDfRz20Zt	Rammstein	Keine Lust	DEN120405582	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000256	0.534	0.0137	0.0537	137.941	0.28	0.892
+08JxNhMdDeknB1vXn8wO9q	Rammstein	Wiener Blut	DEMH50900007	49	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00157	0.565	0.00607	0.102	109.951	0.179	0.959
+0GxIAMtKFYTQZpR1avO6HB	Rammstein	Mann gegen Mann	DEUM70502177	61	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000703	0.448	0.193	0.0727	166.105	0.579	0.878
+5lGk2d6vYXSv5RiLMHLsCZ	Rammstein	Halleluja	DEN120100257	60	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	8.98e-05	0.575	0.0991	0.0324	130.128	0.357	0.846
+3gVhsZtseYtY1fMuyYq06F	Rammstein	Sonne	DEN120003766	72	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0054	0.51	0.000133	0.0854	75.098	0.313	0.917
+6IUhPMJf4iJQ3Go1CkHDsa	Rammstein	Los	DEN120405583	54	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00295	0.798	0.162	0.0315	124.027	0.649	0.585
+18WNc6C9wYlPbugccRrMGG	Rammstein	Feuerräder - Demo Version 1994	DED579405220	41	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000168	0.603	0.184	0.129	136.946	0.597	0.834
+5KTBaWu8IOczQ0sPWzZ7MY	Rammstein	Dicke Titten	DEUM72118410	77	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0205	0.63	0.00458	0.0496	117.048	0.565	0.823
+3srnu72UaOlgG3Q4zFDDRB	Megadeth	Moto Psycho	GBAJE0100017	13	album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal	3.58e-05	0.533	0.424	0.0723	127.443	0.569	0.951
+7gxza94OKGPWIu4Y0Sp92b	Nomy	Scarecrow	SEYOK0902507	20	swedish alternative rock	0.0839	0.39	0.0	0.0566	90.67	0.253	0.912
+4ewNi7XprZutH9f356TTaP	Nomy	EssenMeier	SEYOK1309641	14	swedish alternative rock	0.0012	0.477	0.0	0.0685	155.182	0.653	0.934
+4OyfdJiHM6sbfkFmRLrygg	Avenged Sevenfold	Doing Time	USWB11302491	55	alternative metal,nu metal	3.13e-05	0.433	0.0564	0.0833	160.033	0.533	0.994
+1pdZRT0ZquwaeeLtsDmMIA	Megadeth	Captive Honour - Remastered/2012	USCA21202513	27	album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal	0.00028	0.536	0.169	0.0775	91.364	0.248	0.914
+6bcUByUlW2svwPQQcvzpw4	Thy Art Is Murder	The Final Curtain	DED831700758	27	australian metal,australian metalcore,deathcore,melodic metalcore,metalcore	3.66e-05	0.21	0.0	0.121	136.757	0.114	0.987
+1jLBjt2naw4K787bJ16iCI	Megadeth	Washington Is Next!	NLA320784170	37	album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal	1.14e-05	0.299	0.0162	0.0954	198.017	0.43	0.982
+2JaGt1B7AxxefqFdB2tYrM	In Flames	Wayfaerer	DED839633309	31	alternative metal,gothenburg metal,melodic death metal,metal,nu metal,swedish death metal,swedish melodeath,swedish metal	3.09e-05	0.299	0.805	0.0686	108.493	0.412	0.885
+4Q2iefaNXe2Epzd5tKXzbV	Orden Ogan	All These Dark Years	DEU601002814	21	german metal,german power metal,melodic metal,neo classical metal,power metal	0.00303	0.305	0.000132	0.051	108.729	0.515	0.886
+1Qdnvn4XlmZANCVy3XjrQo	Audioslave	Show Me How to Live	USSM10211589	69	alternative metal,alternative rock,nu metal,permanent wave,post-grunge,rock,supergroup	0.000336	0.433	0.000177	0.0483	89.4	0.368	0.854
+5qyJ5rKvb8TbNDNbuctVSg	Tenacious D	Kyle Quit the Band	USSM10108739	37	alternative metal,comedy rock,comic,comic metal,parody,rock	0.0654	0.416	2.66e-06	0.11	104.211	0.735	0.633
+5aNH8inF5BsbThDeOLs7zs	Rammstein	Feuer frei!	DEN120100007	68	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	9.12e-05	0.491	0.346	0.0463	95.141	0.223	0.966
+1l0arEkM2grgUYMim5SggS	Rammstein	OK	DEUM72118407	70	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000343	0.49	0.0882	0.12	166.049	0.31	0.901
+46FUbtFPleDVCwlNtTPOBN	Rammstein	Mehr	DEMH50900010	47	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00297	0.356	0.555	0.036	100.08	0.469	0.852
+5awDvzxWfd53SSrsRZ8pXO	Rammstein	Du hast	DED579704010	74	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00369	0.64	0.055	0.0385	125.105	0.716	0.922
+7ritPWOWvsthxFDxOz1OjH	Rammstein	Ich tu dir weh	DEMH50900002	63	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00112	0.295	0.191	0.0541	165.083	0.295	0.878
+4L9UGREMQBfYLmGwlACgTV	Rammstein	Moskau	DEN120405584	61	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	2.25e-05	0.493	0.667	0.0638	147.992	0.305	0.963
+1XanLfYUUBB6bLbnSh1KyU	Rammstein	Benzin	DEUM70502182	61	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000393	0.527	0.00372	0.0574	142.008	0.206	0.947
+3c02RAbOojbCSXQebk6Sf1	Rammstein	Weisses Fleisch	DED579505220	61	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	9.4e-06	0.603	0.0839	0.0378	132.107	0.611	0.75
+1a8JpAL3vbAdXYrEABvOtb	Rammstein	Amerika	DEN120404987	67	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00258	0.608	1.33e-05	0.0963	125.023	0.518	0.885
+1NPlDZ0PfwItjAJbmRBdzV	Atreyu	You Eclipsed By Me	USVIC0423505	31	alternative metal,melodic metalcore,metalcore,nu metal,rap rock,screamo	0.00222	0.378	0.127	0.0883	157.622	0.6	0.961
+1BiZpYGIWkZTSq6AOPST1q	Five Finger Death Punch	You're Not My Kind	US5Z51500633	44	alternative metal,groove metal,nu metal	5.94e-05	0.544	0.0	0.0839	90.979	0.512	0.992
+0zHgtaaO1T7AQh4TA9AK1b	Bears In Trees	Ramblings of a Lunatic	SE6A91907245	55	indie pop	0.799	0.701	0.0	0.0447	111.922	0.673	0.376
+0XiivUyimrmkUyJkKiILPW	Thrice	Under A Killing Moon	USIR20300257	42	post-hardcore,screamo	7.12e-06	0.414	0.44	0.0786	184.995	0.489	0.988
+1kdc0EUhg8QfzHf0sVcFJf	Thrice	Treading Paper	USVR91168512	25	post-hardcore,screamo	0.00761	0.436	0.0	0.0678	114.417	0.0882	0.761
+6ovlMmTTp4fyvD9DBe1zo1	Sabaton	7734	SE2EG1400114	53	metal,power metal,swedish metal,swedish power metal	5.61e-05	0.427	0.000116	0.0713	168.001	0.389	0.949
+5blVBAYmD054eTH3OsYGu8	Five Finger Death Punch	I Refuse	US5Z51800011	45	alternative metal,groove metal,nu metal	0.0479	0.514	0.0	0.06	154.995	0.365	0.849
+00jXDm9BLNZdf2QC3Br0r7	Muse	Space Dementia	GBCVT0100013	47	modern rock,permanent wave,rock	0.0153	0.166	0.00265	0.0472	170.957	0.0756	0.723
+5M8EfAPEPzTQcr4tsjcimR	Audioslave	Hypnotize	USSM10211595	43	alternative metal,alternative rock,nu metal,permanent wave,post-grunge,rock,supergroup	2.05e-05	0.214	7.01e-05	0.114	78.494	0.252	0.945
+6AjXt5W30GHH3pZPrYK6TH	Killswitch Engage	Strength of the Mind	NLA321500396	46	alternative metal,boston metal,melodic metalcore,metalcore,nu metal	2.65e-05	0.508	9.38e-06	0.102	138.009	0.242	0.963
+6ilMCQGAbLFatlEv5aJ4RJ	Miracle Of Sound	Cries of a Dead World	TCABS1309367	19	comic,irish metal,video game music	0.154	0.548	0.00232	0.0376	138.972	0.171	0.66
+3K2YKboOTnzSokPEAZKjbX	Audioslave	Set It Off	USSM10211596	48	alternative metal,alternative rock,nu metal,permanent wave,post-grunge,rock,supergroup	0.00162	0.306	1.04e-05	0.0476	173.627	0.664	0.725
+1UWGkn34CD31VQfdi4D8Zp	Five Finger Death Punch	Bad Company	US5Z50900004	64	alternative metal,groove metal,nu metal	0.000595	0.557	9.84e-05	0.0498	114.025	0.17	0.886
+6AAZigYqOch79lKcrSBOv0	Slipknot	Killpop	NLA321400352	63	alternative metal,nu metal,rap metal	0.000311	0.306	0.000644	0.0912	158.47	0.483	0.926
+46TVb10WGvFLh5CaTjXllC	Five Finger Death Punch	Ashes	US4VQ0660102	38	alternative metal,groove metal,nu metal	0.000423	0.424	0.0	0.129	180.104	0.098	0.956
+4Et96UvCqeHItszHzDpXUJ	Harakiri for the Sky	The Traces We Leave	DEPI81600056	32	austrian black metal,austrian metal,blackgaze,post-black metal	1.59e-05	0.466	0.4	0.0655	125.048	0.142	0.964
+1xK6xLcJMTAC4BgmREXpGJ	Sabaton	For Whom the Bell Tolls - Metallica Cover	SE2EG1400111	49	metal,power metal,swedish metal,swedish power metal	9.87e-05	0.544	0.00278	0.0414	115.943	0.366	0.884
+5fArVBrjtT7UPIQ8j2yQnJ	Avenged Sevenfold	Betrayed	USWB10501918	48	alternative metal,nu metal	0.00133	0.468	1.54e-06	0.0556	130.009	0.515	0.929
+2LmawOUTtJ3fx9J2RLWLzt	Volbeat	Evelyn	DKNE11000113	46	alternative metal,danish metal,danish rock,nu metal	8.13e-05	0.33	0.0103	0.0573	129.027	0.572	0.897
+4OecVKvqlsYT4lTkjqKtQs	Powerwolf	Lupus Dei	USMBR0704957	38	german metal,german power metal,melodic metal,metal,power metal	0.0298	0.225	0.0112	0.0609	116.486	0.123	0.672
+5uU8fnplAwjQFDXNAm8P3o	Nomy	When You Are Dead	SEYOK0906109	8	swedish alternative rock	0.0259	0.611	0.0	0.0376	114.203	0.712	0.713
+45W8En2qul3ljQKzIbsyT4	DragonForce	Cry Thunder	DEH841500444	33	british power metal,metal,neo classical metal,power metal,speed metal	0.000365	0.268	7.69e-06	0.0711	130.151	0.57	0.965
+1A12mlq3YovSiefDDvR7uO	Trivium	The Calamity	NLA320887474	35	alternative metal,melodic metalcore,melodic thrash,metal,metalcore,nu metal	2.25e-05	0.524	0.0233	0.0781	131.98	0.371	0.981
+2UiFk0Fwy2gTWJShgQL8el	Disturbed	Forgiven	USRE10501020	44	alternative metal,nu metal,rap metal	0.000134	0.484	0.382	0.112	93.972	0.358	0.968
+4dPBb9YuwuyijT56cLEcgV	Volbeat	A Broken Man And The Dawn	NLB930800321	45	alternative metal,danish metal,danish rock,nu metal	0.000327	0.345	4.31e-06	0.103	141.433	0.405	0.964
+0nUIfGclAnSgTLiKPwDAXK	HammerFall	A Legend Reborn	DED830054610	25	gothenburg metal,hard rock,melodic metal,metal,neo classical metal,power metal,swedish power metal	0.00138	0.535	9.88e-06	0.0402	122.948	0.46	0.776
+7ausP2XEvLZwycxAoiu2BB	NOAHFINNCE	WEIRDOS	USHR22014106	41	indie pop	0.00146	0.52	0.000221	0.0531	117.0	0.388	0.921
+1LCpphnd8D68bw3EBe4JUU	Alestorm	Nancy the Tavern Wench	ATN261775304	38	british power metal,comic,comic metal,metal,pirate,power metal,scottish metal	0.00131	0.356	2.91e-05	0.0601	180.019	0.283	0.95
+3BQHpFgAp4l80e1XslIjNI	The Beatles	Yesterday - Remastered 2009	GBAYE0601477	75	beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock	0.879	0.332	0.0	0.0326	96.529	0.315	0.179
+0I1eFRytp4XRhLCjT6tZm7	Roar	I Can't Handle Change	ushm81020595	80	indie pop,weirdcore	0.0447	0.247	0.000867	0.0358	185.711	0.39	0.438
+7sgN9MAdqDkdFhA713ksKM	Anthony Amorim	Sad Forever	Ushm81913753	43	indie pop	0.556	0.793	0.0	0.397	163.927	0.655	0.416
+0GgN4MhR5GKn5IcKN0e0rG	My Chemical Romance	Cancer	USRE10602909	67	emo,pop punk	0.358	0.457	0.0	0.0261	74.984	0.222	0.515
+2zPcVDSpYNVKQ5c7jR7MXj	girl in red	summer depression	GBLFP1817508	71	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.632	0.691	0.479	0.0544	129.929	0.62	0.306
+5Sjht3NnTIaZu6FElUkT6z	Radical Face	Small Hands	CAN111500443	45	indie folk,jacksonville indie,stomp and holler	0.656	0.593	1.04e-05	0.0318	125.058	0.315	0.367
+2L8lVlsIAC5ajX8jgLlLUg	Anthony Amorim	MISC.	Ushm81913747	24	indie pop	0.829	0.538	0.0	0.0429	112.597	0.277	0.192
+1kDkaFlmkdEZiVUogaP9OZ	The Beatles	For No One - Remastered 2009	GBAYE0601502	62	beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock	0.783	0.483	0.0	0.0278	81.208	0.713	0.351
+4B8d7ceAT2mKqSQVecVYfw	Estudantina Universitária de Coimbra	Balada de Despedida do 5º Ano Jurídico 88/89	GBSMU6674639	23	tuna	0.766	0.319	2.49e-06	0.0299	53.546	0.313	0.456
+7HrWPQ6ISUcLNxhmdGB7bu	Avery Grey	Smoking for the Aesthetic	QM2PV1843026	50		0.949	0.792	0.0	0.435	164.081	0.474	0.394
+16BgqWerHyCHwvDTfagHji	Nomy	Every time you fall	SEYOK1212474	25	swedish alternative rock	0.332	0.395	0.0	0.0303	175.316	0.406	0.625
+6jHvX8ZnHKC1PnrPMJ0Emt	Cage The Elephant	Cigarette Daydreams	USRC11301169	74	modern alternative rock,modern rock,punk blues,rock	0.0807	0.636	0.0	0.0263	113.98	0.273	0.676
+4BWJGWmzbjsnA94Weyi5j4	girl in red	4am	GBLFP1888313	68	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.672	0.416	0.38	0.0385	168.897	0.295	0.389
+4hrVpGTKbIs4HewdsyETda	Hollie Allen	I Knew You Once	QZES51884836	40		0.895	0.507	0.000835	0.056	113.585	0.695	0.143
+5rDdSsR3HNTFupNk24E4kF	Anthony Amorim,Camryn Bowcutt	You Were Drunk	Ushm81913749	22	indie pop	0.82	0.786	0.0	0.0445	72.053	0.508	0.106
+6N6VqzeyHeQ4ztc4eTmvG7	American Pleasure Club,Teen Suicide	all the lonely nights in your life	QMCE71301592	57	lo-fi indie,small room	0.779	0.36	4.07e-06	0.0302	140.44	0.41	0.238
+0KwqP13BnZMIycfxnqWtK1	Rammstein	Te quiero puta!	DEUM70502173	59	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	7.84e-05	0.496	0.344	0.145	159.931	0.268	0.934
+1jBL8PB3CqDYjR0luCpX00	Rammstein	Rammlied	DEMH50900001	59	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000486	0.507	0.521	0.0577	104.967	0.0689	0.944
+2gtNjAYBHEJRxbfKvaXkEs	Rammstein,Scooter	Pussy - RMX By Scooter	DEUM71103450	32	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	7.91e-05	0.643	0.224	0.0695	133.012	0.651	0.752
+4wvuBtCV9Vy6aEcwYrYmCc	Rammstein	Rosenrot	DEUM71103427	39	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0015	0.596	0.208	0.0269	114.055	0.162	0.626
+5mPCdq95Ugutn9hrmEYm4K	Rammstein	Mein Herz brennt - Video Edit	DEUM71204149	30	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.00444	0.536	0.0134	0.0297	83.062	0.141	0.731
+3oWFQPp5lL5x907hCcCRa9	Rammstein	Sehnsucht	DED579702420	62	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.0086	0.6	0.624	0.0555	140.125	0.665	0.954
+52LScY2ZquOGkJudMGI0Uk	Alestorm	Heavy Metal Pirates	ATN260927404	35	british power metal,comic,comic metal,metal,pirate,power metal,scottish metal	9.67e-05	0.547	0.0814	0.0896	100.022	0.252	0.988
+1DHho3gfGqb3hoaKUfGcCg	Alestorm	Henry Martin	ATN262092211	36	british power metal,comic,comic metal,metal,pirate,power metal,scottish metal	0.00346	0.628	0.0	0.0277	100.019	0.675	0.709

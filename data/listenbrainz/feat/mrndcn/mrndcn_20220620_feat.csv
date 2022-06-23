@@ -1,0 +1,42 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+6i88tx7811AzFNDknwILat	Icy Subzero	EGO	QZDA72225108	67	italian hip hop	0.0285	0.607	0.0	0.177	125.025	0.456	0.877
+0T5iIrXA4p5GsubkhuBIKV	Stephen Sanchez	Until I Found You	USUG12103651	90	gen z singer-songwriter	0.727	0.539	0.0	0.0288	101.358	0.227	0.508
+1pdsBkhNchpGCQTGoNQXZI	Paskman,Rafa Villalba	Chiquetere (feat. Rafa Villalba)	ES5702200170	65	latin tech house	0.0124	0.851	0.0237	0.136	128.013	0.732	0.729
+1I4lCSP69P74nU3a6Su5L2	Duke & Jones,Louis Theroux	Jiggle Jiggle	GBARL2201151	82	uk dance	0.458	0.864	0.00087	0.273	99.992	0.654	0.412
+1GMq61rtAFhnn0K7GBJDkK	Rnbstylerz	Like Wooh Wooh	QZGWW1945477	70	klubowe	0.0416	0.814	0.808	0.0844	125.012	0.575	0.803
+0RFRr1i6USZRE66r5vB9OT	M¥SS KETA	FINIMONDO	ITUM72200723	54	italian indie pop	0.033	0.796	5.2e-05	0.231	126.008	0.691	0.842
+1BkY0N8ChFk2mdLbAUu8ZK	Musical Youth	Pass The Dutchie	GBBBY0300024	82	uk reggae	0.459	0.805	0.0	0.0979	149.724	0.966	0.418
+75FEaRjZTKLhTrFGsfMUXR	Kate Bush	Running Up That Hill (A Deal With God)	GBCNR8500002	94	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.72	0.629	0.00314	0.055	108.375	0.197	0.547
+0gYXw7aPoybWFfB7btQ0eM	Black Eyed Peas,Shakira,David Guetta	DON'T YOU WORRY	USSM12202555	66	dance pop,pop,pop rap	0.203	0.816	0.0	0.0311	131.958	0.491	0.875
+0QBzMgT7NIeoCYy3sJCof1	Camila Cabello,Ed Sheeran	Bam Bam (feat. Ed Sheeran)	USSM12200047	91	dance pop,pop,post-teen pop	0.182	0.756	0.0	0.0401	94.996	0.956	0.697
+63WuQOXohQIxOxIFA2K7bR	Måneskin	SUPERMODEL	ITB002200385	87	indie rock italiano,italian pop	0.00164	0.636	0.0	0.0555	120.983	0.799	0.876
+563SHScyW0aqzP34tifcFF	Baby K,MIKA	Bolero (feat. MIKA)	IT5O82200001	51	italian adult pop,italian pop	0.167	0.817	0.0	0.135	126.984	0.733	0.71
+4kzEjMwnQE5CWQWHGoNs9t	Alessandra Amoroso,DB Boulevard	Camera 209	ITB002200425	64	italian adult pop,italian pop,italian pop rock	0.01	0.832	0.0	0.0319	125.985	0.636	0.779
+7iLuBTHJSXM2HalKHFqEEy	Pinguini Tattici Nucleari	Giovani Wannabe	ITB002200354	76	bergamo indie,italian indie pop,italian pop,milan indie	0.0409	0.739	0.0	0.0311	127.972	0.948	0.81
+4LRPiXqCikLlN15c3yImP7	Harry Styles	As It Was	USSM12200612	100	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+2sNk7X7ZXBJ5yiox9iPbE1	Marco Mengoni	No Stress	ITB002200381	66	italian adult pop,italian pop,italian pop rock	0.0806	0.789	0.0	0.0784	119.928	0.575	0.71
+6O1rGDWqL1pgp7H59G2q80	Rocco Hunt,Elettra Lamborghini,Lola Indigo	Caramello	ITB002200503	58	italian hip hop,italian pop,pop virale italiano,rap napoletano	0.0771	0.848	0.0	0.144	127.972	0.864	0.803
+0I0b7uTFfHhBz5bMkSDouF	Fedez,Tananai,Mara Sattei	LA DOLCE VITA	ITB002200500	78	italian pop	0.0124	0.737	0.0	0.0527	144.991	0.919	0.858
+22gH5Qg5j5ZzF7LaR7Nrkj	BLANCO	Nostalgia	ITUM72200877	76	italian pop	0.0372	0.644	0.0	0.0605	130.061	0.562	0.904
+3h043RAJ7tKaG1HDFeet6w	Kaleb Di Masi,Sfera Ebbasta,Rvfv,Omar Varela	Hace Calor - Remix	ARQIH2290964	74	cumbia 420,rkt	0.367	0.889	0.00438	0.0627	130.021	0.444	0.618
+4EC028SvtlC25iHQSG2OIa	Rhove	Shakerando	ITDJ72100030	81	italian hip hop,trap italiana	0.764	0.855	0.00708	0.191	135.009	0.469	0.805
+4fuCi43DogsknVxQtVpnx0	Rhove,Madfingerz,8blevrai,Kassimi,Yunes LaGrintaa,Sisco,Néza,Nabi	La Famiglia (feat. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, Néza & Nabi)	ITDJ72200018	66	italian hip hop,trap italiana	0.168	0.829	0.000139	0.186	142.908	0.817	0.761
+3yWHQ4n4ARLDfYTuT2NhnN	Tananai	BABY GODDAMN	ITUM72100225	78	italian indie pop	0.0317	0.819	2.73e-05	0.1	114.033	0.885	0.764
+3z0GeNGWyVduziP1cQ0mFN	Irama,Rkomi	5 Gocce (feat. Rkomi)	ITQ002200025	78	italian adult pop,italian pop	0.279	0.742	9.85e-06	0.059	74.992	0.846	0.808
+1v9ABGLSpdhPDEWyQ10NFD	Jovanotti,Sixpm	I love you baby	ITUM72200441	71	italian adult pop,italian pop	0.123	0.661	0.0	0.0378	139.975	0.81	0.775
+3fIB4IEcvjlzItwnFUvIBk	Takagi & Ketra,thasup,Salmo	BUBBLE (feat. thasup & Salmo)	ITB002200506	71	italian adult pop,italian pop	0.0769	0.803	0.0	0.0432	121.947	0.706	0.709
+4bSetRYOPYAMlLc9mgEGr0	Sonata Arctica	Last Drop Falls	FISFS0200042	48	finnish power metal,lapland metal,melodic metal,metal,neo classical metal,power metal,progressive metal,symphonic metal	0.00421	0.444	0.0	0.0312	127.853	0.15	0.645
+3G80CgLA7ziD8i40s6uKQN	Sonata Arctica	Tallulah	FISFS0200121	52	finnish power metal,lapland metal,melodic metal,metal,neo classical metal,power metal,progressive metal,symphonic metal	0.352	0.508	1.1e-05	0.0283	139.701	0.23	0.613
+7sEXZP9IUjtPRfuXtMnUin	Francesco Gabbani	Immenso	ITBQ61300293	50	italian adult pop,italian pop	0.471	0.435	0.0	0.0335	139.935	0.399	0.563
+71MZNRv1tHVk0GjwaRITxZ	Negramaro	Fino All'Imbrunire	ITZ041700058	51	classic italian pop,italian adult pop,italian pop	0.1	0.618	1.07e-06	0.0708	124.984	0.277	0.844
+7cdZQa8jWsGt4UlTw1ysPO	Caparezza	Una Chiave	ITUM71700818	45	italian adult pop,italian indie pop,italian reggae	0.0319	0.696	0.000769	0.0489	95.015	0.695	0.934
+6bCHySS6CvA22iww8WGHD1	Cesare Cremonini	Possibili Scenari	ITZL91700001	47	classic italian pop,italian adult pop	0.0483	0.531	0.0	0.0714	112.037	0.426	0.718
+5B0DR6rTfszfAlmAjBBitu	Lùnapop	Un Giorno Migliore	NLE880200018	55	classic italian pop,italian adult pop	0.16	0.441	0.0	0.0339	170.01	0.306	0.781
+0wZa6FUDCvMfKQuPyj6X5Z	Cesare Cremonini	Il Primo Bacio Sulla luna	NLE880800014	31	classic italian pop,italian adult pop	0.602	0.466	0.00285	0.0303	118.094	0.0762	0.623
+4yzB14pjA1fZGjQKuEccyO	Modà	Quelli come me	ITWFD1900015	51	bow pop,italian adult pop	0.0284	0.512	0.0	0.0288	126.001	0.159	0.644
+2RYC5U14cFGTd2cYwCjDbZ	Lùnapop	Niente Di Più	NLE880200024	47	classic italian pop,italian adult pop	0.795	0.561	0.0	0.0305	130.047	0.0973	0.417
+1wVuPmvt6AWvTL5W2GJnzZ	Bruno Mars	Talking to the Moon	USAT21001985	77	dance pop,pop	0.511	0.498	0.0	0.032	145.867	0.0784	0.59
+2lTiBNED8eSw7COuAwoMEG	Sergio Sylvestre	The Sound Of Silence	ITIWE1600243	8	italian pop	0.425	0.227	0.000419	0.0437	164.613	0.249	0.556
+2DTcVz1pDZnN6I5ZQyzaIR	Mina	Oggi sono io	CH3542000005	45	classic italian pop,italian adult pop,ye ye	0.346	0.476	0.0	0.114	141.351	0.247	0.539
+4ixh2ds0j86ydQvP0RjwIV	Pyotr Ilyich Tchaikovsky,Royal Concertgebouw Orchestra,Antal Doráti	The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse	NLA507815708	43	classical,late romantic era,russian romanticism	0.95	0.272	0.892	0.0364	101.712	0.471	0.153
+4Ovy5UkvkweOluGd9hoKsR	Tiziano Ferro	Sere nere	ITB920300035	51	italian adult pop	0.179	0.585	0.0	0.0379	135.882	0.399	0.689

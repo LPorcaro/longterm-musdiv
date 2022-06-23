@@ -1,0 +1,247 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+3DEPMrM392hpvNQyAc1PSD	Black Elephant	Cosmic Soul	US22K1817101	31	italian stoner rock,psychedelic doom	9.49e-05	0.247	0.711	0.0386	123.007	0.473	0.723
+6fybp4N6eW3bsFAvARxyVe	Van Halen	Ain't Talkin' 'Bout Love - 2015 Remaster	USWB11403671	67	album rock,classic rock,hard rock,metal,rock	0.021	0.518	0.000305	0.0416	139.138	0.71	0.938
+2IbbPqpU1uchOWCMULOuJD	King Woman	I Wanna Be Adored	US2641889001	39	bay area indie,doomgaze,gaian doom,post-doom metal	0.048	0.302	0.875	0.0288	89.032	0.0573	0.282
+1zAx94fNMR725rsFiHPG7z	All Them Witches	Diamond	US27Q1843705	49	blues rock,indie rock,modern blues rock,neo-psychedelic,space rock	0.52	0.805	0.737	0.0403	112.259	0.31	0.375
+1CqwcDOfpPbnF1tDmwfbct	Jupiter	Fio da Navalha	QZHZ62294366	1		0.298	0.789	0.0	0.0517	124.001	0.755	0.771
+3tSK1dNo4XR7Q8ZrJ2jHLR	Jupiter	Grande Biscate	QZHZ62294365	2		0.581	0.64	0.0	0.139	84.981	0.544	0.549
+2PEWkniB8Kcj8DFN9ZBHVd	Jupiter	Fora D'horas	QZHZ62294364	3		0.124	0.776	1.94e-06	0.0282	112.971	0.839	0.782
+1DBo0iF3AShaxK3LCHMUGi	Jupiter,André NO	Mais Que Fazer	QZHZ62294363	2		0.214	0.798	1.32e-05	0.0362	119.94	0.883	0.8
+3od7BHgIcs8lH6uzYNG2ip	Jupiter	Andor Violeta	QZHZ62294362	3		0.298	0.71	1.94e-06	0.0474	135.894	0.961	0.813
+710B9xFjNOisQtKtppZE9p	Type O Negative	Black No. 1 (Little Miss Scare -All)	NLA329300680	57	alternative metal,gothic metal,industrial metal,industrial rock,metal,nu metal,rock	0.0397	0.348	0.00228	0.0611	93.614	0.416	0.7
+2Vnw8zKmjhr1jczUeaqiQg	Donna Summer	"Hot Stuff - 12"" Version"	USPR37900068	66	disco,hi-nrg,new wave pop	0.00475	0.796	0.0187	0.0333	120.4	0.965	0.892
+0Qv7xi6uPSqH2k82tOkGSt	Tears For Fears	Mad World	GBF088200040	65	new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop	0.0709	0.647	0.0505	0.0509	118.729	0.953	0.896
+0WQiDwKJclirSYG9v5tayI	The Smiths	There Is a Light That Never Goes Out - 2011 Remaster	GBCRL1100054	76	madchester,new wave,permanent wave,rock,uk post-punk	0.04	0.523	0.0	0.0269	136.162	0.876	0.769
+5VZwMq6yaFb04PCTfdNY3K	Helloween	I Want Out	GBAJE0200152	64	german metal,german power metal,hard rock,melodic metal,metal,neo classical metal,old school thrash,power metal,rock,speed metal	0.000333	0.477	0.000155	0.0387	91.009	0.629	0.859
+1Gn1FeIYUMZ2a7PrbaaQhl	Metallica	Creeping Death - Creeping Death EP Version / Remastered	QMKHM1600091	57	hard rock,metal,old school thrash,rock,thrash metal	0.000254	0.251	0.315	0.166	100.822	0.17	0.978
+3kubJ2b1Rad7NXZtnZAZmO	Judas Priest	Electric Eye	GBBBN8200028	46	album rock,birmingham metal,hard rock,metal,power metal,rock	0.000779	0.431	0.000253	0.0752	96.539	0.365	0.947
+4cuPWrSsjNLAkYRJwQLCzt	Motörhead	Killed by Death	GBAJE8400023	58	album rock,hard rock,metal,rock,speed metal	0.00854	0.387	0.000437	0.0442	134.558	0.251	0.942
+1lbXEepatjRVjoG8pZMtdp	Fleetwood Mac	Dreams	USWB19900178	67	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.139	0.823	0.00129	0.0413	120.473	0.785	0.338
+3iM9wFGlyR28IBZrXYZK9j	Foreigner	Cold as Ice - 2008 Remaster	USAT20802325	53	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.0594	0.554	2.72e-06	0.0271	131.157	0.512	0.708
+4CoSCPlKNrWli7E5kFtbcl	Fleetwood Mac	Little Lies - 2017 Remaster	USRH11602193	72	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.216	0.64	8.3e-05	0.0264	124.825	0.865	0.649
+6gJdDnF2TzfA1WPMXuCa3x	Tina Turner	Proud Mary	GBAYE9300862	67	disco,new wave pop,soft rock	0.0766	0.397	1.55e-06	0.0685	171.067	0.367	0.499
+0GjEhVFGZW8afUYGChu3Rr	ABBA	Dancing Queen	SEAYD7601020	82	europop,swedish pop	0.358	0.543	0.000939	0.0428	100.804	0.754	0.87
+2goLsvvODILDzeeiT4dAoR	Cher	Believe	GBAHT9803002	77	dance pop,hollywood,new wave pop,pop	0.0082	0.652	0.0	0.0548	132.975	0.459	0.917
+2grjqo0Frpf2okIBiifQKs	Earth, Wind & Fire	September	USSM17800845	81	disco,funk,jazz funk,quiet storm,soul	0.168	0.697	0.00131	0.0298	125.926	0.979	0.832
+4ZOmgxC7Uf3YrjeDrSWytk	Demis Roussos	Forever And Ever	FRZ037300110	54		0.471	0.394	0.0	0.0359	117.633	0.666	0.493
+6JNJERZGJwDVgkmbohBw7u	Laura Branigan	Self Control	USAT20903047	73	disco,new romantic,new wave pop,soft rock,synthpop	0.219	0.814	0.00382	0.0342	106.679	0.778	0.686
+5lWSa1rmuSL6OBPOnkAqoa	Boney M.	Rasputin	DED160000010	70	disco,europop	0.463	0.69	0.00102	0.0455	126.005	0.97	0.752
+1H5IfYyIIAlgDX8zguUzns	Elvis Presley	Suspicious Minds	USRC16901355	72	rock-and-roll,rockabilly	0.0422	0.487	4.74e-06	0.0309	116.557	0.714	0.382
+3iUgYqlbgFHGL8J5Mj7leO	William Fowler Collins	They Wept Together	DEX261800533	0	warm drone	0.851	0.338	0.955	0.0953	74.373	0.181	0.182
+2sPBMz3VZEX0sr9MHwxHDW	Cave In	Anchor	USRC10201401	28	mathcore,post-doom metal,post-hardcore,post-metal,sludge metal,spacegrunge	0.00909	0.302	0.0	0.0723	143.082	0.242	0.943
+6UN4cZSU98LLHZdjLy4NGp	Buñuel	This Is Love	ITP841500191	10		6.16e-06	0.127	0.796	0.2	188.355	0.0911	0.987
+2FNUmPSgrh6VMb4Kao8lxb	Buñuel	When God Used a Rope	ITP841900223	12		0.00025	0.319	0.000512	0.303	159.875	0.236	0.974
+5pSzQ76emfqQjEnzUGWOds	Telepathy	The Void in Aimless Flight	FI7S51900109	9	uk post-metal	1.55e-05	0.145	0.484	0.0373	91.648	0.174	0.65
+26rWTPvlDyQ2YRFBgqLAi4	Patrick Walker	Entry Point	DEH741405481	0	scottish techno	0.122	0.654	0.945	0.132	124.969	0.243	0.867
+0DdY4AmGFUfbUfLSNLYxJJ	Patrick Walker	Black Star	DEH741405483	0	scottish techno	0.00831	0.711	0.878	0.13	127.004	0.683	0.939
+0hZrYsdYbYU0sa531z1mtI	Irist	Burning Sage	DED831901425	14	atlanta metal	0.000285	0.415	0.222	0.0621	90.006	0.06	0.945
+4aue2PavgawDeAf8KWZdjH	Irist	Severed	DED831901426	16	atlanta metal	3.83e-05	0.422	0.112	0.0985	149.985	0.216	0.975
+5klHRNUA4G6EFplcFbL17q	Spectral Wound	Frigid and Spellbound	USN682125502	36	atmospheric black metal,metal noir quebecois,voidgaze	7.09e-06	0.319	0.92	0.13	90.037	0.036	0.943
+0aBBIonGDbOcEyntUARrUV	Elder	Gemini	USA371376393	42	boston metal,modern hard rock,post-doom metal,progressive doom,psychedelic doom,sludge metal,space rock,stoner metal,stoner rock	4.51e-05	0.183	0.0162	0.0545	126.214	0.222	0.876
+3aL6NQdWPSOlyWu1tl3AEI	Brutus	Sugar Dragon	GBJSG1830011	32	belgian indie rock,belgian metal,gaian doom	0.00113	0.138	0.263	0.0462	101.474	0.133	0.659
+4nABlTrsl6CCdAM45tgRrQ	Brutus	Drive	GBJSG1624005	36	belgian indie rock,belgian metal,gaian doom	2.87e-05	0.192	0.871	0.173	175.445	0.158	0.941
+1OhepCdjejd0ABXY7Z1Cyq	Brutus	All Along	GBJSG1624002	39	belgian indie rock,belgian metal,gaian doom	1.21e-05	0.166	0.758	0.142	174.835	0.165	0.991
+7i9qRZNQRtlm8eaxaHKLAO	Brutus	War	GBJSG1830006	42	belgian indie rock,belgian metal,gaian doom	0.00308	0.198	0.409	0.0445	152.612	0.175	0.716
+27mFsmEWiSablfQTyZZhgp	Lingua Ignota	DO YOU DOUBT ME TRAITOR	USN681921502	36	death industrial,gaian doom,spectra	0.0204	0.202	0.0275	0.0335	80.137	0.0392	0.355
+4OaojSlUIKR7MZjO0WmLo9	Derby Motoreta’s Burrito Kachimba	Porselana Teeth	ES5702002533	37	rock andaluz,sevilla indie,spanish progressive rock	0.0523	0.58	0.000597	0.032	95.996	0.73	0.738
+3zG1Xt4ikeUWb8lDRogLx9	Derby Motoreta’s Burrito Kachimba	Gitana	ES5702002538	39	rock andaluz,sevilla indie,spanish progressive rock	0.0102	0.3	0.189	0.0384	98.064	0.0815	0.603
+54AcvQcaavGirgQNiYlxsz	Gaerea	Whispers	QMEU31811218	17	portuguese metal,post-black metal	6.01e-06	0.162	0.583	0.165	157.513	0.0744	0.97
+71o1dbQ9F4N4BXpuagWdeR	Gaerea	Absent	QMEU31811217	23	portuguese metal,post-black metal	1.34e-06	0.214	0.876	0.116	117.039	0.0376	0.985
+4rCKRnu2F0kidPmhfue8Yp	Gaerea	Conspiranoia	FR33T2055604	32	portuguese metal,post-black metal	2.73e-06	0.179	0.847	0.124	134.975	0.0393	0.978
+3zTml3IESbwYOEL6q5nJ6N	Hellripper	Hell's Rock 'N' Roll	GBSMU3927055	24	black speed metal,black thrash,british black metal,new wave of speed metal	9.28e-06	0.37	0.328	0.0297	147.978	0.0784	0.69
+6sLC8TGYE4HFUqSe3kWHJl	Hellripper	The Affair of the Poisons	GBCQV2000014	26	black speed metal,black thrash,british black metal,new wave of speed metal	0.00201	0.136	0.000865	0.195	163.088	0.0979	0.997
+1XIlhPjBt4udymVWzcPrwm	Deafheaven	Sunbather	USV351372928	40	atmospheric black metal,blackened screamo,blackgaze,dreamo,post-metal,usbm	3.25e-06	0.106	0.908	0.0734	154.99	0.112	0.804
+7nf794AzR4NDuhNOnkJoOd	The Tallest Man On Earth	King of Spain	USJ5G1034006	49	indie folk,stomp and holler,swedish americana,swedish singer-songwriter	0.757	0.389	2.45e-06	0.0344	131.523	0.375	0.493
+5FcLey1TteEHktzvMcTk7S	The Tallest Man On Earth	The Dreamer	USJ5G1034402	52	indie folk,stomp and holler,swedish americana,swedish singer-songwriter	0.722	0.426	4.59e-05	0.0349	170.088	0.357	0.232
+1dBje6EOpDBLdoKGo94DEa	The Tallest Man On Earth	Rivers	SEWFN1600301	52	indie folk,stomp and holler,swedish americana,swedish singer-songwriter	0.959	0.562	0.000836	0.0325	100.804	0.595	0.25
+5ewQvWOpYJ60zpy9Ap8aK0	The Tallest Man On Earth	The Gardener	USJ5G1093206	53	indie folk,stomp and holler,swedish americana,swedish singer-songwriter	0.928	0.494	0.0	0.0264	95.445	0.415	0.533
+5u9NUat59IiQFVEzZ4r3Np	The Tallest Man On Earth	Love is All	USJ5G1034007	58	indie folk,stomp and holler,swedish americana,swedish singer-songwriter	0.931	0.624	0.000421	0.03	107.0	0.367	0.252
+5JEM7lT9uSyhUsKFXwGfSm	Iron & Wine	Time After Time	QM25R1600601	64	chamber pop,indie folk,stomp and holler	0.811	0.627	0.0587	0.0321	125.305	0.639	0.247
+1fEGtTZjrjJW8eUeewnNJR	Iron & Wine	Flightless Bird, American Mouth	USSUB0771012	68	chamber pop,indie folk,stomp and holler	0.827	0.369	0.0541	0.0259	154.899	0.177	0.403
+1JO1xLtVc8mWhIoE3YaCL0	The Turtles	Happy Together	USA560587940	76	brill building pop,bubblegum pop,classic rock,folk rock,psychedelic rock	0.55	0.584	1.38e-05	0.0328	120.175	0.588	0.367
+5yau40VqEGXgvWwvJCOafc	Billy Joel	Pressure	USSM18100395	40	classic rock,folk rock,mellow gold,piano rock,rock,singer-songwriter,soft rock	0.0152	0.557	0.00128	0.0441	149.183	0.905	0.766
+6iGU74CwXuT4XVepjc9Emf	The Beach Boys	God Only Knows - Mono / 1997 Remastered	USCA29600682	68	baroque pop,brill building pop,classic rock,psychedelic rock,rock,sunshine pop	0.253	0.521	0.0	0.0299	117.072	0.483	0.487
+1i6N76fftMZhijOzFQ5ZtL	Talking Heads	Psycho Killer - 2005 Remaster	USWB10502860	74	art punk,art rock,dance rock,funk rock,new wave,permanent wave,post-punk,rock,zolo	0.0708	0.721	0.00545	0.0613	123.118	0.942	0.521
+5CI1FP2Volc9wjz2MBZsGx	Irene Cara	Fame	USNLR1200531	67	disco,new romantic,new wave pop,soft rock	0.132	0.7	0.0	0.0311	130.519	0.961	0.73
+4KfSdst7rW39C0sfhArdrz	Heart	Barracuda	USSM10009075	73	album rock,classic rock,hard rock,heartland rock,mellow gold,new wave pop,pop rock,rock,soft rock	0.015	0.548	0.106	0.0369	137.145	0.667	0.691
+6vrUTGn5p8IrfTZ0J6sIVM	The Goo Goo Dolls	Iris	USWB10704707	75	neo mellow,permanent wave,pop rock	0.00133	0.291	5.61e-06	0.0363	155.667	0.513	0.79
+1Je1IMUlBXcx1Fz0WE7oPT	Spice Girls	Wannabe	GBAAA9600008	81	dance pop,europop,girl group,pop	0.101	0.768	0.0	0.0324	110.008	0.891	0.864
+5MxNLUsfh7uzROypsoO5qe	Aerosmith	Dream On	USSM10011897	79	album rock,classic rock,hard rock,rock	0.388	0.307	9.08e-05	0.029	160.9	0.224	0.433
+3Cx4yrFaX8CeHwBMReOWXI	Billy Joel	We Didn't Start the Fire	USSM18900217	76	classic rock,folk rock,mellow gold,piano rock,rock,singer-songwriter,soft rock	0.0771	0.712	0.0	0.047	145.024	0.895	0.967
+43DeSV93pJPT4lCZaWZ6b1	Thin Lizzy	The Boys Are Back In Town	GBF087600063	75	album rock,art rock,blues rock,classic rock,hard rock,irish rock,metal,rock	0.234	0.445	0.000252	0.0461	80.823	0.768	0.706
+3MjUtNVVq3C8Fn0MP3zhXa	Britney Spears	...Baby One More Time	USJI19810404	79	dance pop,pop,post-teen pop	0.202	0.759	0.000131	0.0307	92.96	0.907	0.699
+5zA8vzDGqPl2AzZkEYQGKh	Billy Joel	Uptown Girl	USSM18300270	79	classic rock,folk rock,mellow gold,piano rock,rock,singer-songwriter,soft rock	0.0755	0.701	0.0	0.0455	128.993	0.792	0.944
+78MI7mu1LV1k4IA2HzKmHe	Ella Fitzgerald,Louis Armstrong	Dream A Little Dream Of Me - Single Version	USMC15076750	65	adult standards,jazz blues,lounge,swing,vocal jazz	0.913	0.443	0.0	0.101	76.497	0.394	0.104
+0fIFjeeLJjIBliWUCsxyMF	Jorja Smith	Teenage Fantasy	US23A1500540	61	pop,r&b,uk contemporary r&b	0.47	0.583	0.193	0.439	176.119	0.495	0.677
+6WrmLwCaV8tgq34wtBIBXn	Dream Widow	Come All Ye Unfaithful	USRW32200010	43		2.73e-05	0.273	0.114	0.0886	82.578	0.223	0.916
+7ezrc9VG9RlDvRaEOt0K6D	Dream Widow	Angel With Severed Wings	USRW32200008	43		9.72e-06	0.253	0.00809	0.111	161.611	0.16	0.949
+58bkJBSouJt9mMdZkYj4ND	Dream Widow	The Sweet Abyss	USRW32200009	46		8.76e-06	0.111	0.76	0.0737	165.373	0.303	0.978
+58bqM9Eees0hIoem8ed3GF	Dream Widow	March of the Insane	USRW32200004	45		0.000136	0.17	0.352	0.232	162.402	0.06	0.998
+3QmesrvdbPjwf7i40nht1D	Foo Fighters	Everlong - Acoustic Version	USRW30900002	68	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	0.909	0.643	0.0112	0.0349	144.171	0.547	0.344
+67vYdAAM3oGsEImCRfbtsF	Foo Fighters	Times Like These	USRW30200005	69	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	1.4e-05	0.376	1.4e-05	0.0879	144.581	0.266	0.908
+4dVbhS6OiYvFikshyaQaCN	Foo Fighters	My Hero	USRW29600007	73	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	6.2e-05	0.398	0.000177	0.0567	77.106	0.311	0.927
+6tsojOQ5wHaIjKqIryLZK6	Foo Fighters	All My Life	USRW30200001	73	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	0.000218	0.577	0.000579	0.0495	167.719	0.637	0.604
+5FZxsHWIvUsmSK1IAvm2pp	Foo Fighters	Best of You	USRW30500001	76	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	0.000769	0.366	9.42e-05	0.0696	130.198	0.369	0.94
+5OQsiBsky2k2kDKy2bX2eT	Foo Fighters	Learn to Fly	USRW39900002	76	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	1.83e-05	0.465	2.07e-05	0.0408	135.997	0.537	0.919
+7x8dCjCr0x6x2lXKujYD34	Foo Fighters	The Pretender	USRW30700007	78	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	0.000917	0.433	0.0	0.0431	172.984	0.365	0.959
+5UWwZ5lm5PKu6eKsHAGxOk	Foo Fighters	Everlong	USRW29600011	81	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	5.99e-05	0.413	0.000308	0.0367	158.066	0.364	0.881
+3xCXhaBXTPK8QC1AmsQjJQ	MJ Cole,Kojey Radical	Soak It Up	US23A1500762	37	bass house,speed garage,uk funky,uk garage	0.875	0.471	0.069	0.198	98.257	0.122	0.585
+202lm9YX5WmAac83tOGlVn	Jorja Smith	Don't Watch Me Cry	QM4TW1828151	62	pop,r&b,uk contemporary r&b	0.887	0.559	0.0	0.0414	130.877	0.348	0.157
+2dEVAvwPAJrWFErXxREGVX	Carla Morrison	Eres Tú	TCABE1225283	65	mexican pop	0.806	0.618	0.0	0.046	188.115	0.458	0.307
+2vIqk3eBo6y461PRWphsAr	A.A. Williams	Belong	GBMLT1501296	14	ambient pop	0.182	0.113	0.368	0.0378	207.702	0.0389	0.28
+0dw3ZgJ3h4ICWxGsoaz4dm	Skunk Anansie	Secretly	GBAAA9820880	49	british alternative rock,pop rock	0.144	0.495	4.58e-05	0.0492	86.844	0.306	0.567
+5YwVDOWMKH7T0KtvpPSESQ	Hooverphonic	Mad About You - Live at Koningin Elisabethzaal 2012	BEB471200174	55	downtempo,electronica,trip hop	0.606	0.386	0.000243	0.0377	77.881	0.188	0.445
+3hXtTHo8l8XEPwufhz3rTk	Devin Townsend Project	Deadhead - Live	CA1TB1500014	38	avant-garde metal,canadian metal,djent,progressive metal,vancouver metal	4.03e-05	0.391	0.775	0.0411	113.998	0.164	0.715
+1CbxG199T0fzfUV5EO7aPV	Free Nationals,Chronixx	Eternal Light	USUYG1276413	69	alternative r&b,indie soul	0.648	0.793	0.000132	0.271	141.85	0.898	0.465
+2Z7OqfuQ0vqeumr9mVYqT0	Guano Apes,Ronald Prent	Rain	DEC689700515	25	alternative metal,funk metal,funk rock,german alternative rock,german rock,nu metal	0.0982	0.57	3.32e-06	0.027	82.54	0.161	0.596
+33jt3kYWjQzqn3xyYQ5ZEh	Ella Fitzgerald,Louis Armstrong	Cheek To Cheek	USPR35612075	65	adult standards,jazz blues,lounge,swing,vocal jazz	0.706	0.663	0.0	0.0914	122.482	0.657	0.264
+6Jv7kjGkhY2fT4yuBF3aTz	Jeff Buckley	Lover, You Should've Come Over	USSM19400916	60	art rock,melancholia,permanent wave,rock,singer-songwriter	0.361	0.387	1.1e-05	0.0389	119.38	0.151	0.595
+1Zqs6A90va6FUxQ7KJAckG	The Marías	...baby one more time	SE5VF1905556	60	bedroom pop,indie pop,la indie	0.644	0.706	0.0221	0.0487	179.999	0.678	0.169
+410rGaFDJPwjsr9m9RPCkz	The Marías	All I Really Want Is You	USAT22100693	59	bedroom pop,indie pop,la indie	0.912	0.644	0.0498	0.124	75.96	0.374	0.422
+08oCsArCzfKx4HQL22rMRO	Anomalie,Chromeo,Mndsgn	Bend The Rules - Mndsgn Remix	CAK472102901	26	future bass,jazztronica	0.0535	0.684	7.91e-05	0.0936	83.951	0.669	0.512
+5NbdN6rPwkntsk9rdHO4vl	Moonchild	The List	GBEUE1700027	54	indie jazz,indie r&b,indie soul,neo r&b	0.866	0.442	0.0366	0.277	82.824	0.343	0.345
+0Y0JVqSlj8J512B5kjKekP	Moonchild	Back to Me	uscgj1295200	46	indie jazz,indie r&b,indie soul,neo r&b	0.571	0.88	0.0437	0.471	94.112	0.812	0.22
+7eWGnKg4B44sbBPpQp4y2c	Thundercat	Dragonball Durag	GBCFB2000018	63	afrofuturism	0.697	0.648	0.808	0.0942	81.045	0.401	0.59
+6xhBMexgwMR1UMVoE0O7mZ	Shrek Is Love	Lord Farquaad	TCACX1731161	30		0.633	0.577	6.29e-06	0.0754	107.589	0.313	0.429
+3ynqGo5QvzIvKnfAahXatd	Bongripper	S	ushm21889467	28	doom metal,drone metal,post-doom metal,post-metal,psychedelic doom,sludge metal,stoner metal,stoner rock	4.15e-06	0.269	0.787	0.0536	112.511	0.1	0.702
+6wxodlGXt2JkQXgekJ9mpk	Hellripper	Bastard of Hades	GBSMU3624951	34	black speed metal,black thrash,british black metal,new wave of speed metal	8.1e-06	0.361	0.324	0.167	172.012	0.416	0.993
+5dynJMmmouPhuGcVR1osVn	Shrek Is Love	Fiona	TCACX1731163	20		0.895	0.35	0.000198	0.0426	94.803	0.0723	0.389
+05RgAMGypEvqhNs5hPCbMS	Van Halen	Panama - 2015 Remaster	USWB11403681	73	album rock,classic rock,hard rock,metal,rock	0.00122	0.526	4.75e-05	0.108	141.167	0.451	0.978
+5ZIU2kT1wNjQNclQeVCz5O	Tesla	Modern Day Cowboy	USGF18612007	59	album rock,classic rock,glam metal,hard rock,rock,sacramento indie	0.0127	0.445	2.58e-06	0.0347	112.796	0.32	0.768
+2dXsILW8gzkosqleHAvl0v	Metallica	For Whom The Bell Tolls - Remastered	QMKHM1600096	71	hard rock,metal,old school thrash,rock,thrash metal	0.00563	0.518	0.00349	0.0672	117.897	0.249	0.858
+3SvTwrxQJyGJkeoPDbuNcu	Saxon	Crusader	GB01A8400013	46	album rock,glam metal,hard rock,metal,nwobhm,power metal,rock	0.000374	0.433	0.000357	0.0381	91.773	0.323	0.644
+5IX4TbIR5mMHGE4wiWwKW0	Metallica	One	GBAMC9400003	72	hard rock,metal,old school thrash,rock,thrash metal	0.00111	0.437	0.0857	0.0617	102.178	0.413	0.695
+1aVChMRP6I3ViAIlnW3WYS	Twisted Sister	Burn in Hell	USAT20000549	51	album rock,glam metal,hard rock,metal,rock	0.00151	0.357	0.000527	0.0482	107.126	0.624	0.828
+4Z69VxUgbZyMX7uN6Xg0q9	Mötley Crüe	Live Wire	USBY29900144	65	glam metal,hard rock,rock,sleaze rock	9.37e-05	0.411	7.57e-06	0.063	112.24	0.679	0.904
+6VZivrPxu9MJ5rIPIERg56	Mötley Crüe	Shout At The Devil	USBY29900159	68	glam metal,hard rock,rock,sleaze rock	0.0221	0.5	4.21e-05	0.072	94.544	0.45	0.946
+4fiOTntQKr24p07FvQDHZE	Slayer	Raining Blood	USSM18600241	64	alternative metal,death metal,hard rock,metal,nu metal,old school thrash,rock,speed metal,thrash metal	0.000405	0.227	0.393	0.173	87.499	0.0363	0.995
+3U9gogDStAfWxSm91PJuxb	Slayer	South Of Heaven	USSM18800154	62	alternative metal,death metal,hard rock,metal,nu metal,old school thrash,rock,speed metal,thrash metal	0.000132	0.31	0.085	0.316	140.071	0.0395	0.991
+6w8dBm5KlXxWejYrbGS1EJ	W.A.S.P.	I Wanna Be Somebody	GBCQV8400008	61	album rock,glam metal,hard rock,metal,rock	0.000826	0.285	0.0	0.0466	164.611	0.516	0.825
+6SUudbR4vTazN9Jb7QWQn5	Saxon	Princess of the Night	GB01A8100015	49	album rock,glam metal,hard rock,metal,nwobhm,power metal,rock	0.000292	0.33	0.000262	0.0562	106.807	0.672	0.841
+7BF627yIxHuxETi7HaEdnT	Scorpions	Big City Nights - 2015 - Remaster	DELV41501033	52	album rock,german hard rock,german metal,german rock,hard rock,metal,rock	0.000636	0.499	0.0025	0.069	137.627	0.662	0.936
+2dbOYFfS7r7NAzquRvji9A	Accept	Balls to the Wall	USSM18400165	61	album rock,german heavy metal,german metal,glam metal,hard rock,metal,power metal,rock,speed metal,thrash metal	0.00392	0.544	0.000143	0.0517	118.287	0.328	0.739
+7iEVmnzJr1V7duYKPWplzp	Def Leppard	Bringin' On The Heartbreak	GBF088100613	59	album rock,hard rock,nwobhm,rock	0.0366	0.329	0.0	0.0324	78.217	0.529	0.676
+2W7CvGjipq3EmHqNGN7lN9	Dokken	Breaking the Chains	USEE10100795	57	album rock,glam metal,hard rock,metal,rock	0.00914	0.526	0.0	0.0531	125.349	0.458	0.9
+2tAeN2TKlQLOoSPXtARzBV	Van Halen	Eruption - 2015 Remaster	USWB11403669	63	album rock,classic rock,hard rock,metal,rock	0.469	0.225	0.813	0.0555	93.798	0.5	0.689
+4JrvsfwMdWJyEbV0DDZTtd	Def Leppard	Wasted	GBF087900786	47	album rock,hard rock,nwobhm,rock	0.00249	0.247	0.0241	0.103	176.364	0.572	0.963
+4ie42LCUKcp68EnZOMw9PG	Saxon	Wheels of Steel - 2009 Remastered Version	GB01A0900049	52	album rock,glam metal,hard rock,metal,nwobhm,power metal,rock	0.00147	0.539	0.742	0.0517	131.374	0.143	0.783
+1OwcckpLpQLDrAkBKYLEAX	Whitesnake	Fool for Your Loving - 2011 Remaster	GB01A1100205	52	album rock,british blues,classic rock,glam metal,hard rock,metal,rock	0.0368	0.597	7.56e-06	0.0581	122.417	0.74	0.92
+4f3RDq9nYPBeR1yMSgnmBm	Judas Priest	You've Got Another Thing Coming	GBBBN8202007	66	album rock,birmingham metal,hard rock,metal,power metal,rock	0.00572	0.519	4.33e-06	0.0496	138.225	0.532	0.833
+74BDVL4TC3P8wyrYViuVjO	Mötley Crüe	Looks That Kill	USBY29900160	64	glam metal,hard rock,rock,sleaze rock	0.00327	0.485	0.00631	0.0404	135.972	0.742	0.949
+2lRhq1ZfHNiaVNHkTWeXUv	Rainbow	Long Live Rock N Roll	USPR37880079	56	album rock,blues rock,classic rock,glam metal,hard rock,metal,rock	0.00376	0.345	0.0	0.0553	142.378	0.434	0.924
+54yLLvpezvPO1lA3GspiZj	Dio	Holy Diver	NLF050390016	66	album rock,glam metal,hard rock,metal,power metal,rock	0.0125	0.473	0.475	0.0869	91.976	0.124	0.783
+3D8KAebbZgAFdVjTrsNgOI	Girlschool	Race with the Devil	GBAJE8000032	53	hard rock,metal,nwobhm	0.000238	0.21	0.671	0.111	169.758	0.329	0.882
+7txxAtOMwLLnQTpKeBL6bp	Danzig	Mother	USSM18800169	74	album rock,alternative metal,hard rock,metal,nu metal,rock	0.00726	0.365	0.000457	0.0591	148.366	0.342	0.763
+4G3Nnoae2XF1cdbdgATKKq	Angel Witch	Angel Witch	GBAJE8000037	49	doom metal,metal,nwobhm,nwothm	0.000407	0.238	0.002	0.0624	193.044	0.732	0.759
+0L7zm6afBEtrNKo6C6Gj08	Judas Priest	Painkiller	GBBBN0102557	66	album rock,birmingham metal,hard rock,metal,power metal,rock	0.000195	0.435	0.0847	0.16	103.16	0.101	0.987
+6oIQz7syZpUZmy9FsyNykC	Derby Motoreta’s Burrito Kachimba	RGTQ	ES5702002536	31	rock andaluz,sevilla indie,spanish progressive rock	0.000544	0.376	0.0195	0.0589	139.82	0.201	0.87
+69Ev2MrwK7h8jEsMCAtRsv	Derby Motoreta’s Burrito Kachimba	13 Monos	ES5702002540	27	rock andaluz,sevilla indie,spanish progressive rock	0.0178	0.339	0.0555	0.11	89.111	0.392	0.759
+6zJdR4VAP6NjQcUfWrlkQV	Derby Motoreta’s Burrito Kachimba	El Valle	ES5702001586	41	rock andaluz,sevilla indie,spanish progressive rock	0.000146	0.356	0.00481	0.0499	133.076	0.582	0.856
+40c3hHsCAMKpXcONsq19r0	Derby Motoreta’s Burrito Kachimba	El Salto Del Gitano	ES5701801462	29	rock andaluz,sevilla indie,spanish progressive rock	0.0788	0.345	0.000528	0.261	151.704	0.318	0.913
+2LI1TqlzgsDC84sAVOmiKx	Derby Motoreta’s Burrito Kachimba	Aliento De Dragón	ES5701801460	11	rock andaluz,sevilla indie,spanish progressive rock	0.0393	0.325	0.414	0.389	162.928	0.11	0.967
+5meJWQuHyHDsOjWF8AtSDe	The Mars Volta	The Widow	USUR10401189	50	alternative metal,alternative rock,el paso indie,rock	0.628	0.236	0.00927	0.0349	106.222	0.106	0.658
+5coxHUKzWOdMXunt7EGDDX	Deep Purple	Sometimes I Feel Like Screaming	USBI19500096	47	album rock,blues rock,classic rock,hard rock,metal,psychedelic rock,rock	0.00623	0.467	0.107	0.0293	89.658	0.188	0.704
+1udmPvJoBnqitbeYKKc9mc	Black Sabbath	Black Sabbath	GBAJE7000076	54	album rock,birmingham metal,classic rock,hard rock,metal,rock,stoner rock,uk doom metal	0.0493	0.344	0.0278	0.0421	132.809	0.123	0.449
+2ksadH0rmJCMAQ8r3Najnt	Celtic Frost	Mexican Radio	DEA249919001	46	black metal,black thrash,death metal,deathrash,doom metal,metal,old school thrash,swiss black metal,swiss metal	3.43e-05	0.245	0.182	0.0863	178.555	0.456	0.933
+2wkzXvuF7mRJXQdVxz1fo7	Venom	Don't Burn the Witch	GBAJE8200121	44	black metal,black thrash,british black metal,death metal,hard rock,metal,nwobhm,old school thrash,speed metal,thrash metal	0.0117	0.39	8.91e-05	0.0385	97.549	0.269	0.752
+1mli8PqKfzPyGXEwXsS59c	Enforcer	Undying Evil	DED831401047	39	metal,new wave of speed metal,nwothm,speed metal,swedish heavy metal,thrash metal,varmland rock	1.79e-05	0.318	0.0408	0.0863	187.045	0.493	0.949
+58qToQt5BeTlrqbJbfZKWR	Midnight	You Can't Stop Steel	USMBR1914101	37	black 'n' roll,black speed metal,metal,new wave of speed metal,nwothm	3.51e-06	0.167	0.442	0.068	128.765	0.414	0.973
+6jwaOZS3PhZk4SNxII4Uof	Deathhammer	Warriors of Evil	usdy41594303	25	black speed metal,black thrash,nwothm	7.8e-06	0.0722	0.335	0.174	199.539	0.347	0.981
+1syoyZwkr3kMFsMSBqb52w	Ricochets	The Ghost Of Our Love	SELAA0300111	41	norwegian psychedelic,norwegian rock	0.0502	0.218	0.164	0.0328	172.092	0.248	0.599
+63nLye6avn0UG200bhfAyU	Blues Pills	Black Smoke	DED831400535	30	modern blues rock,modern hard rock,swedish stoner rock	0.0147	0.189	0.000174	0.164	165.996	0.158	0.902
+3gTAQMY9duLTN1lPxvYKzo	O Bisonte	E Depois do Adeus	QZDA62175963	1	portuguese indie rock	0.0031	0.494	0.0	0.0332	134.731	0.177	0.564
+3tVVm0BSd1HOdNkamXRLqP	King Dude	Who Taught You How to Love	USA2P1677633	37	dark jazz,grave wave,neofolk	0.0616	0.437	0.92	0.0365	79.976	0.116	0.64
+2bFDQQQcbzMVLUMBcXelsy	Port Noir	Puls	SEWBD1307504	12	modern alternative rock	0.000679	0.297	0.000156	0.0396	120.299	0.177	0.633
+7il399lezGveBfUpkTT4gh	Leprous	Castaway Angels	GBDHC2121901	40	norwegian metal,prog metal,progressive metal	0.387	0.537	0.00299	0.0381	109.007	0.0716	0.425
+3u7a2c9595rXVuZUEh9a8H	Leprous	Out of Here	GBDHC2121902	42	norwegian metal,prog metal,progressive metal	0.786	0.613	0.0169	0.0296	114.981	0.601	0.406
+2cXtLOiUWyCDebAT65p5cJ	Leprous	Nighttime Disguise	GBDHC2121910	44	norwegian metal,prog metal,progressive metal	0.256	0.425	0.0452	0.039	135.9	0.0974	0.48
+1NqfYpyOzRy18ErwAlXijn	Midnight	Telepathic Nightmare	USMBR2215121	31	black 'n' roll,black speed metal,metal,new wave of speed metal,nwothm	7.09e-06	0.224	0.73	0.212	153.843	0.038	0.995
+6AMHU0sIM1xjGlnq1Jlm8W	Midnight	Satanic Royalty	USMBR1914100	33	black 'n' roll,black speed metal,metal,new wave of speed metal,nwothm	6.77e-05	0.207	0.521	0.124	137.119	0.125	0.89
+4tVzcd2nExn6zGYJRHwV4q	Midnight	Fucking Speed and Darkness	USMBR1913953	34	black 'n' roll,black speed metal,metal,new wave of speed metal,nwothm	4.94e-06	0.165	0.0046	0.0877	158.414	0.369	0.961
+1Oep4HqXu8tW6BgQzqmoYJ	Whitesnake	You're Gonna Break My Heart Again - 2018 Remaster	GB01A1800014	32	album rock,british blues,classic rock,glam metal,hard rock,metal,rock	0.000966	0.324	8.79e-06	0.0825	147.694	0.268	0.896
+7zydM7FeDlFUPCXdY2GCgZ	Whitesnake	Fool for Your Loving	GB01A8900003	34	album rock,british blues,classic rock,glam metal,hard rock,metal,rock	0.000833	0.585	0.0189	0.0564	122.132	0.747	0.906
+2OgVsp77En2nju8pnCieVU	Foreigner	Waiting for a Girl like You	USAT20803008	71	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.31	0.33	2.3e-06	0.0335	201.327	0.433	0.469
+2aEuA8PSqLa17Y4hKPj5rr	Modern Talking	Cheri Cheri Lady	DEC738500001	69	eurodance,europop,german pop,synthpop	0.458	0.677	0.0132	0.032	114.223	0.851	0.616
+756CJtQRFSxEx9jV4P9hpA	The Darkness	I Believe in a Thing Called Love	GBAHS0300635	70	glam metal,hard rock,rock	0.0538	0.442	4.71e-06	0.0764	128.235	0.622	0.846
+7mJ9n1EaruTwLbgcQC5AGp	Mötley Crüe	Too Fast For Love	USBY29900151	53	glam metal,hard rock,rock,sleaze rock	8.18e-05	0.402	2.18e-05	0.062	150.3	0.822	0.873
+34RISamoO5iubsOanSlpQo	Deep Purple	Mistreated - Remastered 2004	GBDXG0400007	45	album rock,blues rock,classic rock,hard rock,metal,psychedelic rock,rock	0.0566	0.342	0.0212	0.039	126.558	0.547	0.622
+68ZY22YJeDxvcpQCg6u6SX	Steel Panther	Eyes Of A Panther	USUM70965167	58	comic,comic metal,glam metal,hard rock,metal,rock,sleaze rock	0.000744	0.38	0.0	0.143	178.044	0.577	0.961
+5yC78OpjjEeqjrDQhnIYkV	Mötley Crüe	Piece Of Your Action	USBY29900149	50	glam metal,hard rock,rock,sleaze rock	8.36e-05	0.448	0.000718	0.0452	134.19	0.644	0.904
+5KQY3KDpQ3tO29W7iJNfFq	Judas Priest	Rock Hard Ride Free	GBBBN8402035	43	album rock,birmingham metal,hard rock,metal,power metal,rock	0.00253	0.348	0.048	0.0457	136.681	0.368	0.829
+7tonSbBihmf9e0oFWfFRGd	Derby Motoreta’s Burrito Kachimba	The New Gizz	ES5701801459	34	rock andaluz,sevilla indie,spanish progressive rock	0.108	0.274	0.0542	0.213	154.799	0.3	0.94
+1zbACBLOhtXNCdZsUBRcak	Derby Motoreta’s Burrito Kachimba	Nana Del Caballo Grande	ES5701900841	34	rock andaluz,sevilla indie,spanish progressive rock	0.0105	0.252	0.00137	0.0459	126.935	0.0863	0.605
+1H6L4i6TYihdzLYyii1vUL	Derby Motoreta’s Burrito Kachimba	Aliento De Dragón	ES5701801460	36	rock andaluz,sevilla indie,spanish progressive rock	0.0393	0.325	0.414	0.389	162.928	0.11	0.967
+1VzvTNbSHxh60k8afoGlWp	Medieval Steel	Medieval Steel	ushm92126750	31	nwothm	0.000386	0.382	0.00149	0.0442	112.479	0.334	0.772
+46FW5ZZ6fOF1WpMTEOVEHX	Van Halen	Runnin' with the Devil	USWB17700032	46	album rock,classic rock,hard rock,metal,rock	0.148	0.458	8.4e-05	0.0634	95.687	0.477	0.931
+1pTw2cNrp9L3esxLAvWnN2	Journey	Separate Ways (Worlds Apart)	USSM18300106	62	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.0189	0.467	4.51e-06	0.0576	131.536	0.453	0.943
+3kpgp6eGNOkqrmMrrD5UGp	Black Sabbath	Heart Like a Wheel - 2009 Remaster	GBUM70900409	23	album rock,birmingham metal,classic rock,hard rock,metal,rock,stoner rock,uk doom metal	0.00891	0.457	0.062	0.0441	98.002	0.426	0.734
+5HQEmiV2lKnSO6qa2fsR7x	10cc	I'm Not In Love	GBF087500001	70	album rock,art rock,classic rock,classic uk pop,folk rock,glam rock,mellow gold,rock,soft rock,symphonic rock,yacht rock	0.685	0.404	0.000498	0.0575	133.738	0.164	0.523
+10I09MLZCY4pK37XxAfkw0	Spandau Ballet	True - 2003 Remaster	GBAYK0200008	63	mellow gold,new romantic,new wave,new wave pop,soft rock,sophisti-pop,synthpop	0.359	0.777	0.11	0.0277	97.623	0.335	0.521
+0ofHAoxe9vBkTCp2UQIavz	Fleetwood Mac	Dreams - 2004 Remaster	USWB11301111	83	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.0644	0.828	0.00428	0.0276	120.151	0.789	0.492
+0Z9UkcT1pnrmLciUJPcMMS	Spandau Ballet	Gold - 2003 Remaster	GBAYK0200004	64	mellow gold,new romantic,new wave,new wave pop,soft rock,sophisti-pop,synthpop	0.25	0.724	0.0016	0.0337	143.116	0.729	0.802
+2PFIZFcGry0po3ZfRZkzKc	Def Leppard	Hysteria	GBF088700612	69	album rock,hard rock,nwobhm,rock	0.0318	0.659	0.0144	0.0274	107.01	0.659	0.846
+2956v4MaiU78SkPpeTXxhq	Emperor	I Am The Black Wizards	GBADD0403007	46	black metal,metal,norwegian black metal,norwegian metal,symphonic black metal,symphonic metal,technical black metal	7.68e-05	0.146	0.905	0.0838	104.353	0.0891	0.947
+38iEeqObEg7QMPny61zmKC	Leprous	Running Low	GBDHC2121909	41	norwegian metal,prog metal,progressive metal	0.0172	0.221	0.286	0.0373	77.488	0.127	0.496
+0MU1TyyAbuoXLGiQBgW9CI	Judas Priest	Night Crawler	GBBBN0102562	55	album rock,birmingham metal,hard rock,metal,power metal,rock	0.000148	0.481	0.0555	0.143	97.106	0.102	0.981
+3sSonVXqDeoEFj2lM7mpYT	Death	Spirit Crusher	US2641115403	51	alternative metal,death metal,dissonant death metal,florida death metal,metal,rock,technical death metal	4.66e-05	0.289	0.0163	0.15	97.076	0.284	0.968
+0dpFb4qv92TE9R00Lq4SAW	Death	Symbolic	NLA329501640	51	alternative metal,death metal,dissonant death metal,florida death metal,metal,rock,technical death metal	6.65e-05	0.364	0.0124	0.195	113.772	0.127	0.982
+69Yia3qCLw6N9U80WhLwLn	Death	Voice of the Soul	US2641115406	57	alternative metal,death metal,dissonant death metal,florida death metal,metal,rock,technical death metal	0.000926	0.158	0.893	0.0346	79.176	0.347	0.572
+6Y6iLizkbX1rASdQrk4z0i	I Built the Sky,Jake Howsam Lowe,Andre Nieri	Ascendant	QZK6M2137385	24	instrumental djent,instrumental progressive metal	8.29e-05	0.194	0.92	0.119	100.035	0.204	0.939
+3e5ZO9xJjGr3DMbM0elwjG	I Built the Sky,Jake Howsam Lowe	Mirage	QZK6M2137382	24	instrumental djent,instrumental progressive metal	1.56e-05	0.255	0.849	0.188	113.659	0.151	0.955
+40cmtFelC3xeexIMF7gEGT	I Built the Sky,Jake Howsam Lowe	Coalesce	QZK6M2137381	30	instrumental djent,instrumental progressive metal	0.000343	0.207	0.899	0.166	118.528	0.219	0.964
+2P3OwLmz095p0PIMwkrQOh	I Built the Sky,Jake Howsam Lowe	Stonewalker	QZK6M2137383	38	instrumental djent,instrumental progressive metal	1.79e-05	0.459	0.901	0.129	90.009	0.34	0.947
+6x3F78StZa2Mz4gbizcdHg	Connor Kaminski,Plini,RO1	Bergamot	QZHN62242069	37	instrumental progressive metal	0.000157	0.466	0.773	0.0437	139.039	0.18	0.842
+3ezEGD0B47pMVQMHrhBkYA	Connor Kaminski	Levania	QZES61816737	0	instrumental progressive metal	0.866	0.316	0.93	0.0317	149.559	0.194	0.0763
+6Go8lWqKUx0fGY4thfbxpq	Connor Kaminski	Solstice	QZES61951571	10	instrumental progressive metal	0.008	0.257	0.868	0.072	97.116	0.234	0.881
+1qAdycadYMbhutFNGPEebX	Connor Kaminski,Zoe Stirzaker	Somnium	QZES61816741	11	instrumental progressive metal	0.00795	0.335	0.895	0.0541	63.006	0.0768	0.789
+5sW2EsH2GZGxP9QrhNYqI8	Connor Kaminski	Taiga	QZES61816739	13	instrumental progressive metal	0.827	0.522	0.887	0.036	140.048	0.0383	0.405
+15laH31ISUH7rtQ6MU5v8j	Connor Kaminski,Poh Hock Kee	Hypertension	QZES61816740	11	instrumental progressive metal	0.000288	0.318	0.918	0.0485	118.111	0.105	0.839
+0cllTZ5bchgtbe0fD8mQI5	Connor Kaminski	Bravura	QZES61816738	12	instrumental progressive metal	0.000407	0.27	0.905	0.0558	99.782	0.0991	0.857
+0viWUGNG37ZEpLkSil5JYZ	Connor Kaminski	The Haven	QZES72029111	13	instrumental progressive metal	0.00117	0.401	0.942	0.101	105.001	0.0385	0.969
+1nbP6RPs5WtlzBHxEHZDE2	Connor Kaminski	Restart	QZES92012759	15	instrumental progressive metal	0.099	0.474	0.851	0.0323	92.052	0.0386	0.265
+15JEx7I3gu9S6mZ74K2C2T	Connor Kaminski	Noon Dreamer	QZES92012761	16	instrumental progressive metal	0.000797	0.51	0.829	0.0837	104.993	0.0664	0.95
+5rTkosDj3SctQghimtqYXz	Plini	Impulse Voices	AUMEV2025547	40	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.0283	0.671	0.824	0.0512	125.015	0.68	0.79
+4uehGJ2tDdzmbZVeV8E3pX	Plini	Cascade	TCACR1606813	42	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.00232	0.487	0.901	0.0694	129.989	0.454	0.842
+4S0iFqlxNbwThYQWRgvBDB	Plini	Pan	AUMEV2025548	43	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.00298	0.523	0.881	0.0354	129.936	0.208	0.909
+257CrtLcfv4n9bBuDU4vgQ	Plini	Handmade Cities	TCACR1606808	44	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.0497	0.588	0.684	0.0434	102.941	0.437	0.755
+1kuUcD74m4Pqmu3LYjNvMo	Plini	Every Piece Matters	TCACR1606810	45	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.0872	0.673	0.661	0.0275	109.999	0.604	0.644
+5iPuyK4PjYTM7qngxxxPRI	Plini	I'll Tell You Someday	TCAFC2059249	46	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.044	0.497	0.905	0.0333	139.979	0.204	0.792
+2nJw7Vz6VTGuxrtYWGChbZ	Plini	Selenium Forest	TCABM1390037	47	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.0658	0.472	0.9	0.0383	149.97	0.36	0.72
+4ZskYxIkEE0PhYCLHsxcF6	Plini	Electric Sunrise	TCACR1606807	49	djent,instrumental math rock,instrumental rock,progressive jazz fusion	0.0246	0.371	0.913	0.0521	137.92	0.221	0.63
+74irxdVWstNlEQjsvArITq	Aerosmith	Crazy	USIR10000428	74	album rock,classic rock,hard rock,rock	0.0868	0.37	0.0	0.0384	162.086	0.427	0.866
+2bm52lyV1o0zXte8Ph5Qu9	Peaches	Boys Wanna Be Her	GBBKS0611146	48	alternative dance,art pop,dance-punk,electroclash,escape room,new rave	0.159	0.775	1.15e-06	0.0952	139.023	0.719	0.512
+0mpPDlOODLemmTf4mBEHqE	The Runaways	Cherry Bomb	USIR20200576	54	early us punk,protopunk	0.0455	0.501	4.75e-05	0.0638	136.59	0.495	0.813
+50h69YFPJeztSbpRGRtNw3	Nunslaughter	Leave me in my Grave	QZHNC2248346	4	black death,death metal,pittsburgh metal	5.14e-05	0.142	0.545	0.214	190.786	0.0719	0.995
+3xn2Pk5VYs4OrGzU3aJtPg	King Dude,Chelsea Wolfe	Bed on Fire	USA2P1435916	24	dark jazz,grave wave,neofolk	0.861	0.367	0.69	0.0314	72.546	0.154	0.337
+0Mg797QegnaC7LIRVU0WYh	King Dude,Chelsea Wolfe	Be Free	USA2P1435915	43	dark jazz,grave wave,neofolk	0.0164	0.2	0.0948	0.0526	101.75	0.699	0.774
+6MXw4zXuXqY5cFMZj7uxao	David Bruno	Com Contribuinte	PTRO11900164	22	portuguese indie,rap portuense	0.0293	0.659	0.597	0.0466	99.624	0.453	0.478
+49dJWtriCLlP59n4otDlk5	Black Sabbath	Danger Zone - 2009 Remaster	GBUM70900408	29	album rock,birmingham metal,classic rock,hard rock,metal,rock,stoner rock,uk doom metal	0.0125	0.45	0.00148	0.054	139.186	0.322	0.861
+7jrHexuVOcJL4XMwrtg6BD	Bongripper	Reefer Sutherland	usx9p0758804	32	doom metal,drone metal,post-doom metal,post-metal,psychedelic doom,sludge metal,stoner metal,stoner rock	7.86e-05	0.219	0.848	0.0358	98.97	0.2	0.702
+3DgjbN7e2gppallutVbat6	CUT_	Out Of Touch	NLD321800435	58	indie electropop	0.375	0.726	0.452	0.0389	124.995	0.473	0.6
+5NN25Yp2kcE0Qrm2J9V7Uq	Leprous	The Valley	GBDHC1365005	33	norwegian metal,prog metal,progressive metal	0.00718	0.407	0.00762	0.0395	144.871	0.134	0.739
+74vy9v25MuoqNVBdAjGwJC	Leprous	Stuck	GBDHC1779202	40	norwegian metal,prog metal,progressive metal	0.00987	0.308	0.0488	0.0472	98.014	0.212	0.731
+6RYWCMf5LvlUlgyYPTtplQ	Leprous	Slave	GBDHC1571308	38	norwegian metal,prog metal,progressive metal	0.00063	0.153	0.00222	0.0549	141.901	0.213	0.807
+7hmrQ2BhpdcHPqL3KGxuyj	Lantlôs	Melting Sun V: Oneironaut	DES561414805	20	atmospheric black metal,blackgaze,doomgaze,german black metal,post-metal	0.187	0.145	0.957	0.0423	137.224	0.0724	0.107
+6z31G6R0Gj5EObSFQXQdmc	Lantlôs	Melting Sun IV: Jade Fields	DES561414804	35	atmospheric black metal,blackgaze,doomgaze,german black metal,post-metal	5.65e-05	0.443	0.698	0.0387	118.488	0.0847	0.883
+03ot3KNJ0RvqbL2x1AYmlj	Lantlôs	Melting Sun III: Aquamarine Towers	DES561414803	22	atmospheric black metal,blackgaze,doomgaze,german black metal,post-metal	4.98e-05	0.361	0.906	0.0469	151.017	0.14	0.802
+3K3UTHWybxa5DjAZGitKhf	Lantlôs	Melting Sun II: Cherry Quartz	DES561414802	26	atmospheric black metal,blackgaze,doomgaze,german black metal,post-metal	0.00168	0.435	0.761	0.0322	122.038	0.0328	0.512
+1CuumKZFOismWvJqwFo2Qy	Lantlôs	Melting Sun I: Azure Chimes	DES561414801	32	atmospheric black metal,blackgaze,doomgaze,german black metal,post-metal	4.98e-05	0.329	0.805	0.0503	124.931	0.0872	0.582
+5DFnmcshyxsonqTvanqZPY	Alcest	Sapphire	DED831900759	49	atmospheric black metal,blackgaze,french black metal,french metal,french shoegaze,post-black metal,post-metal,shoegaze	1.05e-05	0.402	0.85	0.0386	74.999	0.199	0.76
+0X1sqQ652p1sceKM2nJlIJ	Bon Jovi	Runaway	USPR39402231	72	glam metal,rock	0.00375	0.475	1.91e-05	0.0637	152.445	0.603	0.899
+7wuJGgpTNzbUyn26IOY6rj	Bonnie Tyler	Total Eclipse of the Heart	GBBBN8300002	77	disco,europop,new wave pop,soft rock	0.145	0.431	0.0	0.0568	130.141	0.19	0.723
+08hn5vq1XnVmVQI4mfzsXa	Judas Priest	A Touch of Evil	GBBBN0102564	49	album rock,birmingham metal,hard rock,metal,power metal,rock	0.000195	0.417	2.89e-05	0.0368	98.117	0.156	0.798
+1JLn8RhQzHz3qDqsChcmBl	Foreigner	I Want to Know What Love Is - 1999 Remaster	USAT29900662	78	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.193	0.477	1.76e-06	0.0277	81.204	0.423	0.471
+2HXixVqzzm9rEUIMAWzshl	Joan Jett & The Blackhearts	I Hate Myself for Loving You	USSM10021818	68	glam punk,rock	0.0847	0.611	1.08e-06	0.0538	117.932	0.605	0.882
+07q0QVgO56EorrSGHC48y3	KISS	I Was Made For Lovin' You	USPR39330175	82	album rock,glam rock,hard rock,metal,rock	0.214	0.768	7.36e-05	0.038	128.373	0.867	0.852
+0IXpUl1fn2QZcBavfuq0H4	Judas Priest	Living After Midnight	GBBBN8000005	64	album rock,birmingham metal,hard rock,metal,power metal,rock	0.0136	0.61	1.75e-06	0.0534	134.992	0.819	0.824
+0kFM6t9htbB53Dg8frGDGh	Lita Ford	Kiss Me Deadly	USRC18705885	56	album rock,glam metal,hard rock,rock	0.00819	0.468	8.34e-05	0.0325	156.099	0.651	0.743
+1iQpStZpzBb5TOuTDKJKdj	Alice Cooper	Poison	USSM18900004	60	album rock,classic rock,detroit rock,glam metal,glam rock,hard rock,metal,protopunk,rock	0.0515	0.3	0.000333	0.109	118.631	0.268	0.894
+7LygtNjQ65PSdzVjUnHXQb	Warrant	Cherry Pie	USSM10006917	64	album rock,glam metal,hard rock,rock	0.0372	0.472	0.0	0.145	177.489	0.486	0.946
+0RdUX4WE0fO30VnlUbDVL6	Scorpions	Still Loving You	DEE861101524	73	album rock,german hard rock,german metal,german rock,hard rock,metal,rock	0.0047	0.282	0.00144	0.0294	103.929	0.0783	0.605
+3D3lmTEhuWaunO1yxpYPD8	Ratt	You're in Love	USAT20901941	56	album rock,glam metal,hard rock,metal,rock	0.00384	0.567	0.088	0.0484	146.008	0.535	0.867
+3pHpV3pa96s4vuBP7sQq0V	Whitesnake	Is This Love - 2018 Remaster	GB01A1800009	68	album rock,british blues,classic rock,glam metal,hard rock,metal,rock	0.0555	0.263	0.0	0.0431	179.904	0.429	0.759
+0PdM2a6oIjqepoEfcJo0RO	Def Leppard	Pour Some Sugar On Me - Remastered 2017	GBUM71701307	75	album rock,hard rock,nwobhm,rock	0.00211	0.267	0.0	0.096	84.989	0.568	0.953
+0hLQWHwB6GZlkASpS7DkdW	Scorpions	No One Like You - 2015 Remaster	DELV41501039	57	album rock,german hard rock,german metal,german rock,hard rock,metal,rock	0.0167	0.441	2.52e-06	0.0431	118.146	0.696	0.796
+7AtwQRLPdttsxcLM5tPL0t	Whitesnake	Still of the Night - 2018 Remaster	GB01A1800006	59	album rock,british blues,classic rock,glam metal,hard rock,metal,rock	0.00235	0.334	0.00114	0.0494	100.175	0.284	0.854
+6imjJij6aCM0IbbODUzJQn	Mötley Crüe	Kickstart My Heart	USBY29900215	78	glam metal,hard rock,rock,sleaze rock	0.00111	0.465	0.00298	0.175	89.535	0.233	0.977
+4hZRgXANzbTOpyt2bzXuCK	Nick Nolan	Hang 'em High	TCABI1217233	39	rebel blues	0.019	0.387	0.342	0.034	94.971	0.368	0.748

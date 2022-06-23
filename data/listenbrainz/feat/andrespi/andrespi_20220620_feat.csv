@@ -1,0 +1,77 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0S1sOI8fd8E6A6etDd0VV7	Tokyo Anniversary	Again (From Fullmetal Alchemist)	DEY340401425	42	scorecore	0.00403	0.45	0.0	0.0359	144.042	0.438	0.893
+5BxVRqpZi6tIhAap1ZjzVD	St. Lucia	Elevate	USSM11303710	45	alternative dance,electropop,indie poptimism,indietronica,metropopolis,modern rock,neo-synthpop,nyc pop,shimmer pop	0.00767	0.541	0.000765	0.107	104.03	0.722	0.982
+5CLGzJsGqhCEECcpnFQA8x	Rudimental,Jess Glynne,Macklemore,Dan Caplen	These Days (feat. Jess Glynne, Macklemore & Dan Caplen)	GBAHS1701239	74	dance pop,edm,house,pop,pop dance,tropical house,uk dance,uk funky	0.194	0.653	0.0	0.0474	92.213	0.55	0.809
+2Dpnu8J7Tq3P03YFj5HNgH	Avril Lavigne	Sippin' On Sunshine	USSM11304492	40	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00332	0.553	6.42e-06	0.124	176.011	0.561	0.731
+6h5PAsRni4IRlxWr6uDPTP	Axwell /\ Ingrosso	More Than You Know	GBUM71701735	80	dance pop,edm,electro house,pop,pop dance,tropical house	0.0275	0.646	0.0	0.034	123.077	0.571	0.741
+2NlTOhsAamXOaZciOXbITb	Maroon 5,Future	Cold (feat. Future)	USUM71616357	73	pop	0.14	0.693	0.0	0.107	99.836	0.412	0.717
+7j91Me4PB3CLhuL4PKH9G8	MIKA	We Are Golden	USC7R0900125	55	dance pop,europop,pop	0.00484	0.544	0.122	0.0678	123.02	0.398	0.86
+5yFSF6qQA1rcLsQRnBsZgb	Alan Walker,Noah Cyrus,Digital Farm Animals,Juliander	All Falls Down (feat. Juliander)	NOG841715010	65	electro house	0.303	0.658	0.0	0.058	97.976	0.662	0.678
+4cQR1R25cpABjPMzpybNSQ	Baby K	Da zero a cento	ITB001800326	47	italian adult pop,italian pop	0.0231	0.605	0.0	0.0655	184.088	0.781	0.641
+6izylrbTYCvJF3dUdesxWw	Fake Pictures	Two Princes - Radio Mix	DEUM71700015	50	german dance	0.0102	0.738	0.00014	0.0336	118.027	0.831	0.81
+4hgUSmey5Ax6YGHHyC4FFU	The Naked And Famous	Punching In A Dream	NZNK11000002	7	alternative dance,auckland indie,electropop,indie rock,indietronica,kiwi rock,metropopolis,modern rock,pop rock,shimmer pop	0.0017	0.477	0.000751	0.0472	115.038	0.161	0.889
+1oHeOCZ0v8RPAVbT3bhru9	Sapphire	Sanbika	USE831512660	26	otacore	0.000101	0.331	0.00839	0.0751	182.956	0.357	0.92
+70FUPzNFvd8LaTOTl3pyk2	Don Diablo,Holly Winter	Don't Let Go	GBKPL1787053	33	dance pop,edm,electro house,future house,house,pop dance,progressive electro house,progressive house,tropical house	0.383	0.656	9.87e-06	0.0422	110.049	0.551	0.907
+5fOjFkFA0k5MTOo1LmnVTO	Janji,Johnning	Heroes Tonight	GB2LD0902006	66	gaming edm	0.075	0.537	0.0	0.0317	127.994	0.178	0.786
+7n7bQVglKdxgebrjHtCH9c	Mark the Hammer	Dumb Ways to Die - Rock	QZ22B1796867	19		0.0362	0.641	0.0	0.0677	127.972	0.655	0.87
+6iTcQPkXVtLIY8imgr7Xs0	883	La lunga estate caldissima	ITQ000100421	25	classic italian pop,italian adult pop	0.01	0.729	0.0	0.0338	124.407	0.725	0.903
+3f7gYMirBEKuc57218BjOY	Katy Perry,Snoop Dogg	California Gurls	USCA21001135	67	dance pop,pop,post-teen pop	0.0038	0.788	0.0	0.0536	125.005	0.403	0.753
+4fK6E2UywZTJIa5kWnCD6x	Rebecca Black	Friday	uscgh1173955	51	art pop,dance pop,electropop,escape room,hyperpop,pop,post-teen pop	0.0307	0.684	2.57e-06	0.102	112.004	0.582	0.889
+2FpWhUMOPGUVR95DkfKjGH	NEFFEX	Cold	TCADO1880366	62		0.0664	0.786	1.26e-06	0.0877	125.06	0.702	0.643
+1wsLHgXJ4SKIfd5ePSX1hD	Jonas Blue,Liam Payne,Lennon Stella	Polaroid	GBUM71806109	61	dance pop,edm,pop,pop dance,tropical house,uk dance	0.293	0.652	0.0	0.036	114.033	0.475	0.897
+5ZmsvSFpaDQ5JdKvVnJXs9	Francesco Gabbani	Tra le granite e le granate	ITDV91700042	44	italian adult pop,italian pop	0.0599	0.622	0.0	0.12	173.995	0.588	0.855
+2m1hi0nfMR9vdGC8UcrnwU	blink-182	All The Small Things	USMC19959123	80	pop punk,punk,rock,socal pop punk	0.0103	0.434	0.0	0.0488	148.726	0.684	0.897
+3YKptz29AsOlm7WAVnztBh	Seal	Kiss from a Rose	USWB19900917	73	british soul	0.684	0.584	0.0	0.0305	131.745	0.224	0.533
+78nplE9X2ZGvQh3TKgvldE	James Arthur,Anne-Marie	Rewrite The Stars (with James Arthur & Anne-Marie)	USAT21811554	67	pop,talent show,uk pop	0.237	0.67	0.0	0.0393	125.944	0.571	0.743
+4AqYxvzDLcUlYReF8NzWIn	VIZE	Glad You Came	DEN061800398	27	dance pop,edm,german dance,pop dance,slap house,tropical house	0.0205	0.756	0.000829	0.0429	126.017	0.282	0.756
+27L8sESb3KR79asDUBu8nW	Fountains Of Wayne	Stacy's Mom	USESC0300016	75	alternative rock,pop rock,power pop	0.00207	0.774	1.78e-05	0.0412	118.015	0.927	0.75
+2grjqo0Frpf2okIBiifQKs	Earth, Wind & Fire	September	USSM17800845	81	disco,funk,jazz funk,quiet storm,soul	0.168	0.697	0.00131	0.0298	125.926	0.979	0.832
+1dNIEtp7AY3oDAKCGg2XkH	The Chainsmokers,Coldplay	Something Just Like This	USQX91700278	74	dance pop,edm,electropop,pop,pop dance,tropical house	0.0306	0.607	2.46e-05	0.0362	102.996	0.505	0.649
+0afhq8XCExXpqazXczTSve	Ed Sheeran	Galway Girl	GBAHS1700026	78	pop,uk pop	0.0735	0.624	0.0	0.1	99.943	0.781	0.876
+3kGfazcbVvVkuZunzlLgTD	Sigala,Ella Eyre	Came Here for Love	GBCEN1700157	65	dance pop,edm,house,pop,pop dance,tropical house	0.0313	0.708	0.0	0.0431	124.994	0.72	0.868
+0m7O37bxQV9y1AS9afCVD0	JUNNA	the sea and a pearl	JPVI02101380	38	anime	0.147	0.338	0.0	0.0683	82.384	0.313	0.909
+4kUsEPxZeNi59diQNDGroY	fhána	Love Supreme!	JPI102101499	43	anime	0.281	0.655	0.0207	0.049	134.989	0.88	0.974
+5xvUgoVED1F4mBu8FL0HaW	Bridgit Mendler	Ready or Not	USHR11233750	73	dance pop,pop,post-teen pop	0.00351	0.715	3.84e-05	0.0509	93.043	0.748	0.872
+5Vwqy3CS2aCB6jcgm1qWfk	Takagi & Ketra,Giusy Ferreri,Sean Kingston	Amore e Capoeira	ITB001800309	61	italian adult pop,italian pop	0.122	0.827	0.0	0.142	118.083	0.836	0.697
+19LRRuiMQ8a9jhqSf8jVip	Jake La Furia,Alessio La Profunda Melodia	El Party	ITUM71700728	64	italian hip hop,italian pop	0.00387	0.672	0.0	0.0344	123.986	0.57	0.804
+6RRNNciQGZEXnqk8SQ9yv5	Taylor Swift	You Need To Calm Down	USUG11901470	77	pop	0.00929	0.771	0.0	0.0553	85.026	0.714	0.671
+2fLyikLZmHxW4XdToFpDdN	Shawn Mendes,teddy<3	Under Pressure	GBUM71806796	48	canadian pop,pop,viral pop	0.2	0.667	0.0	0.0316	113.502	0.337	0.478
+5HuqzFfq2ulY1iBAW5CxLe	Clean Bandit,Jess Glynne	Rather Be (feat. Jess Glynne)	GBAHS1300498	51	dance pop,edm,pop,pop dance,tropical house,uk dance,uk funky	0.162	0.799	2.03e-06	0.0377	120.97	0.549	0.586
+0HQQZWN0ErLWxolHRNghbv	Aly & AJ	Out Of The Blue	USHR10521624	9	dance pop,electropop,girl group,indie pop,indie poptimism,pop,post-teen pop	0.0284	0.524	3.85e-06	0.035	103.984	0.291	0.818
+6x585iSpbBd1gXENAYdBeE	Aly & AJ	In A Second	USHR10521622	7	dance pop,electropop,girl group,indie pop,indie poptimism,pop,post-teen pop	0.137	0.493	0.0	0.0283	147.934	0.4	0.595
+4aaIVbYadp2y7wnFXJpYmV	Francesco Gabbani	Pachidermi e pappagalli	ITDV91700046	39	italian adult pop,italian pop	0.0217	0.69	0.0	0.0615	119.943	0.692	0.91
+3u1S1OmAUhx5DRlLrXqyp3	Jonas Blue,Jack & Jack	Rise	GBUM71802109	68	dance pop,edm,pop,pop dance,tropical house,uk dance	0.323	0.69	0.0	0.032	106.066	0.669	0.784
+4LiJE6pqgsTX3FtukW6bNh	Agnes	Release Me	DKBV70806405	66	dance pop,electropop,europop,swedish electropop,swedish idol pop,swedish pop	0.00645	0.621	7.28e-05	0.0321	127.973	0.716	0.923
+21ixeD8mGouF993kgb4MER	S Club 7	S Club Party	GBCVL9900006	58	bubblegum dance,dance pop,europop,post-teen pop	0.0697	0.638	0.0	0.0425	101.999	0.778	0.879
+4CoSCPlKNrWli7E5kFtbcl	Fleetwood Mac	Little Lies - 2017 Remaster	USRH11602193	72	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.216	0.64	8.3e-05	0.0264	124.825	0.865	0.649
+0lGfdOjxTCOmDkjAzbjnXX	Gazelle	"Try Everything - Da ""Zootopia, Zoomania, Zootropolis"""	ITC091600054	26		0.0552	0.633	0.0	0.0731	115.487	0.456	0.86
+6Pgkp4qUoTmJIPn7ReaGxL	Avicii,Sandro Cavazza	Without You (feat. Sandro Cavazza)	SE5R71700101	78	dance pop,edm,pop,pop dance,pop rap	0.00163	0.662	0.0	0.0428	133.993	0.295	0.858
+7H7NI75DdeaOW7c70oYtjM	Coldplay	Life in Technicolor ii	GBAYE0801695	53	permanent wave,pop	0.00158	0.472	5.16e-05	0.0391	131.051	0.278	0.909
+6EE19skJ32p58xihYj2Waa	blink-182	She's Out Of Her Mind	QMRSZ1600237	61	pop punk,punk,rock,socal pop punk	0.00448	0.447	0.0	0.0793	179.991	0.606	0.967
+6mQLN3zRtAp6ovjusyYKrV	James Arthur,Anne-Marie	Rewrite The Stars (with James Arthur & Anne-Marie)	USAT21811554	74	pop,talent show,uk pop	0.237	0.67	0.0	0.0393	125.944	0.571	0.743
+59JkwCdGIMTZYb0j75vebU	HyunA	Bubble Pop!	KRA391100342	55	k-pop	0.0842	0.84	0.00392	0.0639	146.005	0.767	0.871
+00G1BtS8r791C63yZLVc0R	Low Roar	Easy Way Out	USXLG1400202	49	icelandic indie	0.558	0.505	0.0499	0.0266	109.921	0.113	0.42
+5WuVWOngcRkMOx9RRLCvui	Atomic Kitten	The Tide Is High - Radio Mix	GBAAA0200509	63	bubblegum dance,candy pop,dance pop,europop,girl group	0.0234	0.776	0.00177	0.0314	102.996	0.635	0.693
+54RfcPsxDsf5pbLigUDRpS	Joakim Molitor,Maia Wright	Weightless	SEVJH1707601	16	pop edm,swedish tropical house	0.245	0.709	0.0	0.061	107.1	0.778	0.642
+5TbzAWWc5eJaANpA9kfGCd	John Newman	Love Me Again	GBUM71301538	75		0.00453	0.495	0.000596	0.0441	126.03	0.213	0.894
+6VXofqtDM2MlELgLsUK33D	Miura Jam,Broken	Good Morning World! (Dr. Stone) [feat. Broken]	QZFZ41912318	32	otacore	0.000606	0.198	0.0	0.312	190.994	0.303	0.954
+06Zz2l7cVTCTgCNDe1bnEF	Bon Jovi	Have A Nice Day	USUM70502481	63	glam metal,rock	4.84e-05	0.5	0.000198	0.0736	130.06	0.566	0.899
+63CSozvYUEudPp12679UVF	Madcon,Ray Dalton	Don't Worry (with Ray Dalton) - Radio Edit	NO5281501010	71	dance pop,norwegian hip hop,pop rap	0.0726	0.811	1.38e-06	0.114	122.987	0.733	0.699
+3KoUTYSRCUgleIybRyoC8C	Baby K,Giusy Ferreri	Roma - Bangkok (feat. Giusy Ferreri)	ITB001500185	57	italian adult pop,italian pop	0.0526	0.764	0.0	0.181	100.03	0.353	0.857
+0QBzMgT7NIeoCYy3sJCof1	Camila Cabello,Ed Sheeran	Bam Bam (feat. Ed Sheeran)	USSM12200047	91	dance pop,pop,post-teen pop	0.182	0.756	0.0	0.0401	94.996	0.956	0.697
+3tvK4rcEb329li33PIqmrR	THRILLCHASER	Wrong Tonight	TCAFL2105868	21		0.0729	0.689	0.000857	0.0421	104.984	0.12	0.891
+3GfGTJ2xzC0rqKgdjNJLOC	Billy Idol	Mony Mony	USCH30100012	60	album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock	0.004	0.701	0.0	0.0405	135.188	0.344	0.758
+67eX1ovaHyVPUinMHeUtIM	John Mellencamp	Hurts So Good	USJM18200002	72	album rock,classic rock,country rock,folk rock,heartland rock,mellow gold,pop rock,rock,singer-songwriter,soft rock	0.042	0.785	0.000107	0.0363	125.447	0.971	0.737
+7FwBtcecmlpc1sLySPXeGE	Bruce Springsteen	Dancing In the Dark	USSM18400416	79	classic rock,heartland rock,mellow gold,permanent wave,rock,singer-songwriter,soft rock	0.0115	0.527	0.0	0.0366	148.723	0.495	0.942
+6QhXQOpyYvbpdbyjgAqKdY	Simon & Garfunkel	Cecilia	USSM16900181	73	classic rock,folk,folk rock,melancholia,mellow gold,rock	0.357	0.755	5.17e-06	0.0362	102.762	0.954	0.876
+34x6hEJgGAOQvmlMql5Ige	Kenny Loggins	"Danger Zone - From ""Top Gun"" Original Soundtrack"	USSM18600108	78	album rock,mellow gold,new wave pop,soft rock,yacht rock	0.241	0.544	0.0	0.0471	157.17	0.647	0.897
+0HOrDVS349XFcpCYsO2hAP	Bachman-Turner Overdrive	You Ain't Seen Nothing Yet	USPR39401742	73	album rock,art rock,blues rock,classic canadian rock,classic rock,country rock,folk rock,hard rock,mellow gold,rock,soft rock	0.000146	0.475	0.000277	0.0427	118.392	0.76	0.439
+1ahVFh0ViDZr8LvkEVlq3B	Martin Garrix,Bonn	No Sleep (feat. Bonn)	NLM5S1900471	63	dance pop,dutch edm,edm,electro house,pop,pop dance,progressive house,tropical house	0.129	0.44	0.0	0.0326	128.133	0.327	0.635
+0Fw8DOMdG5EIGWQ9ewuuMk	fhána	divine intervention	JPI101303107	29	anime	0.00142	0.397	0.0559	0.0686	176.431	0.34	0.789
+7MRyJPksH3G2cXHN8UKYzP	Tom Petty and the Heartbreakers	American Girl	USMC17641688	73	album rock,blues rock,classic rock,country rock,folk rock,hard rock,heartland rock,mellow gold,pop rock,psychedelic rock,rock,roots rock,soft rock	0.448	0.55	0.000127	0.0334	114.512	0.777	0.824
+4u7EnebtmKWzUH433cf5Qv	Queen	Bohemian Rhapsody - Remastered 2011	GBUM71029604	82	classic rock,glam rock,rock	0.271	0.414	0.0	0.0499	71.105	0.224	0.404
+184QpO8ZchGncbNyJe9SDT	Steve Harley,Steve Harley & Cockney Rebel	Make Me Smile (Come up and See Me) - 2014 Remaster	GBAYE1349972	65	classic uk pop,glam rock,pub rock	0.00706	0.571	0.000177	0.0337	141.463	0.773	0.818
+17pOLaBouf2EleJjsHfJSg	Blue Swede,Björn Skifs	Hooked On A Feeling	SEAMA7343050	62	classic swedish pop	0.261	0.547	0.0	0.0805	118.208	0.933	0.82
+0veK80pssWrrjGJxzebtxc	Miura Jam	"Cinderella (From ""Komi-san Can't Communicate"")"	QZPJ32124825	24	otacore	0.0103	0.609	0.0	0.0304	129.977	0.713	0.852
+6naxalmIoLFWR0siv8dnQQ	Britney Spears	Oops!...I Did It Again	USJI10000100	78	dance pop,pop,post-teen pop	0.3	0.751	1.77e-05	0.0437	95.053	0.894	0.834
+6FqiYQBlMyQ9e9YuW76kzY	883	Nord sud ovest est	ITQ000000593	29	classic italian pop,italian adult pop	0.00226	0.619	0.000484	0.0327	119.977	0.51	0.848

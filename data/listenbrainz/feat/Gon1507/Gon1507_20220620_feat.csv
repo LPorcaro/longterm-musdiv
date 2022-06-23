@@ -1,0 +1,109 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+6uNv4npQ8FZLsH7naE9GK4	Tate McRae	i'm so gone	USRC12200895	70	pop	0.185	0.833	0.0	0.135	92.011	0.323	0.46
+3RhyHYnYxuGnP8njFlNxHq	Tate McRae	don't come back	USRC12200894	78	pop	0.106	0.707	3.54e-06	0.059	87.999	0.386	0.483
+0hh6usshPzFf6j0lGkhMs3	Tate McRae	?	USRC12200893	17	pop	0.987	0.71	0.949	0.961	60.896	0.342	0.614
+2RwpoqhsYOZSGsF69KqjwP	Tate McRae	i still say goodnight	USRC12200900	67	pop	0.894	0.375	0.0	0.0312	138.706	0.25	0.179
+40yVW4Ywyxz8xkNcuLbP1N	Tate McRae	go away	USRC12200899	67	pop	0.654	0.565	6.12e-06	0.04	105.925	0.153	0.437
+03zuGqxMwUFFmCwusq0WKE	Tate McRae	feel like shit	USRC12103112	69	pop	0.572	0.519	0.0	0.0495	144.565	0.157	0.383
+5XLgE4yoU9MyR5vkjNxpdF	Tate McRae	you're so cool	USRC12200897	69	pop	0.219	0.798	0.0	0.0937	131.943	0.731	0.654
+4UbItCyP9q7MvuVogbDCgC	Tate McRae	boy x	USRC12200898	69	pop	0.743	0.439	0.0	0.0413	145.356	0.201	0.325
+7l9IqDtVWJurTvkQHq1BGh	Tate McRae	she's all i wanna be	USRC12103120	75	pop	0.0129	0.602	9.02e-06	0.0396	160.118	0.619	0.626
+3yoIliXhnorEdfTZ93W2YL	Tate McRae	what's your problem?	USRC12201445	71	pop	0.515	0.724	0.0	0.0786	103.987	0.439	0.543
+1bXm6XU3SYSqQGLTRhUSfm	Tate McRae	hate myself	USRC12200488	69	pop	0.774	0.47	0.0	0.206	76.01	0.118	0.279
+4bt7eqP7mfWduRBKEpCAzM	Tate McRae	chaotic	USRC12102862	70	pop	0.54	0.663	0.0	0.0367	106.967	0.351	0.374
+4ewmHD3aRBmLyTsbGreNLw	Tate McRae	what would you do?	USRC12200896	72	pop	0.288	0.79	0.0	0.0698	105.02	0.729	0.613
+6J2LdBN97cDWn0MLxYh9HB	Noah Cyrus	July	USQX91901092	79	dance pop,pop	0.868	0.708	0.0	0.042	72.541	0.322	0.186
+2fSz6MBKMPjOApUhGYfPid	Ochman	River	PLUM72200032	69	polish pop	0.561	0.509	0.0	0.0391	139.862	0.326	0.673
+3XREkzDHsWdBL5tybyCDBH	Chanel	SloMo	ES94B2100282	80		0.125	0.728	0.00448	0.0571	104.962	0.594	0.814
+50Cf2eYv8zT3v2HAkwhIiL	Subwoolfer	Give That Wolf A Banana	NOUM72100322	76		0.2	0.737	2.78e-06	0.0411	124.075	0.554	0.526
+697bFWgzBRm6bmnYWd8GyD	Cornelia Jakobs	Hold Me Closer	SE5YN2200301	76	swedish pop	0.107	0.489	0.0	0.0382	96.819	0.168	0.616
+4S4Amrpr631M16IIXqRk73	MARO	saudade, saudade	PTUM72100760	72	musica portuguesa contemporanea	0.681	0.644	0.000208	0.0357	82.992	0.376	0.337
+4vvVUzVIVVpXRdzdlU765E	Vladana	Breathe	ATR981259519	56		0.554	0.43	1.73e-06	0.0338	76.905	0.197	0.462
+35b0iM96Uid8KI5s83IEHM	Amanda Tenfjord	Die Together	NOPRR2203010	69	norwegian indie,norwegian pop,trondheim indie	0.122	0.475	0.0	0.0661	149.982	0.202	0.366
+7uQ7e7nzbtyX87eIYHpj6Z	S10	De Diepte	NLG662200040	78	dutch pop	0.378	0.502	3.44e-05	0.0282	90.043	0.159	0.397
+3n9qn38IhqkC7DcdIRaM9q	wrs	Llámame	ROGRA2102089	70	romanian pop	0.0564	0.755	0.0	0.131	119.971	0.661	0.757
+1t88m8JUlqn9kf0FLmVta5	SISTAR	Give it to me	KRA381204548	57	k-pop,k-pop girl group	0.176	0.719	0.0	0.0424	136.045	0.961	0.945
+17uJWOskYtbfPqjN7SHSgz	Brooke	That's Rich	NLC242100122	62	eurovision	0.000261	0.683	0.00214	0.0312	121.967	0.561	0.599
+6WVHfpzYW3HooQaCC80opC	LUM!X,PIA MARIA	Halo (feat. PIA MARIA)	NLZ542200236	72	melbourne bounce international,slap house	0.0017	0.568	0.0	0.0371	149.913	0.691	0.91
+6sSq38pmQxG0YuvbipDoEi	STEFAN	Hope	EECF12100100	68	estonian pop,eurovision	0.202	0.515	2.13e-05	0.0447	122.919	0.577	0.785
+0tOKpglJb9cza4WdTtxsv7	We Are Domi	Lights Off - ESC Version	FR2X42252810	66	eurovision	0.176	0.584	1.19e-05	0.0715	125.982	0.576	0.766
+43oK4OAWUsRZUDVeHtKI4U	Dua Lipa	New Rules	GBAHT1600310	54	dance pop,pop,uk pop	0.00261	0.762	1.56e-05	0.0694	116.073	0.608	0.7
+3AzjcOeAmA57TIOr9zF1ZW	Dua Lipa	Physical	GBAHT1901298	76	dance pop,pop,uk pop	0.0137	0.647	0.000658	0.0457	146.967	0.746	0.844
+3PfIrDoz19wz7qK7tYeu62	Dua Lipa	Don't Start Now	GBAHT1901121	82	dance pop,pop,uk pop	0.0123	0.793	0.0	0.083	123.95	0.679	0.793
+6zrJLhslleCHby0wbUnvVy	Dua Lipa	Future Nostalgia	GBAHT1901177	61	dance pop,pop,uk pop	0.00618	0.875	0.0	0.0579	114.993	0.859	0.813
+39LLxExYz6ewLAcYrzQQyP	Dua Lipa	Levitating	GBAHT1901299	84	dance pop,pop,uk pop	0.0561	0.695	0.0	0.0753	103.014	0.914	0.884
+6zSpb8dQRaw0M1dK8PBwQz	Elton John,Dua Lipa,PNAU	Cold Heart - PNAU Remix	GBUM72104705	90	glam rock,mellow gold,piano rock	0.034	0.796	4.19e-05	0.0317	116.032	0.942	0.798
+1nYeVF5vIBxMxfPoL0SIWg	Dua Lipa	Hallucinate	GBAHT1901301	71	dance pop,pop,uk pop	0.033	0.627	0.0	0.139	122.053	0.627	0.69
+5N4erncE7kuUccm7zEmwzk	Silk City,Dua Lipa,Diplo,Mark Ronson	Electricity (with Dua Lipa)	USQX91802285	74	edm	0.0104	0.588	3.33e-06	0.0473	118.159	0.505	0.67
+7ef4DlsgrMEH11cDZd32M6	Calvin Harris,Dua Lipa	One Kiss (with Dua Lipa)	GBARL1800368	89	dance pop,edm,electro house,house,pop,pop rap,progressive house,uk dance	0.037	0.791	2.19e-05	0.11	123.994	0.592	0.862
+0vQcyuMEfRBd21ojZ62N2L	Dua Lipa	Boys Will Be Boys	GBAHT1901307	63	dance pop,pop,uk pop	0.408	0.768	0.0	0.0353	125.021	0.519	0.486
+3wJVBz7gvGTwTWVAxFa6ny	Dua Lipa,Angèle	Fever	GBAHT2000834	71	dance pop,pop,uk pop	0.0597	0.868	0.00399	0.181	114.999	0.396	0.693
+6uAFJ75WDAoAPyCWJAtvks	Dua Lipa	Good In Bed	GBAHT1901305	63	dance pop,pop,uk pop	0.138	0.68	0.000191	0.0917	94.06	0.649	0.701
+1diS6nkxMQc3wwC4G1j0bh	Dua Lipa	We're Good	GBAHT2001117	78	dance pop,pop,uk pop	0.0319	0.722	0.0	0.0544	134.01	0.59	0.588
+6acdKgBrJoYKbJD6WhG81R	Dua Lipa	IDGAF	GBAHT1600301	53	dance pop,pop,uk pop	0.0403	0.836	0.0	0.0943	97.028	0.51	0.544
+1ixphys4A3NEXp6MDScfih	Dua Lipa	Be the One	GBAHT1500573	71	dance pop,pop,uk pop	0.117	0.661	1.32e-05	0.0499	87.46	0.368	0.651
+017PF4Q3l4DBUiWoXk4OWT	Dua Lipa	Break My Heart	GBAHT1901303	79	dance pop,pop,uk pop	0.167	0.73	1.39e-06	0.0884	113.011	0.467	0.729
+6DXZiYUbrYgrVIhfX3U9Z2	Dua Lipa	Pretty Please	GBAHT1901300	69	dance pop,pop,uk pop	0.0311	0.906	5.5e-06	0.194	106.976	0.656	0.474
+2nMOodYNHBAQ3Kc1QNimZU	Dua Lipa	Cool	GBAHT1901297	63	dance pop,pop,uk pop	0.133	0.469	1.55e-06	0.0664	89.719	0.79	0.785
+4rPkN1FMzQyFNP9cLUGIIB	Dua Lipa	Love Again	GBAHT1901302	77	dance pop,pop,uk pop	0.00173	0.659	2.85e-05	0.0339	115.982	0.468	0.667
+0vnKE8ukNmF641XhnEyZJD	Griff	Black Hole	GBAHT2001109	61	dance pop,pop,tropical house,uk pop	0.142	0.878	0.0	0.0591	124.069	0.658	0.64
+6pbKWWP8WwTaP5TbSq1vCA	Dua Lipa	Hallucinate	GBAHT1901301	67	dance pop,pop,uk pop	0.033	0.627	0.0	0.139	122.053	0.627	0.69
+6boViHmG6c8ubzxTvcMoJY	Dua Lipa	Pretty Please	GBAHT1901300	67	dance pop,pop,uk pop	0.0311	0.906	5.5e-06	0.194	106.976	0.656	0.474
+41z2bSbbtJ9wiIee4RXdi5	Dua Lipa	Levitating	GBAHT1901299	63	dance pop,pop,uk pop	0.0561	0.695	0.0	0.0753	103.014	0.914	0.884
+5UncbfPKpWlxsWWyhmM87l	Dua Lipa	Physical	GBAHT1901298	70	dance pop,pop,uk pop	0.0137	0.647	0.000658	0.0457	146.967	0.746	0.844
+4Ulqu89XempybuL8ApUeqL	Dua Lipa	Cool	GBAHT1901297	65	dance pop,pop,uk pop	0.133	0.469	1.55e-06	0.0664	89.719	0.79	0.785
+2FlcxnvybdwpaMmMhaRtSN	Dua Lipa	Don't Start Now	GBAHT1901121	72	dance pop,pop,uk pop	0.0123	0.793	0.0	0.083	123.95	0.679	0.793
+3iYNJX4FTRGlfMQySjlGNr	Dua Lipa	Future Nostalgia	GBAHT1901177	65	dance pop,pop,uk pop	0.00618	0.875	0.0	0.0579	114.993	0.859	0.813
+0e8nrvls4Qqv5Rfa2UhqmO	Lil Nas X	THATS WHAT I WANT	USSM12105732	90	lgbtq+ hip hop,pop	0.00614	0.737	0.0	0.22	87.981	0.546	0.846
+567e29TDzLwZwfDuEpGTwo	The Kid LAROI,Justin Bieber	STAY (with Justin Bieber)	USSM12103949	54	australian hip hop	0.0383	0.591	0.0	0.0483	169.928	0.478	0.764
+27tDoZsybt3KvJWTDoW9id	Giveon	Heartbreak Anniversary	USSM12000998	67	pop,r&b	0.546	0.443	1.05e-06	0.074	87.064	0.565	0.459
+5Ohxk2dO5COHF1krpoPigN	Harry Styles	Sign of the Times	USSM11703595	84	pop	0.0275	0.516	0.0	0.0313	119.972	0.222	0.595
+5sckZhskSmeF8TFJ05oSCB	Senhit,Flo Rida	Adrenalina	ITM712100003	51	eurovision	0.00319	0.665	1.22e-06	0.082	104.084	0.529	0.886
+63Wv3KNxCfnuUIW988TyIl	Albina	Tick-Tock	ATUM72000269	46	eurovision	0.0503	0.765	0.00068	0.0352	125.979	0.76	0.758
+5Dmq7XPXXcATuJnSOj8UrT	James Newman	Embers	GB5KW2100571	50		0.00283	0.678	2.67e-06	0.0577	125.968	0.722	0.819
+3wuvVwA5RaifHz1uqKac8P	Efendi	Mata Hari	AZA012100001	61	eurovision	0.0128	0.706	0.000355	0.0386	99.942	0.463	0.675
+0J6WXcQ52yXn5tThiO1e1W	Vincent Bueno	Amen	QZDA62129101	37		0.0102	0.442	6.51e-05	0.0397	79.662	0.0843	0.384
+4ajjeZhSAVz2Zp9rf9OTIL	Natalia Gordienko	Sugar	GRUM72100346	48	eurovision,moldovan pop	0.00495	0.694	0.00566	0.0464	119.987	0.511	0.76
+3qebp3gdFteTRN69PZ9zHu	Hooverphonic	The Wrong Place	BEUM72100047	49	downtempo,electronica,trip hop	0.0479	0.491	1.38e-06	0.0428	80.239	0.246	0.728
+76TRCnbYfo9GU5DPsZ1uI9	Eden Alene	Set Me Free	IL4432100049	53	eurovision	0.28	0.752	0.0	0.0775	107.02	0.468	0.664
+559RWsQqSe4fNUffI9P7mW	Destiny	Je me casse	MTAO82100010	57	junior eurovision	0.148	0.763	0.0	0.107	111.988	0.783	0.87
+29bhnde7Gvnp7rvY9zsq5S	Go_A	SHUM	QM4TX2159313	69	eurovision	0.05	0.527	7.89e-05	0.0638	117.657	0.503	0.736
+0DGduxy7YSuqXm272C2LM6	Elena Tsagrinou	El Diablo	GRPA12100050	61	greek pop	0.00387	0.662	0.0	0.132	113.986	0.616	0.663
+5zxZ7M4RgWZUHlMEwac8vt	Tusse	Voices	SEUM72001633	58	swedish pop	0.00237	0.503	1.06e-06	0.0423	90.015	0.396	0.759
+2bdqU7C4softKNcMYDFi96	Tate McRae	chaotic	USRC12102862	77	pop	0.59	0.412	0.0	0.0497	81.493	0.318	0.382
+2ng0NW0HhJK0KTNZzZajRv	Tate McRae	r u ok	USRC12003896	47	pop	0.343	0.665	0.0	0.0363	140.042	0.345	0.596
+4l0RmWt52FxpVxMNni6i63	Tate McRae	you broke me first	USRC12000832	48	pop	0.798	0.66	0.0	0.0543	124.027	0.0762	0.379
+31sSFHIe4NaxltVFOEIcTa	Tate McRae,Khalid	working	USRC12101632	72	pop	0.282	0.783	0.0	0.0588	106.974	0.512	0.435
+6W4SftknKhWj0iFoHN7aYU	Tate McRae,Jeremy Zucker	that way - with Jeremy Zucker	USRC12102589	68	pop	0.573	0.394	0.0	0.219	78.438	0.361	0.398
+3iJVCCW5equhyyZcxrMABz	Tate McRae	she's all i wanna be - Acoustic	USRC12200826	59	pop	0.869	0.537	0.0	0.0673	137.613	0.185	0.17
+0IuVhCflrQPMGRrOyoY5RW	Tate McRae	she's all i wanna be	USRC12103120	87	pop	0.0134	0.614	7.07e-06	0.0426	160.036	0.651	0.644
+2EBnvom1dTybtm75a3Xh1T	Tate McRae	feel like shit	USRC12103112	75	pop	0.516	0.508	0.0	0.0473	144.962	0.161	0.378
+7l97ElWmIdVHWUaOeeU5ZC	Tate McRae	that way	USRC11903528	78	pop	0.728	0.453	0.0	0.163	105.029	0.333	0.383
+0gIxF0RR0miqWLs2fPQGBu	Tate McRae	stupid	USRC11903366	50	pop	0.0692	0.673	8.52e-05	0.0416	95.989	0.257	0.58
+6Z165JvPnS8PYvGW8oLGLc	Lauren Spencer-Smith	Flowers	USUG12202201	82	alt z,gen z singer-songwriter,pop	0.869	0.684	0.0	0.611	66.165	0.341	0.449
+1FtqYazfNvsqR4CQvzrrD3	Emma Muscat	I Am What I Am	ITQ002200235	63	italian adult pop,italian pop	0.037	0.563	0.0	0.0296	97.875	0.383	0.712
+2vxifWbsK3QiAy1vriVbNE	Justin Bieber,Daniel Caesar,Giveon	Peaches (feat. Daniel Caesar & Giveon)	USUM72102636	50	canadian pop,pop	0.321	0.677	0.0	0.119	90.03	0.464	0.696
+09CtPGIpYB4BrO8qb1RGsF	Justin Bieber	Sorry	USUM71516760	81	canadian pop,pop	0.0797	0.654	0.0	0.045	99.945	0.41	0.76
+4yWCzA44dQyp0SoeM81bUb	Justin Bieber	Life Is Worth Living	USUM71513215	60	canadian pop,pop	0.907	0.558	0.0	0.0427	76.04	0.463	0.296
+2L7rZWg9RLxIwnysmxm4xk	Justin Bieber	Boyfriend	USUM71202650	63	canadian pop,pop	0.0358	0.717	0.00198	0.0519	96.979	0.331	0.55
+4B0JvthVoAAuygILe3n4Bs	Justin Bieber	What Do You Mean?	USUM71511919	78	canadian pop,pop	0.59	0.845	0.00142	0.0956	125.02	0.793	0.567
+50kpGaPAhYJ3sGmk6vplg0	Justin Bieber	Love Yourself	USUM71516761	84	canadian pop,pop	0.835	0.609	0.0	0.438	100.418	0.515	0.378
+7ya7Jv4hJ9W0Baz7h9nL7E	Justin Bieber	Ghost	USUM72102635	59	canadian pop,pop	0.185	0.601	2.91e-05	0.0478	153.96	0.441	0.741
+3yMC1KsTwh0ceXdIe4QQAQ	Lauren Spencer-Smith	Fingers Crossed	TCAFY2118876	84	alt z,gen z singer-songwriter,pop	0.618	0.56	0.0	0.0533	109.414	0.441	0.473
+59CfNbkERJ3NoTXDvoURjj	Dove Cameron	Boyfriend	USQX92200693	89	pop,post-teen pop	0.232	0.345	0.0	0.0608	179.773	0.232	0.612
+46ydq5g3k17iLJs3qMDvO6	Astrid S	Hurts So Good	NOUM71600843	68	alt z,dance pop,electropop,norwegian pop,pop,post-teen pop,tropical house	0.084	0.675	0.0	0.0586	120.039	0.378	0.609
+3CvfUOkWsfTr7ZIjl6D9Uk	ROSIE	Never the 1	USQX92004695	62	alt z	0.907	0.666	0.0	0.166	85.335	0.332	0.265
+1JaOUMmaSZlWfONvT4HTlg	Konstrakta	In corpore sano	RSA042200033	69		0.00641	0.922	1.47e-05	0.0841	135.944	0.629	0.705
+6cTWJgNkmhATsI6RJgTPH4	Cornelia Jakobs	Hold Me Closer - Eurovision Version	SE5YN2200303	66	swedish pop	0.0995	0.503	0.0	0.0372	96.967	0.185	0.608
+3nhGk6VnrDHy67pXvMhdPa	Sam Ryder	SPACE MAN	GBAYE2101762	79		0.181	0.467	0.0	0.0489	79.978	0.334	0.828
+70HQXHPuU7EyUroOYkOzdk	Andromache	Ela	GRPA12200072	65	greek pop	0.244	0.659	0.0	0.0906	97.982	0.652	0.626
+1PpH00KzrWRN3um8vSbi7A	Achille Lauro	STRIPPER	ITV022200013	61	italian hip hop,italian indie pop,italian pop	0.00315	0.601	0.0	0.0975	140.064	0.554	0.799
+0zC65JcBBk4GYAjL2tHKXa	Ronela Hajati	SEKRET	QZDA82253475	63	albanian pop,eurovision	0.0451	0.76	0.00413	0.0502	100.005	0.452	0.695
+4VgSGm7CroAlCCt9GKQ75Z	Jérémie Makiese	Miss You	BEUM72200050	70		0.239	0.625	0.0	0.0529	144.023	0.28	0.527
+7aX4w6c7gSqbTBoU8g2lnm	Nadir Rustamli	Fade to black	AZA012200001	64		0.189	0.34	0.0	0.063	78.705	0.299	0.297
+27ThQIsofXro6xEz3SzQWi	Sheldon Riley	Not The Same	QZFZ22226126	65	australian talent show	0.662	0.355	0.0	0.0388	127.876	0.376	0.429
+0JNPmXGU9K9DJpV9eHppZz	Monika LIU	Sentimentai	QZ93L2201560	67	lithuanian indie,lithuanian pop	0.0902	0.675	0.00411	0.0325	93.075	0.5	0.555
+39eYn0el1oFv3btrhTX74G	Tulia	Fire Of Love (Pali Się)	PLUM71900167	31	polish folk	0.021	0.589	0.209	0.0313	95.994	0.777	0.783
+7B7O5jgFpWfc9orZw6FN4K	KEiiNO	Spirit in the Sky	QZ4JJ1823592	53	eurovision,norwegian pop	0.135	0.61	0.0	0.0585	121.952	0.357	0.754
+5gkFxBuUuASmNtmq0T5xSu	Lizzo	Cuz I Love You	USAT21900754	43	dance pop,escape room,minnesota hip hop,pop,trap queen	0.0156	0.566	0.0	0.0479	162.159	0.52	0.66
+6KgtcmCF9Ky68XC7ezxl3s	Lizzo,Cardi B	Rumors (feat. Cardi B)	USAT22104137	76	dance pop,escape room,minnesota hip hop,pop,trap queen	0.13	0.827	0.0	0.088	118.992	0.607	0.731

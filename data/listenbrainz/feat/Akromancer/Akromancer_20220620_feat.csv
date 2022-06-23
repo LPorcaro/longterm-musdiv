@@ -1,0 +1,997 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5jh8NRJMD8YI3hMDEKIK1R	Citizen Soldier	If I Surrender	TCAFL2131927	48	gymcore	0.242	0.539	0.0	0.0346	140.872	0.308	0.569
+2gV7WOT8uEX1GPpJDOtxn5	Citizen Soldier	Hallelujah (I'm Not Dead)	TCAFI2198658	47	gymcore	0.000138	0.46	0.0	0.0382	169.985	0.674	0.912
+2zwZmqT7D9ENxXSXxb8FEV	Citizen Soldier	Hand Me Down	TCAFS2127079	41	gymcore	0.297	0.452	0.0	0.0295	139.174	0.396	0.567
+0nCKl29Rt1NERR1En4A4Kb	Citizen Soldier	Stronger Than My Storm	TCAFJ2199861	42	gymcore	7.03e-05	0.508	0.0	0.0576	80.037	0.385	0.885
+0t16DlqkCu3kh2DAepkl98	Citizen Soldier	Always December	TCAFP2121441	41	gymcore	0.342	0.352	0.0	0.0385	69.409	0.445	0.628
+0KTAqwqJDOrpyqTGAG1cHY	Citizen Soldier	Pandora's Box	TCAFU2140176	39	gymcore	0.000181	0.472	1.88e-06	0.109	164.892	0.51	0.927
+5e4YdzkMRs7on9cQm47mot	Citizen Soldier	Invisible	TCAFU2140174	40	gymcore	4.81e-05	0.408	0.0	0.0412	143.077	0.279	0.866
+5Kgfa0fVDesLHK23cAUMc6	Citizen Soldier	Just Be Happy	TCAFT2183661	40	gymcore	0.000741	0.592	7.29e-06	0.0384	124.947	0.303	0.883
+2WycsMh2mgNR5MbYaGFI1f	Citizen Soldier,Kellin Quinn	Never Ending Nightmare	TCAFU2140157	43	gymcore	0.00201	0.245	0.0	0.0572	72.332	0.127	0.903
+6yVVKOuchvuL7DY8uP15Cn	Citizen Soldier	Empty Cup	TCAFR2125406	39	gymcore	1.88e-05	0.563	0.0	0.0456	114.997	0.345	0.952
+6IB0klrhnUFCYRj4VUEgQ3	Citizen Soldier	Isolate	TCAFU2140135	44	gymcore	7.39e-05	0.449	1.39e-06	0.0539	76.488	0.364	0.807
+6CFXV9Y13G1fyD9rcdn7CR	Citizen Soldier	Who I Am	TCAGC2208079	46	gymcore	0.00425	0.55	0.0	0.0341	135.07	0.194	0.486
+1hxG0kDwCr4X9nqWbGM1bY	Citizen Soldier	Waiting on the Sun	TCAFZ2254204	44	gymcore	0.0843	0.468	0.0	0.0419	75.301	0.377	0.68
+0mNnGK0heSeej6PtlKYvqi	Citizen Soldier	You Are Not Your Past	TCAGC2208051	44	gymcore	0.000245	0.586	0.000191	0.0361	131.905	0.787	0.928
+245TQkdOoSgloQfz3OjBDD	Citizen Soldier	Wanted	TCAGA2219605	42	gymcore	0.000264	0.385	0.0	0.0813	155.838	0.369	0.869
+3SbxHtb23mpd68lbJOwo4a	Citizen Soldier	Still Breathing	TCAGB2250296	47	gymcore	0.0633	0.51	0.0	0.0345	150.077	0.45	0.607
+2la5O2qmb1lDjKVdVFcCSx	Citizen Soldier,Loveless	Worst in Me	TCAGC2208016	46	gymcore	0.00549	0.562	0.0	0.0455	103.988	0.223	0.801
+06RpbKS1FffQmEhvZtkHSN	Citizen Soldier	Irreplaceable	TCAFX2193537	42	gymcore	0.00648	0.457	0.0	0.0634	144.013	0.375	0.897
+1pzQOkj5cVLAnlb0aPTkri	Citizen Soldier	Screaming in Silence	TCAGA2280825	40	gymcore	2.43e-05	0.542	0.00175	0.0508	99.955	0.436	0.935
+2QreTOLbejltEgT5zBovmm	Citizen Soldier	Pretend My Pain Away	TCAFY2128090	45	gymcore	0.0176	0.468	0.0	0.0602	143.917	0.51	0.857
+6X7neGOJothYAkEInAty5k	Citizen Soldier	Numb to Everything	TCAFZ2111095	41	gymcore	5.81e-06	0.454	4.55e-06	0.0771	143.042	0.429	0.962
+2a1tinoXflb50H6OsIxIxC	Citizen Soldier	Unsaid	TCAFX2132946	41	gymcore	2.43e-05	0.501	0.0	0.045	133.814	0.641	0.92
+5hrS0ntF3ZEMQILhEFeqhu	Citizen Soldier	Face to Face	TCAFM2170200	49	gymcore	0.000991	0.514	9.69e-05	0.113	155.038	0.451	0.892
+2FcLILShadyFYEkBDJ1T48	Citizen Soldier	Weight of the World	TCAEK1903171	50	gymcore	0.806	0.674	0.0	0.0347	154.702	0.52	0.364
+4hvHFKhU8WOViYincDLsji	Citizen Soldier	Bedroom Ceiling	TCAFS2185213	52	gymcore	0.425	0.561	0.0	0.0523	151.983	0.482	0.385
+0lOoKKmGLFYVz1ux5neMyR	Citizen Soldier	Let It Burn	usdy41789253	53	gymcore	0.00553	0.405	1.52e-06	0.0347	146.032	0.259	0.808
+4cVR8ks69Y7975Y7DAvbDT	Citizen Soldier	Save Your Story	TCAGD2273847	55	gymcore	0.00246	0.534	0.0	0.0501	116.947	0.516	0.828
+4IyfdyOS4ZM4B19uKMd3FJ	Citizen Soldier	Would Anyone Care	TCAEW2037294	56	gymcore	0.0757	0.488	0.0	0.0309	140.209	0.571	0.392
+1rC8X5z0RpDlwM2jmIXyNb	Citizen Soldier	Thank You for Hating Me	TCAFQ2188648	57	gymcore	0.00294	0.421	0.0	0.0856	170.133	0.552	0.873
+6A3d5JdnSmW7EVmil842LP	Citizen Soldier	I'm Not Okay	TCAFC2037109	57	gymcore	0.203	0.499	0.0	0.0392	133.958	0.427	0.667
+7HdGW7nnqYz5LhKt13J6PQ	Citizen Soldier	Monster Made of Memories	TCAGD2265396	60	gymcore	0.0232	0.508	0.0	0.0532	75.019	0.561	0.896
+0ajpv3BixZcXmh9502eYNg	NALYRO,Deepierro	Monster	QZ5FN2216324	43	lithuanian edm	0.0397	0.809	0.169	0.0513	125.069	0.475	0.818
+6X9hD9medguWs5mMGy6S0X	Coopex,Donovan's Playground,Lujavo,Britt Lari	Stereo Love	QZS662123450	52	traprun	0.315	0.769	0.00534	0.0847	127.084	0.252	0.855
+3USIyrfTbXAtmTkxvnC3Nr	Lucian,Amanda Yang	Here	QZS652138343	68	bass trap,pop edm,vapor twitch	0.709	0.693	0.0	0.0548	135.099	0.685	0.576
+62AmUEHRSgs1xOGQczuj0y	Meric Again,22angels	Love Nwantiti	QZS642189037	46		0.0749	0.714	0.0	0.0782	110.124	0.196	0.796
+5fs9cE5N236Zvz05PmaKjO	Nils Van Zandt,BACKFLASH,Basti Woods	Gone (Take On Me)	BED902000091	47	slap house	0.00272	0.654	5.26e-05	0.0342	128.017	0.214	0.798
+13NgfgB3G5JMnXztqZ3Eoh	The FifthGuys,John Kroon,Polina Grace	You Right (feat Tommy Rage)	GBKQU2241473	54	traprun	0.0654	0.649	0.0	0.165	126.049	0.447	0.723
+0w2vxSC7kTJV4xHOkzpZ8R	Santorelli,15grams	Fighting For Your Love	QZKDK2246957	40		0.0808	0.682	0.00216	0.0293	124.054	0.295	0.581
+3fWKUqt1i6CsEBLuB8IWJ1	Anthony Keyrouz,Séb Mont	Dance With Your Devil	NLT2H2000454	60	arab electronic,brazilian edm,edm,pop dance,pop edm,slap house	0.327	0.574	0.000181	0.267	125.917	0.469	0.757
+5QQrEi1bWQpRPwNoLrD3ZN	Brian Cross,Reggio	Game Over	NL5WB2200037	49		0.0622	0.754	0.181	0.26	152.024	0.24	0.902
+1T6zY83OdmLpPnwiAcSbl8	Lukasoprom,Benlon	Survive	QZKDK2224223	39	traprun	0.121	0.712	1.26e-06	0.0443	124.01	0.152	0.798
+7BJvauk2ddcxirw5px8Wfa	Paradigm,Scott Rill	Bloodstream	NLT2H2000472	62	slap house	0.0538	0.65	0.000345	0.309	126.157	0.445	0.756
+3BBwMsOGFXhuOdYdDyB5QS	rayn,Thunder	ripping at the seams	QM4TX2262869	53	deep tropical house,new french touch,tropical house	0.609	0.751	0.00171	0.134	124.016	0.291	0.69
+5a7hBKKahKHEaCqK7KayYa	Whoopa	Can’t Get You Out Of My Head	QZKDK2263756	43		0.143	0.556	0.0	0.0632	127.97	0.248	0.816
+5T874muIHxCkV7L6Me4nJI	Edy Marron	Hold On	SEXJW2200601	43		0.0428	0.685	0.000593	0.0505	126.016	0.163	0.967
+3BKVesm3O4lEfaAeBORj15	TwoWorldsApart,Wilhelmina	Dont Hold Your Breath	QM4TX2251415	52		0.0573	0.737	0.0435	0.0443	125.989	0.358	0.645
+57lzvYleCXPA1dO4w2vfMu	EQRIC,JOZUA,Robbe	TiK ToK	QZS662111401	56	pop edm	0.0393	0.679	1.06e-06	0.0531	127.933	0.206	0.841
+2vkJaJqGfEWgHU9qBXLqlu	The FifthGuys,Coffeeshop,Rich Fayden	Forever More	QZMHK2295920	48	traprun	0.00244	0.654	0.00351	0.0419	105.043	0.18	0.711
+07UGsMCy9JFbYD3lclrTah	Robin White,Marc Kiss,LØU,EMMA LX	Hard Times	QM6MZ2210378	48		0.0789	0.682	2.44e-05	0.178	122.125	0.531	0.914
+4jTrGEgChA2A5jKE6zSUGK	EQRIC,PHARAØH	Runaway (U & I)	QM42K2268053	45	pop edm	0.0306	0.607	0.0	0.0843	126.02	0.62	0.893
+4H78mlyD5MF6HyioQUpTJL	RXSH,Jayish,Barmuda	Hurt You	QM6MZ2214406	50		0.126	0.786	0.0	0.204	123.127	0.579	0.775
+5C4eucsDjLg6vpnSqhZbH6	Vicky Lenzer,Jayde	Easier	QZKDK2253942	36		0.0711	0.533	0.0	0.168	149.844	0.335	0.804
+0W352rdq3ReIGQxUu5BZ4S	Felix Schorn,Sula	Ocean's Secret	QM4TX2279210	50		0.1	0.667	0.0299	0.206	104.899	0.457	0.745
+0gomvJxiFasHak3nZyHaBU	Fyex,Daveepa,Milan Gavris	MIDDLE OF THE NIGHT	GX3HH2290505	52		0.099	0.544	0.0	0.16	130.027	0.179	0.781
+7M0CZIbuJ15hZMvbhWIGOB	Veronica Bravo,Twin	Infinity	QZS652203232	44		0.0201	0.721	0.0002	0.0417	124.018	0.148	0.756
+0nOOsfY49IUan3twlFOhYH	Rolipso,Van Herpen	Phoenix in the Night	TCAFZ2272079	57	new french touch,pop edm,slap house	0.00107	0.608	0.000207	0.059	129.048	0.245	0.903
+5AxLxlEzlMsFonHfAcn41s	RSN	Stay	TCAGA2204882	51		0.475	0.669	2.29e-06	0.17	109.913	0.155	0.777
+2Zbv0Z1lZD7Kw5JtICgiuB	Kazu,Jstn Dmnd	All Cap	QM42K2241694	39		0.0333	0.492	0.0	0.459	155.853	0.357	0.723
+00YUzwA7ajodxzeZBucPAA	ONEIL,KANVISE	In Too Deep	QM42K2282209	43	g-house,russian edm	0.0586	0.646	0.00793	0.0403	124.983	0.417	0.714
+1AVwoLVPxSvyqHwtbDqhc0	Cabuizee,Protocleus,Lyra D.	The Reason	QZKDK2203278	46		0.009	0.708	0.00954	0.0521	119.943	0.417	0.847
+3chP6qfr4ZKr9XYpkjw4FI	EQRIC,RushLow,Nito-Onna	Stupid	QZKDK2288877	47	pop edm	0.466	0.757	0.0	0.209	96.072	0.539	0.685
+4fzKKcUUHPJQlVKO7gjVrV	Harddope,Twin,Badscandal	Out Tonight	QM42K2244512	42		0.0155	0.65	1.42e-05	0.0378	124.013	0.484	0.729
+5Uz5yzV9MX0LbAMfLECWDv	The FifthGuys,Shiah Maisel,The Late Night Project	Centuries	FRR642200706	56	traprun	0.135	0.712	0.00124	0.0474	115.004	0.436	0.687
+1KgU8LZ7MWxBkCugjWFRJ2	Hr. Troels,Morty Simmons,Crystal Rock,Romy Dya	Something	QM6MZ2224342	58		0.00686	0.671	0.0135	0.293	134.98	0.524	0.889
+5hUguCl9smABTqcVYiuQ4c	Stayer,Benlon	Hangover	QZS652218508	44		0.0398	0.684	0.0	0.336	125.024	0.466	0.756
+1VrUmM2wEOkylNqfCpDaaN	mavzy grx,Blanee	Why Don't You Stay	QM4TX2293058	50		0.0133	0.682	0.0012	0.12	126.05	0.462	0.818
+1IjtAvFs602L4N6c7JQHg3	Severman,Arshan Joel,Robbie Rosen	Stained Glass	QM6MZ2214383	51		0.0401	0.449	0.0	0.0454	127.927	0.343	0.671
+0Cd9lYo1EjWvJrkyyy9c4d	Mohamed Abdelrahman	Love	QM42K2264038	40		0.0414	0.683	0.000695	0.0323	128.062	0.239	0.66
+558h4smLhMmOrY1IWdQrjZ	KALUMA,Blaikz,5V3N	Tick Tock	QM6MZ2220810	55		0.158	0.761	1.32e-05	0.121	108.037	0.489	0.729
+2t7igepoCRZK3yNKTc4yDV	EMOCA,Martin Jordan	Sweet Escape	TCAFZ2272145	57		0.0147	0.675	0.0	0.0495	126.025	0.356	0.913
+7wHBA1rA11hqUbuoHoPPWH	Marin Hoxha,Vinsmoker	Time	QM42K2218596	44	gaming edm,traprun	0.333	0.79	0.9	0.0546	122.002	0.336	0.713
+4IYoJcUqyjIukxUVUzoUBy	Ikarus,Marcus Lovin	BEST FRIENDS	ROROT2203180	40		0.0256	0.772	7.53e-05	0.0617	106.995	0.409	0.624
+7mdPqrQPIOKZbDVVraXjK1	Miscris,DSTRT	Without You	QZKDK2252673	45	lithuanian edm,lithuanian electronic	0.147	0.698	0.0	0.21	114.952	0.34	0.822
+4XpDj477gvnsYNT21ap9Y8	Anthony Keyrouz,Glaceo	Last Melody	NLT2H2100551	66	arab electronic,brazilian edm,edm,pop dance,pop edm,slap house	0.344	0.671	0.0	0.322	131.085	0.418	0.826
+7rOmOH5fm988agwwiEwRMN	Poorchoice,STRAVE,Bolshiee	I Knew	QM42K2246819	40		0.0936	0.542	0.00141	0.0446	119.801	0.147	0.782
+5azzotdmqWZplzXv2AhsKG	Nitro Fun	Blocks	QZMHK2274233	45	complextro,edm,electro house,gaming edm,speedrun	0.00408	0.628	0.14	0.12	129.786	0.645	0.795
+2Mxdktxk8klyOfTnJaqJnT	Brøder,GRHHH,J R	Teenage Dream	QM42K2201417	47		0.00286	0.677	0.0	0.0855	126.027	0.34	0.926
+7gbCejFDJt4YrCvMp4nEWi	Ozlig	Ferrari	QM6MZ2206320	50	g-house	0.021	0.763	1.89e-05	0.086	124.0	0.4	0.677
+7gR5zlflLryPrzd0SXScID	Niklas Dee,FVTM	she's all i wanna be	GX4R52221031	49	slap house	0.0259	0.687	0.000207	0.0823	139.969	0.333	0.864
+2NeRuatA4k7bqhl49yO8AM	Yohan Gerber,DJ Justin James	Hideaway	QZS632272116	47		0.0588	0.784	2.39e-05	0.0835	126.079	0.268	0.801
+7CEIFwLf4XmFz8okORSizE	Naeleck,Haley Reinhart	Creep	FRR642200834	62	electro	0.0555	0.615	0.00156	0.0421	124.013	0.0754	0.829
+0U4CxIyzRazoA5Eth43oEU	Dream Chaos,Benlon	If I Lose Myself	QZS652269955	49	belarusian electronic	0.136	0.639	0.0	0.0542	125.987	0.373	0.802
+4yF7byF3hYRPY8VKtyuXJN	Robbe,FLX,BETASTIC,Matthew Clanton	One And Only	GX5MX2212301	46	slap house	0.0568	0.807	0.000808	0.0556	135.989	0.192	0.74
+0PwtLLhvCH1crffFLPYSIX	Cour,DJSM,Robbe	Rude	QZKDK2228797	52		0.236	0.725	0.0	0.0484	127.97	0.559	0.9
+1aAfwI7B81GjZFgDpllYe0	Nao,Orange Purple	Like This	QM6MZ2256111	48		0.0369	0.628	0.419	0.0337	127.947	0.342	0.702
+6YNktNoWajCgYNhX0b1RVB	DJSM,Robbe,Milan Gavris	Mirrors	GX4R52221062	57		0.00259	0.692	0.0133	0.0956	125.917	0.191	0.883
+6nLEcwqpVNOGRGtnV2pElc	Arc North,Cour,Charlie Miller	Youngblood	QZKDK2135557	59	gaming edm,slap house	0.0192	0.465	0.0	0.368	123.466	0.407	0.891
+62LN2Eh7OpiPQTpGbnQVm2	ConKi,Goodkins,Janethan	Take You There	SE6I32245969	58		0.118	0.642	0.0	0.0927	122.869	0.532	0.746
+6Od5w2Cdvvs5ponvLzLFtl	LU2VYK,Carsen,Madison Gold	Patience	TCAGB2288749	54	deep tropical house,tropical house	0.134	0.708	7.09e-06	0.0418	123.98	0.291	0.612
+0amCUG8RyZucfaVl9Mm9iR	Alban Chela,Veronica Bravo	La La La	QZMHK2264413	50	traprun	0.245	0.616	0.00442	0.051	122.064	0.381	0.683
+1KrGktk3AAgkm4753ssDRk	NUBLANC	GOT MYSELF	ROROT2203401	37		0.689	0.734	0.0134	0.0609	125.874	0.11	0.504
+4auB7LFfRIvBrf1hMLtHmi	NOYSE,RAIDH,Mr. Kuy,NALAA	I Want It That Way	QZKDK2204888	44		0.0774	0.571	1.29e-06	0.0703	126.009	0.409	0.884
+3pqWtdz3XOlVPokBRo11tp	Laurent Wery,Sean DeClase	Fly Away	BED902200111	42		0.235	0.734	0.0279	0.0377	118.046	0.362	0.657
+5k8lLvvCuLntoTnu5V1ctG	sedai Y	I'm So Tired	QZKDK2266196	42		0.108	0.626	4.14e-06	0.253	117.645	0.634	0.962
+0mNih5REspzbQfKPiotvGe	MKJ,Joel Coopa,Jay Mason	Wait A Minute	NLT2H2200307	51	finnish edm	0.0107	0.397	0.0128	0.0954	119.258	0.399	0.87
+1caJcdG3PI8UhKD0fE7zxn	Djobo	Rock My World	QM6MZ2289997	47		0.28	0.493	9.24e-05	0.0542	191.911	0.337	0.827
+5xEU1JgrLk98FCGXMZhW4B	Murdbrain,theajsound	Ocean Drive	QZS662257441	43	traprun	0.0266	0.679	1.05e-05	0.0847	115.082	0.356	0.868
+0grMMS15PrE4EPrOSuMojy	BIMONTE,JANFRY	In The End	QZKDK2271854	47	melbourne bounce international	0.000286	0.615	0.000316	0.0367	121.966	0.102	0.858
+0IriZU8GUhb8al93Leh3kK	RICCI,DISORDER	How We Do	NL5WB2200030	46	brazilian edm	0.00363	0.774	0.0114	0.271	124.013	0.546	0.673
+4dq7XLDmFHNwc1yqL339qT	Anthony Keyrouz,Paradigm	Wake Me Up In Paris	NLT2H2000260	74	arab electronic,brazilian edm,edm,pop dance,pop edm,slap house	0.0573	0.71	4.87e-06	0.186	131.001	0.363	0.816
+6KGP8Tl304VnuvhzBUmaPL	LBLVNC,Godmode	Shivery	QZKDK2293960	42	traprun	0.00142	0.712	4.4e-06	0.174	124.958	0.426	0.938
+0ZLo7Lozn4R3vaw9qsCCEC	Shiah Maisel,Clarx,Rolipso	Intertwined	QZMHK2295829	49		0.0641	0.645	0.0	0.13	97.981	0.451	0.757
+2puoLMZ1EFcsM8aut0Ivy0	Twin	Crazy About You	QZS632181148	38		0.00584	0.775	0.00899	0.0573	119.995	0.332	0.878
+6Qk4oKtnRlii1S30t9bYrP	Mahmoud,Rico 56	Down From Here	QM6MZ2276645	46		0.0935	0.665	0.0154	0.0484	129.994	0.0985	0.798
+3g4h8sYLT2m2eUo0EiLjfo	Coopex,R3YAN,Benlon	I Won't Leave You	QM42K2247008	49	traprun	0.0716	0.809	0.0	0.0782	123.945	0.534	0.766
+22gCw2dWdlgxUU9igVtn7T	Ocean Roses,Kimani	Would You Help Me	QZS642208103	39		0.333	0.57	0.0	0.212	99.867	0.279	0.735
+6y53qAGRyI5QFR85gwCF19	Faruk Orman,5lowers	One You Desire	QZS672255142	42		0.699	0.839	0.000707	0.0505	123.971	0.632	0.78
+2ABgy5n4kkKDatF9DT6gei	Dubio,Vowed	Can't Get Over You	QZHN62223998	45		0.186	0.614	1.19e-06	0.104	124.814	0.469	0.886
+1bOQBDrNDJLhzDSUYKap4U	Cabuizee,Protocleus,Nadda Mercenary	The Heat	QZHN82236631	43		0.0433	0.762	0.000497	0.0736	124.982	0.581	0.807
+6HTksZPOUeVnT4fDeoij7I	EMDI,Ardo	Pink Soldiers	QM42K2234416	41		0.11	0.805	0.4	0.0594	125.013	0.282	0.589
+2pIEOKCBIazu1S6BlVAgpg	Harddope,The Kith	Nightlight	QZS632219741	52		0.0044	0.694	0.0034	0.253	125.852	0.395	0.913
+22MFSOttIrhKCxTNtrXlXX	SVRRIC,MU,Harley Bird	Let Me Go	QZS662270033	40		0.0538	0.46	0.0	0.0789	150.021	0.185	0.774
+4Q5V4uPcshvUPdrXDjm8D3	Rockie Brown	Alive	TCAFY2196164	51		0.0023	0.707	4.51e-05	0.0424	125.013	0.244	0.523
+0bZL9EEh4nCiuRomDhMjwT	DJSM,Fyex	Jenny From The Block	GX5MX2233416	56		0.0487	0.644	0.0	0.238	124.916	0.544	0.824
+0eakkxMbE5dAmzGM1FNQlW	Axynus,Casian,Dayana	Give In To Me	QM42K2250597	45		0.0538	0.797	0.328	0.102	114.017	0.292	0.7
+74svMcorgPABViSTZka4yw	HÄWK,BEYGE	No Diggity	QZTAU2104473	71	brazilian edm	0.016	0.809	0.83	0.0498	125.034	0.436	0.777
+2OotVBi64QPusgXZWrS1Oj	EMDI,Robbie Rosen	Slow It Down	TCAGB2288800	54		0.0372	0.664	0.0	0.0436	122.007	0.537	0.631
+4BswpLcaz7qRETP5ZZdvC1	Æj,Marphil	Paris	QM42K2233157	43		0.122	0.764	2.85e-05	0.0351	112.009	0.658	0.633
+643b6jPsmDrYmIIGyu06pc	Hr. Troels,CANCUN?	I Wanna Love You	QM6MZ2290399	49		0.0387	0.629	2.15e-06	0.302	123.729	0.493	0.87
+3Qqa2DGfpTJRh5GETbjO57	Pillows,Menshee	Trouble	QZS652296370	45		0.25	0.842	1.71e-05	0.171	123.007	0.404	0.86
+0u1N4EJF22UWsFSJ0RrPdx	Meric Again,Veronica Pichardo	Young And Beautiful	QZS652282529	45		0.0652	0.606	0.000903	0.206	122.157	0.0945	0.86
+1PYKhEmVdnIVgfPakYUx7W	Badscandal,Burning Beards,Goodscandal	So Alone	QZS662205627	46		0.0592	0.722	6.84e-05	0.0759	123.947	0.255	0.786
+06taZtnn58ySoKYD2Ugpbv	BUTTER	Castles In The Sky	QZKDK2214094	43		0.25	0.76	0.0	0.118	122.03	0.286	0.749
+07qzgNx3EQ5sGI72az1Gzo	Heyder,Robbie Rosen	Weakness	QZKDK2213442	41		0.018	0.623	0.0	0.0583	120.005	0.143	0.91
+7mpb3AoIspr8vwMwNzA1cp	Yohan Gerber,Kverz,Britt	You Make Me Feel	QZMHL2282296	47		0.0789	0.678	0.0025	0.034	127.993	0.119	0.876
+1PFrl1o5buUnI8yB1I4c1r	Maciel,Mr. Pig,CRVN,Donovan's Playground	Glad You Came	QZS632254425	50		0.024	0.747	0.0	0.135	126.024	0.473	0.752
+1nfPIiKpEDOjAj7QfYYAPY	Golden Wizards,Cour,Veronica Bravo	My Head & My Heart	QM42K2298186	54		0.0808	0.709	6.66e-06	0.0565	123.98	0.521	0.856
+4GkZJaZ0Q9fh3VS1OnJNpG	EQRIC,PHARAØH,Peter Piffen	Ridin'	QZMHL2240862	48	pop edm	0.274	0.695	0.0	0.137	127.919	0.409	0.837
+6BGTEPla1zeIrR9rrX562y	Protocleus,ASTRODIA,Luc Rushmere,Cour	Goodbyes	QM42K2271878	45	pinoy edm	0.0682	0.678	0.0	0.222	127.807	0.156	0.831
+18XD0azFYji65mpKi3dquj	Marin Hoxha,Robbie Rosen	Leave The World Behind	QZS662279037	37	gaming edm,traprun	0.114	0.578	0.0	0.101	120.062	0.564	0.7
+00i8WcWRVeVkM26NjjUomc	Harddope,Badscandal,Glen Power	Tomorrow	QZS662248042	45		0.186	0.699	0.0	0.0433	124.08	0.381	0.906
+485Hrmp07tUyxxleGiGvUh	GRHHH,Glamii,Margad	Bananza (Belly Dancer)	QZMHM2217234	36	g-house	0.285	0.811	3.01e-06	0.122	125.925	0.37	0.85
+2sr3bDb7vFX23vDxRL3pQH	Veronica Bravo,Cour,PACANI	Middle Of The Night	QZS672280039	32		0.0403	0.338	0.0	0.386	185.891	0.238	0.784
+4KuXHiLLLhn8QpYuPZDIO9	F3DEN,Red Maple	In The Air Tonight	QZMHL2280406	30		0.0414	0.686	0.0	0.0517	124.973	0.152	0.883
+7bYCV7krB6YPNBnT6uwXuV	sad girls,Meric Again,22angels	Stay	QZS632174112	49		0.0306	0.533	0.0	0.11	128.033	0.151	0.861
+7u8rSIe0Rh7XrwPV9btvwG	CryJaxx,Junior Charles	Candy Shop	QZS662177062	65	traprun	0.033	0.698	4.56e-05	0.0372	99.961	0.17	0.852
+2957ZkdaJKnHzuFYmLD230	Meric Again,22angels	Heat Waves	QZS672164357	49		0.0387	0.668	0.0	0.198	128.045	0.441	0.896
+01YJmtE3LXIyzSeI9A8Xuz	Alban Chela,Veronica Bravo	Never Know	QZS642286407	41	traprun	0.325	0.625	0.0	0.0374	114.924	0.344	0.569
+2xkttLAk4NHEJQ1GBpfKyJ	Meric Again,22angels	Bam Bam	QZS672288374	49		0.306	0.71	8.63e-06	0.0817	112.064	0.349	0.81
+0nkVCNM0drPpMhssp2aWwV	Alban Chela,Mista LT	Thrift Shop	QZS662243095	55	traprun	0.166	0.732	1.37e-06	0.0821	100.005	0.345	0.829
+2OfQvGrr83FGpdLA1nAR01	Arc North,Aaron Richards,New Beat Order,Cour	Numb	QZKDK2048194	68	gaming edm,slap house	0.0144	0.659	0.0	0.136	123.95	0.286	0.838
+2xbw8jEdJAiiP3VCbOWKvK	Harddope,Protocleus,Edpranz	ABCDEFU	QZKDK2240847	54		0.15	0.762	0.0	0.244	125.038	0.434	0.823
+5o1QZzfsboTlxhoAPR36LA	Arc North,Meric Again,Fallen Roses	Enemy	QZKDK2252297	59	gaming edm,slap house	0.0514	0.622	0.0	0.201	96.309	0.192	0.856
+388Qk5MTCyVQ6eYlX4UF8o	Alfons,Arc North	Knight Rider	QZS642242679	56	melbourne bounce international	0.0121	0.589	0.000152	0.064	132.049	0.359	0.883
+6Uaqf3LCwuVebfm5u3ndq9	Bad Wolves	Sober	USDPK1900060	56	alternative metal,metal	0.0111	0.456	0.0	0.047	157.031	0.619	0.813
+4bqSES0mkm6RxFrRcIKHtj	Bad Wolves	No Messiah	USDPK1900059	48	alternative metal,metal	6.03e-05	0.39	0.00248	0.0967	154.908	0.343	0.918
+2qJkesdHu9sMMVFgkRkqhQ	Theory of a Deadman	Angel	NLA321400207	65	alternative metal,canadian metal,canadian rock,nu metal,post-grunge,rap rock	0.00251	0.443	0.0	0.0425	76.001	0.452	0.844
+2d1MywHy6FwKdzxFuSJnwl	Imagine Dragons	Wrecked	USUM72110166	72	modern rock,rock	0.148	0.626	1.51e-05	0.0288	93.989	0.229	0.56
+1JANuGWwsdkHyTVEy16oPa	Siamese,Olivio	Super Human	DEA451900660	32	danish metal,gymcore,metalcore,post-screamo	0.00427	0.532	6.73e-05	0.0364	145.088	0.417	0.592
+6MOm4FSE2fk1NFd5fcqoSq	From Ashes to New	Panic	USDPK2000008	54	post-screamo	0.000318	0.529	0.0	0.132	98.067	0.292	0.961
+7asFSf2pkWNEG3E5EuN1QR	League of Legends,MAX,Jeremy McKinnon of A Day To Remember,Henry	Take Over	QZH6S1900265	64	speedrun,video game music	0.18	0.446	0.0	0.17	107.918	0.39	0.73
+20umbRtGLy493kML1VedCq	Livingston	Message in a Bottle	USAT22104474	58	sad rap	0.58	0.667	0.0	0.19	78.892	0.623	0.639
+3XPechmCu8THVVyvoMdBCg	Divided Minds	Let You Down	QMMUK1900213	44	phoenix indie	0.0133	0.54	0.0	0.0324	145.002	0.492	0.834
+48w8Vh6p5Q23PwbH7HhfY1	Rain City Drive	Like I Do	QM4TW2020992	49		0.012	0.58	0.0	0.0426	111.013	0.302	0.874
+0DxQ1IC79w1OdNxVOfn6EB	Seconds Away	Streetlights	ushm81860296	40	gymcore,post-screamo	0.00664	0.55	2.15e-06	0.0303	144.928	0.501	0.716
+6GY6GiElGtSgreWnN1mK2A	Ericovich,L.Kaison	Galaxy	QZMHL2074783	30	traprun	0.0551	0.54	0.0	0.0977	165.057	0.204	0.866
+7hXFx8ue6LnP6sB8Zf7ik9	Kris Sobanski,It Lives, It Breathes,Kaiser Sensei	Sleep Forever	uscgh2071196	41		0.0738	0.46	0.0	0.0569	99.926	0.118	0.839
+1PuxDvnq7o6XeaqXIm1WiG	Golden Wizards,DENNICK,Dave Who,Young Jae	No I In Team	QZS652146007	33		0.131	0.769	0.0	0.154	125.037	0.263	0.84
+0tyR7Bu9P086aWBFZ4QJoo	All Time Low,blackbear	Monsters (feat. blackbear)	USAT22000034	72	modern rock,pop punk,rock	0.0493	0.369	0.0	0.0611	78.532	0.782	0.845
+0KCSJzsQVxkloxoT7dyrqV	SiM	The Rumbling (TV Size)	JPPC02111706	69	japanese metalcore,japanese screamo	1.68e-05	0.408	0.000101	0.0546	144.975	0.646	0.875
+2rDwdvBma1O1eLzo29p2cr	Adam Lambert	Whataya Want from Me	GBCTA0900344	64	dance pop,idol,pop,post-teen pop	0.00706	0.44	0.0	0.0489	185.948	0.445	0.683
+7Cw3kBw7SPHfwlszTA2uyt	From Ashes to New	Beat It	USDPK2100158	42	post-screamo	0.00134	0.581	0.0	0.0649	140.033	0.783	0.928
+4uggqOhSODsfPN0JKbtSUL	From Fall to Spring	Supernova	TCAEZ2089428	41		0.025	0.562	3.76e-06	0.0367	140.039	0.271	0.81
+40H1KHYdPCriRnwVCq2b8l	Sunsleep	11 Minutes	QZDA61978836	41		0.0241	0.413	0.0	0.0652	159.977	0.284	0.813
+6tUcFEXos6TGhESFlkAyCm	Casey Edwards,Victor Borba	Bury the Light	JPE102003410	67	sound team	1.27e-05	0.399	0.818	0.0813	149.981	0.173	0.92
+5rIjbX7rQMj8Gh9Oxd4Vrc	Migos,Pop Smoke	Light It Up (feat. Pop Smoke)	USUG12102602	58	atl hip hop,hip hop,pop rap,rap,trap	0.414	0.793	0.0	0.226	142.988	0.596	0.639
+2kuYZZvjwzYWPA8L7ICFXn	Swae Lee	Dance Like No One’s Watching	USUM72017303	43	melodic rap,trap	0.352	0.775	0.000159	0.109	99.933	0.65	0.492
+20GrahbI4AzAOWxpYfDKkf	DJ Khaled,Post Malone,DaBaby,Megan Thee Stallion,Lil Baby	I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)	USSM12102187	70	dance pop,dirty south rap,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap	0.00196	0.757	0.0	0.0691	124.036	0.364	0.721
+1EJIcDYXwSqipW5dFe4uJz	DJ Khaled,Lil Baby,Lil Durk	EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)	USSM12102263	77	dance pop,dirty south rap,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap	0.000866	0.477	0.0	0.286	150.062	0.227	0.727
+27OeeYzk6klgBh83TSvGMA	The Kid LAROI	WITHOUT YOU	USSM12006586	81	australian hip hop	0.213	0.662	0.0	0.0299	93.005	0.467	0.413
+6Tex46h3174Y009Mf1jG09	The Kid LAROI	RUNNING	USSM12004214	51	australian hip hop	0.377	0.438	0.0	0.0908	100.834	0.313	0.585
+40uMIn2zJLAQhNXghRjBed	Post Malone	Motley Crew	USUM72111566	80	dfw rap,melodic rap,rap	0.0904	0.797	3.71e-06	0.0786	129.915	0.288	0.631
+3QCU8BT0zDS9LPVfEhRFEE	The Kid LAROI	ALWAYS DO	USSM12006583	72	australian hip hop	0.0442	0.762	0.0	0.113	167.827	0.582	0.426
+1f5cbQtDrykjarZVrShaDI	A Boogie Wit da Hoodie,Kodak Black	Drowning (feat. Kodak Black)	USAT21701817	81	melodic rap,rap,trap	0.501	0.839	0.0	0.0568	129.014	0.814	0.81
+3fKdTr6Uv8HTb92Ih3QWxa	iann dior	Pretty Girls	QZJ842000282	66	melodic rap,pop rap	0.276	0.732	0.0	0.0541	96.946	0.62	0.511
+26wLOs3ZuHJa2Ihhx6QIE6	5 Seconds of Summer	Teeth	USUG11902528	77	boy band,dance pop,pop,post-teen pop	0.0508	0.756	3.87e-06	0.0404	139.031	0.431	0.448
+0j8ppsOOawdPCJnSTcXgOy	$NOT	GOSHA	QM42K1852966	73	aesthetic rap,florida rap,rap,underground hip hop	0.81	0.847	1.35e-05	0.416	79.975	0.488	0.448
+2vl0D1b0M6UHlD1Fjh5j1m	Internet Money,Lil Tecca,Lil Mosey	JETSKI (feat. Lil Mosey & Lil Tecca)	QZJ842000897	68	rap,trap	0.0253	0.883	0.0	0.296	92.95	0.463	0.446
+3Ofmpyhv5UAQ70mENzB277	Masked Wolf	Astronaut In The Ocean	USAT22100017	80	australian hip hop	0.175	0.778	0.0	0.0913	149.996	0.472	0.695
+27NovPIUIRrOZoCHxABJwK	Lil Nas X,Jack Harlow	INDUSTRY BABY (feat. Jack Harlow)	USSM12104539	89	lgbtq+ hip hop,pop	0.0203	0.736	0.0	0.0615	149.995	0.894	0.704
+1oew3nFNY3vMacJAsvry0S	Rixton	Me And My Broken Heart	USUM71401800	78	pop,pop rock,post-teen pop	0.00489	0.545	0.0	0.0345	174.084	0.551	0.783
+3eJH2nAjvNXdmPfBkALiPZ	Jason Derulo	Acapulco	USAT22102812	83	dance pop,pop,pop rap,post-teen pop	0.051	0.774	0.0	0.0523	122.062	0.507	0.792
+1PuQTv1Kr1gzLgVeATSuh6	Charlie Puth	Somebody Told Me	USAT21702287	55	dance pop,pop,viral pop	0.101	0.592	0.0	0.0564	168.501	0.457	0.839
+6jmf4OxSGzdgthZruXtcqu	MASN	Hate Me!	USRC12001831	68	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.659	0.683	0.0	0.123	142.06	0.356	0.628
+0mG6igzxbH55XRyq3ygEh8	Sleepy Hallow	2055	USRC12100442	74	brooklyn drill,nyc rap	0.455	0.775	0.0	0.311	161.011	0.646	0.518
+33gwZOGJWEZ7dRWPqPxBEZ	Big Sean,Post Malone	Wolves (feat. Post Malone)	USUM72016329	77	detroit hip hop,hip hop,pop,pop rap,r&b,rap,southern hip hop,trap	0.0978	0.724	9.41e-06	0.0867	160.048	0.325	0.675
+12e5rUktNoga7mdtziCw33	James Arthur	Deja Vu	DEE862100739	53	pop,talent show,uk pop	0.142	0.373	0.0	0.217	93.491	0.574	0.722
+7c7aNuxtIjfBPa8IVyD6sY	Fame on Fire	Her Eyes (Remix)	USHR22012714	39	post-screamo	0.000328	0.537	6.72e-05	0.0384	154.969	0.622	0.955
+6o8tRLnKNSVoBHCTfiFdBA	Dean Lewis	Looks Like Me	AUUM72100420	70	australian pop,pop	0.548	0.769	0.0	0.0864	110.659	0.464	0.724
+24Yi9hE78yPEbZ4kxyoXAI	SAINt JHN,Imanbek	Roses - Imanbek Remix	RUB421901499	81	melodic rap,pop rap,rap,slap house	0.0167	0.77	0.0107	0.0495	121.975	0.898	0.724
+1mea3bSkSGXuIRvnydlB5b	Coldplay	Viva La Vida	GBAYE0800265	81	permanent wave,pop	0.0954	0.486	3.23e-06	0.0287	138.015	0.417	0.617
+4i3NmGbem2nJq5yrsbizki	Post Malone	Cold	USUM71614500	42	dfw rap,melodic rap,rap	0.647	0.671	4.72e-06	0.0431	133.008	0.254	0.572
+6ILsOdeN5cv3M0tp0ootWF	Jason Derulo,Meghan Trainor	Painkiller (feat. Meghan Trainor)	USWB11504530	48	dance pop,pop,pop rap,post-teen pop	0.0123	0.739	0.0	0.0359	128.041	0.561	0.703
+1X8E4vVoOM3BpSQlEDSjjM	Juice WRLD	Burn	USUG12105417	74	chicago rap,melodic rap	0.149	0.354	0.034	0.0425	114.975	0.0393	0.475
+7DwcBgdzqhFJltEaV1XF81	Post Malone,Roddy Ricch	Cooped Up (with Roddy Ricch)	USUM72208020	88	dfw rap,melodic rap,rap	0.038	0.669	0.0	0.153	93.923	0.377	0.773
+2Yv6DfAVcjugchZpZKv5P7	Clever,Chris Brown	Rolls Royce Umbrella (with Chris Brown)	USUG12100467	49	alabama rap	0.0488	0.616	0.0	0.0592	159.844	0.373	0.567
+6Gg1gjgKi2AK4e0qzsR7sd	Juice WRLD,YoungBoy Never Broke Again	Bandit (with YoungBoy Never Broke Again)	USUG11903492	76	chicago rap,melodic rap	0.0687	0.474	0.0	0.343	180.051	0.425	0.631
+3eekarcy7kvN4yt5ZFzltW	Travis Scott	HIGHEST IN THE ROOM	USSM11904276	82	hip hop,rap,slap house	0.0546	0.598	5.83e-06	0.0317	76.469	0.0605	0.427
+577YBGuskWkVDCxZrLRB4v	Lil Baby	Pure Cocaine	USUG11802285	77	atl hip hop,atl trap,rap,trap	0.00127	0.964	6.57e-06	0.421	127.05	0.107	0.487
+3Xfg7AegXaDLoD5GOUMf2e	STARSET	My Demons	USRZR1460007	72	future rock,modern rock	0.00768	0.274	6.42e-05	0.0625	173.008	0.1	0.652
+6Zisja44KqMZj4GM4UY6Yv	6LACK,Offset	Balenciaga Challenge (feat. Offset)	USUM71812672	51	alternative r&b,atl hip hop,hip hop,melodic rap,r&b,rap,trap	0.0895	0.744	6.66e-06	0.419	142.961	0.658	0.394
+1Knctxx9vGZxpZfF66BIEa	Juice WRLD	Legends	USUG11801263	74	chicago rap,melodic rap	0.115	0.594	0.0	0.0844	142.049	0.381	0.798
+5ry2OE6R2zPQFDO85XkgRb	Drake,Rick Ross	Money In The Grave (Drake ft. Rick Ross)	USCM51900318	77	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.101	0.831	0.0	0.046	100.541	0.101	0.502
+696DnlkuDOXcMAnKlTgXXK	Arizona Zervas	ROXANNE	USSM11914320	79	pop rap,rhode island rap	0.0522	0.621	0.0	0.148	116.735	0.457	0.601
+1ToprX3cpBiXoAe5eNSk74	Khalid	Eleven	USRC11903868	65	pop,pop r&b	0.112	0.701	0.0209	0.119	129.004	0.115	0.396
+0nbXyq5TXYPCO7pr3N8S4I	Roddy Ricch	The Box	USAT21906978	81	melodic rap,rap,trap	0.104	0.896	0.0	0.0559	116.971	0.642	0.586
+7kP9UmZiA6YN2S3w5XObGN	Eminem,Juice WRLD	Godzilla (feat. Juice WRLD)	USUM72000808	57	detroit hip hop,hip hop,rap	0.159	0.806	0.0	0.355	166.052	0.784	0.747
+0GQ5bFTVFFKpwNPc7KwQnB	"Eminem,Royce Da 5'9"",White Gold"	"You Gon’ Learn (feat. Royce Da 5'9"" & White Gold)"	USUM72000784	66	detroit hip hop,hip hop,rap	0.0614	0.68	0.0	0.151	140.033	0.243	0.82
+5vRE2lyh7sE5Mn1dMF2Mps	Migos	Commando	USAE81600739	42	atl hip hop,hip hop,pop rap,rap,trap	0.167	0.958	0.0	0.163	114.99	0.439	0.864
+6Xa2q0dapj03CsRzmD0Os5	Migos	Fight Night	QMCE31400019	67	atl hip hop,hip hop,pop rap,rap,trap	0.182	0.874	0.0	0.207	89.961	0.895	0.706
+5yY9lUy8nbvjM1Uyo1Uqoc	Future,Drake	Life Is Good (feat. Drake)	USSM11914962	78	atl hip hop,rap,southern hip hop,trap	0.0706	0.676	0.0	0.481	142.037	0.508	0.609
+395WRTyNwMGx80cDXqg6vM	Lil Tjay,Jay Critch	Ruthless (feat. Jay Critch)	USSM11901158	65	brooklyn drill,melodic rap,nyc rap	0.0489	0.521	0.0	0.134	129.754	0.356	0.592
+4Hqh0dS4x07zuRw6eBTO7p	Lil Tjay	20/20	USSM11914726	64	brooklyn drill,melodic rap,nyc rap	0.557	0.886	0.0	0.239	100.044	0.536	0.336
+46s77n3x4XZqUhZfIOCax9	916frosty	enough	QZBRF1894467	55	emo rap,melodic rap,sad rap	0.643	0.587	0.0	0.0978	145.724	0.305	0.539
+1KVczjazCcCCgM3gXXUl47	benny blanco,Juice WRLD,Brendon Urie	Roses (with Juice WRLD feat. Brendon Urie)	USUM71820961	70	electropop,pop,pop rap	0.168	0.612	0.0	0.164	147.018	0.525	0.601
+3FU6urUVsgXa6RBuV2PdRk	Diplo,Morgan Wallen	Heartless (feat. Morgan Wallen)	USSM11905215	76	edm,electro house,house,moombahton,ninja,pop,pop dance,tropical house	0.275	0.765	0.0	0.0512	111.033	0.274	0.556
+4nJC0WeDFiN7kF0NKGpYOk	Dax	My Heart Hurts	USZHR1800932	47	canadian hip hop,ottawa rap,pop rap	0.147	0.768	3.44e-06	0.0463	140.009	0.32	0.551
+5r7WvQtyPfy1xch5zMgGRp	Drake	Behind Barz - Bonus	USWB11902213	61	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.769	0.854	1.84e-06	0.172	142.069	0.272	0.554
+127QTOFJsJQp5LbJbu3A1y	Drake	Toosie Slide	USUG12001281	74	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.321	0.834	6.15e-06	0.201	81.618	0.837	0.454
+6MF4tRr5lU8qok8IKaFOBE	Dreamville,J. Cole,Lute,DaBaby	Under The Sun (with J. Cole & Lute feat. DaBaby)	USUM71912963	75	hip hop,rap,underground hip hop	0.511	0.691	0.0	0.369	138.672	0.163	0.64
+7fsNNSLGG8Wi0nFbufCU6L	6LACK,Lil Baby	Know My Rights (feat. Lil Baby)	USUM72011219	63	alternative r&b,atl hip hop,hip hop,melodic rap,r&b,rap,trap	0.249	0.789	0.0257	0.157	117.988	0.542	0.419
+5MLreTrtwv7fGyyAy0RyeB	Ro Ransom,Y2K	See Me Fall - Y2K Remix	QM42K1602291	73	nyc rap	0.301	0.625	0.0	0.0976	109.976	0.131	0.829
+4GSXbQS7fv6QKGi3ijoeJs	Campfire	Our World	TCAEA1986984	49	bossbeat	0.0957	0.653	1.27e-06	0.134	67.48	0.638	0.826
+2MbdDtCv5LUVjYy9RuGTgC	Jack Harlow,Tory Lanez,DaBaby,Lil Wayne	WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix	USAT22003620	77	deep underground hip hop,kentucky hip hop,rap	0.0631	0.904	0.0	0.26	145.013	0.835	0.723
+6mtjo5kIHKlboGE84lf1FJ	Migos,YoungBoy Never Broke Again	Need It	USUG12000098	69	atl hip hop,hip hop,pop rap,rap,trap	0.0313	0.852	0.0	0.171	148.007	0.897	0.745
+0PvFJmanyNQMseIFrU708S	Pop Smoke,Lil Baby,DaBaby	For The Night (feat. Lil Baby & DaBaby)	USUM72013355	81	brooklyn drill	0.114	0.823	0.0	0.2	125.971	0.347	0.586
+02kDW379Yfd5PzW5A6vuGt	Internet Money,Gunna,Don Toliver,NAV	Lemonade	QZJ842000368	77	rap,trap	0.256	0.799	0.0	0.079	140.04	0.471	0.66
+7LRmDx4pMTQuOBBwRT1MCT	Young T & Bugsey,Headie One	Don't Rush (feat. Headie One)	GBARL1901201	57	afroswing,nottingham hip hop,uk hip hop	0.185	0.963	0.00616	0.323	108.043	0.337	0.449
+1H7KnK26kc1YyellpbINEn	Pop Smoke,50 Cent,Roddy Ricch	The Woo (feat. 50 Cent & Roddy Ricch)	USUM72013367	76	brooklyn drill	0.0221	0.49	3.77e-06	0.104	99.7	0.286	0.618
+7ytR5pFWmSjzHJIeQkgog4	DaBaby,Roddy Ricch	ROCKSTAR (feat. Roddy Ricch)	USUM72007941	81	north carolina hip hop,rap,trap	0.247	0.746	0.0	0.164	89.977	0.497	0.69
+27BBfeJZBFlZ60Sgx7iOgL	The Kid LAROI	TELL ME WHY	USSM12004190	49	australian hip hop	0.109	0.6	0.0	0.158	149.881	0.463	0.723
+79s5XnCN4TJKTVMSmOx8Ep	Pop Smoke	Dior	USUM71914275	82	brooklyn drill	0.212	0.548	0.000389	0.351	142.094	0.648	0.805
+2iUXsYOEPhVqEBwsqP70rE	5 Seconds of Summer	Youngblood	GBUM71800366	82	boy band,dance pop,pop,post-teen pop	0.0169	0.596	0.0	0.463	120.274	0.152	0.854
+4jPy3l0RUwlUI9T5XHBW2m	24kGoldn,iann dior	Mood (feat. iann dior)	USQX92003025	85	cali rap,pop rap	0.174	0.701	0.0	0.0361	91.007	0.732	0.716
+0fhoeNTlGRZgNlwfVLauFs	A$AP Rocky,Joey Bada$$	Too Many Gods	USSM11902659	49	east coast hip hop,hip hop,rap,trap	0.334	0.557	1.35e-05	0.0442	121.214	0.1	0.618
+5lje0ODDPqwx5x9TLYwUfv	Vin Jay	Overdose	CAENV1903574	50	nyc rap	0.346	0.783	0.00015	0.0866	138.081	0.607	0.816
+43mwjiAXLMqkOv4vtlNweU	Joyner Lucas	Revenge	QM4TW2057334	55	boston hip hop,hip hop,pop rap,rap	0.306	0.844	0.0	0.382	158.047	0.476	0.574
+5YSHygGN9D0mID1NsVd5my	Juice WRLD,The Kid LAROI	Reminds Me Of You	USLD91730127	72	chicago rap,melodic rap	0.0663	0.613	0.0	0.12	149.992	0.33	0.631
+1AZkaqWjrlH9TjF2HQE4ZS	Dax,Trippie Redd	i don't want another sorry	USA2P2044699	58	canadian hip hop,ottawa rap,pop rap	0.0498	0.644	0.0	0.0488	85.013	0.257	0.614
+6x8V3kUNlhVbwRbVP0QeSS	PRETTYMUCH,Lil Tjay	Lying (feat. Lil Tjay)	GBHMU1900039	59	boy band,dance pop,pop,post-teen pop	0.00367	0.594	0.0	0.0625	142.023	0.328	0.75
+66MIGyHdex7vfP6RAwpMNL	Ryan Oakes	NUMB	QZHN31960762	64	pop rap,sad rap	0.556	0.609	0.0	0.0577	107.696	0.231	0.475
+4duJO4EyXNxj8hsEhjOfeC	brakence	Veldt	TCAEA1961082	40	emo rap,glitchcore,hyperpop,sad rap	0.295	0.609	0.0	0.594	173.191	0.552	0.734
+2FNqsRvizeD3fbdIgN75jL	Drawn To The Sky,Braden Barrie	Demons	usl4r1812233	42	emo rap,sad rap	0.162	0.715	0.0	0.0808	147.953	0.466	0.764
+4TIqzdAssasqx3DAe6cG9J	Joyner Lucas,Lil Baby	Ramen & OJ	QZES92173120	77	boston hip hop,hip hop,pop rap,rap	0.492	0.597	0.0	0.293	106.196	0.165	0.571
+3wrP2GVxWH8VpHPOsKhYgz	Chris Brown	Zero	USRC11502231	55	dance pop,pop,pop rap,r&b,rap	0.0517	0.731	0.0	0.0638	120.993	0.812	0.818
+0cZ70m4LPKCyukf68hEJuw	AK	Now I'm Forever	US3DF1827761	59	pop rap	0.106	0.533	0.0	0.365	156.897	0.586	0.666
+23HFBcUookTzAsNERV7c8O	Jonny Craig	Block out the Noise	QM6N21966413	41	progressive post-hardcore,screamo	0.284	0.546	0.0	0.0602	128.014	0.313	0.686
+3FQwBgaxDrfEnKjfyyF2B0	Chris Brown	Fine By Me	USRC11503018	48	dance pop,pop,pop rap,r&b,rap	0.14	0.714	0.0	0.049	119.999	0.665	0.701
+5bl2pNsPhMT37RkDUa57Ab	You Me At Six	Our House (The Mess We Made)	GBKPL2087103	49	modern alternative rock,modern rock,pop punk,rock	0.00791	0.633	0.00292	0.0445	133.017	0.394	0.766
+04aX86p6jN6vV8c7ClFTgk	Manafest	Firestarter (Doug Weier Remix)	TCADP1869816	50	christian alternative rock,christian hip hop,christian music,christian rock,rap rock	0.017	0.656	0.000314	0.0372	117.934	0.308	0.84
+7k802XMtsF57i4WS2M2MGg	Chris Brown	Grass Ain't Greener	USRC11601025	62	dance pop,pop,pop rap,r&b,rap	0.39	0.651	0.0	0.0497	133.954	0.512	0.601
+0ah0s08IdRiaxC4wHmN2MD	Migos	Avalanche	USUG12101634	50	atl hip hop,hip hop,pop rap,rap,trap	0.0985	0.917	0.0	0.135	126.063	0.687	0.623
+4UAdIHc0paTuEJkZWgPiIq	Falling In Reverse	Straight to Hell	USEP41705008	46	metalcore,modern rock,rap metal,rock	0.0009	0.293	1.59e-06	0.274	172.139	0.208	0.971
+1hkm127hnTSa2xjGNw8IAE	Beartooth	Disease	USP6L1800289	59	metalcore	0.00202	0.525	3.25e-06	0.0689	97.445	0.456	0.957
+06WBfKWdLqFrRjVcAuYWtB	Survive Said The Prophet	Let it die	JPP301600347	40	j-poprock,japanese alternative rock	0.00802	0.42	0.0	0.107	158.005	0.349	0.925
+4xUfn4ZGawJmOkaPBhLnE6	Survive Said The Prophet	T R A N S l a t e d	JPU901802760	36	j-poprock,japanese alternative rock	0.00203	0.404	0.0	0.18	137.132	0.218	0.982
+6ba8Cvg3mKhCCdeNiyjJUu	Survive Said The Prophet	Heroine	JPU901903334	34	j-poprock,japanese alternative rock	0.00231	0.575	7.11e-05	0.313	95.007	0.42	0.964
+6Aslruh5oCnzDKWTALrHOZ	coldrain	Gone	USHR21586002	50	j-rock,japanese post-hardcore,metalcore	0.00647	0.472	0.0	0.0615	90.025	0.425	0.956
+2EYz8cN9KZqqZllYPJWcaP	Survive Said The Prophet	Bandaid	JPP301600344	29	j-poprock,japanese alternative rock	0.00434	0.37	3.71e-06	0.484	200.07	0.0862	0.994
+6nRKSZSCl3uvfev0B8VxaS	Survive Said The Prophet	MIRROR	JPR751500125	15	j-poprock,japanese alternative rock	0.0223	0.484	0.0	0.0663	149.942	0.369	0.796
+38ildLaMxMtYCSDe9b8wgG	Bilmuri,Jonathan Young	Thnks fr the Mmrs	QZDA62084618	40	pop punk,progressive post-hardcore	0.0202	0.486	0.0	0.0422	155.032	0.612	0.919
+5IcpFfoUZLU3G7b8BtppFi	Hi-Rez,Fame on Fire	Used to - Remix	QZHNA1906352	48	indie pop rap,maga rap	0.00652	0.617	0.0	0.13	170.003	0.66	0.943
+3wk02L0X82rmvGkkR5TzsG	coldrain	ENVY	JPWP01771600	43	j-rock,japanese post-hardcore,metalcore	4.7e-05	0.267	0.03	0.288	114.08	0.365	0.973
+726xS7juIfYJzGN1rVSPb1	The Dead Rabbitts	Echo	QZHN72088909	33	metalcore,post-screamo,screamo,trancecore	0.000199	0.246	0.0	0.296	85.504	0.158	0.985
+3IvUhEVbbA81QnEVhsFHiH	Red	The War We Made	QMF921950308	49	alternative metal,christian alternative rock,christian rock,nu metal,post-grunge,rap rock	0.000792	0.459	0.0	0.0492	100.107	0.408	0.859
+3BcEpBfEx2mOyCSJWIHSvu	Hyper	Spoiler - Original Mix	CA5KR1042797	58	big beat,cyberpunk,dark clubbing	0.000969	0.424	0.841	0.0577	179.893	0.223	0.797
+0d3xUaqvY9KeHuzmCW56rl	Designer Disguise	Undercurrent	uscgj2003763	36	american metalcore	0.00465	0.384	0.0	0.501	155.151	0.294	0.885
+77T1SfhdyrBzksofS2gAOh	The Compromise	If It Means a Lot to You	QZHN81998185	40	gymcore,post-screamo	0.000613	0.5	0.0	0.039	135.002	0.511	0.805
+4sB0hXFEmjZJR09ilZWsQw	Against The Current	that won't save us	USAT22006353	44	neon pop punk,pixie,pop punk	4.52e-05	0.472	1.75e-05	0.0431	155.059	0.37	0.843
+6Mypx3qoLj5dk7nFi2ukSe	Saving Vice	Another Life	QZK6Q2004823	37	american metalcore,melodic metalcore,metalcore,post-screamo	0.196	0.512	0.0	0.0258	81.012	0.589	0.641
+11KRQIJ67Dix4u5tVpJ2mS	Villain of the Story	Someday	QZFZ71969504	43	american metalcore,gymcore,metalcore,post-screamo	0.000326	0.367	0.0	0.051	81.5	0.337	0.927
+4TfqLvCSEcm3L5klNGrDDs	Hollow City	Love Like Heroin	QM4TX1988335	43	american metalcore	6.75e-05	0.404	1.13e-06	0.0902	173.893	0.424	0.917
+0qwRX2WTjfaJMAJjfnpGQo	TrineATX	Please Don't Go	TCADU1857073	36	gymcore,post-screamo	9.39e-05	0.412	7.28e-06	0.0705	129.956	0.267	0.861
+4UcQIDO02n82sbrQJShGfY	Bridge to Grace	Vertigo	TCADI1757000	41	gymcore,post-screamo	0.00119	0.521	6.7e-06	0.0336	86.986	0.555	0.851
+1bKRtH1leT7y003VikaXUc	Nine Lashes	Anthem Of The Lonely	USTN11100068	61	christian alternative rock,christian rock,gymcore	0.000364	0.348	0.0	0.0951	196.213	0.652	0.972
+5uEODiAkVxh9SXnnbRlEe7	Project Vela	Never Let Her Go	ushm81742338	38	future rock,gymcore,post-screamo	5.97e-05	0.337	0.00239	0.0425	183.95	0.31	0.885
+7dENhnDxTHnzGtpMrsJ72w	I Prevail	Paranoid	US5261923084	60	nu-metalcore	0.000641	0.558	2.93e-05	0.0374	75.999	0.457	0.793
+0oLICk7wA4GsaGEk1lprgD	Silverstein,Aaron Gillespie	Infinite	AUI441900244	55	canadian post-hardcore,canadian rock,metalcore,pop punk,post-hardcore,screamo	0.000121	0.441	2.72e-06	0.0714	162.0	0.366	0.868
+1saCzowTZeWnT2N1dEAWIM	Crown The Empire	what i am	QMRSZ1801849	52	metalcore,post-post-hardcore,post-screamo,screamo,trancecore	0.000152	0.49	0.0533	0.0449	75.972	0.326	0.81
+0hAIs32U2SmJcXymlcyF8h	Asking Alexandria	Alone In A Room	USYFZ1791001	63	alternative metal,metalcore,screamo,trancecore,uk metalcore	0.00251	0.482	0.0	0.0852	135.071	0.284	0.946
+60ns0VdKqXDHiQ9wAgE73e	Bad Omens	Never Know	USYFZ2028401	54	metalcore	0.00134	0.381	2.97e-05	0.511	151.769	0.129	0.921
+3WATWS2Ywo5HeHtG0bE2iZ	Bring Me The Horizon	Teardrops	GBARL2001273	65	melodic metalcore,metalcore,rock,uk metalcore	0.000323	0.497	0.0	0.108	96.051	0.401	0.916
+6wXFPlgXTT3k757WSzS6CE	Adelitas Way	What It Takes	QMF921950055	56	alternative metal,christian rock,nu metal,post-grunge,rap rock	0.00135	0.517	0.0	0.0776	174.144	0.612	0.88
+5lrqstcg3Xk9D1lLGqSsal	Wage War	Me Against Myself	US5261923196	55	melodic metalcore,metalcore	0.000179	0.487	0.0	0.152	90.079	0.694	0.958
+6gXtispBIKKHUdsaJPxqZ3	The Weeknd,Tyler, The Creator	Here We Go… Again (feat. Tyler, the Creator)	USUG12106690	48	canadian contemporary r&b,canadian pop,pop	0.345	0.469	0.0	0.0302	134.943	0.198	0.623
+2CkePUjPttkIn4xRGeknSF	The Weeknd	Out of Time	USUG12106689	52	canadian contemporary r&b,canadian pop,pop	0.255	0.65	0.0	0.0446	93.057	0.838	0.76
+0p9nE0i4DqB0h7M4ZPFwjC	The Weeknd	A Tale By Quincy	USUG12106687	47	canadian contemporary r&b,canadian pop,pop	0.679	0.447	2.98e-05	0.127	67.289	0.572	0.513
+1HFYN0ApWWNBjqo5AOQ8lp	The Weeknd	Sacrifice	USUG12106685	51	canadian contemporary r&b,canadian pop,pop	0.0296	0.735	3.18e-05	0.113	122.0	0.905	0.795
+1xqN4QSroUjxiHhDBXDsU3	The Weeknd	Take My Breath	USUG12106684	51	canadian contemporary r&b,canadian pop,pop	0.0128	0.698	0.00166	0.0368	121.02	0.354	0.769
+2VrsofHA7OtJGrvmCpsews	The Weeknd	How Do I Make You Love Me?	USUG12106683	51	canadian contemporary r&b,canadian pop,pop	0.0203	0.805	2.37e-05	0.0737	121.006	0.636	0.498
+06CXvz1j4XLxVkcldLToIG	The Weeknd	Gasoline	USUG12106682	51	canadian contemporary r&b,canadian pop,pop	0.000582	0.728	0.00206	0.0473	123.006	0.31	0.741
+3YdWowRd7xUYTwtAjMcYd4	The Weeknd	Dawn FM	USUG12106681	50	canadian contemporary r&b,canadian pop,pop	0.674	0.28	5.85e-05	0.037	111.65	0.0807	0.478
+2LBqCSwhJGcFQeTHMVGwy3	The Weeknd	Die For You	USUG11600995	79	canadian contemporary r&b,canadian pop,pop	0.111	0.586	0.0	0.0615	133.629	0.508	0.525
+0VO8gYVDSwM1Qdd2GsMoYK	Swedish House Mafia,The Weeknd	Moth To A Flame (with The Weeknd)	USUG12105524	83	edm,pop,pop dance,progressive electro house	0.0027	0.553	0.0	0.0391	120.146	0.105	0.659
+2vXKRlJBXyOcvZYTdNeckS	Gesaffelstein,The Weeknd	Lost in the Fire (feat. The Weeknd)	USQX91803314	84	dark clubbing,destroy techno	0.0933	0.658	0.000927	0.0363	100.966	0.166	0.671
+7fBv7CLKzipRk6EC6TWHOB	The Weeknd	The Hills	USUG11500737	85	canadian contemporary r&b,canadian pop,pop	0.0671	0.585	0.0	0.0515	113.003	0.137	0.564
+1oFAF1hdPOickyHgbuRjyX	The Weeknd,Ariana Grande	Save Your Tears (Remix) (with Ariana Grande) - Bonus Track	USUG12101839	80	canadian contemporary r&b,canadian pop,pop	0.0215	0.65	2.44e-05	0.0325	118.091	0.593	0.825
+7MXVkk9YMctZqd1Srtv4MB	The Weeknd,Daft Punk	Starboy	USUG11600976	86	canadian contemporary r&b,canadian pop,pop	0.141	0.679	6.35e-06	0.276	186.003	0.486	0.587
+1nltpRhEiXikwDlVn4UADk	Post Malone,The Weeknd	One Right Now (with The Weeknd)	USUM72120404	78	dfw rap,melodic rap,rap	0.0363	0.682	0.0	0.0477	97.023	0.701	0.764
+5QO79kh1waicV47BqGRL3g	The Weeknd	Save Your Tears	USUG12000658	88	canadian contemporary r&b,canadian pop,pop	0.0212	0.68	1.24e-05	0.0309	118.051	0.644	0.826
+0VjIjW4GlUZAMYd2vXMi3b	The Weeknd	Blinding Lights	USUG11904206	90	canadian contemporary r&b,canadian pop,pop	0.00146	0.514	9.54e-05	0.0598	171.005	0.334	0.73
+5FVd6KXrgO9B3JPmC8OPst	Arctic Monkeys	Do I Wanna Know?	GBCEL1300362	85	garage rock,permanent wave,rock,sheffield indie	0.186	0.548	0.000263	0.0323	85.03	0.405	0.532
+5wANPM4fQCJwkGd4rN57mH	Olivia Rodrigo	drivers license	USUG12004749	89	pop	0.768	0.561	1.42e-05	0.0578	143.875	0.137	0.431
+086myS9r57YsLbJpU0TgK9	Arctic Monkeys	Why'd You Only Call Me When You're High?	GBCEL1300370	85	garage rock,permanent wave,rock,sheffield indie	0.0483	0.691	1.13e-05	0.0368	92.004	0.8	0.631
+5L3VoLOjwPv7hPknnmYaeT	Finding Hope	Love	USQY51775820	57	chill r&b,pop	0.835	0.66	0.162	0.0377	82.974	0.0699	0.177
+0heE5tAAaDQmnGhVDImPl2	MIIA	Dynasty	US43C1500932	62	norwegian pop	0.256	0.493	0.0	0.0378	123.751	0.304	0.594
+2gFa7CPolfvvcv6EE7lpM8	Maggie Lindemann	Loner	QZMLX2000012	53	alt z,dark pop,pop,post-teen pop	0.322	0.69	0.00024	0.0519	159.905	0.229	0.706
+3EPXxR3ImUwfayaurPi3cm	Dean Lewis	Be Alright	AUUM71800255	80	australian pop,pop	0.697	0.553	0.0	0.0362	126.684	0.443	0.586
+4wMfUdAxgiJno6flL6VW5r	Maggie Lindemann	Things	TCACL1634017	38	alt z,dark pop,pop,post-teen pop	0.305	0.491	0.00136	0.111	188.023	0.126	0.332
+0elXIl26ZrovBULLTrEGK6	Jaymes Young	Habits of My Heart	USAT21403990	61	modern rock,pop	0.665	0.392	0.000118	0.117	72.048	0.59	0.498
+45bE4HXI0AwGZXfZtMp8JR	Tate McRae	you broke me first	USRC12000832	84	pop	0.785	0.667	0.0	0.05	124.148	0.0823	0.373
+1yUdkvkB1J4eRHEfA1DQ35	Maggie Lindemann	Different	QZMLX2000002	51	alt z,dark pop,pop,post-teen pop	0.0841	0.528	0.0	0.0522	144.796	0.428	0.805
+5E30LdtzQTGqRvNd7l6kG5	The Neighbourhood	Daddy Issues	USSM11506747	86	modern alternative rock,modern rock,pop,shimmer pop	0.0678	0.588	0.149	0.0329	85.012	0.337	0.521
+6tDDoYIxWvMLTdKpjFkc1B	Kali Uchis	telepatía	GBUM72005748	83	colombian pop,dance pop,pop	0.112	0.653	0.0	0.0502	83.97	0.553	0.524
+4nyF5lmSziBAt7ESAUjpbx	Gracie Abrams	I miss you, I’m sorry	USUG11903591	72	alt z,indie pop,pop	0.731	0.445	1.47e-06	0.0575	109.885	0.151	0.455
+7IOxauZfx5l18mYfX0GZm6	Bebe Rexha	Knees	USWB11800741	62	dance pop,electropop,pop,post-teen pop	0.0781	0.777	1.02e-06	0.0357	109.019	0.381	0.577
+1daDRI9ahBonbWD8YcxOIB	Miley Cyrus	Angels Like You	USRC12003754	79	dance pop,pop,post-teen pop	0.0981	0.672	0.0	0.0313	121.981	0.494	0.642
+6XRK0ArTHdWY7xLIPFi0G7	Ruelle	War Of Hearts - Acoustic Version	TCADC1742375	61	electropop,indie poptimism,metropopolis,pop	0.962	0.419	1.12e-06	0.0358	139.065	0.368	0.126
+1HuIahUPUXCx7Kz4rgMXFU	Hey Violet	O.D.D.	USUG11700486	61	alt z,electropop,indie poptimism,pixie,pop,post-teen pop,social media pop	0.00935	0.553	1.04e-06	0.0464	154.094	0.369	0.611
+2nMeu6UenVvwUktBCpLMK9	Lana Del Rey	Young And Beautiful	GBUM71301823	79	art pop,pop	0.262	0.324	3.69e-05	0.0368	113.986	0.151	0.416
+7uGtN1U8xuycWLEBHlwNDz	Ella Boh,Max Styler	Sleep Alone (feat. Ella Boh)	USDM31801501	46		0.274	0.551	0.0	0.309	173.804	0.337	0.525
+3SKzTIl9mW0DadTys9SFo3	Halsey	Control	USUM71507636	71	dance pop,electropop,etherpop,indie poptimism,pop	0.399	0.549	0.0	0.0332	119.898	0.206	0.675
+6X3FZtz4cKU2MKSQlGG9ZG	Clairo	Bags	US4HB1900080	52	bedroom pop,indie pop,pop	0.172	0.742	0.38	0.0315	104.996	0.868	0.546
+07VBqWH6NG8L2ad3l84UKk	The Neighbourhood	R.I.P. 2 My Youth	USSM11506390	68	modern alternative rock,modern rock,pop,shimmer pop	0.00216	0.353	0.0	0.0534	94.47	0.177	0.686
+2QjOHCTQ1Jl3zawyYOpxh6	The Neighbourhood	Sweater Weather	USSM11300080	90	modern alternative rock,modern rock,pop,shimmer pop	0.0495	0.612	0.0177	0.0336	124.053	0.398	0.807
+6rz0dTA0PdhXImFV5EjM0w	Juice WRLD,Seezyn	Hide (feat. Seezyn)	USUG11802778	76	chicago rap,melodic rap	0.0622	0.715	0.0	0.0752	149.996	0.151	0.639
+4W9XGjEUVG9junR70FOLii	Offset	Lick	USUG11802624	58	atl hip hop,hip hop,pop rap,rap,southern hip hop,trap	0.172	0.959	0.0	0.0958	103.0	0.657	0.539
+3DamFFqW32WihKkTVlwTYQ	Owl City	Fireflies	USUM70972068	79	indietronica,modern rock,pop,pop rock	0.0275	0.512	0.0	0.0439	180.114	0.472	0.662
+6XH0KeCZ0nRysAeSJYRFFg	Joyner Lucas	Devil's Work	QM6MZ1963733	48	boston hip hop,hip hop,pop rap,rap	0.197	0.587	0.0	0.372	96.016	0.222	0.665
+6QdMIWjW9swyKM1ix2bD2K	Co Cash,Lil Yachty	tOlD mE (feat. Lil Yachty)	USUM71904554	40	memphis hip hop	0.0199	0.967	0.0	0.316	118.035	0.627	0.689
+43eFpXbwWuBcXFkCmvaK76	Yella Beezy,Quavo,Gucci Mane	Bacc At It Again	USUYG1242145	50	dfw rap,gangster rap,houston rap,pop rap,rap,southern hip hop,trap	0.00126	0.95	1.23e-06	0.168	135.985	0.86	0.624
+6PRh0ilIMEP1xlUHqalnkD	Yo Gotti,Lil Baby	Put a Date On It (feat. Lil Baby)	USSM11809279	56	dirty south rap,gangster rap,hip hop,memphis hip hop,pop rap,rap,southern hip hop,tennessee hip hop,trap	0.0123	0.835	0.0	0.31	129.93	0.579	0.659
+0Zl4G9qcdXV5hVhdOirNHG	Tyga,A Boogie Wit da Hoodie	Goddamn (feat. A Boogie wit da Hoodie)	USUYG1249674	56	dance pop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.0667	0.951	0.0	0.227	105.052	0.42	0.573
+3LmuxO8mh3wwIfRUqHJFFy	50 Cent,Sonny Digital	I'm The Man	USV6R1600001	66	east coast hip hop,gangster rap,hip hop,pop rap,queens hip hop,rap	0.335	0.79	0.0	0.195	98.064	0.273	0.45
+0t3ZvGKlmYmVsDzBJAXK8C	Post Malone,Young Thug	Goodbyes (feat. Young Thug)	USUM71912330	79	dfw rap,melodic rap,rap	0.456	0.548	0.0	0.081	150.068	0.163	0.653
+1zZEly0sLmyDm75c1pAqYf	Tyga	Lightskin Lil Wayne	USUYG1256974	57	dance pop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.311	0.916	0.0	0.475	99.983	0.464	0.518
+1DhRbox3xkceP64k3JeYfW	Ed Sheeran,Travis Scott	Antisocial (with Travis Scott)	GBAHS1900966	64	pop,uk pop	0.132	0.716	0.0	0.0495	151.957	0.91	0.823
+1AI7UPw3fgwAFkvAlZWhE0	Ed Sheeran,Stormzy	Take Me Back to London (feat. Stormzy)	GBAHS1900716	67	pop,uk pop	0.219	0.885	0.0	0.216	138.058	0.605	0.762
+37AGgp9VP8TVJBfEat74Bj	Machine Gun Kelly,Trippie Redd	Candy (feat. Trippie Redd)	USUM71909846	71	ohio hip hop	0.00829	0.744	0.0	0.049	98.019	0.48	0.638
+4evmHXcjt3bTUHD1cvny97	Ed Sheeran,Khalid	Beautiful People (feat. Khalid)	GBAHS1900885	76	pop,uk pop	0.124	0.64	0.0	0.187	92.977	0.548	0.648
+21jGcNKet2qwijlDFuPiPb	Post Malone	Circles	USUM71915699	86	dfw rap,melodic rap,rap	0.192	0.695	0.00244	0.0395	120.042	0.553	0.762
+2C6WXnmZ66tHhHlnvwePiK	Post Malone,Halsey,Future	Die For Me (feat. Future & Halsey)	USUM71918728	71	dfw rap,melodic rap,rap	0.19	0.614	0.0	0.0441	145.01	0.452	0.66
+7sWRlDoTDX8geTR8zzr2vt	Post Malone	Hollywood's Bleeding	USUM71915730	75	dfw rap,melodic rap,rap	0.331	0.405	0.0	0.0476	130.218	0.17	0.646
+2qRN7PWiHRLprw4FpDeI9N	Ed Sheeran,Paulo Londra,Dave	Nothing On You (feat. Paulo Londra & Dave)	GBAHS1900723	60	pop,uk pop	0.333	0.747	0.0	0.218	88.011	0.84	0.649
+067wCxZbttXV0ZRmp92lhD	SlattStarr	Drown Off This Wave	QZFZ41981867	13		0.00535	0.795	1.23e-05	0.0428	129.51	0.45	0.374
+5LteMwtmnx3IOCihvyO4v0	While She Sleeps	SLEEPS SOCIETY	GBUM72005067	47	melodic metalcore,metalcore,uk metalcore	0.00031	0.219	1.63e-05	0.23	85.044	0.319	0.947
+4fUovW11pjSPFTHVdFCJ8u	Black Veil Brides	Scarlet Cross	USYFZ2043501	52	alternative metal,metalcore,modern rock,rock,screamo	0.00018	0.44	0.00239	0.187	126.041	0.421	0.95
+2lLsjgDoS0Hg5pNNHymXGG	Bring Me The Horizon	why you gotta kick me when i'm down?	GBARL1801500	54	melodic metalcore,metalcore,rock,uk metalcore	0.175	0.607	1.33e-05	0.136	131.862	0.518	0.841
+6lFUdRItQEsEuD7dSINL47	Bring Me The Horizon	Follow You	GBARL1500772	67	melodic metalcore,metalcore,rock,uk metalcore	0.0765	0.54	0.0	0.0381	90.012	0.506	0.661
+0WSa1sucoNRcEeULlZVQXj	Bring Me The Horizon	Can You Feel My Heart	GBARL1202415	80	melodic metalcore,metalcore,rock,uk metalcore	0.00201	0.15	0.194	0.0595	170.527	0.354	0.859
+36xBFaVGjqm7le8CTHytUj	Bring Me The Horizon	Parasite Eve	GBARL2000489	64	melodic metalcore,metalcore,rock,uk metalcore	0.0289	0.589	4.35e-06	0.15	102.489	0.232	0.797
+439sdo18d2vVo7crU9KWp1	Crown The Empire	MZRY	QMRSZ1802709	45	metalcore,post-post-hardcore,post-screamo,screamo,trancecore	0.000778	0.412	1.77e-05	0.0635	171.096	0.342	0.892
+4JsDHMv5PVO8N07DbDq33r	A Day To Remember	All I Want	USVIC1060302	67	metalcore,pop punk,screamo	2.58e-05	0.349	0.0	0.141	160.042	0.207	0.981
+2hVKFfp7Rmr2XPK31jFCrX	A Day To Remember	Mindreader	USAT21904702	52	metalcore,pop punk,screamo	0.000385	0.458	0.0	0.115	164.073	0.518	0.949
+4MNnfcIuCrmCymkLSXtXCl	Fire From The Gods	Right Now	USDPK1900046	59	conscious hip hop	0.00112	0.494	4.43e-06	0.233	89.468	0.433	0.916
+5LV0oQV98daZAUoWnQEW6N	Escape the Fate	Broken Heart	USDPK1700211	62	alternative metal,metalcore,pixie,pop punk,screamo	0.0108	0.528	0.0	0.0518	95.02	0.591	0.861
+2NDH7pMWv3UQHOCN4tnXbI	Dayseeker	Sleeptalk	GBUM71903161	60	metalcore,post-screamo	0.0563	0.49	0.0	0.118	130.042	0.24	0.946
+48NOZRemjwadg6Dwc343hJ	From Ashes to New	My Name	USDPK1800006	53	post-screamo	0.0634	0.666	2.98e-06	0.11	92.519	0.655	0.909
+7EEaV81pUNKvqsTrEHGoQH	Palisades	Erase The Pain	QMRSZ1801981	53	metalcore,post-screamo,trancecore	5.45e-05	0.466	0.0	0.0976	138.075	0.481	0.864
+1BcJiJebQIQBRxFSv0CcZf	NateWantsToBattle	One Reason	USE830962916	41	antiviral pop,fnaf,otacore	0.000203	0.534	1.01e-05	0.101	109.035	0.367	0.977
+34lLAsdH4Y5TLf1B2SIj1I	Bad Wolves	Killing Me Slowly	USDPK1900058	62	alternative metal,metal	0.000725	0.345	2.98e-06	0.0774	137.973	0.276	0.89
+78fUyqhfdpL5aaD12QSGCi	I Prevail,Joyner Lucas	DOA [Feat. Joyner Lucas]	US5262023652	54	nu-metalcore	0.00173	0.372	0.00018	0.0411	175.134	0.08	0.479
+14uAFiZ94iMTeEpXq1cLCi	Crown The Empire	BLURRY (out of place)	QMRSZ1802707	55	metalcore,post-post-hardcore,post-screamo,screamo,trancecore	0.00225	0.357	0.0	0.0993	194.002	0.464	0.829
+23wrmyJ1S2sjeh2dFN5P9k	STARSET	TRIALS	US5261923243	58	future rock,modern rock	0.000358	0.478	1.52e-05	0.0537	105.799	0.248	0.667
+0COqiPhxzoWICwFCS4eZcp	Evanescence	Bring Me To Life	USWU30200093	80	alternative metal	0.00721	0.331	2.06e-06	0.0698	94.612	0.296	0.943
+3px2rAPu74ltbkf9eZsZ8h	Panic! At The Disco	Emperor's New Clothes	USAT21503476	70	modern rock	0.00302	0.562	0.0	0.0807	94.481	0.651	0.904
+7zAt4tdL44D3VuzsvM0N8n	Avenged Sevenfold	Afterlife	USWB10703995	69	alternative metal,nu metal	0.000429	0.487	2.91e-05	0.0798	110.02	0.406	0.949
+25GC50HslaaruyrKjdu0lP	Bullet For My Valentine	Your Betrayal	USJI11000030	68	alternative metal,melodic metalcore,metalcore,nu metal,rap rock,uk metalcore,welsh metal	8.07e-05	0.569	7.74e-05	0.0748	134.001	0.373	0.883
+0M3adYbGtyRHACP86dey1H	Bring Me The Horizon	Throne	GBARL1500770	73	melodic metalcore,metalcore,rock,uk metalcore	0.000455	0.426	0.0	0.0987	144.111	0.387	0.888
+11Ojp7JniVvwd0gmgvyKkd	Five Finger Death Punch	Wrong Side of Heaven	US5Z51300299	65	alternative metal,groove metal,nu metal	0.00721	0.481	0.0	0.083	149.992	0.543	0.932
+4cDHZygn3hStTmnngmNsWo	Smash Into Pieces	Let Me Be Your Superhero	SEVWR1600402	52		0.00456	0.571	2.05e-05	0.0336	127.96	0.571	0.834
+1rqqCSm0Qe4I9rUvWncaom	Panic! At The Disco	High Hopes	USAT21801174	82	modern rock	0.193	0.579	0.0	0.0618	82.014	0.681	0.904
+5pKCDm2fw4k6D6C5Rk646C	Bullet For My Valentine	Tears Don't Fall	GBHQD0500017	65	alternative metal,melodic metalcore,metalcore,nu metal,rap rock,uk metalcore,welsh metal	0.000705	0.214	3.09e-06	0.143	162.115	0.233	0.931
+2jGnX8siLIPgKwzqnRpSTD	Our Last Night	The Beaten Path	GBDMT1900208	31	metalcore,modern rock,screamo	0.000595	0.327	0.00154	0.123	199.984	0.481	0.952
+5J1tThACf3JLPc3cC1neEH	Sleeping With Sirens	Leave It All Behind	USYFZ1918301	54	metalcore,modern rock,pop emo,pop punk,rock,screamo	0.00402	0.555	0.000345	0.121	97.495	0.308	0.925
+04aAxqtGp5pv12UXAg4pkq	Fall Out Boy	Centuries	USUM71412644	81	emo,modern rock,rock	0.00359	0.393	0.0	0.0729	176.042	0.56	0.858
+4vVzmaBsxXuKrJeMSLRF4y	The Amity Affliction	Drag the Lake	NLA321800130	58	australian metalcore,melodic metalcore,metalcore,screamo	0.026	0.498	4.98e-06	0.0456	133.973	0.343	0.904
+7oib44NmCMvGNWnDDJjv5C	The Word Alive	NO WAY OUT	US5261923445	53	melodic metalcore,metalcore,post-screamo,screamo,trancecore	0.00304	0.386	6.56e-06	0.306	156.991	0.518	0.92
+1mB7dCUM7sPyNab6R43nlj	Falling In Reverse	The Drug In Me Is You	USEP41118003	71	metalcore,modern rock,rap metal,rock	0.0149	0.548	0.0	0.151	145.133	0.644	0.855
+6SeFPYWv9lIlSWanyEDYf5	Falling In Reverse	Losing My Life	USEP41811003	58	metalcore,modern rock,rap metal,rock	0.027	0.446	0.0	0.228	160.031	0.274	0.927
+0fr7Nl49mFbf6nXXca6YwO	We Came As Romans	Learning to Survive	DED831701323	63	christian rock,melodic metalcore,metalcore,post-screamo,screamo,trancecore	0.0181	0.588	0.000462	0.0511	140.041	0.495	0.829
+1qPlNM2FaEWCMSxpVR5XeH	Falling In Reverse	Losing My Mind	USEP41811001	56	metalcore,modern rock,rap metal,rock	0.00916	0.544	0.0	0.0515	148.0	0.41	0.894
+4GssB27iJeqmfGxS94Tfij	Falling In Reverse	Popular Monster	USEP41915005	75	metalcore,modern rock,rap metal,rock	0.00821	0.461	0.0	0.092	165.107	0.358	0.897
+3GSMJpuz3rFU8WtCws1rv5	Falling In Reverse	Carry On	USEP42007002	60	metalcore,modern rock,rap metal,rock	0.00359	0.399	0.0	0.0532	149.081	0.298	0.87
+67LzLwT4XiHjqMFzdKpgKV	Ice Nine Kills	The Fastest Way To A Girl's Heart Is Through Her Ribcage	US5261318704	50	metalcore,screamo	7.93e-05	0.408	0.0	0.294	170.09	0.393	0.98
+19tyg2Ons2b39L4QVPLq4I	Ice Nine Kills	Communion Of The Cursed	US5261522002	51	metalcore,screamo	0.0016	0.401	0.0001	0.162	150.149	0.143	0.992
+20WSWrWhZgiEMvVWu5XuFl	Ice Nine Kills,Sam Kubrick	Enjoy Your Slay	US5261722629	46	metalcore,screamo	0.0115	0.165	0.0	0.121	149.615	0.284	0.949
+3iPk0KJ6ykVw3yNDoGj9Uo	Hollywood Undead,Papa Roach,Ice Nine Kills	Heart Of A Champion (feat. Papa Roach & Ice Nine Kills)	QMRSZ2000323	46	alternative metal,modern rock,nu metal,rap metal,rap rock,rock	0.0019	0.475	0.0	0.0848	170.097	0.763	0.931
+6LNKeK9iJ66iwe16VxG43H	Motionless In White	Disguise	NLA321900078	60	alternative metal,metalcore	0.000147	0.497	0.0	0.0952	104.932	0.482	0.932
+0SnvI0twJ1Mnh0rJlBRrf0	Motionless In White	Voices	NLA321700013	65	alternative metal,metalcore	4.54e-05	0.499	6.11e-06	0.0605	90.029	0.569	0.937
+5GTHHga6jQFm8sdMaMDXmV	Ice Nine Kills	Tess-Timony	US5261522009	42	metalcore,screamo	0.501	0.5	0.0	0.0309	140.0	0.262	0.485
+2QGZyxYnGjjAyKtwNKSfsJ	Ice Nine Kills	Evidence On Fire	US-TCG-10-03778	27	metalcore,screamo	0.00527	0.333	1.88e-06	0.158	195.999	0.43	0.944
+06BRkkaJsqM9i6VZKDvUlK	Architects	Black Lungs	USEP42058002	58	mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore	0.000139	0.462	7.02e-05	0.0952	90.496	0.46	0.932
+5ofoB8PFmocBXFBEWVb6Vz	Architects	Animals	USEP42058010	66	mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore	0.000123	0.532	0.02	0.0319	95.01	0.293	0.759
+6ntMHzIt8b4C52FdBYJ893	Drist	Honey Ryder	QZHN32204648	31		0.00176	0.643	0.000283	0.0258	127.98	0.0598	0.78
+76pR2Xb4rDq3oD3ZvKz3oG	Yohan Gerber,Paul Keen,Johnny Chicago	Yesterday	QZS632117771	42		0.0521	0.768	2.23e-05	0.0391	126.031	0.176	0.671
+5RPKrtaU5HtsFyvH3hTj3B	Alban Chela,Marin Hoxha	Thousand Years	QM42K2284074	42	traprun	0.0265	0.682	1.45e-05	0.116	126.178	0.346	0.764
+67Uq5J1QfWl2Hre2yqeHol	NIIKO X SWAE	Way That I Move	NLF712200090	39		0.121	0.634	0.0768	0.0283	123.983	0.439	0.664
+3Wtluw4xCPf91zWIrAmIZg	MUPHUS	Come To Garden	QZKDK2204494	26		0.0487	0.804	0.0115	0.182	125.996	0.299	0.604
+5w8x1cqDkdqEvIRl49rIGp	Faruk Orman,5lowers	Need Me To Be	GBKQU2237763	21		0.571	0.837	0.000359	0.0416	124.023	0.665	0.737
+56C9jXL1jWa4kjDZjdVdBH	Joseph,Efe Kopru	Lady (Hear Me Tonight)	GBKQU2219157	45	turkish edm	0.104	0.748	0.0	0.151	124.083	0.346	0.75
+7jMsTQYe0CVYJANXR8Tiax	Ericovich	abcdefu	GX3HH2238748	47	traprun	0.064	0.77	0.000106	0.049	129.851	0.238	0.702
+2cHNuUn3PmO8wYi7nGgUl8	Yohan Gerber,Bersage,Britt	Him & I	QZS642115916	39		0.393	0.773	0.00237	0.18	125.076	0.402	0.757
+6F2OtBaBfRKVWeLICpcLFd	Dave Crusher,Yago	Break Your Heart	QZS652198318	41		0.0147	0.654	0.0	0.0733	124.934	0.156	0.817
+6ZeiO0pmzgl6smY5EEAp1d	Ease Mike	Down The Road	QZKDK2290247	32		0.0645	0.401	0.0703	0.0365	123.706	0.147	0.698
+7tpfNQ1nlqO2nw45ogJ4Jv	JMBB,Jessy Covets	Smooth Operator	QZP7F2204658	40	slap house	0.0197	0.737	0.0	0.085	124.989	0.24	0.685
+3RONbujR4i7OqDluhIRx0r	HAWK.,BELLA X,EVIE	Sweetest Nightmare	NLT2H2100664	48	brazilian edm	0.0212	0.74	0.0378	0.0534	126.0	0.383	0.749
+3KIQc8M0NbmlOUVk2elZK2	Seber	Black Magic	ROROT2200490	37		0.0103	0.784	0.0	0.0583	124.03	0.323	0.742
+1DjexDviRuL26XrQcuQRYu	ESSED	For My Own	QZS652179546	13		0.0569	0.594	0.0	0.194	123.019	0.557	0.769
+0CCo9uopUQTV6Uca0Ho8Pz	Badscandal	Rockin	QM42K2298822	39		0.0147	0.639	0.0	0.0631	127.946	0.23	0.673
+3FkgomY3LpJALtfaZrm9wo	Albi	Made It	GBWUL2181808	23		0.0492	0.536	0.0299	0.053	125.026	0.234	0.849
+7Fs1rrxqeFqD2YSVyuUHcX	Karma Town	Oh No - Omniks Remix	QZHN42225305	7		0.013	0.608	2.18e-05	0.038	124.989	0.417	0.876
+5oPaFVrZVYpKViuanIVMdX	TaylorX,Max Ryan,T-Millzy	Playing With My Heart	NLYK92100138	40	deep groove house	0.0264	0.758	0.0	0.127	123.91	0.534	0.858
+08W1s0IiAgiIH4S4TqwaYf	Stlk	Me And You	QZHN42219448	34		0.0629	0.642	0.00185	0.0613	117.932	0.457	0.835
+4WlNFFkMadnQAelDR4fZto	Tomline,Brolence,Alia Faye	See Right Through You	GX3HH2291602	23	traprun	0.559	0.561	0.0	0.0425	147.135	0.284	0.524
+5Gw1ZUC41I8E9QkA3RMYxB	Last Value	Fallin In Love	ATEK02299013	32		0.0242	0.756	0.00163	0.0328	123.989	0.332	0.87
+5tQxc5DwMMlrOTvlsIeW81	Toby Callum,Trafoier	Look At Her Now	GBKQU2204645	29		0.0904	0.47	0.0527	0.114	156.5	0.383	0.867
+068WWbpQ4POkCyX8PaWgIG	RENOLD	Roll The Dice	QZQAY2270230	33		0.025	0.512	0.463	0.17	113.101	0.285	0.989
+71j2oUlPvGOei9Dn8mizRZ	DigitalTek,Evie Waters	Poker - VIP Mix	QZS652291051	18		0.00193	0.372	0.000265	0.0592	123.762	0.0673	0.908
+1949JibiTgvrN9m74Z4GAx	Faruk Orman,5lowers	Alone	GBKQU2234420	19		0.402	0.776	0.00435	0.0541	125.943	0.547	0.725
+4gnNIfYhOApG99AQp2VRih	Ivan Russo,Amelia Profaci	Far Away	QZKDK2208160	33		0.0389	0.376	0.0329	0.0398	75.163	0.212	0.669
+1XCXB6qcEvfr6jMzOqreF1	Whoopa	I Need Your Love	QZKDK2222073	42		0.0569	0.719	1.95e-06	0.38	126.012	0.372	0.947
+1Qkh1nTmuupvuQONuVmiff	2Hounds,SAND	Lonely	NLT2H2100572	47		0.17	0.721	5.86e-06	0.251	109.99	0.408	0.844
+3ts3jaZTxVyPzNY4NcfpJn	Willy Van Florence	Low	QZMHM2277244	17		0.302	0.682	0.00526	0.0744	121.978	0.143	0.911
+1UvRkuogW043214al7e40l	TIM PLVNK	SHAWTY	DEUM72200315	32		0.0696	0.697	4.28e-06	0.0428	124.983	0.484	0.722
+6VefcxckiCmYQKDNVSJFXJ	Nulteex	In My Blood	QZKDK2223842	20		0.000426	0.678	0.00017	0.0381	126.007	0.548	0.858
+7gbeZ3wphgj1gt9QfxhF4I	RushLow,2Hounds	Listen To Me	GBSMU8206136	28	slap house	0.0336	0.594	0.000907	0.0874	124.882	0.16	0.855
+1oNMSui6LSOETafIDC5MkV	Wonder,Xaron,Ivy Marie	Heavy Heart	QZ5FN2292671	27		0.235	0.593	0.0	0.161	140.931	0.379	0.9
+05qShJAEIVXrgGypArpQwb	Faybro	I Can't Let Go	GBLFP2201609	24		0.000143	0.657	0.0	0.0383	123.95	0.24	0.742
+5tGnGgwIjdyirFlx5BSk3g	Andrea Crocicchia,2Hounds,Tudor	Out Of Sight	NLT2H2200086	47		0.182	0.789	0.0362	0.0692	123.959	0.43	0.686
+5QRwuxHxDsjtkpFcxENGIG	RushLow,Golden Wizards,Peanut,Sol'	Stereo Love	QZNFJ2117652	40	slap house	0.135	0.77	0.00294	0.0582	124.001	0.413	0.546
+6bMBrQsYTNIudog8j3tVcq	Steve Kroeger,LØU,Alex Fraser	Light Switch	QZMHN2279139	46	canadian electronic,slap house	0.00126	0.654	0.00057	0.0951	99.98	0.587	0.889
+6ggKWXayvPUnNOphtUnVJl	Gellero,Shira	Only One	GBKQU2203433	16		0.101	0.75	0.0	0.135	107.949	0.519	0.816
+3YC4QInhznXLqqEXLMltaT	Azault,Klara	The Business	QZS672134241	25		0.328	0.735	0.0	0.189	124.962	0.412	0.748
+2JhHyo5s38w8QN1728S1zX	Alejandro Diego,Kédo Rebelle,Ivan Jamile	What We Are - Single Edit	CH7812219468	38		0.00959	0.627	0.0	0.26	126.162	0.272	0.955
+7eLTKfgiVfQTCWVtnZImau	BROHM,KRSTF	One More Night	NLT2H2200019	62	slap house	0.289	0.768	0.000396	0.0445	110.041	0.339	0.839
+2Ur28ctyS9JFizaZ1oK82a	Dualhï	Chase My Dreams	NLYK92100108	43		0.00497	0.636	0.000159	0.0361	128.054	0.178	0.713
+7JjrwjjGEnFqOuaLrg3V2k	SP3CTRUM,Stephen Geisler	The Way	GBSMU0028655	52	melbourne bounce international	0.11	0.708	0.0135	0.0345	127.981	0.26	0.829
+3pC4lA3TXqQ48AimKdRhPU	MRLN,Robbie Hutton	Losing You	QM42K2286449	39		0.0358	0.692	0.0	0.0395	124.983	0.225	0.858
+2AZ0jGBKfIjU4vwTCnxXqN	Trafoier,Toby Callum	Don't Feel Like Crying	GBKQU2211986	23		0.406	0.661	4.49e-06	0.0598	123.956	0.335	0.835
+3wN6b2FGCzfJrbIVJxEbLM	ILVS,JAYEM'S	Wild	USA2P2206771	33		0.00277	0.614	0.000397	0.049	119.98	0.165	0.75
+5DZPqPmYrekY0fpYlnblG3	Feelz,DeVries	Will You Be My	QZPEW2244587	43		0.127	0.278	0.0	0.133	76.513	0.455	0.629
+1d3e1HpssnX4LwYhAabBfA	SwitchBlade	Reverse	QM4TX2296076	51		0.0864	0.648	0.0695	0.0731	124.009	0.181	0.76
+4bRKI6nJyt6Dwshsv7KpTU	Marin Hoxha,Vinsmoker,Sammy Plotkin	Save Your Tears	GX3HH2172636	41	gaming edm,traprun	0.0336	0.756	0.0023	0.0378	117.992	0.213	0.696
+3MD1lzIZkbKHHPHFyP0WdY	SPLIZZ,SLORAX,Xtina Louise	Whatcha Say	QM42K2262843	43		0.212	0.631	0.000117	0.172	123.711	0.356	0.681
+6nQZG4G0vIrQWaCGbqHCQn	Arc North,Badjack,Cour	Down	QZKDK2019529	56	gaming edm,slap house	0.108	0.74	0.000342	0.0324	126.021	0.666	0.692
+0azD6fcXLObum3j3YWi2uI	Janji Yusuf	Do You Spell	QM4TW2251862	35		0.0295	0.678	7.95e-06	0.0789	123.042	0.315	0.777
+2qu5m0CO1seFNjZktCDYN1	Sonny Wern,OFF TOPIC	Moth To A Flame	CA5KR0024775	46		0.0118	0.606	0.0	0.0348	123.019	0.421	0.789
+4bLwGEQsjuJA3rWWJ7kcLQ	TaylorX,Meghna	So High	NL2QC2100557	41	deep groove house	0.000654	0.662	0.000745	0.0331	125.977	0.551	0.882
+1xI9lbUfePfrqhwKvo3K5p	Marin Hoxha,Vinsmoker,Rachel Leycroft	In The End	GX5MX2179894	35	gaming edm,traprun	0.763	0.558	0.0589	0.0751	98.054	0.0438	0.679
+3X6qTauYZ3AdxGDApPtrCk	Lonelysoul.,KÄMÏ	Miracle	GX4R52198832	52		0.0268	0.622	0.0	0.0771	128.116	0.382	0.686
+4ccQ6JHrj2Mxs4jtn0OLGj	Alban Chela,Harley Bird	Afterglow	QZS672163238	38	traprun	0.088	0.627	0.000789	0.0299	123.999	0.32	0.79
+6aEDPagr3SQ9wPXZudF6oz	Coffeeshop,Thatsimo,Stella Key	Hypnotized	QZS652127148	38		0.0235	0.688	0.0629	0.0605	126.092	0.32	0.893
+0rfv6rtBzpEjyqnPg463VJ	Gate 21,Michael Roman	I Wanna Live	ITPCI2200018	37		0.00955	0.732	0.0	0.132	126.062	0.365	0.933
+3o3qVcSFSf46PaaAm9qIww	VETA,GNDR,Conor Robertson	Like Us	GX3HH2290993	27		0.00884	0.539	1.12e-06	0.072	142.884	0.323	0.9
+4yoe37MAwBAKrr58OpKc3q	R3YAN,Moosa Saleem,F3DEN	Saviour	GX38U2238994	45		0.00723	0.602	0.00013	0.0525	124.051	0.283	0.711
+3FnJtby8oCKqXDAGTIBVlZ	Kremor	Suffocated	GBWUL2197640	23		0.0166	0.765	6.55e-06	0.052	125.106	0.0558	0.658
+3mwsaRe1Wl0xkdgcNk1PZb	G+UNENBERG	Insomnia	QM4TX2229846	41		0.273	0.712	0.0	0.0443	124.011	0.698	0.735
+41lU6a6CgojnadDweGO6Ff	Golden Wizards,LONOV,Sambu Music	Crazy 'Bout You	QZNFJ2119353	20		0.00278	0.604	0.0	0.285	127.722	0.296	0.782
+67uVPwSmWhHCxj2Wi4kO18	DigitalTek,Resurgenze	Nothing On Us	QZS662105598	32		0.202	0.539	2.18e-05	0.0446	149.967	0.248	0.849
+2ejgUOqQWfJ2TWL0PeDB6H	SP3CTRUM,DayNight,ITALEE,Scarlett Skies	The Hills	GBSMU8665025	56	melbourne bounce international	0.00415	0.529	0.0	0.127	128.038	0.187	0.889
+2JXPg6qRCB3r8Md3zwQsze	Adro,Vince Johnson,Ericsson,Skye Light	The Way You Move	GBSMU9932877	27	traprun	0.123	0.353	0.0	0.0383	154.764	0.327	0.615
+47CO1G8Ip6G5U4f7hgtCGu	PARKAH,DURZO,Markay	Whenever, Wherever	GBKQU2249591	17		0.0552	0.762	0.00105	0.163	123.999	0.36	0.725
+05LDT9sUOWkheCFyFNO5kN	Roveda,Nick McWilliams	Better Off	GX4R52181214	48		0.0396	0.782	0.0	0.0331	125.99	0.27	0.681
+2EYV5821vsDahVA7Clk34b	Theodor Rosenberg,Kløn,goodpoison	What A Life	GX5MX2147064	38		0.0435	0.693	0.0	0.048	126.048	0.307	0.767
+3cNhRsNSV3DcPcWQFGT10K	EGO SKY,i.m.karanpreet,Lerex	You Got Me	QM42K2242093	40		0.27	0.705	0.00124	0.0336	126.002	0.485	0.65
+3fsgYMsBksDJ7oTAqzsPF3	Whoopa	Stay	GX5MX2134621	43		0.0157	0.606	2.29e-06	0.0409	130.013	0.543	0.816
+60bwReLK2LmMOuOyM2l9Lc	2Crimes,Thomas Anthony,Melville	My Friend	GBKQU2221150	16		0.0347	0.653	0.000127	0.0659	124.076	0.389	0.859
+5qGUTHJ4UgNYHoIVOruX4d	Vinsmoker,Mike Watson	I Don't Wanna Know	GBSMU9568428	46		0.0739	0.702	0.00134	0.15	126.052	0.207	0.757
+6hwyUmM826sqnoWRohRqme	WESH,Terry	Hymn For The Weekend	GX38U2258089	46		0.009	0.809	0.00493	0.0911	126.056	0.298	0.872
+7LShTv6vHn8KT4xsiupVwi	Krmoni,Milo Cadman,theajsound	Beggin	GBSMU0001626	57	brazilian edm	0.00138	0.739	0.000627	0.0344	125.969	0.3	0.796
+5CIzRHTcHIbS3tDyATGHhr	Brøder	Boulevard Of Broken Dreams	QZMHN2024136	54		0.214	0.696	0.0	0.0465	118.002	0.335	0.744
+0HB9svIa50igaoJkb6hySr	Ericovich,L.Kaison	Don't Worry	GBSMU8129791	37	traprun	0.0216	0.589	0.000306	0.0394	82.509	0.274	0.682
+5ZNz3g22vTeyPxkBNlmdr8	blueberry,Blind Rose	Love You	QZS672117201	38		0.102	0.697	0.02	0.0418	119.947	0.354	0.834
+1D1x7nypV6CjEZ8kswlyCx	R3YAN,Puzzls	Sweet Dreams	GX4R52195665	58		0.00554	0.691	1.57e-06	0.0501	124.989	0.222	0.677
+1OXAX94K7ist1Ov5QjrJQm	Whoopa	Bad Habits	GX5MY2181900	36		0.0211	0.593	0.000373	0.094	128.101	0.156	0.884
+4pvQuMznanQIoAVshVwxLc	UMAII,Faithroze	Stereo Love	GX4R52194503	40		0.026	0.583	0.00303	0.0436	121.909	0.242	0.662
+7LinNqycV2mVnn0zJNv4rR	Roamy	Remember	GX38U2259034	36		0.00856	0.809	0.00752	0.0486	124.0	0.458	0.748
+3KFhOg2pjYHc0mOaFqsmCW	Adro,24Bit,Gaming Playlist	Start A Fire	GX38U2224549	35	traprun	0.302	0.42	0.0	0.25	169.951	0.438	0.633
+4Fw7kc4aygnWrac6VlYTMW	Dubsound,Nomad Groove,BoySam	Overthinkers	QZ5FN2271986	32		0.0401	0.594	0.0	0.045	119.98	0.36	0.715
+5eedhhzLBx0Hup7yEBxHH4	Derik Fein	The Greatest	NL4NL2219902	50		0.034	0.443	1.04e-05	0.299	199.631	0.808	0.775
+7i2Fpd1JWPoMfuY24wJd9I	Derik Fein	Alive	NL4NL2219897	49		0.0106	0.654	0.0	0.053	117.101	0.523	0.559
+4UyhL9BL4pZEptKdkv8NPR	Derik Fein	Vertigo	GBKPL1812218	43		0.26	0.685	8.45e-06	0.0273	152.021	0.547	0.474
+7mzG5rxRNv9g4vcJFilsmu	Derik Fein	Chanel Perfume	NLS6R1822557	44		0.596	0.782	0.0	0.0407	111.598	0.401	0.289
+6S4TXETAd1yX3ln9zcvqHD	Derik Fein	Rockstar	NL4NL2219896	54		0.133	0.652	0.000205	0.0414	102.987	0.318	0.461
+2oh95xEoCILOc3928cBrIg	Derik Fein	Shadow	NL4NL2160365	50		0.0642	0.634	6.26e-06	0.0379	179.963	0.599	0.415
+3CYwPRtC9FRdAi6jbyaf0c	Derik Fein	I Won't Give Up	NL4NL2219899	34		0.0982	0.679	0.0	0.0335	128.079	0.186	0.615
+34MWcFztBH1V2hwzkmuvA6	Derik Fein	Don't Matter	NL4NL2160364	58		0.406	0.706	0.0	0.0502	98.892	0.567	0.544
+3H2XRBhgSShmlFL7xYTIkC	MASN,Trippie Redd	Psycho! (Remix) (feat. Trippie Redd)	USRC12000926	59	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.384	0.907	0.0	0.065	115.023	0.565	0.409
+2LNMhZ3YijTO7USmqjgJfG	Denzel Curry	CLOUT COBAIN | CLOUT CO13A1N	USC4R1802455	66	dark trap,drill,hip hop,miami hip hop,rap,underground hip hop	0.591	0.794	0.0	0.0539	120.055	0.588	0.448
+6Hgh47WXVKtXN5zGOu0hjI	Khalid,6LACK,Ty Dolla $ign	OTW	USRC11801716	73	pop,pop r&b	0.183	0.652	3.26e-05	0.0541	72.989	0.28	0.678
+4at3d5QWnlibMVN75ECDrp	6LACK,J. Cole	Pretty Little Fears (feat. J. Cole)	USUM71812666	74	alternative r&b,atl hip hop,hip hop,melodic rap,r&b,rap,trap	0.696	0.61	0.000103	0.36	192.099	0.246	0.458
+7xQAfvXzm3AkraOtGPWIZg	Post Malone	Wow.	USUM71822626	80	dfw rap,melodic rap,rap	0.136	0.829	1.78e-06	0.208	99.96	0.388	0.539
+7lAK3oHbfEnvUQWosrMMpR	Travis Scott	YOSEMITE	USSM11806669	74	hip hop,rap,slap house	0.283	0.785	3.4e-06	0.0409	128.047	0.144	0.554
+20MuVazoNMv6xjKPnRFOxG	Travis Scott	WAKE UP	USSM11806665	69	hip hop,rap,slap house	0.192	0.741	0.0	0.0963	149.07	0.488	0.645
+0dbTQYW3Ad1FTzIA9t90E8	Lil Wayne,Kendrick Lamar	Mona Lisa (feat. Kendrick Lamar)	USUG11802109	68	hip hop,new orleans rap,pop rap,rap,trap	0.371	0.856	0.0	0.169	122.08	0.489	0.694
+78QR3Wp35dqAhFEc2qAGjE	Lil Baby,Gunna	Drip Too Hard (Lil Baby & Gunna)	USUG11801811	82	atl hip hop,atl trap,rap,trap	0.0852	0.897	0.0	0.292	112.511	0.389	0.662
+2JvzF1RMd7lE3KmFlsyZD8	J. Cole	MIDDLE CHILD	QMJMT1902056	81	conscious hip hop,hip hop,north carolina hip hop,rap	0.149	0.837	0.0	0.276	123.984	0.463	0.364
+0CIGZEXjZ8L52lOrqUljJt	6LACK	Let Her Go	USUM71812662	56	alternative r&b,atl hip hop,hip hop,melodic rap,r&b,rap,trap	0.539	0.759	0.000228	0.096	156.02	0.444	0.634
+5kfNriitmkNE8mUbZ7gbq8	Khalid	Saturday Nights	USRC11803517	71	pop,pop r&b	0.606	0.551	3.02e-05	0.0985	167.923	0.341	0.44
+5rYpwP1dHWGVMrSZbTmt3e	Lil Peep	Life is Beautiful	USQX91802370	72	emo rap,lgbtq+ hip hop	0.0385	0.533	0.000932	0.0636	135.056	0.324	0.638
+05u5qeM36BBjaF9lsOyar2	Joyner Lucas,Chris Brown	Just Let Go	TCAEB1960294	49	boston hip hop,hip hop,pop rap,rap	0.373	0.645	0.0	0.376	139.867	0.5	0.698
+3Ol2xnObFdKV9pmRD2t9x8	A Boogie Wit da Hoodie	Look Back at It	USAT21812667	74	melodic rap,rap,trap	0.407	0.791	0.0	0.0413	96.057	0.536	0.587
+3EikYy40GMSp8l5mDV6IQo	Ski Mask The Slump God	Foot Fungus	USUM71820928	70	miami hip hop,rap	0.257	0.881	1.5e-06	0.119	88.953	0.745	0.623
+1fewSx2d5KIZ04wsooEBOz	Metro Boomin,Gunna	Space Cadet (feat. Gunna)	USUG11802484	81	hip hop,rap,southern hip hop,trap	0.368	0.901	1.71e-05	0.0645	109.004	0.638	0.464
+4TWflhgevIGo448fWc6mQq	Offset	Red Room	USUG11802301	60	atl hip hop,hip hop,pop rap,rap,southern hip hop,trap	0.479	0.936	0.0	0.157	112.347	0.527	0.559
+0AluA5RNsa4Cx6XRhf2hWZ	Metro Boomin,21 Savage	10 Freaky Girls (with 21 Savage)	USUG11802481	78	hip hop,rap,southern hip hop,trap	0.588	0.81	0.0	0.31	88.031	0.0727	0.353
+32iPykTXUNZ9oGyACGUybq	Offset,J. Cole	How Did I Get Here (feat. J. Cole)	USUG11802313	55	atl hip hop,hip hop,pop rap,rap,southern hip hop,trap	0.507	0.883	1.6e-06	0.233	129.993	0.114	0.544
+2NlsAcYlLgkDhnhA9Sx6HA	Offset,Quavo	On Fleek (feat. Quavo)	USUG11802627	44	atl hip hop,hip hop,pop rap,rap,southern hip hop,trap	0.243	0.872	2.22e-06	0.205	130.985	0.255	0.472
+1taKClbaJhl9FXdtM4hNBe	Offset	After Dark	USUG11802622	43	atl hip hop,hip hop,pop rap,rap,southern hip hop,trap	0.25	0.8	1.4e-06	0.228	100.003	0.189	0.696
+5wujBwqG7INdStqGd4tRMX	Juice WRLD	Armed And Dangerous	USUG11802039	78	chicago rap,melodic rap	0.186	0.736	0.0	0.311	130.032	0.845	0.67
+6iaSML1PIYq936g62BDtBq	Juice WRLD	Robbery	USUG11900302	81	chicago rap,melodic rap	0.328	0.623	0.0	0.0504	79.899	0.566	0.692
+015jLlgBeSkl3CApWJhlv7	WESTSIDE BOOGIE,Eminem	Rainy Days (feat. Eminem)	USUM71818939	60	rap,underground hip hop	0.0146	0.866	0.0	0.256	106.949	0.171	0.51
+1ThmUihH9dF8EV08ku5AXN	Ski Mask The Slump God	Faucet Failure	USUM71820924	75	miami hip hop,rap	0.111	0.935	0.0	0.335	99.993	0.615	0.552
+0SQ8yalm13UIJuebuZkQlH	Offset,Gunna	Wild Wild West (feat. Gunna)	USUG11802619	51	atl hip hop,hip hop,pop rap,rap,southern hip hop,trap	0.0841	0.902	0.0	0.199	114.007	0.497	0.621
+3L19besdNQzd342qL78xqm	A Boogie Wit da Hoodie,Juice WRLD	Demons and Angels (feat. Juice WRLD)	USAT21812920	70	melodic rap,rap,trap	0.0114	0.81	5.69e-06	0.17	76.503	0.183	0.55
+1DUSuNhF8P5vUGNPpQiZa5	Khalid	My Bad	USRC11900407	58	pop,pop r&b	0.543	0.645	0.266	0.0823	84.999	0.391	0.568
+4ZT9FnbFu1PaBfV3itxiqT	Lil Skies	I	USAT21901411	71	melodic rap,rap,trap	0.627	0.649	0.0	0.085	99.183	0.431	0.453
+2MFFrpPKrGnyJuVjcfdm4w	Juice WRLD	Hear Me Calling	USUG11900313	70	chicago rap,melodic rap	0.308	0.699	3.63e-05	0.106	88.933	0.499	0.687
+3j84U36KvLeXNDPv4t5pI8	Mustard,Migos	Pure Water (with Migos)	USUM71823137	76	cali rap,gangster rap,hip hop,pop rap,rap,southern hip hop,trap	0.174	0.682	0.0	0.127	202.015	0.137	0.559
+5WQrDB34o6M8V0jxNiX6RU	Juice WRLD	Fast	USUG11900385	72	chicago rap,melodic rap	0.426	0.623	0.0	0.0435	84.982	0.263	0.607
+3T06rGO2dVEntMvym0vpQu	Juice WRLD	Empty	USUG11900318	76	chicago rap,melodic rap	0.0758	0.746	0.0	0.0526	77.535	0.463	0.561
+2xwwY0EN7dtnXzMU8xRDxX	Juice WRLD	Who Shot Cupid?	USUG11900390	68	chicago rap,melodic rap	0.0558	0.757	0.0	0.0372	125.99	0.591	0.932
+07Grx6opd6FcevHB0MG3r8	Juice WRLD	Rider	USUG11900399	64	chicago rap,melodic rap	0.216	0.584	0.0	0.0365	140.028	0.451	0.815
+7eBqSVxrzQZtK2mmgRG6lC	YNW Melly	Murder On My Mind	QMCE31801827	79	melodic rap,trap	0.145	0.759	3.06e-06	0.0516	115.007	0.74	0.73
+0hsl5A7PsMB5i4alm7ozIu	Dax	My Last Words	CA5KR1918265	61	canadian hip hop,ottawa rap,pop rap	0.487	0.73	0.0	0.311	150.2	0.513	0.789
+4AtZRwSR8BOTTQg5ihSggt	6LACK	PRBLMS	USUYG1102245	71	alternative r&b,atl hip hop,hip hop,melodic rap,r&b,rap,trap	0.0307	0.417	1.45e-06	0.207	68.58	0.139	0.58
+2oYFWwpjE8eXPAr4wt8pK6	No Resolve	Shivers	QZMER2186320	50	gymcore,heavy alternative	0.000109	0.55	0.0	0.0705	141.098	0.783	0.969
+2PAwhchKPd8F5FDYXQmZgL	Seon,Kado	Float	QZDA42174922	55	emo rap,lo-fi chill,sad lo-fi,sad rap	0.189	0.802	0.0	0.0325	111.994	0.647	0.579
+7HgmtBZim3P8sZd0yv1pDZ	Loveless	Lighthouse	QZHZ42015588	54	pop punk	0.00271	0.554	1.21e-05	0.05	110.036	0.515	0.801
+0oaY19dUwZimIgzn3ZZLZO	Justin Bieber	2 Much	USUM72102628	71	canadian pop,pop	0.593	0.583	0.0	0.0456	119.59	0.167	0.444
+5IrC1UAnYw3SyfV9ER03ON	guccihighwaters,Lund	candy	USEP42008001	43	emo rap,sad lo-fi,sad rap	0.472	0.644	0.0	0.0371	82.561	0.31	0.595
+6PQ4S4l46rTA6w6uH2BJbO	No Resolve	Set Fire to the Rain	QZFYY2167362	55	gymcore,heavy alternative	0.000344	0.525	0.0	0.0458	107.991	0.494	0.913
+4SUrtNg072NIW7fVcrTFr7	Citizen Soldier	Cannibal	TCAEH1946284	39	gymcore	0.000186	0.437	4.17e-06	0.0417	160.07	0.266	0.771
+3wpu3XOzU2pRB1LCrBi2BZ	AK	Rock Bottom	QZL382227142	50	pop rap	0.324	0.68	0.0	0.24	90.104	0.465	0.728
+0ZFY0Rq1ybYJZSccIGiOA6	No name faces	Silence - Acoustic version	NL4NL2135219	20	deep metalcore,gymcore,post-screamo	0.1	0.428	6e-06	0.028	100.041	0.186	0.491
+2VwRXGDCd0Lr2RxwPc2vm3	MASN,Topic,B-Case	Psycho! - Topic & B-Case Remix	USRC12002040	49	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.0366	0.815	0.00275	0.163	127.998	0.572	0.817
+3DaYs4ChhQbqjFP0z9KiCO	Caleb Hearn	Always Be 2.0	QZNWT2095696	66	alt z	0.886	0.481	0.0	0.0426	106.397	0.205	0.198
+7r8lp6nukhNPK9QPC79k30	Papithbk	Are You Ready?	QZFYY1910105	59	australian trap,sad lo-fi,sad rap	0.0694	0.841	0.0	0.0475	106.97	0.132	0.519
+1JmEymqQwLXvCg3sJ7gz0n	Yung Pinch	Perfect	USSM11903705	60	emo rap,melodic rap,oc rap,pop rap,sad rap,trap,underground hip hop,vapor trap	0.26	0.68	0.0	0.0974	148.942	0.274	0.542
+3Z9vR8JrHFyyjB0JoHzx6p	Landon Cube,24kGoldn	Pretty	USUM71920913	58	emo rap,sad rap,vapor trap	0.195	0.679	0.0	0.0659	76.064	0.767	0.853
+2HiQCkDr7bio5A3WAp6AAJ	Citizen Soldier	Unbreakable	TCAEL1924886	38	gymcore	0.000136	0.415	0.0	0.0682	145.946	0.526	0.956
+6qsVVFBn0CuPrEgx9u4QzK	MASN,Mishaal	Hold Me (feat. Mishaal)	USRC12002156	49	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.467	0.791	0.0	0.0752	126.071	0.519	0.372
+63yPnzpuLKgNPITWaP1eFG	Killstation	Spiralia	QZDA42123435	61	dark trap,emo rap,underground hip hop	0.0645	0.551	0.00161	0.0618	149.101	0.263	0.85
+40YMzcyGkpqFiSUNktyHCP	Skinny Atlas,Snøw,Jomie,Thomas Reid	Meant to Be	QZHN42093032	58	lo-fi chill,sad lo-fi,sad rap	0.382	0.789	0.0392	0.0406	91.508	0.603	0.659
+6wfBOBzGzygVSTRgknDQXc	The Broken View	Breaking the Habit	QZHNA2010860	41		0.000149	0.352	0.0	0.0446	153.939	0.103	0.736
+18LhA0zBzAa2YnhcN3hWGa	Tyla Yaweh	High Right Now	USSM11901124	62	cali rap,melodic rap,pop rap,rap,trap	0.0116	0.703	9.85e-05	0.0438	159.985	0.127	0.557
+5lKED3c80SLexPGQ9NS2cv	Citizen Soldier	Say Goodbye	TCAEL1924872	41	gymcore	0.0272	0.432	0.0	0.031	126.087	0.31	0.469
+1LzNu7mPfSoj5XcBxyxWqC	Livingston	Superkid	USAT22007211	51	sad rap	0.0868	0.7	0.0	0.0368	106.904	0.353	0.6
+5d7P5eapBbN3gfce5ARfuh	The Tech Thieves	Fake	QZ8GX1700268	68	alt z	0.393	0.661	0.00158	0.0362	169.978	0.554	0.432
+1mgs9v6dcaWkFYIPTQQjVq	MASN	Fire	USRC12002013	45	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.387	0.541	0.0	0.0348	83.57	0.21	0.437
+33nTX0MfigWSsGKgUcX5Ko	Gremlin	More Than You Think	uscgj2178568	38		0.32	0.724	0.0	0.312	71.676	0.488	0.5
+2P1AaURCmLTUhP7nOi1WmG	ANTH,Corey Nyell	If This Is Goodbye	TCAEZ2025217	52		0.531	0.864	0.0	0.0659	121.934	0.369	0.693
+3Gb5RBYDNbvf094UxC6Loa	Citizen Soldier	Better Place	TCAEL1924853	38	gymcore	0.00211	0.432	0.0	0.0299	134.902	0.0948	0.598
+2n7JFDCMnFIJWvoMzhfR3o	Arrested Youth,WiDE AWAKE	The Kid I Used to Know - WiDE AWAKE Remix	GBKPL2016204	50	modern alternative rock,modern rock,rock	0.0152	0.59	6.79e-06	0.0575	79.944	0.235	0.85
+6YZDrgRnydLv0SVCc0ZiCR	Ryan Oakes,MOD SUN	I'LL BE DAMNED	QZK6M2045823	58	pop rap,sad rap	0.00403	0.588	0.0	0.0472	81.034	0.303	0.874
+3TDxa77M0hOuBBo60KDGGg	MASN	Sleep Party	USRC12002682	39	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.779	0.705	0.000669	0.0945	136.044	0.277	0.432
+4JTrSqOpnmNiA1hz2bpgCW	Ely Waves	I miss u	QZHN72148615	41	lo-fi chill,sad lo-fi,sad rap	0.348	0.797	0.0	0.2	128.009	0.117	0.462
+7IRbTUZ0RZKgOBrHM7c44p	ALESTI,Robin Adams,In Deception	Somewhere I Belong	QZDA82133965	32	gymcore,post-screamo	0.000182	0.399	0.0214	0.0642	165.05	0.433	0.983
+6OtzjlO7XSlpH83RQLGaHY	Self Deception	Bury Me Alive	SE6DB1900101	47	gymcore,post-screamo,swedish alternative rock	0.000519	0.526	0.0	0.0416	109.995	0.168	0.947
+6FhB5ZyT4JsIJ0ozDlXCIp	My Darkest Days	Save Yourself	USUM71201549	63	alternative metal,christian rock,nu metal,post-grunge	0.00093	0.503	2.75e-06	0.106	121.983	0.359	0.921
+2xCkbmoETP0O0ssyfo0LdJ	Paris Shadows	Enough's Enough	QMCE31902466	52	emo rap,melodic rap,sad rap,underground hip hop	0.327	0.536	0.0	0.0758	150.032	0.309	0.604
+2u1I5zNsB0FzoVhuzCCszK	RØRY	UNCOMPLICATED	ZZOPM2118758	52		0.0757	0.493	2.05e-06	0.0623	161.876	0.355	0.924
+3vAQ2axt18adSBaaGpan8z	Nicoteen Ninyo	blind	QZMWW2075863	39	emo rap,sad lo-fi,sad rap	0.014	0.32	0.0	0.129	109.435	0.165	0.74
+6Mjd0JkryQzftr992uRYky	Citizen Soldier	The Cage	TCAFE2074366	38	gymcore	8.61e-05	0.431	0.0	0.0642	92.574	0.432	0.86
+2k5rWMAz9RvFS3k3kk3cc5	Connor Price	You Said	CAJGH1900038	68	sad rap	0.141	0.726	0.0	0.207	79.978	0.224	0.481
+0uFRAOUitLKGg8WlesWXue	Citizen Soldier	Kill My Memory	TCAEL1924856	38	gymcore	0.144	0.49	0.0	0.0667	139.86	0.256	0.922
+1vDKQnddTOwYevfB0lbIXu	Camylio	love and hate	USUG12102798	62	alt z,gen z singer-songwriter	0.618	0.387	0.0	0.0374	124.877	0.212	0.356
+2po3166NqW72LwAwh8Hbld	Papithbk	Why Am I Waiting	TCAEZ2015781	64	australian trap,sad lo-fi,sad rap	0.347	0.747	0.0	0.471	126.054	0.234	0.387
+25ndwd0OLtkQLkFBaS9RjT	Josh Golden	Violets	QZAKB2011691	56	la pop,sad rap	0.638	0.572	0.0	0.0701	95.09	0.546	0.631
+2Nup8oYRzBaqtPSU9qnkls	Connor Price,John Roa	Don't Tell Me	QZPLR2180803	52	sad rap	0.16	0.598	0.0	0.0713	113.815	0.264	0.464
+3UeEcdqbpJPq1lxawUbzho	Ely Waves	Just Hold Me	QZFYY2108301	50	lo-fi chill,sad lo-fi,sad rap	0.258	0.705	0.0	0.343	118.144	0.321	0.567
+3RoCi49XvcidDK7OqGw7fb	Bankrol Hayden,Lil Tecca	Come Through (feat. Lil Tecca)	USAT22104797	70	melodic rap	0.41	0.872	0.0	0.0389	104.07	0.72	0.623
+0KkIi7P8LcDTDBaJ0BHk3Z	Adelitas Way,New Medicine	Own It	QMF922050267	46	alternative metal,christian rock,nu metal,post-grunge,rap rock	0.0568	0.528	0.0	0.0925	172.045	0.616	0.819
+2wc8XbHYeKaZmGrA5rANbP	No Resolve	Crossed the Line	CA5KR1939148	52	gymcore,heavy alternative	0.000189	0.536	3.42e-06	0.0666	116.104	0.587	0.888
+7mcnzDgr6kXH7lHnZBLk8E	Saint Chaos	Kick	DERK42100022	52	bossbeat,modern alternative rock	0.00136	0.446	0.0	0.0495	186.85	0.755	0.755
+27T07D8kKFhrlTjtaoKoES	Citizen Soldier	Make Hate to Me	TCAFE2094336	41	gymcore	0.000341	0.392	0.0	0.116	149.859	0.318	0.919
+1GVhLEJGfOIpdSZJnUxN5O	convolk	swear to god	USUYG1306045	56	dark trap,emo rap,melodic rap,sad rap	0.152	0.644	0.00358	0.0524	162.998	0.279	0.714
+1wIE2nfv5oF3ld71AriEDP	My Darkest Days	Still Worth Fighting For	USUM71022391	54	alternative metal,christian rock,nu metal,post-grunge	0.00326	0.474	0.0	0.0435	115.969	0.372	0.873
+1QamgggxrnunphHwLspliW	Ely Waves	did u mean it when u said u loved me?	QZES72190537	35	lo-fi chill,sad lo-fi,sad rap	0.122	0.646	0.000422	0.0628	111.96	0.0628	0.384
+6oXgRfFIvzWe83K5la8oI9	MASN	Sitting In Fire	USRC12003850	57	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.0146	0.558	2.87e-05	0.0359	171.934	0.293	0.625
+7tgNuOB7pgzzWs4pMZO0QM	The Broken View	On The Mend	QZMEN2167084	33		0.000698	0.52	0.00685	0.04	127.045	0.532	0.819
+3AlVajn3U2MEuTeh4Z26vK	raspy	meadow	QZFZ31947098	54	pittsburgh rap,sad rap	0.207	0.747	6.86e-05	0.0452	94.437	0.578	0.615
+4nNBsw8SARSMRnXPRHe8sC	No Resolve	STAY	QZK6H2145612	58	gymcore,heavy alternative	0.00021	0.343	3.82e-06	0.0895	170.003	0.596	0.948
+3nx1LABlssQw0JCmHTWMn3	Brennan Savage	Belly of the Beast	QZFYZ2166947	60	dark trap,emo rap,underground hip hop	0.0654	0.628	1.57e-06	0.0444	164.028	0.197	0.602
+798UuEILhhcWL9dY8jUoRa	Zero 9:36,Ice Nine Kills	Adrenaline (feat. Ice Nine Kills)	USAT22103649	55	modern rock,rap rock	0.000584	0.415	0.0	0.0423	140.008	0.236	0.839
+2ZxpMtGf3Y0BBfG8jZXYew	MASN	Princeville Drive	UST8K1842393	37	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.448	0.803	0.0	0.165	109.994	0.0941	0.271
+0nygzznhANm4uiBwhUkE6o	POORSTACY	lost	QMEU31908358	52	emo rap,melodic rap	0.0074	0.793	5.49e-06	0.0794	127.075	0.3	0.562
+4P3mwtrNUcQT6cUtJx999n	Citizen Soldier	Never Good Enough	TCAEL1924848	44	gymcore	0.0764	0.453	0.0	0.118	143.067	0.345	0.956
+5V26Rgv8zQWmgHodVcuzpF	Future Sunsets,David Michael Frank	My Heart Will Go On	QZPLR2177333	46		0.0039	0.491	0.0	0.0381	106.071	0.185	0.831
+5bWmmqkCjZIwDJjahKKnbU	VOILÀ	Therapy	QM24S2102244	62	alt z,la pop	0.000823	0.676	0.0	0.0348	101.937	0.377	0.654
+3iVt7a5uQbMzpciSEEwcha	Project Vela	Without Me	uscgh2167096	34	future rock,gymcore,post-screamo	0.00701	0.512	0.000406	0.0723	137.969	0.329	0.849
+0pmNiFoT6MwFbL1F2EjQ5a	No name faces	It Hurts	QZNWU2108160	32	deep metalcore,gymcore,post-screamo	0.000361	0.554	1.31e-06	0.051	135.998	0.39	0.939
+05plS1JmxIeJd7izkQ0rkC	Vaboh	I’m Sick of Trying	QZB4J1848049	51	emo rap,sad lo-fi	0.518	0.432	0.0	0.156	83.054	0.438	0.482
+0IK8y0vAO0sM630HsxwLht	Bohnes	Middle Finger	USA2P1569490	70	alt z,rebel blues	0.437	0.685	0.0	0.0383	128.003	0.392	0.656
+0HM5rODbUMhPkEWCwNHt59	Call Me Karizma,Три дня дождя	Part of Me	FRX452133359	51	alt z,minnesota hip hop,modern rock,pop rap,social media pop	0.117	0.648	0.0322	0.0389	149.937	0.669	0.721
+4k49xKDF21u5RFP88jNybm	No name faces	Scars - Acoustic version	NL4NL2124971	28	deep metalcore,gymcore,post-screamo	0.00803	0.481	0.000391	0.0317	119.966	0.222	0.524
+5Gq5K6QT0gUuNGZc4LbCga	Paul Bartolome,Letdown.,Kid Bookie	Monster	USA2P2139349	35		0.00388	0.321	0.0	0.156	120.034	0.46	0.933
+3YiEJb5dDXT34R4O2W4yDN	Citizen Soldier	If These Scars Could Speak	TCAEI1909404	41	gymcore	0.000146	0.448	2.72e-05	0.0322	156.059	0.52	0.674
+2tEShX0DXzXmC5pf54K35l	Breakaway	Behind These Hazel Eyes	QZDA52058507	44	gymcore,post-screamo	0.002	0.568	0.0	0.0397	95.029	0.558	0.865
+09daYSqViNKKno469fJl7F	Self Deception	Weight Of The World	SEWLR1800305	53	gymcore,post-screamo,swedish alternative rock	0.00018	0.496	0.000274	0.0405	104.984	0.304	0.883
+0RfdI0B4Q3OKmWwoVt8Hvd	Autumn Kings,The Song House	Go For Gold	QM24S2107005	43	bossbeat,modern alternative rock,post-screamo,windsor on indie	0.0289	0.577	0.0	0.103	89.998	0.458	0.832
+7cELheBXF3jIShGuewCy44	brakence	fuckboy	USSM12003810	59	emo rap,glitchcore,hyperpop,sad rap	0.373	0.73	0.0	0.238	146.572	0.8	0.61
+27gRC5YDWhyrILjXkfAPuF	Lø Spirit	Everyone's a Secret	QZDA52292612	44		0.000462	0.559	0.00672	0.0332	109.972	0.358	0.53
+4IkaaZdwV1h4niPh6JxCD9	Citizen Soldier	Devil Inside	TCAEL1924851	45	gymcore	0.000207	0.522	0.000141	0.0448	141.986	0.348	0.855
+52oz3pE3GOJbbg4OD0JLBW	Living in Fiction	Overwhelmed	QZGWX2125410	43	post-screamo	0.00743	0.49	0.0	0.0814	173.73	0.675	0.727
+0bMOyiuk22fAKiwNoYsRYN	Bring Me The Horizon,Jeris Johnson	Can You Feel My Heart - Remix	GBARL2100234	59	melodic metalcore,metalcore,rock,uk metalcore	0.00675	0.576	0.0	0.0507	139.942	0.836	0.88
+3ci9j8MKj3HyxK189C1ZTm	Self Deception	The Blues	SE6DB1900104	43	gymcore,post-screamo,swedish alternative rock	0.00089	0.398	1.12e-06	0.0567	179.893	0.342	0.969
+3PDNGdhCtiQemL14eKhCup	nothing,nowhere.	lights (4444)	USAT22004347	53	emo rap,pop rap,sad rap	0.0419	0.718	0.000419	0.0795	89.982	0.428	0.69
+4qKVYg45Ej5NBEgyGwoJd9	Nicoteen Ninyo	bout u	QZMWW2097111	53	emo rap,sad lo-fi,sad rap	0.154	0.646	0.0	0.065	143.969	0.0899	0.445
+1UoOSlptB6yHln6IRlGvtj	Gremlin,Presence	Northern Lights	usl4r2042521	43		0.364	0.794	6.04e-06	0.112	122.054	0.193	0.402
+4kKhmIdFALmwCYrt90oWUW	MASN	Love Me For Me	USRC12201165	58	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.51	0.627	0.0	0.0457	87.6	0.467	0.648
+2nW8udHE9rOVJ5hfOThcmD	No Resolve	This Is War	CA5KR1939150	46	gymcore,heavy alternative	0.000292	0.557	0.0	0.106	103.019	0.564	0.878
+015pttd093IepgjMxRwmIW	Silent Theory	Shaking Cages	USCGJ2197270	47	gymcore,post-screamo	0.00308	0.55	4.84e-05	0.0364	75.539	0.368	0.852
+6tT5Tm7NNC178qXyarHeED	The Winners,Juice WRLD	You Don't Love Me (feat. Juice Wrld)	FR5R00910245	44		0.0139	0.505	7.23e-06	0.0842	81.492	0.375	0.575
+5ll2CGWbw81vWzDH5Sa54k	Citizen Soldier	Gunshot Lullabies	TCAEY2027975	40	gymcore	3.4e-05	0.31	4.64e-05	0.0605	173.931	0.591	0.839
+687Wd4oN6keLThKowBplfJ	MASN	Athens	QZES71861074	31	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.167	0.757	0.00053	0.0546	110.019	0.262	0.56
+4UwoJ3W40mPLcMQ3DcDw0S	Self Deception	Intoxicated Haze	SE6DB2100204	42	gymcore,post-screamo,swedish alternative rock	0.000521	0.467	0.0	0.0625	75.973	0.233	0.916
+57XG2sbYjfh48dnUO9cvgM	SadSongsOnly	House of Wolves	QMDA62124070	47		0.0011	0.559	0.0	0.0766	105.01	0.657	0.937
+4SxvXmsxsue7GnNFkpforo	Citizen Soldier	Mess of Me	TCAEX2067200	41	gymcore	0.000101	0.423	0.0	0.0734	90.053	0.317	0.818
+5opGmK7K08YA7zSmzCpG7S	Bangers Only,Luke Chappell,Vibin Central	Lonely Again	QZNJV2010132	55		0.426	0.413	0.114	0.0377	181.927	0.461	0.835
+6v5vr3SqSczkqIIVeW8RjZ	Seon	Never Be Alright	QZDA51900756	66	emo rap,lo-fi chill,sad lo-fi,sad rap	0.631	0.835	3.96e-06	0.0778	86.982	0.286	0.284
+7e0OGRhftSRlGcMW73PFId	MASN	Self Sabotage	USRC12102251	49	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.0395	0.75	3.37e-06	0.033	136.024	0.865	0.803
+0Mly5nWXZehQ1R3Ng0Iwnl	Dark Signal	Impatient	usdy42002830	40	gymcore,post-screamo	0.00308	0.497	2.12e-06	0.0534	155.066	0.797	0.966
+0RNMcmtFlW0BMFHwvxhTSf	Written by Wolves,Becks	Forever & Always	NZAM02102527	42	gymcore,modern alternative rock,post-screamo	0.00662	0.338	0.0	0.0603	143.814	0.478	0.704
+4rUawbJ9qurU9Rb3NpT4kH	LIL DUSTY G	SQUASH	CA5KR2131944	58	dark trap,emo rap,sad lo-fi,sad rap	0.0543	0.703	1.27e-05	0.0376	148.02	0.414	0.653
+7xK0LBgSUW1RBUHrzifjP3	Dro Kenji	SAVE ME	QZNWR2047329	57	sad rap	0.0647	0.798	0.0	0.0447	117.947	0.287	0.57
+7CHMY5TN1e8oqDnRwwJR61	Ryan Caraveo	Ghost	QM24S1703771	66	indie pop rap,pop rap,sad rap	0.303	0.75	0.0042	0.0673	139.983	0.33	0.637
+5r2B621ZewgNdbPRcgGG0g	Fight The Fade	Darkness in Me	TCADJ1723641	37	christian rock,gymcore,metalcore,post-screamo	0.0196	0.435	0.0069	0.0342	140.111	0.223	0.525
+4eDtZP99H6xfasP4Tku9Ee	Livingston	Fairytale	USAT22000405	63	sad rap	0.358	0.704	0.0	0.102	100.151	0.606	0.53
+5bwSx1hwmUivlUgY9UhfEB	50landing,brakence	re:birth	QZFZ41936014	50	emo rap,hyperpop,lo-fi chill,sad rap	0.514	0.719	0.0	0.301	99.926	0.35	0.429
+7snsdDTpgm9pe79g6CFXaM	The Broken View	All I Feel Is You	QZFZ31937118	37		0.00181	0.195	0.000593	0.0406	134.927	0.1	0.528
+3UkPmK7Sk0wuLXzVnQihva	Promoting Sounds,Rxseboy,SadBoyProlific	Memory	SE6HN2048517	66	aesthetic rap,emo rap,pop rap,sad lo-fi	0.0616	0.748	0.000167	0.0861	115.044	0.197	0.694
+4BFE6Eq6HGKzdyH0DEbONn	From Fall to Spring	RISE	QZHN42122176	46		0.00621	0.515	4.62e-05	0.0544	139.995	0.252	0.816
+1XlosMc3GohfbyiCnUZOCR	MASN	Val!um	QZES51950408	48	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.612	0.705	0.0	0.0413	97.977	0.246	0.472
+29zP9palgnaUg7QwbYkLVo	6host,cøzybøy	Double Vision	QZK6M2008382	44	emo rap,sad lo-fi	0.32	0.529	2.04e-06	0.0567	59.999	0.0896	0.745
+77e5XrWxNYoYzxrb7oL3jG	Gremlin	I Don't Feel Anymore	usl4q1930657	45		0.293	0.77	0.000761	0.108	150.104	0.689	0.44
+336xpOy7PR8gF0zzAXh2mQ	Oliver Francis	TOXIC PARADISE	USHR22114501	58	dark trap,emo rap,melodic rap,sad rap,underground hip hop,vapor trap	0.0388	0.562	0.0	0.144	102.521	0.518	0.761
+2dgY6v2JbcTNKH9ncVSbpe	Autumn Kings	POWER	QZMZ92090232	48	bossbeat,modern alternative rock,post-screamo,windsor on indie	0.0665	0.6	0.0	0.0478	124.572	0.434	0.737
+2Kh3cX18dUwMz9SnI0uBse	Eva Under Fire,Ice Nine Kills	Blow (feat. Spencer Charnas of Ice Nine Kills)	USDPK2100033	59	pixie,slayer	0.000568	0.593	3.81e-06	0.0608	126.005	0.672	0.966
+0dV0hHQg9iTgqBTtI6Yap9	Ryan Oakes	SAVE MYSELF	QZHN42041150	49	pop rap,sad rap	0.00758	0.662	0.0	0.11	110.19	0.324	0.93
+0PER50bHDOzlYZVEWZ3REn	Lø Spirit	Down With My Demons	QZHN52239006	43		0.0282	0.61	0.0	0.0437	128.015	0.443	0.837
+1Juo9g0Rjxo6fxOmr8N3wV	MASN	2 Times	USRC12100411	41	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.321	0.593	0.0	0.0674	159.955	0.413	0.746
+1eX7cu5TMlRlv5kDBFWaWI	Ryan Oakes	2AM	QZANL1798689	62	pop rap,sad rap	0.13	0.779	0.0	0.0499	127.073	0.327	0.453
+64FR9rHquk5whzNvDrFMyj	ALESTI,Anxxiety	STFU	NOK9L2001010	44	gymcore,post-screamo	0.000259	0.512	3.41e-06	0.0369	97.974	0.521	0.86
+06I2PKNDtP6ypDXAMqCARp	Unodavid	Perfect Pair	QZFYX1905067	57	emo rap,melodic rap,sad rap	0.193	0.728	0.0	0.143	82.962	0.34	0.439
+0m3DrWZvSJBKBdcJsTmjfy	MASN	Strawberry Huracan	USRC12102290	58	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.295	0.62	0.0	0.0384	138.98	0.566	0.709
+325NFU114hF1s6ZHjWWRTh	Citizen Soldier	Sacred	TCAES2070545	41	gymcore	0.000478	0.476	0.00014	0.116	154.962	0.365	0.915
+7ol9xyjRAVrR71vjs1CtBK	LOWBORN	Devil	QZ5FN2194847	44	modern alternative rock,north carolina emo,post-screamo	0.194	0.748	0.0	0.0562	119.943	0.614	0.632
+4X4v3KtkUXwXvDBw5KS9cp	Joyner Lucas	ADHD	QM7281935517	65	boston hip hop,hip hop,pop rap,rap	0.00525	0.563	8.16e-06	0.0782	83.913	0.317	0.78
+40LrIVD4RzONBKsyQ4B2Cu	ALESTI,Rory Rodriguez	Take the Pain Away	NOK9L1902030	47	gymcore,post-screamo	0.000188	0.323	0.0	0.0543	164.992	0.22	0.897
+6v1uHotZnnjb2PZVCrG9Nf	Bingx	Heart Strings	QMDPP1800607	45	deep underground hip hop	0.288	0.585	0.0	0.231	93.664	0.476	0.617
+52KFX9aaIwEuUX1mjlbgvp	Lil Peep	skyscrapers (love now, cry later)	UKELY2000073	62	emo rap,lgbtq+ hip hop	0.0144	0.659	0.0	0.0379	112.223	0.0364	0.423
+6YERieFhj5fbbueKHsMvYY	Citizen Soldier	Hope It Haunts You	TCAET2049818	38	gymcore	0.000528	0.374	5.8e-05	0.105	200.079	0.303	0.916
+7DkU4AK9MFzKOJmmeLE4fc	Ryan Oakes	HELLBOY	SE5VF1801714	59	pop rap,sad rap	0.0268	0.561	3.03e-06	0.279	171.907	0.285	0.766
+2ZKYwK2Icv50QU156JORyQ	Self Deception	Hell and Back	SE6DB1900106	59	gymcore,post-screamo,swedish alternative rock	0.0179	0.442	0.0	0.11	144.879	0.275	0.883
+2DfhhMCu4HbYY1QmoWNtWM	Fight The Fade	Composure	QM5LC2100448	39	christian rock,gymcore,metalcore,post-screamo	4.36e-05	0.388	0.0	0.0502	160.037	0.377	0.872
+12HdXCa4nAyFrMEtBvP680	Snøw,Skinny Atlas	S!KE	SE6HN2035673	55	sad lo-fi,sad rap	0.0592	0.732	1.64e-06	0.0399	135.002	0.384	0.615
+4lLpRVOFpWhQvLwqsdFtej	Lø Spirit	Blue	QZFYX2272290	46		0.00378	0.553	1.68e-05	0.0572	150.167	0.444	0.739
+1QVmq2LszpAhPGwj4YGS1f	No Resolve	Worth the Fight	CA5KR1939149	53	gymcore,heavy alternative	0.000662	0.469	0.0	0.059	138.056	0.557	0.896
+2x7TLQW4mZ0YHZLniSDJr4	CHRIS RAIN	CENTIPEDE	QM8DG2038985	51	emo rap,sad lo-fi,sad rap	0.141	0.676	0.0	0.0437	133.055	0.251	0.443
+6WE6PcL4e0Jfo1lpwLl2U0	Fight The Fade	Monster	QM5LC2200006	43	christian rock,gymcore,metalcore,post-screamo	0.00379	0.416	9.41e-06	0.0446	170.05	0.251	0.663
+5vgxdsVBcKddGcX1CdiUzB	Ryan Oakes	2L8	QZTAS2197792	63	pop rap,sad rap	0.00976	0.513	5.4e-06	0.0547	167.956	0.715	0.941
+0KfdUCZ19IUeMcicEPDWsp	No name faces	Scars	NL4NL2007583	41	deep metalcore,gymcore,post-screamo	0.00106	0.535	0.113	0.0388	125.058	0.36	0.66
+58NZKY8PUTNdTRYyQMDp4s	Citizen Soldier	My Little Secret	TCAFA2060030	41	gymcore	0.000151	0.407	8.39e-06	0.0589	156.943	0.473	0.773
+28ARHBO2jPH99udv7RxIK9	CRIM	DRUGS & NICOTINE	QZFZ52116457	49		0.00491	0.529	0.000263	0.032	99.987	0.174	0.577
+1gMY7zjIZsuSvwrQYIMgMa	Lø Spirit	Mind Of Mine	QZHN92253056	51		0.168	0.539	0.0	0.0598	164.199	0.251	0.679
+0IAHrQ4UcdEEGsqaQDKr5G	Ryan Oakes	UR NOT SORRY	QZK6Q1963085	54	pop rap,sad rap	0.00506	0.676	6.71e-06	0.231	159.993	0.324	0.416
+4GOXKgYILwusEk05QYlvuR	Vaboh	Secret Weekends	QZFZ32049927	43	emo rap,sad lo-fi	0.409	0.711	0.0	0.0561	100.038	0.293	0.717
+01UeBfllW39eaKdiCw556R	Gentrammel	Out Of My Mind	QZES92011614	71	sad lo-fi	0.663	0.61	0.0	0.0372	78.009	0.659	0.609
+4RREW6fC64K8sbbip3WABs	s0cliché	You and I	QZHN41963674	45	emo rap,sad lo-fi,sad rap	0.0827	0.676	0.0	0.0416	142.008	0.492	0.627
+3l9VCXMSoS1KBRhkCU5zuO	COTIS	Reasons	FRX201902714	63	canadian contemporary r&b,pop rap,trap soul	0.0138	0.755	0.0	0.035	113.022	0.467	0.738
+0F8f3H1eWDaWsfoLKGnoHv	Sorry X,cøzybøy,SAIAH	Where I Lie	QZES62075096	47	emo rap,sad rap	0.0186	0.683	0.0	0.0314	100.026	0.185	0.48
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	85	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+3mXjVkMtEqWZ2iMHYtincz	MASN	Don't Talk	USRC12102175	59	emo rap,lo-fi chill,pop rap,sad lo-fi,sad rap	0.141	0.61	0.0	0.0305	88.971	0.456	0.709
+0XVs3503u3CZ4k6xobVEHP	$NOT	FALL IN LOVE	QMCE32000033	61	aesthetic rap,florida rap,rap,underground hip hop	0.215	0.607	0.000503	0.205	145.869	0.0885	0.431
+1onmFJfN0YdkQ5Rrb3tLXN	The Kid LAROI	RUNNING	USSM12004214	55	australian hip hop	0.377	0.438	0.0	0.0908	100.834	0.313	0.585
+0yQCHkrxQDVyMc5I8D65yC	Juice WRLD	10 Feet	USUG11900396	64	chicago rap,melodic rap	0.466	0.675	0.000593	0.184	104.014	0.525	0.682
+0b11D9D0hMOYCIMN3OKreM	Witt Lowry,Ava Max	Into Your Arms (feat. Ava Max)	USAT21802013	78	pop rap	0.0134	0.504	0.0	0.215	170.039	0.228	0.788
+6I3mqTwhRpn34SLVafSH7G	Justin Bieber	Ghost	USUM72102635	90	canadian pop,pop	0.185	0.601	2.91e-05	0.0478	153.96	0.441	0.741
+1fOUbWhysA1okrHtx8ioS1	NEFFEX	Are You Ok?	ZZOPM2105168	58		0.0315	0.674	0.0	0.065	148.02	0.415	0.831
+10V96IBSJJjZPAS4fcKEmn	Drex Carter	Monday Mourning	TCADQ1821878	56	emo rap,sad lo-fi,sad rap	0.595	0.767	0.0	0.116	87.497	0.632	0.537
+2aaUTdC6YQqEZiQEk8wPxK	Juice WRLD	Rockstar In His Prime	USUG12105426	69	chicago rap,melodic rap	0.415	0.685	0.0	0.15	170.025	0.382	0.729
+58HvfVOeJY7lUuCqF0m3ly	Elley Duhé	MIDDLE OF THE NIGHT	USRC11903813	93	alt z,pop	0.0228	0.41	0.0	0.0467	185.727	0.0899	0.611
+3f1ChZHm6v4KdUaEW5y5qd	Cold Hart,Lil Peep	Me and You	USEP42035027	65	dark trap,emo rap,sad rap,underground hip hop	0.0143	0.613	0.0	0.0439	93.984	0.198	0.614
+6BjtaWm1T4kDWAqHrf8vEi	Juice WRLD	Legends	USUG11801263	65	chicago rap,melodic rap	0.114	0.586	0.0	0.072	142.107	0.391	0.82
+4f80SteKqaB6M2JytEUrwT	NF,Mikayla Sippel	Chasing_(Demo)	USUM72020119	64	hip hop,pop rap,rap	0.952	0.498	0.0	0.126	139.218	0.299	0.0942
+4Kh6cq3XgOGUK9yXQu7RTq	Royal & the Serpent,Chri$tian Gate$	overwhelmed - Chri$tian Gate$ remix	USAT22100334	70	alt z,electropop,indie electropop,modern alternative pop,pop,social media pop	0.178	0.619	0.0	0.249	174.196	0.38	0.502
+1SOClUWhOi8vHZYMz3GluK	Jaymes Young	Infinity	USAT21700859	89	modern rock,pop	0.148	0.671	5.29e-05	0.0444	121.963	0.494	0.673
+75ZvA4QfFiZvzhj2xkaWAh	Post Malone	I Fall Apart	USUM71614475	79	dfw rap,melodic rap,rap	0.0689	0.556	0.0	0.0382	143.95	0.291	0.538
+0OI7AFifLSoGzpb8bdBLLV	Machine Gun Kelly,X Ambassadors,Bebe Rexha	Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)	USAT21704829	72	ohio hip hop	0.00413	0.653	0.0	0.213	82.034	0.216	0.718
+5ls62WNKHUUrdF3r1cv83T	iann dior	emotions	QMEU31903781	72	melodic rap,pop rap	0.0131	0.63	0.0	0.0395	80.512	0.163	0.63
+6w8pFOKn42O418qwcQElZ3	Dean Lewis	Waves	AUUM71600906	76	australian pop,pop	0.183	0.518	0.0	0.0452	156.879	0.343	0.729
+0gLFuoDun2yzBp67btvQU3	Imagine Dragons	Wrecked	USUM72110166	73	modern rock,rock	0.149	0.625	1.67e-05	0.0289	93.998	0.229	0.562
+06JvOZ39sK8D8SqiqfaxDU	Kanye West,XXXTENTACION	True Love	USQX92202485	88	chicago rap,rap	0.0182	0.712	6.09e-06	0.25	84.042	0.388	0.861
+3jlxX3VXPiY3lvBBbppQD3	The Kid LAROI	TELL ME WHY	USSM12004190	68	australian hip hop	0.109	0.6	0.0	0.158	149.881	0.463	0.723
+219slQu3ALbTSAe9P22hvE	Jaymes Young	Happiest Year	USAT21903715	77	modern rock,pop	0.885	0.502	0.0	0.0486	112.881	0.355	0.168
+0DYNL4xbYWgNzppUamtyR4	The Kid LAROI,Machine Gun Kelly	F*CK YOU, GOODBYE (feat. Machine Gun Kelly)	USSM12006585	74	australian hip hop	0.0693	0.721	0.0	0.0358	92.057	0.296	0.632
+1ZemPoaj7LBj1RAQrb89EC	Post Malone	Blame It On Me	USUM71805173	64	dfw rap,melodic rap,rap	0.145	0.652	5.65e-06	0.0418	121.873	0.274	0.591
+6HJizCbaqaEQG1eLjn341Z	Dean Lewis	Hurtless	AUUM72100595	76	australian pop,pop	0.186	0.37	0.0	0.0526	162.816	0.316	0.559
+6eIE8lLZ1c1qCm1M8dy0vH	Outline In Color	Ghost Of You	QZFYZ2055022	39	metalcore,post-screamo,screamo,trancecore	0.00324	0.464	0.0	0.077	82.485	0.226	0.922
+2ytb0Lu3Ot1o69Lki5ezyF	Nevertel	Another Lie	QZFZ22040044	24	gymcore,post-screamo	0.0241	0.568	4.33e-06	0.0345	110.0	0.257	0.763
+0nR8PPTyY4zTdMDBBfyI4u	Speech Patterns	Were You Nervous? (Stripped)	TCAEE1968794	36	metalcore,post-screamo	0.769	0.582	1.87e-05	0.0324	157.975	0.296	0.456
+7mkvd1VbMfL6GXeA3075T2	Painting Promises	Wait.	QZFYZ2051055	39	post-screamo	0.0415	0.322	0.000107	0.0902	83.933	0.214	0.841
+0TmdITeqXgJidq62RoJKey	Sal3m	Amaranthine	QZGWX2065750	39		0.0188	0.463	0.0	0.0695	141.671	0.366	0.82
+6IDvJxHoqqfbQpzBdFVOK1	Sunsleep	White Tiger	QZMZ92051814	23		0.00695	0.499	2.72e-05	0.0426	124.084	0.179	0.773
+2qi1E9bDvw2kiqay2O1mNt	Noija	Rebirth	QZES51939756	29	metalcore,post-screamo	0.00152	0.463	1.06e-06	0.0423	92.181	0.382	0.879
+1flvBSd9z3UZzqAFWPXeBl	In Motive	Subtle Mistakes	USYFZ1923601	39		0.00915	0.655	4.29e-05	0.0277	120.008	0.628	0.8
+3dNN4EKgrfDizTHuBa1hRU	Nerv	Not The One	QZFZ72134274	29		0.00357	0.555	0.0124	0.0511	90.009	0.55	0.918
+3vQB1F8Ac8IkPOCQXVr75Y	Shrezzers,Aaron Marshall	Neglect	TCAEA1835633	29	progressive post-hardcore,russian metalcore	0.00238	0.448	0.000225	0.0513	105.942	0.332	0.907
+2gP05Mof8zdbjUDWVHbHwI	Outsider Heart	Leper's Bell	QZDA82088529	37		0.00508	0.515	7.7e-05	0.0434	130.033	0.321	0.853
+3LpLbePI2HVrcf4btuD5sI	WildHeart	Animal	QZES61940237	40		0.0164	0.561	2.97e-05	0.0361	144.06	0.312	0.717
+3V5iOtPtP3HGhsJrmH2KVF	Sunsleep	Thicker Skin (Reimagined)	QZAUE1900008	18		0.332	0.338	1.69e-05	0.107	129.114	0.389	0.698
+2NpojTEFodhoZRm1owjsEy	Secret Eyes	Buried Like Diamonds	QM6N21914447	31	post-screamo	0.000303	0.42	0.053	0.0688	90.983	0.328	0.945
+6q6NsIggUOdapbsHZdFv8d	Traceless	11 Minutes	QZES61929140	37		0.0249	0.443	3.01e-06	0.0546	159.994	0.483	0.882
+6AMjN1214n4fI8SeFukFpI	Widmore	Hollow Heart	TCADU1857673	40	canadian metalcore	0.00078	0.241	0.134	0.0862	97.022	0.143	0.869
+16Nv5rqoULoax4SUjUANC9	The Afterimage	Aquamarine	USF281619101	38	progressive metalcore,progressive post-hardcore	0.0599	0.453	0.000693	0.0296	144.946	0.223	0.566
+0XQ0mEXpgBarbkUmJpVARz	Wayside	Shine (Onto Me)	AUBEC2027239	42		0.00074	0.395	0.0333	0.0721	139.986	0.438	0.9
+3DkK8VY9rP7WegVfhlzgO3	Sunsleep	Dive	QZAUE1800003	40		0.123	0.483	0.0	0.112	122.019	0.236	0.935
+4okVLYsJ7xAQkFHisJJgc8	Dan Lancaster	Move a Mountain	GBKPL1814602	24		0.152	0.654	0.0	0.0452	129.973	0.592	0.596
+5Jj7Uytk13wKNSnCDYhNAR	Valiant Hearts,Philip Strand	Wildfire	QZFZ61926754	37	metalcore,post-screamo	0.00123	0.331	0.0	0.0737	159.869	0.327	0.954
+2zXHKTPDNi6wzFVTRmSjzT	Speech Patterns	Walk Away	TCAEJ1953145	32	metalcore,post-screamo	0.000202	0.518	0.0992	0.067	117.984	0.344	0.984
+0qq3yetHj0Q5AJTML96qIQ	Classic Jack	Break	QZHN51954727	43	metalcore,post-screamo	0.0799	0.279	0.0	0.0384	200.431	0.567	0.505
+6DN7ht8xHfRnqpxWfZzHtS	Indighxst	Pyromance	GBSMU6168689	45		0.000209	0.447	0.0035	0.0924	150.032	0.356	0.956
+7k2DxJBmUuuiZo4S3JjQy4	Mosaic	Hollow	usl4r1827723	34	gymcore	0.00488	0.484	0.0	0.133	169.994	0.587	0.926
+6TL5UgbNHsgL3Zb6nLt7yw	Traceless	Incomplete	QZHN81927765	36		0.00111	0.519	7.27e-06	0.0905	140.047	0.29	0.872
+1ToPaaE1iz33LMnuhRfRjM	Isla Vera	Voices	QZDA72012917	28		0.000464	0.444	0.000362	0.094	155.03	0.344	0.965
+5ocLfJIDGtBWkqi5XRU3yM	Sunsleep	Dive (Reimagined)	QZAUE1900009	21		0.468	0.545	0.0	0.0287	116.099	0.107	0.602
+3PW1KExr8ZHNCNH3MetYmV	Flight Paths	Erasing the Gray	TCAEH1952340	33	gymcore,post-screamo	0.129	0.482	0.000135	0.044	96.12	0.619	0.942
+2ZqKqOi6fppezS2kgXwIFE	Nerv	Enough	QZANL1700235	37		0.000211	0.182	0.0	0.0872	91.915	0.234	0.94
+5biyihbDF5suGWwE2fMr8M	Belle	Reverence	USF281620001	30		0.187	0.45	2.75e-05	0.0369	135.149	0.124	0.73
+0l21eQ4VmgCGqwpoOPA94n	CommonWealth	Fear	DED831800780	46	anthem emo	0.00157	0.325	8.42e-05	0.0639	127.937	0.135	0.908
+69PRf7DB5RmShfCvZaWEWo	Tanuki	The Witch	TCAFZ2132135	40	j-core	0.000299	0.279	1.19e-06	0.0749	159.961	0.348	0.875
+0p7j0gRltjzXTDZLQSsWyF	Valiant Hearts	Alaska	QZHN91995594	44	metalcore,post-screamo	0.0105	0.285	0.0	0.0652	164.891	0.123	0.859
+3gUx6vWtwC1r11ozOIV8q2	Sunsleep	Thicker Skin	QZAUE1800001	25		0.0469	0.469	0.000293	0.144	114.951	0.371	0.927
+7B2Uijz8ocrIuhg8waFUM9	Traceless	Nothing at All	QZFZ21993422	41		0.156	0.557	0.0	0.0573	141.946	0.267	0.772
+0sfqCKMsf5GVOaRFnk2h6u	From Inside	Only You	QZHNC1967270	42		0.00025	0.415	0.000247	0.0533	150.05	0.21	0.777
+5CuN6SEX52Kf2OgNGv7zee	Tropic Gold	Chemicals	FR59R2127676	41	post-screamo	0.00125	0.557	0.0	0.0329	124.017	0.349	0.609
+1RBp066aIOYJJQvsOM6mxL	The Comfort	Pain	AUNCC1900040	33	australian post-hardcore,melodic hardcore	0.000654	0.453	0.0	0.0402	129.994	0.384	0.918
+3n4l6F9iQu6L3hw8KhleZe	Valiant Hearts	Make Contact	QZHN91995602	40	metalcore,post-screamo	0.0436	0.344	7.61e-06	0.421	159.62	0.04	0.943
+35tXQxR48NwCjw45TVxl0Q	Softspoken	Soundship (Reperception)	QZFZ52093092	20	american metalcore	0.0375	0.514	0.0	0.0373	155.055	0.223	0.811
+0z9a2R3C2ed3bVfaQ1T2hc	Sunsleep	Dead	QZGLS2094982	28		0.000741	0.514	1.62e-06	0.0619	109.957	0.315	0.883
+51hmIcx4eHy7R60Gf99Dfj	Nerv	Hopeless	QZK6M2096340	35		0.0343	0.266	0.00228	0.0536	83.101	0.177	0.762
+4Qzx9cyQMaoGMOWTI2cktx	Paloma	Bad	QMFME1927008	36		0.00445	0.526	0.0	0.0752	109.979	0.329	0.875
+5Km1L3hAJ5m7XC977bnP1t	Isla Vera	The Afterglow	QZDA41973897	39		0.000493	0.374	0.0287	0.103	175.137	0.231	0.92
+1vmai67CX7IBmkuWggu7FS	Belle	February	QM4TW1982007	43		0.288	0.444	0.0	0.0409	160.013	0.363	0.84
+1UcOkZVlKL1MRls1R7DxlT	Us in Motion	Romantics	QZFYZ1956560	38		0.0274	0.47	0.141	0.0385	110.063	0.0616	0.771
+1OHyNL04ngLNoF1JwdeNqt	Sunsleep	New Sensations	QZHZ52035120	36		0.0304	0.559	0.0	0.0452	100.039	0.626	0.87
+5bzXVKNfR0Q5vRnhN9Xq7k	Flight Paths	Motion & Side Effects	TCAED1962610	40	gymcore,post-screamo	0.00681	0.539	2.04e-06	0.0548	89.967	0.789	0.951
+0N4Chp5oSV5c1PVAyX4A25	Awaken I Am	By Your Side	USVIC1876702	37	metalcore,post-screamo	0.0018	0.462	0.0	0.0735	158.083	0.782	0.972
+65By72IQSMK11Evyx8HEDq	Sylar	No Way	USHR21810703	44	metalcore,nu-metalcore,post-screamo	0.000758	0.436	0.0	0.394	188.161	0.488	0.91
+5vGNcjHhoSTy2fxcxxzH5c	Traceless	I'm Fine	QZNWS2000144	42		0.00605	0.502	0.0	0.194	161.977	0.441	0.952
+5NYjadV8FMoFeaYizimLa8	Sunsleep	Falling out of Place	QZAUE1800002	26		0.000528	0.469	1.59e-06	0.093	122.964	0.366	0.901
+6RdCqsOqnWFNFFvCeVEcVP	Valiant Hearts	Dear Astronomer	QZHN91995601	41	metalcore,post-screamo	0.0233	0.423	0.0	0.0711	125.069	0.211	0.925
+4VQvmy9HEaE6yCaEPH28GC	badXchannels	I Wanna Be Alone	TCADX1848280	37		0.12	0.248	7.8e-05	0.0509	66.729	0.222	0.499
+1gXqefDws7eIVATgyTkdAk	Hurricane Like Me	Anne Lie to Me	QZHN32005933	40		0.00186	0.475	0.0	0.0625	167.958	0.386	0.764
+1NPucGTEyJ5CWlu2PNzeeO	Andy Cizek,Nik Nocturnal	Blame It on Me	QZB4J1826169	33		0.00118	0.545	0.0	0.0717	122.076	0.187	0.971
+2tc97WIewRCpScw2jOf9QH	Mouth Culture	15 Missed Calls	QZ8LD1932547	37		0.149	0.455	0.000108	0.0424	125.18	0.327	0.828
+0mgGxfXKBFX0Sr4ETgqqMz	WildHeart	Lonely	QZDA71925080	31		0.00115	0.417	0.0238	0.0581	89.989	0.301	0.835
+484KOX6HDrKH32xeccHeoK	Overgrow	The Earth Will Swallow Me Whole	USA2P1914264	37	anthem emo,pop punk	0.00191	0.408	0.163	0.0764	169.908	0.429	0.94
+3akX5C4fQ7JZ8zJsea4M0U	badXchannels,Tyler Carter	IIII. Complicated	DED831600952	36		0.549	0.585	0.01	0.0378	128.115	0.374	0.554
+7CoNbEfr1fiFgaRcpCWOF7	Sunsleep	Don't Wake Me	QZAUE1800007	26		0.0259	0.311	1.72e-06	0.0652	114.67	0.165	0.86
+5KuspSQwH9jQYCQqHWe7sz	Vitja	Light Blue	DED831900435	43	german metalcore,metalcore	0.00234	0.389	7.33e-06	0.0971	165.066	0.38	0.953
+7boKU3tmkPov82ONTE9ZaJ	Awaken I Am	Indifference	USVIC1876704	44	metalcore,post-screamo	0.00136	0.59	0.0	0.0519	107.956	0.39	0.918
+7pBRhmkBdyLSKImw95yDYK	Neverkept	Complicated	USEP42005001	38	pop punk	0.000159	0.461	0.0	0.0647	97.492	0.367	0.966
+1autpulkPIhgYF3UCrFAHn	Sunsleep	Drifting Away	TCAEG1901211	30		0.0167	0.474	0.0	0.0379	142.985	0.36	0.867
+4AAcxOYMztCUH7dtNv4JFo	Foxblood	Mess Like Me	AUTEL1900034	49	australian post-hardcore,melodic hardcore,melodic metalcore,metalcore	0.000125	0.456	0.0	0.0427	132.055	0.365	0.832
+5Liv3ZEEi00bnueJxktYoQ	Sunsleep	Haze	QZAUE1800005	39		0.024	0.52	0.0	0.0863	128.017	0.446	0.852
+5BAShZawUKzwners084byD	Sunsleep	Fever	TCACY1735954	36		0.000414	0.498	5.99e-06	0.0381	119.954	0.175	0.571
+3SwlpejYTnA3D8v5iGkWjv	Sunsleep	Falling out of Place	QZAUE1800002	20		0.000528	0.469	1.59e-06	0.093	122.964	0.366	0.901
+7FiyCOJ5YiMowRQr22zfQc	Sunsleep	Thicker Skin	QZAUE1800001	20		0.0469	0.469	0.000293	0.144	114.951	0.371	0.927
+2I4vlLbYEo2lLSr61ar690	Sunsleep,Katey x Krista,Devin Barrus	Blinding Lights	QZMEM2029833	16		0.0279	0.492	0.0	0.0569	170.935	0.348	0.789
+4WB03ndrOyEthENAGjPgC1	J. Alphonse Nicholson	When I Get Out	USA2P2224444	54		0.0344	0.88	0.0	0.129	139.039	0.439	0.605
+313Z0uWKiIdWAZ6MoaIxxh	Meric Again,BRAN,Besomage,HALUNA	Womanizer	QZHN82237562	47		0.0394	0.613	0.00463	0.043	128.11	0.2	0.827
+66SzshiIIRRKAHjMxyYGKz	Kendrick Lamar,Tanna Leone	Mr. Morale	USUM72208993	46	conscious hip hop,hip hop,rap,west coast rap	0.282	0.733	4.11e-05	0.311	174.018	0.272	0.532
+7AZkyWdzyMLHSriJ61XAln	Motionless In White,Mick Gordon	Scoring The End Of The World (feat. Mick Gordon)	NLA322200041	62	alternative metal,metalcore	0.000113	0.383	1.82e-06	0.226	172.124	0.397	0.972
+5XUuldRjPXcP5QxyEN4IXT	Falling In Reverse	Voices In My Head	USEP42231001	73	metalcore,modern rock,rap metal,rock	0.0266	0.546	0.0	0.162	173.17	0.639	0.898
+4agSK3oIa40C52sgtvsZJo	Trey Trilla,Joyner Lucas	Luv Bang	QZQAY2291630	57		0.0584	0.75	0.0	0.251	112.224	0.265	0.577
+1cgy2FSOQMbq7DHCVgMAUA	Lost Frequencies,James Arthur	Questions	BEHP42200001	76	belgian edm,edm,pop,pop dance,tropical house	0.405	0.599	2.53e-05	0.0542	123.962	0.518	0.713
+0prbvDtiY8FrZKEj8LF4Rs	Post Malone,Doja Cat	I Like You (A Happier Song) (with Doja Cat)	USUM72208035	70	dfw rap,melodic rap,rap	0.106	0.736	0.0	0.0745	100.924	0.481	0.681
+5nCg0pD9BpWouChvS8eMSO	Jaah SLT	Tuff	QZES61907985	65	viral rap	0.255	0.939	0.0	0.137	99.941	0.549	0.23
+7fbkwtqiEiBTFr8IA2CHg3	Nic D	Minefield	QZES82287808	62	pop rap	0.384	0.828	0.0	0.12	124.031	0.833	0.619
+580VDxu67H9yZyBFyfpUrZ	Tujamo,Kelvyn Colt	Taking You Home	DEUM72004328	56	dance pop,edm,electro house,pop dance,progressive electro house,tropical house	0.0251	0.736	2.04e-06	0.0473	120.982	0.186	0.78
+3Qx1CtexENLotadyrPxGsY	Adam Oh	TRAPPED IN MY MIND	QZHN31962353	53	sad rap	0.182	0.676	0.0	0.0814	159.988	0.519	0.667
+3ZcxcBqzJUeLUmor6UMsPK	J Swey,Azide,WiL	Can't Save Me	SE6HN1989514	42	bass trap,dark trap,sad lo-fi	0.122	0.589	3.75e-06	0.0406	86.009	0.28	0.581
+1ayEsBhDfMYllz44UyEhl1	Crashing Atlas	Eastside	QZDA81829551	38	pop emo,slayer	0.0215	0.253	0.0	0.0865	89.932	0.382	0.752
+04dN0jE5zKhuAr4QHFwRlg	Paff,Sana	Ride or Die	QZHN92194824	34	nopixel	0.465	0.817	0.0	0.221	99.989	0.678	0.527
+38avNxmHzWN8NG1NNhAFqJ	BLENDER,NEFFEX	Fight Back (Blender Remix)	TCADZ1855191	41		0.0767	0.656	0.0	0.0734	159.819	0.415	0.706
+7771II67fz1MTaNtmVGwiC	Thomas Deil,Momentum,Elle Vee	Iron	GBSMU6392266	33		0.106	0.61	0.00136	0.0535	150.109	0.307	0.714
+3dApO0DoZinSPrKKPhoKuz	Kayzo,OST	Liar (with OST)	CA5KR2095736	53	brostep,dubstep,edm,electro house,electronic trap	0.0292	0.49	0.0	0.31	127.886	0.416	0.964
+3LeKlj9GCxzPB0fAvwtLFU	Darci,OZZIE	Take It Back	QZHZ41931300	51	trap soul	0.0633	0.631	1.13e-06	0.0605	160.056	0.454	0.568
+1vDLmKfXDUmeumH4d3WLrp	Juice	It's Over	QZ8WX2057406	44		0.0912	0.703	0.735	0.0562	153.865	0.758	0.723
+2O2eOQEUfEAD32xiU09iFT	ISEEBLUE	WINDOW	QZFZ71912352	43	trap soul	0.0128	0.373	0.000135	0.217	82.639	0.116	0.668
+1FnKqa450Xr7HXkHV1ILem	RØRY	My Chemical Romance	ZZOPM2110620	42		0.0101	0.533	0.0	0.0297	126.498	0.378	0.654
+0Pzt3bHwYRj62B5TdbffjP	ChrispyD,Abstract,DLZ	11th Hour	QZDA62166385	38	sad rap	0.442	0.682	0.0	0.0356	140.152	0.877	0.661
+4tRfTVgpf1acjA27UWdcnD	FaZe Kaysan,Future,Lil Durk	Made A Way	QZNMX2154087	56		0.101	0.665	0.0	0.0777	85.063	0.15	0.676
+14rVAsSgiE1e7K9AKTE5Jw	Visionary	Lovely	TCADZ1836289	31	jump up,ragga jungle	0.127	0.413	0.00135	0.0315	115.095	0.0555	0.522
+2F3GWosBtcTfkj6zhLsWZY	outsideOUTSIDE	Betrayed - Remix	USYBL1800727	35		0.124	0.685	0.0	0.161	105.951	0.348	0.679
+0xUvi7wldroBzaZCengPa5	Money Man,Lil Baby	24 (feat. Lil Baby)	USUYG1327132	75	memphis hip hop,rap,southern hip hop,trap	0.146	0.868	0.0565	0.0736	126.03	0.459	0.638
+5E9oYrL7IUwFz0ap2NKwN1	Unprocessed,LLUCID,Tim Henson,Clay Gober	Real - Llucid Remix	DEZC62017521	43	djent	0.157	0.782	0.000812	0.0566	135.052	0.514	0.497
+1ifOwacHHrGXQYkXOpm75S	Lyani,Joshua Perez	Fight For You	USA2P2042642	33		0.0517	0.364	0.0	0.0779	159.789	0.107	0.706
+3GBR5aYHbvOyUaw2cJkgJJ	Lil Cap	Rags To Riches	QZHN72139634	39	nopixel	0.234	0.702	0.0	0.445	188.172	0.719	0.255
+3TLgl7Iasuy9Q39IQDMxsz	Prznt,2Scratch	Stay	QZHNB1936429	39	trap soul	0.0121	0.615	0.0	0.0337	90.98	0.154	0.639
+0B8tteaC3h0B5EkeA4BAWN	Friendzone,Alkaz	Lost In Your Love - Alkaz Remix	CAKHO1912771	40		0.137	0.448	0.0	0.046	127.983	0.371	0.743
+2dFz5ravSFl9FL82ujab6y	Matt Corman	Word to the Wise	QZHN41915331	58	deep underground hip hop	0.107	0.774	0.0	0.0593	102.931	0.5	0.634
+49cY7H4GlhfbelrdzzXWwJ	Crape,Paris Shadows,Bernard Jabs,Sorry X	Psycho	QZD442001218	46		0.053	0.802	0.0	0.0566	100.012	0.539	0.728
+2A9kA2hTBbvd11zC4EJUNy	Kyle The Hooligan	On My Own	USUYG1277170	49		0.0129	0.57	0.0	0.0385	171.984	0.676	0.718
+12yj178KaJo8PrddT0StaL	Gaullin,Lucky Luke	What's Up	QMBZ92054126	65	edm,lithuanian edm,lithuanian electronic,pop dance,tropical house	0.00155	0.739	0.0107	0.0397	121.997	0.839	0.845
+7oEut9bL0LGSBRCwIcIN27	The Weight of Atlas	My Happy Ending	TCADY1848793	38		0.00015	0.391	0.00519	0.0478	169.818	0.481	0.865
+2IWCWxQRQhHLBbfFliHVUd	Jordan Schor	Want It All - VIP Mix	QZKDK2213344	38		0.00856	0.703	0.0	0.124	98.013	0.282	0.915
+4GX0dlzmw7rOFOQUyMp1S1	Level 8,Tara Louise,The Pilot Files	Not The End Of The World	QZS652171133	38	samurai trap	0.00846	0.28	0.0	0.0647	79.594	0.158	0.745
+1wMAIzOiIuNYqBxVkmryAw	EQRIC,HAYASA G,Ceara Cavalieri,Thivas	Boulevard Of Broken Dreams	QZS642168945	41	pop edm	0.477	0.71	1.64e-05	0.291	126.122	0.503	0.656
+5lSPfaZ70QD378NJdZcK1Q	Poylow,Shiah Maisel	Hate Me	QZS672128767	41		0.075	0.793	0.000899	0.0977	130.013	0.356	0.874
+2OdnXoYMUVAJUAEfzfWPTN	Jordan Schor,Swayze,Tyler Wright	I Should Have	QZS662151614	36		0.0603	0.661	1.91e-05	0.074	120.088	0.349	0.78
+01OPHys0cy1IztxkYI8uKL	ON THE HUNT,Strybo,Godmode	C4	QZS642128224	38		0.0601	0.67	0.0	0.383	149.911	0.771	0.915
+7oa7MS1xK67UoUTzgk5584	Lonelysoul.,DJSM,KÄMÏ	Missing	USLZJ2244541	45		0.0297	0.72	0.000907	0.057	126.027	0.402	0.904
+1Ii857pBt9RD6OfrtdjyxN	Marin Hoxha,Vinsmoker	The Lonely Shepherd	QZS642155378	38	gaming edm,traprun	0.452	0.633	0.857	0.0484	115.055	0.133	0.625
+4hjSkKYO4LmD4WzbVPUNun	DRKSDE	Hades	QZS652165289	38	samurai trap	0.0153	0.572	0.924	0.0511	140.081	0.0625	0.842
+4TRjjanaCB5YPUJz40UfMp	Coopex,R3YAN,Benlon	Take Me	QZS652164388	37	traprun	0.0238	0.715	0.0	0.125	121.892	0.556	0.806
+3q3SQPeMOYBJ55DInWxZqV	ORGAN,Della	Bad Generation	QZS652162360	40		0.216	0.671	0.0	0.146	122.054	0.596	0.8
+7fVPyPDqf5IH6iUUjM92XG	BOXINBOX,Lionsize	We Don't Talk Anymore	QZS662133075	41	bass trap,traprun	0.246	0.629	0.0	0.0777	99.987	0.523	0.803
+6RgDDTUxFdOkvxV1Xs1ZOS	Culture Code,GLNNA	24 Hours	QM42K2277286	36	filthstep,gaming edm,melodic dubstep,pop edm	0.147	0.493	0.0	0.0345	74.968	0.22	0.516
+397VfKo5yJ9FHieaDUS3LE	2nd Life,Benni Hunnit	Warlord	GBSMU9118008	38	bass trap,traprun	0.0468	0.601	0.000108	0.105	146.003	0.314	0.821
+3k9YyN18G8QW4S2OSs8Iuj	VADDS,SVSTN,Benlon	Reload	QZS632179397	39		0.357	0.611	0.0	0.0652	126.784	0.393	0.763
+7oSn4gmkfGT6xtk03d00DN	Poylow,Charis	Astronomia	QZS632136217	44		0.115	0.735	9.1e-06	0.0574	132.032	0.287	0.787
+0s34IvUSQzurPPs8yoaT21	EQRIC,PHARAØH,Ceara Cavalieri	The Cure	QZS632192387	40	pop edm	0.0373	0.646	0.0	0.0604	119.925	0.363	0.849
+0283p8ud7OjZk88qibqKxl	Deeply Dip,Hr. Troels,AATICUS	Wicked Game	QM4TX2272989	46		0.121	0.703	0.00045	0.036	112.041	0.505	0.732
+6WtujwMiaGVx7XLXaywF5A	Shiah Maisel,Coopex	First Day	QZS642146021	41		0.116	0.633	0.0	0.193	128.079	0.195	0.824
+0sSldZiqaPK4YmhDui7tN8	CHENDA,Kløn,Harley Bird	Carry You	QZS652128285	35	melodic dubstep,traprun	0.0737	0.474	2.26e-06	0.0485	145.058	0.505	0.757
+1DJjKB4SaqyF4a4m67x1mR	Meric Again,Veronica Pichardo	Someone Like You	QZKDK2268814	41		0.113	0.52	0.00034	0.0771	127.9	0.0576	0.793
+1lpbamHuQfYm9Ee8Mrvmca	EQRIC,Level 8,Britt	Starships	QZS662168289	46	pop edm	0.207	0.677	0.0	0.0598	124.059	0.783	0.737
+56ydjaZL4N52vq8haUXI3t	Anzo Gronso,Robbie Hutton	Out Of Time	QZS632135844	37		0.0944	0.654	0.0	0.066	124.04	0.211	0.797
+4mZxU1Ulfra52S1tYICxRg	ONEIL,Titov	The Chance	QZKDK2282444	38	g-house,russian edm	0.0153	0.635	1.46e-05	0.164	110.122	0.277	0.858
+1G7tN0fT5gPjwVisDaBzaR	UMAII,Donna Tella	Hot	QM42K2212193	42		0.146	0.752	0.00286	0.0468	122.039	0.234	0.911
+0FUqI0Oqn6WtDQYfZSMHOI	Muffin,blueberry,Dayana	On The Floor	QM42K2249927	43		0.0119	0.725	0.000618	0.0609	125.05	0.457	0.878
+0hbpbIsPJQ3GXSi4gslay0	Rolipso,Van Herpen	In the Dark	TCAFY2153588	59	new french touch,pop edm,slap house	0.00162	0.673	0.352	0.0354	125.94	0.226	0.854
+6FBOwOQ0NfD8x1gAo8gGgX	PHARAØH,EQRIC,Ethan Uno	Mood	QM42K2215436	38		0.265	0.658	0.0	0.107	91.021	0.761	0.908
+1RUUMAgdaPIRJg1y1HaVow	EBEN,Level 8,Natassa Tsonis	Fall Apart	QM42K2240966	40	bass trap,traprun	0.116	0.486	1.46e-06	0.0265	140.021	0.113	0.474
+6E7UMRKdxjJVSC3L9rT3PT	Twin,Veronica Bravo,CoverMode	Like A G6	QZKDK2227026	41		0.263	0.945	0.0	0.288	125.0	0.516	0.564
+0bHRtZKGDReZ1rLrRJO4ZU	Yohan Gerber,NEØN,Jason Wats,J R	Rescue Me	QM42K2284359	43		0.00685	0.735	0.0	0.0809	126.1	0.381	0.857
+0s7YwHlAKQg5Is2ysXTMYd	EQRIC,Third Places,Muffin	Colors	QM42K2273127	43	pop edm	0.0245	0.772	3.35e-05	0.0372	123.06	0.726	0.729
+0pDyahiJNOd9YpqHluGmew	IMKK	Take My Breath	QZKDK2207022	42		0.0936	0.689	1.82e-05	0.0305	125.004	0.338	0.735
+0wf5oto1fNXeu5Ro0eei5I	EMDI,B.R.T,Dcoverz	Don't Say Goodbye	QM42K2270651	40		0.0355	0.774	3.36e-05	0.12	125.994	0.514	0.691
+3Y83C1mk7KMbJGLncEDIP4	E.P.O,Jstn Dmnd	So Alive	QM42K2210990	40	bass trap,traprun	0.31	0.615	8.35e-06	0.0545	150.132	0.206	0.502
+7yV2ymE74OuTH3qaYUM0tt	UMAII	París	QZKDK2268132	44		0.0852	0.545	0.0	0.16	101.919	0.258	0.791
+4SM6107cNiNtzGH9vlMA0J	ONEIL,KANVISE,Yovalia	Rampampam	QZKDK2292550	41	g-house,russian edm	0.088	0.712	0.018	0.0336	122.01	0.222	0.783
+2dl0DA7KZInJW2zROvnmCE	CryJaxx,Junior Charles	Lean Back	QM42K2207191	50	traprun	0.0667	0.511	0.0	0.347	190.013	0.522	0.957
+4P5EwD9mnsj7gp9U8N0UPE	Nito-Onna,Faruk Orman,Coopex	I Hate U, I Love U	QM42K2233234	44		0.434	0.75	4.95e-06	0.178	122.074	0.895	0.735
+14qlNVV8HOPPzQuZQUt1wl	EQRIC,ISAEV,Britt	Just Dance	QZMHK2044321	52	pop edm	0.0144	0.749	0.0	0.0407	127.985	0.148	0.878
+7lysE3iheU4lE6FdTZdZAa	Dame Dame,Lunis	Beggin'	QM42K2122682	50		0.355	0.737	2.27e-05	0.0478	126.018	0.507	0.757
+0V1BRjfonsswQos3gfdB0m	Reggio	Savage	NL5WB2200017	41	big room,sky room	0.158	0.698	0.112	0.0626	140.013	0.533	0.916
+2elVxbDLNk2NYpRzp0HBGL	RushLow,XTIENNE	Barking(Slowed)	QM42K2166939	52	slap house	0.0271	0.584	0.000172	0.0327	104.066	0.179	0.817
+2w3E0I0vpPJsLah019b00Q	NOES	Like A Boss	QM24S1900189	56	turkish trap	0.0149	0.605	0.453	0.0567	157.91	0.388	0.916
+4pfaDMGAvsMasO5ES9PbnQ	Svniivan,New Beat Order,Veronica Bravo,Cour	Roses	QM42K2194845	51		0.0295	0.671	0.0	0.0382	126.0	0.451	0.847
+3d93zfyq9SPAETUMiVK3dP	Arc North,Cour,New Beat Order,Lunis	Faded	QZMHN2066557	53	gaming edm,slap house	0.0305	0.687	0.000798	0.0374	123.991	0.338	0.829
+0A8rvkDkZRTH3UgYGWxFnp	EMDI	Tokyo Drift	QZS642180951	54		0.143	0.701	0.000613	0.0308	125.094	0.595	0.808
+72eQ49Sy53JZVZa5PTAKxD	Coopex,Yohan Gerber,Lunis	Radioactive	QZMHL2048016	55	traprun	0.0946	0.692	0.0	0.0968	128.136	0.178	0.804
+2dBg0EISds76XkYcAadQhr	Niklas Dee,Bastiqe,Jordan Rys,JOZUA	Smack That	GX3HH2280265	55	slap house	0.135	0.849	0.0	0.0744	119.964	0.518	0.817
+32JuO5NC3jixN2MSLUcYZn	BRAN,Meric Again,Junior Charles	Just A Lil Bit	QZS652124165	46	traprun	0.452	0.75	3.19e-05	0.0634	100.056	0.673	0.772
+6EfBaBEMU4vaHQk3sgHOWm	4URA,Jstn Dmnd	Dollar & A Dream	QM42K2294567	40	traprun	0.00576	0.58	0.0	0.15	78.018	0.495	0.868
+5ZGuzUFsdyf0BJhCVEdnRt	OverSky	Reason	QM4TX2259131	50		0.0098	0.5	0.0	0.0373	139.937	0.187	0.845
+6i00EUFaBNkNFAQySiBOiK	GNDR,VETA,UNDY	Where We Belong	QZKDK2210084	36		0.00847	0.558	0.00124	0.0335	150.072	0.28	0.867
+1yKoZULYTinUhojFeatKQc	Tava,Robin Novaku,Kris Kiss	Discovery Channel	QZKDK2245713	50	sky room	0.0978	0.715	2.31e-05	0.0512	126.033	0.462	0.942
+30OJ3v13GR1B7SUdQG9Uu3	Meric Again,22angels	Ur Just Horny	QZS652221380	41		0.0207	0.659	0.0	0.286	115.035	0.221	0.86
+12X7HQQD8zGQyWgF8NmIqK	Lucha,Godmode	Francis Ngannou	QM42K2203509	40	arab trap,traprun	0.0174	0.575	0.0	0.096	155.038	0.251	0.914
+3sqBzCKsHLXoGXLrakgw5L	Benjamin Carter,Jstn Dmnd,Bromar	What’s Inside	QZKDK2272126	38		0.0585	0.574	0.0	0.0965	77.567	0.365	0.813
+5KAUP8suONF2BYmtEE8IM1	R3YAN,Milan Gavris	I Kissed A Girl	QZKDK2221044	44		0.00725	0.66	5.28e-06	0.0916	128.109	0.171	0.84
+5hXSsySYdRzMmakLf0AEWp	Bomber,Eddy Black	Don't Stop The Music	QM42K2276378	41		0.0108	0.709	0.0	0.0348	125.996	0.401	0.85
+4kPlSt2s6Z0uZ5y7S7TjRN	Twin,Veronica Bravo	Do It To It	QZMHK2206877	45		0.0218	0.808	0.00383	0.0489	122.01	0.43	0.747
+55LIJtZUzyhtSgR4Kp6hHC	ROWKA,Levis Della,Sanduú	Sweet Dreams	USLZJ2206352	48	g-house	0.0943	0.609	7.66e-05	0.0605	109.153	0.433	0.765
+7xqWqT6WpR1cM3MqJqCvJC	Vinsmoker,Marin Hoxha,Xblaze	Unstoppable	QM42K2207070	42		0.146	0.535	0.0	0.158	149.989	0.312	0.615
+7upmHVQPUsEisdIA7NuMdt	EBEN,Godmode,Shiah Maisel	Heart Out My Chest	QZS662139813	44	bass trap,traprun	0.174	0.533	0.0	0.248	86.643	0.439	0.743
+5InXgCoZt0kK87ljVIZ45K	Protocleus,Edpranz,Leila	Tired	QM42K2269427	42	pinoy edm	0.0165	0.709	6.09e-05	0.0668	125.045	0.299	0.701
+3hQggTubbbwALHcMZJqL3g	Harddope,Dream Chaos,Badscandal	Out Of My Head	QM42K2202250	40		0.0418	0.631	0.0	0.06	126.072	0.387	0.787
+57dQ7OzprCr1Fk4TndRgE6	SwitchBlade	Wake Me Up	QM4TX2245221	50		0.116	0.572	0.0115	0.122	124.101	0.137	0.85
+189pjQyE8glS6BnqAC14kY	Majes,Nito-Onna,Dame Dame	Faded Love	QM42K2266409	46		0.0954	0.736	0.00157	0.0829	127.945	0.772	0.774
+3vcX4GCAbXAkCJtwNqyeHv	EBEN,Godmode	Fight Back	QZKDK2126393	56	bass trap,traprun	0.139	0.727	0.0	0.179	140.07	0.553	0.72
+2yrjqDsk5bOkNQuTdaAa9b	Lujavo,New Beat Order,Donovan's Playground,Britt Lari	Pumped Up Kicks	QZS652166992	44	mexican edm	0.211	0.718	0.00147	0.101	125.071	0.351	0.826
+2OUjOp4eEiZ77pWrLGhjYE	Sugar Jesus,LEØN TARØ	Can You Keep A Secret	QM42K2258046	42	canadian electronic	0.0299	0.768	0.162	0.0483	124.043	0.551	0.75
+2DtRoKzKR054DQIGTCVCN5	Yohan Gerber,Ava Silver	Sweet Dreams	QM42K2290348	46		0.00759	0.707	8.46e-06	0.0359	123.93	0.473	0.75
+67NnRO2LdRZcd6h7QI5mDm	Moodygee,Tsebster,Sary	Catch Me If You Can	QM4TX2261974	47		0.00627	0.417	2.43e-06	0.0922	138.012	0.296	0.907
+35LuknGQZ5kBbngf4tGSXg	ROY KNOX	Lost In Sound	QM24S1911342	58	gaming edm	0.0764	0.588	4.79e-06	0.418	96.142	0.316	0.926
+3E3Y0Ge5C4RQKWO5c5ONMe	D.O.D	On The Run	GBUM72201520	46	deep groove house,edm,electro house,house,pop dance,uk dance	0.00368	0.646	0.711	0.0463	126.966	0.855	0.954
+2soO4oo0biytDfhIZ88e1n	Jordan Schor,Swayze,Godmode	Evolution	QZKDK2258367	40		0.0136	0.565	0.0	0.346	159.552	0.386	0.847
+5TdvqBeEp4O7S8atGCUKOg	ConKi,Janethan,Goodkins	Take You There	SE6I32245969	56		0.118	0.642	0.0	0.0927	122.869	0.532	0.746
+00Blm7zeNqgYLPtW6zg8cj	Post Malone,The Weeknd	One Right Now (with The Weeknd)	USUM72120404	85	dfw rap,melodic rap,rap	0.0361	0.687	0.0	0.053	97.014	0.688	0.781
+0lmRKkc33g1N9fWW9nZPVc	Post Malone	New Recording 12, Jan 3, 2020	USUM72208031	72	dfw rap,melodic rap,rap	0.927	0.477	0.000299	0.0545	106.144	0.211	0.162
+2GUSz3vtf8jhVXri1CTrQX	Post Malone	Waiting For A Miracle	USUM72208030	74	dfw rap,melodic rap,rap	0.8	0.491	1.99e-06	0.0424	127.136	0.0718	0.278
+5Ja2u1FPlVxrxeMWEa2dcn	Post Malone	When I’m Alone	USUM72208029	76	dfw rap,melodic rap,rap	0.0346	0.485	0.0	0.0528	140.107	0.106	0.656
+7JyFwJC3uRpiNfq7oKafgn	Post Malone	Euthanasia	USUM72208028	75	dfw rap,melodic rap,rap	0.177	0.301	0.031	0.0458	141.997	0.0384	0.303
+2OcSE0EXzgUuqkM1NIJPHJ	Post Malone,The Kid LAROI	Wasting Angels (with The Kid LAROI)	USUM72208027	80	dfw rap,melodic rap,rap	0.801	0.583	0.0	0.0353	84.967	0.367	0.43
+6R9c642Hs3tOdLowjYaWt2	Post Malone,Fleet Foxes	Love/Hate Letter To Alcohol (with Fleet Foxes)	USUM72208026	78	dfw rap,melodic rap,rap	0.037	0.475	0.00129	0.0343	108.007	0.0395	0.569
+2meHtZ7N97pJfvTL4hYtfv	Post Malone	Insane	USUM72208025	79	dfw rap,melodic rap,rap	0.0597	0.645	8e-06	0.0459	82.546	0.365	0.671
+4IxeKzzxUSEgivgtbSbyIK	Post Malone,Gunna	I Cannot Be (A Sadder Song) (with Gunna)	USUM72208024	80	dfw rap,melodic rap,rap	0.0712	0.517	0.0	0.116	79.782	0.646	0.668
+0O6u0VJ46W86TxN9wgyqDj	Post Malone,Doja Cat	I Like You (A Happier Song) (with Doja Cat)	USUM72208023	90	dfw rap,melodic rap,rap	0.121	0.733	0.0	0.0751	100.964	0.472	0.67
+6Kfoo60npYPdvNxMPMiDpX	Post Malone	Wrapped Around Your Finger	USUM72208022	81	dfw rap,melodic rap,rap	0.0493	0.744	0.0	0.0287	119.966	0.539	0.628
+1NvpO1o8SpkdH3txtJQQc7	Post Malone	Lemon Tree	USUM72208021	80	dfw rap,melodic rap,rap	0.083	0.611	0.0	0.0301	116.106	0.181	0.584
+32vE1nuG8T9c8bhmZdRY6d	Post Malone,Roddy Ricch	Cooped Up (with Roddy Ricch)	USUM72208020	82	dfw rap,melodic rap,rap	0.038	0.669	0.0	0.153	93.923	0.377	0.773
+67dU06KGaJHLLlo5Y5bkD2	Post Malone	Reputation	USUM72208019	80	dfw rap,melodic rap,rap	0.671	0.314	0.0	0.0311	180.119	0.364	0.439
+3uieUpKbISDK8NO2cnnKcO	AK	Good Thing	USA2P2025054	47	pop rap	0.137	0.611	0.0	0.0791	87.006	0.446	0.764
+2FeBslNBMdR9V58uv6hd2t	Kendrick Lamar	N95	USUM72208963	87	conscious hip hop,hip hop,rap,west coast rap	0.377	0.79	2.32e-06	0.105	139.956	0.408	0.67
+0LWBL14Dp7FFGp6phXqwlg	TJ Hickey,Ollie Joseph	Bet It Right	QZGLS2125184	52	indie pop rap	0.113	0.796	0.0	0.175	90.022	0.586	0.792
+7MIlZUzjRs4i5zvkAWgukg	Ericovich,IAN SIZE	Enemy	GX4R52277033	47	traprun	0.119	0.599	4.29e-06	0.171	170.118	0.488	0.9
+173ff06by7Ujur3An4cHWf	Jason Derulo,Kodak Black	Slidin' (feat. Kodak Black)	USAT22204415	73	dance pop,pop,pop rap,post-teen pop	0.106	0.695	0.0	0.172	100.088	0.803	0.884
+4LBr2xkmyd3HdOYlcDyr5Q	Oliver Francis	Secrets	USHR22214501	47	dark trap,emo rap,melodic rap,sad rap,underground hip hop,vapor trap	0.000422	0.321	7.04e-05	0.0567	199.981	0.377	0.876
+2yXRunfzz6u8wxKoZRRJP7	ILLENIUM,Natalie Taylor,Last Heroes	Fragments - Last Heroes Remix	USWB12201694	58	edm,melodic dubstep,pop,pop dance,tropical house	0.0211	0.44	0.0	0.157	172.051	0.463	0.877
+54u5CIDhcd3zBXi62gnFwA	JC Stewart	Scars	GBAHT2200822	56	australian pop,indie anthem-folk,uk pop	0.0401	0.572	0.0	0.0521	179.952	0.481	0.683
+767QklErtbxh4XVnnh1FtH	Promoting Sounds,Taijitu,Jauque X	Only Option	SE6I32269913	46	aesthetic rap,emo rap,pop rap,sad lo-fi	0.0361	0.702	0.0	0.165	161.931	0.667	0.547
+2v5MJVESKKcD0vA4lTv6sT	Coffeeshop,Woodii,Michelle Ray	Life Line	FRR642200802	40		0.0334	0.482	7.86e-05	0.0498	127.555	0.154	0.785
+6Wwi5V7VAR9KOo8c9gksh1	Murdbrain,Level 8,Flyn Stoned	Just A Lil Bit	NLT2H2200299	53	traprun	0.0155	0.687	0.0	0.297	99.973	0.368	0.854
+6uyOYLLHKfhl8Vp0oPg4Fv	Zach Hood	lonely isn't the word for this	USAR12200218	59	alt z,gen z singer-songwriter,pop	0.529	0.652	0.0	0.0704	141.933	0.494	0.66
+3GGb1PYDGNlRoD5aRyyE6l	Quarterhead,Camylio,Öwnboss	Is It Love - Öwnboss Remix	DEUM72202842	46		0.0097	0.639	0.00117	0.0406	124.035	0.392	0.874
+6GLuBEr13lqhOVSlJgc4XK	We Three,M Humlie,B Zimmerman	Confident	GB5ZK2100027	49	alt z	0.892	0.584	6.77e-06	0.0452	120.047	0.466	0.526
+3RhyHYnYxuGnP8njFlNxHq	Tate McRae	don't come back	USRC12200894	78	pop	0.106	0.707	3.54e-06	0.059	87.999	0.386	0.483
+4vztjHvge0Yg8HIJpIB3Q0	Cheat Codes,Loote,emma løv	Back Again (with Loote)	US3DF2245225	59	dance pop,edm,electro house,electropop,pop,pop dance,tropical house	0.0884	0.716	0.0	0.0721	122.065	0.57	0.618
+6EbVuwU7EnKeF2hdpViXCH	Sleepy Hallow,347aidan	Die Young (feat. 347aidan)	USRC12201686	85	brooklyn drill,nyc rap	0.827	0.808	0.0	0.338	77.471	0.675	0.582
+2zI17EWoz24ZaDB9baDBhC	ONEIL	Shagy	RUB422200914	46	g-house,russian edm	0.093	0.752	0.107	0.0657	101.974	0.414	0.833
+1lOnvTlocwhYZe3s8My9cI	EMDI,Nexboy	Knas	QZHN52210527	46		0.00223	0.699	0.819	0.0699	126.0	0.677	0.964
+4NJRFFp0fciIcl7EGB99Yx	The FifthGuys,Invisible,CASSIE	Dynamite	QZES72249664	47	traprun	0.433	0.709	0.0	0.0597	115.038	0.527	0.7
+5ZerugdZIZUVf28xwH5kTz	Harddope,Sary	Bon Voyage	DEN062200329	42		0.0703	0.661	6.5e-06	0.329	129.961	0.464	0.931
+6XA4ekTSAFz9pqTbgzK4N9	Coopex,ZANA,CPX	Locked and Loaded	QM6MZ2211032	51	traprun	0.0495	0.721	0.0	0.0651	125.051	0.261	0.773
+1YcLPvfn0auhpEMD499Lku	Is0kenny	Get 2 Da Dough	USUYG1426245	39		0.0956	0.864	0.0	0.08	127.933	0.137	0.512
+2CS3sMRfjIFBuwBhFEeDrb	EQRIC,Finnet,Lexy Cassell	Nothing Left to Break	QM6MZ2252726	44	pop edm	0.0458	0.755	1.97e-06	0.0521	124.022	0.203	0.666
+5DwJKJ3Gg5UlzsTMpYXkwT	Sigrid,Bring Me The Horizon	Bad Life - Acoustic	GBUM72203254	60	dance pop,norwegian pop,pop	0.612	0.542	0.0	0.0544	189.826	0.434	0.358
+5DXKvETa1xppOmd4CDxs9S	Ed Sheeran	One Life	GBAHS2200714	73	pop,uk pop	0.114	0.573	2.65e-06	0.0299	159.978	0.425	0.593
+0GMxsSQhO9Yj8aKhN8ljFe	Kaash Paige,Lil Tjay	24 Hrs	USUG12200193	64	r&b	0.306	0.646	1.19e-06	0.209	102.547	0.0905	0.421
+2ChNLK27j3pdmQQehkeCQc	Lucha,Ctrlgang	No Breathing	GX4R52259022	45	arab trap,traprun	0.0127	0.546	0.0	0.262	149.965	0.341	0.865
+5jvhDZ9ovqO3jvIEWde0rp	Arensky,Marin Hoxha,Danielle Oda	Break Through	GX4R52291798	38		0.0125	0.464	0.0	0.0413	90.042	0.326	0.719
+79iLGWV1TP277jSF8QJEo3	Miles Teller	Great Balls Of Fire - Live	USKLP2200330	72		0.765	0.562	0.0	0.0421	160.039	0.629	0.605
+0u6STd9K8a5rbfXsxWefN7	MNNX	Anxiety	QZDA81984628	40		0.283	0.576	5.49e-06	0.032	135.123	0.201	0.561
+6lFlc10D5VdFYZyXbZzbvA	Now or Never	Everything I Wanted	QZFZ22065922	43		2.28e-05	0.583	0.00051	0.0329	120.034	0.368	0.794
+0Q8V3vkOx7LWSCyCyzAovA	GARZI,Travis Barker	SICK OF ME (with Travis Barker)	USA2P2014510	46	sad rap	0.000986	0.597	0.0	0.0312	135.03	0.248	0.785
+2xPmLRciOgS78qzv32EBQX	I-Exist	Backward In Time	QZHNB1924517	42	gymcore,hard alternative,post-screamo	0.00176	0.397	2.35e-05	0.0573	149.992	0.173	0.724
+5Xblux8lVklRnbz38PnRtx	Emerald Royce,K$ace	Where Was I	QZNWZ2045449	46		0.01	0.478	0.0	0.143	185.917	0.542	0.736
+3VhsiyMd87uVpRvq2E0dq3	TELYKast,JORDY,TWINSICK	Somebody Else - TWINSICK Remix	SE6A91899519	53	edm,pop dance,pop edm	0.0629	0.35	0.0	0.147	189.792	0.504	0.843
+38qLgi2cC0qpaqCEdEvmnR	Ryan Browne,Jay Malcuit	Show Your Face	QM42K1990484	44		0.0236	0.597	7.21e-05	0.135	150.026	0.51	0.983
+2i7XIefGBbeRhZ35NHnbLV	Ben Schuller	Stressed Out	QMPKX1614868	52	channel pop,fnaf	0.958	0.686	0.000804	0.0317	85.005	0.487	0.395
+4G1FKyLsB8xcTdVEXgwcix	Ben Schuller	Once I Was 7 Years Old	QM4DW1623700	53	channel pop,fnaf	0.651	0.712	0.0	0.0357	118.059	0.229	0.353
+1PPmiQrg4MJOZnOl5s5aZx	EMDI,Cour	Deep End	QZMHM2038244	41		0.668	0.6	0.00113	0.0658	125.701	0.435	0.56
+5FIgvhOU2KiC6irF1RBGVd	Besomage,BRAN	I Need A Doctor	QZMHL2064750	48		0.124	0.633	9.82e-06	0.0851	114.964	0.124	0.663
+3U8bp6yDS6NpQej6zermWy	Soner Karaca,Godmode	Astronaut In The Ocean	QZMHM2034230	46		0.125	0.743	0.00201	0.171	172.004	0.364	0.612
+4bngEv6aO6dqIVMaoevy3G	Gidexen,Coopex	Rapture	QZS642175985	41	traprun	0.0467	0.711	0.232	0.0413	122.009	0.222	0.709
+3KgincpMaF4ZF5i8En1Ent	Robbe,Derrick Ryan	Breaking Me	QZS632144556	41	slap house	0.142	0.684	0.0	0.224	120.014	0.271	0.826
+52LlhCHf2ZTHTAbPZpAQHz	Besomage,BRAN	Careless Whisper	QZMHP2026067	47		0.186	0.597	0.0205	0.0775	127.988	0.102	0.594
+2G0bdzkmjp5kuw35kFNYo7	Cour,New Beat Order,Veronica Bravo,Taylor Mosley	Stereo Love	QZS652144781	51		0.0499	0.575	2.71e-06	0.0674	123.917	0.201	0.724
+1rC5xozYzVGpgg13oSnFO7	Level 8,imallryt,Britt Lari	Señorita	QZS632161140	42	samurai trap	0.0892	0.587	0.0	0.224	121.734	0.251	0.793
+3oK98tHxWVXTAiW9crzws5	GUMMiBEAR	You Got To Live	CA5KR0011067	31		0.00985	0.691	0.748	0.0806	124.008	0.349	0.941
+1JviLTyTWJPq5VxlGjzD9U	Meric Again,22angels	Industry Baby	QZS652112540	45		0.00896	0.707	0.00362	0.0527	128.048	0.257	0.908
+3WnPgNoO0OX8kcMVi1eNIJ	Dame Dame,Jordan Rys	Beautiful Girls	QZS652159674	43		0.0964	0.722	0.0	0.0696	125.048	0.35	0.842
+00LbEH6ylZB0AIsBshubJr	Boostereo,The Trendy	Dub-I-Dub	QZS642131901	42		0.0234	0.81	0.000527	0.056	125.044	0.399	0.91
+3GZB3ucRP9cjwr29NFuAts	Meric Again,Tim Gordon	Love Tonight	QZS632160921	41		0.012	0.61	0.0	0.0778	126.103	0.0955	0.863
+3oOBeIVsDBuHpz94XNXOn7	SAVAS,C4TO,Zayda	Some Say	QZS672102797	42		0.00649	0.655	1.08e-05	0.0438	123.95	0.181	0.855
+2ncurlCheznuzPjF3jBXN1	ISAEV,Nito-Onna	Into You	QZS642163862	43		0.176	0.65	6.08e-06	0.0529	119.893	0.383	0.868
+6A4sVn5oZV8PD9JCX6MWd0	Meric Again,BRAN,Besomage	Lie Again	QZS642175374	40		0.0349	0.59	0.00108	0.123	121.95	0.289	0.791
+010CzCoS4WRKwoUNnjtg3N	Meric Again,22angels,sad girls	Shivers	QZS632190609	43		0.014	0.671	0.0	0.136	128.099	0.147	0.884
+2Yan9sMmKRsqUw8RgdornT	Harddope,Future Friends,Benlon	Montero	QZS652188674	41		0.12	0.68	0.0	0.052	95.0	0.753	0.887
+4taNRBhDcQZYWd9UEUxh4b	Yohan Gerber,Bersage,Nito-Onna	Burn It Down	QZS672196829	43		0.161	0.656	0.0	0.0676	127.964	0.53	0.833
+44CLC4Thq1FIpwzqylLNbP	Meric Again,22angels	Woman	QZS672156787	41		0.0159	0.737	6.18e-05	0.149	126.029	0.415	0.868
+40khceskXhbjyomqRHMW8Z	McLovin,BRAN,Bromage	Bad Habits	QZS662154580	42		0.153	0.678	2.97e-06	0.0529	125.93	0.0898	0.8
+3wX2U0wWZ1SuOTyRxRtiNj	Dream Chaos,Britt	Fantasize	QZS662149795	42	belarusian electronic	0.457	0.732	0.000237	0.0298	126.014	0.32	0.76
+343f4nX3aQW92rSKSNufeg	Andrea Crocicchia	Why Don't You Stay?	GX5MY2169763	43		0.215	0.806	0.0129	0.358	124.028	0.299	0.898
+2KrW6F9dmKtImS53HmcDg3	Coopex,IMKK,Britt	Legends Never Die	QZS662105602	42	traprun	0.216	0.569	0.0	0.0471	127.897	0.331	0.745
+7FJN22d8dQA91jvQPmtZJ9	Meric Again,22angels	THATS WHAT I WANT	QZS652171182	39		0.0176	0.647	0.0	0.119	128.187	0.0726	0.837
+03tkivYbWefQCiYDQMA5In	Boostereo	Pop Corn	QZS632118404	38		0.00147	0.715	0.648	0.0356	125.982	0.69	0.946
+1JwLS4gJ8MsZ8PUjnRsjXs	Harddope,DVO,LexMorris	The Hills	QZS642158345	46		0.00673	0.658	0.00207	0.0436	122.012	0.103	0.799
+2Y0yVhbhISGg0f4xIw8j4F	ISAEV	9PM (Your Love)	QZS662131045	46		0.0387	0.72	0.0	0.0409	126.046	0.443	0.897
+4yFKiy6Buom1jYswgIuQ5Z	Yohan Gerber,Poylow	Don't Be Shy	QZS672150239	44		0.0501	0.671	7.02e-06	0.0797	126.993	0.251	0.792
+6eA34CweSxgGO2fUepJ3cT	Yohan Gerber,Bersage,Nito-Onna	If I Lose Myself	QZS662171904	46		0.28	0.629	0.0	0.0784	127.956	0.422	0.804
+2xQpE3ggKjvllx0NScCjN7	EBEN,Godmode	Find A Way	QZS662111874	41	bass trap,traprun	0.188	0.649	0.0	0.272	153.926	0.146	0.833
+3HdGHbgVj5GXfYNzoNDqGo	Munch,Konn	Lost Cause	QMDA72186513	32		0.251	0.652	0.00728	0.102	124.998	0.0526	0.903
+3CBRlJxL7BCjoKSccKGagv	Arpad,Jona Selle,CLOSR	Somebody That I Used to Know	QM4TW2201050	45		0.37	0.811	5.04e-05	0.0366	120.007	0.42	0.631
+3ddOf7YEvDnMVzo7UgDozd	Max Kilian,Tony Vida	Maniac	QZS672124446	38		0.0109	0.688	0.0	0.104	117.961	0.426	0.907
+3oPdWn2iM1C2On5lpkhXev	Godmode,Hkmk	Purpose	QZS642186908	51		0.144	0.776	0.0	0.207	109.92	0.538	0.773
+58WZkZfWBickcgUyXENVTb	EQRIC,Noreal,Muffin	In The Name Of Love	QZS672101381	44	pop edm	0.0836	0.704	0.0	0.0469	126.0	0.293	0.888
+60a1RQH7CJAsizYHTnqdDz	blueberry,Jemma Johnson	Slow Burn	QZS632108543	31		0.31	0.746	0.000497	0.0868	119.912	0.664	0.643
+2vXV3lIR0ouayIETSh7Fxs	DJ Goja,Lunis	Crazy	QZMHL2019311	57	slap house	0.00493	0.797	4.47e-06	0.19	108.992	0.43	0.514
+0xso1J3XZ6x3Y8yEedoj9N	Rolipso,Replay M,SebDell	Take Me Where You Wanna	QMDA72172194	42	new french touch,pop edm,slap house	0.00481	0.548	0.0	0.0286	117.986	0.57	0.576
+277kiLR5H2x8zBNWD4IQcJ	Lako	Bad Romance	QZS642197708	40		0.000918	0.597	2.34e-05	0.0412	126.023	0.342	0.911
+08kBFSk8XbDcdK38mlatJp	Alban Chela,Tiri Gjoci,Veronica Bravo	Broken In Pieces	QZS662174695	36	traprun	0.411	0.544	0.0	0.0437	101.929	0.3	0.629
+2OlWLCjPDL2isnYRAX0TNX	Nicolas Haelg	Sensory Overload	QMDA72172207	39	deep house,deep tropical house,swiss pop,tropical house	0.356	0.637	0.027	0.0428	114.993	0.37	0.871
+1GXu0A6KHdIxde3mmiQ6Ov	Yohan Gerber,VADDS,Nito-Onna	All Of Me	QZS642165476	40		0.755	0.53	0.0	0.032	120.011	0.233	0.617
+3ERS71N8T5kfK9Rk0Miw3T	New Beat Order,Level 8,Murdbrain,Michael Shynes	World, Hold On	QZS662174506	43		0.00352	0.76	2.71e-06	0.0997	126.971	0.345	0.797
+1SuQUpIFH7Q0Tsx7DlxQ5G	Badscandal	Jumpin' Around	QZS632188934	37		0.549	0.704	4.45e-06	0.0396	127.949	0.456	0.68
+0OhjBQAvTFeMoWwNPcLf6w	EQRIC,MØRFI,Nito-Onna	Hot N Cold	QZMHN2064030	51	pop edm	0.0187	0.543	0.0	0.281	128.255	0.103	0.742
+2TrYGSQzwRTNIYZOTwFUBN	ONEIL,KANVISE	La La Like	QZS652180107	38	g-house,russian edm	0.198	0.735	8.35e-06	0.0418	127.934	0.434	0.758
+7H2EOumE4MCMBTJepZrwb0	EQRIC,PHARAØH,Timmy Commerford	Counting Stars	QZS632172773	44	pop edm	0.0167	0.67	0.0	0.0543	122.088	0.374	0.737
+483AjaJDKnCvKnFXMHwtO2	Meric Again,22angels	Easy On Me	QZS662145837	43		0.0601	0.514	0.0	0.167	127.945	0.0802	0.799
+2z17qPEwSyQtI5MSHoookS	DJSM,Robbe,Nito-Onna	Closer	QZS652105009	42		0.0783	0.828	0.0	0.183	121.901	0.221	0.736
+0aM15EL6DefPebgW9iXQBZ	Cour,Faruk Orman,Robbe,J R	Right Now	QZS672171726	42		0.0272	0.622	0.0	0.0634	127.936	0.151	0.852
+4YW0PNZFOUKv9Isp5UiPaj	Boostereo,The Trendy	Killing Me Softly	QZS632192004	42		0.0488	0.702	0.000565	0.0317	117.028	0.58	0.839
+49phRM0VrbvbaErMJaBuRf	Protocleus,Lyssa Deane	Maria	QZS632121512	40	pinoy edm	0.0066	0.713	0.000226	0.0577	127.96	0.219	0.818
+6vGD0RMfkCd1As4SJJC0fY	EQRIC,Solar Sail,Alaina Cross	Stronger	QZS672111178	43	pop edm	0.0364	0.618	0.0	0.105	124.997	0.227	0.857
+7hHqAQdXI1pOPaz3CIdxPo	DJ Goja	Cause I`m Crazy	USHM21956464	58	slap house	0.0782	0.752	0.000114	0.0518	110.018	0.456	0.399
+5lWkSE221RFULP3IKHcWli	Mario Eddie,Stella Key	Streets	QZS632186921	32		0.347	0.795	0.0921	0.125	109.969	0.301	0.644
+0frCE7fPxZlz7QQLJ3cKG7	Harddope,Badscandal	Breathe Me Back	QZS632154794	41		0.0943	0.698	0.000548	0.0866	125.927	0.228	0.65
+2348VwSHeTI1X9vnXYFddS	Sirona,New Sound Nation,Joe Jury	Tomorrow	QZS642130300	32		0.0655	0.646	1.6e-06	0.0316	118.051	0.437	0.816

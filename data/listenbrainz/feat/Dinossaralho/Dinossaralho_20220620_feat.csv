@@ -1,0 +1,275 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7kzKAuUzOITUauHAhoMoxA	The Strokes	Last Nite	USRC10100765	74	alternative rock,garage rock,modern rock,permanent wave,rock	0.0285	0.624	0.000198	0.0297	104.042	0.767	0.91
+3zYQ1KXzqBWRsxIqdVMoYF	Curtis Harding	Need Your Love	USEP41726006	60	funk,indie soul,psychedelic soul,soul	0.0491	0.713	7.96e-05	0.0349	139.942	0.814	0.8
+50ruR1ueH4wroJBpJOnjQS	The Black Keys	Everlasting Light	USNO12000170	53	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0706	0.77	0.00374	0.0416	90.7	0.738	0.64
+7MJnmh4f45CoewLnPKiDI4	Capitão Fausto	Teresa	PTBM11300136	38	portuguese indie,portuguese indie rock,portuguese rock	0.121	0.525	6.2e-05	0.0331	161.904	0.905	0.734
+3DQVgcqaP3iSMbaKsd57l5	Arctic Monkeys	I Bet You Look Good On The Dancefloor	GBCEL0501181	73	garage rock,permanent wave,rock,sheffield indie	0.00225	0.535	0.0	0.0356	103.183	0.778	0.948
+0eyv7FvSUMS6dvfqr779ST	Benjamin Clementine	Condolence	FR9W11408007	30	art pop	0.534	0.58	0.0625	0.0805	153.973	0.443	0.583
+2uK0gfnFYHKpb73WkQml8h	Raury	Devil's Whisper	USSM11504583	42	psychedelic hip hop	0.234	0.778	0.0406	0.172	107.991	0.312	0.636
+2BqfIlpahcebJPeu1IUTEo	Arctic Monkeys	Do Me a Favour	GBCEL0700069	66	garage rock,permanent wave,rock,sheffield indie	0.00013	0.469	0.0577	0.0619	180.15	0.624	0.738
+78tgXRq9Q6tPNP9hKCpgwB	Foals	What Went Down	GBAHT1500379	56	alternative dance,indie rock,modern rock,new rave,oxford indie,rock	0.00313	0.231	0.00442	0.0722	146.94	0.128	0.919
+15XsaekQbikl8BHW3HXvGf	Cage The Elephant	Back Against The Wall	GBGLM0700137	48	modern alternative rock,modern rock,punk blues,rock	0.000929	0.594	0.0	0.0299	110.254	0.534	0.8
+1oSDiyNMslJoTCfUZBHNP2	Jungle	Happy Man	GBBKS1800056	64	indie soul,uk contemporary r&b	0.198	0.594	2.91e-05	0.0316	108.017	0.154	0.516
+0qdQUeKVyevrbKhAo0ibxS	George Harrison	My Sweet Lord - Remastered 2014	GB77R1400026	75	album rock,beatlesque,classic rock,folk rock,mellow gold,rock,soft rock	0.0972	0.537	0.0	0.0335	120.919	0.583	0.701
+44Y47AT30lSl5iPMZr6o83	Future Islands	Peach	GBAFL2100385	51	alternative dance,baltimore indie,chillwave,indie rock,modern rock	0.195	0.683	0.0192	0.0395	160.061	0.764	0.791
+3mN9YMbN5ZCb5JPLeCNEnz	Cícero	Açúcar ou Adoçante?	BR66N1100006	48	brazilian rock,nova mpb	0.753	0.615	0.00295	0.0302	100.047	0.27	0.328
+51rPRW8NjxZoWPPjnRGzHw	Masego,FKJ	Tadow	QM24S1703810	75		0.669	0.704	8.64e-05	0.0604	121.726	0.313	0.487
+4KlL5Bwlm4yHYxr0B2rHci	Tom Odell	Heal	GBARL1202014	73	chill pop,pop	0.952	0.445	0.00056	0.0396	72.246	0.119	0.179
+1UH4viviUjZnS9aWgPGrk0	Louis Armstrong	La vie en rose - Single Version	USMC15076528	61	adult standards,dixieland,harlem renaissance,jazz trumpet,new orleans jazz,swing,vocal jazz	0.866	0.507	0.00275	0.0544	70.808	0.326	0.0779
+3898C4AbdbptwYet6547e5	Stan Getz,João Gilberto,Astrud Gilberto	The Girl From Ipanema	USPR36305146	66	bossa nova,cool jazz,jazz,jazz saxophone,latin jazz,samba-jazz	0.909	0.664	3.85e-05	0.0357	129.863	0.443	0.194
+1K3LRUEcUz5FMtPYyg0F45	The Lumineers	Ho Hey	USDMG1260805	77	folk-pop,stomp and holler	0.765	0.682	0.0	0.0301	79.907	0.421	0.471
+5rAff9XfcWx7rguN3t0fkW	LCD Soundsystem	New York, I Love You but You're Bringing Me Down	US4GE0600022	55	alternative dance,alternative rock,art pop,dance rock,dance-punk,electronic rock,electronica,indie rock,indietronica,modern rock,new rave,rock	0.474	0.39	0.00013	0.0457	176.526	0.0909	0.37
+1RRBuxXdsIB0yazqGDlKTj	King Krule	Baby Blue	GBBKS1300094	53	uk alternative pop	0.613	0.461	0.00104	0.0359	102.488	0.0899	0.331
+1qCQTy0fTXerET4x8VHyr9	Louis Armstrong	What A Wonderful World	USMC16758823	72	adult standards,dixieland,harlem renaissance,jazz trumpet,new orleans jazz,swing,vocal jazz	0.792	0.399	1.86e-06	0.033	108.174	0.192	0.258
+2mbu1ssfb7h1RNO5jBv4cW	Chet Faker	I'm Into You	AUDJ01200877	53	art pop,indietronica	0.668	0.562	2.88e-06	0.437	169.28	0.499	0.68
+7cs7MLtAWvsdf3w5kBvfK2	Cigarettes After Sex	Nothing's Gonna Hurt You Baby	TCACJ1593857	71	ambient pop,dream pop,el paso indie,shoegaze	0.259	0.508	0.154	0.0265	96.818	0.101	0.33
+1D39ZETXfcAFYaGruPHEzB	Bon Iver	re:stacks	US38Y0811509	57	eau claire indie,indie folk,melancholia	0.979	0.682	0.384	0.0413	125.091	0.299	0.0827
+2JCFF4mm4WpWIuVWsCBxaq	Gogol Bordello	Walking on the Burning Coal	GBCEJ1700147	28	gypsy punk	0.013	0.462	0.509	0.0353	120.925	0.683	0.725
+59r1SK6y2igZ3FPzpxrVER	Gogol Bordello	Did It All	GBCEJ1700146	29	gypsy punk	0.114	0.513	0.0011	0.0726	102.084	0.746	0.896
+4aT2ZUMlNNz51N8WGJ6ov8	Gogol Bordello	Immigrant Punk	USA6G0527104	35	gypsy punk	0.00694	0.563	0.0	0.0545	100.875	0.582	0.729
+25LiUrU7HFit7vsUATw56i	Gogol Bordello	Sally	USA6G0527101	36	gypsy punk	0.0266	0.476	0.0	0.247	138.19	0.836	0.932
+5zReRsuM2MQDguzKBMXL0M	Gogol Bordello	Supertheory of Supereverything	USA6G0733404	36	gypsy punk	0.14	0.629	0.0	0.098	105.352	0.837	0.764
+6K0DKp1j6tqfbPes5rkS2n	Gogol Bordello	Alcohol	USA6G0733410	37	gypsy punk	0.0461	0.49	1.35e-05	0.0362	109.035	0.612	0.593
+67Z74ioeS28VAH3dVFcLDF	Gogol Bordello	American Wedding	USA6G0733413	38	gypsy punk	0.0718	0.527	0.00057	0.117	122.649	0.708	0.869
+3g810mk3CoE2PyfgCTUfch	Gogol Bordello	Mishto	USA6G0527115	40	gypsy punk	0.00384	0.513	0.00324	0.0434	115.061	0.802	0.732
+0owzIDcUYHXu7YHnLjT1gA	Gogol Bordello	Not A Crime	USA6G0527103	41	gypsy punk	0.000839	0.372	0.0	0.109	138.215	0.682	0.903
+0d4HfseKyOSZvX5EQoLnTz	Gogol Bordello	Through the Roof 'n' Underground	GBCEJ1700502	43	gypsy punk	0.569	0.467	6.94e-05	0.0335	98.59	0.73	0.386
+2dJWClJj5lz9XF5ipVylNX	Gogol Bordello	Wonderlust King	USA6G0733402	46	gypsy punk	0.0195	0.577	0.0	0.167	135.006	0.588	0.904
+2yn7MpYBdqhNSnN6lQCLaa	Gogol Bordello	Start Wearing Purple	USA6G0527109	50	gypsy punk	0.197	0.622	0.0	0.048	98.211	0.818	0.77
+3Xci1c096KD2T1A3rHBGYa	Flying Lotus,Devin Tracy	The Room	GBBPW2200086	49	afrofuturism,alternative hip hop,electronica,escape room,experimental hip hop,glitch,glitch hop,hip hop,intelligent dance music,jazztronica,psychedelic hip hop,wonky	0.179	0.348	0.0181	0.0421	212.276	0.0729	0.595
+4QUzLCXrpHO4c6dGyZlpO2	FKA twigs	killer	USAT22205706	63	afrofuturism,art pop,dance pop,escape room,experimental r&b,pop,trip hop	0.168	0.401	0.0	0.21	78.763	0.757	0.619
+5CrlTDGXntzNChfVDW2Gbq	black midi	Eat Men Eat	GBCVZ2200019	49	art pop,noise rock,uk noise rock,uk post-punk revival	0.112	0.351	0.00147	0.109	131.926	0.406	0.937
+6RoqsFf56tBqB0TKhfZI1m	Serengeti	Sufjan Dennehy	QZK6N2219563	27	abstract hip hop,chicago rap	0.00607	0.678	9.93e-05	0.147	92.629	0.49	0.855
+1eNcqUpF7DBhN0edqTMuIa	Lisa O'Neill	All the Tired Horses	GBCVZ2200140	51	irish singer-songwriter	0.895	0.334	0.00886	0.0363	102.34	0.128	0.206
+1kBM7AURqQTIXFePNVpEwP	Jack White	Love Is Blindness	USSM11201952	56	alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock	0.0513	0.266	0.00426	0.0788	48.578	0.5	0.74
+6sOCmuWkp0anAqgfLqzNjH	Nick Cave & The Bad Seeds	Loverman - 2011 Remastered Version	GBAJH1000619	44	permanent wave	0.000849	0.279	0.0602	0.0371	138.823	0.389	0.49
+6MIo2NS5cx125JqauDiFvP	The White Stripes	When I Hear My Name	USVT10200089	40	alternative rock,blues rock,detroit rock,garage rock,modern blues rock,modern rock,permanent wave,punk blues,rock	0.0747	0.339	0.0161	0.35	151.889	0.423	0.941
+0qHeP8zt2WWef7EWCs1ECj	Nick Cave & The Bad Seeds	Red Right Hand - 2011 Remastered Version	GBAJH1000621	64	permanent wave	0.139	0.735	0.473	0.037	115.658	0.453	0.403
+4PtZE0h5oyPhCtPjg3NeYQ	Alice In Chains	No Excuses	USSM19303748	63	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.0206	0.527	0.00062	0.0323	117.454	0.721	0.838
+5Ds35L9KpUDKgSxZ6whuoQ	Alice In Chains	We Die Young	USSM19000767	61	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	1.79e-05	0.486	0.000103	0.0704	125.816	0.525	0.938
+1DCdIWCE5UFiObCsTSpKFv	Alice In Chains	Heaven Beside You	USSM19501775	62	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.00451	0.551	0.000167	0.032	111.243	0.559	0.724
+4A065x9kJt955eGVqf813g	Alice In Chains	Them Bones	USSM19200799	67	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.0235	0.159	8.06e-06	0.0629	165.014	0.309	0.946
+2JuasWPUodaUxf5nwNpciQ	Alice In Chains	Nutshell	USSM10025671	70	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.373	0.384	0.253	0.0296	136.136	0.159	0.561
+0wvIGFIgbyz4JNwQhZgTv2	Alice In Chains	Rooster	USSM19200881	70	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.0307	0.271	0.000581	0.0272	143.899	0.2	0.551
+5sFDReWLrZHLFZFjHsjUTS	Alice In Chains	Would?	USSM19200805	72	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.000327	0.305	2.36e-05	0.0398	100.675	0.586	0.833
+7CH99b2i1TXS5P8UUyWtnM	Thundercat	Them Changes	US25X1090547	71	afrofuturism	0.54	0.657	0.00143	0.0601	81.657	0.704	0.562
+0XJDu1HWODZ31FOCWVM1eN	Luís Severo	Planície (Tudo Igual)	PT9EY1700042	32	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.201	0.456	0.0	0.0439	176.092	0.539	0.67
+73V9171ccY44sOI6aaiddt	Filipe Sambado	Deixem Lá	PTNS11800007	22	portuguese indie	0.0355	0.358	0.0257	0.0437	78.83	0.437	0.822
+3DhB22YgtRstMdxIx43MBy	Dead Combo	A Bunch Of Meninos	PTUM71400079	18	fado instrumental,portuguese indie	0.0436	0.66	0.944	0.0402	117.571	0.591	0.777
+40DQ91LALgjBAhVOgLK6pa	Diabo Na Cruz	Vida de Estrada	PT0CK1400012	33	portuguese rock	0.0225	0.511	1.8e-05	0.067	166.04	0.768	0.803
+0wcsaDy7wW1Y9XFcrISPKT	José Pinhal	Covarde	ESA011777370	6		0.816	0.789	1.59e-06	0.197	101.409	0.805	0.481
+11ajcVj3qSyyMPUpTJUP3y	System Of A Down	Protect The Land	USSM12006538	63	alternative metal,nu metal,rap metal,rock	9.2e-05	0.432	4.74e-05	0.0341	76.04	0.248	0.886
+7sZTvm0Sx8umbyQViTE2Qc	Lordi	Hard Rock Hallelujah	FIBAR0500287	56	comic metal,finnish hard rock,finnish heavy metal,lapland metal,metal,power metal	0.000236	0.557	0.0503	0.0528	123.026	0.56	0.947
+7j43FohbLVulScL7S9sQZk	Rammstein	Ausländer	DEUM71900527	70	alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte	0.000757	0.681	0.00136	0.0912	125.031	0.479	0.912
+53KFMdxzi8IJDewiql1Qo3	Vampire Weekend,Steve Lacy	Sunflower (feat. Steve Lacy)	USSM11900149	57	baroque pop,indie rock,modern rock	0.406	0.863	0.00824	0.0567	100.03	0.932	0.576
+1CZw0Lymzi2Lvy1XZ6rXh5	Vampire Weekend	Oxford Comma	GBBKS0700526	55	baroque pop,indie rock,modern rock	0.111	0.692	0.00123	0.0498	119.902	0.973	0.717
+4cYZRebfwTsVNERxTm29Rb	Vampire Weekend	Holiday	GBBKS0900319	48	baroque pop,indie rock,modern rock	0.023	0.715	0.000732	0.105	155.827	0.891	0.769
+607EA1HsuzrqqaPuxyNqpD	Vampire Weekend	Step	GBBKS1300003	59	baroque pop,indie rock,modern rock	0.605	0.621	8.28e-06	0.102	78.022	0.609	0.713
+51DZ0wUocQ8sQfjnibXVcD	Vampire Weekend	Unbelievers	GBBKS1300002	59	baroque pop,indie rock,modern rock	0.149	0.644	0.000473	0.0517	154.909	0.817	0.811
+39exKIvycQDgs4T6uXdyu0	Vampire Weekend	Harmony Hall	USSM11900111	61	baroque pop,indie rock,modern rock	0.475	0.653	0.000129	0.0479	98.008	0.6	0.76
+4dRqYKhLVujxiBXcq50YzG	Vampire Weekend	This Life	USSM11900141	63	baroque pop,indie rock,modern rock	0.228	0.62	3.39e-06	0.1	170.234	0.83	0.712
+5dUFfk2cwD8GiJPS03mYN0	Vampire Weekend	Campus	GBBKS0700530	64	baroque pop,indie rock,modern rock	0.22	0.639	0.0872	0.0659	162.983	0.645	0.704
+2DrGEaqoruCSn0FffWCf5O	Vampire Weekend	A-Punk	GBBKS0700527	69	baroque pop,indie rock,modern rock	0.0103	0.551	0.0437	0.0525	174.917	0.846	0.819
+0iTpQYzJnYgh7kIxyq8A2O	Grizzly Bear	Two Weeks	GBBPW0900065	71	alternative dance,alternative rock,art pop,baroque pop,brooklyn indie,chillwave,dream pop,indie pop,indie rock,modern rock,new weird america,stomp and holler	0.289	0.537	0.00568	0.0286	159.871	0.704	0.712
+6eIJp4adBYxBGhUvqBkozn	Miguel Araújo	Os maridos das outras	PTKE11200019	39	portuguese pop,portuguese rock	0.352	0.776	0.0	0.0414	128.164	0.88	0.379
+2usrT8QIbIk9y0NEtQwS4j	The xx	Intro	GBBKS0900196	72	downtempo,dream pop,indietronica	0.459	0.617	0.925	0.027	100.363	0.152	0.778
+4WMuY659P2MKnoW40oGXe8	Portugal. The Man	Purple Yellow Red and Blue	USAT21300539	56	modern alternative rock,modern rock,rock	0.0351	0.601	0.331	0.0397	101.003	0.431	0.859
+1QdVBJ9kq79v4Rx8YioSj6	Foge Foge Bandido	Borboleta	GBKPL1561423	33	portuguese indie,portuguese rock	0.469	0.727	0.0127	0.0329	141.989	0.88	0.601
+52CwDGRLe2wwKQGy7VC7Zu	The Black Keys	Baby I'm Coming Home	USNO12200041	56	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0146	0.234	0.00307	0.0403	174.571	0.32	0.701
+3BQHpFgAp4l80e1XslIjNI	The Beatles	Yesterday - Remastered 2009	GBAYE0601477	75	beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock	0.879	0.332	0.0	0.0326	96.529	0.315	0.179
+0GD1RP6CWeFtG7zw6J8LKL	B Fachada	Afro-Xula	PTKQ11200022	21	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.00869	0.635	1.4e-05	0.0369	93.012	0.732	0.703
+6GyFP1nfCDB8lbD2bG0Hq9	M83	Midnight City	GB55H1100002	77	french shoegaze,french synthpop,indietronica,metropopolis,neo-synthpop	0.0182	0.507	1.4e-06	0.0393	105.013	0.272	0.729
+4LwMMiP3Xhrx1fifcJDaYY	Sean Riley	Times	PT9EN1800004	6		0.731	0.635	4.08e-05	0.0394	119.635	0.338	0.316
+6Jwqjv8ksJd4N1dzrfMRiD	Cassete Pirata	Ferro e Brasa	PT4FG2000005	27	portuguese indie,portuguese jazz	0.0518	0.543	0.0499	0.0302	135.016	0.606	0.888
+4LiSXw8550M0SCQK03D65g	B Fachada	É Normal	PTKQ11200025	21	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.238	0.766	0.754	0.0555	123.988	0.879	0.495
+0xo66vPjkUwE8HgPkpJYxE	Fausto	Por Este Rio Acima	PTSM18400010	21	classic portuguese pop,fado,musica de intervencao	0.434	0.525	5.22e-05	0.0362	115.714	0.625	0.524
+4utoXvhzZBIrsDKOEtApSl	Marcelo Camelo	Janta	BRZE50800014	50	brazilian indie,mpb,nova mpb	0.899	0.457	1.1e-06	0.0342	99.686	0.195	0.222
+4fNtMdGY2dYp2ODClA9CB4	The Black Keys	It Ain't Over	USNO12200034	61	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.0317	0.756	2.02e-06	0.0355	119.974	0.513	0.555
+52AX5ShoQxX1WRBWWqm0vI	Sean Riley & The Slowriders	Love Life	PT9EN2000004	30	portuguese indie,portuguese rock	0.223	0.562	0.926	0.0339	138.033	0.538	0.872
+0gi6ZGy8BeQWChpuLtPUHr	PZ	Croquetes	PTMD10402906	23	portuguese indie,rap portuense	0.177	0.836	0.676	0.0499	100.005	0.333	0.408
+5Z6Coz5PaL1sZlyvupYCpf	Luta Livre	Pedigree	PT2JQ2000009	13		0.00537	0.53	9.46e-06	0.164	137.293	0.534	0.861
+6Bw6ktQ2IlBuQweyRoHzqm	José Afonso	Cantigas Do Maio	PT7CG2100524	16	musica de intervencao,portuguese folk,portuguese jazz	0.885	0.604	0.0	0.0376	121.209	0.425	0.144
+67mD3hi30De52ko58JLprz	B Fachada	Camuflado	PTKQ11400001	11	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0864	0.328	0.0	0.0613	115.924	0.784	0.629
+1B0BQaSRHxhI0AUlItY3LK	ROSALÍA	MALAMENTE - Cap.1: Augurio	ES5021800275	67	r&b en espanol	0.549	0.893	0.0164	0.0873	97.975	0.53	0.482
+22auw1DYQlYh5XgKv5FtNx	First Aid Kit	Emmylou	GBDNH1100097	58	stomp and holler,swedish americana,swedish country	0.47	0.494	0.000135	0.0297	88.394	0.39	0.616
+4mvb2QrG9ea14U9BQ8U9Q0	Chico Buarque	Tanto Mar	BRPGD7800001	35	bossa nova,fado,mpb,tropicalia	0.645	0.427	2.68e-05	0.0603	180.328	0.885	0.504
+5UPHeuDP0AnG830Yf3bJJD	Lana Del Rey	Coachella - Woodstock In My Mind	GBUM71702139	55	art pop,pop	0.189	0.535	4.11e-05	0.0998	129.835	0.413	0.658
+73nNXl2PZ1Z6j2pbfl8N8R	Ornatos Violeta	Ouvi Dizer	PTUM19900074	46	portuguese rock	0.485	0.526	0.0	0.0261	82.021	0.384	0.54
+5Uou8idst1XJc0F6MRAk5S	The War On Drugs,Lucius	I Don't Live Here Anymore (feat. Lucius)	USAT22102101	59	indie rock,philly indie	0.00327	0.476	3.42e-06	0.037	110.026	0.466	0.867
+3ODV8hlwa7eLVuPMskWnQi	The Black Keys	Didn't I Love You	USNO12200042	58	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.00213	0.5	0.0135	0.0258	107.813	0.392	0.672
+11VwZwNF29HrqwalYUMitb	The Velvet Underground	Pale Blue Eyes	USPR36909016	64	alternative rock,art rock,classic rock,folk rock,melancholia,permanent wave,protopunk,psychedelic rock,rock	0.911	0.637	0.00146	0.0349	82.879	0.296	0.107
+0yc6Gst2xkRu0eMLeRMGCX	Cigarettes After Sex	Apocalypse	USBQU1700034	79	ambient pop,dream pop,el paso indie,shoegaze	0.0205	0.37	0.572	0.0273	94.485	0.182	0.467
+2Zw3HNjaNV42LnQ2uY5JQs	Beach House	Myth	GBBRP1233401	57	baltimore indie,dream pop,dreamo,modern dream pop	0.0336	0.445	0.116	0.0292	141.954	0.409	0.704
+2DSeCIdLFJNNhlcOXGrWIk	The Lumineers	Gale Song	USDMG1673807	53	folk-pop,stomp and holler	0.761	0.357	0.000132	0.0302	176.53	0.181	0.326
+5eeaUZWzQXpBlbkiq4pm5l	Dan Auerbach	Goin' Home	USNO10807896	51	alternative rock,funk,garage rock,indie folk,modern blues rock,modern rock,new americana,rock,roots rock,stomp and holler	0.371	0.415	0.00545	0.0347	136.065	0.305	0.295
+6t1ahr2f1t9iSjjNFwFb4C	Tash Sultana	Jungle	AUBEC1601210	66	australian reggae fusion	0.285	0.589	8.11e-05	0.0291	145.997	0.496	0.699
+0NlGoUyOJSuSHmngoibVAs	Kodaline	All I Want	GBDVX1200008	81	irish pop,modern rock,pop,pop rock	0.174	0.188	0.153	0.0484	187.376	0.159	0.411
+3HyOBhfDDsasSLwin3UgjF	alt-J	Tessellate	GBZUZ1200066	52	indie rock	0.364	0.702	0.0271	0.0405	116.969	0.436	0.607
+0RzIBj9u73vIo82NyHZDi8	The Black Keys	Remember When (Side A)	USNO10750899	34	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.908	0.327	0.184	0.0364	172.724	0.145	0.486
+4nvLuqwTOZdEJI1fcHXv8h	Cigarettes After Sex	You're All I Want	USBQU1900259	66	ambient pop,dream pop,el paso indie,shoegaze	0.363	0.233	0.828	0.0294	182.161	0.277	0.471
+3p4hRhMcb6ch8OLtATMaLw	Cigarettes After Sex	Cry	USBQU1900121	69	ambient pop,dream pop,el paso indie,shoegaze	0.756	0.406	0.678	0.0278	142.83	0.163	0.399
+6ilc4vQcwMPlvAHFfsTGng	Cigarettes After Sex	Sweet	USBQU1700036	71	ambient pop,dream pop,el paso indie,shoegaze	0.353	0.45	0.766	0.0276	96.563	0.115	0.511
+1FWsomP9StpCcXNWmJk8Cl	Cigarettes After Sex	K.	USBQU1600214	74	ambient pop,dream pop,el paso indie,shoegaze	0.139	0.454	0.846	0.0265	93.719	0.327	0.4
+0SpkyS1Q4MD8GaVcP5YjT4	Cigarettes After Sex	Sunsetz	USBQU1700033	75	ambient pop,dream pop,el paso indie,shoegaze	0.0527	0.405	0.795	0.0301	75.37	0.131	0.479
+1kqc6U8hVYZhY0gFGQclCz	girl in red	girls	GBLFP1858237	78	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.227	0.515	0.0357	0.0337	149.966	0.792	0.449
+3h3pOvw6hjOvZxRUseB7h9	girl in red	i wanna be your girlfriend	GBLFP1815318	79	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.0217	0.54	0.000687	0.0347	155.882	0.343	0.381
+1BYZxKSf0aTxp8ZFoeyM3d	girl in red	we fell in love in october	GBKPL1828677	83	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.113	0.566	0.181	0.028	129.959	0.237	0.366
+5Z44a85UimHV4YLwIFGhvA	Os Golpes,Rui Pregal da Cunha	Vá lá senhora	PTPA11000001	36	portuguese rock	0.028	0.512	0.000121	0.04	141.942	0.661	0.766
+5IOsDj7BzvozWmzzFy9LVg	Joana Espadinha	Leva-me a dançar	PTNS11800002	28	musica portuguesa contemporanea	0.107	0.714	0.00443	0.0359	129.942	0.567	0.772
+0g4uhME3elHUDPEAPXlFbU	Manel Cruz	Ainda Não Acabei	GBKPL1787944	17	portuguese indie	0.729	0.828	0.0	0.0482	90.365	0.926	0.527
+3owmcpdCchGm1wuYH1xZxl	Salvador Sobral	Mano a Mano	PT4FA1800001	26	portuguese pop	0.494	0.408	0.00127	0.0397	138.971	0.244	0.494
+6OAIU1HEErLyyP0TEgLAtw	Ciclo Preparatório	Lena Del Rey	ES71G1726572	28	portuguese indie,portuguese indie rock,portuguese rock	0.62	0.571	1.2e-05	0.0399	121.989	0.686	0.717
+6NeHWptk1aajT6Yrndktj8	José Pinhal	Tu Es a Que Quero (Tu Não Prendas o Cabelo)	ESA011773555	4		0.864	0.679	0.000188	0.232	141.544	0.807	0.513
+3UjSOJ00E1eLMcayBm827Q	Salvador Sobral	Amar Pelos Dois	PTNO11700001	53	portuguese pop	0.853	0.215	0.00426	0.0358	172.692	0.16	0.0952
+0cyyAL0tfQXWfbIl36nhBK	Noiserv	Vinte e Três	PT0FY1600006	23	portuguese indie	0.971	0.746	0.917	0.0415	114.02	0.2	0.0545
+7ybmDcZMQhv8JdPEQoe48i	Ornatos Violeta	Dia Mau	PTUM19900082	38	portuguese rock	0.216	0.599	0.0	0.0358	82.997	0.656	0.851
+23qBJ87VLVBM39LVEzAtJ4	Taxi	Cairo	PTAB18202027	34	punk tuga	0.0104	0.377	0.0161	0.0462	194.624	0.469	0.86
+77fZH201LTVTZ5sm7M2nO6	Gimba	Vá Lá!!	PT1CA1800002	9		0.381	0.675	0.0	0.125	101.092	0.642	0.851
+3EKHZhH9oZExuu4MEhM5f2	Diabo Na Cruz	Ganhar o Dia	PT0CK1400003	28	portuguese rock	0.207	0.702	0.0	0.0631	101.388	0.901	0.86
+78KOwEZXibZSrEtRzByt3X	Doismileoito	Quinta-feira	PTEM11100041	33	portuguese indie,portuguese indie rock,portuguese rock	0.478	0.768	7.73e-06	0.0262	104.095	0.965	0.692
+14Ce1qC5EqHkIlzC7onttG	Janeiro	Solidão	PTOFA1800039	33	portuguese indie	0.363	0.7	0.417	0.164	109.396	0.516	0.478
+24RCkvH3OnS1Qu6FURiPEy	Valter Lobo	Fora do Coração	ES71G1632163	7	portuguese indie	0.541	0.378	2.72e-06	0.036	80.47	0.653	0.572
+2JtavmnE74r8PxG2Lw23sa	Sebastião Antunes & Quadrilha,Galandum Galundaina,Luis Peixoto	Cantiga da Burra	QM4TW1679014	38	portuguese folk	0.0624	0.723	0.00021	0.0736	141.476	0.71	0.54
+7zfCN7rpxvsbgCupyVrSJv	Xutos & Pontapés	O Homem Do Leme - Live	PTAB19501026	38	portuguese rock,punk tuga	0.781	0.357	0.0	0.0445	178.937	0.321	0.294
+4DEyBpSxPLV2DEUdErP6BT	Miguel Araújo,Inês Viterbo	Balada astral (Com Inês Viterbo)	PT4CG1400001	37	portuguese pop,portuguese rock	0.602	0.592	0.0	0.0252	103.957	0.558	0.355
+2snUtND4e6fDBRx9v71NqD	João Gil	Loucos de Lisboa	PT6GJ1700030	21		0.552	0.605	0.0703	0.0287	109.867	0.453	0.557
+65Hu4Kla8DasPw97XJmN7C	Ganso	O Que Há por Cá	PT9EY1700049	22	portuguese indie,portuguese indie rock,portuguese rock	0.569	0.502	0.238	0.0252	102.034	0.501	0.532
+4JAtGFePE7U9P6eDHfI47f	UHF	Rua do Carmo	PTVC18100030	33	portuguese rock,punk tuga	0.147	0.606	0.000259	0.0356	90.807	0.689	0.825
+7F8BPnAIEjzpIdOSn3iee8	Trêsporcento	Cascatas	PT2A01220002	15	portuguese indie,portuguese indie rock	0.0335	0.459	0.708	0.0298	154.0	0.647	0.788
+4bZef4PB03bdQRhChCgwF0	Benjamim	Incógnito	PT6IZ2000011	22	portuguese indie	0.00213	0.686	0.003	0.0614	106.003	0.857	0.726
+4RWevsr8CBggG5bjjlFc3S	Samuel Uria	Fusão	PTNS11800048	17	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0793	0.617	1.05e-05	0.028	90.053	0.819	0.671
+0ZTonEYI8SWzRzqvxC20SZ	Tiago Bettencourt	Morena	PTUM71400200	39	portuguese indie,portuguese rock	0.119	0.609	0.0	0.0435	105.009	0.627	0.73
+33nvHJKorHG3uTqnQexpJ4	Sétima Legião	Por quem não esqueci	PTEM11200030	37	portuguese rock	0.0031	0.568	0.274	0.0301	120.079	0.605	0.733
+0URc05SpfMEUd4kLnvTldD	B Fachada	O Anti-Fado	PTKQ12000008	25	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0699	0.51	0.00643	0.0594	87.979	0.666	0.784
+6njZmuLFs2DVQva2t8lm2K	Virgem Suta	Linhas Cruzadas	PTUM70900110	38	portuguese rock	0.668	0.757	0.0	0.0384	115.981	0.532	0.609
+7hrVAcNWHuPUq0ofDMTqoE	S. PEDRO	Passarinhos	PTNS11900025	26	portuguese indie	0.167	0.659	0.000899	0.0574	179.764	0.811	0.582
+4cJ5FLBkcEakrYmqKVKgkJ	Glockenwise	Moderno	PTNS11800054	16	portuguese indie,portuguese indie rock	0.0161	0.436	0.0437	0.0277	165.07	0.746	0.738
+29bhnde7Gvnp7rvY9zsq5S	Go_A	SHUM	QM4TX2159313	69	eurovision	0.05	0.527	7.89e-05	0.0638	117.657	0.503	0.736
+4O0LQKVT6hGmVGNwizmydg	Daði Freyr	10 Years	GBKPL2144231	61	icelandic pop,sunnlensk tonlist	0.0141	0.798	0.000148	0.0391	123.038	0.443	0.621
+4lnfgbhwV7i2zJ0PqqwhBw	TFIST	O Meu Coração Não Tem Cor	GBSMU2583278	13	tuna	0.182	0.442	0.0	0.332	169.195	0.893	0.821
+4LmSxJVbKgclgUXcwZEisI	Lordi	Hard Rock Hallelujah - Eurovicious Radio Edit	FIBAR0600011	46	comic metal,finnish hard rock,finnish heavy metal,lapland metal,metal,power metal	0.000798	0.596	0.0153	0.0385	122.999	0.744	0.961
+62WkgAUGyHe9sukQHVkXjT	Doce	Bem Bom	PTAB19400319	37	classic portuguese pop	0.00489	0.827	0.624	0.102	106.04	0.769	0.713
+4S4Amrpr631M16IIXqRk73	MARO	saudade, saudade	PTUM72100760	72	musica portuguesa contemporanea	0.681	0.644	0.000208	0.0357	82.992	0.376	0.337
+5TXxwRgdIS4gPjUtKwTuSb	THE ROOP	On Fire	QZFYX2071398	44	eurovision,lithuanian pop,lithuanian rock	0.279	0.72	0.0	0.217	122.026	0.467	0.738
+2UjNsh4ipNrmog6wdS2JVv	Lena	Satellite	DEUM71001210	63	eurovision,german pop	0.204	0.68	0.0	0.238	94.928	0.924	0.857
+2iRniYXjMHKmwXqA2jYXP7	Daði Freyr	Think About Things	ISV442020901	67	icelandic pop,sunnlensk tonlist	0.0311	0.871	0.000124	0.0576	127.001	0.612	0.341
+6Aj4aFFUNpLdanLlxIJ2v5	Vânia Fernandes	Senhora Do Mar (Negras Águas)	PTCA10800001	27	eurovision	0.65	0.435	0.0	0.0367	69.943	0.329	0.589
+1uAOCTevGnyKIDbgZdOCnE	Barbara Pravi	Voilà	FRUM72001645	64	eurovision,nouvelle chanson francaise	0.773	0.447	0.0	0.0631	135.379	0.603	0.337
+1JaOUMmaSZlWfONvT4HTlg	Konstrakta	In corpore sano	RSA042200033	69		0.00641	0.922	1.47e-05	0.0841	135.944	0.629	0.705
+5FVNpPC0H4fVc4FJin5vBg	Tanxugueiras	Terra	USA2P2152696	59	galician folk	0.014	0.566	0.0408	0.0653	69.963	0.175	0.692
+1Xi84slp6FryDSCbzq4UCD	Duncan Laurence	Arcade	NL1TK1900001	81	dutch pop	0.818	0.45	0.00109	0.0441	71.884	0.266	0.329
+7dMOzsTZOUtOF7W5kLN0gf	THE ROOP	Discoteque	FIWMA2100003	55	eurovision,lithuanian pop,lithuanian rock	0.0477	0.826	0.00206	0.0594	115.004	0.628	0.799
+6funCK6yFDM0YzcfxJJBcp	Conan Osíris	TELEMOVEIS	PT8HG1900001	36	deconstructed club,portuguese pop	0.622	0.714	0.0319	0.055	123.086	0.239	0.365
+2nxTpjhxLXeyBOxYnRnT76	Jamala	1944	QMPU51509675	54	eurovision,tatar pop,ukrainian indie,ukrainian pop,ukrainian rock	0.596	0.809	0.00728	0.0565	120.012	0.47	0.506
+4ciaNqHWA2IzHphZaVRzHI	Måns Zelmerlöw	Heroes	SEPQA1401135	60	europop,eurovision,swedish idol pop,swedish pop	0.0743	0.484	0.0	0.0437	124.008	0.369	0.791
+1lWWoec2z1j88GRblI5anV	Måneskin	ZITTI E BUONI	ITB002100112	66	indie rock italiano,italian pop	0.0014	0.62	0.0	0.0863	103.024	0.592	0.944
+508BVVNeDCgoI6fFagSrez	Suzy	Quero Ser Tua	PTBM11400018	29		0.144	0.741	0.00123	0.046	130.007	0.922	0.92
+7fUlEgQytIcVr9tu20hv89	The Black Mamba	Love Is On My Side	PT7IC1900013	41	portuguese rock	0.338	0.285	3.26e-06	0.0286	66.355	0.244	0.419
+2qG5sZ7Si6sdK74qLxedYM	ROSALÍA,J Balvin,El Guincho	Con Altura	USSM11900950	75	r&b en espanol	0.39	0.882	0.00325	0.124	97.963	0.746	0.689
+5BkNCuxzzid0gz9sx3NNbX	First Aid Kit	My Silver Lining	USSM11401643	62	stomp and holler,swedish americana,swedish country	0.026	0.479	0.000129	0.0335	101.938	0.43	0.725
+2FYGZDfsAnNsrm1gVbyKnG	ROSALÍA	SAOKO	USSM12109218	77	r&b en espanol	0.79	0.827	2.45e-05	0.265	99.988	0.734	0.768
+2wWFk93Ng7uMKRQwEz10UE	B Fachada	Como Calha	PTKQ11200024	32	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.13	0.511	0.653	0.0321	159.868	0.863	0.715
+2MkK2gR0uoAAnct58fu1d7	alt-J	Hard Drive Gold	GB5KW2102485	56	indie rock	0.0858	0.67	2.1e-05	0.0389	144.272	0.684	0.853
+02bJ6uGeHKfNOhIc9qyA8e	The Black Keys	Wild Child	USNO12200033	66	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.017	0.68	5.09e-06	0.0278	106.991	0.957	0.639
+7orTJD8x5vcW9bW2Yswqey	Grupo Coral de Cantares Regionais de Portel	Senhora Cegonha	PTOV10300176	11	cante alentejano,folclore portugues	0.553	0.637	0.0	0.0294	97.261	0.745	0.509
+70AYiGbc4mWZGEqiipBBDb	ROSALÍA	CANDY	USSM12109219	78	r&b en espanol	0.885	0.638	0.0116	0.226	179.905	0.403	0.49
+7EwNGHfCswoh3Vp4K3uDwf	First Aid Kit	Wolf	GBDNH1100143	31	stomp and holler,swedish americana,swedish country	0.0543	0.522	0.000917	0.0422	102.075	0.391	0.744
+3bZy4mfepri8X7JIdhCj5L	Clara Nunes	Feira De Mangaio	BREMI7100144	57	bossa nova,mpb,pagode,samba,umbanda,velha guarda	0.15	0.74	2.08e-06	0.046	105.477	0.958	0.913
+4urIUktF6jtKJhvjFU5hwy	Tim Bernardes	BB (Garupa de Moto Amarela)	BR73M2200003	34	nova mpb	0.788	0.482	4.43e-05	0.0383	83.081	0.322	0.137
+4215lJTemWhVIkb47BMTwZ	Tim Bernardes	Última Vez	BR73M2200010	36	nova mpb	0.87	0.484	8.7e-06	0.13	79.144	0.382	0.236
+717ng7bkRhm36YIE8FLZdY	Armando Gama,Valentina	Esta Balada Que Te Dou	PTES19802604	16		0.788	0.531	0.00115	0.0331	143.988	0.196	0.327
+4UPyr3Tep8idtAmisAu1qs	Francesco Gabbani	Occidentali's Karma - Radio Edit	ITDV91600040	47	italian adult pop,italian pop	0.0424	0.669	3.89e-06	0.075	114.046	0.582	0.832
+7uQ7e7nzbtyX87eIYHpj6Z	S10	De Diepte	NLG662200040	78	dutch pop	0.378	0.502	3.44e-05	0.0282	90.043	0.159	0.397
+3Dy4REq8O09IlgiwuHQ3sk	ABBA	Waterloo	SEAYD7415010	74	europop,swedish pop	0.395	0.445	8.18e-06	0.0471	147.604	0.653	0.949
+5SsmNJYrI5MZ9d4nc3hDPE	Various Artists	Conquistador	PTIP11000178	23		0.0196	0.602	0.0	0.05	137.029	0.521	0.661
+43UejonUIN69O8NNAFRu5X	Alvan,Ahez	Fulenn	FR9W12204047	64	eurovision,new french touch	0.0127	0.742	3.41e-06	0.116	120.036	0.48	0.837
+1xN7BpTAWnZkuSLOtRP6Qc	Loreen	Euphoria - Single Version	SEPQA1200005	59	electropop,europop,eurovision,swedish pop	0.135	0.562	1.44e-05	0.0428	132.06	0.391	0.783
+6ofMKJjMpfDEb48JYEAgjX	Will Ferrell,My Marianne	Husavik (My Hometown)	QZ8BZ2000239	61		0.523	0.509	0.0	0.0335	133.016	0.291	0.46
+0kyYQdmwp7cIRWPaJPQ7Ud	B Fachada	Memórias de Paco Forcado #2	PTKQ12000012	13	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0929	0.49	0.502	0.0523	181.978	0.825	0.939
+2YDwGTRviJ05ZaNWEGB3eD	B Fachada	Mínima Atenção	PTKQ12000011	15	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0382	0.664	0.167	0.0445	109.987	0.497	0.643
+6hoZwRmLHvUMdQDZGY43Mq	Gjon's Tears	Tout l'univers	FR7S02100060	60	eurovision	0.83	0.524	2.04e-06	0.0332	123.461	0.191	0.371
+7FBVoh8ndvnPubwdTjvsAK	Fred Buscaglione	Buona sera (Signorina)	ITD010002877	42	classic italian pop,swing italiano	0.812	0.568	0.0	0.116	119.311	0.834	0.552
+3eAjS25afRXGFSyjPQo7l2	Fabrizio De André	Bocca di rosa	ITB007070538	52	canzone d'autore,canzone genovese,classic italian pop,folk rock italiano,italian adult pop,musica sarda	0.902	0.696	0.0	0.61	118.317	0.881	0.284
+0rHIXD2GmjixirvBfTUV2b	Domenico Modugno	Vecchio frack	ITB005500395	44	classic italian pop,italian adult pop	0.86	0.634	0.0	0.0736	133.338	0.246	0.111
+5ez6STfeeuCyahjmGFmudi	Renato Carosone	Tu vuo' fa l'americano	ES5271003701	44	canzone napoletana,classic italian pop,swing italiano	0.717	0.815	0.0	0.215	92.747	0.855	0.372
+0wb7fId5ZEBjLdkJrylwPD	Giorgio Gaber	La Ballata Del Cerutti	ITB006170501	38	canzone d'autore,classic italian pop,folk rock italiano,italian adult pop,italian alternative,musica lombarda	0.773	0.799	0.0	0.0656	123.691	0.872	0.466
+2ck1aAiwnFsjPXIet6m7Fu	Quartetto Cetra	Ba-ba-baciami piccina	ITD015303242	34	swing italiano	0.8	0.748	0.0	0.227	82.376	0.857	0.307
+0i4mLwfyxnSSgF6hwIkU2L	Fabrizio De André	Il pescatore	ITB007071662	53	canzone d'autore,canzone genovese,classic italian pop,folk rock italiano,italian adult pop,musica sarda	0.773	0.405	0.0	0.0485	73.658	0.864	0.411
+4kS2lgwkkh3RFMXlSI8bIQ	Jack Jezzro	That's Amore	QMQME1200228	51	adult standards	0.901	0.323	0.69	0.0387	162.723	0.385	0.315
+6OIZN7iSLdw6ml70zRlAUu	Edoardo Vianello	Abbronzatissima	ITB008700449	53	classic italian pop,italian adult pop	0.523	0.724	0.0	0.0475	127.845	0.65	0.515
+71zhmbFDlvzMHyIUbVwp3D	Nino Manfredi,Manuel De Sica,Aldo Fabrizi,Lando Fiorini,Bice Valori,Ornella Vanoni	Roma Nun Fà La Stupida Stasera	ITB000200350	34	classic italian pop	0.972	0.189	0.079	0.0395	78.189	0.123	0.322
+5cnBqPh3jlnKCsYi3BeBsQ	Edoardo Vianello	Guarda Come Dondolo	ITB006200661	46	classic italian pop,italian adult pop	0.712	0.491	0.0	0.0538	177.032	0.961	0.645
+1n0A9T7HCglqKLHqnpFbeu	Adriano Celentano	Il tuo bacio è come un rock	FR6V81174138	19	classic italian pop,italian adult pop	0.669	0.625	0.0	0.0429	113.578	0.959	0.8
+3ZqL7rtfHLxWk7PQnZv7hH	Nino Manfredi	Tanto pè cantà	ITB000200456	47	classic italian pop	0.739	0.476	0.0	0.0324	123.841	0.726	0.496
+7lHyP7xQh90G6oX1OUlxdV	Adriano Celentano	24.000 baci	DEKB71599763	44	classic italian pop,italian adult pop	0.66	0.398	0.0	0.0507	77.997	0.686	0.394
+37GcHCEn5efnTkgKxYZOb2	Roberto Alagna	C'e la luna mezzo mare	FRUM70801593	44	classical tenor,folk siciliana,italian tenor,opera,operatic pop	0.724	0.857	0.0	0.0481	140.23	0.972	0.774
+1ywtKy8trrBO38dUh4Mvrh	Gianni Morandi	Andavo a cento all'ora	DETL61605972	40	classic italian pop,italian adult pop	0.42	0.327	2.8e-05	0.0402	84.394	0.66	0.869
+732hl1bSexhqKxC3B0T3IU	Fabrizio De André	Via del campo	ITB007070536	51	canzone d'autore,canzone genovese,classic italian pop,folk rock italiano,italian adult pop,musica sarda	0.945	0.363	0.0	0.0378	178.588	0.546	0.169
+2hy4wl2adLY84xaGZ4Hzc3	Renato Carosone	Caravan Petrol	ES64A0917318	28	canzone napoletana,classic italian pop,swing italiano	0.668	0.877	8.4e-06	0.0551	128.904	0.914	0.406
+6AZXPmMGkt88mufdSRstiY	Renato Carosone	Chella Llà	ITD005700004	33	canzone napoletana,classic italian pop,swing italiano	0.384	0.871	0.0	0.614	104.767	0.768	0.266
+61ShRbIST9rEP6xGs5xctq	Fred Buscaglione	Eri piccola così	ITD015802603	39	classic italian pop,swing italiano	0.755	0.664	0.0	0.492	79.448	0.684	0.668
+38yyddlCeo1alKyRhFNMbF	Gaiteiros de Lisboa	Brites de Almeida	PT6AH1900003	12	folclore portugues,portuguese folk	0.4	0.893	0.0	0.209	125.067	0.773	0.553
+3rKh87E1QqP0seyhhfWWsV	Gaiteiros de Lisboa	Trângulo Mângulo	PT6AH1700024	13	folclore portugues,portuguese folk	0.0103	0.748	0.00678	0.0517	93.705	0.221	0.425
+0GWR1wRiXS6wJgqVcnXZ5d	Gaiteiros de Lisboa	Roncos do Diabo	PT6AH1700021	16	folclore portugues,portuguese folk	0.0257	0.695	0.0	0.0737	119.938	0.766	0.752
+23HfWSJlK5eglM2S6801z7	Sebastião Antunes & Quadrilha,Luis Peixoto	Cantiga da Burra - Remix	QM4TW1679026	16	portuguese folk	0.000882	0.579	0.000659	0.0317	141.536	0.546	0.568
+3IUzbuO59zVZ1FCrpNRMzC	Neil Young	Only Love Can Break Your Heart	USRE10900210	53	album rock,canadian singer-songwriter,classic canadian rock,classic rock,mellow gold,permanent wave,rock,roots rock,singer-songwriter	0.676	0.732	1.57e-06	0.037	110.579	0.379	0.239
+6NgYIETQ8U72CVfkzYhK30	Alexander Rybak	Fairytale	NO23B0900016	73	eurovision	0.434	0.586	1.87e-05	0.0271	107.964	0.593	0.714
+5v3oL4EOGmzFjo7S3O7IFH	Blanche	City Lights	BEP011711001	53	eurovision	0.242	0.608	5.25e-06	0.0268	129.948	0.151	0.45
+33LAK85c2hzjKPv9mC4XzQ	Tanxugueiras	Pano Corado	USA2P2218230	51	galician folk	0.178	0.737	0.00287	0.06	100.966	0.737	0.639
+6h6Lb92WzzhHXOpZ9GZ0nH	António Variações	Canção de engate	PTEM19700035	41	portuguese indie,portuguese rock	0.288	0.584	0.000146	0.0366	93.554	0.554	0.749
+2V93hPxYBMBVE2uRb30l48	Conan Osíris	CELULITITE	PT8HG1700002	24	deconstructed club,portuguese pop	0.308	0.495	1.4e-06	0.296	134.536	0.725	0.57
+3BteNTGc7VilqmK9RTFqEW	Lena d’Água	Grande Festa	PTUM71900095	30	classic portuguese pop,portuguese rock	0.164	0.646	6.16e-06	0.0315	130.062	0.679	0.948
+3nhGk6VnrDHy67pXvMhdPa	Sam Ryder	SPACE MAN	GBAYE2101762	79		0.181	0.467	0.0	0.0489	79.978	0.334	0.828
+2vHzOWRKYPLu8umRPIFuOq	KALUSH	Stefania (Kalush Orchestra)	DEE862200344	79	ukrainian hip hop,ukrainian viral pop	0.145	0.832	0.00169	0.0422	104.985	0.324	0.817
+0y8Xwpsof5R8TDftRyitKg	Netta	Toy - Music Video Version	IL5181100110	48	eurovision,israeli pop	0.1	0.56	0.0	0.111	130.037	0.743	0.746
+1L0mf9NDoWLR207WSrQlXd	B Fachada	Estar à Espera ou Procurar	PTKQ10900006	28	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.391	0.577	0.00032	0.0434	92.478	0.852	0.68
+0WafgULWMx484iQkQHuMQN	Fausto	A Guerra É A Guerra	PTSM18400004	20	classic portuguese pop,fado,musica de intervencao	0.302	0.631	0.0	0.04	147.108	0.963	0.8
+6KoZMRqFqk6TZa5x6Tscrs	António Macedo	Canta, Amigo, Canta (Erguer A Voz E Cantar )	PTUM10200123	7	musica de intervencao	0.933	0.597	0.0	0.0455	108.399	0.459	0.139
+1sIp7dySW31atcX8QkVSKV	Manuel Freire	Pedra Filosofal	PTCN10900337	19	musica de intervencao,portuguese folk	0.973	0.37	0.0461	0.0327	117.904	0.225	0.265
+02Qa8sZmWmssyEDuLINMnT	Xutos & Pontapés	Sémen	PTUM71900273	23	portuguese rock,punk tuga	0.0525	0.511	0.0577	0.093	130.423	0.779	0.767
+0aASUtDb1N96NJDwmWj5Gf	Los Hermanos	Anna Júlia	BRBMG9901028	64	brazilian rock,mpb,nova mpb,rock alternativo brasileiro,rock nacional brasileiro	0.0445	0.427	1.67e-05	0.0385	148.234	0.458	0.817
+0hTLoBrTCyctmBg2Ah5zSk	Slow J,Sara Tavares	Também Sonhar	PT2HA1900020	44	hip hop tuga	0.782	0.557	3.42e-05	0.3	106.702	0.318	0.309
+5Yy2wqhjVQ3yOI0jGLMzBQ	José Mário Branco	Mudam-se os Tempos, Mudam-se as Vontades	ES5061121210	31	fado,musica de intervencao,portuguese folk	0.94	0.776	3.97e-06	0.0367	124.865	0.934	0.391
+5oGOwG8FhaKQyXrruJKkk6	Slow J	Só Queria Sorrir	PT2HA1900025	45	hip hop tuga	0.39	0.716	0.00121	0.0612	82.993	0.399	0.567
+5k5z54qOiDgsx0As3xY74s	The Arcs	Pistol Made of Bones	USNO11500252	45	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.0594	0.517	0.0597	0.0419	113.65	0.662	0.697
+4cgDk0IjwdG8w1ArIaqdpq	The Arcs	Outta My Mind	USNO11500250	45	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.00936	0.519	7.76e-05	0.0615	131.042	0.763	0.737
+1s5wRbjKYS4PwvRiUDGtVt	The Arcs	Lake Superior	TCACL1619936	51	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.0148	0.51	0.0574	0.0484	110.124	0.618	0.816
+1Qf2f55yIV8bMxWmEpJoTb	The Arcs	Chains of Love	USNO11500259	46	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.111	0.656	7.28e-05	0.0301	105.874	0.721	0.602
+39ZADZC75ImPizqOfANjX3	The Arcs	Searching the Blue	USNO11500262	47	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.504	0.519	0.000117	0.0273	139.408	0.51	0.398
+2qesyq9h4j7R4kx7p9dRTB	The Arcs	The Arc	USNO11500256	49	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.00086	0.34	0.375	0.0396	164.117	0.553	0.729
+3zobfMEipF81bJfPVp1h09	The Arcs	Stay in My Corner	USNO11500254	49	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.0409	0.437	0.00824	0.0343	143.451	0.467	0.689
+7BaDRi8gmRnOducT6KaOfc	The Arcs	Put a Flower in Your Pocket	USNO11500251	56	double drumming,garage rock,indie rock,modern blues rock,modern rock,punk blues,rock	0.00146	0.492	1.29e-05	0.037	126.402	0.428	0.378
+7CI5mVS0HKDEFHgcrwrzit	B Fachada	A Mula e a Raposa	PTKQ12000004	15	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.313	0.461	0.9	0.0403	156.056	0.388	0.71
+2jTZXGLF37ojgu31i5IsSR	B Fachada	Canção de Rejeição	PTKQ12000002	25	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0137	0.641	0.00845	0.0309	143.952	0.944	0.887
+4Ehgf93aPtFZfsmLmbcqeg	B Fachada	Trad-Mosh	PTKQ12000003	19	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.00928	0.455	0.14	0.041	90.032	0.546	0.771
+2oZiEnDMEZFnsfbW8JZFQ0	B Fachada	Padeirinha	PTKQ12000005	24	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.0396	0.486	0.0469	0.0492	167.951	0.738	0.767
+655HjEK4nNzceomQVpNzgN	Chet Faker	Talk Is Cheap	AUFF81300504	58	art pop,indietronica	0.434	0.652	0.000184	0.177	140.056	0.513	0.612
+3f7OyfSoDbQC0LRDQiytPp	Foals	Mountain at My Gates	GBAHT1500380	65	alternative dance,indie rock,modern rock,new rave,oxford indie,rock	0.0025	0.495	0.0819	0.0469	104.05	0.617	0.931
+2nMeu6UenVvwUktBCpLMK9	Lana Del Rey	Young And Beautiful	GBUM71301823	79	art pop,pop	0.262	0.324	3.69e-05	0.0368	113.986	0.151	0.416
+44Q0NRSYniMnsAWkEXXxs8	Miguel Araújo	Dona Laura	PT4CG1400010	37	portuguese pop,portuguese rock	0.45	0.64	0.0	0.0267	137.97	0.824	0.553
+4JHg4nNYUJQ5HULcCmI18R	Two Door Cinema Club	What You Know	FRU700900116	72	indietronica,irish rock,modern alternative rock,modern rock,northern irish indie,rock	0.000675	0.549	6.24e-06	0.0407	139.052	0.828	0.754
+28D5HiTzeCFwPo7ASdTgAg	B Fachada	Só Te Falta Seres Mulher	PTKQ10900010	32	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.948	0.405	0.000339	0.0421	181.375	0.29	0.25
+2UWdUez9MB9yzL7Y81Mcip	Arcade Fire	The Suburbs	GBUM71018417	62	baroque pop,canadian indie,indie rock,modern rock,permanent wave,quebec indie,rock	0.0578	0.616	0.0241	0.0265	117.78	0.528	0.682
+50M7nY1oQuNHecs0ahWAtI	The National	I Need My Girl	GBAFL1300064	64	indie rock,modern rock	0.865	0.52	0.0651	0.0355	126.053	0.114	0.436
+6jHvX8ZnHKC1PnrPMJ0Emt	Cage The Elephant	Cigarette Daydreams	USRC11301169	74	modern alternative rock,modern rock,punk blues,rock	0.0807	0.636	0.0	0.0263	113.98	0.273	0.676
+5O59s7bCgTFsXDXlWecyQ1	J. Cole	Apparently	USQX91402600	70	conscious hip hop,hip hop,north carolina hip hop,rap	0.605	0.802	0.0	0.0686	133.992	0.57	0.544
+1KZyVnyptQcPzkx7ELCnZC	James Bay	Hold Back The River	USUM71413733	69	neo mellow,pop,pop rock	0.0526	0.715	0.0	0.0902	134.922	0.507	0.715
+1jgpUzuMqkPaevp5yN6oOe	Diabo Na Cruz	Moça Esquiva	PT0CK1400004	25	portuguese rock	0.0999	0.752	5.33e-06	0.0414	111.017	0.741	0.776
+0rUIff1QHd5zlOBtlHVqd9	The War On Drugs	Red Eyes	US38W1431002	64	indie rock,philly indie	0.00882	0.464	0.2	0.0369	161.845	0.467	0.814
+5UBBJnFxsfjFxfrtvErQoH	The xx	Crystalised	GBBKS0900025	65	downtempo,dream pop,indietronica	0.812	0.762	0.389	0.0311	122.916	0.415	0.484
+3u1Er1rkjn1oSz1xdZH3ZD	Foster The People	Call It What You Want	USSM11101700	61	indietronica,modern rock,rock	0.0483	0.641	0.000276	0.0601	113.017	0.725	0.967
+7w87IxuO7BDcJ3YUqCyMTT	Foster The People	Pumped Up Kicks	USSM11002931	84	indietronica,modern rock,rock	0.145	0.733	0.115	0.0292	127.975	0.965	0.71
+2p35cz5mhXBN9iMy1HdHNM	Linda Martini	Cem Metros Sereia	PT9BP1000037	27	portuguese indie rock,portuguese jazz,portuguese rock	7.89e-05	0.451	0.401	0.0552	89.433	0.337	0.864
+7znAjItIP7xKKhyFzF5W1B	Angus & Julia Stone	Big Jet Plane	AUAP10900011	60	australian indie folk,indie folk	0.239	0.762	0.00756	0.0277	109.959	0.274	0.387
+3dYD57lRAUcMHufyqn9GcI	Hozier	Take Me To Church	IEACJ1300031	82	irish singer-songwriter,pop	0.634	0.566	0.0	0.0464	128.945	0.437	0.664
+6DESft0qm6RhoYf5wzeoGH	Bon Iver	Holocene	US38Y1113503	63	eau claire indie,indie folk,melancholia	0.942	0.38	0.323	0.0305	147.889	0.157	0.306
+74utSUgzHXbskV9KzTq8ww	B Fachada	Quem Quer Fumar com o B Fachada	PTKQ11200027	22	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.276	0.648	0.239	0.0494	85.977	0.584	0.435
+1LfKHwrMydWNruvTonm0eO	alt-J	Tessellate	GBZUZ1200066	52	indie rock	0.374	0.68	0.0436	0.0439	116.952	0.423	0.611
+7EDMvrb5PA5TP0VQ8z9p82	alt-J	Taro	GBZUZ1200074	58	indie rock	0.761	0.368	0.0035	0.0339	171.731	0.284	0.476
+456WNXWhDwYOSf5SpTuqxd	Florence + The Machine	Dog Days Are Over	GBUM70900209	75	baroque pop,pop,uk alternative pop	0.0338	0.501	0.00602	0.0938	149.964	0.258	0.809
+3hhbDnFUb2bicI2df6VurK	Leon Bridges	River	USQX91500482	73	modern blues	0.665	0.635	0.0	0.0456	128.424	0.177	0.184
+7yq4Qj7cqayVTp3FF9CWbm	Vance Joy	Riptide	AULI01385760	82	folk-pop,modern rock,pop,pop rock	0.431	0.484	0.0	0.0379	101.654	0.51	0.731
+0LtOwyZoSNZKJWHqjzADpW	Tame Impala	Feels Like We Only Go Backwards	AUUM71200493	75	australian psych,neo-psychedelic	0.0277	0.303	0.635	0.0574	149.508	0.491	0.9
+4FN395EYfdCGrBthUfJzug	Cage The Elephant	Spiderhead	USRC11301161	53	modern alternative rock,modern rock,punk blues,rock	0.00614	0.543	1.49e-05	0.0454	117.962	0.547	0.946
+5FVd6KXrgO9B3JPmC8OPst	Arctic Monkeys	Do I Wanna Know?	GBCEL1300362	85	garage rock,permanent wave,rock,sheffield indie	0.186	0.548	0.000263	0.0323	85.03	0.405	0.532
+6gI9b2VsoWhjhIuIeToDVs	Kendrick Lamar,Blxst,Amanda Reifer	Die Hard	USUM72208965	85	conscious hip hop,hip hop,rap,west coast rap	0.319	0.775	0.00116	0.247	100.988	0.362	0.736

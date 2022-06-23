@@ -1,0 +1,80 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+386RUes7n1uM1yfzgeUuwp	Bruno Mars	The Lazy Song	USAT21001886	76	dance pop,pop	0.3	0.794	0.0	0.0699	174.915	0.955	0.711
+6nV2dFZXpv1JlqDWBeTXRl	KSI	Holiday	QMRSZ2101354	68	uk hip hop	0.152	0.356	0.0	0.0878	87.188	0.347	0.684
+7floNISpH8VF4z4459Qo18	XXXTENTACION	Look At Me!	USUYG1131080	82	emo rap,miami hip hop	0.259	0.763	0.0	0.282	139.059	0.349	0.726
+27NovPIUIRrOZoCHxABJwK	Lil Nas X,Jack Harlow	INDUSTRY BABY (feat. Jack Harlow)	USSM12104539	89	lgbtq+ hip hop,pop	0.0203	0.736	0.0	0.0615	149.995	0.894	0.704
+4UChhDCTtneR0QXN0btEmz	Natiruts,Claudia Leitte	Sorri, Sou Rei (feat. Claudia Leitte)	BRXCR0900005	58	brazilian reggae,brazilian rock,reggae tuga	0.503	0.783	1.31e-05	0.0338	101.015	0.643	0.651
+0nbXyq5TXYPCO7pr3N8S4I	Roddy Ricch	The Box	USAT21906978	81	melodic rap,rap,trap	0.104	0.896	0.0	0.0559	116.971	0.642	0.586
+2BSuTvvgGd7cfX1JTM9lZE	ProfJam	Água de Coco	PT8HB1800002	43	hip hop tuga,trap tuga	0.399	0.798	0.0	0.0446	119.966	0.129	0.489
+6H67oUOyRbfxnlhPusDgC8	X-Tense,Cálculo,I.VAN	Tudo Nosso (feat. Cálculo and I.Van)	TCADW1851429	22	hip hop tuga	0.179	0.84	0.00113	0.049	127.525	0.892	0.682
+5lWFrW5T3JtxVCLDb7etPu	Michael Jackson	Bad - 2012 Remaster	USSM11204980	72	pop,r&b,soul	0.00462	0.787	0.423	0.0397	114.091	0.394	0.889
+35acXjupfWHgtchiS6yAjC	Kanye West	Jonah	USUM72116302	63	chicago rap,rap	0.795	0.459	0.0	0.256	177.3	0.128	0.431
+2gZUPNdnz5Y45eiGxpHGSc	Kanye West	POWER	USUM71018220	78	chicago rap,rap	0.0161	0.542	0.0	0.113	153.993	0.576	0.914
+3hd6zLhnTlbJ8PupYt3cAI	Kanye West	No Child Left Behind	USUM72116303	66	chicago rap,rap	0.00632	0.161	0.792	0.0341	135.382	0.0815	0.327
+0zLClc0emc6qUeV1p5nc99	Kanye West	No More Parties In LA	USUM71603085	72	chicago rap,rap	0.246	0.508	0.0	0.303	93.058	0.681	0.921
+0WSEq9Ko4kFPt8yo3ICd6T	Kanye West	Praise God	USUM72116287	81	chicago rap,rap	0.00904	0.798	9.48e-05	0.168	118.029	0.212	0.545
+3JKgcAa7r07ocVWcV8bS0H	Polo G	21	USQX92002597	77	chicago rap	0.149	0.783	0.0	0.541	176.027	0.533	0.479
+4R8GhwR0uSAD0AECAmsP2l	Blueyes	The Otherside	ZZOPM2118794	38		0.0558	0.692	0.0	0.03	96.974	0.231	0.351
+59J5nzL1KniFHnU120dQzt	Playboi Carti,Lil Uzi Vert	wokeuplikethis*	USUM71702277	75	atl hip hop,plugg,pluggnb,rap	0.0138	0.785	0.0	0.254	78.477	0.478	0.62
+2xLMifQCjDGFmkHkpNLD9h	Travis Scott	SICKO MODE	USSM11806660	82	hip hop,rap,slap house	0.00513	0.834	0.0	0.222	155.008	0.446	0.73
+7DSlOAF8YXucIfsC8BwceW	Blueyes	Blue Eyes	ZZOPM2230921	40		0.394	0.632	0.0	0.0343	136.089	0.196	0.422
+7MJQ9Nfxzh8LPZ9e9u68Fq	Eminem	Lose Yourself	USIR10211559	74	detroit hip hop,hip hop,rap	0.00922	0.689	0.00072	0.267	171.403	0.059	0.735
+7o2CTH4ctstm8TNelqjb51	Guns N' Roses	Sweet Child O' Mine	USGF18714809	83	glam metal,hard rock,rock	0.0866	0.454	0.0996	0.0448	125.116	0.629	0.91
+0JP9xo3adEtGSdUEISiszL	XXXTENTACION	Moonlight	USUG11800209	83	emo rap,miami hip hop	0.556	0.921	0.00404	0.0804	128.009	0.711	0.537
+7FIWs0pqAYbP91WWM0vlTQ	Eminem,Juice WRLD	Godzilla (feat. Juice WRLD)	USUM72000788	84	detroit hip hop,hip hop,rap	0.145	0.808	0.0	0.342	165.995	0.829	0.745
+5LxvwujISqiB8vpRYv887S	The Jackson 5	I Want You Back	USMO19400306	77	motown,soul	0.305	0.469	0.00012	0.0571	196.605	0.886	0.538
+3oQomOPRNQ5NVFUmLJHbAV	Israel Kamakawiwo'ole	Over the Rainbow	USMAC0100119	72	hawaiian	0.912	0.671	5.53e-05	0.0404	85.6	0.658	0.153
+5zNxUkUW9WiV5oyg6gh2wB	PEDRO SAMPAIO,Mc Pedrinho	DANÇARINA	BRWMB2200077	85	funk carioca	0.0423	0.778	0.0	0.0788	134.999	0.554	0.571
+3ShKPhFkexrwl7WoyTtNND	MC Rogerinho,Wesley Safadão	Tchuco Nela	BCN5Z2200003	83	arrocha,batidao romantico,funk carioca	0.413	0.802	0.0	0.0307	125.038	0.837	0.727
+29TPjc8wxfz4XMn21O7VsZ	Playboi Carti	Sky	USUM72024699	82	atl hip hop,plugg,pluggnb,rap	0.258	0.785	0.0	0.21	139.98	0.565	0.903
+0GYPcKDlsb8WEtJkkKdtgH	Matuê	Anos Luz	BX2M81800008	65	r&b brasileiro,rap cearense,trap brasileiro	0.375	0.634	0.0	0.103	109.817	0.299	0.498
+4aoZBldNDVYmTwmeoI49ud	Mc Gabzin,DJ TAK VADIÃO,dj sv	O Poder Dessa Garota	BCHFD2200039	72	funk mtg	0.686	0.763	0.0	0.0767	86.585	0.788	0.474
+1Kplq3MbmYv11tcud2ftHp	Mc Gabzin,DJ Swat	Incrivel Jogando a Potranca	BCHFD2200008	70	funk mtg	0.398	0.65	2.04e-05	0.0983	83.997	0.307	0.435
+0EMAzKGOFxJgG9vHsm7ciF	JC NO BEAT,MC Teteu,DJ F7	Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho	BCLWS2200001	74	rave funk	0.0531	0.717	0.0	0.473	129.911	0.151	0.655
+58pgi1RpcU2fVJsxhm7BIr	Raí Saia Rodada	Tapão Na Raba	BRS4R2000060	66	arrocha,forro	0.462	0.808	0.000269	0.0305	128.048	0.799	0.796
+3yk7PJnryiJ8mAPqsrujzf	Playboi Carti	Location	USUM71616271	76	atl hip hop,plugg,pluggnb,rap	0.33	0.717	0.000125	0.2	125.985	0.371	0.79
+1SC5rEoYDGUK4NfG82494W	Lil Nas X	MONTERO (Call Me By Your Name)	USSM12100531	84	lgbtq+ hip hop,pop	0.293	0.593	0.0	0.22	178.781	0.71	0.503
+7nVERWQXlgZRQsYw4fHf3b	KSI,Lil Wayne	Lose	QMRSZ2101877	62	uk hip hop	0.0341	0.682	0.0	0.0284	101.067	0.248	0.721
+6D3t4w54PgLNGQ48R7th7R	Lil Nas X	LIFE AFTER SALEM	USSM12106092	58	lgbtq+ hip hop,pop	0.0141	0.392	4.87e-05	0.0354	143.664	0.253	0.579
+1jaTQ3nqY3oAAYyCTbIvnM	Jack Harlow	WHATS POPPIN	USAT22000162	79	deep underground hip hop,kentucky hip hop,rap	0.017	0.923	0.0	0.245	145.062	0.826	0.604
+5ChkMS8OtdzJeqyybCc9R5	Michael Jackson	Billie Jean	USSM19902991	84	pop,r&b,soul	0.0236	0.92	0.0158	0.0401	117.046	0.847	0.654
+7Ie9W94M7OjPoZVV216Xus	Eminem	Not Afraid	USUM71011769	79	detroit hip hop,hip hop,rap	0.529	0.855	0.0	0.264	114.635	0.668	0.954
+2Y40huo5ewaKYxsFintYtF	Kanye West	Heaven and Hell	USUM72116292	67	chicago rap,rap	0.0409	0.764	0.0	0.119	82.986	0.268	0.422
+5FVd6KXrgO9B3JPmC8OPst	Arctic Monkeys	Do I Wanna Know?	GBCEL1300362	85	garage rock,permanent wave,rock,sheffield indie	0.186	0.548	0.000263	0.0323	85.03	0.405	0.532
+1OOtq8tRnDM8kG2gqUPjAj	Michael Jackson	Beat It	USSM19902990	80	pop,r&b,soul	0.0491	0.779	7.98e-06	0.0457	138.858	0.915	0.867
+0cu0rhnlCnJ7JIeHRiLpj3	DaBaby	Ball If I Want To	USUM72109804	75	north carolina hip hop,rap,trap	0.161	0.902	0.0	0.457	139.949	0.628	0.669
+1ftBvRj542ol7LT1A0EtL7	Wet Bed Gang	Devia Ir	TCADS1831472	55	hip hop tuga,trap tuga	0.638	0.714	0.0	0.403	94.205	0.486	0.51
+7xwA7voYCprCNLHH4ETnVa	X-Tense,Sacik Brow,Lalas49	Ego (Feat. Sacik Brow and Lalas49)	TCADW1851417	23	hip hop tuga	0.611	0.919	1.81e-05	0.0965	130.963	0.743	0.603
+2AT8iROs4FQueDv2c8q2KE	Arctic Monkeys	R U Mine?	GBCEL1300363	79	garage rock,permanent wave,rock,sheffield indie	0.00616	0.288	0.0	0.0371	97.094	0.619	0.758
+5l4iEbIUiQJwCwZSyQmuZz	X-Tense	Meu Deus	TCADW1851382	26	hip hop tuga	0.318	0.941	2.08e-05	0.335	110.791	0.308	0.498
+2KTw4vRM6mdBzMlVkInvSS	Lhast,Dillaz	O Clima	QZ5FN1764456	42	hip hop tuga,rap angolano	0.76	0.725	0.0013	0.0574	99.087	0.306	0.454
+6Hfu9sc7jvv6coyy2LlzBF	Kanye West	Hurricane	USUM72116311	78	chicago rap,rap	0.0466	0.587	0.0	0.146	80.009	0.351	0.561
+0lnxDaGdE5Dc9Nrtvmz8eV	Bispo,Sam The Kid	Pormenores	ES71G1751480	39	hip hop tuga	0.593	0.822	0.0006	0.318	99.769	0.419	0.405
+68VCmJEV8PFoOPGE1ALxtM	ProfJam,Fínix MG	À Vontade (feat. Fínix MG)	PT8HB1800009	45	hip hop tuga,trap tuga	0.381	0.691	0.0136	0.0608	75.603	0.269	0.437
+39Yp9wwQiSRIDOvrVg7mbk	THE SCOTTS,Travis Scott,Kid Cudi	THE SCOTTS	USSM12002217	77		0.233	0.716	0.0	0.0514	129.979	0.28	0.537
+6m8UwWdqkmKc7zu5PczrJ2	Blueyes	Light Of Day	ZZOPM2230926	35		0.138	0.648	0.0	0.0575	129.829	0.087	0.427
+08pCZLvDHty6kAy7fA7iRj	Blueyes	Confused	ZZOPM2230927	34		0.128	0.444	0.0	0.0296	137.932	0.116	0.255
+6i3qXoy9HIulIOgCIGS5HP	Blueyes	Smile	ZZOPM2230925	36		0.0088	0.557	7.08e-05	0.035	75.099	0.225	0.602
+25WltKAGv40pU99wyWj37m	Blueyes	Somebody	ZZOPM2115746	36		0.462	0.629	0.0	0.0295	79.95	0.194	0.167
+2zYzyRzz6pRmhPzyfMEC8s	AC/DC	Highway to Hell	AUAP07900028	84	australian rock,hard rock,rock	0.061	0.574	0.00158	0.133	115.728	0.423	0.913
+6cpk00i5TxCqSeqNi2HuIe	Maroon 5	One More Night	USUM71203514	75	pop	0.0558	0.716	0.0	0.0314	92.997	0.618	0.821
+1OjAoIz5Gl36rzm9RKEQeG	Gson,Slow J,Sam The Kid	3,14	ES71G2119939	50	hip hop tuga	0.601	0.709	0.0	0.387	86.557	0.395	0.505
+6Esm2XoX3JwEkCQLybx03R	X-Tense,DJ HYPE MYKE	O Re$To	TCAER2037944	41	hip hop tuga	0.488	0.763	2.77e-05	0.311	90.439	0.871	0.784
+5vo8XO2tkkA8pqgzqYclKd	Blueyes	Not Long Ago	ZZOPM2226290	36		0.028	0.612	0.0	0.023	91.976	0.349	0.555
+4inkL86YKXYoixlQSJ0NtX	Blueyes	We Could Have It All	ZZOPM2230924	36		0.424	0.515	0.0	0.0319	138.177	0.091	0.423
+2xmuVMGlnsalz0Y0l91CBt	Blueyes	Call My Name	ZZOPM2230923	35		0.299	0.6	0.0	0.0312	126.105	0.0962	0.347
+25Gn62g8LW6DvRfe26Thzz	Blueyes	Molly	ZZOPM2230922	36		0.133	0.581	1.38e-06	0.0412	126.078	0.178	0.493
+0FJfl9opaorFJsV8OedEx1	Blueyes	Anxiety	ZZOPM2116646	35		0.242	0.534	0.0	0.035	140.111	0.27	0.36
+285pBltuF7vW8TeWk8hdRR	Juice WRLD	Lucid Dreams	USUG11800685	85	chicago rap,melodic rap	0.349	0.511	0.0	0.2	83.903	0.218	0.566
+3oDkdAySo1VQQG0ptV7uwa	Juice WRLD	Lean Wit Me	USUG11800945	79	chicago rap,melodic rap	0.0414	0.665	0.0	0.156	163.935	0.237	0.651
+47Slg6LuqLaX0VodpSCvPt	Bruno Mars	Just the Way You Are	USAT21001269	78	dance pop,pop	0.0134	0.635	0.0	0.0422	109.021	0.424	0.841
+5hUYsaOyMY32yjRXeuQwGj	Lil Wayne,Bruno Mars	Mirror	USCM51100327	76	hip hop,new orleans rap,pop rap,rap,trap	0.858	0.328	0.0	0.0866	74.267	0.401	0.622
+564tHu6RJmSLd6a7mC011x	Rui Veloso	A paixão (Segundo Nicolau da Viola)	PTEM19000006	47	portuguese rock	0.94	0.542	0.0	0.0296	79.459	0.444	0.19
+1wVuPmvt6AWvTL5W2GJnzZ	Bruno Mars	Talking to the Moon	USAT21001985	77	dance pop,pop	0.511	0.498	0.0	0.032	145.867	0.0784	0.59
+3JvKfv6T31zO0ini8iNItO	Tom Odell	Another Love	GBARL1300107	89	chill pop,pop	0.695	0.445	1.65e-05	0.04	122.769	0.131	0.537
+19m3E0nMZobyA93AxMXC32	Juice WRLD	I'm Still	USUG11800956	70	chicago rap,melodic rap	0.0811	0.631	0.0	0.0347	119.948	0.282	0.672
+4YJUTdZ0Pgl0ZeNyHYXeLd	Queen	Love Of My Life - Remastered 2011	GBUM71100536	72	classic rock,glam rock,rock	0.933	0.329	5.04e-06	0.0299	154.175	0.255	0.179
+3U4isOIWM3VvDubwSI3y7a	John Legend	All of Me	USSM11303954	84	neo soul,pop,pop soul,r&b,urban contemporary	0.922	0.422	0.0	0.0322	119.93	0.331	0.264
+50ZpPgU81payZxI2H7QXNM	Bon Jovi	Born To Be My Baby	USPR38800037	62	glam metal,rock	0.0089	0.534	0.0	0.0379	131.278	0.756	0.959
+6iaSML1PIYq936g62BDtBq	Juice WRLD	Robbery	USUG11900302	81	chicago rap,melodic rap	0.328	0.623	0.0	0.0504	79.899	0.566	0.692
+1h1JMmAzXR6lWJ7KnJQkU7	Gama WNTD	Borboletas	GBLFP2116211	56		0.755	0.793	2.07e-05	0.0668	94.98	0.75	0.44
