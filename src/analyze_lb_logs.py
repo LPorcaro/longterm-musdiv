@@ -29,7 +29,8 @@ NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
                 'new wave of speed metal', 'hardcore punk', 'chicago hardcore',
                 'grime', 'hardcore punk espanol', 'wave', 'korean city pop', 
                 'industrial metal', 'electronic rock', 'ambient pop', 'solo wave',
-                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore']
+                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore',
+                'australian post-hardcore']
 
 # PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220216", "20220314"]]
 # COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220315", "20220412"]]

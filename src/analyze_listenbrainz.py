@@ -28,7 +28,8 @@ NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
                 'new wave of speed metal', 'hardcore punk', 'chicago hardcore',
                 'grime', 'hardcore punk espanol', 'wave', 'korean city pop', 
                 'industrial metal', 'electronic rock', 'ambient pop', 'solo wave',
-                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore']
+                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore',
+                'australian post-hardcore']
 
 
 def search_EM_genres(df):
