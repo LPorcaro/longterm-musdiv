@@ -1,0 +1,690 @@
+[
+    {
+        "listened_at": "2022-06-21T19:39:07",
+        "track_name": "Eso Que T\u00fa Me Das",
+        "artist_name": "Jarabe De Palo",
+        "release_name": "Tragas o Escupes",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI",
+        "listening_from": "spotify",
+        "isrc": "ES96A2000115",
+        "additional_info": {
+            "artist_msid": "974a1f5e-6f83-408e-8029-4c2255f4f025",
+            "artist_names": [
+                "Jarabe De Palo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 214553,
+            "isrc": "ES96A2000115",
+            "listening_from": "spotify",
+            "recording_msid": "f475d04d-a5a0-420d-b89c-cd6697e79c59",
+            "release_artist_name": "Jarabe De Palo",
+            "release_artist_names": [
+                "Jarabe De Palo"
+            ],
+            "release_msid": "f36d0ef9-7d6a-48b2-bd87-20cdfe5f204c",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+            ],
+            "spotify_id": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:38:59",
+        "track_name": "Mi\u00e9nteme",
+        "artist_name": "TINI, Maria Becerra",
+        "release_name": "Mi\u00e9nteme",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc",
+        "listening_from": "spotify",
+        "isrc": "USHR12141512",
+        "additional_info": {
+            "artist_msid": "7f887b8f-b165-47e4-84fc-1339ece75b15",
+            "artist_names": [
+                "TINI",
+                "Maria Becerra"
+            ],
+            "discnumber": 1,
+            "duration_ms": 165275,
+            "isrc": "USHR12141512",
+            "listening_from": "spotify",
+            "recording_msid": "281338c3-6310-4e50-a6cb-dea6e9540484",
+            "release_artist_name": "TINI, Maria Becerra",
+            "release_artist_names": [
+                "TINI",
+                "Maria Becerra"
+            ],
+            "release_msid": "af0bc17f-3711-4375-9f18-f49b48bbf6b0",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp",
+                "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp",
+                "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:36:13",
+        "track_name": "Me Sabe Mal",
+        "artist_name": "MARLENA",
+        "release_name": "Me Sabe Mal",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/53w7xjn8fwwU8Pc6rgMm5v",
+        "listening_from": "spotify",
+        "isrc": "ES05I2100040",
+        "additional_info": {
+            "artist_msid": "769c555f-2cb6-47e8-ad81-2f479a28fc67",
+            "artist_names": [
+                "MARLENA"
+            ],
+            "discnumber": 1,
+            "duration_ms": 196225,
+            "isrc": "ES05I2100040",
+            "listening_from": "spotify",
+            "recording_msid": "80d3dbd2-9960-453f-a9ff-cbfd3b409a7e",
+            "release_artist_name": "MARLENA",
+            "release_artist_names": [
+                "MARLENA"
+            ],
+            "release_msid": "e3f27fd4-a20e-4aa7-81d9-b7e94e057003",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/11BHSuw2pCt1zj8U9oTFHy",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+            ],
+            "spotify_id": "https://open.spotify.com/track/53w7xjn8fwwU8Pc6rgMm5v",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:32:57",
+        "track_name": "Alegr\u00eda de Vivir",
+        "artist_name": "Tu Otra Bonita",
+        "release_name": "Alegr\u00eda de Vivir",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4sJtmGdpGZKr8XMfiyJj3E",
+        "listening_from": "spotify",
+        "isrc": "ES5152100556",
+        "additional_info": {
+            "artist_msid": "cf6ae668-7243-4f39-a1b9-557bcf8e9e99",
+            "artist_names": [
+                "Tu Otra Bonita"
+            ],
+            "discnumber": 1,
+            "duration_ms": 204090,
+            "isrc": "ES5152100556",
+            "listening_from": "spotify",
+            "recording_msid": "8b538961-10a4-4ad3-a096-51da835033ec",
+            "release_artist_name": "Tu Otra Bonita",
+            "release_artist_names": [
+                "Tu Otra Bonita"
+            ],
+            "release_msid": "2585f9df-166e-4eb3-b0a7-5fd6be647521",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3spsl8V94D791BGWFcFHdk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4sJtmGdpGZKr8XMfiyJj3E",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:29:32",
+        "track_name": "Formentera",
+        "artist_name": "Aitana, Nicki Nicole",
+        "release_name": "Formentera",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG",
+        "listening_from": "spotify",
+        "isrc": "ES5702102102",
+        "additional_info": {
+            "artist_msid": "c4c219a9-5641-448e-961a-f5f12d398e92",
+            "artist_names": [
+                "Aitana",
+                "Nicki Nicole"
+            ],
+            "discnumber": 1,
+            "duration_ms": 207333,
+            "isrc": "ES5702102102",
+            "listening_from": "spotify",
+            "recording_msid": "af08a0e1-0406-412c-bf92-8712706adb8e",
+            "release_artist_name": "Aitana, Nicki Nicole",
+            "release_artist_names": [
+                "Aitana",
+                "Nicki Nicole"
+            ],
+            "release_msid": "b87e6fd1-bfce-4d6f-8901-7423b6a7f191",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25",
+                "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25",
+                "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:26:04",
+        "track_name": "Libertad",
+        "artist_name": "Nil Moliner",
+        "release_name": "Libertad",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6Qi1MNFHCLo4bVsV14MOmz",
+        "listening_from": "spotify",
+        "isrc": "ES5152100262",
+        "additional_info": {
+            "artist_msid": "ba118d5a-6798-423d-bd59-7c512ef7ff77",
+            "artist_names": [
+                "Nil Moliner"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218079,
+            "isrc": "ES5152100262",
+            "listening_from": "spotify",
+            "recording_msid": "6d1df781-c82e-42e8-a096-1db0396586eb",
+            "release_artist_name": "Nil Moliner",
+            "release_artist_names": [
+                "Nil Moliner"
+            ],
+            "release_msid": "c55fac45-3fea-47d2-8719-068a8ebdf901",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3pXexnI7ColSTINbQ4DVcW",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6Qi1MNFHCLo4bVsV14MOmz",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:22:25",
+        "track_name": "CAMALE\u00d3N",
+        "artist_name": "Bel\u00e9n Aguilera",
+        "release_name": "Camale\u00f3n",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe",
+        "listening_from": "spotify",
+        "isrc": "ES71G2147985",
+        "additional_info": {
+            "artist_msid": "dd18d6a2-f1ae-47d0-8ea0-1f37ea72650d",
+            "artist_names": [
+                "Bel\u00e9n Aguilera"
+            ],
+            "discnumber": 1,
+            "duration_ms": 175730,
+            "isrc": "ES71G2147985",
+            "listening_from": "spotify",
+            "recording_msid": "2056f1dd-53a7-4e49-8c7e-e5e79b37ce13",
+            "release_artist_name": "Bel\u00e9n Aguilera",
+            "release_artist_names": [
+                "Bel\u00e9n Aguilera"
+            ],
+            "release_msid": "acea056d-ea86-410e-8d0d-57f710c9f0ee",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0jCM9KSax5G30ZScKCTvAG",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:19:29",
+        "track_name": "M\u00fasica Ligera",
+        "artist_name": "Ana Mena",
+        "release_name": "M\u00fasica Ligera",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4",
+        "listening_from": "spotify",
+        "isrc": "ITB002101219",
+        "additional_info": {
+            "artist_msid": "4f736ef7-c47a-4b34-b47c-be0635cb17c4",
+            "artist_names": [
+                "Ana Mena"
+            ],
+            "discnumber": 1,
+            "duration_ms": 235996,
+            "isrc": "ITB002101219",
+            "listening_from": "spotify",
+            "recording_msid": "ec13c790-6b08-436f-8162-4c0352e0b529",
+            "release_artist_name": "Ana Mena",
+            "release_artist_names": [
+                "Ana Mena"
+            ],
+            "release_msid": "869d05f5-32ea-4fc0-8f4d-0a4196106116",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/77APd2Q91Ju6844akH2Xbj",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:15:32",
+        "track_name": "Canci\u00f3n Bonita",
+        "artist_name": "Carlos Vives, Ricky Martin",
+        "release_name": "Canci\u00f3n Bonita",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0",
+        "listening_from": "spotify",
+        "isrc": "USSD12100149",
+        "additional_info": {
+            "artist_msid": "204fc037-65fe-4357-a689-f1cb2f0f85e6",
+            "artist_names": [
+                "Carlos Vives",
+                "Ricky Martin"
+            ],
+            "discnumber": 1,
+            "duration_ms": 169559,
+            "isrc": "USSD12100149",
+            "listening_from": "spotify",
+            "recording_msid": "8dafa082-8bdc-4887-8d60-9034a8f79b14",
+            "release_artist_name": "Carlos Vives, Ricky Martin",
+            "release_artist_names": [
+                "Carlos Vives",
+                "Ricky Martin"
+            ],
+            "release_msid": "ab7b7443-e892-455e-9a19-c330e9760a9e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr",
+                "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr",
+                "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:12:42",
+        "track_name": "Juramento eterno de sal",
+        "artist_name": "\u00c1lvaro De Luna",
+        "release_name": "Juramento eterno de sal",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw",
+        "listening_from": "spotify",
+        "isrc": "ES5152001096",
+        "additional_info": {
+            "artist_msid": "3cb8f93e-f580-4b1c-a002-11dda2a9eced",
+            "artist_names": [
+                "\u00c1lvaro De Luna"
+            ],
+            "discnumber": 1,
+            "duration_ms": 205546,
+            "isrc": "ES5152001096",
+            "listening_from": "spotify",
+            "recording_msid": "7bf65b81-52d0-4722-b4f6-e5ee5e0fa742",
+            "release_artist_name": "\u00c1lvaro De Luna",
+            "release_artist_names": [
+                "\u00c1lvaro De Luna"
+            ],
+            "release_msid": "c272b6a6-0d7e-45c9-9e24-7359cbb7b193",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+            ],
+            "spotify_id": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:09:17",
+        "track_name": "360",
+        "artist_name": "Marc Segu\u00ed",
+        "release_name": "360",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE",
+        "listening_from": "spotify",
+        "isrc": "ES5152100947",
+        "additional_info": {
+            "artist_msid": "f9295830-40db-42b7-a506-de0aafe3012d",
+            "artist_names": [
+                "Marc Segu\u00ed"
+            ],
+            "discnumber": 1,
+            "duration_ms": 195043,
+            "isrc": "ES5152100947",
+            "listening_from": "spotify",
+            "recording_msid": "c13a1a6a-4b78-4ff3-b8c7-1b0ac145de2a",
+            "release_artist_name": "Marc Segu\u00ed",
+            "release_artist_names": [
+                "Marc Segu\u00ed"
+            ],
+            "release_msid": "fe5718dc-634d-4547-aa04-8b669f216dde",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/15V2zidbxeAZaYxodPkE3T",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:06:01",
+        "track_name": "Tacones Rojos",
+        "artist_name": "Sebastian Yatra",
+        "release_name": "Tacones Rojos",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2",
+        "listening_from": "spotify",
+        "isrc": "USUM72119612",
+        "additional_info": {
+            "artist_msid": "e3f5df6e-a0f9-4c59-90b5-549f8715e7e9",
+            "artist_names": [
+                "Sebastian Yatra"
+            ],
+            "discnumber": 1,
+            "duration_ms": 189320,
+            "isrc": "USUM72119612",
+            "listening_from": "spotify",
+            "recording_msid": "f2e80d68-af66-40a6-b263-441de2aa4e57",
+            "release_artist_name": "Sebastian Yatra",
+            "release_artist_names": [
+                "Sebastian Yatra"
+            ],
+            "release_msid": "f0b2e5bf-7e8e-4ec9-8822-e594cda5e27e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T19:02:51",
+        "track_name": "Mon Amour - Remix",
+        "artist_name": "zzoilo, Aitana",
+        "release_name": "Mon Amour (Remix)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R",
+        "listening_from": "spotify",
+        "isrc": "ES5702101693",
+        "additional_info": {
+            "artist_msid": "5c2cbdc7-70e9-48af-9f47-d1398bc84b19",
+            "artist_names": [
+                "zzoilo",
+                "Aitana"
+            ],
+            "discnumber": 1,
+            "duration_ms": 179940,
+            "isrc": "ES5702101693",
+            "listening_from": "spotify",
+            "recording_msid": "df77fa2f-ec2e-4897-8aea-27c2990f8919",
+            "release_artist_name": "zzoilo, Aitana",
+            "release_artist_names": [
+                "zzoilo",
+                "Aitana"
+            ],
+            "release_msid": "80fc0507-7e32-41cc-ba72-cd5c0c0e1e70",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b",
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b",
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T18:59:50",
+        "track_name": "Ay Mam\u00e1",
+        "artist_name": "Rigoberta Bandini",
+        "release_name": "Ay Mam\u00e1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg",
+        "listening_from": "spotify",
+        "isrc": "QMFMF2131022",
+        "additional_info": {
+            "artist_msid": "05b9d777-be3b-455d-9369-14a3687d47d7",
+            "artist_names": [
+                "Rigoberta Bandini"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181695,
+            "isrc": "QMFMF2131022",
+            "listening_from": "spotify",
+            "recording_msid": "4c20ad4f-f58e-47dc-9198-db17313528a3",
+            "release_artist_name": "Rigoberta Bandini",
+            "release_artist_names": [
+                "Rigoberta Bandini"
+            ],
+            "release_msid": "36d8b677-01fb-482d-af9c-67f7a65c3fdd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T08:00:24",
+        "track_name": "Ay Mam\u00e1",
+        "artist_name": "Rigoberta Bandini",
+        "release_name": "Ay Mam\u00e1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg",
+        "listening_from": "spotify",
+        "isrc": "QMFMF2131022",
+        "additional_info": {
+            "artist_msid": "05b9d777-be3b-455d-9369-14a3687d47d7",
+            "artist_names": [
+                "Rigoberta Bandini"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181695,
+            "isrc": "QMFMF2131022",
+            "listening_from": "spotify",
+            "recording_msid": "4c20ad4f-f58e-47dc-9198-db17313528a3",
+            "release_artist_name": "Rigoberta Bandini",
+            "release_artist_names": [
+                "Rigoberta Bandini"
+            ],
+            "release_msid": "36d8b677-01fb-482d-af9c-67f7a65c3fdd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-20T08:30:11",
+        "track_name": "Ay Mam\u00e1",
+        "artist_name": "Rigoberta Bandini",
+        "release_name": "Ay Mam\u00e1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg",
+        "listening_from": "spotify",
+        "isrc": "QMFMF2131022",
+        "additional_info": {
+            "artist_msid": "05b9d777-be3b-455d-9369-14a3687d47d7",
+            "artist_names": [
+                "Rigoberta Bandini"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181695,
+            "isrc": "QMFMF2131022",
+            "listening_from": "spotify",
+            "recording_msid": "4c20ad4f-f58e-47dc-9198-db17313528a3",
+            "release_artist_name": "Rigoberta Bandini",
+            "release_artist_names": [
+                "Rigoberta Bandini"
+            ],
+            "release_msid": "36d8b677-01fb-482d-af9c-67f7a65c3fdd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

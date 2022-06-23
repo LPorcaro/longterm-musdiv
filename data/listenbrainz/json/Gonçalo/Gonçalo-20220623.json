@@ -1,0 +1,646 @@
+[
+    {
+        "listened_at": "2022-06-21T18:03:15",
+        "track_name": "Mon Amour - Remix",
+        "artist_name": "zzoilo, Aitana",
+        "release_name": "Mon Amour (Remix)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R",
+        "listening_from": "spotify",
+        "isrc": "ES5702101693",
+        "additional_info": {
+            "artist_msid": "5c2cbdc7-70e9-48af-9f47-d1398bc84b19",
+            "artist_names": [
+                "zzoilo",
+                "Aitana"
+            ],
+            "discnumber": 1,
+            "duration_ms": 179940,
+            "isrc": "ES5702101693",
+            "listening_from": "spotify",
+            "recording_msid": "df77fa2f-ec2e-4897-8aea-27c2990f8919",
+            "release_artist_name": "zzoilo, Aitana",
+            "release_artist_names": [
+                "zzoilo",
+                "Aitana"
+            ],
+            "release_msid": "80fc0507-7e32-41cc-ba72-cd5c0c0e1e70",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b",
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b",
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T17:42:06",
+        "track_name": "Jimmy Cooks (feat. 21 Savage)",
+        "artist_name": "Drake, 21 Savage",
+        "release_name": "Honestly, Nevermind",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
+        "listening_from": "spotify",
+        "isrc": "USUG12204897",
+        "additional_info": {
+            "artist_msid": "2668a9ee-0219-4015-ac9d-6f81da013e00",
+            "artist_names": [
+                "Drake",
+                "21 Savage"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218364,
+            "isrc": "USUG12204897",
+            "listening_from": "spotify",
+            "recording_msid": "9d3f7cd4-e852-46b0-bff7-4ed4e09c1007",
+            "release_artist_name": "Drake",
+            "release_artist_names": [
+                "Drake"
+            ],
+            "release_msid": "ceb57bd9-770f-4d21-a1f5-d85e05fd3bb2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+                "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T17:37:21",
+        "track_name": "Jimmy Cooks (feat. 21 Savage)",
+        "artist_name": "Drake, 21 Savage",
+        "release_name": "Honestly, Nevermind",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
+        "listening_from": "spotify",
+        "isrc": "USUG12204897",
+        "additional_info": {
+            "artist_msid": "2668a9ee-0219-4015-ac9d-6f81da013e00",
+            "artist_names": [
+                "Drake",
+                "21 Savage"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218364,
+            "isrc": "USUG12204897",
+            "listening_from": "spotify",
+            "recording_msid": "9d3f7cd4-e852-46b0-bff7-4ed4e09c1007",
+            "release_artist_name": "Drake",
+            "release_artist_names": [
+                "Drake"
+            ],
+            "release_msid": "ceb57bd9-770f-4d21-a1f5-d85e05fd3bb2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+                "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T16:45:53",
+        "track_name": "Jimmy Cooks (feat. 21 Savage)",
+        "artist_name": "Drake, 21 Savage",
+        "release_name": "Honestly, Nevermind",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
+        "listening_from": "spotify",
+        "isrc": "USUG12204897",
+        "additional_info": {
+            "artist_msid": "2668a9ee-0219-4015-ac9d-6f81da013e00",
+            "artist_names": [
+                "Drake",
+                "21 Savage"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218364,
+            "isrc": "USUG12204897",
+            "listening_from": "spotify",
+            "recording_msid": "9d3f7cd4-e852-46b0-bff7-4ed4e09c1007",
+            "release_artist_name": "Drake",
+            "release_artist_names": [
+                "Drake"
+            ],
+            "release_msid": "ceb57bd9-770f-4d21-a1f5-d85e05fd3bb2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+                "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T16:45:46",
+        "track_name": "U-Digg (feat. 42 Dugg & Veeze)",
+        "artist_name": "Lil Baby, 42 Dugg, Veeze",
+        "release_name": "U-Digg (feat. 42 Dugg & Veeze)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY",
+        "listening_from": "spotify",
+        "isrc": "USUG12200087",
+        "additional_info": {
+            "artist_msid": "c4c0b28a-47fe-459e-89dc-71fd8f3b3382",
+            "artist_names": [
+                "Lil Baby",
+                "42 Dugg",
+                "Veeze"
+            ],
+            "discnumber": 1,
+            "duration_ms": 235500,
+            "isrc": "USUG12200087",
+            "listening_from": "spotify",
+            "recording_msid": "2eac4f58-fb5d-400f-a232-234d8411b360",
+            "release_artist_name": "Lil Baby, 42 Dugg",
+            "release_artist_names": [
+                "Lil Baby",
+                "42 Dugg"
+            ],
+            "release_msid": "0149e2c7-0992-4e61-9584-5a7739f5fb69",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK",
+                "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK",
+                "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG",
+                "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T16:41:06",
+        "track_name": "Die Young (feat. 347aidan)",
+        "artist_name": "Sleepy Hallow, 347aidan",
+        "release_name": "Die Young (feat. 347aidan)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH",
+        "listening_from": "spotify",
+        "isrc": "USRC12201686",
+        "additional_info": {
+            "artist_msid": "bd14a5db-22b1-46bf-bab3-0af7c1a160a8",
+            "artist_names": [
+                "Sleepy Hallow",
+                "347aidan"
+            ],
+            "discnumber": 1,
+            "duration_ms": 148816,
+            "isrc": "USRC12201686",
+            "listening_from": "spotify",
+            "recording_msid": "79046e08-1ef2-4e15-b6bc-6799fc88ffe8",
+            "release_artist_name": "Sleepy Hallow, 347aidan",
+            "release_artist_names": [
+                "Sleepy Hallow",
+                "347aidan"
+            ],
+            "release_msid": "16f1047d-8be9-4f14-b9d5-a90d0ff05253",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV",
+                "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV",
+                "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T16:34:55",
+        "track_name": "Money Team",
+        "artist_name": "King T3Z",
+        "release_name": "Money Team",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5Gjkr4U3fwjzEqbaK6MqwA",
+        "listening_from": "spotify",
+        "isrc": "QZNB82249646",
+        "additional_info": {
+            "artist_msid": "66f07754-fac1-4551-874f-c989a9425caa",
+            "artist_names": [
+                "King T3Z"
+            ],
+            "discnumber": 1,
+            "duration_ms": 158360,
+            "isrc": "QZNB82249646",
+            "listening_from": "spotify",
+            "recording_msid": "a4d6b27b-3d0b-4efc-be63-342819950046",
+            "release_artist_name": "King T3Z",
+            "release_artist_names": [
+                "King T3Z"
+            ],
+            "release_msid": "2df1aa53-c06b-4445-a21a-3758d9b21b13",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6LWOOqiUGtMvFNhTkhA62c"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2IAp4ZMdwkGpd5R3AI60KK",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6LWOOqiUGtMvFNhTkhA62c"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5Gjkr4U3fwjzEqbaK6MqwA",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T13:53:35",
+        "track_name": "EUROPA (feat. Gson)",
+        "artist_name": "Mizzy Miles, Deejay Telio, Teto, Gson",
+        "release_name": "EUROPA (feat. Gson)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq",
+        "listening_from": "spotify",
+        "isrc": "PT6I22000001",
+        "additional_info": {
+            "artist_msid": "b6ef4789-d023-4fab-9e56-fa0f6a4296e9",
+            "artist_names": [
+                "Mizzy Miles",
+                "Deejay Telio",
+                "Teto",
+                "Gson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 216800,
+            "isrc": "PT6I22000001",
+            "listening_from": "spotify",
+            "recording_msid": "7ea33981-930b-4193-9f63-bcba01f62807",
+            "release_artist_name": "Mizzy Miles, Deejay Telio, Teto",
+            "release_artist_names": [
+                "Mizzy Miles",
+                "Deejay Telio",
+                "Teto"
+            ],
+            "release_msid": "1c50222f-4548-4d39-9113-d83ac9c1bdb4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I",
+                "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n",
+                "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I",
+                "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n",
+                "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo",
+                "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T13:49:18",
+        "track_name": "Where Are You Now",
+        "artist_name": "Lost Frequencies, Calum Scott",
+        "release_name": "Where Are You Now",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
+        "listening_from": "spotify",
+        "isrc": "BEHP42100067",
+        "additional_info": {
+            "artist_msid": "d865bf78-8b4e-4110-90e8-134911694dca",
+            "artist_names": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "discnumber": 1,
+            "duration_ms": 148197,
+            "isrc": "BEHP42100067",
+            "listening_from": "spotify",
+            "recording_msid": "d765fde8-ad3a-4609-ac6d-2f2d4bcfdb66",
+            "release_artist_name": "Lost Frequencies, Calum Scott",
+            "release_artist_names": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "release_msid": "01aa26f9-5e5d-4f6e-a256-401dc4a0a908",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+                "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+                "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T12:52:52",
+        "track_name": "Where Are You Now",
+        "artist_name": "Lost Frequencies, Calum Scott",
+        "release_name": "Where Are You Now",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
+        "listening_from": "spotify",
+        "isrc": "BEHP42100067",
+        "additional_info": {
+            "artist_msid": "d865bf78-8b4e-4110-90e8-134911694dca",
+            "artist_names": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "discnumber": 1,
+            "duration_ms": 148197,
+            "isrc": "BEHP42100067",
+            "listening_from": "spotify",
+            "recording_msid": "d765fde8-ad3a-4609-ac6d-2f2d4bcfdb66",
+            "release_artist_name": "Lost Frequencies, Calum Scott",
+            "release_artist_names": [
+                "Lost Frequencies",
+                "Calum Scott"
+            ],
+            "release_msid": "01aa26f9-5e5d-4f6e-a256-401dc4a0a908",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+                "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+                "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-21T11:52:14",
+        "track_name": "Texts Go Green",
+        "artist_name": "Drake",
+        "release_name": "Honestly, Nevermind",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron",
+        "listening_from": "spotify",
+        "isrc": "USUG12204882",
+        "additional_info": {
+            "artist_msid": "9720fd77-fe48-41ba-a7a2-b4795718dd97",
+            "artist_names": [
+                "Drake"
+            ],
+            "discnumber": 1,
+            "duration_ms": 308820,
+            "isrc": "USUG12204882",
+            "listening_from": "spotify",
+            "recording_msid": "d68214bd-dc5e-4937-86d4-bd81fa8150f4",
+            "release_artist_name": "Drake",
+            "release_artist_names": [
+                "Drake"
+            ],
+            "release_msid": "ceb57bd9-770f-4d21-a1f5-d85e05fd3bb2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-20T18:00:18",
+        "track_name": "Die Young (feat. 347aidan)",
+        "artist_name": "Sleepy Hallow, 347aidan",
+        "release_name": "Die Young (feat. 347aidan)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH",
+        "listening_from": "spotify",
+        "isrc": "USRC12201686",
+        "additional_info": {
+            "artist_msid": "bd14a5db-22b1-46bf-bab3-0af7c1a160a8",
+            "artist_names": [
+                "Sleepy Hallow",
+                "347aidan"
+            ],
+            "discnumber": 1,
+            "duration_ms": 148816,
+            "isrc": "USRC12201686",
+            "listening_from": "spotify",
+            "recording_msid": "79046e08-1ef2-4e15-b6bc-6799fc88ffe8",
+            "release_artist_name": "Sleepy Hallow, 347aidan",
+            "release_artist_names": [
+                "Sleepy Hallow",
+                "347aidan"
+            ],
+            "release_msid": "16f1047d-8be9-4f14-b9d5-a90d0ff05253",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV",
+                "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV",
+                "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-20T17:37:13",
+        "track_name": "Hold That Heat (feat. Travis Scott)",
+        "artist_name": "Southside, Future, Travis Scott",
+        "release_name": "Hold That Heat (feat. Travis Scott)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK",
+        "listening_from": "spotify",
+        "isrc": "USSM12108695",
+        "additional_info": {
+            "artist_msid": "3c5a7fb5-c2a1-4aaa-b7ae-d530002a24c3",
+            "artist_names": [
+                "Southside",
+                "Future",
+                "Travis Scott"
+            ],
+            "discnumber": 1,
+            "duration_ms": 221538,
+            "isrc": "USSM12108695",
+            "listening_from": "spotify",
+            "recording_msid": "3a613bee-d5cf-4071-8175-bd871a3ea1ee",
+            "release_artist_name": "Southside, Future, Travis Scott",
+            "release_artist_names": [
+                "Southside",
+                "Future",
+                "Travis Scott"
+            ],
+            "release_msid": "f79887c2-d5b0-4bcb-af40-ab28f9fa0f48",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN",
+                "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
+                "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN",
+                "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
+                "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-20T17:02:01",
+        "track_name": "MVP",
+        "artist_name": "FaZe Kaysan, Sheck Wes, Fivio Foreign",
+        "release_name": "MVP",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7",
+        "listening_from": "spotify",
+        "isrc": "QZMWW2251330",
+        "additional_info": {
+            "artist_msid": "ec1627e4-cfa1-4898-8dfa-64b75ba133d5",
+            "artist_names": [
+                "FaZe Kaysan",
+                "Sheck Wes",
+                "Fivio Foreign"
+            ],
+            "discnumber": 1,
+            "duration_ms": 146666,
+            "isrc": "QZMWW2251330",
+            "listening_from": "spotify",
+            "recording_msid": "00f47e4f-6fc8-4d40-8b5d-51384f16d479",
+            "release_artist_name": "FaZe Kaysan, Sheck Wes",
+            "release_artist_names": [
+                "FaZe Kaysan",
+                "Sheck Wes"
+            ],
+            "release_msid": "0d7bd48a-70eb-431d-868e-8762bf95f661",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp",
+                "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp",
+                "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX",
+                "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

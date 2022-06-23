@@ -1,0 +1,46 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5bBQI31u2eqXJE5OyP4hxq	Mizzy Miles,Deejay Telio,Teto,Gson	EUROPA (feat. Gson)	PT6I22000001	61	hip hop tuga	0.0701	0.794	0.0	0.0991	98.05	0.183	0.619
+2GOeYeBP8Q0YlkAwA3dcgU	Morad	Chandal	QM6MZ2229538	67	drill espanol,urbano espanol	0.219	0.808	0.332	0.0429	131.011	0.642	0.725
+4PDIRuYFdbgeuwDM3QsrSH	Greg Ferreira	Gucci Dior	USLZJ2231060	51		0.237	0.781	7.97e-06	0.0472	120.103	0.355	0.491
+0PcyN2hI0cMm4lIgDn8Zd5	Lil Noon,tripsyhell	Phone	QZFZ72083914	21	trap tuga	0.246	0.668	0.391	0.0661	128.012	0.078	0.598
+4RU7x3CvlfOR7ziptY8P5D	Julinho Ksd	Mistura	PT1II2100001	36	hip hop tuga,rap criolo	0.871	0.71	7.17e-05	0.335	128.275	0.346	0.432
+20cn2KYYgyuxXRC3WynYZn	Yuri NR5	São Paulo	PT2HG2000011	51	hip hop tuga,trap tuga	0.416	0.771	2.24e-05	0.0543	124.002	0.314	0.515
+1RgJ4lexKGNBlKnyxB5SRt	Teto,Mateca	Balazul	BXW922100039	75	trap baiano	0.31	0.843	0.0	0.166	110.077	0.772	0.458
+48QmG1dfvMuYLxMPt7KSRA	Sean Paul,Dua Lipa	No Lie	GBUM71604557	85	dance pop,dancehall,pop,pop rap	0.0466	0.742	0.0	0.117	102.04	0.463	0.882
+3ScJy88F8KqGDfWu8XJhHx	OneRepublic,Alesso	If I Lose Myself - Alesso vs OneRepublic	USUM71303190	68	dance pop,piano rock,pop,pop rock	0.258	0.519	3.75e-06	0.0402	125.975	0.16	0.754
+53BkPZwlaLbW77uV9BnJkl	Mc Poze do Rodo,Mainstreet,Ajaxx	Eu Fiz o Jogo Virar	BCM9A2100033	72		0.385	0.621	0.0	0.481	122.07	0.421	0.499
+6pQKUKBpwr6GhfhcFFFozo	MC Zaquin,MC Rick	Não Nasceu pra Namorar	BX9L12100029	71	funk bh,funk carioca,funk mtg	0.14	0.525	0.0	0.0443	83.406	0.527	0.448
+608vkoylpUJwFRQOJ1YfvX	MattOfficiel	Pepas x Danza kuduro	FR0Z50073581	60		0.0498	0.529	8.52e-06	0.0768	130.04	0.608	0.817
+5lYAphI00oZ5ZtH7CEJDqV	Dillaz	Conto	ES71G2013860	47	hip hop tuga	0.416	0.582	1.3e-06	0.671	93.237	0.607	0.441
+21tsJFuHp7gqkyY1Qg9vmD	Wet Bed Gang	Perseus	ES71G2103800	40	hip hop tuga,trap tuga	0.547	0.593	0.0	0.412	104.261	0.723	0.755
+1AgqELuodwiIUbJhXM74Jx	Wet Bed Gang	Irresponsável	ES71G1927904	47	hip hop tuga,trap tuga	0.245	0.861	0.000121	0.45	128.094	0.278	0.516
+2IT0T0EqPaUxasjl2o8J2G	Pop Smoke	Christopher Walking	USUM72000326	64	brooklyn drill	0.0114	0.773	0.0	0.244	141.004	0.764	0.744
+38skB1K2bX6lQEiQQyMboa	Sippinpurpp	Extravagante	PT7HL1800009	37	hip hop tuga,trap tuga	0.331	0.594	0.00012	0.366	87.8	0.55	0.296
+2nWfv0t5r6JEVds7rscEl6	Greg Ferreira,MC Kevin o Chris,Akaio MC	Revoada dos Mlk	QZ5FN2212949	50		0.258	0.727	6.9e-06	0.174	179.975	0.49	0.51
+2JfAp9d5Y1S4tfQTfgY6qJ	Rony Fuego,DreNaz	Dado	PTUM72000684	45	hip hop tuga,rap criolo	0.199	0.871	0.000756	0.191	124.984	0.812	0.646
+3UZUEIxIO8diPNOVusvrui	Wet Bed Gang	La Bella Mafia	ES71G2009597	43	hip hop tuga,trap tuga	0.141	0.531	0.0	0.44	100.056	0.447	0.614
+3M0jzvLAw4gfwm8VOyIJE9	Julinho Ksd,Deezy,T-Rex	Hospedeira	PT1II2100003	42	hip hop tuga,rap criolo	0.714	0.532	1.3e-05	0.329	103.804	0.308	0.367
+31sUabnuTnFAM7rjMzKtfN	ProfJam,benji price	TRIBUNAL	PT8HB2000045	47	hip hop tuga,trap tuga	0.635	0.636	0.0	0.322	188.359	0.4	0.666
+45cbUgJwFXYPN3tURnSH2l	Lhast	Bossy	PT2HP2100001	41	hip hop tuga,rap angolano	0.303	0.663	9.49e-06	0.0915	139.949	0.201	0.503
+19gFXFDAFUdsuaiAorKEbr	FRANKIEONTHEGUITAR,T-Rex,LON3R JOHNY,Bispo	Tempo	PT9GN2000003	53	hip hop tuga	0.562	0.757	6.47e-06	0.0438	123.986	0.4	0.607
+0wRn3ggAY1fIupTaVigdza	Mc Poze do Rodo,Bielzin,Mainstreet,MC Cabelinho,PL Quest,Neo Beats	A Cara do Crime (Nós Incomoda)	BCM9A2100020	72		0.288	0.623	0.0	0.229	112.823	0.576	0.656
+6FnE1Y3iWcvVHFB3oLC0vB	Sippinpurpp	Fato treino do City	PTBM12200012	56	hip hop tuga,trap tuga	0.597	0.761	0.0	0.171	146.041	0.524	0.628
+0eA43imPmYEq6166XHM3UX	Wet Bed Gang	Mais Caro	ES71G1917068	39	hip hop tuga,trap tuga	0.366	0.822	3.74e-06	0.225	125.02	0.35	0.664
+3MkdA6vwF0ifRl86yzTlJW	Matuê	Kenny G	BX2M81900002	69	r&b brasileiro,rap cearense,trap brasileiro	0.0778	0.417	0.0	0.193	72.573	0.152	0.767
+0bV0LtjtZH76gD0ujPYS3n	Matuê	Gorilla Roxo	BXW922000006	69	r&b brasileiro,rap cearense,trap brasileiro	0.0614	0.668	0.0	0.106	134.988	0.276	0.814
+5ljLYEJZRLjtrZt1DXtT8B	MC Josh	Eu Fiquei Com a Puta	BX9L12200004	69	funk bh,funk carioca,funk mtg	0.392	0.733	0.00014	0.113	86.541	0.643	0.669
+0VF2XFdgeID7448iU2Vyg9	MC Josh	Novinha Malada do Insta	BX9L12100164	73	funk bh,funk carioca,funk mtg	0.636	0.535	0.000167	0.296	85.982	0.63	0.441
+7afaZ37wJJL6880z1NRgJS	Teto	Fim de Semana no Rio	BXW922200001	83	trap baiano	0.118	0.867	0.0	0.084	118.868	0.29	0.494
+1mQOFRDoqI34LdN79PE0vH	MC Zaquin	Ô Moça	BX9L12000124	67	funk bh,funk carioca,funk mtg	0.481	0.84	0.0	0.0797	130.041	0.527	0.495
+0JhonNQL2ixH1JcsgEj4Hn	Pop Smoke,Lil Tjay	War	USUM71919421	64	brooklyn drill	0.221	0.65	0.0	0.134	141.849	0.6	0.778
+6mPZVis3gEGSSR2rhxlehT	Pop Smoke	Merci Beaucoup	USUM72112401	60	brooklyn drill	0.476	0.581	5.66e-06	0.189	141.823	0.103	0.476
+5nBeA25zmcAT3UyV9lVRec	Lil Yachty	Lemon Head	USUG12001621	45	atl hip hop,hip hop,melodic rap,rap,trap	0.0702	0.852	0.0	0.307	77.532	0.853	0.715
+1dnsojUNfvhiztcITLzruj	Pop Smoke,NAV	Wolves (with NAV)	USUM72003037	61	brooklyn drill	0.143	0.836	0.0	0.197	142.99	0.652	0.627
+2HrjORyFBF3IFnXOAC3Rox	Mc Poze do Rodo,MC Maneirinho,Mainstreet,Neo Beats	CPX Ta Tega	BCM9A2200011	69		0.221	0.81	0.0	0.543	119.644	0.874	0.732
+3fLZnUksOdu7FJAoz3XJU6	Orochi,Mc Poze do Rodo,Mainstreet,Ajaxx	Lobo	QZHZ32110041	59	brazilian hip hop,funk carioca	0.179	0.398	0.0	0.069	121.492	0.105	0.59
+63ZedTAVRCICh2CNLWnsPZ	Beny Jr,Morad,K y B	Sigue	ES71G2211486	78	drill espanol,trap latino	0.611	0.682	0.0328	0.165	122.053	0.594	0.708
+5h5TUj8pU2WhdSeJx9BnX2	Morad	Pelele	QMFMF2131945	77	drill espanol,urbano espanol	0.224	0.83	0.00065	0.163	144.929	0.825	0.698
+07AQkmp456NpEnT8HR7WLy	Teto,Matuê	M4	BXW922000017	71	trap baiano	0.08	0.88	0.0	0.204	119.97	0.723	0.59
+7IG7laqVpcvIIULrwWP5SA	Mc Poze do Rodo,Neo Beats,Mainstreet	Vida Louca	BXPFF2100001	70		0.359	0.852	0.0	0.227	92.464	0.744	0.62
+2jZJ5d0KCiTP6de1NjyHPl	Papatinho,Xamã,MC Cabelinho,BK	Lance Criminoso (feat. BK)	BRWMB2000233	59	brazilian hip hop,funk carioca	0.27	0.574	0.0	0.478	81.336	0.694	0.654
+0KXCN5DoYmiPvP4JmoVYEP	Sippinpurpp	Não há impossíveis	PTBM12200066	43	hip hop tuga,trap tuga	0.753	0.78	0.0	0.243	74.959	0.804	0.342

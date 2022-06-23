@@ -1,0 +1,44 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+14QUJhbXCWO90NfZ0mXnGG	young friend	PINCH ME	QZ93L2106732	64		0.621	0.777	0.0	0.0501	113.003	0.757	0.465
+1Ox4v6gCBk0iOVtvshkXR3	Hermitude,Buddy,BJ The Chicago Kid	OneFourThree	AUEF01901025	51	australian dance,downtempo,edm,electronic trap,escape room	0.475	0.824	0.0028	0.109	108.993	0.522	0.567
+1YsLYPLUclrIGUSQ5sVs68	Tora	Jaigantic	TCACA1422335	50	indie soul,vapor soul	0.676	0.735	0.00924	0.0635	130.047	0.48	0.506
+1LPGwuFgIzbJoShfDdw7MY	Glass Animals	Youth	GB2DY1600029	68	gauze pop,indietronica,shiver pop	0.129	0.648	0.00156	0.0298	96.017	0.785	0.718
+0bx6v84HtmEYFRBAOvDTgk	Glass Animals	Your Love (Déjà Vu)	GBUM72000802	58	gauze pop,indietronica,shiver pop	0.0167	0.851	0.363	0.0532	108.004	0.605	0.663
+7s0FCUlKnSFjFPzcIJmkwo	Glass Animals	Waterfalls Coming Out Your Mouth	GBUM72000423	61	gauze pop,indietronica,shiver pop	0.194	0.649	0.000553	0.034	149.004	0.322	0.553
+5C5gvDZsl6d8bh89URfKHr	Glass Animals	Pork Soda	GB2DY1600025	64	gauze pop,indietronica,shiver pop	0.121	0.698	0.00131	0.0778	96.001	0.623	0.664
+6prvUr8l3t7x5GY7heQb5w	Glass Animals	Agnes	GB2DY1600021	59	gauze pop,indietronica,shiver pop	0.0162	0.55	0.0286	0.0246	165.033	0.233	0.518
+2MA6YoaFF7fnWqkuOAWjUg	Glass Animals,Denzel Curry	Tokyo Drifting	GBUM71905642	61	gauze pop,indietronica,shiver pop	0.12	0.715	0.000139	0.0575	128.905	0.418	0.438
+3USxtqRwSYz57Ewm6wWRMp	Glass Animals	Heat Waves	GBUM72000433	86	gauze pop,indietronica,shiver pop	0.44	0.761	6.7e-06	0.0944	80.87	0.531	0.525
+0RZLmpEzGR2NHite6rvS5H	Glass Animals	Space Ghost Coast To Coast	GBUM72000432	62	gauze pop,indietronica,shiver pop	0.105	0.903	0.00255	0.0623	100.977	0.353	0.529
+1gk3FhAV07q9Jg77UxnVjX	Glass Animals	Gooey	GBUM71400655	71	gauze pop,indietronica,shiver pop	0.736	0.487	3.75e-05	0.0406	183.114	0.106	0.369
+0rRjGruFonCGOt0S5zAJNQ	Glass Animals	The Other Side Of Paradise	GB2DY1600028	74	gauze pop,indietronica,shiver pop	0.349	0.689	5.7e-05	0.0629	128.012	0.568	0.338
+7jO2B8Xgfu7D9vj60XiG7Y	Glass Animals	Pools	GB2DY1400009	58	gauze pop,indietronica,shiver pop	0.147	0.676	0.000173	0.0393	105.072	0.226	0.645
+32zkKx35Et6A515oZKxDkD	Glass Animals	Life Itself	GB2DY1600018	66	gauze pop,indietronica,shiver pop	0.0147	0.699	0.22	0.0347	111.988	0.556	0.67
+2dWbucCC3cVXQWi6JaL7js	FRANKIEONTHEGUITAR,Slow J,Ivandro	Imagina	PT9GN2100005	53	hip hop tuga	0.604	0.592	0.0	0.0754	139.315	0.357	0.416
+73nNXl2PZ1Z6j2pbfl8N8R	Ornatos Violeta	Ouvi Dizer	PTUM19900074	46	portuguese rock	0.485	0.526	0.0	0.0261	82.021	0.384	0.54
+1h1JMmAzXR6lWJ7KnJQkU7	Gama WNTD	Borboletas	GBLFP2116211	56		0.755	0.793	2.07e-05	0.0668	94.98	0.75	0.44
+0WmSoWksyfhCME62WhkP2U	Domingues	Romance de Cinema	PT4IJ2000011	52	portuguese pop	0.695	0.509	0.0	0.438	173.999	0.52	0.528
+5caUpMNinz52sFOHqGMOdd	Toranja	Carta	PTUM10300086	44	portuguese rock	0.24	0.541	0.00135	0.0278	80.0	0.183	0.333
+3KLtM4rOQwmZoLTiyXEfur	Ornatos Violeta	Chaga	PTUM19900075	42	portuguese rock	0.193	0.407	0.000153	0.0617	174.054	0.419	0.917
+3Ur8IzH3YV577NSPUVZ6pG	mishlawi	All Night	PT9GC1800001	35	hip hop tuga,trap tuga	0.137	0.764	0.0	0.0827	141.907	0.771	0.761
+3fU2gcMdDtWtUkRDcYrwgj	B Young	R&Drill	QMBZ92104807	61	afroswing,london rap,uk hip hop	0.535	0.676	0.0	0.138	139.88	0.443	0.388
+6Uj1ctrBOjOas8xZXGqKk4	Doja Cat	Woman	USRC12101532	92	dance pop,pop	0.0888	0.824	0.00294	0.0854	107.998	0.881	0.764
+3s1KwrLP0NlFWiWbjz6bfQ	Fireboy DML,Ed Sheeran	Peru	USUYG1403104	82	afro dancehall	0.572	0.956	0.00071	0.0926	108.015	0.714	0.417
+2Z8pPatBfVlRqNlsnmMdhV	Richie Campbell	Let You Go	PT9AN2200001	56	portuguese pop,reggae tuga	0.807	0.477	0.0	0.356	87.907	0.298	0.578
+3zSwFE91EdwhEwS6vnJohB	Joy Crookes	When You Were Mine	GBARL2100707	60	alternative r&b,indie soul,uk contemporary r&b	0.0684	0.369	0.0991	0.0789	102.175	0.63	0.829
+1DHSj9pjlwGsVTQ2A2Z8gk	Deejay Telio,Julinho Ksd	Cara Que Engana	ES71G2210024	57	batida,funana,portuguese pop,rap angolano	0.664	0.766	0.0318	0.242	142.019	0.78	0.639
+5CZ40GBx1sQ9agT82CLQCT	Olivia Rodrigo	traitor	USUG12101243	89	pop	0.691	0.38	0.0	0.0338	100.607	0.0849	0.339
+3M5azWqeZbfoVkGXygatlb	Muni Long	Hrs & Hrs	QZAKB2136210	78	indie r&b,pop,pop r&b,pop rap,r&b	0.607	0.523	0.0	0.159	133.953	0.661	0.521
+3I0w0pdn5s2W44gGmBxsa0	Capitão Fausto	Amanhã Tou Melhor	PTBM11600063	46	portuguese indie,portuguese indie rock,portuguese rock	0.206	0.648	0.0	0.0271	124.128	0.884	0.675
+05bX5YeRuWYsMxZK06iynF	Prodigio,Deezy,Don G	Relationship Goals	ES71G2022503	42	hip hop tuga	0.367	0.678	0.0	0.336	97.763	0.72	0.809
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	85	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+0F8t8J0hAtZyBs9oWLnCGI	T-Rex	R&bsr&b$	ES71G1870108	45	trap tuga	0.658	0.565	6.79e-06	0.0684	97.962	0.248	0.399
+0vY0Kn5TJewioo4yUUAJC0	Slow J	Vida Boa	USDHM1705499	39	hip hop tuga	0.0326	0.581	5.45e-05	0.283	124.403	0.565	0.507
+7yHTzDafmb7oJRwWu6F3MG	Lhast,Gson	Por Pouco (feat. Gson)	USLZJ1767784	38	hip hop tuga,rap angolano	0.703	0.714	5.07e-06	0.487	120.702	0.546	0.551
+53LuRRfv4dBFVLo8G2TkTu	Valas	As Coisas	PTUM71600541	43	hip hop tuga	0.0707	0.622	0.0	0.405	84.324	0.666	0.676
+4Ug86pdTgTHMrutGMryGkN	Trx Music,Young Family	Deixa Só	ushm91639125	23	rap angolano	0.078	0.657	0.0	0.325	64.068	0.547	0.718
+1wxLvOhDguWTLAJN0HW87J	T-Rex	PRA MIM	PT2JP2200010	50	trap tuga	0.607	0.655	0.0	0.164	97.364	0.638	0.586
+3oqztHfES8jYMyrxPMzWwc	Glass Animals	I Don't Wanna Talk (I Just Wanna Dance)	GBUM72105458	59	gauze pop,indietronica,shiver pop	0.0156	0.703	5.53e-05	0.0364	131.966	0.808	0.624
+7BELSQR2lAJLELaKvVkct3	Ivandro	Lua	PT9GN2200001	63	trap tuga	0.843	0.629	0.000107	0.0854	152.088	0.35	0.348
+5goqVeMYUQecvpcjNxpadU	Joy Crookes	Feet Don't Fail Me Now	GBARL2100616	61	alternative r&b,indie soul,uk contemporary r&b	0.17	0.662	0.000226	0.0509	112.914	0.568	0.84
+3pIGVPZfTE7GCzT07XDcY6	Tinashe	Naturally	USA2P2202698	59	alternative r&b,dance pop,electropop,metropopolis,pop,pop rap,post-teen pop,r&b,urban contemporary	0.171	0.62	0.0	0.198	85.42	0.543	0.63

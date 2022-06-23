@@ -1,0 +1,78 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+13FMxsmvUAo8oyzqjlA46f	The Excitements	Keep It to Yourself	FR6V81793871	16	retro soul	0.452	0.544	0.0	0.0731	130.967	0.93	0.947
+3A5yZceMG1inKRD0DtKWQi	The Excitements	The Mojo Train	FR10S1614739	16	retro soul	0.324	0.718	0.22	0.0339	121.672	0.86	0.847
+1gNeaeI4ICEndLFH7iXtUx	The Excitements	We Carry a New World in Our Hearts	ES6102123607	16	retro soul	0.45	0.627	0.000167	0.0308	130.062	0.838	0.477
+5XMq2fF9kS7ZBrpNoBVCZv	The Excitements	Keep Your Hands Off	FR6V81793874	17	retro soul	0.633	0.579	6.09e-06	0.0506	150.694	0.962	0.901
+45EwFS5DU32bYtqtirJnCe	The Excitements	I Don't Love You No More	FR6V81150344	20	retro soul	0.452	0.763	0.00014	0.0553	137.64	0.947	0.801
+1y19t1IFnSyHGJ1pTakp5q	The Excitements	Wait a Minute	FR6V81150347	20	retro soul	0.497	0.458	2.45e-05	0.0754	153.625	0.716	0.97
+6Nc4IZYq9CCULYrGHLXyFb	The Excitements	Don't You Dare Tell Her	FR6V81793876	26	retro soul	0.339	0.515	0.00467	0.0344	147.925	0.962	0.913
+6oYsAXrCLpT6TOpHa7nmio	The Excitements	Ha, Ha, Ha	FR6V81793872	31	retro soul	0.378	0.718	0.0	0.0796	129.913	0.936	0.884
+4vkGubn53O4ulKG2fwDRaG	Efecto Pasillo	Universo	ES5152100924	51	latin arena pop,musica canaria,rock en espanol,spanish pop	0.258	0.592	0.0	0.0368	94.198	0.491	0.649
+3rNXTl7IxtnGQoecg2md1P	ERRE,Cheti	Coco Bipolar	FRX762102929	42	rap espanol	0.0653	0.579	0.0	0.0652	95.168	0.612	0.583
+1voueLCs7g2cD8NLHg1Iz7	MARLENA	Gitana	ES05I2100041	55	spanish pop	0.0868	0.728	0.00016	0.142	77.982	0.746	0.687
+5tyngIB1CqMV6xWIfWRqEi	MARLENA,Bombai	Me Sabe Mal (Remix)	ES05I2100042	57	spanish pop	0.0735	0.701	0.0	0.0517	99.117	0.797	0.813
+0gPqRLmS5IbJE7tV8Gh4BG	MARLENA	Fecha de Curiosidad	ES05I2200002	54	spanish pop	0.167	0.6	0.0022	0.0452	179.046	0.602	0.677
+3mNhNJ1vlqu4RUYQoqElj6	Caj Morgan	The Nights - Acoustic	NLRD51953764	31	acoustic cover	0.584	0.769	0.0	0.0291	107.066	0.659	0.329
+4ySKVhKQn3yvjqfGUD5uhn	La La Love You,Axolotes Mexicanos,ELYELLA,INNMIR	El Fin del Mundo (Innmir & Elyella Remix)	ES6062066801	47	spanish indie pop,spanish pop	0.000712	0.634	0.108	0.0324	127.01	0.774	0.767
+4EeoKXsFvTM4tlzv4fjIUb	Xoel López	Lodo	ES6081710408	56	cantautor,latin rock,spanish indie pop	0.666	0.623	0.329	0.0371	110.98	0.672	0.537
+0lfbYRhACiyV4DA7niM23I	Delaporte,Rozalén	No Dirás	ES09S2100009	32	spanish indie pop	0.175	0.67	0.0	0.0542	96.949	0.548	0.63
+68PEuXNjodWFts3Ph4BPVv	Arde Bogotá	Exoplaneta	ES5022100038	51	murcia indie	0.0215	0.452	0.000603	0.031	85.988	0.183	0.721
+0ca2HSvjPWjSDjLO9qW9jE	Vendredi,Chrissy Dave	I'm Yours - Acoustic Covers Versions of Popular Songs	NLRD52017607	31	acoustic cover	0.902	0.669	0.0	0.0639	75.41	0.644	0.243
+5t8pSxJmgGsTGXYCIU9J6g	Filip Nordin	Lose Somebody	NLRD51953716	31	acoustic cover	0.313	0.821	0.0	0.0595	139.995	0.473	0.276
+4JSv9ZyeyNVNcDLejiUWz8	Vendredi,Son&Dad	Crazy - (Acoustic Mix)	NLRD51953681	31	acoustic cover	0.88	0.652	4.88e-06	0.031	104.813	0.303	0.428
+1XCFx4bRmkTDTxneeCrpND	Denis Kalytovskyi	Impossible - Acoustic Covers of Popular Songs	NLRD51953703	31	ukrainian pop	0.553	0.558	0.0	0.0432	84.686	0.29	0.0707
+5l58munU8Fro3OHK19UeT6	Delafé,Suu	MUCHO MUCHO MUCHO	ES71G2045854	46	spanish modern rock	0.0383	0.654	1.95e-05	0.199	93.955	0.498	0.698
+2xpDZTfuvI2uQzu2AnWoM1	Carlos Sadness	Mira Que Eres Linda	ES5022001135	40	spanish indie pop	0.686	0.602	0.00174	0.0386	113.805	0.159	0.424
+1L9Vjx2rjESwDch6A9W17F	Love of Lesbian,Gaby Moreno	El mundo (feat. Gaby Moreno)	ES5152100662	42	cantautor,latin rock,spanish indie pop	0.753	0.654	1.62e-05	0.0313	108.972	0.532	0.384
+5FhTo7yj2umChnDdqch8oG	Vetusta Morla	Finisterre	ES55C1060181	54	cantautor,latin rock,rock alternativo espanol,spanish indie pop,spanish rock	0.156	0.67	0.0	0.119	127.534	0.376	0.834
+1DSfC9Au2lzubIfTtG0YDn	Shinova	Ídolos (Los mejores momentos están por llegar)	ES5152000276	43	rock alternativo espanol,spanish modern rock	0.0354	0.699	5.36e-05	0.0317	121.886	0.745	0.593
+39Iy2iTWi2xRZirBId3j7a	Vaho	Mataré a Cupido	ES73S2000040	41	spanish modern rock	0.287	0.715	8.47e-05	0.0457	135.953	0.621	0.66
+6cFdLUc3j7j3vOcDuzFLxb	Vendredi,Lisa	Just the two of us - Acoustic Covers of Popular Songs	NLRD52083247	24	acoustic cover	0.947	0.443	0.0	0.0392	85.034	0.244	0.285
+5eGGyiWz9PuJODqw0HrhYB	Covers Culture,Acoustic Covers Culture,Lounge Covers Culture Of Popular Songs	Riptide - Acoustic Covers Versions of Popular Songs	NLRD52017602	26	acoustic cover	0.76	0.593	0.0	0.0272	99.989	0.393	0.407
+1n4otFrjXlM8EQxgH6DGco	Vendredi,Chrissy Dave	Firestone - Lounge Acoustic Covers Versions of Popular Songs	NLRD52017620	30	acoustic cover	0.747	0.633	0.0	0.0473	113.525	0.469	0.321
+4xutfhQjLRm6Yu8t1J8Vug	VENDEE,Covers Culture,Acoustic Covers Culture	drivers license	NLRD52017555	30	acoustic cover	0.914	0.622	0.00017	0.0453	144.022	0.314	0.272
+6cCu0J7cgeicekbScQFc3B	SYLVAN,Polar Gang	you broke me first	NLRD52017541	30	acoustic cover	0.799	0.784	0.0	0.0531	115.914	0.605	0.345
+4WpuVKUWSHfP59HLMPemsA	Covers Culture,Acoustic Covers Culture,Lounge Covers Culture Of Popular Songs	White Flag - Acoustic Covers Versions of Popular Songs	NLRD52017623	31	acoustic cover	0.634	0.727	0.0	0.346	89.614	0.452	0.275
+59DFryw7w24KLn5uXQd4rS	Vendredi	I See Fire - Acoustic Covers Versions of Popular Songs	NLRD52017593	30	acoustic cover	0.9	0.544	0.0	0.0383	76.066	0.537	0.232
+3kqXDqjpmwQOJn4Ef5O8vk	VENDEE,Covers Culture,Acoustic Covers Culture	When the party's over - Acoustic Covers Versions of Popular Songs	NLRD52017548	31	acoustic cover	0.937	0.514	2.17e-06	0.0461	123.775	0.272	0.121
+6J9nbJagZsClNr83hMCsgj	Son&Dad	Let Her Go	NLRD51953673	31	acoustic cover	0.49	0.391	0.0	0.0341	145.713	0.226	0.303
+78V2uIs1jfIPLapNWJe19U	Vendredi,Chrissy Dave	Waves - Acoustic Covers Versions of Popular Songs	NLRD52017627	31	acoustic cover	0.965	0.393	0.0	0.0426	174.418	0.496	0.261
+1YnKpKD6B0GqX794TLuUl0	Son&Dad,Filip Nordin	I Want It That Way - Acoustic Covers of Popular Songs	NLRD51953747	35	acoustic cover	0.738	0.387	0.0	0.0359	204.594	0.364	0.254
+5bfNwZ1XSU4Ks4a4zcbErc	Filip Nordin	More Than You Know - Acoustic Covers of Popular Songs	NLRD52017519	31	acoustic cover	0.799	0.777	0.0	0.0309	98.016	0.503	0.318
+2xzkL3dpSiq5Wft9IjM5q4	Ann Peebles	Slipped, Tripped and Fell in Love	US2HK1341001	46	classic soul,funk,memphis soul,soul,soul blues,southern soul	0.0532	0.782	0.000978	0.0308	118.988	0.845	0.525
+0ZlNwlXfDUh8gxdUOXuc2F	Ike & Tina Turner	Son Of A Preacher Man - Live From Madison Square Garden, New York/1969	USA170910036	40	brill building pop,classic soul,disco,funk,rock-and-roll,soul,southern soul	0.301	0.433	0.0	0.0802	85.883	0.854	0.667
+6FixOciblTbUmV9pLiYw1s	Wilson Pickett	Hey Joe	USAT20104441	48	brill building pop,classic soul,funk,memphis soul,rock-and-roll,soul,southern soul	0.506	0.51	0.00131	0.0583	79.878	0.813	0.671
+46qpQWRt75ZlVPLtlwQvty	Sharon Jones & The Dap-Kings	Nobody's Baby	US4GZ0701202	62	black americana,classic soul,funk,neo soul,retro soul,soul,southern soul	0.254	0.704	8.29e-06	0.104	95.287	0.74	0.606
+1ovGm2RHnWlTmbbtIxd2f8	Solomon Burke	Can't Nobody Love You	USAT20106150	47	classic soul,funk,soul,soul blues,southern soul	0.784	0.614	0.0	0.0353	91.999	0.485	0.357
+4gxU0BBm017o3faqPtwmvF	Joss Stone	Here Comes the Sun	QZGLM2293117	40	british soul,neo soul	0.111	0.727	0.0	0.234	144.088	0.506	0.507
+1S3OqZh8U8tYXX4lMALCHX	The Staple Singers	Heavy Makes You Happy (Sha-Na-Boom Boom)	USFI87000123	44	brill building pop,chicago soul,classic soul,funk,memphis soul,quiet storm,soul,southern soul	0.523	0.668	0.0911	0.0317	124.375	0.966	0.675
+1WN4uNclrDuczTO3bCr8s1	The Ronettes	Be My Baby	USQX91100088	66	adult standards,brill building pop,classic girl group,soul	0.168	0.512	0.0	0.0402	129.639	0.803	0.771
+6IpxLzChgCbFSJwso2Q84D	Irma Thomas	Time Is On My Side	USCA26400134	55	brill building pop,classic soul,funk,louisiana blues,new orleans blues,new orleans soul,soul,southern soul,vocal jazz	0.619	0.518	0.00992	0.0349	95.958	0.601	0.622
+0ryoOkpaDeSQRoYQGGJAxn	Ann Peebles	Trouble, Heartaches & Sadness	US2HK1341002	51	classic soul,funk,memphis soul,soul,soul blues,southern soul	0.438	0.575	0.000446	0.0464	157.444	0.534	0.357
+7LhTdrE7S8gTgRJtNqqtoz	Solomon Burke	Got to Get You off My Mind	USAT20001066	46	classic soul,funk,soul,soul blues,southern soul	0.615	0.743	0.0	0.0644	102.67	0.727	0.501
+4inbFqrP4CS3Ig99dIwfQ1	Sharon Jones & The Dap-Kings	Tell Me	US4GZ0701203	58	black americana,classic soul,funk,neo soul,retro soul,soul,southern soul	0.312	0.771	6.42e-06	0.0321	110.509	0.887	0.639
+5kmoXJA8o3JZREiI5IwKJF	Fontella Bass	I'm A Woman	USUM70600986	34	brill building pop,chicago soul,classic soul,rhythm and blues,soul	0.734	0.596	1.98e-06	0.0371	91.574	0.894	0.375
+4la9jiqXYHQlEwbRhqYsd7	The Staple Singers	For What It's Worth	USSM11701287	48	brill building pop,chicago soul,classic soul,funk,memphis soul,quiet storm,soul,southern soul	0.655	0.763	0.0	0.0374	103.309	0.825	0.621
+4MymCsjbOkhuP2kWNSZgLo	Joss Stone	L-O-V-E - Long Version	USCA20703531	51	british soul,neo soul	0.383	0.527	8.59e-05	0.0651	94.693	0.645	0.78
+4vYauy3ABO65vTXggGYaZg	Harold Melvin & The Blue Notes,Teddy Pendergrass	Don't Leave Me This Way (feat. Teddy Pendergrass)	USLIC0500354	61	classic soul,disco,funk,philly soul,quiet storm,soul,southern soul	0.278	0.472	1.36e-06	0.0599	120.052	0.527	0.71
+5MUj82JuRoFa6Tbmo2AjAK	Ike & Tina Turner	Game Of Love - Remastered	USEM30200092	45	brill building pop,classic soul,disco,funk,rock-and-roll,soul,southern soul	0.454	0.67	0.0	0.0912	90.929	0.741	0.497
+7BtvpcvTnyLLCTDAsDnSf9	Solomon Burke	Down in the Valley	USAT20106138	39	classic soul,funk,soul,soul blues,southern soul	0.821	0.784	4.88e-06	0.0404	107.953	0.959	0.254
+5xcw2nLeZN6wfVADCJbNi2	Sharon Jones & The Dap-Kings	Just Dropped In (To See What Condition My Condition Was In)	USA560776997	53	black americana,classic soul,funk,neo soul,retro soul,soul,southern soul	0.285	0.632	0.000455	0.0479	133.389	0.9	0.861
+45Odbf97hv0mAbla6ID4hr	The Staple Singers	Got To Be Some Changes Made	USFI86800344	46	brill building pop,chicago soul,classic soul,funk,memphis soul,quiet storm,soul,southern soul	0.459	0.753	0.0	0.0373	114.096	0.739	0.38
+1GY8zOFi8rC39xXnD0tKO8	Fontella Bass	Rescue Me	USMC16546885	68	brill building pop,chicago soul,classic soul,rhythm and blues,soul	0.668	0.678	9.62e-06	0.0326	122.735	0.963	0.544
+58DBGys2swRUOGDU5OhnfZ	Esther Phillips	Try Me	USAT20200139	48	classic soul,funk,jazz blues,rhythm and blues,soul,vocal jazz	0.201	0.441	0.0415	0.0346	150.516	0.401	0.338
+2osA5KIMQLLaNLHiuusgGy	Joss Stone	Free Me	USVI20900408	54	british soul,neo soul	0.0257	0.744	2.73e-05	0.294	166.836	0.567	0.615
+4NL8D4RQsC6ux6eI3m3Lg5	Solomon Burke	Everybody Needs Somebody to Love	USAT20106157	58	classic soul,funk,soul,soul blues,southern soul	0.145	0.629	0.0	0.045	75.519	0.858	0.543
+113bLFbp3F9MVN0w2KJ1ma	Sharon Jones & The Dap-Kings	How Long Do I Have to Wait for You?	USA370651086	66	black americana,classic soul,funk,neo soul,retro soul,soul,southern soul	0.469	0.674	0.0131	0.0464	103.942	0.969	0.909
+5wqVSRl6jmST73Qs5UWGYG	Ann Peebles	(You Keep Me) Hangin' On	US2HK0913804	42	classic soul,funk,memphis soul,soul,soul blues,southern soul	0.482	0.681	0.0243	0.0314	96.882	0.358	0.206
+21HbyZhK4nqEgLSa8bS2S0	The Staple Singers	(Sittin' On) The Dock Of The Bay	USFI86800339	37	brill building pop,chicago soul,classic soul,funk,memphis soul,quiet storm,soul,southern soul	0.61	0.289	0.0	0.0329	202.118	0.423	0.233
+1juZY0JbbkkATQP9LSeOQH	Fontella Bass	Our Day Will Come	USUM70600250	42	brill building pop,chicago soul,classic soul,rhythm and blues,soul	0.355	0.553	0.00175	0.0824	90.632	0.82	0.563
+4HCcvFdHfwR2u3WPPPVRv6	Lianne La Havas	Green & Gold	GBAHT1500206	60	british soul,indie soul,neo soul,pop soul,soul	0.212	0.7	0.000321	0.0465	93.959	0.28	0.4
+30yn7KuCLbXGCXxjsB0C8K	Joss Stone	Super Duper Love	USESC0300041	63	british soul,neo soul	0.0207	0.69	0.0	0.14	187.993	0.668	0.767
+1DoB9qQAEHwV9s5BWofgUm	Solomon Burke	Proud Mary	USAR16900104	43	classic soul,funk,soul,soul blues,southern soul	0.242	0.765	0.014	0.0493	120.384	0.739	0.486
+1lDrb5N8RmfD1USPQYPpUu	Sharon Jones & The Dap-Kings	Better Things	US4GZ1001903	60	black americana,classic soul,funk,neo soul,retro soul,soul,southern soul	0.533	0.823	0.0	0.0532	97.374	0.943	0.549
+2kyFN7sfxOgNLkxw66c1Ij	Ann Peebles	Until You Came into My Life	US2HK0913803	48	classic soul,funk,memphis soul,soul,soul blues,southern soul	0.605	0.546	0.0347	0.0411	130.358	0.435	0.265
+0Y82WR3pVyRqp83OgdR7lP	Ike & Tina Turner	Whole Lotta Love - 2002 Remaster	USEM30200118	42	brill building pop,classic soul,disco,funk,rock-and-roll,soul,southern soul	0.23	0.688	0.00209	0.11	78.65	0.823	0.786
+1aykpQ3QYytGydJxP7qyVn	Wilson Pickett	Something You Got	USAT20103892	46	brill building pop,classic soul,funk,memphis soul,rock-and-roll,soul,southern soul	0.174	0.766	5.04e-06	0.0359	109.89	0.936	0.52
+7sxTjnPqokxnHlLrZorBK7	The Staple Singers	I'll Take You There	USC4R1123058	51	brill building pop,chicago soul,classic soul,funk,memphis soul,quiet storm,soul,southern soul	0.138	0.81	0.000945	0.128	102.043	0.475	0.631
+6gCIPXJMKV9C036QkO9hzX	Ann Peebles	99 Lbs	US2HK0941101	44	classic soul,funk,memphis soul,soul,soul blues,southern soul	0.103	0.813	2.11e-05	0.064	116.01	0.734	0.375

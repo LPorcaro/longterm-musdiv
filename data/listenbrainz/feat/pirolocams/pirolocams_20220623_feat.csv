@@ -1,0 +1,19 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1RI4YQVFh7onQD07QuL8ND	Beyoncé	"Be Alive (Original Song from the Motion Picture ""King Richard"")"	USSM12108558	62	dance pop,pop,r&b	0.0415	0.673	1.1e-06	0.066	78.933	0.242	0.518
+2KukL7UlQ8TdvpaA7bY3ZJ	Beyoncé	BREAK MY SOUL	USSM12206234	0	dance pop,pop,r&b	0.0438	0.697	1.04e-05	0.0805	115.001	0.871	0.878
+1ZiJGdjNtvgngdT3wRKVqS	Doja Cat	Better Than Me	USRC11903464	63	dance pop,pop	0.294	0.674	3.31e-05	0.0376	129.926	0.509	0.759
+5xIDCYGTyLaDkiaaulVPcJ	Doja Cat	Shine	USRC11903462	61	dance pop,pop	0.421	0.559	0.0	0.246	107.627	0.289	0.63
+60ynsPSSKe6O3sfwRnIBRf	Doja Cat	Streets	USRC11903460	84	dance pop,pop	0.21	0.749	0.0382	0.0842	90.035	0.189	0.463
+2OAcH9SD8ehxuG0tWNe0cU	Doja Cat	Addiction	USRC11903458	67	dance pop,pop	0.00993	0.775	0.000537	0.166	90.005	0.548	0.708
+1j6NZFHrpc09YmEZuSlmwf	Doja Cat	Talk Dirty	USRC11903456	63	dance pop,pop	0.276	0.603	0.000227	0.12	168.006	0.403	0.741
+4EivmOT13NMpNSfTKn9p4s	Doja Cat,Gucci Mane	Like That (feat. Gucci Mane)	USRC11902288	77	dance pop,pop	0.239	0.879	0.0	0.18	106.044	0.405	0.498
+3Dv1eDb0MEgF93GpLXlucZ	Doja Cat	Say So	USRC11903454	81	dance pop,pop	0.264	0.787	3.35e-06	0.159	110.962	0.779	0.673
+1L0z2CQKrKJ2spYSMkfim9	Doja Cat	Bottom Bitch	USRC11902272	65	dance pop,pop	0.00265	0.695	0.000928	0.0359	160.028	0.484	0.825
+1TMWcbxL5YF8rKsFHv5hAP	Doja Cat	Rules	USRC11902867	77	dance pop,pop	0.172	0.651	0.0	0.166	144.146	0.686	0.724
+7k51pIqTGEHHZOnpI11Qq2	Doja Cat,Smino	Won't Bite (feat. Smino)	USRC11903450	70	dance pop,pop	0.351	0.807	0.0	0.0964	127.996	0.592	0.783
+1ghvzmzpx2nnrbx7wtpMgo	Doja Cat	Cyber Sex	USRC11902809	73	dance pop,pop	0.318	0.917	3.62e-06	0.0921	131.03	0.818	0.657
+76cy1WJvNGJTj78UqeA5zr	Dua Lipa	IDGAF	GBAHT1600301	79	dance pop,pop,uk pop	0.0403	0.836	0.0	0.0943	97.028	0.51	0.544
+6Uj1ctrBOjOas8xZXGqKk4	Doja Cat	Woman	USRC12101532	92	dance pop,pop	0.0888	0.824	0.00294	0.0854	107.998	0.881	0.764
+4ZtFanR9U6ndgddUvNcjcG	Olivia Rodrigo	good 4 u	USUG12101245	91	pop	0.335	0.563	0.0	0.154	166.928	0.688	0.664
+3UoULw70kMsiVXxW0L3A33	Ariana Grande	pov	USUM72020441	77	dance pop,pop	0.36	0.487	0.0	0.0555	131.798	0.173	0.534
+0QzuaeCEEOV40Pn7IvKEny	dhruv	double take	GBMJG1911043	82	chill r&b,nyc pop,pop	0.845	0.656	0.0	0.0744	109.239	0.196	0.436

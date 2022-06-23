@@ -1,0 +1,216 @@
+[
+    {
+        "listened_at": "2022-06-22T20:17:01",
+        "track_name": "Por Perro",
+        "artist_name": "Sebastian Yatra, Luis Figueroa, Lary Over",
+        "release_name": "Por Perro",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1XM5PgxjpYcF0JuE9nfUbS",
+        "listening_from": "spotify",
+        "isrc": "USUM71802269",
+        "additional_info": {
+            "artist_msid": "690a0702-6f04-4779-803d-ae6451729abf",
+            "artist_names": [
+                "Sebastian Yatra",
+                "Luis Figueroa",
+                "Lary Over"
+            ],
+            "discnumber": 1,
+            "duration_ms": 245360,
+            "isrc": "USUM71802269",
+            "listening_from": "spotify",
+            "recording_msid": "81a9b97e-76cb-4f64-ad94-ef6859df357f",
+            "release_artist_name": "Sebastian Yatra",
+            "release_artist_names": [
+                "Sebastian Yatra"
+            ],
+            "release_msid": "dd7290e2-3596-4a69-bdcb-5e1f164ffae5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0l8575VujuXuRfWRM3FGYU",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW",
+                "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7",
+                "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1XM5PgxjpYcF0JuE9nfUbS",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-22T20:12:55",
+        "track_name": "Good Luck, Kid",
+        "artist_name": "JOSEPH",
+        "release_name": "Good Luck, Kid",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3aUJv6UgDViCxiw2C2fQ1K",
+        "listening_from": "spotify",
+        "isrc": "USATO1900085",
+        "additional_info": {
+            "artist_msid": "a9cd93ff-bc99-43b5-9823-a2c9c60381c0",
+            "artist_names": [
+                "JOSEPH"
+            ],
+            "discnumber": 1,
+            "duration_ms": 156013,
+            "isrc": "USATO1900085",
+            "listening_from": "spotify",
+            "recording_msid": "e3afa07f-976e-4c28-ba1f-818e5bce1ad8",
+            "release_artist_name": "JOSEPH",
+            "release_artist_names": [
+                "JOSEPH"
+            ],
+            "release_msid": "170e3d4b-f884-435e-b69d-432ec0bdf1b9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7I9Y2DHOoBjmzxsGPq3R3e",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3aUJv6UgDViCxiw2C2fQ1K",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-22T20:07:47",
+        "track_name": "La Casa de A",
+        "artist_name": "Marilina Bertoldi",
+        "release_name": "Prender un Fuego",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH",
+        "listening_from": "spotify",
+        "isrc": "ARF841800059",
+        "additional_info": {
+            "artist_msid": "385c3caf-bdff-49c2-9308-bf72f35609b1",
+            "artist_names": [
+                "Marilina Bertoldi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 196072,
+            "isrc": "ARF841800059",
+            "listening_from": "spotify",
+            "recording_msid": "07b77917-203c-477d-b622-a0c7944ee57d",
+            "release_artist_name": "Marilina Bertoldi",
+            "release_artist_names": [
+                "Marilina Bertoldi"
+            ],
+            "release_msid": "0b5097dc-2cbf-477a-9ca1-e844d36e7d4d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-22T19:57:10",
+        "track_name": "Haw\u00e1i",
+        "artist_name": "Maluma",
+        "release_name": "Haw\u00e1i",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG",
+        "listening_from": "spotify",
+        "isrc": "USSD12000190",
+        "additional_info": {
+            "artist_msid": "a302405b-525f-4ad7-ab41-48020b9a3bf2",
+            "artist_names": [
+                "Maluma"
+            ],
+            "discnumber": 1,
+            "duration_ms": 200197,
+            "isrc": "USSD12000190",
+            "listening_from": "spotify",
+            "recording_msid": "fada97f2-69e3-43fd-8adf-3c6994de5463",
+            "release_artist_name": "Maluma",
+            "release_artist_names": [
+                "Maluma"
+            ],
+            "release_msid": "17a3e8b4-0513-4df0-8128-e54fed1c21e5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-22T19:53:48",
+        "track_name": "drivers license",
+        "artist_name": "Olivia Rodrigo",
+        "release_name": "SOUR",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+        "listening_from": "spotify",
+        "isrc": "USUG12004749",
+        "additional_info": {
+            "artist_msid": "c7e6b7f9-8ac3-49a9-8f20-e6b98d8ce517",
+            "artist_names": [
+                "Olivia Rodrigo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 242013,
+            "isrc": "USUG12004749",
+            "listening_from": "spotify",
+            "recording_msid": "c0df28b2-963e-4935-983a-002b5e3db9e7",
+            "release_artist_name": "Olivia Rodrigo",
+            "release_artist_names": [
+                "Olivia Rodrigo"
+            ],
+            "release_msid": "af0749cd-e434-47fa-b211-e93c9b6a72c1",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+            "tracknumber": 3
+        },
+        "username": null
+    }
+]

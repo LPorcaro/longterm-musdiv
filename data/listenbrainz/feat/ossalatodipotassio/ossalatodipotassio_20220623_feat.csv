@@ -1,0 +1,12 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+2KukL7UlQ8TdvpaA7bY3ZJ	Beyoncé	BREAK MY SOUL	USSM12206234	0	dance pop,pop,r&b	0.0438	0.697	1.04e-05	0.0805	115.001	0.871	0.878
+2BPzPlWRcgwWT4rOSvUza8	Xiao Zhan,WANG YIBO	[Theme Song] Wu Ji - Chorus Edition	FRX201986845	56		0.00313	0.323	1.83e-05	0.0375	89.973	0.386	0.697
+4hJbPNtAKE6wHUbFas3LzH	Jeff Chang	無別 (動畫《天官賜福》片頭曲)	TWB532010005	48	c-pop,classic mandopop,mandopop	0.799	0.365	0.0	0.0468	143.468	0.354	0.394
+0ofHAoxe9vBkTCp2UQIavz	Fleetwood Mac	Dreams - 2004 Remaster	USWB11301111	83	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.0644	0.828	0.00428	0.0276	120.151	0.789	0.492
+0k7tFat3QoVTtvMlwAgPaT	Bo Burnham	The Chicken	USA2P2225079	60	comic	0.772	0.482	0.0	0.0434	95.625	0.374	0.205
+4aDupxFxldxF8V4XbE4fyH	Bo Burnham	1985	USA2P2225075	66	comic	0.0432	0.646	0.0	0.0475	155.85	0.894	0.724
+0GdiWLQt5VYtMEcero6AOW	Amanda Palmer	Runs in the Family	NLA320886591	54	anti-folk,dark cabaret,piano rock,steampunk	0.547	0.577	0.0	0.0565	142.39	0.755	0.721
+27cw0tNJKQQW2CJMGcCfZb	Sushi Soucy	I Deserve to Bleed	TCAFI2015453	67	indie pop	0.918	0.761	0.0	0.0682	119.991	0.595	0.276
+1t67WYNfUxfOiwaz7SJ66b	Arctic Monkeys	One Point Perspective	GBCEL1800165	54	garage rock,permanent wave,rock,sheffield indie	0.057	0.714	0.00444	0.0419	77.104	0.842	0.585
+5eoZTdiq4C4aoEfUwAN0ha	Panic! At The Disco	The Good, the Bad and the Dirty	USAT21503700	60	modern rock	0.00191	0.531	0.0	0.0545	156.071	0.824	0.825
+33CeM8NI7tfrNgciVOFMoo	Lana Del Rey	Summertime Sadness	GBUM71111565	61	art pop,pop	0.0456	0.565	0.0	0.0334	111.931	0.216	0.647
