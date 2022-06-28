@@ -22,8 +22,8 @@ CONTEXTS_a = ["Relaxing", "Sleeping", "Studying", "Working"]
 CONTEXTS_b = ["Commuting", "Partying", "Running", "Shopping"]
 TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
 ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
-ROUNDS =  ["00", "01", "02"]#, "03", "04", "10"]
-ROUNDS_LAB = ['Pre', 'Week 1', "Week 2"]#, "Week 3", "Week 4", "Post"]
+ROUNDS =  ["00", "01", "02", "03", "04",]# "10"]
+ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4"]#, "Post"]
 GROUPS = ["HD", "LD"]
 SESSION1 = [str(x).zfill(2) for x in range(1,6)]
 SESSION2 = [str(x).zfill(2) for x in range(6,11)]
@@ -88,26 +88,27 @@ def plot_scores(df):
     """
     """
     # Plot D-score Individual
-    fig, axs = plt.subplots(2, 4,sharey=True,sharex=True)
-    for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
-        df_group = df[df.group == group]
-        for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
-            y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
-                 ].d_score.values for att_round in ROUNDS]
-            y = [el[0] for el in y if el.size > 0]
-            x = range(len(y))
-            axs[n,m].plot(x, y, c=c, label=group)
-            axs[n,m].set_xticks(x)
-            axs[n,m].set_xticklabels(ROUNDS_LAB[:len(x)])
-            axs[n,m].tick_params(rotation=50)
-            axs[n,m].set_title(pid)
-            axs[n,m].grid()
-    axs[0,0].set_ylabel('D-score')
-    axs[1,0].set_ylabel('D-score')
-    axs[0,0].legend()
-    axs[1,0].legend() 
-    plt.ylim([-1,1])
-    plt.show()
+    # fig, axs = plt.subplots(2, 4,sharey=True,sharex=True)
+    # for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
+    #     df_group = df[df.group == group]
+    #     for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
+    #         y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
+    #              ].d_score.values for att_round in ROUNDS]
+    #         y = [el[0] for el in y if el.size > 0]
+    #         x = range(len(y))
+    #         axs[n,m].plot(x, y, c=c, label=group)
+    #         axs[n,m].set_xticks(x)
+    #         axs[n,m].set_xticklabels(ROUNDS_LAB[:len(x)])
+    #         axs[n,m].tick_params(rotation=50)
+    #         axs[n,m].set_title(pid)
+    #         axs[n,m].grid()
+    # axs[0,0].set_ylabel('D-score')
+    # axs[1,0].set_ylabel('D-score')
+    # axs[0,0].legend()
+    # axs[1,0].legend() 
+    # plt.ylim([-1,1])
+    # plt.show()
+    
     # Plot D-score joint
     for group, c in zip(GROUPS, ["b","g"]):
         df_group = df[df.group == group]
@@ -134,11 +135,14 @@ def plot_scores(df):
                  ].d_score.values for att_round in ROUNDS]
             y = [el[0] for el in y if el.size > 0]
             x = range(len(y))
+            if len(x) <= 3:
+                continue
+
             baseline.append(y[0])
             slope = pg.linear_regression(x, y)
             slopes.append(slope[slope.names == 'x1'].coef.item())
 
-        [axs.text(x,y,z) for x,y,z in zip(baseline, slopes, df_group.PROLIFIC_PID.unique().tolist())]
+        # [axs.text(x,y,z) for x,y,z in zip(baseline, slopes, df_group.PROLIFIC_PID.unique().tolist())]
         axs.scatter(baseline, slopes, color=c, label=group)
 
     axs.set_xlabel("Baseline D-score (pre)")
@@ -148,26 +152,26 @@ def plot_scores(df):
     plt.legend()
     plt.show()
 
-    # Plot O-score Individual
-    fig, axs = plt.subplots(2,4,sharey=True,sharex=True)
-    for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
-        df_group = df[df.group == group]
-        for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
-            y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
-                 ].o_score.values for att_round in ROUNDS]
-            y = [el[0] for el in y if el.size > 0]
-            x = range(len(y))
-            axs[n,m].plot(x, y, c=c, label=group)
-            axs[n,m].set_xticks(x)
-            axs[n,m].set_xticklabels(ROUNDS_LAB[:len(x)])
-            axs[n,m].tick_params(rotation=50)
-            axs[n,m].set_title(pid)
-            axs[n,m].grid()
-    axs[0,0].set_ylabel('D-score')
-    axs[1,0].set_ylabel('D-score')
-    axs[0,0].legend()
-    axs[1,0].legend() 
-    plt.show()
+    # # Plot O-score Individual
+    # fig, axs = plt.subplots(2,4,sharey=True,sharex=True)
+    # for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
+    #     df_group = df[df.group == group]
+    #     for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
+    #         y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
+    #              ].o_score.values for att_round in ROUNDS]
+    #         y = [el[0] for el in y if el.size > 0]
+    #         x = range(len(y))
+    #         axs[n,m].plot(x, y, c=c, label=group)
+    #         axs[n,m].set_xticks(x)
+    #         axs[n,m].set_xticklabels(ROUNDS_LAB[:len(x)])
+    #         axs[n,m].tick_params(rotation=50)
+    #         axs[n,m].set_title(pid)
+    #         axs[n,m].grid()
+    # axs[0,0].set_ylabel('D-score')
+    # axs[1,0].set_ylabel('D-score')
+    # axs[0,0].legend()
+    # axs[1,0].legend() 
+    # plt.show()
     # Plot O-score join
     for group, c in zip(GROUPS, ["b","g"]):
         df_group = df[df.group == group]
@@ -193,6 +197,8 @@ def plot_scores(df):
                  ].o_score.values for att_round in ROUNDS]
             y = [el[0] for el in y if el.size > 0]
             x = range(len(y))
+            if len(x) <= 3:
+                continue
             baseline.append(y[0])
             slope = pg.linear_regression(x, y)
             slopes.append(slope[slope.names == 'x1'].coef.item())
@@ -227,7 +233,7 @@ def plot_scores(df):
     axs[2].set_title(label="Week 2")
     axs[3].set_title(label="Week 3")
     axs[4].set_title(label="Week 4")
-    axs[5].set_title(label="Post")
+    # axs[5].set_title(label="Post")
     plt.show()
 
 
@@ -740,7 +746,7 @@ if __name__ == "__main__":
 
     # plot_scores(df_join_att)
     # plot_correlation(df_join_att)
-    plot_cntx(df_join_cntx)
+    # plot_cntx(df_join_cntx)
     # plot_mixed(df_join_att, df_join_ls)
     # plot_ls(df_join_ls)
     
