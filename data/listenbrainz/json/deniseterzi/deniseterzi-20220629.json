@@ -1,0 +1,1224 @@
+[
+    {
+        "listened_at": "2022-06-29T01:37:09",
+        "track_name": "00",
+        "artist_name": "Rkomi, Tedua",
+        "release_name": "Dasein Sollen",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/21iD885b2bwnXTrWT99WxL",
+        "listening_from": "spotify",
+        "isrc": "ITDF61777058",
+        "additional_info": {
+            "artist_msid": "4e9dd6c8-2057-49ca-8237-73ee2a4faca1",
+            "artist_names": [
+                "Rkomi",
+                "Tedua"
+            ],
+            "discnumber": 1,
+            "duration_ms": 191386,
+            "isrc": "ITDF61777058",
+            "listening_from": "spotify",
+            "recording_msid": "dec8af87-25c8-4eb5-9b1f-681d225ee691",
+            "release_artist_name": "Rkomi",
+            "release_artist_names": [
+                "Rkomi"
+            ],
+            "release_msid": "ce021ffd-cd12-4ce6-ad70-d5cf4e866b49",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3",
+                "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+            ],
+            "spotify_id": "https://open.spotify.com/track/21iD885b2bwnXTrWT99WxL",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-29T01:14:21",
+        "track_name": "Puro Sinaloa (feat. Tedua, Rkomi & Lazza)",
+        "artist_name": "Ernia, Tedua, Rkomi, Lazza",
+        "release_name": "Gemelli",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/5E75l3Zb0vzdiDNJczr29z",
+        "listening_from": "spotify",
+        "isrc": "ITUM72000303",
+        "additional_info": {
+            "artist_msid": "d52e5134-7ec9-445c-bdb4-f86203c59882",
+            "artist_names": [
+                "Ernia",
+                "Tedua",
+                "Rkomi",
+                "Lazza"
+            ],
+            "discnumber": 1,
+            "duration_ms": 227093,
+            "isrc": "ITUM72000303",
+            "listening_from": "spotify",
+            "recording_msid": "9ed66504-9b64-4107-9b84-b96b30472adb",
+            "release_artist_name": "Ernia",
+            "release_artist_names": [
+                "Ernia"
+            ],
+            "release_msid": "13b0e549-8e37-424a-9fcd-4b6b191bf491",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm",
+                "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7",
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3",
+                "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5E75l3Zb0vzdiDNJczr29z",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-29T01:11:37",
+        "track_name": "Puro Sinaloa (feat. Tedua, Rkomi & Lazza)",
+        "artist_name": "Ernia, Tedua, Rkomi, Lazza",
+        "release_name": "Gemelli",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/5E75l3Zb0vzdiDNJczr29z",
+        "listening_from": "spotify",
+        "isrc": "ITUM72000303",
+        "additional_info": {
+            "artist_msid": "d52e5134-7ec9-445c-bdb4-f86203c59882",
+            "artist_names": [
+                "Ernia",
+                "Tedua",
+                "Rkomi",
+                "Lazza"
+            ],
+            "discnumber": 1,
+            "duration_ms": 227093,
+            "isrc": "ITUM72000303",
+            "listening_from": "spotify",
+            "recording_msid": "9ed66504-9b64-4107-9b84-b96b30472adb",
+            "release_artist_name": "Ernia",
+            "release_artist_names": [
+                "Ernia"
+            ],
+            "release_msid": "13b0e549-8e37-424a-9fcd-4b6b191bf491",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm",
+                "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7",
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3",
+                "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5E75l3Zb0vzdiDNJczr29z",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-27T17:21:32",
+        "track_name": "Niente Canzoni D'Amore - Inedito",
+        "artist_name": "Marracash, Federica Abbate",
+        "release_name": "Status (Inediti, Rarit\u00e0 & Live)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk",
+        "listening_from": "spotify",
+        "isrc": "ITUM71600010",
+        "additional_info": {
+            "artist_msid": "80b9f0dc-5e9a-458d-8a0a-c98c9af4d2e1",
+            "artist_names": [
+                "Marracash",
+                "Federica Abbate"
+            ],
+            "discnumber": 1,
+            "duration_ms": 226808,
+            "isrc": "ITUM71600010",
+            "listening_from": "spotify",
+            "recording_msid": "4ba18016-6cff-4594-9a11-ff5d1c0460f7",
+            "release_artist_name": "Marracash",
+            "release_artist_names": [
+                "Marracash"
+            ],
+            "release_msid": "338c9646-764c-46d8-b4e2-14fc9720ebff",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7",
+                "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-25T15:19:04",
+        "track_name": "COMINCIA TU (feat. Rosa Chemical)",
+        "artist_name": "Tananai, Rosa Chemical",
+        "release_name": "COMINCIA TU (feat. Rosa Chemical)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf",
+        "listening_from": "spotify",
+        "isrc": "ITUM72200093",
+        "additional_info": {
+            "artist_msid": "76bcbfcb-82db-486f-b1b5-074621a34d9b",
+            "artist_names": [
+                "Tananai",
+                "Rosa Chemical"
+            ],
+            "discnumber": 1,
+            "duration_ms": 149196,
+            "isrc": "ITUM72200093",
+            "listening_from": "spotify",
+            "recording_msid": "6a92aedf-b342-41e9-ab8b-50f5290dd156",
+            "release_artist_name": "Tananai, Rosa Chemical",
+            "release_artist_names": [
+                "Tananai",
+                "Rosa Chemical"
+            ],
+            "release_msid": "d8e5ee74-206e-4625-b461-2a62026fc2d7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s",
+                "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s",
+                "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
+            ],
+            "spotify_id": "https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T16:29:53",
+        "track_name": "Attraverso Me (feat. Luch\u00e8)",
+        "artist_name": "Night Skinny, Luch\u00e8",
+        "release_name": "Mattoni",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/3zxZa44T41BWejPmrzY819",
+        "listening_from": "spotify",
+        "isrc": "ITUM71900828",
+        "additional_info": {
+            "artist_msid": "637ae0fe-bc4a-463d-b441-14fd31aa565c",
+            "artist_names": [
+                "Night Skinny",
+                "Luch\u00e8"
+            ],
+            "discnumber": 1,
+            "duration_ms": 166940,
+            "isrc": "ITUM71900828",
+            "listening_from": "spotify",
+            "recording_msid": "8938da7a-6828-44e8-9d30-a96880f38d2a",
+            "release_artist_name": "Night Skinny",
+            "release_artist_names": [
+                "Night Skinny"
+            ],
+            "release_msid": "877105ad-499c-41fb-b583-6d038e273b3d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h",
+                "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3zxZa44T41BWejPmrzY819",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T02:34:40",
+        "track_name": "Amici",
+        "artist_name": "Massimo Pericolo, Crookers, Nic Sarno",
+        "release_name": "Scialla Semper",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3",
+        "listening_from": "spotify",
+        "isrc": "ITRWL1900043",
+        "additional_info": {
+            "artist_msid": "a909b2c7-5919-4682-87ca-52517e694f3f",
+            "artist_names": [
+                "Massimo Pericolo",
+                "Crookers",
+                "Nic Sarno"
+            ],
+            "discnumber": 1,
+            "duration_ms": 180950,
+            "isrc": "ITRWL1900043",
+            "listening_from": "spotify",
+            "recording_msid": "730ec96d-403c-4d30-860d-8f6d1d8a5a2f",
+            "release_artist_name": "Massimo Pericolo",
+            "release_artist_names": [
+                "Massimo Pericolo"
+            ],
+            "release_msid": "4e5f884d-b727-4b1b-818e-00da47cf1bf3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq",
+                "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C",
+                "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T02:31:43",
+        "track_name": "Per Un Pugno Di Emozioni",
+        "artist_name": "Rkomi",
+        "release_name": "Ossigeno - EP",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/1kiXgoHY5UvDmjqHCKhx0S",
+        "listening_from": "spotify",
+        "isrc": "ITUM71800657",
+        "additional_info": {
+            "artist_msid": "0ab6cf72-1e7b-4c81-8ffe-883c8dc43fa9",
+            "artist_names": [
+                "Rkomi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 127480,
+            "isrc": "ITUM71800657",
+            "listening_from": "spotify",
+            "recording_msid": "e14c6217-787b-4235-a634-4ee0444a4b2f",
+            "release_artist_name": "Rkomi",
+            "release_artist_names": [
+                "Rkomi"
+            ],
+            "release_msid": "fa529c42-ec94-4b5c-8279-6625671354ae",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1kiXgoHY5UvDmjqHCKhx0S",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T02:12:09",
+        "track_name": "Sciacqua La Bocca (feat. Chadia Rodriguez)",
+        "artist_name": "Night Skinny, Chadia Rodriguez",
+        "release_name": "Mattoni",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/6ahXldp3LqIwbLGaxHdrxI",
+        "listening_from": "spotify",
+        "isrc": "ITUM71900839",
+        "additional_info": {
+            "artist_msid": "98a810e1-967d-450c-a09a-00bde6db82a2",
+            "artist_names": [
+                "Night Skinny",
+                "Chadia Rodriguez"
+            ],
+            "discnumber": 1,
+            "duration_ms": 89383,
+            "isrc": "ITUM71900839",
+            "listening_from": "spotify",
+            "recording_msid": "e561f0c4-ccc6-481c-884d-36ebd34d603a",
+            "release_artist_name": "Night Skinny",
+            "release_artist_names": [
+                "Night Skinny"
+            ],
+            "release_msid": "877105ad-499c-41fb-b583-6d038e273b3d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h",
+                "https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6ahXldp3LqIwbLGaxHdrxI",
+            "tracknumber": 15
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T01:55:47",
+        "track_name": "Saluti (feat. Gu\u00e8, Fabri Fibra, Rkomi & Carolina Marquez)",
+        "artist_name": "Night Skinny, Gu\u00e8, Fabri Fibra, Rkomi, Carolina Marquez",
+        "release_name": "Mattoni",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/4GI7qUGKC1p0BxngJ6CqcW",
+        "listening_from": "spotify",
+        "isrc": "ITUM71900842",
+        "additional_info": {
+            "artist_msid": "b1c13a56-11c6-48fe-9e8d-e0597ea0c3af",
+            "artist_names": [
+                "Night Skinny",
+                "Gu\u00e8",
+                "Fabri Fibra",
+                "Rkomi",
+                "Carolina Marquez"
+            ],
+            "discnumber": 1,
+            "duration_ms": 181275,
+            "isrc": "ITUM71900842",
+            "listening_from": "spotify",
+            "recording_msid": "30a399fc-79bf-4d2c-a88e-9ac5b7d2c382",
+            "release_artist_name": "Night Skinny",
+            "release_artist_names": [
+                "Night Skinny"
+            ],
+            "release_msid": "877105ad-499c-41fb-b583-6d038e273b3d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h",
+                "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27",
+                "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC",
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3",
+                "https://open.spotify.com/artist/3vrdwWVmzTsSJotjp92OPW"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4GI7qUGKC1p0BxngJ6CqcW",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T01:52:41",
+        "track_name": "Street Advisor (feat. Noyz Narcos, Marracash & Capo Plaza)",
+        "artist_name": "Night Skinny, Noyz Narcos, Marracash, Capo Plaza",
+        "release_name": "Mattoni",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6uUpssCxQaQWrlx869314b",
+        "listening_from": "spotify",
+        "isrc": "ITUM71900827",
+        "additional_info": {
+            "artist_msid": "e1a0c578-c891-429c-8b0a-94db856daf8f",
+            "artist_names": [
+                "Night Skinny",
+                "Noyz Narcos",
+                "Marracash",
+                "Capo Plaza"
+            ],
+            "discnumber": 1,
+            "duration_ms": 242600,
+            "isrc": "ITUM71900827",
+            "listening_from": "spotify",
+            "recording_msid": "fbc59c5a-38ff-4036-823f-547bc1bb22c4",
+            "release_artist_name": "Night Skinny",
+            "release_artist_names": [
+                "Night Skinny"
+            ],
+            "release_msid": "877105ad-499c-41fb-b583-6d038e273b3d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h",
+                "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY",
+                "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7",
+                "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6uUpssCxQaQWrlx869314b",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T01:48:11",
+        "track_name": "Prometto (feat. Rkomi & Luch\u00e8)",
+        "artist_name": "Night Skinny, Rkomi, Luch\u00e8",
+        "release_name": "Mattoni",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA",
+        "listening_from": "spotify",
+        "isrc": "ITUM71900833",
+        "additional_info": {
+            "artist_msid": "f7ce3f4f-6328-4409-bbad-6fc36c2d682a",
+            "artist_names": [
+                "Night Skinny",
+                "Rkomi",
+                "Luch\u00e8"
+            ],
+            "discnumber": 1,
+            "duration_ms": 194861,
+            "isrc": "ITUM71900833",
+            "listening_from": "spotify",
+            "recording_msid": "20ed87e0-b4aa-44ae-a179-b1e5e5f155ea",
+            "release_artist_name": "Night Skinny",
+            "release_artist_names": [
+                "Night Skinny"
+            ],
+            "release_msid": "877105ad-499c-41fb-b583-6d038e273b3d",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h",
+                "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3",
+                "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+            ],
+            "spotify_id": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-24T01:44:55",
+        "track_name": "USCITO DI GALERA",
+        "artist_name": "Lazza",
+        "release_name": "SIRIO",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb",
+        "listening_from": "spotify",
+        "isrc": "ITUM72200382",
+        "additional_info": {
+            "artist_msid": "08b06db4-e28f-46c3-b3d2-29ec5ead1a39",
+            "artist_names": [
+                "Lazza"
+            ],
+            "discnumber": 1,
+            "duration_ms": 172654,
+            "isrc": "ITUM72200382",
+            "listening_from": "spotify",
+            "recording_msid": "5342419b-7ed9-4e09-ab47-5a325a09d0f9",
+            "release_artist_name": "Lazza",
+            "release_artist_names": [
+                "Lazza"
+            ],
+            "release_msid": "e1a9b563-4e33-4fcf-9d91-87332781fc63",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb",
+            "tracknumber": 15
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T19:56:16",
+        "track_name": "Defenceless",
+        "artist_name": "Louis Tomlinson",
+        "release_name": "Walls",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/74YzCrLzu7fw0AasX3CEwv",
+        "listening_from": "spotify",
+        "isrc": "GBHMU1900061",
+        "additional_info": {
+            "artist_msid": "d570336f-a7de-48e9-9184-1c674924fd6d",
+            "artist_names": [
+                "Louis Tomlinson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 223920,
+            "isrc": "GBHMU1900061",
+            "listening_from": "spotify",
+            "recording_msid": "ca048391-17d8-47c1-905f-27f555b8ec8f",
+            "release_artist_name": "Louis Tomlinson",
+            "release_artist_names": [
+                "Louis Tomlinson"
+            ],
+            "release_msid": "b975fcb8-9fab-413a-86b5-ccdb4e1517ee",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+            ],
+            "spotify_id": "https://open.spotify.com/track/74YzCrLzu7fw0AasX3CEwv",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:53:41",
+        "track_name": "Only Angel",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry Styles",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/5Lbsc65org0b85kNsPkluY",
+        "listening_from": "spotify",
+        "isrc": "USSM11703957",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 291080,
+            "isrc": "USSM11703957",
+            "listening_from": "spotify",
+            "recording_msid": "7db408bb-1d8f-4767-9391-e1b074aa02af",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "79180c45-fb7c-4be1-ad53-bf0c1cf599d4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5Lbsc65org0b85kNsPkluY",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:48:51",
+        "track_name": "Satellite",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq",
+        "listening_from": "spotify",
+        "isrc": "USSM12200619",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 218577,
+            "isrc": "USSM12200619",
+            "listening_from": "spotify",
+            "recording_msid": "ad12efc2-bb51-4364-9755-52dd2bb54c3f",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:45:12",
+        "track_name": "As It Was",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
+        "listening_from": "spotify",
+        "isrc": "USSM12200612",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 167303,
+            "isrc": "USSM12200612",
+            "listening_from": "spotify",
+            "recording_msid": "53bf15f8-1725-4ca7-ae1e-ece104655992",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:42:23",
+        "track_name": "Boyfriends",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 12,
+        "spotify_id": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ",
+        "listening_from": "spotify",
+        "isrc": "USSM12200620",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 194543,
+            "isrc": "USSM12200620",
+            "listening_from": "spotify",
+            "recording_msid": "273277e3-f48a-48ce-92d8-7c2b2716b8a8",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ",
+            "tracknumber": 12
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:39:09",
+        "track_name": "Keep Driving",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE",
+        "listening_from": "spotify",
+        "isrc": "USSM12200618",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 140241,
+            "isrc": "USSM12200618",
+            "listening_from": "spotify",
+            "recording_msid": "5eec6e44-5e52-4956-bf46-eb6d9943af5d",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:36:48",
+        "track_name": "Daylight",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU",
+        "listening_from": "spotify",
+        "isrc": "USSM12200613",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 164533,
+            "isrc": "USSM12200613",
+            "listening_from": "spotify",
+            "recording_msid": "87b846fb-1e9c-443c-a482-176eff6e8777",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:34:03",
+        "track_name": "Cinema",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v",
+        "listening_from": "spotify",
+        "isrc": "USSM12200616",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 243507,
+            "isrc": "USSM12200616",
+            "listening_from": "spotify",
+            "recording_msid": "bc3ce169-01fc-4e5e-98b3-de7713454429",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:27:57",
+        "track_name": "Grapejuice",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0",
+        "listening_from": "spotify",
+        "isrc": "USSM12200611",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 191958,
+            "isrc": "USSM12200611",
+            "listening_from": "spotify",
+            "recording_msid": "c5d3531c-8ed3-4d51-87be-3e71b7615a90",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:24:44",
+        "track_name": "Daydreaming",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 9,
+        "spotify_id": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO",
+        "listening_from": "spotify",
+        "isrc": "USSM12200617",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 187342,
+            "isrc": "USSM12200617",
+            "listening_from": "spotify",
+            "recording_msid": "bcfd4c2b-f2cf-446b-8755-0de90a83d94b",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO",
+            "tracknumber": 9
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:21:37",
+        "track_name": "Late Night Talking",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK",
+        "listening_from": "spotify",
+        "isrc": "USSM12200610",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 177954,
+            "isrc": "USSM12200610",
+            "listening_from": "spotify",
+            "recording_msid": "e70a1427-ba6a-4864-91c9-0a462f80c6b0",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:18:38",
+        "track_name": "Little Freak",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj",
+        "listening_from": "spotify",
+        "isrc": "USSM12200614",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 202183,
+            "isrc": "USSM12200614",
+            "listening_from": "spotify",
+            "recording_msid": "21b71dfd-f10e-4eac-bca4-f82d57a0df6e",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:15:09",
+        "track_name": "Matilda",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O",
+        "listening_from": "spotify",
+        "isrc": "USSM12200615",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 245964,
+            "isrc": "USSM12200615",
+            "listening_from": "spotify",
+            "recording_msid": "3b942490-07d3-4355-b6c0-0308d4caf158",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:11:02",
+        "track_name": "Music For a Sushi Restaurant",
+        "artist_name": "Harry Styles",
+        "release_name": "Harry's House",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV",
+        "listening_from": "spotify",
+        "isrc": "USSM12200609",
+        "additional_info": {
+            "artist_msid": "f1993b30-8616-4de2-bb7d-93dc0ba45521",
+            "artist_names": [
+                "Harry Styles"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193813,
+            "isrc": "USSM12200609",
+            "listening_from": "spotify",
+            "recording_msid": "3ba3c01b-af05-4020-8334-5e2911587ca1",
+            "release_artist_name": "Harry Styles",
+            "release_artist_names": [
+                "Harry Styles"
+            ],
+            "release_msid": "bdde79b2-a77e-4a05-a8bf-bdd0784fa726",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-06-23T18:07:50",
+        "track_name": "Walking in the Wind",
+        "artist_name": "One Direction",
+        "release_name": "Made In The A.M. (Deluxe Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO",
+        "listening_from": "spotify",
+        "isrc": "GBHMU1500116",
+        "additional_info": {
+            "artist_msid": "1c498eab-998f-4975-b52b-72243e89c0ba",
+            "artist_names": [
+                "One Direction"
+            ],
+            "discnumber": 1,
+            "duration_ms": 202640,
+            "isrc": "GBHMU1500116",
+            "listening_from": "spotify",
+            "recording_msid": "6b35440e-2547-4bab-9fca-ebbbaea91be6",
+            "release_artist_name": "One Direction",
+            "release_artist_names": [
+                "One Direction"
+            ],
+            "release_msid": "93f85ab7-d902-4bd8-a834-f46f4c5b15e9",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO",
+            "tracknumber": 15
+        },
+        "username": null
+    }
+]

@@ -1,0 +1,35 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+12jrTzmK5ttCHbA1LAMT8t	Fentezy	Jiggle	QZK6J2209671	0		0.339	0.868	3.88e-05	0.0909	100.005	0.851	0.58
+1rDQ4oMwGJI7B4tovsBOxc	Jack Harlow	First Class	USAT22203024	94	deep underground hip hop,kentucky hip hop,rap	0.0254	0.905	9.71e-06	0.102	106.998	0.324	0.563
+0Be7sopyKMv8Y8npsUkax2	Sebastian Yatra	Tacones Rojos	USUM72119612	84	colombian pop,latin,reggaeton colombiano	0.0824	0.748	0.0	0.0348	123.031	0.927	0.856
+7pCcX8GklrbASun9rWFh4W	Sebastian Yatra,John Legend	Tacones Rojos - With John Legend	USUM72204206	70	colombian pop,latin,reggaeton colombiano	0.128	0.748	0.0	0.0341	123.003	0.896	0.838
+3nBGFgfRQ8ujSmu5cGlZIU	Polyphia	Playing God	QMRSZ2201095	70	instrumental rock	0.0395	0.601	0.812	0.0328	137.06	0.315	0.789
+0maCwhZTO3PybhSiQcsjAf	Polyphia	G.O.A.T.	ITH711800114	57	instrumental rock	0.000601	0.66	0.312	0.0332	107.028	0.359	0.76
+6gzs6lveSWaIp4BscchLuO	Stay Homas	Another Love Song	ES11D2200754	44	musica catalana	0.34	0.745	0.0	0.0367	112.967	0.806	0.561
+6Zu3aw7FfjAF9WA0fA81Oq	Latto	Big Energy	USRC12102454	81	pop,trap queen	0.0514	0.935	0.0	0.114	106.017	0.813	0.807
+2sUhjzuc6w4SRFwoC3LvXZ	Jovem Dionisio	ACORDA PEDRINHO	BCDJT2200002	82	indie curitibano	0.187	0.876	1.71e-06	0.341	124.016	0.876	0.359
+0nDvTmQlCcJMIIrAzdy7z3	O.A.R.	Love And Memories	USAT20505332	57	neo mellow,pop rock	0.000122	0.652	2.78e-06	0.0297	121.998	0.656	0.707
+6lZ5p6VTbZ2ZvnsdTlLv7I	CKay	Emiliana	ZA34K2100657	81	afro r&b	0.638	0.738	0.402	0.0513	98.965	0.475	0.549
+0sacd68LcwHnSGMgBMNSsn	Tayo Sound,Oscar Scheller	Two Left Feet (feat. Oscar Scheller)	USAR12100188	36		0.283	0.738	2.7e-06	0.0385	138.985	0.695	0.798
+0mlYxx3FMdz5ORjYaYLAY6	J Alive	Riding Through The City	QZJG52235980	42		0.073	0.831	0.0	0.0599	118.03	0.73	0.772
+3A50T2ge3ED4gCt5VRyP6x	Isaiah Mostafa	Freemotions	QZFYX2190476	33		0.0626	0.749	0.0271	0.0389	113.974	0.234	0.202
+2TH9Y6gYm8PJWdjIdUNT77	Samm Henshaw	Enough	GBKPL2166137	45	alternative r&b,british soul,indie soul,uk contemporary r&b	0.114	0.668	1.71e-06	0.149	89.03	0.732	0.456
+3koqSYOiD2Bh70RZGt7hMr	Kasha,Beatriz Rosário	Tarde Demais	PT0KV2200038	45		0.578	0.393	0.0	0.0731	79.449	0.354	0.415
+2QfiRTz5Yc8DdShCxG1tB2	Chuck Berry	Johnny B. Goode	USMC15719963	76	blues rock,classic rock,rock,rock-and-roll,rockabilly	0.741	0.534	6.07e-05	0.0743	167.983	0.969	0.803
+5t9KYe0Fhd5cW6UYT4qP8f	The Beach Boys	Good Vibrations - Remastered 2001	USCA20100360	73	baroque pop,brill building pop,classic rock,psychedelic rock,rock,sunshine pop	0.326	0.396	0.000124	0.0345	133.449	0.385	0.473
+7s25THrKz86DM225dOYwnr	Aretha Franklin	Respect	USAT20801240	74	classic soul,jazz blues,memphis soul,soul,southern soul	0.164	0.805	2.2e-05	0.041	114.95	0.965	0.558
+3Um9toULmYFGCpvaIPFw7l	Marvin Gaye	What's Going On	USMO17100041	71	classic soul,funk,indie r&b,motown,northern soul,quiet storm,soul	0.447	0.283	0.0	0.0986	201.96	0.828	0.716
+7pKfPomDEeI4TPT6EOYjn9	John Lennon	Imagine - Remastered 2010	GBAYE1000769	77	album rock,art rock,beatlesque,classic rock,folk rock,mellow gold,rock	0.907	0.547	0.183	0.0252	75.752	0.169	0.257
+2PzU4IB8Dr6mxV3lHuaG34	The Rolling Stones	(I Can't Get No) Satisfaction - Mono Version	USA176510160	77	british invasion,classic rock,rock	0.0383	0.723	0.0317	0.0338	136.302	0.931	0.863
+3AhXZa8sUQht0UEdBJgpGc	Bob Dylan	Like a Rolling Stone	USSM19922509	71	classic rock,country rock,folk,folk rock,indie r&b,rock,roots rock,singer-songwriter	0.731	0.482	0.0	0.0321	95.263	0.557	0.721
+1eCFz60zd7mAXgWLapPd9B	Drake	Currents	USUG12204883	82	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.104	0.883	0.00167	0.113	122.013	0.416	0.283
+4FIgHqXd4KkOwxrGeLDYM2	Drake	Texts Go Green	USUG12204882	84	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.000916	0.765	0.195	0.0622	118.997	0.536	0.627
+1vbn9fEyw1IYhqgZJdu9ZB	Drake	Falling Back	USUG12204881	86	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.238	0.718	0.00653	0.0703	118.989	0.349	0.758
+1kNdtonJXHorsVpWerK8C2	Drake	Intro	USUG12204899	80	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.955	0.193	0.88	0.0389	125.501	0.213	0.0218
+3PYx9Wte3jwb48V0wArMOy	Logic	Keanu Reeves	USUM71900411	66	conscious hip hop,dmv rap,hip hop,pop rap,rap	0.0557	0.712	0.0	0.24	170.13	0.799	0.891
+3e7Y6sfFlIdBMJhX7wpqVO	Logic	44 More	USUM71801134	67	conscious hip hop,dmv rap,hip hop,pop rap,rap	0.0718	0.824	0.0	0.221	139.965	0.219	0.584
+3s3VVLE1kB7Xk2AoJKlGmr	Logic	Overnight	USUM71802490	54	conscious hip hop,dmv rap,hip hop,pop rap,rap	0.00138	0.861	1.87e-05	0.0608	150.002	0.889	0.745
+1GtVGc1UYin3zpMUdNSSpM	Logic	Midnight	USUM71802496	58	conscious hip hop,dmv rap,hip hop,pop rap,rap	0.0867	0.568	0.0	0.108	95.056	0.269	0.607
+3BnDvpeuGOj21Ir2aVEtQo	Rema	Calm Down	NGA3B2214004	74	nigerian pop	0.365	0.814	0.000502	0.0405	107.003	0.842	0.789
+6NKuW3yaNXtloGw1RB8WUi	Mayorkun	Certified Loner (No Competition)	UK43Q2114449	61	afro dancehall,afropop,azontobeats,nigerian pop	0.0152	0.931	0.0	0.0498	111.948	0.739	0.676
+3QYKEE8zhMba8a38qulq9p	Cradle Of Filth	Darkness Our Bride [Jugular Wedding]	GBEGS0800137	19	black metal,british black metal,death metal,gothic black metal,gothic metal,metal,nu metal,symphonic black metal	0.843	0.187	0.972	0.0419	165.052	0.195	0.447

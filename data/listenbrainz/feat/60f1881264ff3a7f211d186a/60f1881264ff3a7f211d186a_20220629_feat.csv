@@ -1,0 +1,275 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+6K4t31amVTZDgR3sKmwUJJ	Tame Impala	The Less I Know The Better	AUUM71500303	84	australian psych,neo-psychedelic	0.0115	0.64	0.00678	0.0284	116.879	0.785	0.74
+6eczJiyXPukaEhiA6OPPtk	The Reytons	On the Back Burner	GBLFP1888235	59	english indie rock,modern rock	0.00504	0.623	0.0	0.049	100.072	0.963	0.931
+5TuTHrKzN6NweeQaKkBNb7	Vacations	Relax	SEYOK1669273	69	newcastle nsw indie	0.0588	0.471	0.000378	0.0467	169.898	0.544	0.881
+7yNf9YjeO5JXUE3JEBgnYc	Dominic Fike	Babydoll	USQX91802457	73	alternative pop rock,pop	0.114	0.762	0.0	0.11	168.007	0.847	0.604
+086myS9r57YsLbJpU0TgK9	Arctic Monkeys	Why'd You Only Call Me When You're High?	GBCEL1300370	85	garage rock,permanent wave,rock,sheffield indie	0.0483	0.691	1.13e-05	0.0368	92.004	0.8	0.631
+0lBOxYabLsCS8Hg5ZRaz7p	Tipling Rock	Staring	TCADD1726172	66	boston indie	0.0417	0.608	0.0	0.0372	156.95	0.897	0.687
+755inykyaG4w22GWAsA3MX	Lonely God	Marlboro Nights	GBSMU5360586	76	modern indie pop	0.00237	0.466	0.000321	0.311	175.797	0.782	0.823
+7xLfmCx9jcZNgzlIK7NupN	late night drive home	Stress Relief	QZMEP2194356	71		0.0108	0.519	0.000623	0.0318	139.94	0.603	0.666
+6EtKlIQmGPB9SX8UjDJG5s	Labrinth	Formula	USQX91902497	83	indie poptimism,pop	0.0448	0.574	0.0553	0.0409	144.654	0.226	0.664
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	86	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+0hVXuCcriWRGvwMV1r5Yn9	Ed Sheeran,Justin Bieber	I Don't Care (with Justin Bieber)	GBAHS1900672	75	pop,uk pop	0.0902	0.798	0.0	0.0442	101.956	0.843	0.676
+7qiZfU4dY1lWllzX7mPBI3	Ed Sheeran	Shape of You	GBAHS1600463	86	pop,uk pop	0.581	0.825	0.0	0.0802	95.977	0.931	0.652
+5VsZwt7AyePLXFrlHhMvoI	Whethan,Oliver Tree	Freefall (feat. Oliver Tree)	USAT22005959	47	edm,electropop,hyperpop,indie poptimism,vapor twitch	0.00681	0.559	0.0	0.0552	127.009	0.808	0.674
+0nS2xf6yooLnSAthClLCDi	TWOPILOTS,De Hofnar,Kav Verhouzer	If You Had My Love (Kav Verhouzer Remix)	NLT2H2100729	68	tropical house	0.0401	0.73	2.94e-06	0.0434	122.968	0.624	0.699
+1VRQHQLh9zeIee7Nw3G0oR	Beave	Good 4 U	GX4R52143368	62	deep groove house,house,pop dance,uk dance	0.337	0.701	0.00025	0.0872	125.959	0.559	0.842
+0gKtM9aX5GGo1Kg0Zrwb8b	Jend	Forever	QZNWQ2106888	61		0.0373	0.706	0.108	0.226	121.986	0.701	0.843
+5ZduaRci3iNUiDfJbBfAaf	Matt Sassari	Give It To Me - Full Vocal Mix	GBHAD2102631	75	french tech house,french techno	0.00116	0.874	0.00238	0.0315	126.027	0.726	0.869
+1S69G657rrHOIfPkKNihwH	Jay Pryor,Coldabank,Anna Straker	Good for Me (feat. Anna Straker)	GBKPL2164737	66	deep groove house,edm,electro house,house,pop dance,pop edm,tropical house	0.02	0.725	0.00821	0.0453	124.987	0.411	0.615
+5L8rtOcwS2HDeJsAuM2oNd	Michael Calfan,Hannah Boleyn	Wild Night	FRD9M2100710	73	dance pop,deep groove house,deep house,edm,electro house,house,pop dance,pop edm,progressive electro house,progressive house,tropical house	0.0405	0.674	0.269	0.0683	122.891	0.456	0.847
+4zN21mbAuaD0WqtmaTZZeP	James Hype,Miggy Dela Rosa	Ferrari	GB3CE2200004	87	dance pop,deep groove house,edm,house,pop dance,tropical house,uk dance	0.0127	0.847	6e-05	0.0493	125.004	0.692	0.69
+2YMY061QrP62VEA6thqCqm	James Blake,Endel	1st Soundscape	USUM72209038	53	alternative r&b,indie soul,uk alternative pop,uk pop	0.99	0.141	0.983	0.0375	141.76	0.0415	0.0301
+3NWMuq1k1DJNXaHU0m7GDj	Jorge Milliano	Drip! Drip! Drip!	QZNJV2144234	39		0.614	0.714	0.826	0.487	195.939	0.358	0.344
+72QkLvjQpIhPrmmaR4KjjY	Liam Mour	Dreaming Of A Better Place	US23A1529089	42		0.893	0.193	0.925	0.0328	143.323	0.112	0.158
+33xzOMLKWD1QdYYKETCkY5	Teen Daze	The Frequency of the Universe	CA0581600214	38	chillwave,indie dream pop,vancouver indie	0.745	0.132	0.927	0.0403	88.161	0.0295	0.0835
+160leq3oBHDPYyD0A6rK3n	AK,Dario Lessing	All You Need Is Time	FR10S2151093	42		0.794	0.697	0.927	0.0363	140.002	0.123	0.361
+78aJqO5ASq0ghF33iUjRbM	Yvois	Masks Off	GB5P52100172	39	nz electronic	0.301	0.669	0.0112	0.224	172.016	0.781	0.912
+4auPkl8KDB2a1kk4zj0HHp	Gidge	Quasar	NLC7F2000085	51	electronica,italian electronica	0.278	0.453	0.881	0.0789	177.008	0.0574	0.481
+54yAYWaPxtoashe2VHADMh	Blackboxx	Universal Intimacy	QZPLR2013741	40		0.00513	0.613	0.782	0.0275	128.109	0.386	0.722
+1EuTegwrStmrua9JUtg6EK	Jadu Jadu,TAMBALA	cheated	FRX872134610	41		0.8	0.728	0.904	0.0958	85.96	0.367	0.318
+30XkCWjqtb6hJKZwL2dUHg	||||||||||||||||||||	Solved Quick	CAHQJ2104898	31		0.55	0.513	0.944	0.0863	105.76	0.144	0.548
+0SDh7AAKlUSzzzXfuB1aVw	Rival Consoles	Memory Arc	GBWZD1810903	44	ambient idm,chamber psych,compositional ambient,electronica,intelligent dance music,microhouse	0.811	0.126	0.834	0.0381	79.158	0.0393	0.204
+0JF3Ju6TpQjwnnH10B9kpu	rRoxymore	Drunken Clouds	DEG932200849	29	experimental electronic	0.121	0.566	0.827	0.0298	97.006	0.0974	0.666
+2h6xtPKtsmS8w3N2Ex9qrR	AK	Deep Blue	DEZC62002306	42		0.657	0.667	0.884	0.046	140.507	0.193	0.56
+3rkJH9BaiCWpRY718WTkBP	Floating Points	Falaise	GBCFB1900152	45	electronica,microhouse,uk bass,wonky	0.434	0.356	0.789	0.0467	142.945	0.0397	0.401
+5N4zbU92aLx9Wrn16isoo8	Aparde	Unfamiliar	QM4TW2142849	32		0.169	0.607	0.937	0.0396	145.995	0.288	0.532
+3VfnEFPZEngbEB5Qb6TeB4	Southern Shores	Aerie	USA2B2059192	41	chillwave,indie dream pop	0.0921	0.685	0.889	0.052	101.993	0.523	0.499
+4oV37nYkVu3IZ64ZGxghT7	TSHA	I Know	GBCFB2100477	44	uk house	0.103	0.687	0.869	0.0322	115.0	0.174	0.803
+5JlEWsqXWnIT4rPTJF3bny	Branko,Iúri Oliveira	CTG	PTEN12000039	40	moombahton	0.204	0.813	0.839	0.049	120.041	0.0934	0.731
+3i0IiglJ0nzjxlpU3s7wXr	Cihangir Aslan,Dilan Balkay	Night Owl	QM4TW2105211	45		0.884	0.542	0.914	0.104	194.049	0.176	0.521
+4heqKrhIECpVTUgAAoJUVa	Trudge	No Motivation, Meaningless	UKN6K2100700	28	lo-fi house	0.00416	0.586	0.73	0.0519	147.98	0.143	0.846
+10xSbuKDUbR4mmFUzgHoox	Salamanda	Hard Luck Story	USYBL2200753	26	fourth world,j-ambient,spectra	0.00741	0.749	0.853	0.0736	101.026	0.447	0.495
+66UtI0AwPaly2zlFC5SZE1	trog'low	FLOWERS OF THE FLOATING WORLD: Winter Jasmine~冬	US3DF2027497	38	ambeat	0.837	0.588	0.879	0.198	79.72	0.347	0.25
+29cm9i5SgSLeygfzBMQPMd	Pandit Pam Pam	Radio	AU3MB2000081	30	eletronica underground brasileira	0.879	0.724	0.913	0.0839	117.006	0.571	0.44
+6oWbVqlBJj6IoW8cyO3aH0	Aleksandir	Sacro	UKT962200005	38	ambient house,float house	0.492	0.727	0.88	0.0499	147.989	0.331	0.782
+43ZYhWQmtLdtgISK8QmBGE	Harris Cole	Gone Fishing	QM6MZ2002561	48	chillhop,lo-fi beats	0.84	0.507	0.95	0.0419	100.012	0.0532	0.0488
+635aBqtYKZiGQTotfllnpl	Rohne	Flicker	GBKQU2115588	35		0.282	0.715	0.828	0.0364	122.025	0.113	0.571
+36vmHQWDFTkiihU3YTMXO5	Flanafi,Ape School	Gjuijar	GBKPL2150771	42	psychedelic soul	0.72	0.647	0.894	0.0331	104.006	0.681	0.56
+3Yagxg6rtkwN01AYzA862i	Ólafur Arnalds,Bonobo	Loom (feat. Bonobo)	GBBBA2000030	48	bow pop,compositional ambient,icelandic classical,neo-classical,neoclassical darkwave	0.988	0.545	0.906	0.0337	156.694	0.31	0.18
+05csUH7EHgeXK7Yky1nQFe	Moleno	Un Lent Mouvement	SE5W32200365	61		0.992	0.424	0.932	0.0476	81.338	0.124	0.0661
+6rpe9Mdf5msSSHYZHOPuRA	Alexander Motovilov	Endless Summer	AUMEV2232414	47		0.987	0.408	0.922	0.0377	140.174	0.298	0.105
+55CV2zAzc0R9M31IRTm2vA	Joni Bernier	Seascape	SE5W32201639	49		0.982	0.257	0.893	0.0394	86.503	0.0767	0.0377
+4FoP6Z1UO96TSRdjD4aAQq	Leonard Czernay	Branches étoilées	SE6RU2209301	49		0.993	0.504	0.968	0.0862	71.408	0.0694	0.0422
+0rZYsX5OgshLXSj4zumlxx	Keiko Ishida	Maiestas	US66W2101398	54	background piano	0.995	0.498	0.931	0.0388	104.592	0.338	0.0431
+5gYcfdwdwQ7eowE3ycuXaW	Errol Hayward	Heartbeat	SE5IB2120296	52		0.988	0.252	0.913	0.0422	167.09	0.318	0.0169
+0iSA3uRjsCPvL43BO22xDt	Nikolas Belalis	Mosel Reflections (Solo Piano Version)	uscgj2227194	48		0.991	0.406	0.945	0.059	96.282	0.246	0.03
+1Y9CNCm8icZUaMtQV29NpC	Thomas Preber	Lonely Leslie	SE5IB2142859	49		0.995	0.289	0.936	0.0364	84.064	0.106	0.0982
+2vRsp5AMbl1bex8OGuT1Ox	Matti Bye	Open Window	SE5ZV2207701	49	background piano,nordic soundtrack	0.988	0.236	0.914	0.035	168.971	0.526	0.0165
+1L5ABoW0UZyVWk7ZbXDokA	Qunfan Wen	Light through a Willow's Leaves	QZES52283708	48	background piano	0.994	0.468	0.934	0.0333	105.079	0.0967	0.0915
+3y4t41pbQBDpmD60HdCMRN	Dunham Froebel	Hideaway	SEXGF2143901	57		0.986	0.46	0.93	0.0354	116.615	0.37	0.0691
+0ngwNemhn1nKmYHYZnJZmB	Tamara Blake	Whirling sky	SE5W32200707	62	background piano	0.977	0.397	0.919	0.0491	124.936	0.298	0.0511
+4hHEz6u8xPXcTU4qmVNkpq	Renato Luigi	Elevate	SE5W32104123	61		0.991	0.199	0.906	0.0339	166.947	0.283	0.0404
+0SpK2s8gJnetHIuzSBqgta	Lupe Sinsonte	Donde Nadas	US66W2100223	56	background piano	0.995	0.323	0.934	0.0376	98.443	0.196	0.0323
+4KM5cQbSeD8xIqohdLkfgP	Temperance Lloyd	Feels like home	US66W2200598	48		0.992	0.261	0.92	0.0547	78.808	0.0568	0.0483
+4vCdNdBT7N2t9ajQHxIR92	Esther Dutch	Fallboard	US66W2101012	57	background piano	0.996	0.404	0.942	0.0416	97.428	0.385	0.0384
+47u0q4Z7iALJXli6pkcnvA	Cassandra Nestico	Mystique	SE5W32200459	61	background piano	0.983	0.415	0.942	0.0395	165.912	0.137	0.048
+0i5RkqFU2XfihIcxTxG3h1	Biba Dupont	Home full of solipsism	US66W2101383	58	background piano,spanish electronic	0.996	0.479	0.94	0.0378	95.694	0.172	0.0431
+43z2LSP0180NFwr720P3xk	Elfrieda	Remembrance	SE5W32200077	59	background piano	0.977	0.459	0.866	0.0417	76.974	0.241	0.101
+2bjQvSk5T3A2dmnqqeRhzI	Emanuel Fremont	Saying Things	SE5W32201092	64	background piano	0.993	0.307	0.945	0.0423	72.453	0.0631	0.0381
+2W3ZpQg9i6lE6kmHbcdu9N	Gorillaz,Thundercat	Cracker Island (feat. Thundercat)	GBAYE1901301	73	alternative hip hop	0.00343	0.741	0.103	0.0465	120.012	0.643	0.913
+0WSa1sucoNRcEeULlZVQXj	Bring Me The Horizon	Can You Feel My Heart	GBARL1202415	81	melodic metalcore,metalcore,rock,uk metalcore	0.00201	0.15	0.194	0.0595	170.527	0.354	0.859
+6xGruZOHLs39ZbVccQTuPZ	Joji	Glimpse of Us	USWB12201789	98	alternative r&b,viral pop	0.891	0.44	4.78e-06	0.0531	169.914	0.268	0.317
+3bmbNLqSJjGDRbbqlJUt4y	Tom Novy,Cat Dealers,Michael Marshall	Your Body - Cat Dealers Radio Edit	DES231700120	60	disco house,vocal house	0.327	0.684	0.135	0.365	123.967	0.344	0.612
+0ekMehNXQgeMJXfCPrlTTf	Frankie HI-NRG MC,Riccardo Sinigallia	Quelli che benpensano (feat. Riccardo Sinigallia)	ITB009700230	53	italian underground hip hop,rap italiano old school,rap napoletano	0.0292	0.705	0.00041	0.131	89.005	0.631	0.729
+4nQA0aaMk4gQdSIkVPpKtX	Stckman	Gira - Demo	QZ4JJ1941307	40		0.778	0.711	9.57e-05	0.15	119.994	0.484	0.466
+11lbXJg7UJGxZrJnEMLlHL	Aleksandir	Yamaha	UK6821801370	51	ambient house,float house	0.299	0.789	0.917	0.0517	121.02	0.708	0.502
+2sRuOQ3fg1EGzzcuBgohJX	Post Nebbia	Televendite di quadri	ITYBK1900024	46	indie veneto,italian indie pop	0.0658	0.513	0.0208	0.0323	78.995	0.707	0.724
+3wvC1UaLIFHnUyq2u5KliM	RIN,Giant Rooks	Insomnia (feat. Giant Rooks)	DEKF22100554	56	german cloud rap,german hip hop	0.171	0.84	1.09e-05	0.0978	140.066	0.963	0.759
+0csz09qS2n8Jo7LogHKu7j	Disclosure,Eko Roosevelt	Tondo	GBUM72000253	63	edm,house,pop,uk dance	0.0126	0.675	0.117	0.0539	132.001	0.842	0.92
+013TFRzJWkT41RRSgSenfI	Bring Me The Horizon	i don't know what to say	GBARL1801504	52	melodic metalcore,metalcore,rock,uk metalcore	0.0154	0.499	0.0982	0.055	92.449	0.239	0.728
+0eu4C55hL6x29mmeAjytzC	Oliver Tree	Life Goes On	USAT22007153	81	alternative hip hop	0.186	0.7	0.0	0.076	79.982	0.569	0.49
+0nFCpnM7nistUWXRZpzOWM	MACHETE,Salmo,Lazza	HO PAURA DI USCIRE 2 - prod. Mace	ITB001900355	60	italian hip hop,trap italiana	0.168	0.838	0.0	0.283	119.939	0.692	0.853
+44l2QraBH96L5LejzEFWLH	Aoi tada	Wo Qui Non Coin	JPVI09907920	44		0.282	0.896	0.0169	0.127	107.982	0.972	0.234
+1HWkMkgqKMLqsAPRh0KNmE	Christian Leave	Your Life Your Time	USWB12004903	63	indie pop,modern rock,pop	0.000292	0.532	0.0191	0.0321	159.034	0.868	0.815
+7yq4Qj7cqayVTp3FF9CWbm	Vance Joy	Riptide	AULI01385760	82	folk-pop,modern rock,pop,pop rock	0.431	0.484	0.0	0.0379	101.654	0.51	0.731
+55t50rvCe2kUSrpVVwPw4I	Izzamuzzic,Asenssia	Calm Me Down	FR10S2054742	45	kazakh pop,russian electronic	0.939	0.415	0.769	0.0357	123.947	0.0359	0.334
+22ecjYZr5RuuY4DUD2kYW1	Harry Quintana,Blanko Malte	Lago Maggiore	QZFZ62120841	39		0.537	0.688	7.52e-05	0.237	91.838	0.86	0.74
+29vUfciAg1Io3M0noQrxXW	Nina Cobham	interested	GBKPL2148970	25	chill pop	0.861	0.833	0.000155	0.0783	126.002	0.23	0.288
+5r5cp9IpziiIsR6b93vcnQ	Empire of the Sun	Walking On A Dream	AUEI10800039	79	alternative dance,australian dance,australian electropop,dance rock,electropop,indietronica,neo-synthpop,new rave	0.257	0.871	7.52e-06	0.0458	126.975	0.716	0.701
+3B54sVLJ402zGa6Xm4YGNe	French Montana,Swae Lee	Unforgettable	USSM11703478	83	gangster rap,hip hop,pop rap,rap,southern hip hop,trap	0.0293	0.726	0.0101	0.123	97.985	0.733	0.769
+6ZjF7ecMawDKpbMTfo5p46	Fox Stevenson	Bruises	GB2LD1800696	56	dancefloor dnb,edm,electro house	0.00039	0.458	1.45e-05	0.0786	174.088	0.356	0.854
+3rAC9Xjl9byo4ee7sOsfia	Jimmy Sax,Michael Ghegan	Nothing Is Ever Free In St. Tropez (feat. Michael Ghegan)	ITH8N2100018	45		0.0224	0.837	0.1	0.0384	123.011	0.716	0.765
+7hdJ19mc75khsTuCYcJwRL	Golden Vessel,The Nicholas,rei so la	that's us	FRX762006609	48	aussietronica,indie electropop,indie soul,vapor soul,vapor twitch	0.531	0.795	0.715	0.0609	126.003	0.539	0.404
+2HsYjR4rBa38aePVMWL3zb	Bad Omens	The Worst In Me	USYFZ1566203	60	metalcore	0.00109	0.43	5.5e-05	0.102	170.081	0.276	0.945
+2XdcUAsMCuNMaWLmXIhdjW	Architects	Dead Butterflies	USEP42058005	58	mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore	0.00148	0.433	0.00342	0.0565	125.021	0.425	0.863
+4K9xid96G3YmIvQZXN9SXg	INZO	Overthinker	QM24S1819020	64	edm,future bass	0.0311	0.472	0.0308	0.134	128.375	0.212	0.605
+0R6HqMleKWUdqPZ6l2PcHK	Celine Hayes	Endless skies	SE5W32200047	51	background piano	0.987	0.244	0.918	0.0513	82.67	0.447	0.0269
+4xYztiOcXXOiC1TwTsXuY3	Jacques Blanc	Moving Slowly	SE5IB2150662	58	background piano	0.994	0.27	0.911	0.0363	88.897	0.238	0.0229
+7sj2OB0LdX9mvFm0Cpw9yV	Nicola Conti	Dolceacqua	SE5W32021001	42		0.995	0.456	0.964	0.06	134.035	0.282	0.0585
+3yZHqhElpkIWaHA1yUFCIH	Maybelle Watson	Remembrance	SE5W32201280	52		0.994	0.296	0.961	0.0584	74.27	0.247	0.0512
+0xxo7AH7SJMuoTJKeX72Jj	Illari Palben	Abre los ojos	SE6RU2118001	45		0.996	0.553	0.953	0.0466	59.294	0.233	0.0212
+3dTGRSCi9Zw7fT5lA2mDnV	Jordane Tumarinson	Momentum	FRZ132112120	56		0.993	0.468	0.964	0.219	69.691	0.194	0.00632
+4MAzPvI7zmpv3jF1WxfeTx	Karen Kasper	Paradox	SE5W32064203	48	background piano	0.996	0.475	0.96	0.0588	129.486	0.322	0.0204
+6viyU00wxyxXRBqyVA0GxG	Yao Chen	Mi Amor	SE5W32100098	45	background piano,neo-classical	0.994	0.434	0.931	0.0345	79.796	0.189	0.034
+3oVLlrUbiNHDHlu3Ro6M2I	Olai Ruud	Trolltunga	SE5W32037001	42		0.995	0.428	0.967	0.0941	168.164	0.383	0.132
+79TCHEeIxQmvo1Y40jgf7Z	Isaac Boudillet	Lavandula	SE6RU2113501	45		0.994	0.548	0.955	0.0522	78.824	0.215	0.0272
+1TjW6B6oAQTyh4ca3r32DA	Dominique Marais	Illusive Appearance	SEXGF2125401	41	background piano	0.991	0.22	0.924	0.0368	200.454	0.0686	0.06
+6d1XH0OKwZVbITLqPoToDg	April Baxter	Starry Sky	AU3SE2200762	59	background piano	0.991	0.563	0.831	0.0437	108.367	0.0987	0.0253
+5qob7OKrAv9Sld67bNg3au	Nelson Haynes	Peaceful Reflections	SE5W32040602	42		0.994	0.384	0.913	0.0458	100.713	0.167	0.0117
+5PHIGFF2ikcf0lEGH5D9fZ	Justus Rümenapp	Freedom	SE5ZV2110704	45		0.989	0.343	0.946	0.0387	106.276	0.138	0.0179
+7EAgMj9f01js3aptHpeIcm	Luis Berra	Short Florentine Story	NL4WT2000099	54	background piano,neo-classical	0.991	0.362	0.939	0.0347	97.482	0.306	0.0448
+3lUAjSVqgu8A7e7Vhlu74G	Laetitia Dostie	Ce jour là	SE5W32018201	44	background piano	0.996	0.42	0.941	0.048	70.399	0.157	0.0174
+6q6Isz6kUluHROS0mb9T8P	Billy Lipnick	Winter Blossoms	QZAKB2012723	48	background piano	0.99	0.36	0.934	0.0427	166.883	0.238	0.00966
+4ku8WSW5vtEZNGM8oUuGnd	Biba Dupont	Sonora	US66W2100139	51	background piano,spanish electronic	0.994	0.442	0.914	0.0423	95.095	0.232	0.0399
+3orRX2Ms4jy4dU9KqJ9zT1	Simon Westman	Swan Spring	SE6RU2110201	54		0.996	0.385	0.843	0.0546	74.284	0.129	0.00786
+4FRPWTwl40uOHMslTL7fGa	Justus Rümenapp	Once when I was young	SE5ZV2110701	56		0.987	0.348	0.921	0.0508	111.386	0.0447	0.0407
+1HNMaNRnCVbX3ZtW92QsyZ	Comet Blue	Where The Clouds Go	QM6P42032317	44	background piano,deep tropical house	0.992	0.402	0.936	0.0318	114.664	0.0934	0.0396
+5r0ag6p51d3VOF8rVaL09E	Jean-Marie Daviau	Seuls ensemble	SE5IB2136127	58		0.988	0.295	0.943	0.04	72.766	0.392	0.0223
+3pJP8edwkLNNH7jxKH5Yc1	Project Kronos	Misty	QZK6Q2164234	43		0.993	0.425	0.921	0.0362	50.916	0.34	0.0148
+64u8GamjVXCuKtjbPl0oIG	Kalen Elmsley	Vale of Tears	SE6RU2132301	45	background piano	0.993	0.541	0.967	0.0586	69.019	0.122	0.0578
+0DoZ4rU4WmaHcySIJHQY5A	Jackson Love	Snowfall in a Forest	SE5ZV2115901	56	neo-classical	0.995	0.425	0.957	0.044	91.129	0.0965	0.00957
+3yXQyJLMVElujd88Gt4fAf	Norman Dück	Weightless	GBWUL2177025	50		0.993	0.353	0.951	0.0647	130.503	0.359	0.0327
+1qXzQi8CxX0Y5JqZ22m1zy	Norman Dück	Reflections	QZGLS2121343	45		0.984	0.254	0.956	0.0442	137.107	0.137	0.014
+6amOk7q9AqwG40cUZlLyJx	Mirta da Silva	Tras Salomé	US66W2100436	56	background piano	0.995	0.354	0.93	0.0448	81.191	0.106	0.0118
+1rmTdklw8wgOStLgI4B25Q	Gaétan Buisson	La consolation	QZNWS2106331	56		0.994	0.322	0.887	0.0353	66.356	0.0686	0.00757
+1K0EF5MVFglZjojGngwn6P	Bea Boethius	You Make It Look So Easy	QM4TW2184769	53		0.992	0.272	0.915	0.0332	67.576	0.205	0.0617
+5Jw3aIOOV0k4xgIELSIz7C	June Allen	Sol	SE5W32103935	49		0.99	0.45	0.918	0.0484	122.354	0.51	0.0615
+2vevoLZEoZTCAYsvc1TDnq	Rosa Monteiro	Velez-Malaga	SE5ZO2104001	47	background piano	0.994	0.371	0.947	0.0436	113.826	0.118	0.0146
+4xugZez7zpHFNTgkf0DLV1	Mirta da Silva	Before your eyes	US66W2101604	60	background piano	0.992	0.412	0.976	0.033	51.076	0.19	0.0394
+42mnMZ6db1BFIzrW89JpoU	Shaunta Coburn	Before Dawn	SE5W32104247	50		0.993	0.326	0.922	0.0452	148.938	0.482	0.0676
+7tDHMhO0bJpbkXzMyMIE0b	Berlioz	Isla De Flores	SE5W32000701	49	background music,background piano	0.992	0.498	0.965	0.0721	70.046	0.0551	0.108
+4m1nRLXsFQE7dNQGDxCvlX	Giacinta Toscano	Colori autunnali	SE5IB2108083	56		0.992	0.342	0.919	0.0447	77.602	0.0615	0.0314
+1Yyi70Exy9YlfKn6o0ciSO	Junius Clyde	Crystal Depths	SEXGF2114601	45		0.992	0.319	0.951	0.0395	83.963	0.0398	0.0253
+27NsmJyv3hRvtP9V48xYNB	Daniel Joaví	D'émeraude	SE6RU2206801	59		0.995	0.458	0.965	0.0425	138.182	0.0714	0.0161
+14g7oKsfbokvFDtDtP77Ir	Rand Aldo	Dream in Eb	SE5Q52000671	45	background music,calming instrumental,focus	0.996	0.514	0.946	0.0519	100.722	0.173	0.0108
+5wEbriJa2SDzgsU18Xknql	Ben Laver	Night	QZK6H2103743	43		0.992	0.393	0.923	0.0414	127.955	0.204	0.0276
+2SQvzWBCdnNzleb1BJPdS1	Minnie Aoyama	Minutieux	SEXGF2149401	45		0.993	0.362	0.959	0.0418	82.46	0.299	0.00962
+0Bip0zvXgJNLImBHYkJkQG	Grace Olimpia	Next Part Of The Dream	US66W2100707	51		0.994	0.423	0.933	0.0469	122.373	0.222	0.0382
+1DXbUPygEVCQXOOOO9bIhO	Gaspar Parentau	Tient qu'à un fil	SE6RU2129301	57		0.996	0.637	0.964	0.0457	89.653	0.195	0.0291
+0f6u4KLnzyfrMgbIjpvgBf	Dillon Nilsson	Lasting Sun	QZAKB2104854	46	background piano	0.992	0.372	0.966	0.0375	87.865	0.143	0.0291
+2xlSPP16a3SSOLBPOvTDru	Shane Dillard	Song for Marianne	SE5IB2001350	46	background piano	0.994	0.66	0.953	0.0601	145.954	0.158	0.0375
+3nZ31x1cLcCRnIRpiOIkPU	Thomasine Robinson	It is a Beauteous Evening	SE5W32037101	48		0.995	0.279	0.963	0.0496	71.138	0.357	0.0579
+3B9bfvdtGxZp4IKU2esmQ3	Arvid Purna	Los Viejos Tiempos	SEXGF2106101	43		0.982	0.345	0.901	0.0356	125.754	0.255	0.0748
+5y2VQOhr2C26gGbxZfx9DT	Léon Branche	Cavandoli	SEXGF2200417	49	background piano	0.993	0.336	0.944	0.0417	82.035	0.0988	0.0514
+6vkmvL8i9sfIHoAlzJcfAO	Bernadette Boulet	Pour toujours	SE5IB2002470	54		0.994	0.227	0.915	0.0461	165.015	0.31	0.0643
+4IMDvjtSlnkDlpH9sRS5Iq	Fiona Astier	Potomac	SE5IB2001046	47	background piano	0.996	0.429	0.945	0.0476	129.227	0.404	0.00415
+0J1qj6Tn3Zwwggfsz08FXp	Sara Hoffman	Silhouettes	SEXGF2155301	42	background piano	0.988	0.342	0.929	0.0414	93.729	0.159	0.0347
+7EFwlg7IwnYdrfNCYCOGDd	Pascale Perrot	Le crépuscule	SE5IB2161156	49		0.995	0.199	0.891	0.0459	75.403	0.165	0.0153
+2n4tgkKIrN1DPOUamOFnrO	Taichi Chishaki	Nocturnes op.3	TCJPQ2173398	59	background piano	0.996	0.604	0.96	0.0713	130.794	0.275	0.06
+1ihUUaEazz6DAxb9ZX7Thh	Kalen Elmsley	Spheroidal	SE6RU2211101	66	background piano	0.996	0.385	0.951	0.0502	126.449	0.162	0.0217
+3UuRldDkQBgFmEkgWG42Ge	Daníel Fannar	Monuments	SE5IB2137369	55	background piano	0.991	0.561	0.878	0.034	95.963	0.248	0.0234
+11Qo1ZRy2R3aC12G33c210	Maude Eldridge	If I Could Tell You	SE5W32075301	46	background piano	0.996	0.493	0.936	0.0653	87.52	0.243	0.0309
+1QGlEQJkixOXsbijKqNTDB	Nils Frahm	All Numbers End	DELV42100524	54	compositional ambient,electronica,neo-classical,neoclassical darkwave	0.993	0.324	0.937	0.0401	110.226	0.307	0.0438
+7tSuMXNWmgDl2jED1hpLX5	Auley Gere	Little Flower	SEXGF2035401	39	instrumental lullaby	0.978	0.419	0.956	0.0346	144.571	0.435	0.143
+0V4SL7IMRUeu7tqiuyedxO	Andrea Sperelli	Prima Stella	SE5ZV2107301	54		0.994	0.242	0.913	0.0462	101.45	0.121	0.0528
+3gN3GhksEJrSi4V39bokVa	James Keer	Young and in love	SE5IB2002617	45	background piano	0.995	0.53	0.967	0.038	62.534	0.342	0.0924
+0hRVNF5ZBfvbRtHKFQItr4	Rein Ilves	Vaikne	SE5IB2002599	46	background piano	0.995	0.32	0.927	0.0525	133.313	0.174	0.0144
+3G8LVNteqDWZzaIsWwBsPJ	Avery Hall	Into Your Arms	SE5IB2001147	38	background piano	0.995	0.492	0.958	0.075	66.499	0.23	0.0295
+405hXsV5rmcZarrpP71qA8	Volker Wagner	Morgentau	QZAKB2007059	45	background piano	0.993	0.353	0.936	0.0411	129.393	0.133	0.00659
+5CF6kdYN9s5x3Zps5hHPDZ	Anderson Rivers	Red Roses	QZAKB2132504	51	background piano	0.993	0.271	0.922	0.0433	125.408	0.116	0.0185
+7KHGqeUF5KpiD1rtpqds3z	Olivier DeGrasse	Cinematique	SE5W32200003	46		0.988	0.509	0.91	0.036	90.814	0.218	0.17
+3nyasiaSCFSEfxEEYg4jpx	Évariste Lacroix	Les couleurs du ciel	SE5IB2113096	52	background piano	0.995	0.427	0.937	0.0434	47.719	0.267	0.00521
+1oxgOieE4U81VQM8Fd0B4W	Klaus Steiner	Blessing In Disguise	SE5W32101655	45	background piano	0.982	0.372	0.895	0.043	130.315	0.218	0.0568
+2bVLBwc3GD5lu9EKJIIGNR	our distant worlds	wandering bird	QZJDZ2100829	55		0.996	0.383	0.945	0.0352	89.198	0.39	0.034
+27M7FdIBhufCksw0tQ1Vb9	Omri Grummet	Petrichor	SE6RU2201201	48	background piano	0.996	0.447	0.92	0.0427	103.325	0.128	0.0104
+63OR2oeewLePYRBoHs5mIi	Juergen Steltzer	La creacion	QZAKB2125872	45	background piano	0.995	0.371	0.922	0.0395	110.034	0.292	0.0436
+0NEX6oBUy1iu6KALZ1m94c	Denise Santoz	Phoneme	SE5W32200452	58	background piano	0.973	0.3	0.909	0.0355	97.192	0.225	0.122
+6zkZvCIEpgUUgCz7qSK3Nc	Monir Bresegeut	Beauty Of You	SE5IB2160931	58		0.98	0.494	0.934	0.0425	123.157	0.225	0.04
+0Nx1SR4VfOGtnelHw6xFsV	Libor Kolman	N'abandonne pas	SE5W32022801	40	background piano	0.996	0.423	0.949	0.0712	162.346	0.249	0.0401
+4rHaA21L4F8ScRLCCOZsCM	Alejandro Seitz	Fulfilled	QZAKB2124643	42		0.989	0.307	0.888	0.0441	139.786	0.232	0.00377
+40QoUnq2ZWMT04wEjDYMMp	Mildred Wolf	A Place Like This	SE5W32031901	43		0.996	0.419	0.96	0.0756	77.189	0.207	0.0696
+4CHuMXtt9m64sb3iun6DZc	praam	even slow	SE5ZV2110016	42		0.984	0.25	0.927	0.0389	207.096	0.0842	0.101
+1dsYQlcWbdFTeS7Ncdyx3m	April Baxter	Enchanted	AU3SE2100351	49	background piano	0.995	0.537	0.939	0.0409	72.52	0.151	0.0314
+4zypTg1KZ3HNPcYqfWou6f	Matthew Mor	Raison d'etre	SE5W32036702	43		0.995	0.502	0.948	0.0784	76.811	0.415	0.0152
+322iMyBTTUhTCGRttDs6CY	Edie Chastain	Tournesol	SE5IB2106508	45		0.994	0.386	0.943	0.0405	139.099	0.477	0.0276
+2Wvu8d2R1Ish33Jl67JEdI	Oddo Fava	Il mio cuore brucia per te	SE5IB2127046	44		0.991	0.181	0.863	0.0449	174.265	0.181	0.0119
+5oKiEfM3YuGCOXrFKcZpbM	Wave Of Pollen	Sanctuary	US66W2100701	55		0.991	0.401	0.931	0.0439	95.085	0.106	0.047
+64OSHlDi8TeihNzUMvc2Kv	Halbert Stone	Dreaming Of You	SE5IB2104339	53		0.993	0.353	0.918	0.0427	83.122	0.19	0.00544
+2ElVZ4JztgEiG6vfb0ZdB2	William Cas	Drifting Sand	GBWUL2126211	55	background piano	0.916	0.336	0.9	0.0357	77.125	0.291	0.0343
+47L9KRq0WRPYiNs4oeHyFs	Nate LaFleur	Valse Mélancolie	SEXGF2150801	41		0.987	0.429	0.929	0.0377	96.817	0.0385	0.0696
+0niChogoxtdK17KtHH0jni	Aisha Edwards	Look to the Sea	AU3SE2100559	56		0.993	0.301	0.924	0.0342	77.496	0.0643	0.0498
+5K5WAmv3SxQR8Is4zJklrz	Odette Montano	Haven	SE5W32103398	49	background piano	0.98	0.4	0.92	0.0436	121.55	0.295	0.084
+7l92bhAAWWCnRrbmekFSor	Oscar Sergel	Maurice	SEXGF2105501	51		0.991	0.398	0.805	0.0454	122.15	0.275	0.0427
+5gvjOIFPr6moYBmWSV7B0V	Niall Byrne	Amble	QZTH82198122	49	background piano,neo-classical	0.993	0.38	0.92	0.0401	103.67	0.128	0.042
+0rafHfCcXPvNoLf5uHQvpr	Freya Rääf	Min Melodi	SE6RB2171801	55	background piano	0.995	0.396	0.936	0.0371	136.559	0.0799	0.0158
+3RuTCzfsjBoat5ZliUAC4a	Carluccio	Ricordarsi	SE5W32071104	46	background piano	0.98	0.42	0.907	0.0375	98.156	0.322	0.0118
+4TzR5P1srEfWyUjGFSqYhC	Szymon Kowalczyk	Glow	SE4RG2110702	50		0.936	0.227	0.891	0.0352	74.371	0.037	0.104
+5AciiCKJKTLKRrAPSrKQy5	Amaranth Cove	Infinite Sustain	SE5Q51902315	55	background music	0.8	0.529	0.907	0.0315	124.069	0.0903	0.214
+1bsSaYmy0vOUH8tux2hAYV	From Overseas	Looking at the World Through a Window	QZHN32070602	52	ambient guitar	0.906	0.142	0.967	0.0407	101.366	0.05	0.112
+3aQlVIegX4nPS2igYBFllB	Hollow Light	Undeniable	SE5IB2206833	56	background music	0.845	0.531	0.909	0.0348	110.087	0.076	0.188
+58Z8R4KZPbfTc6KVYZLwTb	Domaine Blanc	Retrospectacular	SEXGF2011901	49		0.81	0.368	0.864	0.0346	119.977	0.197	0.293
+24CJS73HBvYtVguUZBnyAn	Faelt	Open Fields	SE4RG2066701	50		0.97	0.491	0.916	0.0298	132.106	0.216	0.197
+2yR2KTxdGPqpk8krap1Bbl	NYMK	Roundabout	SE5W32103364	55		0.815	0.183	0.864	0.0441	102.077	0.115	0.0318
+4RQFT3aZPjhuafwXNUnL6x	Golden Horses	line up	QZAKB2160574	57		0.987	0.17	0.873	0.0415	71.901	0.0742	0.087
+1z7GhYG0KqAmebdLfuoYho	Ghost Of Summer	Woodland Heart	SE5IB1901008	48	chill out	0.84	0.516	0.817	0.0312	94.994	0.132	0.177
+6oMUXEiKVDyaXdcJ2YVnuj	Cecelya	Gloaming	SE5IB1900771	49	background music	0.909	0.223	0.92	0.0334	67.798	0.185	0.119
+2IXJyG1DX93g2EhFXghz37	Gustavo Santaolalla,Alan Umstead	The Choice	USGSS1300105	56	argentine ambient,latin classical,latin soundtrack,orchestral soundtrack,soundtrack	0.909	0.303	0.89	0.0493	50.96	0.347	0.00338
+2GNEJcmdJuQK97mWea637Y	Leo Lind	middle part	QZAKB2134228	61		0.944	0.38	0.912	0.0292	76.735	0.054	0.0639
+4OxQ9sBdJCndBzQNuGorr7	Joji	Mr. Hollywood	ZZOPM2002178	65	alternative r&b,viral pop	0.691	0.717	5.92e-05	0.0415	115.01	0.245	0.442
+6zvqq50PL7io0rprbkrYc9	Joji,BENEE	Afterthought	ZZOPM2002177	70	alternative r&b,viral pop	0.398	0.668	0.0766	0.0353	83.5	0.192	0.547
+4UiogCfzKQW98U1GTCivsn	Joji,rei brown	Normal People (feat. rei brown)	ZZOPM2002176	65	alternative r&b,viral pop	0.384	0.678	0.736	0.0472	173.104	0.637	0.685
+0f1G5SHFoFC9lO03gHCGVS	Joji,Lil Yachty	Pretty Boy (feat. Lil Yachty)	ZZOPM2002175	71	alternative r&b,viral pop	0.16	0.656	0.378	0.0672	156.049	0.638	0.776
+1RTYj0DKungYDHtgFQRtmx	Joji	NITROUS	ZZOPM2002174	66	alternative r&b,viral pop	0.556	0.827	0.689	0.0343	127.992	0.381	0.549
+5dl8x4xLEzZC0f927WBTUG	Joji,Omar Apollo	High Hopes (feat. Omar Apollo)	ZZOPM2002173	65	alternative r&b,viral pop	0.472	0.719	0.0572	0.193	150.076	0.364	0.369
+0rOLFkjY5DSIViVBNnzOuK	Joji	Sanctuary	ZZOPM2002183	77	alternative r&b,viral pop	0.387	0.552	0.00014	0.11	167.834	0.332	0.638
+3AkdSFo7quCZ781KCqNK0T	Joji	Run	ZZOPM1901777	73	alternative r&b,viral pop	0.0427	0.448	0.000292	0.0332	157.919	0.361	0.72
+0HItcI6qN6Dr4MC3CZryQh	Joji	Gimme Love	ZZOPM2002154	73	alternative r&b,viral pop	0.695	0.484	0.0243	0.0976	126.384	0.0736	0.632
+5xNNJKrjobta5ksOpMLYd1	Joji	Upgrade	ZZOPM2002172	65	alternative r&b,viral pop	0.895	0.678	0.0313	0.0985	159.867	0.587	0.418
+5E7p95xh9Ul4vZp4LEoJwi	Joji	Tick Tock	ZZOPM2002170	67	alternative r&b,viral pop	0.0399	0.781	0.00713	0.0524	80.53	0.613	0.613
+5SjtAe7xzUgHDtNTmt8zS7	Joji	MODUS	ZZOPM2002169	69	alternative r&b,viral pop	0.183	0.738	0.000252	0.0492	132.008	0.262	0.533
+7xcUWyLh6fIMsYjoVI7NnZ	Joji	Ew	ZZOPM2002168	74	alternative r&b,viral pop	0.804	0.48	0.067	0.0278	114.078	0.0376	0.373
+39oeKRgsLeynDIbWuXyA47	Joji,Clams Casino	CAN'T GET OVER YOU (feat. Clams Casino)	ZZOPM1800563	74	alternative r&b,viral pop	0.684	0.9	0.0771	0.332	129.914	0.844	0.316
+3xo4Q43ei0ypZOvd2W1IqZ	Joji	Like You Do	ZZOPM2002290	70	alternative r&b,viral pop	0.953	0.582	0.00852	0.0321	66.454	0.0783	0.199
+6Ed1q0X8oSKSm4IIhiQbYg	Joji,Diplo	Daylight	USSM12004620	75	alternative r&b,viral pop	0.00488	0.528	9.6e-05	0.0479	163.944	0.729	0.749
+7wvwXi9Z66dcH5t202vVkN	Joji	Will He	USUYG1179129	77	alternative r&b,viral pop	0.836	0.618	0.000163	0.0515	116.014	0.0872	0.217
+5F1ZmucV0uJY14y2dYKePa	Joji	Sanctuary	ZZOPM2002183	77	alternative r&b,viral pop	0.387	0.552	0.00014	0.11	167.834	0.332	0.638
+0baNzeUcPQnQSagpe8T0mD	Joji	worldstar money (interlude)	USUYG1179135	81	alternative r&b,viral pop	0.964	0.577	0.705	0.274	146.565	0.459	0.387
+1VGzxJnVQND7Cg5H5wGj14	Joji	YEAH RIGHT	USUYG1194991	82	alternative r&b,viral pop	0.619	0.672	0.241	0.133	169.033	0.204	0.588
+0rKtyWc8bvkriBthvHKY8d	Joji	SLOW DANCING IN THE DARK	ZZOPM1800452	86	alternative r&b,viral pop	0.544	0.515	0.00598	0.0261	88.964	0.284	0.479
+7b2elHA9vOwpckUKm8SMyR	Joji	777	ZZOPM2002288	56	alternative r&b,viral pop	0.268	0.574	2.98e-06	0.0863	179.636	0.181	0.604
+7wkgkIBYBH3xV2ob9Zmh87	Fatboibari,Shiloh	Moonlight Shawty	TCADU1871036	74	aesthetic rap,lo-fi chill,sad lo-fi,sad rap	0.835	0.671	0.0011	0.123	106.04	0.128	0.184
+0CWfsGlbmT0ZcAV3WetvPf	Dream, Ivory	welcome and goodbye	QM42K1745830	69	indie pop,lo-fi indie,modern dream pop	0.0194	0.584	0.756	0.0266	140.031	0.659	0.717
+5VujK2veNOmeh7jNj9zq1p	dwsdmusic	Talk It Out	GBSMU6534331	59	lo-fi chill,sad lo-fi	0.465	0.646	0.18	0.0443	145.033	0.68	0.491
+4YMc3A256xFBS0xcT77Qce	bbno$,Diamond Pistols	help herself	QM24S2100146	70	canadian hip hop,dark trap,vapor trap	0.623	0.607	0.351	0.0364	168.049	0.479	0.851
+5uOibVj0c35NiIlgvgUn9c	Lontalius	Comfortable	GBGLW1900140	47	nz pop	0.138	0.645	0.622	0.0376	86.071	0.147	0.387
+3DUNJuSAAkhiS0t2qOiEx5	potsu,Rav	Be	QM24S2006648	52	japanese chillhop,lo-fi beats,lo-fi chill,lo-fi rap	0.683	0.636	0.0	0.187	103.007	0.182	0.516
+73EgSbxRkyXOU3Kj5RGJO1	Idealism	Wanna Know	QM42K1606470	47	chillhop,lo-fi beats	0.793	0.339	0.824	0.158	169.815	0.0701	0.245
+72Qo3U5apeuv91j9BEqJBM	Joji	I Don't Wanna Waste My Time	USUYG1179137	70	alternative r&b,viral pop	0.761	0.403	0.0618	0.0531	144.226	0.13	0.234
+2lTtnKQgjbrBA1qnOFhBkP	BETWEEN FRIENDS	affection	USQX91800782	73	indie pop,la pop	0.516	0.273	1.68e-06	0.248	179.518	0.298	0.565
+3Mmt4wAMtWRmObAxbejpPe	Lontalius	Sleep Thru Ur Alarms	GBGLW1900135	67	nz pop	0.302	0.612	0.296	0.0269	97.479	0.0691	0.344
+00c6I4e1BL1vqbD97KIh50	Tom The Mail Man	Traveling Alone	TCAEM1986952	57	aesthetic rap,emo rap,modern indie pop,sad rap,vapor trap	0.0888	0.691	5.56e-05	0.0377	121.004	0.415	0.595
+6S7o12almFeL57rbRvdY5l	jagger finn	Vas	QZHN31945778	78	bedroom pop	0.918	0.514	0.849	0.0282	71.114	0.416	0.424
+1ggYjU6zdFHgANcku82boU	Joji,BENEE	Afterthought	ZZOPM2002286	66	alternative r&b,viral pop	0.398	0.668	0.0766	0.0353	83.5	0.192	0.547
+3BIIJgBJJ7NhhCv4MI6n7w	Oliver Tree	Alien Boy	USAT21800606	70	alternative hip hop	0.0597	0.792	0.0	0.132	130.135	0.52	0.576
+60ugvif5ddEjP3vWUhYEkh	BETWEEN FRIENDS,EDEN	reference bounce	QZN882120748	49	indie pop,la pop	0.746	0.575	0.691	0.0698	114.767	0.285	0.357
+0PAjVM2wdVAnagaoxtpfPa	Bedroom	Two	QZFZ61919353	52	small room	0.522	0.742	0.363	0.0314	90.006	0.306	0.366
+6o39Ln9118FKTMbM4BvcEy	Bring Me The Horizon	Drown	GBARL1500797	70	melodic metalcore,metalcore,rock,uk metalcore	0.000102	0.405	2.79e-05	0.0844	143.126	0.24	0.94
+1wvs9V8xEJStRzx78lSNJK	Bring Me The Horizon	Run	GBARL1500775	57	melodic metalcore,metalcore,rock,uk metalcore	0.00301	0.481	0.000153	0.0781	134.962	0.357	0.938
+4EyPadLFhtWojU7mkT5hqT	Bring Me The Horizon	Avalanche	GBARL1500774	64	melodic metalcore,metalcore,rock,uk metalcore	2.97e-05	0.426	0.0089	0.0685	160.077	0.285	0.934
+1KTJmfwrk5pYqsi9mkY3nT	Bring Me The Horizon	True Friends	GBARL1500771	66	melodic metalcore,metalcore,rock,uk metalcore	0.000683	0.419	0.0	0.0837	160.151	0.333	0.938
+0M3adYbGtyRHACP86dey1H	Bring Me The Horizon	Throne	GBARL1500770	73	melodic metalcore,metalcore,rock,uk metalcore	0.000455	0.426	0.0	0.0987	144.111	0.387	0.888
+1yYE8EyuIV0rrvQ1bA2Fyf	Bring Me The Horizon	Happy Song	GBARL1500769	67	melodic metalcore,metalcore,rock,uk metalcore	4.02e-05	0.295	0.00462	0.0678	171.941	0.219	0.924
+3lPn81PFyKvXiyHhlkwkQ4	Bring Me The Horizon	Doomed	GBARL1500768	63	melodic metalcore,metalcore,rock,uk metalcore	0.00152	0.271	1.5e-05	0.137	147.159	0.22	0.903
+6baGTtDakSNvUfW3FJd8yX	Bring Me The Horizon,Rahzel	heavy metal (feat. Rahzel)	GBARL1801503	56	melodic metalcore,metalcore,rock,uk metalcore	0.00119	0.589	0.000257	0.0935	129.935	0.512	0.914
+5IwUFTiNkarb5HEtNRtRtc	Bring Me The Horizon	mother tongue	GBARL1801502	59	melodic metalcore,metalcore,rock,uk metalcore	0.0196	0.598	0.0	0.0328	107.009	0.609	0.872
+1oqMPCtRiO1QQLP8NjuB9Z	Bring Me The Horizon	fresh bruises	GBARL1801501	46	melodic metalcore,metalcore,rock,uk metalcore	0.0053	0.675	0.693	0.046	117.015	0.272	0.545
+2lLsjgDoS0Hg5pNNHymXGG	Bring Me The Horizon	why you gotta kick me when i'm down?	GBARL1801500	55	melodic metalcore,metalcore,rock,uk metalcore	0.175	0.607	1.33e-05	0.136	131.862	0.518	0.841
+3Ddgh4ZwVIkLx0f4WeDFmo	Bring Me The Horizon	sugar honey ice & tea	GBARL1801499	62	melodic metalcore,metalcore,rock,uk metalcore	0.000243	0.431	0.0096	0.0616	147.108	0.534	0.914
+3GHtEaicELsTViK08EXEQQ	Bring Me The Horizon	medicine	GBARL1801498	61	melodic metalcore,metalcore,rock,uk metalcore	0.00393	0.615	0.0	0.0396	97.038	0.323	0.858
+1PWFyfV7yYhlxHZX2g25wS	Bring Me The Horizon	ouch	GBARL1801497	50	melodic metalcore,metalcore,rock,uk metalcore	0.00221	0.514	0.0204	0.0719	160.047	0.382	0.813
+0ceW5TkemJUEmJERavfqQq	Bring Me The Horizon,Dani Filth	wonderful life (feat. Dani Filth)	GBARL1801496	57	melodic metalcore,metalcore,rock,uk metalcore	0.000416	0.406	0.000231	0.206	173.058	0.406	0.964
+4swVflM7KtMxzfHBWqPv9S	Bring Me The Horizon	in the dark	GBARL1801495	61	melodic metalcore,metalcore,rock,uk metalcore	0.00736	0.535	0.0	0.0577	156.014	0.514	0.768
+1JdWRS3PBZlSgKcPKcULtr	Bring Me The Horizon,Grimes	nihilist blues (feat. Grimes)	GBARL1801494	59	melodic metalcore,metalcore,rock,uk metalcore	0.0019	0.607	0.00088	0.0936	133.962	0.195	0.813
+060RNnzoMay3wKJek1faPc	Bring Me The Horizon	MANTRA	GBARL1801065	63	melodic metalcore,metalcore,rock,uk metalcore	0.00054	0.5	0.0	0.0459	90.01	0.599	0.817
+4mrjzz6ETpW3wosJUYmKoL	Bring Me The Horizon	i apologise if you feel something	GBARL1801493	50	melodic metalcore,metalcore,rock,uk metalcore	0.533	0.211	0.0284	0.0346	179.895	0.0537	0.361
+6I3mqTwhRpn34SLVafSH7G	Justin Bieber	Ghost	USUM72102635	90	canadian pop,pop	0.185	0.601	2.91e-05	0.0478	153.96	0.441	0.741
+7ef4DlsgrMEH11cDZd32M6	Calvin Harris,Dua Lipa	One Kiss (with Dua Lipa)	GBARL1800368	90	dance pop,edm,electro house,house,pop,progressive house,uk dance	0.037	0.791	2.19e-05	0.11	123.994	0.592	0.862
+0ChMOU9Q1J0kQVCiFYIBQR	Bring Me The Horizon	Happy Song - Live at the Royal Albert Hall	GBARL2001559	44	melodic metalcore,metalcore,rock,uk metalcore	0.00204	0.261	0.000379	0.207	171.89	0.375	0.929
+5IBDi9cISbefMMtAB8syp3	Bring Me The Horizon	Doomed - Live at the Royal Albert Hall	GBARL2001558	48	melodic metalcore,metalcore,rock,uk metalcore	0.0729	0.402	0.00401	0.0919	147.021	0.223	0.9
+5cJEr5SppnuMYcUmXhpY99	Bring Me The Horizon	Overture - Live at the Royal Albert Hall	GBARL2001557	41	melodic metalcore,metalcore,rock,uk metalcore	0.862	0.218	0.871	0.0394	80.851	0.122	0.396
+20Kau1BL5IUaPo4l488D57	Bring Me The Horizon,Amy Lee	One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)	GBARL2001278	59	melodic metalcore,metalcore,rock,uk metalcore	0.687	0.309	0.0	0.0466	112.995	0.288	0.467
+4xWirulal0kGikFE3WSU75	Bring Me The Horizon	Ludens	GBARL1900912	58	melodic metalcore,metalcore,rock,uk metalcore	0.000551	0.294	5.13e-05	0.152	198.03	0.383	0.679
+6sIbv1oWOuma2qV907MUbk	Bring Me The Horizon,Nova Twins	1x1 (feat. Nova Twins)	GBARL2001277	67	melodic metalcore,metalcore,rock,uk metalcore	0.000209	0.452	3.61e-06	0.161	164.032	0.604	0.937
+7CAbF0By0Fpnbiu6Xn5ZF7	Bring Me The Horizon,BABYMETAL	Kingslayer (feat. BABYMETAL)	GBARL2001276	71	melodic metalcore,metalcore,rock,uk metalcore	0.000207	0.434	0.00109	0.147	92.541	0.428	0.929
+2VJ8DjdaOC5G3deIAefhq3	Bring Me The Horizon	Itch For The Cure (When Will We Be Free?)	GBARL2001275	53	melodic metalcore,metalcore,rock,uk metalcore	0.404	0.192	0.174	0.143	180.908	0.0584	0.884
+6MD6xpFK4cfquxRqXxqwjq	Bring Me The Horizon,YUNGBLUD	Obey (with YUNGBLUD)	GBARL2000962	64	melodic metalcore,metalcore,rock,uk metalcore	0.000103	0.462	0.0	0.211	137.061	0.204	0.99
+3WATWS2Ywo5HeHtG0bE2iZ	Bring Me The Horizon	Teardrops	GBARL2001273	66	melodic metalcore,metalcore,rock,uk metalcore	0.000323	0.497	0.0	0.108	96.051	0.401	0.916
+36xBFaVGjqm7le8CTHytUj	Bring Me The Horizon	Parasite Eve	GBARL2000489	65	melodic metalcore,metalcore,rock,uk metalcore	0.0289	0.589	4.35e-06	0.15	102.489	0.232	0.797
+3DW6GVr7RVyfvo4NBRvZIZ	Bring Me The Horizon	Dear Diary,	GBARL2001274	61	melodic metalcore,metalcore,rock,uk metalcore	0.000137	0.514	0.00026	0.19	117.878	0.262	0.968
+0zEKOcdfzNkvW1OFnazAQO	Bring Me The Horizon	sugar honey ice & tea - Edit	GBARL1900821	45	melodic metalcore,metalcore,rock,uk metalcore	7.53e-05	0.446	0.0039	0.0513	147.171	0.685	0.917
+48idsJDdGokNZ6OysPyzRy	Oh Wonder	Plans	GB9L31400022	32	electropop,indie poptimism,pop,uk pop	0.833	0.458	0.0599	0.25	76.575	0.144	0.298
+52goJA3oNnBEjjJyUYK7a1	Oh Wonder	Body Gold	GB9L31400010	36	electropop,indie poptimism,pop,uk pop	0.583	0.717	2.54e-06	0.091	135.02	0.169	0.49
+7H017H0dTyJ1etgC5oUsw6	Oh Wonder	Livewire	GB9L31400028	36	electropop,indie poptimism,pop,uk pop	0.582	0.46	0.0236	0.0426	116.629	0.184	0.432
+2sOONpUZNro7y3yXg7Vp7L	Oh Wonder	Landslide	GB9L31400024	43	electropop,indie poptimism,pop,uk pop	0.748	0.624	8.18e-05	0.0628	81.299	0.325	0.423
+5DwJKJ3Gg5UlzsTMpYXkwT	Sigrid,Bring Me The Horizon	Bad Life - acoustic	GBUM72203254	60	dance pop,norwegian pop,pop	0.612	0.542	0.0	0.0544	189.826	0.434	0.358

@@ -1,0 +1,308 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1FXrYwvWwjmbw8cqFC1OWz	majiko	Kokoronashi	JPC231500557	63	anime,anime rock,j-pixie	0.289	0.528	0.00054	0.0545	167.238	0.351	0.593
+19fhOFi6pNGeZe5uiFlm7c	YOASOBI	優しい彗星	JPP302000761	65	j-pop,japanese teen pop	0.197	0.715	0.0	0.0348	89.995	0.522	0.722
+59zVkMccrN10JrDGdV4JeG	Kiyoe Yoshioka	凸凹	JPU902105565	56		0.04	0.573	0.0	0.0497	90.997	0.505	0.94
+6or8VffHoRjrIZLQPEnL4L	Wataru Hatano	ハートシグナル	JPT551800839	34	dansei seiyu,j-division	0.244	0.647	0.0	0.0421	127.975	0.777	0.8
+6MmSnjDWLT5GsvlO65rhk1	MAN WITH A MISSION	My Hero	JPU901703011	50	anime,anime rock,j-pop,j-poprock,j-rock	0.000803	0.459	0.000881	0.0978	89.996	0.285	0.967
+46B7yIqBkWuyRtXZ7Qp9FV	小路綾（CV：種田梨沙）	こいいろアイリス	JPVI01438400	14		0.00125	0.47	1.39e-05	0.0411	180.037	0.553	0.922
+7JPAO45DZOmN2bciVaBia5	CHiCO with HoneyWorks	世界は恋に落ちている	JPX401400045	58	anime,anime rock,honeyworks,j-division,j-pop,j-poprock	0.0116	0.627	0.0	0.0484	130.061	0.456	0.884
+0pFaJy4xKLLb7QeAGUhEDF	TrySail	はなれない距離	JPU902201118	50	anime,anime rock,j-pixie,j-pop girl group,seiyu	0.0234	0.609	0.0	0.0733	122.047	0.728	0.919
+6zoNHckACUOGj2bERXgmnw	Reol	MONSTER	JPVI01522810	55	anime rock,japanese electropop	0.0295	0.488	0.0	0.25	163.988	0.359	0.968
+185Wm4Mx09dQG0fUktklDm	YOASOBI	ラブレター	JPP302100882	64	j-pop,japanese teen pop	0.447	0.662	0.0	0.0286	100.016	0.69	0.86
+0LNzbdozYW70uarbuAzyOg	Reol	エンドレスライン	JPTF01715003	43	anime rock,japanese electropop	0.028	0.735	0.000101	0.0941	95.0	0.685	0.858
+0r23HkCb5X65kN1v6YLDne	KNOCK OUT MONKEY	RIOT	JPC401410002	30	japanese alternative rock	0.000108	0.51	0.0	0.148	96.552	0.575	0.994
+2HovXsvcdJur52BOcYGydz	Aimer	カタオモイ	JPU901602293	68	anime,anime rock,j-pixie,j-pop,j-poprock	0.78	0.621	0.0	0.0342	96.981	0.791	0.533
+5yZvaUVyuXfSVUaMumFi6l	Naughty Boy,Beyoncé,Arrow Benjamin	Runnin' (Lose It All)	GBUM71505940	69	tropical house,uk contemporary r&b,uk pop	0.0103	0.319	4.11e-05	0.0796	139.163	0.0784	0.846
+4uQY80TKE1u4ZQZQKHzVEi	Katy Perry	The One That Got Away	USCA21001266	75	dance pop,pop,post-teen pop	0.000812	0.691	1.02e-06	0.0355	133.971	0.876	0.795
+6Knv6wdA0luoMUuuoYi2i1	Flo Rida	My House	USAT21500384	78	dance pop,miami hip hop,pop,pop rap	0.0215	0.688	0.0	0.0499	94.006	0.74	0.702
+4HlFJV71xXKIGcU3kRyttv	Train	Hey, Soul Sister	USSM10904113	83	dance pop,neo mellow,pop,pop rock	0.185	0.673	0.0	0.0431	97.012	0.795	0.886
+009ImBOrIUlWgla8U05RAC	Katy Perry	Unconditionally	USUM71311295	79	dance pop,pop,post-teen pop	0.00273	0.432	0.0	0.0431	128.902	0.353	0.725
+22L7bfCiAkJo5xGSQgmiIO	Kanye West	All Of The Lights	USUM71027273	77	chicago rap,rap	0.0796	0.531	1.71e-05	0.0717	142.113	0.221	0.803
+0yvPEnB032fojLfVluFjUv	Demi Lovato	Sorry Not Sorry	USUM71707196	77	dance pop,pop,post-teen pop,uk pop	0.0242	0.706	0.0	0.234	143.931	0.885	0.643
+1jJci4qxiYcOHhQR247rEU	MGMT	Kids	USSM10702135	79	indie rock,indietronica,modern rock,rock	0.00076	0.451	0.0049	0.0719	122.961	0.172	0.931
+0SiywuOBRcynK0uKGWdCnn	Lady Gaga	Bad Romance	USUM70918596	82	art pop,dance pop,pop	0.00314	0.696	5.24e-05	0.0363	119.001	0.714	0.921
+16Cs9KsHzgunxaEfGrXysG	David Guetta,Akon,Ne-Yo	Play Hard (feat. Ne-Yo & Akon) - New Edit	GB28K1300010	66	big room,dance pop,edm,pop,pop dance,pop rap	0.035	0.723	0.0	0.0435	129.952	0.678	0.87
+55qBw1900pZKfXJ6Q9A2Lc	Katy Perry	Teenage Dream	USCA21001255	68	dance pop,pop,post-teen pop	0.0132	0.719	3.02e-06	0.0355	119.999	0.605	0.804
+40YcuQysJ0KlGQTeGUosTC	G-Eazy,Bebe Rexha	Me, Myself & I	USRC11502210	79	indie pop rap,oakland hip hop,pop,pop rap,rap	0.0184	0.756	0.0	0.0959	111.995	0.389	0.674
+7mitXLIMCflkhZiD34uEQI	LMFAO,Lauren Bennett,GoonRock	Party Rock Anthem	USUM71100061	74	dance pop,pop,pop rap	0.0206	0.751	0.0	0.156	130.014	0.352	0.736
+7FC9Lng8iXU081lbigu8m8	Kelly Clarkson	Heartbeat Song	GBCTA1400065	67	dance pop,neo mellow,pop,post-teen pop,talent show,uk pop	0.0137	0.49	0.0	0.0489	149.109	0.479	0.798
+3dgQqOiQ9fCKVhNOedd2lf	Drake	Started From the Bottom	USCM51300064	67	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0331	0.794	0.0	0.161	86.307	0.56	0.523
+7yq4Qj7cqayVTp3FF9CWbm	Vance Joy	Riptide	AULI01385760	82	folk-pop,modern rock,pop,pop rock	0.431	0.484	0.0	0.0379	101.654	0.51	0.731
+190jyVPHYjAqEaOGmMzdyk	Justin Bieber,Nicki Minaj	Beauty And A Beat	USUM71205367	74	canadian pop,pop	0.000688	0.602	5.27e-05	0.0593	128.003	0.526	0.843
+6F5c58TMEs1byxUstkzVeM	Katy Perry	Roar	USUM71308669	74	dance pop,pop,post-teen pop	0.00487	0.554	6.6e-06	0.0418	179.984	0.455	0.772
+0iGckQFyv6svOfAbAY9aWJ	Katy Perry	Hot N Cold	USCA20802544	75	dance pop,pop,post-teen pop	7.95e-05	0.706	0.0	0.0418	132.032	0.861	0.841
+78TTtXnFQPzwqlbtbwqN0y	Rihanna,Kanye West,Paul McCartney	FourFiveSeconds	USJMT1500001	78	barbadian pop,dance pop,pop,urban contemporary	0.875	0.582	0.0	0.0501	205.846	0.354	0.272
+1I8tHoNBFTuoJAlh4hfVVE	Kygo,Conrad Sewell	Firestone	SEBGA1400887	77	edm,pop,pop dance,tropical house	0.393	0.704	3.17e-05	0.0428	113.927	0.411	0.634
+3LWDPEXEaLBRGNLbdcbwBR	Alexandra Stan	Mr. Saxobeat - Radio Edit	ROCRP1002864	73	dance pop,electropop,romanian pop	0.0218	0.726	0.000283	0.0468	126.976	0.797	0.931
+4kLLWz7srcuLKA7Et40PQR	Black Eyed Peas	I Gotta Feeling	USUM70965169	82	dance pop,pop,pop rap	0.0873	0.743	0.0	0.0265	127.96	0.61	0.766
+60wwxj6Dd9NJlirf84wr2c	Zedd,Foxes	Clarity	USUM71210662	76	complextro,dance pop,edm,electro house,electropop,german techno,pop,pop dance,pop rap,tropical house,uk pop	0.0398	0.509	0.0	0.072	128.0	0.176	0.781
+7pYfyrMNPn3wtoCyqcTVoI	Maroon 5,Christina Aguilera	"Moves Like Jagger - Studio Recording From ""The Voice"" Performance"	USUM71109132	79	pop	0.0117	0.722	0.0	0.0475	128.044	0.624	0.761
+1oew3nFNY3vMacJAsvry0S	Rixton	Me And My Broken Heart	USUM71401800	79	pop,pop rock,post-teen pop	0.00489	0.545	0.0	0.0345	174.084	0.551	0.783
+2P4OICZRVAQcYAV2JReRfj	Avicii	Waiting For Love	CHB701400134	81	dance pop,edm,pop,pop dance,pop rap	0.31	0.579	0.0	0.0527	127.999	0.613	0.736
+0ct6r3EGTcMLPtrXHDvVjc	Avicii	The Nights	CH3131340464	86	dance pop,edm,pop,pop dance,pop rap	0.0166	0.527	0.0	0.0433	125.983	0.654	0.835
+4OSBTYWVwsQhGLF9NHvIbR	Adele	Rolling in the Deep	GBBKS1000335	80	british soul,pop,pop soul,uk pop	0.138	0.73	0.0	0.0298	104.948	0.507	0.769
+46aIq2GKW7Vr6i4g2Vvycd	Michel Teló	Ai Se Eu Te Pego - Ao Vivo	BRIMT1100076	66	axe,sertanejo,sertanejo pop,sertanejo universitario	0.222	0.65	0.0	0.0717	96.035	0.694	0.947
+5T7ZFtCcOgkpjxcuaeZbw0	One Direction	Best Song Ever	GBHMU1300102	78	boy band,pop,post-teen pop,talent show	0.0227	0.652	0.0	0.0465	118.491	0.486	0.877
+1mea3bSkSGXuIRvnydlB5b	Coldplay	Viva La Vida	GBAYE0800265	82	permanent wave,pop	0.0954	0.486	3.23e-06	0.0287	138.015	0.417	0.617
+6ic8OlLUNEATToEFU3xmaH	Britney Spears	Gimme More	USJI10700609	80	dance pop,pop,post-teen pop	0.25	0.788	0.000678	0.0334	113.324	0.382	0.844
+2JzZzZUQj3Qff7wapcbKjc	Wiz Khalifa,Charlie Puth	See You Again (feat. Charlie Puth)	USAT21703595	82	dance pop,hip hop,pittsburgh rap,pop rap,rap,southern hip hop,trap	0.369	0.689	1.03e-06	0.0815	80.025	0.283	0.481
+5Hroj5K7vLpIG4FNCRIjbP	American Authors	Best Day Of My Life	USUM71302187	80	modern rock,pop,pop rock,rock	0.0591	0.673	0.000262	0.0346	100.012	0.538	0.902
+2Foc5Q5nqNiosCNqttzHof	Daft Punk,Pharrell Williams,Nile Rodgers	Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit	USQX91300809	84	electro,filter house	0.0426	0.794	1.07e-06	0.038	116.047	0.862	0.811
+3oUphdZVPyrsprZ8FgbmQS	Aloe Blacc	I Need A Dollar	US2S71045001	67	pop soul,r&b	0.199	0.84	0.0	0.0336	95.497	0.955	0.481
+2fTsFCKRFQ5M0igJgabnLA	Jessie J,B.o.B	Price Tag	USUM71029357	75	dance pop,pop,pop rap,post-teen pop,uk pop	0.0294	0.636	3.85e-06	0.182	175.015	0.668	0.831
+75JFxkI2RXiU7L9VXzMkle	Coldplay	The Scientist	GBAYE0200772	84	permanent wave,pop	0.731	0.557	1.46e-05	0.0243	146.277	0.213	0.442
+5pDUMdIiW0rNLzFryqpC9j	Rihanna	Diamonds	USUM71211793	56	barbadian pop,dance pop,pop,urban contemporary	0.00125	0.564	0.0	0.0461	91.972	0.393	0.71
+6cDQo6MvkQJbp2xlZx6uJc	China Anne McClain	Exceptional	USWD11157726	51	disney,post-teen pop	0.00215	0.675	0.000292	0.0428	129.975	0.901	0.888
+5Nm9ERjJZ5oyfXZTECKmRt	Sam Smith	Stay With Me	GBUM71308833	82	dance pop,pop,uk pop	0.588	0.418	6.39e-05	0.0414	84.094	0.184	0.42
+0CAfXk7DXMnon4gLudAp7J	Flo Rida,T-Pain	Low (feat. T-Pain)	USAT20705841	82	dance pop,miami hip hop,pop,pop rap	0.0928	0.918	0.0	0.0791	128.008	0.304	0.609
+1sh6lL6cmlcwhqZKGiKBua	Avicii,Nicky Romero	I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit	SEUM71201601	69	dance pop,edm,pop,pop dance,pop rap	0.332	0.509	6.67e-05	0.0374	127.946	0.638	0.79
+5rgy6ghBq1eRApCkeUdJXf	fun.,Janelle Monáe	We Are Young (feat. Janelle Monáe)	USAT21101399	77	baroque pop,metropopolis,modern rock,pop rock	0.02	0.378	7.66e-05	0.075	184.086	0.735	0.638
+4ciaNqHWA2IzHphZaVRzHI	Måns Zelmerlöw	Heroes	SEPQA1401135	60	europop,eurovision,swedish idol pop,swedish pop	0.0743	0.484	0.0	0.0437	124.008	0.369	0.791
+0vbtURX4qv1l7besfwmnD8	Mike Posner,Seeb	I Took A Pill In Ibiza - Seeb Remix	USUM71509342	79	dance pop,edm,pop,pop rap	0.0353	0.664	8.42e-06	0.111	101.969	0.71	0.714
+4QNpBfC0zvjKqPJcyqBy9W	Pitbull,Ne-Yo,Afrojack,Nayer	Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)	USJAY1100032	83	dance pop,latin,miami hip hop,pop,pop rap	0.191	0.671	0.0	0.161	129.024	0.53	0.939
+6Iocm6VMu6bVNYwiDoyQFW	Diddy - Dirty Money,Skylar Grey	Coming Home	USUM71027542	71	hip pop,pop rap	0.158	0.392	0.0	0.193	168.001	0.232	0.839
+4tZp15Dj8yJH3lyf0uh2A4	Sigala	Easy Love	GBCEN1500481	46	dance pop,edm,house,pop,pop dance,tropical house,uk pop	0.257	0.696	0.00114	0.0688	124.01	0.689	0.955
+01TuObJVd7owWchVRuQbQw	will.i.am,Justin Bieber	#thatPOWER	USUM71302526	69	dance pop,pop,pop rap	0.00112	0.797	7.66e-05	0.0584	127.999	0.402	0.608
+6AxCr5G75R5rqyNCYWVpTo	Taio Cruz,Kylie Minogue	Higher	GBUM71029512	63	dance pop,pop,pop rap	0.0048	0.672	3.4e-05	0.0721	128.027	0.746	0.907
+2S5LNtRVRPbXk01yRQ14sZ	Flo Rida,Robin Thicke,Verdine White	I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)	USAT21500395	69	dance pop,miami hip hop,pop,pop rap	0.0242	0.854	0.0	0.141	118.004	0.784	0.766
+5dyDkXi1bnQKSyIdO0JXp8	Yall,Gabriela Richardson	Hundred Miles	ES7001520501	62		0.025	0.479	0.0153	0.109	98.23	0.49	0.714
+07nH4ifBxUB4lZcsf44Brn	Calvin Harris,John Newman	Blame (feat. John Newman)	GBARL1400567	78	dance pop,edm,electro house,house,pop,progressive house,uk dance	0.0287	0.414	0.00574	0.0808	128.024	0.348	0.857
+60jzFy6Nn4M0iD1d94oteF	Rihanna	Rude Boy	USUM70912459	76	barbadian pop,dance pop,pop,urban contemporary	0.113	0.563	0.0	0.127	173.906	0.812	0.75
+6ebkx7Q5tTxrCxKq4GYj0Y	Flo Rida,David Guetta	Club Can't Handle Me (feat. David Guetta)	USAT21001281	77	dance pop,miami hip hop,pop,pop rap	0.0283	0.616	0.0	0.0327	127.966	0.473	0.869
+2fQxE0jVrjNMT9oJAXtSJR	Jessie J	Domino	USUM71113573	76	dance pop,pop,pop rap,post-teen pop,uk pop	0.0117	0.758	0.0	0.034	126.986	0.781	0.557
+1QdpGjYp035BXJB7qPAzl9	Jason Derulo	Trumpets	USWB11303249	54	dance pop,pop,pop rap,post-teen pop	0.563	0.627	0.0	0.236	81.897	0.64	0.703
+1hwJKpe0BPUsq6UUrwBWTw	Green Day	Boulevard of Broken Dreams	USRE10401426	74	permanent wave,punk	0.00394	0.49	1.54e-05	0.0309	167.046	0.506	0.679
+7wMq5n8mYSKlQIGECKUgTX	The Script,will.i.am	Hall of Fame (feat. will.i.am)	GBARL1201055	80	celtic rock,dance pop,neo mellow,pop,pop rock,uk pop	0.0654	0.421	0.0	0.0564	84.786	0.629	0.873
+386RUes7n1uM1yfzgeUuwp	Bruno Mars	The Lazy Song	USAT21001886	77	dance pop,pop	0.3	0.794	0.0	0.0699	174.915	0.955	0.711
+6YUTL4dYpB9xZO5qExPf05	Calvin Harris	Summer	GBARL1400296	84	dance pop,edm,electro house,house,pop,progressive house,uk dance	0.0211	0.596	0.0178	0.0346	127.949	0.743	0.856
+70eDxAyAraNTiD6lx2ZEnH	Elle King	Ex's & Oh's	USRC11401950	73	modern blues rock	0.0183	0.612	0.0	0.085	139.988	0.446	0.921
+1NhPKVLsHhFUHIOZ32QnS2	OneRepublic	Secrets	USUM70985644	76	dance pop,piano rock,pop,pop rock	0.0717	0.516	0.0	0.0366	148.021	0.376	0.764
+5masKPHeAOVNgxdLebIcK7	Kygo,Parson James	Stole the Show	SEBGA1500071	75	edm,pop,pop dance,tropical house	0.271	0.64	0.0	0.226	100.034	0.475	0.635
+62yJjFtgkhUrXktIoSjgP2	Imagine Dragons	Radioactive	USUM71201074	78	modern rock,rock	0.106	0.448	0.000108	0.0627	136.245	0.236	0.784
+55h7vJchibLdUkxdlX3fK7	Bruno Mars	Treasure	USAT21206909	80	dance pop,pop	0.0412	0.874	7.24e-05	0.0431	116.017	0.937	0.692
+6T689Jvh5KrSXyaPtUWZtQ	Britney Spears	Criminal	USJI11100103	72	dance pop,pop,post-teen pop	0.0485	0.696	0.0	0.0298	107.987	0.711	0.734
+2LEF1A8DOZ9wRYikWgVlZ8	Flo Rida	Good Feeling	USAT21101961	77	dance pop,miami hip hop,pop,pop rap	0.0588	0.706	0.00286	0.0688	128.011	0.684	0.89
+1XGmzt0PVuFgQYYnV2It7A	Maroon 5,Wiz Khalifa	Payphone	USUM71203347	84	pop	0.0188	0.743	0.0	0.0414	110.015	0.545	0.752
+4TCL0qqKyqsMZml0G3M9IM	Lady Gaga,Beyoncé	Telephone	USUM70905541	71	art pop,dance pop,pop	0.00521	0.824	0.000817	0.0404	122.014	0.716	0.836
+1YrZuuVG0vZWvsahkSx5WC	Adele	Hello	GBBKS1500214	40	british soul,pop,pop soul,uk pop	0.33	0.578	0.0	0.0305	78.991	0.288	0.43
+2ISSQPb9LHHiV6ng2NXosL	Zedd,Jon Bellion	Beautiful Now	USUM71505090	70	complextro,dance pop,edm,electro house,electropop,german techno,pop,pop dance,pop rap,tropical house,uk pop	0.0079	0.628	1.48e-05	0.0282	128.003	0.56	0.833
+3ScJy88F8KqGDfWu8XJhHx	OneRepublic,Alesso	If I Lose Myself - Alesso vs OneRepublic	USUM71303190	69	dance pop,piano rock,pop,pop rock	0.258	0.519	3.75e-06	0.0402	125.975	0.16	0.754
+3E7dfMvvCLUddWissuqMwr	Miley Cyrus	Party In The U.S.A.	USHR10924519	80	dance pop,pop,post-teen pop	0.00112	0.652	0.000115	0.042	96.021	0.47	0.698
+62pSYErgGri97X9aIyBzHm	Sean Paul,Alexis Jordan	Got 2 Luv U (feat. Alexis Jordan)	USAT21101550	66	dance pop,dancehall,pop,pop rap	0.0825	0.605	0.0	0.297	184.032	0.647	0.793
+2bJvI42r8EF3wxjOuDav4r	Pitbull,Ne-Yo	Time of Our Lives	USRC11402647	82	dance pop,latin,miami hip hop,pop,pop rap	0.0921	0.721	0.0	0.0583	124.022	0.724	0.802
+1K3LRUEcUz5FMtPYyg0F45	The Lumineers	Ho Hey	USDMG1260805	78	folk-pop,stomp and holler	0.765	0.682	0.0	0.0301	79.907	0.421	0.471
+0wruS6JEQCGeYrvsCIdG0Z	Flo Rida,Kesha	Right Round (feat. Ke$ha)	USAT20900316	58	dance pop,miami hip hop,pop,pop rap	0.0518	0.453	1.57e-06	0.291	129.174	0.155	0.975
+0fsEFwLSJTSHSawhe864Cp	Imagine Dragons,Broiler	Shots - Broiler Remix	USUM71503624	68	modern rock,rock	0.449	0.735	0.154	0.0332	120.012	0.582	0.784
+2gZUPNdnz5Y45eiGxpHGSc	Kanye West	POWER	USUM71018220	79	chicago rap,rap	0.0161	0.542	0.0	0.113	153.993	0.576	0.914
+3hlksXnvbKogFdPbpO9vel	Nicki Minaj	Super Bass	USCM51000734	80	dance pop,hip pop,pop,pop rap,queens hip hop	0.271	0.723	4.56e-06	0.203	126.979	0.667	0.86
+3UhXPxLDFKCj1ZO6mmtV0a	OneRepublic	Apologize	USUM70757102	72	dance pop,piano rock,pop,pop rock	0.363	0.593	2.22e-05	0.0339	118.008	0.502	0.74
+0puf9yIluy9W0vpMEUoAnN	Jessie J,Ariana Grande,Nicki Minaj	Bang Bang	USUM71409737	79	dance pop,pop,pop rap,post-teen pop,uk pop	0.26	0.706	0.0	0.091	150.028	0.751	0.786
+0HPD5WQqrq7wPWR7P7Dw1i	Kesha	TiK ToK	USRC10900433	82	dance pop,electropop,pop,post-teen pop,uk pop	0.0991	0.755	0.0	0.142	120.028	0.714	0.837
+1mXuMM6zjPgjL4asbBsgnt	Katy Perry	Firework	USCA21001262	74	dance pop,pop,post-teen pop	0.141	0.638	0.0	0.049	124.071	0.648	0.832
+2g7uRZ68eLtv74XrxgdT2q	Snoop Dogg,Wiz Khalifa,Bruno Mars	Young, Wild & Free (feat. Bruno Mars)	USAT21102232	68	g funk,gangster rap,hip hop,rap,west coast rap	0.0525	0.715	0.0	0.137	95.078	0.531	0.655
+3cHyrEgdyYRjgJKSOiOtcS	Pitbull,Kesha	Timber (feat. Ke$ha)	USRC11301695	83	dance pop,latin,miami hip hop,pop,pop rap	0.0295	0.581	0.0	0.0981	129.992	0.788	0.963
+7b1nJaOmQowF0ySjQuCrHw	ONE OK ROCK	Start Again	USAT21603330	50	j-pop,j-poprock,j-rock,japanese emo,visual kei	0.000575	0.441	0.0	0.131	173.961	0.565	0.885
+1LqiG5pND5lbCKfdHKut7I	Mt. Marcy	i miss you	QM42K1611276	42	japanese chillhop,lo-fi beats	0.873	0.67	0.527	0.0657	82.032	0.305	0.663
+370LALwO8rpzOeA8YaaS1g	sad boy with a laptop	You're My Favorite Person to Be Around	QZDA41805943	43	lo-fi beats	0.84	0.808	0.911	0.312	160.073	0.41	0.24
+2I2mEW8C0ebz8t0VhDe2qZ	Luvbird	Your Smile	QM4DW1802196	38		0.85	0.538	0.857	0.0696	113.996	0.374	0.409
+60EkFnRSHQ8nnofL3Wns5X	j'san	Alone by Your Side	FR9Z61700052	49	chillhop,lo-fi beats	0.879	0.562	0.934	0.403	156.362	0.177	0.136
+1F0a3Au8NIpoRP7PVdO1YR	TSUKI,Shiloh Dynasty	Who? (feat. Shiloh Dynasty)	TCADF1726594	56		0.421	0.831	0.00884	0.176	110.002	0.289	0.713
+2DrrxuNOhnpqJXLH36eR1S	Barnes Blvd.	Joan of Arc.	QZB4J1805657	45	lo-fi beats	0.745	0.429	0.87	0.0314	90.785	0.0531	0.272
+7g0M4NYnzdFr4W6i1suJSM	biosphere	plain plaid purple morning	QZB4J1896367	41	lo-fi beats,lo-fi rap	0.342	0.554	0.0429	0.14	137.082	0.416	0.152
+4BGfM7Faj0dyEnSuaOw67j	Caleb Belkin	I Fall in Love Too Easliy	UST8K1765892	54	chillhop,lo-fi beats	0.637	0.662	0.00213	0.214	141.951	0.234	0.349
+0Ys4J7iim6STsGeLmFLWIo	Nohidea,Ben Beal,sophie meiers	Smile	QZ4JJ1613413	59	chillhop,lo-fi beats,lo-fi chill,lo-fi rap,sad lo-fi	0.911	0.531	0.00201	0.22	75.487	0.749	0.487
+2FjqTNsMtqmat4oU2PpYwK	neeks	Under Cherry Blossom Trees	QMPKX1812616	47	lo-fi beats	0.343	0.734	0.655	0.224	90.276	0.29	0.5
+10hweQwWcUhBcpipYEvCYD	Rook1e	I Fell in Love with You One Night in September	QZ9JZ1724821	58	lo-fi beats,lo-fi chill,sad lo-fi	0.943	0.532	0.824	0.0648	89.346	0.0732	0.137
+1qObLobp2GhmwXJYzrJ7u1	j'san,I Eat Plants for a Living	rest & be thankful	CA5KR1567010	40	chillhop,lo-fi beats	0.907	0.596	0.941	0.0315	138.015	0.372	0.269
+4i9bAQ1V7uSIMCE2QxCslG	frad	While You Were Away	QZES61974606	41	anime lo-fi,lo-fi beats	0.928	0.608	0.76	0.0293	77.933	0.206	0.421
+2v7yI88iezgRO9ka5gtUF1	Burbank	seeing your name makes me happy	QZANL1768489	54	lo-fi beats	0.282	0.724	0.00474	0.2	162.136	0.476	0.279
+7qrBYrivpvfXUPBMmqh3dA	The Deli	5:32pm	UST8K1674343	65	chillhop,lo-fi beats,lo-fi house	0.686	0.691	0.934	0.0487	86.383	0.548	0.186
+6ZHU9U1sN9raVSmDsei1x6	Nom Tunes	Beneath the Rain	QZAPG1750669	46	kawaii future bass	0.974	0.686	0.954	0.0433	120.014	0.267	0.308
+5cvbog6wen3r3bBbcwL16U	In Love With a Ghost	We've Never Met but Can We Have a Cup of Coffee or Something	GB-SMU-26-29433	57	future bass,kawaii future bass,lo-fi beats	0.926	0.349	0.121	0.0538	201.128	0.236	0.214
+0Sual1ICmnvv1bZ8IEZsS5	Jinsang	Bliss	DEQ121644238	53	chillhop,japanese chillhop,korean r&b,lo-fi beats	0.566	0.588	0.924	0.0546	170.71	0.581	0.352
+0T3AL6GpsAkydCNBZ9VguC	sad boy with a laptop	Hi You're Cool, Wanna Get Bubble Tea?	QZDA41805942	45	lo-fi beats	0.633	0.805	0.944	0.0916	80.018	0.24	0.484
+2Csg0XMPdNmHLozWODtsQq	In Love With a Ghost	I Was Feeling Down, I Found a Nice Witch and We're Friends	GB-SMU-33-88990	49	future bass,kawaii future bass,lo-fi beats	0.633	0.585	0.848	0.116	85.459	0.375	0.375
+0JhdQlmssZgMtiXUjBFP6C	biosphere	my heart flutters when i see you	CA5KR1568909	49	lo-fi beats,lo-fi rap	0.893	0.73	0.884	0.0724	162.124	0.531	0.403
+5XjfPbRbD2W245d2qsDVqU	Through & Through	Schools out, Lets Go Get Some Ice Cream	TCADA1737260	29	lo-fi beats	0.263	0.782	0.00438	0.0543	87.438	0.665	0.392
+7DUCCUQCQwo85JShEcvgzS	Rook1e,Silk.Y.,Luvbird	The Waves Guided Me to You	QZ9JZ1724829	20	lo-fi beats,lo-fi chill,sad lo-fi	0.38	0.75	0.624	0.0346	95.063	0.581	0.303
+00iwQgjIgoGO94BRBDyClo	Kudasaibeats	The Girl I Haven't Met	QZAPG1741641	57	lo-fi beats,lo-fi chill,sad lo-fi	0.86	0.785	0.84	0.0418	139.885	0.327	0.222
+6xHlnkbGTtQaPvFJVIweaD	City Girl	Walking in the Rain to a Café to Write Down Private Thoughts in Public	TCADI1719568	47	lo-fi beats	0.678	0.659	0.475	0.0442	83.998	0.147	0.144
+7dStBhN0AbvcisUF2IePZg	Ibrahim	A World at Peace	QZ9JZ1762556	51	lo-fi beats,lo-fi rap	0.93	0.438	0.97	0.108	80.03	0.0475	0.131
+6O7tkXkAc1zGU1CiVnHGyL	sad boy with a laptop	I Fell for You in a Coffee Shop	QZDA41805945	37	lo-fi beats	0.514	0.653	0.67	0.0309	90.069	0.199	0.346
+3m3IcXx0tjp9tgkisn60YE	biosphere	bouquet of balloons	QZB4J1896368	46	lo-fi beats,lo-fi rap	0.441	0.729	0.821	0.06	162.011	0.792	0.337
+0A6dTlWYD2magT5bqUyZLM	Elijah Who	i'm tired of feeling this way	DEQ121751472	60	lo-fi beats,lo-fi chill,sad lo-fi	0.992	0.798	0.821	0.0723	137.83	0.192	0.117
+4fgIoBKHzO7YO5eATyYbMl	Saib	in your arms	QM42K1853240	55	chillhop,japanese chillhop,lo-fi beats	0.697	0.739	0.0133	0.0929	142.912	0.755	0.28
+4brNBl0X8dpwjox4DZqjly	Peachy!	This Is What Happens	QZDA61858534	43	lo-fi beats,lo-fi chill	0.789	0.783	0.643	0.0843	119.931	0.147	0.297
+0KaL92TyWMq1Lkhd1dlgC8	keloqz	Jovial	QZHN92283516	52		0.937	0.816	0.939	0.0496	139.909	0.366	0.178
+733hyyG8U8kxxebds98nc6	frad	First Date	QZES61945597	63	anime lo-fi,lo-fi beats	0.75	0.732	0.828	0.057	82.555	0.601	0.303
+34A2accnIDPOhkRltN8KJY	90sFlav	Call me	DEQ121855113	67	lo-fi beats	0.952	0.748	0.917	0.229	77.009	0.14	0.265
+7pDspg2l98EwYQRcBpmQWK	halberd,Nion	summer nights.	QM42K1738748	51	lo-fi beats,lo-fi rap	0.939	0.782	0.781	0.668	83.989	0.39	0.127
+0DvqAXyoA7zRB8wgH0DjRO	City Girl	Ji-Eun's Sunset	QZDA41863103	56	lo-fi beats	0.0923	0.931	0.816	0.106	118.024	0.172	0.517
+1k6WdNgK2EFLIr3opwgCpm	sad boy with a laptop	You're the Dream I Never Wanna Wake Up From	QZB4J1800331	48	lo-fi beats	0.332	0.756	0.929	0.269	159.784	0.517	0.272
+7MdZQXUBijQxcBkYz4G1Z5	Jinsang	Affection	DEQ121644250	65	chillhop,japanese chillhop,korean r&b,lo-fi beats	0.914	0.698	0.937	0.0902	84.03	0.607	0.193
+17D4XspxayJTcEKK4N8Vyw	Sky.High	It's just a blur	CA5KR1577843	33	lo-fi beats	0.537	0.86	0.888	0.126	82.003	0.412	0.353
+61nMPGDFZC3FOGT0WPpTWH	biosphere,Barnes Blvd.	pastel sunset	QZB4J1896374	35	lo-fi beats,lo-fi rap	0.859	0.588	0.193	0.0415	75.011	0.0911	0.115
+1ZzpnNOU6rbXFZEm4MBdjR	aimless,j'san	i've been missing you lately	CA5KR1567348	45	chillhop,lo-fi beats	0.762	0.624	0.747	0.614	79.788	0.295	0.429
+2qMHdr7gy5YWM0hQP917LR	frad	The Girl I Have a Crush On	QZES61974604	59	anime lo-fi,lo-fi beats	0.875	0.686	0.894	0.0431	190.007	0.558	0.329
+7FKul3XpOyOxm5KEm1i1Ui	aqualina	tea for one	QM42K1849603	36	lo-fi beats	0.94	0.697	0.951	0.0396	65.363	0.333	0.27
+2JrNwqjn3Uf5dA6tKLaJl2	Hentaidesu	Sharing an Umbrella	QZBRF1871540	53	lo-fi beats	0.977	0.669	0.905	0.0422	80.027	0.304	0.188
+2z8FeGVwMVklS2llztkjVF	Burbank	the happiness of seeing someone again	QZDA61966431	39	lo-fi beats	0.712	0.718	0.919	0.0614	180.059	0.51	0.343
+751x6FLRCdXDP5HMnUNQZb	In Love With a Ghost	iced tea for breakfast	QM24S1806540	48	future bass,kawaii future bass,lo-fi beats	0.984	0.486	0.885	0.0487	119.958	0.169	0.162
+2zM1k4PnL573ayLHqpQaQN	Macklemore,Ariana DeBoo	Drug Dealer (feat. Ariana DeBoo)	GMM881600064	53	pop rap,seattle hip hop	0.678	0.494	0.0	0.291	151.091	0.216	0.612
+2qOm7ukLyHUXWyR4ZWLwxA	Ice Cube	It Was A Good Day	USPO19250006	81	conscious hip hop,g funk,gangster rap,hip hop,rap,west coast rap	0.33	0.798	0.000106	0.136	82.356	0.794	0.744
+7foypmc7KZyU716Yv63BPe	Huncho Jack,Travis Scott,Quavo	Saint	USUM71714118	64	hip hop,melodic rap,rap,southern hip hop,trap	0.009	0.866	0.0	0.0543	150.058	0.0798	0.648
+7ms3VzLTfr7fXNOqA4Mkx9	Lil Skies,Rich The Kid	Creeping (feat. Rich the Kid)	USAT21801155	64	melodic rap,rap,trap	0.0108	0.729	0.0	0.25	160.085	0.683	0.687
+0G149jkGWKwrPXUGkEDgWM	21 Savage	Numb	USSM11705537	62	atl hip hop,rap,trap	0.0438	0.839	2.7e-06	0.285	82.009	0.464	0.436
+1N7CHs4eGjgr3gjyUgq75Y	DaBaby	Carpet Burn	USUM71902951	51	north carolina hip hop,rap,trap	0.0492	0.824	0.0	0.302	77.973	0.903	0.859
+7y0Pqy17V0JcuvSJ00Ml4V	Migos,Juice WRLD	Antisocial (feat. Juice WRLD)	USUG12102587	34	atl hip hop,hip hop,pop rap,rap,trap	0.784	0.667	0.0	0.0491	140.033	0.528	0.39
+20GrahbI4AzAOWxpYfDKkf	DJ Khaled,Post Malone,DaBaby,Megan Thee Stallion,Lil Baby	I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)	USSM12102187	71	dance pop,dirty south rap,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap	0.00196	0.757	0.0	0.0691	124.036	0.364	0.721
+22nyEAEM29tcBRhukR089b	Jaden	Icon	QMJMT1701504	73	hip hop,pop,rap	0.222	0.786	0.0	0.232	119.982	0.49	0.82
+0B8QzDH7YWih85V5SEMnyJ	Lil Uzi Vert	Money Longer	USAT21600660	75	melodic rap,philly rap,rap,trap	0.0541	0.795	0.0	0.142	136.173	0.478	0.568
+5PIfH6BzcmH04RDmtzF0BN	YoungBoy Never Broke Again	Outside Today	USAT21800223	60	baton rouge rap,trap	0.139	0.851	0.0	0.0694	134.068	0.0585	0.666
+285pBltuF7vW8TeWk8hdRR	Juice WRLD	Lucid Dreams	USUG11800685	85	chicago rap,melodic rap	0.349	0.511	0.0	0.2	83.903	0.218	0.566
+2QqJTIlGKRLJC3onkavYEz	Polo G,Juice WRLD	Flex (feat. Juice WRLD)	USQX92002596	75	chicago rap	0.0538	0.752	0.0	0.153	164.009	0.35	0.673
+12PNcnMsjsZ3eHm62t8hiy	DJ Khaled	All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)	USKO11000176	70	dance pop,dirty south rap,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap	0.0139	0.545	0.0	0.185	150.097	0.277	0.781
+6aTNfIir5pZmrFOC1gnxXB	French Montana	Famous	USSM11705492	54	gangster rap,hip hop,pop rap,rap,southern hip hop,trap	0.0234	0.722	1.64e-05	0.162	99.948	0.569	0.598
+5W8jRrZ6tWrTrqnKRtIQBf	J. Cole,Lil Baby	p r i d e . i s . t h e . d e v i l (with Lil Baby)	QMJMT2103642	79	conscious hip hop,hip hop,north carolina hip hop,rap	0.104	0.861	0.0	0.425	88.967	0.331	0.656
+4vwfOiyWxXeEdx4ejAJgdx	Huncho Jack,Travis Scott,Quavo,Takeoff	Eye 2 Eye	USUM71714106	56	hip hop,melodic rap,rap,southern hip hop,trap	0.00122	0.818	0.0	0.148	146.015	0.163	0.65
+4TIqzdAssasqx3DAe6cG9J	Joyner Lucas,Lil Baby	Ramen & OJ	QZES92173120	77	boston hip hop,hip hop,pop rap,rap	0.492	0.597	0.0	0.293	106.196	0.165	0.571
+57ZUX6TNyKLBydAdVVd02x	J. Cole	p u n c h i n ‘ . t h e . c l o c k	QMJMT2103638	62	conscious hip hop,hip hop,north carolina hip hop,rap	0.197	0.769	0.0	0.378	94.104	0.692	0.74
+1D2L6MefbXon28PzIk9I3r	Post Malone	92 Explorer	USUM71805176	70	dfw rap,melodic rap,rap	0.265	0.798	1.25e-06	0.0476	146.046	0.861	0.733
+0Zl4G9qcdXV5hVhdOirNHG	Tyga,A Boogie Wit da Hoodie	Goddamn (feat. A Boogie wit da Hoodie)	USUYG1249674	56	dance pop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.0667	0.951	0.0	0.227	105.052	0.42	0.573
+6eYxmK9fdL4hwLnXG2zY3s	XXXTENTACION	Look At Me!	USUYG1142045	62	emo rap,miami hip hop	0.259	0.763	0.0	0.282	139.059	0.349	0.726
+2t8yVaLvJ0RenpXUIAC52d	21 Savage	a lot	QZ45A1700126	80	atl hip hop,rap,trap	0.0395	0.837	0.00125	0.086	145.972	0.274	0.636
+7CZyCXKG6d5ALeq41sLzbw	Post Malone,Ozzy Osbourne,Travis Scott	Take What You Want (feat. Ozzy Osbourne & Travis Scott)	USUM71915731	76	dfw rap,melodic rap,rap	0.0906	0.499	0.0	0.0502	139.919	0.272	0.8
+42k9e2hgl98IdgkXLg4pxs	Metro Boomin,Travis Scott,Kodak Black,21 Savage	No More (feat. Travis Scott, Kodak Black & 21 Savage)	USUG11802488	63	hip hop,rap,southern hip hop,trap	0.413	0.636	0.0	0.329	82.309	0.196	0.501
+7yyRTcZmCiyzzJlNzGC9Ol	Shelley FKA DRAM,Lil Yachty	Broccoli (feat. Lil Yachty)	USUYG1098775	63	alternative r&b,pop rap,virginia hip hop	0.236	0.886	0.0	0.131	145.99	0.708	0.525
+5bJ1DrEM4hNCafcDd1oxHx	Mac Miller	Self Care	USWB11801215	80	hip hop,pittsburgh rap,rap	0.367	0.52	0.00187	0.206	141.894	0.177	0.538
+0Fghb7rYArAMHexYMokeRu	Serenity	In the Name of Scotland	ATN262211801	23	austrian metal,gothic symphonic metal,melodic metal,neo classical metal,power metal,symphonic metal,symphonic power metal	0.38	0.655	0.0	0.0314	77.003	0.388	0.495
+7q6XxSUzCu5Un9YP2ZGKsa	Stessie	Atmosphere	QZFZ32070805	35	kawaii edm	0.00809	0.535	0.266	0.035	132.001	0.529	0.909
+6xdzj9CiF34j39pqnHVjuS	PIKASONIC	Miss You	QM8DG1835919	32	kawaii edm	0.0936	0.737	0.0782	0.0416	109.008	0.652	0.903
+2UoQW4j6RoKDyU2LQMZeyv	Couple N,Ulchero	Love Trip	QM2PV1826827	16	kawaii edm	0.0652	0.579	0.0121	0.031	111.994	0.542	0.901
+2LFXaBiTPtbz0vYFJU28C8	iMeiden	Destination	TCJPG1886669	20	kawaii edm	0.156	0.562	3.59e-05	0.0338	170.029	0.406	0.926
+2QMKSGBsYxrDQCPCa21zeB	Cloudier	Heartbeat	QZFYY2059379	42		0.0545	0.783	0.00392	0.0367	110.037	0.566	0.73
+2rCLWNV54endKcbyFhKm7z	PIKASONIC,4*	Orbits	TCJPN2005456	15	kawaii edm	0.0143	0.416	0.0151	0.0675	185.08	0.453	0.906
+7p30Wh4cKolsHE3NAqpgIk	Mihony	Cute Swing	SE6I31927637	16	kawaii future bass	0.443	0.644	0.000128	0.0288	128.056	0.527	0.482
+0lIWfsWwzOf1q38PPzzqIA	Synthion	Voyage	QZ5FN1733266	28	future bass,kawaii future bass	0.000206	0.499	0.684	0.0935	170.03	0.309	0.882
+1vndpQx85WPbMMLqYuBKGe	PIKASONIC	Infinity	TCJPQ2289862	23	kawaii edm	0.00109	0.338	0.184	0.0537	175.067	0.21	0.85
+23Q2IdRPVSAZgC1G15KwLa	Kirara Magic	Chaos Cat	QZES91824418	14	kawaii edm	0.327	0.78	1.05e-06	0.0673	128.001	0.454	0.923
+1Gu8vBwx05NqfUnMY681RH	Stessie	Friends	QZDA41986373	24	kawaii edm	0.00993	0.739	0.133	0.0449	125.933	0.523	0.872
+4aYMVNm5hgjgk4EtldLSiW	a_hisa	Pastel Subliminal	TCJPE1634585	18	rhythm game	0.387	0.422	0.162	0.0366	93.515	0.353	0.958
+7KDDKxA6e7I7lAgT6l2U5v	Miruku	You	QZFYY1947146	32	kawaii edm	0.472	0.675	0.848	0.109	75.012	0.786	0.809
+0GbffRMuecaBb3hesnN26x	iMeiden,Rachie	Tower Light Fireworks	TCJPG1886679	43	kawaii edm	0.384	0.597	0.0	0.0413	99.975	0.585	0.637
+5bCWTalG2dGx2rQKEmsXLZ	iMeiden	Outer	QM42K1846007	19		0.217	0.602	0.000217	0.0382	164.986	0.463	0.893
+0Hgh6y0nU14eOBK8OeZ7xA	Snail's House	Warp Star	TCADS1878055	36	future bass,kawaii future bass	0.00226	0.369	0.734	0.041	173.946	0.177	0.858
+57Bv7VXc2IHBfznHUoOTOM	PIKASONIC	New Start!	QM8DG1835920	40	kawaii edm	0.134	0.629	0.00044	0.0444	110.028	0.31	0.897
+4rzICLvgcR7oIKemH7PXYw	PIKASONIC,DanK	World	QM42K2028052	26	kawaii edm	0.0414	0.671	0.00541	0.0582	130.071	0.166	0.945
+46PVskv9ZO7W37YGfNIRCd	Hyper Potions,Mega Flare,Slyleaf	Where We Wanna Be	QZFYX1962617	33	kawaii future bass,speedrun,vgm remix	0.515	0.855	0.000436	0.0769	134.974	0.86	0.804
+2AMekobmlT1tbSV97WPK3u	PIKASONIC	Sapphire	QM42K2064316	21	kawaii edm	0.103	0.569	0.234	0.0373	130.022	0.154	0.916
+4dQZKlIGhzYAChkinX6c18	PIKASONIC	Nothing	AUBEC2172934	26	kawaii edm	0.00772	0.459	0.00158	0.0294	99.998	0.349	0.865
+4exbt8oLBOYOyCKWzAapH7	Stessie	Sprinkles!	QZDA41986376	17	kawaii edm	0.0302	0.433	0.103	0.0864	99.964	0.266	0.832
+4oSJ1kLpOJvgB0FDilIdfO	PIKASONIC,Tatsunoshin,NEONA	Lockdown	TCJPO2171773	31	kawaii edm	0.177	0.464	2.49e-05	0.0496	175.065	0.323	0.886
+3i7nmh2ZrcNqilKZQ9ZRDE	PIKASONIC	Myself	QM8DG1835931	23	kawaii edm	0.0244	0.535	0.422	0.0355	149.964	0.412	0.906
+2oMwomt0INlpSNc2oIbjrX	PIKASONIC	Nation	AUBEC2115233	24	kawaii edm	0.0147	0.622	6.37e-06	0.0449	128.006	0.424	0.736
+10ey4RT6ja4Hf8pauHLAy7	Couple N,PIKASONIC	Shine	QM42K2023235	22	kawaii edm	0.0176	0.489	0.349	0.0498	180.08	0.225	0.889
+7vwm608eJTg1zwK0PW6voN	Pure 100%,Dream Hackers	Lazer Beam	SEUM71701115	28	kawaii future bass	0.00166	0.558	0.0909	0.0862	145.02	0.437	0.917
+6XbWJA4qycAGGESVrSQAdp	Rejection	Together	QZES91914454	34		0.00165	0.48	0.679	0.0363	175.055	0.366	0.802
+38eGuLfzrE81M34CUZqv9D	PIKASONIC,Tatsunoshin,Tsugumi Nagahara	Euphoria	TCJPQ2146506	30	kawaii edm	0.00576	0.417	1.59e-05	0.0541	174.974	0.236	0.858
+3GYHJvTiTCos9u1KCK45tR	Synthion	Comet	TCJPG1897639	23	future bass,kawaii future bass	0.0724	0.451	0.000338	0.0395	170.123	0.225	0.714
+3kngYxesTUyZzaZZzO76GF	BB Yukus	Kaedekko	QZFZ22049701	18	kawaii future bass	0.253	0.714	4.58e-05	0.402	124.095	0.409	0.952
+7EkcZqdmDEh0WA8eCqBYgr	Loxive,ColBreakz	Always With You	SEUM71800396	28		0.0107	0.743	0.241	0.0837	106.988	0.278	0.743
+4p07tIIqWL87HxHH9ttFjf	tokiwa	Gemini	USLZJ1864739	16	kawaii edm	0.00042	0.623	0.806	0.0969	180.098	0.678	0.922
+5rquqKkGJW1byt4svitANy	iMeiden	Happy	TCJPI1958340	14	kawaii edm	0.0358	0.633	0.731	0.0334	109.983	0.288	0.823
+5vDBRxncV8ApXd7MgyVqwS	PIKASONIC	Cosmos	QM8DG1835918	30	kawaii edm	0.0495	0.474	0.464	0.0333	169.979	0.279	0.967
+2sM0YmYAaRyMd21UhJyHOe	miraie,iMeiden	Heartseeker	GB-SMU-43-11941	28	glitchcore,hyperpop,kawaii future bass	0.000637	0.487	0.297	0.0398	159.979	0.344	0.947
+7B24A46hAbb1nPKhj1MkIl	nanobii	HYPER★DRIVE	QM2PV1571193	32	gaming edm,kawaii future bass	0.0316	0.411	0.000375	0.0359	173.837	0.25	0.811
+76mCCIqDCMZVAvkLB8QNNF	YUKIYANAGI,iMeiden	Super Nova	TCJPG1897637	35	j-core	0.000138	0.39	0.00168	0.0523	170.007	0.696	0.965
+5HhYHpxwdGTCO5YK7dycoT	supercell	My Dearest	JPSR01102861	57	anime,j-pixie,j-poprock,vocaloid	0.0286	0.394	0.00117	0.0628	168.166	0.324	0.918
+6Ft1XuvNszzYKUzWYK67VR	Hoshimachi Suisei	GHOST	JPV752104460	55	hololive,japanese vtuber	0.00401	0.45	0.0	0.172	91.009	0.282	0.942
+0itHnR4LnxM4SF9sXe0Hao	Yui Ogura	Honey Come!!	JPKI01515095	30	anime,j-idol,seiyu	0.197	0.591	6.52e-06	0.0709	91.963	0.777	0.944
+3uwlaMMgaOSchr5Gzipl0S	星見プロダクション	IDOLY PRIDE	JPX402000075	28	anime,shonen	0.277	0.496	0.0	0.0876	167.086	0.711	0.897
+3QjIdDDKoZRyfWDKZC4Ayb	DEAN FUJIOKA	History Maker	JPJ221600936	61	japanese dance pop	0.102	0.397	0.0	0.0855	67.012	0.456	0.668
+1T6dcDpq4zskAJSs0717gR	Chibby	Candy Highway	QZDA51911048	6		0.00517	0.473	0.476	0.115	170.013	0.32	0.979
+2L3lYfrnZdm13IgvwR6HTW	nanobii	Children of the Sky	SE53D1900006	38	gaming edm,kawaii future bass	0.101	0.472	1.46e-06	0.0357	167.937	0.517	0.785
+5jk2daKEyktAONgDhBow3E	Amidst	Touch	QZFZ61937551	12		0.0615	0.78	0.0531	0.0914	125.041	0.532	0.729
+3BTaSBA0EO3HskAWYaUcEk	Linus from the Stars,Auxie	City Lights	SE53D1800006	35	kawaii edm	0.0457	0.478	2.66e-06	0.0376	175.81	0.329	0.575
+4mmI2JNZzN8g1Af5VsKq3U	PIKASONIC	Forest	QZHZD1990328	21	kawaii edm	0.021	0.691	0.0271	0.0358	128.04	0.111	0.905
+5I0mRnickQbKRaX9h3bqZj	nanobii	Pixie Dust	UST8K1625002	30	gaming edm,kawaii future bass	0.0775	0.437	0.811	0.0532	180.104	0.453	0.883
+37J5nMTIJEY7oJW4AJatk1	PIKASONIC	Interstellar	TCJPQ2150723	22	kawaii edm	0.00493	0.448	6.81e-06	0.0309	180.08	0.46	0.641
+255lHDqWyOwi7X8k9uJ2Tt	Couple N,miraie	Endear	QZES51888616	32	kawaii edm	0.00281	0.437	0.698	0.0372	175.028	0.309	0.746
+0iYe6sDZ5sidIJAgYwtrte	Kyrrin	Play	QM42K2083850	17	kawaii future bass	0.55	0.605	0.688	0.0299	145.034	0.963	0.889
+6iL3TmQDBHlicvCmOnFNAS	PIKASONIC	Forever	QZFP51951224	24	kawaii edm	0.0172	0.616	0.966	0.0604	127.951	0.499	0.915
+7LVsLHXVLscS5xY7q50TLT	eill	Koko de Iki wo Shite	JPPC02100760	56	anime,j-pop,japanese r&b	0.0639	0.671	0.0	0.057	107.007	0.796	0.76
+0HAi4Xk8v9JlkkxzfzPlYN	supercell	君の知らない物語	JPSR00901782	42	anime,j-pixie,j-poprock,vocaloid	0.00963	0.422	0.0	0.046	164.876	0.529	0.914
+5aizlP42VrR8RBP7q4eh5n	ヨルシカ	心に穴が空いた	JPPO01902577	42	j-pop	0.247	0.589	8.8e-06	0.0482	100.113	0.605	0.917
+1p0WZg4NXoNVGj2AuoLJe7	Ikimonogakari	熱情のスペクトラム	JPU901401324	64	anime,anime score,j-pop,j-poprock	0.0593	0.476	0.0	0.0436	160.025	0.746	0.902
+1PubxlFeesWDghC3B9I280	THE ORAL CIGARETTES	Amy	JPJ221500804	38	anime,j-poprock,j-rock,japanese indie rock	0.000154	0.371	1.18e-06	0.0367	181.924	0.469	0.912
+3eBb3phhxQmAywIdeDO1SK	Sarasa Watanabe(CV.Sayaka Senbongi)/Ai Narata(CV.Yumiri Hanamori)	星の旅人	JPKI02112192	32		0.764	0.545	0.0	0.0442	145.982	0.509	0.787
+7kiBqs3OTw2IDjY6SRoQZ8	MONO NO AWARE	ゾッコン	JPJ902010200	39	japanese alternative rock,japanese indie rock	0.00837	0.54	0.0248	0.0262	104.024	0.717	0.776
+5Hm5PH9jfMxxjM6Ydo6itr	THE ORAL CIGARETTES	Get Back	JPJ221500695	37	anime,j-poprock,j-rock,japanese indie rock	3.69e-05	0.466	1.21e-05	0.0682	96.044	0.559	0.977
+4AMtutbqOdlw9ybtWSE1et	虹ヶ咲学園スクールアイドル同好会	NEO SKY, NEO MAP!	JPI102001507	43	anime,love live	0.0241	0.523	0.0	0.0403	142.03	0.68	0.894
+0zMElbRUCQU6Y2CnEO3jGY	THE ORAL CIGARETTES	5150	JPJ221600932	44	anime,j-poprock,j-rock,japanese indie rock	0.000896	0.457	3.08e-06	0.0508	96.016	0.486	0.918
+6Z5h7cmLThLY6AlRPGR1kq	虹ヶ咲学園スクールアイドル同好会	Colorful Dreams! Colorful Smiles!	JPI102200626	48	anime,love live	0.00449	0.542	0.000194	0.0529	92.514	0.816	0.941
+3BSPKTravgBDjmuG1rIXvw	Coda	BLOODY STREAM	JPQ461200121	68	shonen	0.0086	0.274	0.0	0.064	129.999	0.662	0.903
+5mpsVk0Slnd27aJWamQzVU	Watanabe Saki (CV: Risa Taneda)	Wareta Ringo	JPPC01204201	45	anime,anime cv	0.521	0.406	4.51e-06	0.107	118.903	0.455	0.606
+4YXlnwnK3yt5xLfF5Q8wKG	Seiko Oomori	JUSTadICE	JPB601901268	53	idol rock,j-pixie	0.00123	0.413	0.00569	0.205	185.034	0.362	0.988
+1k2XihzFQ5D7KXZd3wvdhS	Reol	ストリーミングハート	JPVI01433690	37	anime rock,japanese electropop	0.000703	0.278	9.45e-06	0.169	99.106	0.409	0.93
+5XmWr9rlKvjMLmnq2A5HF5	SID	乱舞のメロディ	JPKS01002281	59	anime,j-poprock,oshare kei,visual kei	0.00224	0.417	1.97e-06	0.194	192.067	0.623	0.966
+2noRPwBUD3h98s09YuxHf9	ONE OK ROCK	Save Yourself - Japanese Version	USAT22207141	56	j-pop,j-poprock,j-rock,japanese emo,visual kei	0.00802	0.56	0.0	0.0694	82.52	0.768	0.859
+0HRqi9FitCXtngrDqIwMdH	沼倉愛美	Climber's High!	JPVI01641410	40	seiyu	0.00122	0.334	0.0	0.179	88.534	0.503	0.985
+683BwxNnoUdR610Rqlq1NJ	Tia	ハートリアライズ	JPB601400193	42	anime	0.000864	0.328	0.156	0.141	178.031	0.277	0.952
+7v8wKvNQQIxkugCFFjrkaO	Aimer	残響散歌	JPU902104729	79	anime,anime rock,j-pixie,j-pop,j-poprock	0.000627	0.367	0.0	0.091	170.863	0.38	0.896
+7i74dlNW5CogOhN13j2AzN	STEREO DIVE FOUNDATION	Chronos	JPI101901637	46	anime,j-poprock	0.000214	0.451	2.66e-05	0.0907	99.998	0.446	0.965
+31F8z6YwxaplOZsk2Dcxoo	Wienners	FACTION	JPCO02121650	39	japanese pop punk	0.000606	0.532	8.53e-06	0.0739	94.967	0.59	0.924
+4TScDBRbHXvuuCF1Dmbn0V	亜咲花	Ready Set Go!!	JPK632200101	31	anime	0.0206	0.518	6.86e-06	0.0916	172.021	0.625	0.922
+14kDtOD6cGh7Qc0GvvlSh3	ROOKiEZ is PUNK'D	コンプリケイション	JPN101000361	49	anime,anime rock,j-poprock,japanese pop punk,otacore	0.00894	0.643	0.0	0.0344	138.026	0.682	0.84
+1HCUx4Q2A9qVwf3b3pEotn	Omoinotake	惑星	JPH941001073	44	city pop,japanese soul	0.447	0.619	0.0	0.028	89.956	0.526	0.665
+3fao1RoZVQPtkHY8upjezr	Reol,Giga	drop pop candy (feat. ギガ)	JPTF01604504	59	anime rock,japanese electropop	0.0194	0.698	0.000181	0.0537	129.962	0.967	0.942
+2T4FlJl7BqYD5yVAKBbWhq	Ponchi,haxchi	Mousou Chu!!	TCJPL2003873	24		0.0165	0.62	0.00063	0.164	119.006	0.444	0.995
+7LBrI81PTeI4kmiTGC2tyA	sweet ARMS	Trust in you	JPCO01406930	46	anime,shonen	0.115	0.371	3.21e-05	0.063	94.805	0.533	0.898
+6euwgOanJOzsBeZUDTbx29	Survive Said The Prophet	found & lost	JPP301800365	56	j-poprock,japanese alternative rock	0.000133	0.547	0.000303	0.0783	104.086	0.382	0.987
+7aL1ICSO4JYdRzQcxQ96lz	MY FIRST STORY	LEADER	JPW461809211	47	anime,j-pop,j-poprock,j-rock,japanese post-hardcore	0.00301	0.291	0.0	0.382	180.292	0.28	0.97
+6tuhGVjqfYYs0MYxapWibK	Stray Kids	TOP -Japanese ver.-	JPU902001102	54	k-pop,k-pop boy group	0.00139	0.611	0.0	0.147	97.94	0.414	0.967
+3DZG4wc2NQbgjR2m8iXpG1	ClariS	コネクト	JPU901001861	55	anime,j-pop girl group,j-poprock	0.0484	0.559	0.00102	0.0451	87.539	0.75	0.924
+4ZArDD9FZ3I4thJeQkoOPv	supercell	The Bravery	JPSR01204423	42	anime,j-pixie,j-poprock,vocaloid	0.0322	0.501	0.000613	0.0874	94.469	0.162	0.976
+3Un2d5mEp5yLqaITkb1mS8	ClariS	ヒトリゴト	JPU901700786	54	anime,j-pop girl group,j-poprock	0.309	0.538	0.00264	0.0521	165.013	0.642	0.942
+75CyctEqXZBFn2jemgcb1B	Giga	G4L	JPG532102927	47	vocaloid	0.0316	0.688	0.0	0.199	140.031	0.773	0.975
+0vEPRiZxkcvo1i5hNcBE6w	Inori Minase	ハートノイロ	JPKI01814156	28	anime,j-pixie,seiyu	0.0503	0.399	0.0207	0.0728	181.063	0.429	0.903
+5LjAXEeoZxzTWMsGa30Aw4	Ray	♡km/h	JPPI01601230	27	anime	0.00732	0.409	0.0154	0.0807	184.942	0.54	0.908
+4hps0PPTjr0C8gSGUq1Has	Aimer	RE:I AM	JPN101300001	53	anime,anime rock,j-pixie,j-pop,j-poprock	0.126	0.463	0.0	0.0607	143.998	0.489	0.817
+4q1gTFIxHFRQKICbIuVH8C	Eve	Avant	JPTF02202006	51	anime,anime rock	0.00229	0.491	0.0	0.0442	92.935	0.58	0.791
+5rq7yhcpsofB04NgTqlY8r	Eve	Gunjo Sanka	JPTF02122901	48	anime,anime rock	0.000942	0.457	0.0	0.064	168.058	0.476	0.882
+0jXK4Xy4LAEKFgRiTr3M7w	GALNERYUS	HUNTING FOR YOUR DREAM	JPVP01207606	58	j-metal,japanese power metal,neo classical metal,power metal,visual kei	3.82e-06	0.277	8.36e-06	0.0586	178.036	0.36	0.925
+4lBliLm5ufCBNPlCzpvrQB	Kumi Koda	Guess Who Is Back	JPB601802274	58	j-pop	0.00245	0.403	0.00605	0.16	183.266	0.417	0.94
+0EpFAyO3CUdOM5eTFORpzK	Miku Sawai	こんな世界、知りたくなかった。	JPU901400513	35	anime	0.695	0.446	0.0	0.031	176.048	0.349	0.536
+6flEDs8jmQ47ZSFZru59Fz	NICO Touches the Walls	ニワカ雨ニモ負ケズ	JPKS01301021	57	anime,j-pop,j-poprock,j-rock	0.00282	0.38	0.0	0.147	186.127	0.664	0.951
+4tbTmyTqqK34BUPM1UDEHQ	Lizz Robinett,Jonatan King	Chikatto Chika Chika (From “Kaguya-sama: Love is War”) [Japanese Version]	QZGWW1922417	46	otacore	0.105	0.679	2.37e-05	0.189	178.072	0.407	0.77
+7yjLgRdvQUDeV8LZwl1Q76	STEREO DIVE FOUNDATION	Genesis	JPI101502501	28	anime,j-poprock	0.00445	0.268	0.0	0.0881	173.967	0.315	0.96
+64yajM6CxtLghmgB53VeXT	Mrs. GREEN APPLE	インフェルノ	JPPO01902850	69	anime rock,j-pop,j-rock	0.00955	0.529	0.0	0.0581	92.466	0.695	0.931
+5lBeUWo0hs4vhnmPbSl0Cq	Kid Bloom	Window	QZ9JZ1784998	52	indie pop,modern rock	0.791	0.849	0.00031	0.0279	102.998	0.931	0.537
+6aHTqCC2qHHs5H0rjgJVbc	Roy Blair	Happy	USUYG1169283	41	bedroom pop,indie pop	0.454	0.798	0.0	0.0478	100.051	0.519	0.367
+2xhGZ3WzOa3tir28y7Cb88	Peachy!,mxmtoon	Falling for U	USHM81705333	75	lo-fi beats,lo-fi chill	0.748	0.719	2.18e-06	0.398	80.184	0.409	0.36
+5VqCEVBScatH05aM7KbABm	Verzache	Juvenescence	QM4DW1741970	55	lo-fi chill	0.773	0.837	0.174	0.0516	89.529	0.457	0.36
+7er0EUMY653mxZ1NVD9mwQ	Tyler, The Creator,Roy Ayers,Syd,Kali Uchis	FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)	USQX91500707	59	hip hop,rap	0.405	0.53	0.0832	0.0275	75.111	0.195	0.427
+0YBvPvnfflEzgc3GV9vzKA	Gus Dapperton	My Favorite Fish	GBKPL1933800	50	bedroom pop,indie pop,indie poptimism	0.322	0.647	0.0	0.0449	74.0	0.677	0.65
+7KA4W4McWYRpgf0fWsJZWB	Tyler, The Creator,Kali Uchis	See You Again (feat. Kali Uchis)	USQX91701275	85	hip hop,rap	0.371	0.558	7.49e-06	0.0959	78.558	0.62	0.559
+41cpvQ2GyGb2BRdIRSsTqK	Frank Ocean	Moon River	QM24S1802611	66	alternative r&b,hip hop,lgbtq+ hip hop,neo soul,pop	0.877	0.24	0.00092	0.0329	77.349	0.0937	0.116
+6Dvxpqv61hyRZJs4qDfiP3	Roy Blair	Dennis	GBKPL1810690	49	bedroom pop,indie pop	0.0291	0.827	7.28e-05	0.0481	100.037	0.553	0.676
+7zFXmv6vqI4qOt4yGf3jYZ	Daniel Caesar,Kali Uchis	Get You (feat. Kali Uchis)	TCACR1690004	80	canadian contemporary r&b,pop,r&b	0.422	0.658	5.2e-05	0.0321	74.038	0.358	0.294
+5Jp0avXwxgYt75sjxQJxWw	BROCKHAMPTON	SWIM	USUYG1144815	44	boy band,hip hop,rap	0.147	0.659	3.46e-06	0.0357	92.989	0.497	0.493
+0h5Cegugr5qFnFU8h5Q228	Jye	A Shitty Love Song	ushm91709478	43	bedroom pop	0.946	0.762	1.44e-06	0.0378	98.057	0.535	0.147
+2IAR0DziHCjSu16gR4ihvy	Bruno Major	Nothing	GBKPL1962806	81	pop	0.931	0.555	0.536	0.0884	139.691	0.274	0.27
+5wv2XK6ms7KBBVDD1cOwlx	Her's	Cool with You	GBYEJ1100273	63	indie pop,liverpool indie	0.0124	0.534	0.000736	0.0504	106.986	0.547	0.62
+2ZltjIqztEpZtafc8w0I9t	Childish Gambino	3005	USYAH1300213	79	atl hip hop,hip hop,rap	0.113	0.472	0.0	0.326	166.077	0.636	0.448
+33vVJAFGoI1mJfFVzdEdBl	rei brown	Street Fighter	QZ8LD1781083	48		0.927	0.322	0.8	0.0497	60.009	0.0913	0.339
+0ZK8TGOsngrstVPsnrHbK1	Peach Pit	Peach Pit	USSM11805165	63	indie pop,modern rock,vancouver indie	0.00322	0.515	0.00229	0.0398	123.969	0.298	0.804
+2KvbRojbZGMsWr1Nuj5n2f	Jakob,Clairo	You Might Be Sleeping	NOPGM1700501	67	alternative r&b,indie garage rock	0.731	0.587	0.341	0.0265	92.604	0.508	0.565
+6FBzhcfgGacfXF3AmtfEaX	Steve Lacy	C U Girl	TCACH1579144	76	afrofuturism,pop	0.663	0.414	0.0523	0.116	100.0	0.409	0.473
+6KKHXbJtnJPjla3V49YPac	Gus Dapperton	Prune, You Talk Funny	TCADM1839634	62	bedroom pop,indie pop,indie poptimism	0.0177	0.57	0.00247	0.0383	140.063	0.578	0.75
+5aqI3CBgaQZlu9mvo6wKDh	Zack Villere	Bloo	QM2PV1760719	42	bedroom pop	0.572	0.618	2.03e-05	0.109	80.036	0.535	0.543
+4PevTpnIWy2D1wIQZY3MmX	Zack Villere	Cool	QM2PV1760720	43	bedroom pop	0.295	0.729	0.0	0.223	93.983	0.895	0.678
+1o18SV1lvB4oO6fLquctDS	Childish Gambino,Jhené Aiko	I. Pink Toes	USYAH1300232	59	atl hip hop,hip hop,rap	0.0598	0.409	0.000223	0.091	79.579	0.347	0.619
+75NuCOwuIv1Ss7e7P3C1pt	grentperez	(Only) About Love - Demo	UKXN21997304	66	chill r&b	0.107	0.71	0.114	0.0343	130.043	0.593	0.513
+6A7DMR9WkH0fcoygs6TteU	spookyghostboy	So Low	TCACM1602434	39	lo-fi beats	0.0326	0.563	0.178	0.0257	143.741	0.367	0.507
+4OBZT9EnhYIV17t4pGw7ig	Daniel Caesar,H.E.R.	Best Part (feat. H.E.R.)	CADDS1700022	73	canadian contemporary r&b,pop,r&b	0.793	0.473	0.0	0.0405	75.205	0.413	0.371
+2qpacEyFxmbxCpIEqZkqvC	Sports	You Are the Right One	QMAAK1594503	65	neo-psychedelic,tulsa indie,vapor soul	0.162	0.659	0.846	0.0261	100.033	0.851	0.594
+6R5JpLDVRgRI6P2OQCjA4n	khai dreams	Drifting Away	QZ8LD1785558	61	indie pop,lo-fi rap	0.739	0.521	0.177	0.0407	119.879	0.272	0.268
+5EYi2rH4LYs6M21ZLOyQTx	Rex Orange County,Benny Sings	Loving Is Easy	GBKPL1789493	76	bedroom pop,pop	0.217	0.756	0.00474	0.0544	117.023	0.537	0.609
+3kf1MoF0iaqBUZVEh3RF6M	THE ORAL CIGARETTES	Deai Machi	JPJ221400597	33	anime,j-poprock,j-rock,japanese indie rock	0.000482	0.393	0.0	0.0896	192.097	0.547	0.937

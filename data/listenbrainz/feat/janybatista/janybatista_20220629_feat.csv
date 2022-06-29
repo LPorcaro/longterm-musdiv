@@ -1,0 +1,4 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+2d1MywHy6FwKdzxFuSJnwl	Imagine Dragons	Wrecked	USUM72110166	72	modern rock,rock	0.148	0.626	1.51e-05	0.0288	93.989	0.229	0.56
+3AzjcOeAmA57TIOr9zF1ZW	Dua Lipa	Physical	GBAHT1901298	76	dance pop,pop,uk pop	0.0137	0.647	0.000658	0.0457	146.967	0.746	0.844
+6hIr2IDeBDXfRFk0rYe5Tz	Muse	Won’t Stand Down	GBAHT2102036	68	modern rock,permanent wave,rock	0.0043	0.514	2.52e-06	0.0862	104.85	0.424	0.882

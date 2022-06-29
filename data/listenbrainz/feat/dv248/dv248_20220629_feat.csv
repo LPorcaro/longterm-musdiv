@@ -1,0 +1,5 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0GNgrdn3uuVzssBxJzdpcF	Mike11,Bárbara Bandeira	Ride (feat. Bárbara Bandeira)	PT1JT2100011	55	hip hop tuga	0.523	0.582	0.0	0.228	101.619	0.543	0.558
+74OjcDDHAlNuCQbAKC1KwL	Russ,WESTSIDE BOOGIE	SKY (feat. Boogie)	USSM12002537	45	hawaiian hip hop,rap	0.516	0.489	0.0	0.134	80.425	0.616	0.467
+0F8t8J0hAtZyBs9oWLnCGI	T-Rex	R&bsr&b$	ES71G1870108	45	trap tuga	0.658	0.565	6.79e-06	0.0684	97.962	0.248	0.399
+14QUJhbXCWO90NfZ0mXnGG	young friend	PINCH ME	QZ93L2106732	65		0.621	0.777	0.0	0.0501	113.003	0.757	0.465

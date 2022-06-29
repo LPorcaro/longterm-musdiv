@@ -1,0 +1,71 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+6BEKt5axiNeWCr9huv0k7I	Twenty One Pilots	Truce	USAT21203521	60	modern rock,rock	0.994	0.537	0.0471	0.0475	120.322	0.342	0.0231
+0WHi11uzahqpEtPGYCW6oQ	Alec Benjamin	If I Killed Someone For You	USAT21811723	73	alt z,dream smp,electropop,pop	0.774	0.514	2.91e-06	0.0337	120.894	0.409	0.605
+5DTOOkooKFUvWj1XQTFa09	Skeeter Davis	The End of the World	USRC19901069	63	brill building pop,nashville sound	0.936	0.232	4.93e-06	0.0314	94.268	0.432	0.216
+5v8aEcHcaJIGYpfVVPtJjI	The Neighbourhood	Wires	USSM11204648	71	modern alternative rock,modern rock,pop,shimmer pop	0.0004	0.568	0.102	0.0329	72.991	0.266	0.569
+4AmNNblpBxL05gbF7yt3eN	Nomy	The end of the world	SEYOK1861150	8	swedish alternative rock	0.644	0.505	0.0	0.0283	111.04	0.522	0.458
+6N6VqzeyHeQ4ztc4eTmvG7	American Pleasure Club,Teen Suicide	all the lonely nights in your life	QMCE71301592	58	lo-fi indie,small room	0.779	0.36	4.07e-06	0.0302	140.44	0.41	0.238
+1kDkaFlmkdEZiVUogaP9OZ	The Beatles	For No One - Remastered 2009	GBAYE0601502	62	beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock	0.783	0.483	0.0	0.0278	81.208	0.713	0.351
+2ndWbjiiNBEOrlfToKlABE	Death Cab for Cutie	I Will Follow You into the Dark	USAT20504677	64	alternative rock,indie pop,indie rock,modern rock,pop rock,washington indie	0.923	0.581	0.0	0.0447	77.748	0.475	0.163
+3Yvk0ZLxMlt6ioasvdN6vB	Cavetown	Lemon Boy	USCGH1805100	70	bedroom pop,indie pop	0.185	0.509	1.4e-06	0.0392	139.926	0.323	0.478
+0zHgtaaO1T7AQh4TA9AK1b	Bears In Trees	Ramblings of a Lunatic	SE6A91907245	55	indie pop	0.799	0.701	0.0	0.0447	111.922	0.673	0.376
+0haXiRi57j2xQo5a3WkzqV	Palaye Royale	Lonely	USYFZ2031305	68	modern alternative rock,modern rock,rock,vegas indie	0.0624	0.622	0.0	0.0561	147.965	0.483	0.619
+3BQHpFgAp4l80e1XslIjNI	The Beatles	Yesterday - Remastered 2009	GBAYE0601477	76	beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock	0.879	0.332	0.0	0.0326	96.529	0.315	0.179
+5TW7395TWkfJdUmSOZ5521	Cavetown	Paul	USWB12004532	49	bedroom pop,indie pop	0.928	0.587	0.0	0.0377	120.36	0.183	0.167
+4t2gJmhZZejXcx67SEtsuh	Cavetown	Just Add Water	USHM21842141	52	bedroom pop,indie pop	0.218	0.695	0.0	0.0482	128.988	0.428	0.388
+4QrP9gVlY2cXvdR5RG8nhV	Flower Face	April to Death	QMAAK1807705	49	ambient folk,indie pop	0.817	0.59	4.37e-05	0.0296	98.029	0.287	0.382
+0vf2eBw2inhl8y61cYQMv2	Cavetown	Devil Town	TCADM1818860	79	bedroom pop,indie pop	0.12	0.576	0.0	0.0599	99.969	0.501	0.759
+21xzFXSL2XkZ2mIzDDAqTK	Catie Turner	God Must Hate Me	USAT22107483	70	alt z,gen z singer-songwriter,indie pop,pop	0.967	0.459	1.95e-05	0.136	76.954	0.072	0.304
+0Mjm1d3HKx2SV8t98O9EQL	carolesdaughter	Violent - Acoustic	USQX92100470	44	alt z,indie pop	0.907	0.768	1.13e-05	0.0626	131.167	0.219	0.215
+7yfGRLpyVn2qiyU9FR86Ww	FINNEAS	I Lost a Friend	GBKPL1947486	66	alt z,electropop,la indie,pop	0.585	0.453	0.0	0.22	169.326	0.218	0.208
+5Sjht3NnTIaZu6FElUkT6z	Radical Face	Small Hands	CAN111500443	45	indie folk,jacksonville indie,stomp and holler	0.656	0.593	1.04e-05	0.0318	125.058	0.315	0.367
+08uQ0afWImiJrCDB2UoLJW	The Lumineers	Donna	USDMG1995101	51	folk-pop,stomp and holler	0.96	0.49	1.78e-05	0.035	134.121	0.282	0.247
+0GgN4MhR5GKn5IcKN0e0rG	My Chemical Romance	Cancer	USRE10602909	67	emo,pop punk	0.358	0.457	0.0	0.0261	74.984	0.222	0.515
+5lRzWDEe7UuedU2QPsFg0K	Band of Horses	The Funeral	USSUB0669004	71	indie pop,indie rock,modern rock,stomp and holler	0.016	0.319	0.0	0.0432	122.465	0.101	0.757
+2PfkfkaO9okAk0OxC4ggy5	Cavetown	Green	USCGH1805101	61	bedroom pop,indie pop	0.258	0.425	0.0	0.035	134.981	0.117	0.34
+3s5ogvexUgA6XjNj37zpnP	Alex Turner	Piledriver waltz	GBCEL1100046	60	modern rock,rock,sheffield indie	0.119	0.533	0.612	0.0285	105.921	0.343	0.748
+0vjnLqEwVxEyFhaS9MVVoe	Crywank	Song for a Guilty Sadist	QMKDP1500060	54	indie pop,lo-fi indie,small room,weirdcore	0.904	0.501	3.76e-06	0.1	152.286	0.411	0.36
+7iVXUFLX4u29VlOMSY57I2	Cavetown	Poison	USCGH1805108	52	bedroom pop,indie pop	0.73	0.665	0.000391	0.0344	140.148	0.381	0.228
+6AohzKCNCm2aVmqRFS6mIb	whenyoung	Sleeper	GBUM71807250	40	irish indie rock,limerick indie	0.726	0.526	9.58e-06	0.0255	82.105	0.142	0.244
+6ksu2TmyrYdV0ccvgLBc6X	Blackfield	Some Day - Remastered	GBCQV2000046	30	neo-progressive,progressive metal,progressive rock,symphonic rock	0.33	0.567	0.106	0.0298	124.98	0.158	0.316
+3AJwUDP919kvQ9QcozQPxg	Coldplay	Yellow	GBAYE0000267	88	permanent wave,pop	0.00239	0.429	0.000121	0.0281	173.372	0.285	0.661
+45ROR8UMn60YEVQnDy0uVF	Cavetown	Juliet	USHM91882113	79	bedroom pop,indie pop	0.00346	0.546	0.00114	0.0313	131.778	0.364	0.586
+7HrWPQ6ISUcLNxhmdGB7bu	Avery Grey	Smoking for the Aesthetic	QM2PV1843026	50		0.949	0.792	0.0	0.435	164.081	0.474	0.394
+1EQFOouqdKYdpbNoOHRVO2	GAYLE	abcdefu (angrier)	USAT22105185	75	modern alternative pop	0.0658	0.671	0.0	0.0405	121.849	0.448	0.599
+5xo8RrjJ9CVNrtRg2S3B1R	Phoebe Bridgers	Motion Sickness	USJ5G1714202	76	indie pop,la indie	0.774	0.651	0.0437	0.0357	107.021	0.623	0.546
+6T7MAQCekVb3UnCykjX3BP	My Chemical Romance	Disenchanted	USRE10602913	65	emo,pop punk	0.00218	0.343	0.0	0.0355	174.07	0.153	0.692
+5zssvA9QG6KxCLiVX8bdoa	Hi I'm Case	Smoke Damage	ushm21654663	36		0.268	0.635	4.23e-05	0.0352	122.997	0.756	0.722
+27wOKBP8KERkFP2sqqHloH	Pat The Bunny	I'm not a good person	UST8K1423826	52	acoustic punk,anti-folk,folk punk	0.77	0.636	9.36e-06	0.0284	132.779	0.584	0.54
+2zPcVDSpYNVKQ5c7jR7MXj	girl in red	summer depression	GBLFP1817508	72	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.632	0.691	0.479	0.0544	129.929	0.62	0.306
+2L8lVlsIAC5ajX8jgLlLUg	Anthony Amorim	MISC.	Ushm81913747	25	indie pop	0.829	0.538	0.0	0.0429	112.597	0.277	0.192
+1Q5ycb9p1BhVOsuXRszaRQ	Cavetown	Ur Gonna Wish U Believed Me	USWB12100963	49	bedroom pop,indie pop	0.626	0.568	0.0224	0.0258	134.996	0.224	0.453
+0I1eFRytp4XRhLCjT6tZm7	Roar	I Can't Handle Change	ushm81020595	81	indie pop,weirdcore	0.0447	0.247	0.000867	0.0358	185.711	0.39	0.438
+4BWJGWmzbjsnA94Weyi5j4	girl in red	4am	GBLFP1888313	68	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.672	0.416	0.38	0.0385	168.897	0.295	0.389
+16dn8Dkyjfg3hngV63s5IC	Stephanie Mabey	Heart-Shaped Hologram	USULT1600300	37		0.365	0.634	1.82e-06	0.0492	140.108	0.352	0.452
+76kfScPsB0yPnUvUMDkKA4	Nomy	Fields	SEYOK1212471	12	swedish alternative rock	0.00667	0.471	0.0	0.0708	156.116	0.546	0.956
+6C2SSnYic5y19MAK7FrWeM	HammerFall	Flight of the Warrior	DED830800368	14	gothenburg metal,melodic metal,metal,neo classical metal,power metal,swedish power metal	4.13e-05	0.492	1.52e-05	0.0817	142.047	0.497	0.993
+0cPvRrV9PBBHVfHoGBlFdO	Poor Mans Poison	Hell's Comin' with Me	TCAEN1964122	77	deathgrass	0.395	0.581	5.34e-06	0.0383	129.879	0.533	0.619
+0r6jN06i84ulsRkf9oSZo4	Architects	Dead Man Talking	USEP41331005	37	mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore	4.5e-05	0.185	0.000224	0.145	198.316	0.195	0.97
+4lHVD1oABG2oOsaOJtnsuM	Dream Evil	Kill, Burn, Be Evil	US4E40966811	13	melodic metal,metal,neo classical metal,power metal,swedish heavy metal,swedish power metal	3.37e-05	0.204	7.37e-05	0.0829	80.114	0.147	0.957
+2CnXV3wc9uYdmnm2F35fPX	Disturbed	Parasite	USRE10800426	38	alternative metal,nu metal,rap metal	7.07e-05	0.442	0.028	0.0436	164.031	0.762	0.973
+6ruHjucgYHCj5JP6RfpAko	Architects	Red Eyes	US4E41173107	29	mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore	0.00023	0.219	0.0	0.238	97.653	0.114	0.934
+7uFaWngkLxqOTKulD3CB3U	Unleash The Archers	Dreamcrusher	ATN261559308	29	gothic symphonic metal,melodic metal,slayer,vancouver metal	0.00488	0.239	1.01e-05	0.107	168.696	0.11	0.905
+4n51B7QjDBIEB0WoQfN4cb	Freedom Call	Come on Home	DEA451316710	26	german metal,german power metal,melodic metal,neo classical metal,power metal,symphonic metal	0.000807	0.285	1.72e-06	0.183	179.867	0.345	0.963
+0TkDUMD9M8IW4W4tMil3pr	coldrain	Pretty Little Liar	USHR21586009	24	j-rock,japanese post-hardcore,metalcore	0.000358	0.28	0.0	0.355	149.567	0.213	0.996
+5NORWMFC27ywGSZxi8uquP	The Lumineers	Ophelia	USDMG1673802	78	folk-pop,stomp and holler	0.613	0.664	0.000363	0.0277	76.023	0.566	0.573
+3bVwfHr4vuJv6DGZal2Dpq	Korn	Insane	NLA321600118	50	alternative metal,funk metal,nu metal,rap metal,rock	1.05e-05	0.503	0.113	0.0517	93.989	0.334	0.905
+7D0RhFcb3CrfPuTJ0obrod	Coldplay	Sparks	GBAYE0000569	84	permanent wave,pop	0.748	0.371	0.0517	0.0281	102.617	0.165	0.268
+0PT6e1wEU6HUZbTM7sYG6P	Five Finger Death Punch	Stranger than Fiction	US4VQ0660254	34	alternative metal,groove metal,nu metal	0.000239	0.555	1.56e-05	0.0602	111.979	0.205	0.881
+7ausP2XEvLZwycxAoiu2BB	NOAHFINNCE	WEIRDOS	USHR22014106	41	indie pop	0.00146	0.52	0.000221	0.0531	117.0	0.388	0.921
+3XyCWNHfS5W8WZKhwWrJVp	Killswitch Engage	Inhale	NLA320420749	33	alternative metal,boston metal,melodic metalcore,metalcore,nu metal	0.868	0.416	0.571	0.0347	154.812	0.118	0.166
+1sHJXrHy6zDP6V2gwJVZyk	NOAHFINNCE	TELL ME THAT YOU’RE OKAY	USHR22214105	43	indie pop	0.00358	0.472	0.0	0.065	150.046	0.513	0.799
+6SuaNvXzk4kADnudvmd5EN	NOAHFINNCE,Hot Mulligan,Extra Large Holiday Card	AFTER THERAPY (feat. Hot Mulligan)	USHR22214106	44	indie pop	0.00118	0.438	0.0	0.0672	184.029	0.582	0.851
+3vYP5IgBfHv9nWbNhTq3IS	Avenged Sevenfold	Coming Home	USWB11302496	57	alternative metal,nu metal	0.000128	0.378	0.0018	0.055	178.008	0.457	0.975
+2dAHKe37uyUrB0v0PJrDDj	girl in red	Body And Mind	GBKPL2136767	64	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.0718	0.575	0.0	0.0635	150.894	0.551	0.572
+30RKGpKHqr7ytcTljw436k	Metallica	King Nothing	GBAMC9600010	59	hard rock,metal,old school thrash,rock,thrash metal	8.39e-05	0.527	0.00755	0.0377	112.089	0.364	0.907
+3fjmSxt0PskST13CSdBUFx	Linkin Park	Somewhere I Belong	USWB10300376	72	alternative metal,nu metal,post-grunge,rap metal	0.00038	0.451	2.39e-06	0.0645	162.065	0.442	0.951
+4y4kqfSO4Qjd5h2RyyqBpz	Volbeat	Thanks	DKNE11000115	48	alternative metal,danish metal,danish rock,nu metal	0.00144	0.51	7.04e-05	0.0389	99.441	0.461	0.892
+6JfjspBtWnDtvF700GeHVu	Bullet For My Valentine	Livin' Life (On the Edge of a Knife)	USRC11201554	35	alternative metal,melodic metalcore,metalcore,nu metal,rap rock,uk metalcore,welsh metal	2.81e-05	0.455	0.00284	0.0797	140.259	0.305	0.924
+0gLceI8tCpPmyR0m0tEVYE	Volbeat	Making Believe - Bonus Track	NLB930800323	44	alternative metal,danish metal,danish rock,nu metal	0.00434	0.237	0.0	0.0653	92.512	0.524	0.945
+28FJMlLUu9NHuwlZWFKDn7	Muse	Unnatural Selection	GBAHT0900325	55	modern rock,permanent wave,rock	0.000337	0.327	0.246	0.0623	161.088	0.107	0.918
+7vRia9rlEuTDQxkfXIKySi	Rex Orange County	It's Not The Same Anymore	USRC11902536	72	bedroom pop,pop	0.873	0.666	3.74e-05	0.0327	117.676	0.359	0.317

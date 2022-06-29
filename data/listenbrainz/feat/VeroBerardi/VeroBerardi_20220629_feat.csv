@@ -1,0 +1,57 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0CCxUHakfHk0enJcqI2nZP	Robert de Visée,Amandine Beyer,Pascal Monteilhet	Suite for Theorbo & Violin in G Major: II. Allemande	FR1P70501470	0	baroque,french baroque	0.896	0.383	0.0608	0.0505	110.821	0.442	0.148
+2IOoTrrIiEw4lz0El4wzYf	Robert de Visée,Amandine Beyer,Pascal Monteilhet	Suite for Theorbo & Violin in G Major: I. Prélude	FR1P70532507	1	baroque,french baroque	0.845	0.348	0.0259	0.0366	63.455	0.114	0.0835
+1VHwRvc2JCArEmYxeBBO2Y	Jean-Féry Rebel,Amandine Beyer,Assemblée des honnestes curieux	Sonate No. 6 en Si Mineur: IV. Viste	FR1P70501270	0	baroque,french baroque	0.884	0.371	0.000327	0.056	68.192	0.361	0.282
+3gwHQrl358Lp5EYNRQRgW4	Jean-Féry Rebel,Amandine Beyer,Assemblée des honnestes curieux	Sonate No. 6 en Si Mineur: III. Gracieusement	FR1P70501260	0	baroque,french baroque	0.927	0.254	0.0277	0.0354	76.212	0.127	0.0692
+4Hade9VIDJiBbAGdHFlGSa	Jean-Féry Rebel,Amandine Beyer,Assemblée des honnestes curieux	Sonate No. 6 en Si Mineur: II. Légèrement	FR1P70501250	0	baroque,french baroque	0.915	0.456	0.0125	0.0376	90.89	0.585	0.259
+3WC2yjrrd42mglW8CxFAGL	Arcangelo Corelli,Ottavio Dantone,Stefano Montanari	Sonata Da Chiesa No. 5 in G minor, Op.5: V. Giga: Allegro	GBCRW0572525	7	baroque,classical,classical performance,early music,italian baroque	0.873	0.317	0.000182	0.0495	145.036	0.662	0.223
+79HchHdz2D8JiFPaU1IBOr	Arcangelo Corelli,Ottavio Dantone,Stefano Montanari	Sonata Da Chiesa No. 5 in G minor, Op.5: IV. Vivace	GBCRW0572524	8	baroque,classical,classical performance,early music,italian baroque	0.852	0.337	0.0268	0.0493	160.201	0.527	0.315
+4hx3H4llPToNk7XFpZBfBZ	Arcangelo Corelli,Enrico Gatti,Gaetano Nasillo,Guido Morini	Sonata No. 5 in G Minor, Op. 5: IV. Vivace (2)	FRW180300065	0	baroque,classical,classical performance,early music,italian baroque	0.838	0.507	0.000885	0.06	94.05	0.645	0.264
+6ivzLSDw82LpxXfToyb0He	Dropkick Murphys	The Warrior's Code	USHEL0504102	54	boston punk,boston rock,celtic punk,celtic rock,punk,skate punk	0.000382	0.342	7.25e-06	0.146	90.957	0.557	0.981
+7b7mtUwxYqTCPsxBvfzbd2	Dropkick Murphys	The State of Massachusetts	USK250700003	57	boston punk,boston rock,celtic punk,celtic rock,punk,skate punk	0.000944	0.321	8.12e-06	0.0719	148.719	0.587	0.97
+3j5QcKYJ836ZBbcj1OoEod	Dropkick Murphys	Rose Tattoo	USK251300003	64	boston punk,boston rock,celtic punk,celtic rock,punk,skate punk	0.0219	0.522	0.0	0.0351	108.05	0.628	0.912
+7rSERmjAT38lC5QhJ8hnQc	Dropkick Murphys	I'm Shipping Up To Boston	USHEL0504111	71	boston punk,boston rock,celtic punk,celtic rock,punk,skate punk	0.000706	0.452	0.000637	0.079	129.188	0.6	0.928
+4lstxdn27jZqnTuyaLeJfq	Rhove	Cancelo	ITDJ72200008	75	italian hip hop,trap italiana	0.379	0.829	3.01e-06	0.257	142.952	0.57	0.808
+4EC028SvtlC25iHQSG2OIa	Rhove	Shakerando	ITDJ72100030	81	italian hip hop,trap italiana	0.764	0.855	0.00708	0.191	135.009	0.469	0.805
+5BzsY9SIZapFmhjQgb1W3F	Anfisa Letyago	Haze - Original Mix	BEN582200362	39		0.0407	0.645	0.954	0.0373	128.005	0.183	0.676
+53y8w20LNnGcch3LWhNGSq	Burak Yeter,AtcG	Too Good	ITL012200043	39	electro house	0.000814	0.783	0.00213	0.0343	109.994	0.584	0.883
+3Bc5XUS5sTHtAde1ZA2FzC	Alexander 23	Somebody's Nobody	USUM72204394	54	alt z,pop,uk pop	0.417	0.581	0.0	0.0511	127.291	0.628	0.545
+7G4aD9GSe262y5lisfaIGy	Tove Lo	True Romance	QMUY42200055	63	dance pop,electropop,metropopolis,pop,swedish electropop,swedish pop,swedish synthpop,uk pop	0.5	0.477	1.1e-05	0.0302	104.937	0.0853	0.319
+14ZRyQGoyNIG5NmHFhlqGs	KAYMA	Learn to Say No	IL4040102004	47		0.0194	0.653	1.99e-05	0.0379	113.973	0.253	0.655
+0jNiQhRIRxu6IGapnsQkY4	PLASTICA,Laila Al Habash	FAME (feat. Laila Al Habash)	ITFR82200056	30		0.00062	0.765	0.0905	0.131	136.006	0.428	0.664
+6zBqlhWjEhNyH4Z8eUDzMT	Leah Kate	Twinkle Twinkle Little Bitch	QZJ842001793	57	alt z,pop,uk pop	0.0151	0.571	0.0	0.125	160.035	0.6	0.854
+64pUytZWfCpeeMBN0XAadF	Chris Brown,Jack Harlow	Psychic	USRC12201883	70	dance pop,pop,pop rap,r&b,rap	0.0395	0.739	0.0	0.0637	96.501	0.452	0.58
+17XY1uAyl0lrFqiMp1aQXO	Machine Gun Kelly	9 lives	USUM72211763	69	ohio hip hop	0.0219	0.561	0.0	0.132	151.092	0.5	0.939
+5k5duWxo5HqhetBe6ucgZJ	Aya Nakamura	Méchante	FRZ042200733	70	basshall,francoton,pop urbaine	0.194	0.8	0.0	0.0844	92.02	0.816	0.738
+0d16j8Dro7bPysTqCC41gx	Shablo,Geolier,Coez	Cuore	ITUM72200948	57	italian hip hop	0.1	0.393	0.0	0.531	170.363	0.453	0.82
+0Ik0fUU2jJn694nLZY4Wye	Marco Uccellini,Ero Maria Barbero	Sonate, correnti et arie, Op. 4: No. 13, Corrente decima quinta a violino solo	ITE011900302	0	baroque,italian baroque	0.76	0.473	0.0152	0.0298	95.997	0.745	0.254
+28bqLr6vUtNCiRyCKSH55O	Marco Uccellini,Ero Maria Barbero	Sonate, correnti et arie, Op. 4: No. 12, Aria nona a violino solo	ITE011900301	0	baroque,italian baroque	0.762	0.406	0.0417	0.047	91.212	0.477	0.198
+7dCu9zlbk3jvgoeF2BcMJp	Marco Uccellini,Marino Lagomarsino,Ernest Braucher,Marco Vitali,Massimo Lonardi	Sonate, correnti et arie, Op. 4: No. 11, Sonata vigesima quinta a 3 dai violini e basso	ITE011900300	0	baroque,italian baroque	0.952	0.239	0.387	0.0357	129.156	0.243	0.149
+1msnUNjha1c6AXXWhFM7eB	Marco Uccellini,Marino Lagomarsino,Marco Vitali,Ero Maria Barbero,Massimo Lonardi	Sonate, correnti et arie, Op. 4: No. 10, Corrente sesta a violino solo	ITE011900299	0	baroque,italian baroque	0.882	0.489	0.00313	0.037	104.592	0.754	0.252
+36iSiVsmeNazPguNYdr0G3	Marco Uccellini,Marino Lagomarsino,Marco Vitali,Ero Maria Barbero,Massimo Lonardi	Sonate, correnti et arie, Op. 4: No. 9, Aria decima a violino solo	ITE011900298	0	baroque,italian baroque	0.732	0.117	0.0691	0.0399	82.997	0.24	0.117
+1CgQZvba0TpsMUP2Yy9Mju	Marco Uccellini,Marino Lagomarsino,Ero Maria Barbero	"Sonate, correnti et arie, Op. 4 ""La hortensia virtuosa"": No. 8, Sonata quarta a violino solo"	ITE011900297	0	baroque,italian baroque	0.878	0.154	3.22e-05	0.0426	181.834	0.253	0.186
+0wyZEjkwYW3MV9V52DmStA	Marco Uccellini,Massimo Lonardi	Sonate, correnti et arie, Op. 4: No. 7, Corrente undecima a violino solo	ITE011900296	0	baroque,italian baroque	0.995	0.462	0.897	0.0426	90.518	0.605	0.0407
+3OyWwhb3lcXjJJ9RIq1VFA	Marco Uccellini,Massimo Lonardi	Sonate, correnti et arie, Op. 4: No. 6, Aria ottava a violino solo	ITE011900295	0	baroque,italian baroque	0.995	0.405	0.905	0.0464	92.98	0.308	0.034
+3VCJJyQQZZXcfhucSIY61F	Marco Uccellini,Marino Lagomarsino,Marco Vitali,Ero Maria Barbero,Massimo Lonardi	"Sonate, correnti et arie, Op. 4 ""La prosperina"": No. 5, Sonata settima a violino e basso"	ITE011900294	0	baroque,italian baroque	0.832	0.244	0.0778	0.0373	125.655	0.211	0.173
+3GbQcjKWT7eVpUfzqwUjxv	Lil Nas X,YoungBoy Never Broke Again	Late To Da Party (feat. Youngboy Never Broke Again)	USSM12206206	77	lgbtq+ hip hop,pop	0.0254	0.872	0.0	0.363	149.956	0.778	0.422
+013PVeWEFQio3XHFH9rIC6	Dimitri Vegas,David Guetta,Nicole Scherzinger,Azteck	The Drop	BEIW12200306	65	belgian edm	0.0113	0.869	0.269	0.0663	122.018	0.717	0.838
+2t0Bn0De4p0F9XCDv5ftVJ	Shiva	Sei qui	ITDJ72200026	63	italian hip hop,trap italiana	0.529	0.629	0.0	0.646	160.839	0.373	0.724
+5DdKE18uAkbfdXbr1y5ijZ	Selvans	Verrà Corvo Morto	USDHM2116382	2	folk black metal,italian black metal	0.0011	0.156	0.0102	0.138	132.023	0.037	0.781
+1DQXiBc8DqPfcdLVZkouhI	Stefano Lentini,Matteo Paolillo - Icaro,Lolloflow,Raiz	‘O Mar For	ITE322025246	56	italian soundtrack	0.0384	0.316	0.000116	0.0454	129.418	0.488	0.524
+6lQsOSs2QlHJSrW0vsNlbK	Stefano Lentini,Raiz	Ddoje mane	ITE322025258	43	italian soundtrack	0.673	0.564	0.000133	0.0516	114.036	0.392	0.743
+2uZDFyLNrzhlzhOEVqU9ea	Avishai Cohen,Sam Barsh,Mark Guiliana	Ani Maamin	US2W60646304	29	contemporary jazz,ecm-style jazz,israeli jazz,jazz,jazz double bass,jazz fusion,jazz trumpet	0.92	0.264	0.948	0.0329	93.599	0.339	0.407
+6Dy1jexKYriXAVG6evyUTJ	Joel Corry,Jax Jones,Charli XCX,Saweetie	OUT OUT (feat. Charli XCX & Saweetie)	UK4ZF2100518	83	dance pop,edm,pop,pop dance,tropical house,uk dance	0.018	0.787	0.00747	0.0478	123.97	0.796	0.833
+10A0QRPnDy605pBZ5Lw3pL	Sondr,VIZE,Lilly Ahlberg	Kids	USUS12000094	41	deep tropical house,pop edm	0.00198	0.583	0.000107	0.0569	128.038	0.34	0.922
+4Tvw0lweq9l2JPQKFbpbBQ	David Guetta,Brooks,Loote	Better When You're Gone	GB28K1900001	63	big room,dance pop,edm,pop,pop dance,pop rap	0.0635	0.647	0.0	0.0372	127.992	0.409	0.795
+6JvE7DJA81kx1ynD46ChWu	Ava Max,Kastra	My Head & My Heart - Kastra Remix	USAT22100199	44	dance pop,pop	0.0312	0.693	3.4e-05	0.0514	125.013	0.334	0.88
+30A0nDJ929Rmjr7LWSI6Au	Jason Derulo,Nuka,Billen Ted	Love Not War (The Tampa Beat) (Billen Ted Remix)	GBARL2100031	36	dance pop,pop,pop rap,post-teen pop	0.0588	0.829	0.0	0.153	122.03	0.725	0.874
+4x5ymi4akay9Fq5Xm1PW3E	Rasster,Erin Bloomer,Imanbek	SAD - Imanbek xxx Remix	GBUM72002044	62		0.491	0.746	0.00124	0.054	124.992	0.499	0.757
+73ThEGwF5i9GrsXXGyZBRa	Imanbek,Martin Jensen	I'm Just Feelin' (Du Du Du)	DEE862000664	65	dance pop,edm,electro house,pop dance,slap house,tropical house	0.179	0.736	4.29e-06	0.0668	115.989	0.548	0.657
+7CHi4DtfK4heMlQaudCuHK	MEDUZA,Becky Hill,Goodboys	Lose Control	DEUM71905792	78	edm,pop,pop dance,pop house,tropical house	0.129	0.598	0.0	0.0415	123.935	0.529	0.526
+6TRPV9CavLh0PSEJt6ou5P	Power Music Workout	New Rules - Tabata Remix 128 BPM	USCBK1810823	33	workout product	0.000135	0.577	0.000169	0.0664	128.006	0.351	0.972
+4b1Tu6E43TwYbkD3CWXGXX	Avishai Cohen,Sam Barsh,Mark Guiliana,Amos Hoffman	Emotional Storm	US2W60646306	28	contemporary jazz,ecm-style jazz,israeli jazz,jazz,jazz double bass,jazz fusion,jazz trumpet	0.779	0.32	0.899	0.0286	154.897	0.294	0.476
+1WCEAGGRD066z2Q89ObXTq	David Guetta,Becky Hill,Ella Henderson	Crazy What Love Can Do	UKWLG2200001	87	big room,dance pop,edm,pop,pop dance,pop rap	0.0282	0.601	0.0	0.0449	122.872	0.464	0.713
+0TyUOnU4H4GLqOcrH0auc8	Imagine Dragons	Sharks	USUM72205464	76	modern rock,rock	0.00791	0.927	3.62e-05	0.0657	123.969	0.901	0.642
+0s2zR7W4fJP3FwFvLQnPHT	Selvans	Introduzione (Cover)	USDHM2116381	1	folk black metal,italian black metal	0.0142	0.216	0.00854	0.0411	111.759	0.0912	0.224
+6vxDByaiH63XmGpiiaSM0L	Rhapsody	The Wizard's Last Rhymes	DET270103607	34	italian power metal,melodic metal,neo classical metal,power metal,symphonic metal	0.00597	0.295	2.14e-06	0.0857	149.872	0.336	0.895
+63WuQOXohQIxOxIFA2K7bR	Måneskin	SUPERMODEL	ITB002200385	87	indie rock italiano,italian pop	0.00164	0.636	0.0	0.0555	120.983	0.799	0.876
