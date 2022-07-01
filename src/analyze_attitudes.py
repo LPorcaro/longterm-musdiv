@@ -740,8 +740,8 @@ if __name__ == "__main__":
     df_join_att = import_data("scores")
     df_join_att.d_score = - df_join_att.d_score
     df_join_cntx = import_data("cntx")
-    # df_join_ls = import_ls_data()
-    # df_join_ls = scale_ls_data(df_join_ls)
+    df_join_ls = import_ls_data()
+    df_join_ls = scale_ls_data(df_join_ls)
 
 
     # plot_scores(df_join_att)

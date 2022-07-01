@@ -46,11 +46,15 @@ if __name__ == "__main__":
         if "HD" in outfile:
             if df['PROLIFIC_PID'].isnull().values.any():
                 print(set(HD).difference(set(df['PROLIFIC_PID'].tolist())))
+            df_out = df_out[df_out.PROLIFIC_PID.isin(HD)]
+            df_out = df_out.drop_duplicates()
             outfile = os.path.join(LS_OUT, 'HD', outfile)
             df_out.to_csv(outfile, index=False)
         elif "LD" in outfile:
             if df['PROLIFIC_PID'].isnull().values.any():
                 print(set(LD).difference(set(df['PROLIFIC_PID'].tolist())))
+            df_out = df_out[df_out.PROLIFIC_PID.isin(LD)]
+            df_out = df_out.drop_duplicates()
             outfile = os.path.join(LS_OUT, 'LD', outfile)
             df_out.to_csv(outfile, index=False)
 
