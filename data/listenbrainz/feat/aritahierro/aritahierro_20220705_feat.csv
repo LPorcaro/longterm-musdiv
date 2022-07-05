@@ -1,0 +1,27 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0sFBn8hV3aGih5RROpPGCe	Russian Circles	Conduit	USA2P2135824	48	american post-rock,instrumental rock,post-metal,post-rock	2.54e-05	0.395	0.894	0.0591	84.066	0.227	0.945
+7bk1SQnfBBua4afuJCfqEb	Black Tongue	Second Death	QMPKX1888325	41	blackened deathcore,deathcore,downtempo deathcore,progressive deathcore	0.00115	0.572	0.733	0.123	107.008	0.151	0.987
+5U4zsEy3Q8GQRuAsV7IFbN	Black Tongue	Fauxhammer	US4E41417002	42	blackened deathcore,deathcore,downtempo deathcore,progressive deathcore	1.01e-05	0.404	0.556	0.184	94.291	0.16	0.989
+3lyHyxVE8JHvNz75wBmExR	Metallica	Master Of Puppets - Remastered	QMKHM1600219	45	hard rock,metal,old school thrash,rock,thrash metal	0.000647	0.543	0.431	0.0353	105.173	0.56	0.836
+28WmNsclKsrVmdv3tDmoYU	Metallica	Seek & Destroy - Remastered	QMKHM1600034	68	hard rock,metal,old school thrash,rock,thrash metal	0.037	0.445	0.0132	0.282	140.817	0.448	0.964
+4CLRLdxUDPNeO1xCW0U2zC	Metallica	Creeping Death - Remastered	QMKHM1600100	56	hard rock,metal,old school thrash,rock,thrash metal	0.000249	0.29	0.257	0.169	100.919	0.166	0.977
+2dXsILW8gzkosqleHAvl0v	Metallica	For Whom The Bell Tolls - Remastered	QMKHM1600096	72	hard rock,metal,old school thrash,rock,thrash metal	0.00563	0.518	0.00349	0.0672	117.897	0.249	0.858
+1VzvTNbSHxh60k8afoGlWp	Medieval Steel	Medieval Steel	ushm92126750	32	nwothm	0.000386	0.382	0.00149	0.0442	112.479	0.334	0.772
+2acLlOPTr2yLmPmJFR9pRD	Metallica	Seek & Destroy - Remastered	QMKHM1600034	43	hard rock,metal,old school thrash,rock,thrash metal	0.037	0.445	0.0132	0.282	140.817	0.448	0.964
+35TlUIkXgrfySHzWjNBegA	David Bruno,Mike El Nite	Inatel	PTRO12100122	16	portuguese indie,rap portuense	0.0629	0.758	1.93e-05	0.0436	97.307	0.854	0.596
+0X7CAqYHYq77uu4NmcfohO	1782	Hey Satan	ITM462000152	15	heavy psych,italian doom metal,psychedelic doom	0.153	0.402	0.9	0.036	120.132	0.364	0.556
+7i9qRZNQRtlm8eaxaHKLAO	Brutus	War	GBJSG1830006	43	belgian indie rock,belgian metal,gaian doom	0.00308	0.198	0.409	0.0445	152.612	0.175	0.716
+1yibGVA3FlGySYObOkMdzc	Baroness	Take My Bones Away	US2641219002	46	alternative metal,post-doom metal,progressive sludge,sludge metal	0.000185	0.256	0.121	0.0788	149.874	0.155	0.935
+3PWkEk3uOpTzdDmw5SGsuj	Conjurer	Blood and Thunder	GBMLT1501413	13	british death metal,post-doom metal,post-metal,uk doom metal,uk post-metal	6.77e-06	0.471	0.0418	0.0617	92.511	0.55	0.892
+0cyOCfjPMWZKCmXjXZLFAu	Conjurer	Retch	GBMLT1501028	27	british death metal,post-doom metal,post-metal,uk doom metal,uk post-metal	7.05e-06	0.265	0.695	0.116	99.283	0.176	0.952
+6HEJ9xtuuk5BL6av2Gs1Hx	Gaerea	Salve	FR33T2266902	34	portuguese metal,post-black metal	2.88e-06	0.163	0.369	0.0926	199.527	0.33	0.932
+5KQY3KDpQ3tO29W7iJNfFq	Judas Priest	Rock Hard Ride Free	GBBBN8402035	44	album rock,birmingham metal,hard rock,metal,power metal,rock	0.00253	0.348	0.048	0.0457	136.681	0.368	0.829
+1pTw2cNrp9L3esxLAvWnN2	Journey	Separate Ways (Worlds Apart)	USSM18300106	63	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.0189	0.467	4.51e-06	0.0576	131.536	0.453	0.943
+0ofHAoxe9vBkTCp2UQIavz	Fleetwood Mac	Dreams - 2004 Remaster	USWB11301111	84	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.0644	0.828	0.00428	0.0276	120.151	0.789	0.492
+0Z9UkcT1pnrmLciUJPcMMS	Spandau Ballet	Gold - 2003 Remaster	GBAYK0200004	64	europop,mellow gold,new romantic,new wave,new wave pop,soft rock,sophisti-pop,synthpop	0.25	0.724	0.0016	0.0337	143.116	0.729	0.802
+1CqwcDOfpPbnF1tDmwfbct	Jupiter	Fio da Navalha	QZHZ62294366	2		0.298	0.789	0.0	0.0517	124.001	0.755	0.771
+3tSK1dNo4XR7Q8ZrJ2jHLR	Jupiter	Grande Biscate	QZHZ62294365	2		0.581	0.64	0.0	0.139	84.981	0.544	0.549
+2PEWkniB8Kcj8DFN9ZBHVd	Jupiter	Fora D'horas	QZHZ62294364	3		0.124	0.776	1.94e-06	0.0282	112.971	0.839	0.782
+1DBo0iF3AShaxK3LCHMUGi	Jupiter,André NO	Mais Que Fazer	QZHZ62294363	2		0.214	0.798	1.32e-05	0.0362	119.94	0.883	0.8
+3od7BHgIcs8lH6uzYNG2ip	Jupiter	Andor Violeta	QZHZ62294362	3		0.298	0.71	1.94e-06	0.0474	135.894	0.961	0.813
+7rdLhTuFLpGa6qaVa4Efb3	Elder	Embers	DEM252001041	22	boston metal,modern hard rock,post-doom metal,progressive doom,psychedelic doom,retro metal,sludge metal,space rock,stoner metal,stoner rock	5.11e-05	0.377	0.0646	0.0451	159.988	0.473	0.909

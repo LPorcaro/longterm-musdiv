@@ -1,0 +1,71 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0F6Ad8l9EDbcjrsZ4TIqkc	Jovanotti	Penso Positivo	IT7009302410	49	italian adult pop,italian pop	0.0375	0.791	0.0	0.0695	134.097	0.783	0.919
+3PpgbB4N9rMu4c2FKYyANb	LIBERATO	NUN CE PENZÀ	FR0ML2200100	62	italian hip hop,italian indie pop,r&b italiano,rap napoletano	0.0777	0.663	0.0	0.085	114.99	0.646	0.707
+10am1LvdZrQpZR0wmUz8ds	Allocai	Bad For Me	QZPLR2014430	56		0.00217	0.499	5.03e-05	0.0431	154.945	0.388	0.82
+6YCW1g7XwaDZX7sUSM8LWq	Fantastic Negrito	When Everything Went Wrong (from the series Arcane League of Legends)	QZH6S1900377	55	bay area indie,funk,modern blues,modern blues rock	0.28	0.686	0.000179	0.0881	113.017	0.466	0.906
+3ZFTkvIE7kyPt6Nu3PEa7V	Shakira,Wyclef Jean	Hips Don't Lie (feat. Wyclef Jean)	USSM10600677	85	colombian pop,dance pop,latin,latin pop,pop	0.284	0.778	0.0	0.0707	100.024	0.758	0.824
+5UlnuulVAVmmesw4VzqHdG	Imagine Dragons,Arcane,League of Legends	Enemy - From the series Arcane League of Legends	USUM72120989	81	modern rock,rock	0.247	0.722	0.0	0.256	77.029	0.52	0.745
+7AEvaz0EOmlqN27o6zpt3k	PVRIS,MIYAVI	Snakes (from the series Arcane League of Legends)	QZH6S1900391	65	modern alternative rock,modern rock,pixie,pop,pop emo,pop punk,rock	0.000397	0.421	0.00125	0.238	157.877	0.366	0.842
+7M13FwBAKWNa2jqcZeUhL6	Bob Sinclar,Gary Pine	Love Generation - Radio Edit	FR4E41811680	69	dance pop,disco house,edm,electro house,filter house,tropical house,vocal house	0.192	0.723	0.000154	0.0586	128.038	0.544	0.872
+2jdAk8ATWIL3dwT47XpRfu	John Mayer	Slow Dancing in a Burning Room	USSM10603632	74	neo mellow,singer-songwriter	0.575	0.667	0.00506	0.0273	134.018	0.29	0.361
+1zQEwVuYnVRcpMdlKlnLs8	Snotkop	Parapapa	ZAC580901561	38	afrikaans,south african pop	0.106	0.606	0.0	0.188	127.838	0.831	0.88
+1QV6tiMFM6fSOKOGLMHYYg	Lady Gaga	Poker Face	USUM70824409	79	art pop,dance pop,pop	0.118	0.851	1.64e-06	0.0787	118.999	0.787	0.806
+4lLtanYk6tkMvooU0tWzG8	Bruno Mars	Grenade	USAT21001883	78	dance pop,pop	0.148	0.704	0.0	0.0542	110.444	0.245	0.558
+2ygMBIctKIAfbEBcT9065L	Black Eyed Peas	Pump It	USIR10500407	76	dance pop,pop,pop rap	0.00937	0.648	0.0	0.181	153.649	0.744	0.931
+6bz6uA8IhrNNvfCI4a5k3C	Luca Dirisio	Calma e sangue freddo	ITB000400061	47	italian adult pop	0.137	0.66	0.0	0.0317	90.977	0.886	0.775
+3XYtdtqq3xnD59lZzYcNqM	Stromae	Alors on danse - Radio Edit	FRUM70902424	22	belgian pop,g-house	0.0928	0.792	0.00155	0.077	119.95	0.731	0.588
+6I9VzXrHxO9rA9A5euc8Ak	Britney Spears	Toxic	USJI10301005	82	dance pop,pop,post-teen pop	0.0249	0.774	0.025	0.114	143.04	0.924	0.838
+6gDXbcILAyBa2skSdbUYq7	Christina Aguilera	Hurt	USRC10600420	65	dance pop,pop,post-teen pop	0.775	0.327	0.0	0.0313	148.574	0.143	0.295
+60a0Rd6pjrkxjPbaKzXjfq	Linkin Park	In the End	USWB10002407	84	alternative metal,nu metal,post-grunge,rap metal	0.00958	0.556	0.0	0.0584	105.143	0.4	0.864
+561jH07mF1jHuk7KlaeF0s	Eminem	Mockingbird	USIR10400813	78	detroit hip hop,hip hop,rap	0.209	0.637	0.0	0.266	84.039	0.254	0.678
+0nptztrnlLzRGjpnciHu8p	Miley Cyrus	Hoedown Throwdown	USWD10935873	43	dance pop,pop,post-teen pop	0.208	0.74	0.0	0.0617	109.021	0.785	0.801
+54JKnDB3CzVu8wNAOM27BI	Avril Lavigne	When You're Gone	USRC10700004	70	canadian pop,candy pop,dance pop,pop,post-teen pop	0.191	0.457	0.0	0.0323	142.034	0.168	0.719
+0C4ejWmOTMv8vuYj85mf8m	Rihanna	S&M	USUM71026591	74	barbadian pop,dance pop,pop,urban contemporary	0.0113	0.767	0.00016	0.042	127.975	0.833	0.682
+45hOioMDJktr86iKDHC8gr	Avril Lavigne	Girlfriend	USRC10700021	76	canadian pop,candy pop,dance pop,pop,post-teen pop	0.000722	0.56	0.000221	0.102	163.983	0.669	0.959
+0uIGzK6ukV0A5yWoCxPkRL	Rihanna	California King Bed	USUM71026619	63	barbadian pop,dance pop,pop,urban contemporary	0.218	0.467	0.0	0.0357	169.93	0.318	0.586
+32Ky5QCRtwYJJXuLwoGufj	Tokio Hotel	Monsoon	DEUM70606640	56	german pop rock	0.0204	0.58	0.0	0.0293	111.982	0.164	0.731
+0COqiPhxzoWICwFCS4eZcp	Evanescence	Bring Me To Life	USWU30200093	81	alternative metal	0.00721	0.331	2.06e-06	0.0698	94.612	0.296	0.943
+5fVZC9GiM4e8vu99W0Xf6J	The Fray	How to Save a Life	USSM10601178	80	neo mellow,piano rock,pop,pop rock	0.269	0.64	0.0	0.0379	122.035	0.361	0.743
+4QNpBfC0zvjKqPJcyqBy9W	Pitbull,Ne-Yo,Afrojack,Nayer	Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)	USJAY1100032	83	dance pop,latin,miami hip hop,pop,pop rap	0.191	0.671	0.0	0.161	129.024	0.53	0.939
+72a9JWKqJ8SGo0OdyCS12P	Depeche Mode	Personal Jesus	GBAJH0602195	55	dance rock,new romantic,new wave,permanent wave,synthpop	0.104	0.687	0.00866	0.0351	129.981	0.766	0.852
+0SiywuOBRcynK0uKGWdCnn	Lady Gaga	Bad Romance	USUM70918596	82	art pop,dance pop,pop	0.00314	0.696	5.24e-05	0.0363	119.001	0.714	0.921
+6YS9bTZfBLbNmKUAAbtnx8	Mondo Marcio,Finley	Dentro Alla Scatola	ITD000600454	19	italian hip hop,italian underground hip hop	0.00635	0.417	0.0	0.157	188.178	0.615	0.943
+7zrkOMlUmpdS6COxQykfVU	Caterina Caselli	Nessuno Mi Può Giudicare	ITR006600011	53	beat italiano,classic italian pop,italian adult pop	0.743	0.464	0.0	0.0339	142.814	0.819	0.686
+0B5kY9i9bmP7554oU4jRoO	Lipps Inc.	Funkytown - Single Version	USPR37902457	65	disco,europop,minneapolis sound	0.000928	0.907	0.65	0.0568	122.632	0.229	0.564
+3AszgPDZd9q0DpDFt4HFBy	Outkast	Hey Ya!	USAR10300924	64	atl hip hop,dirty south rap,hip hop,old school atlanta hip hop,pop rap,rap,southern hip hop	0.0644	0.715	0.000156	0.0648	79.504	0.963	0.97
+2FRnf9qhLbvw8fu4IBXx78	Wham!	Last Christmas	GBBBM8400019	66	disco,europop,mellow gold,new romantic,new wave,new wave pop,soft rock,synthpop	0.189	0.735	2.48e-06	0.0293	107.682	0.947	0.478
+5cnBqPh3jlnKCsYi3BeBsQ	Edoardo Vianello	Guarda Come Dondolo	ITB006200661	47	classic italian pop,italian adult pop	0.712	0.491	0.0	0.0538	177.032	0.961	0.645
+0v1XpBHnsbkCn7iJ9Ucr1l	Bon Jovi	It's My Life	USIR20000145	80	glam metal,rock	0.0263	0.551	1.35e-05	0.0466	119.992	0.544	0.913
+5D2mYZuzcgjpchVY1pmTPh	50 Cent,Olivia	Candy Shop	USIR10500072	81	east coast hip hop,gangster rap,hip hop,pop rap,queens hip hop,rap	0.0253	0.614	3.2e-05	0.466	125.173	0.755	0.574
+2WfaOiMkCvy7F5fcp2zZ8L	a-ha	Take on Me	USWB19901214	85	new romantic,new wave,new wave pop,permanent wave,soft rock,synthpop	0.018	0.573	0.00125	0.054	84.412	0.876	0.902
+0HPD5WQqrq7wPWR7P7Dw1i	Kesha	TiK ToK	USRC10900433	82	dance pop,electropop,pop,post-teen pop	0.0991	0.755	0.0	0.142	120.028	0.714	0.837
+3NvS0SxNWIPiAJoPWUpZzr	Haddaway	"What Is Love - 7"" Mix"	DEA410500401	60	bubblegum dance,eurodance,europop,hip house	0.0222	0.683	0.0156	0.031	123.869	0.738	0.772
+52Zr0sinhWTCRrQhRRY4EP	O-Zone	Dragostea din tei	ROMSA0600487	67	bubblegum dance,eurodance,europop,moldovan pop	0.18	0.802	0.0	0.0424	130.099	0.684	0.966
+1B75hgRqe7A4fwee3g3Wmu	MC Hammer	U Can't Touch This	USCA29000294	75	hip hop,hip house,rap	0.00456	0.867	0.000339	0.0875	133.148	0.866	0.517
+2zjt2hHBbiv5SuxYg8Z7eP	Cyndi Lauper	Girls Just Want to Have Fun	USSM18300548	68	new wave pop,permanent wave,soft rock	0.214	0.707	0.000571	0.0333	120.465	0.746	0.788
+6FT83pFXKhDlXDsNJFAHWz	Chuck Berry	You Never Can Tell	USMC16419660	70	blues rock,classic rock,rock,rock-and-roll,rockabilly	0.731	0.525	5.11e-05	0.222	157.404	0.884	0.852
+0j2T0R9dR9qdJYsB7ciXhf	Kanye West	Stronger	USUM70741299	82	chicago rap,rap	0.00564	0.617	0.0	0.153	103.992	0.49	0.717
+1AsCxLAvSfilIM9ubCf89B	Lu Colombo	Maracaibo	ITD008400017	56	italian adult pop	0.138	0.781	0.03	0.133	124.701	0.745	0.72
+1Je1IMUlBXcx1Fz0WE7oPT	Spice Girls	Wannabe	GBAAA9600008	81	dance pop,europop,girl group,pop	0.101	0.768	0.0	0.0324	110.008	0.891	0.864
+5qu8t9KzDkM4qK2hzoKJC3	Prezioso Feat. Marvin	Tell Me Why	DEA310908369	28	italo dance	0.0117	0.659	0.129	0.0285	131.528	0.774	0.942
+6HxweNytuEQdmGeVtZPZz3	The Roots,Cody Chesnutt	The Seed (2.0)	USMC10201424	65	alternative hip hop,conscious hip hop,east coast hip hop,gangster rap,hardcore hip hop,hip hop,philly rap,political hip hop,southern hip hop	0.039	0.758	0.0	0.0357	111.121	0.966	0.957
+2AkmdLbVKS1steeZdy8H1l	Queen	I Want To Break Free - Single Remix	GBUM71029625	74	classic rock,glam rock,rock	0.0841	0.795	0.00026	0.0324	108.95	0.596	0.435
+0ZOh6uw3NMQYTmriUFNDh2	Sabrina	Boys Boys Boys - Special Long Club Mix	FR6V81285537	46	italian disco	0.0404	0.871	0.0058	0.0314	119.591	0.957	0.785
+6dK1HEHZcQlh24bSU7pTaZ	Panjabi MC	Mundian to Bach Ke	GBWYK1800101	63	bhangra,classic bhangra,desi hip hop,desi pop	0.399	0.778	0.792	0.0371	98.077	0.942	0.879
+1xpOTLhRnbo5PiP0tp8dlr	Mina	Il cielo in una stanza	ITAE91002367	44	classic italian pop,italian adult pop,ye ye	0.9	0.216	5.75e-05	0.0287	94.598	0.425	0.423
+1HOMkjp0nHMaTnfAkslCQj	The Knack	My Sharona	USCA28900153	75	album rock,classic rock,new wave pop,pop rock,power pop	0.0589	0.586	0.00125	0.0363	147.245	0.897	0.7
+4mhJ5UY7hlpFZm6RtELDm1	Carl Douglas	Kung Fu Fighting	GBAJE7400014	60	disco	0.146	0.621	4.97e-05	0.0578	102.288	0.745	0.764
+0ofMkI3jzmGCElAOgOLeo3	Corona	The Rhythm of the Night	ITA199800041	70	bubblegum dance,diva house,eurodance,europop,hip house	0.000232	0.69	0.739	0.0336	127.808	0.799	0.805
+2yAVzRiEQooPEJ9SYx11L3	Eiffel 65,Gabry Ponte	Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio	ITT019810102	76	bubblegum dance,eurodance,europop,italian adult pop,italo dance	0.259	0.822	0.000153	0.0582	128.007	0.765	0.969
+0B9x2BRHqj3Qer7biM3pU3	John Travolta,Olivia Newton-John	You're The One That I Want - From “Grease”	NLF057890004	76	hollywood	0.281	0.758	0.00288	0.0598	106.945	0.822	0.612
+0ny5zITdmyNwyTPVzRGscU	Gwen Stefani	What You Waiting For?	USIR10400692	62	dance pop,hip pop,pop,post-teen pop,urban contemporary	0.0509	0.676	8.19e-06	0.0628	136.027	0.731	0.948
+0Ph6L4l8dYUuXFmb71Ajnd	Ricky Martin	Livin' la Vida Loca	NLB639920005	75	dance pop,latin,latin pop,mexican pop,puerto rican pop	0.00414	0.425	0.0	0.0476	178.043	0.933	0.954
+74CjS2xMK4KLnniXzFB9GI	883	Gli anni (96)	ITQ000000943	57	classic italian pop,europop,italian adult pop	0.00531	0.467	1.67e-06	0.0286	144.059	0.456	0.666
+4w7nHS3WCD0u25SkMUvq3a	Jeff Zavac,The Craetts	Hit The Road Jack	USBEN0680107	59	fake	0.079	0.591	0.00246	0.033	172.061	0.936	0.758
+7BfW1eoDh27W69nxsmRicb	Bob Marley & The Wailers	Buffalo Soldier	USIR28300004	74	reggae,roots reggae	0.142	0.929	5.26e-06	0.308	124.084	0.757	0.463
+4Li2WHPkuyCdtmokzW2007	JAY-Z,Kanye West	Ni**as In Paris	USUM71111621	84	east coast hip hop,hip hop,rap	0.127	0.789	0.0	0.311	140.022	0.775	0.858
+5ubvP9oKmxLUVq506fgLhk	Bee Gees	Stayin Alive	USRH10721057	80	disco,mellow gold,soft rock	0.0288	0.702	0.00871	0.0343	103.564	0.953	0.773
+7Kpqjspw4Y7HrvItIRcBiW	A.R. Rahman,The Pussycat Dolls,Nicole Scherzinger	Jai Ho! (You Are My Destiny)	USUM70954362	67	desi pop,filmi,modern bollywood	0.0476	0.657	0.0	0.061	136.202	0.879	0.941
+5QpaGzWp0hwB5faV8dkbAz	The Calling	Wherever You Will Go	USRC10001047	74	neo mellow,pop rock	0.0367	0.558	0.0	0.0267	112.027	0.371	0.719
+6ucR4KfvsBFWCMVFDvyKKl	Timbaland,OneRepublic	Apologize - feat. One Republic	USUM70722793	75	dance pop,hip hop,hip pop,pop,pop rap,urban contemporary	0.0292	0.653	0.0	0.0278	118.016	0.101	0.604
+0XEwMoAklVW0DU1xsfx9zz	Giorgio Vanni	All'arrembaggio!	ITF031002077	45	cartoni animati,italian adult pop,musica per bambini	0.0439	0.702	0.0	0.0388	123.953	0.941	0.918

@@ -1,0 +1,70 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0W1jDXkALMfPqheeSEEk5x	brb.	juice	FR59R2164150	63	chill r&b,pop,singaporean pop	0.0163	0.735	0.000155	0.0428	130.018	0.847	0.576
+0RDGQOOvltOUp51vvTX3ve	OHMYMEITING	淡水的淡水魚	FR10S1872430	26	mandopop,singaporean mandopop,taiwan pop	0.756	0.672	0.0	0.033	116.751	0.633	0.512
+2gXE7Vm07yABwOWxE3TRKY	Cosmos People	一起去跑步	TWK231205701	36	chinese indie,mandopop,taiwan pop	0.035	0.697	0.000138	0.032	125.989	0.724	0.879
+32QnXosZq7A11knnBAEqk7	Terence Lam	一人之境 in C major	HKC991900006	52	cantopop	0.742	0.711	0.0	0.034	122.052	0.232	0.315
+3JOmRxMrpySvOLbtUhWX4j	Han Geng	撐傘	TWU711001097	6	mainland chinese pop	0.718	0.392	0.0	0.0348	99.656	0.273	0.381
+7AtCIuQLBDXlu3nWhYuwJ0	Milky Day,Gareth.T	Youuu	QZK6Q2077258	53	chill r&b	0.492	0.695	0.0	0.029	116.032	0.689	0.52
+7CTitzr4eVIDCPUJi5Dr4B	David Tao	普通朋友	TWC219900005	53	c-pop,chinese r&b,mandopop,taiwan pop,taiwan singer-songwriter	0.678	0.56	0.0	0.0351	177.823	0.465	0.278
+6kEzWfX8TilHN8FenwdxCE	Gareth.T,moon tang	honest (feat. moon tang)	HKI492150202	54	hk-pop,hong kong hip hop	0.851	0.641	3.92e-06	0.0407	179.818	0.573	0.333
+2Mpuy9fsafkQxX3DSow9xw	Terence Lam	神奇的糊塗魔藥	HKC991900014	48	cantopop	0.644	0.534	5.72e-05	0.0333	90.91	0.624	0.677
+4eH9ujPhZSF0HZ1c004wtb	A Si,Yoga Lin	致姗姗来迟的你	CNA231600158	55	chinese indie,chinese minyao,mandopop,taiwan indie,taiwan pop	0.418	0.697	0.0	0.0362	119.99	0.741	0.628
+0dS8gBiRyiohkB2Z45rA0V	Waa Wei	Have A Nice Day	TW2152110001	53	chinese indie,mandopop,taiwan indie,taiwan pop,taiwan singer-songwriter	0.61	0.711	0.00092	0.0304	119.966	0.806	0.845
+0bqYvGR4vP2KstdMyemKYI	Terence Lam	doodoodoo	HKC991900022	56	cantopop	0.677	0.647	0.0	0.0536	76.476	0.502	0.505
+4ckh5VN2HYQ8TzS51Nh7ol	Hins Cheung	俏郎君	HKD252000120	59	c-pop,cantopop	0.633	0.611	0.0	0.036	123.728	0.391	0.411
+72OVnXDzugvrCU25lMi9au	WeiBird	"如果可以 - 電影""月老""主題曲"	TWA472116001	71	chinese r&b,mandopop,taiwan pop,taiwan singer-songwriter	0.241	0.54	0.0	0.029	74.969	0.372	0.54
+2KogAeAixsmxIzDmMHKhjY	Terence Lam	下一位前度 in Ab major	HKH611900001	53	cantopop	0.637	0.591	0.0	0.0283	117.85	0.354	0.392
+4O4JKZZMBPbDYVlrE3eKtI	Cosmos People	核爾蒙爆炸	TWK230902502	20	chinese indie,mandopop,taiwan pop	0.0165	0.739	3.16e-05	0.0416	124.993	0.881	0.855
+5st8nBxaC9GX6Dl3VMXTbM	Terence Lam	在空中的這一秒	HKC991900019	57	cantopop	0.589	0.563	0.0	0.0332	91.071	0.331	0.491
+5Mg4jtsrw6DVRXApAhQm7j	C AllStar	留下來的人	HKH612100014	48	c-pop,cantopop	0.504	0.402	0.0	0.0341	157.204	0.35	0.435
+0v2hRgvRSMnHsTSWyaoKbH	David Tao	飛機場的10:30	TWC219701002	48	c-pop,chinese r&b,mandopop,taiwan pop,taiwan singer-songwriter	0.614	0.494	0.0	0.0895	73.797	0.417	0.489
+6gcZ27pB3umB7L7aHRflhE	Cosmos People	不簡單	TWK231680780	25	chinese indie,mandopop,taiwan pop	0.229	0.657	4.11e-05	0.0248	79.03	0.536	0.501
+29kBXHeNUeFaJOCn105azX	Cosmos People	名偵探	TWK231003502	18	chinese indie,mandopop,taiwan pop	0.0461	0.645	0.0	0.0849	96.016	0.785	0.833
+4JY5s40ymnG18f6wxQtzPw	Jay Chou,Lara Liang	珊瑚海	TWK970500912	60	c-pop,mandopop,taiwan pop,zhongguo feng	0.773	0.459	0.0	0.0274	145.988	0.149	0.565
+7xE3HkKaZFhtzrt2FiwNOd	Keung To	Master Class	HKG482110465	67	cantopop,hk-pop	0.331	0.73	2.4e-06	0.094	92.014	0.381	0.494
+1wAiIIAskptjT45tgR35ad	Jay Chou	雨下一整晚	TWK971001606	47	c-pop,mandopop,taiwan pop,zhongguo feng	0.658	0.59	0.0	0.0257	80.001	0.389	0.408
+1GpbSYjurHKlxhcxCZ1Bqa	小阿七	从前说	HKG732124904	66	chinese viral pop	0.671	0.616	0.0	0.0338	115.966	0.446	0.69
+4Bk3BgijYqulnENTBLVBTo	OHMYMEITING	住在天狼星的那個人	FR10S1872434	55	mandopop,singaporean mandopop,taiwan pop	0.741	0.452	0.0	0.0496	185.738	0.431	0.478
+3gXjJZ6AlVz1C1MNJm7kGM	Namewee	吉隆坡下雪	MYDG11300006	11	malaysian mandopop,mandopop	0.604	0.484	0.0	0.0334	141.875	0.259	0.48
+4cSCMlCcY65zlz1ZPhqsCe	Eric Chou	離開你以後 - 電影《你的婚禮》插曲	TWAP12100003	58	mandopop	0.753	0.24	2.05e-06	0.0361	154.969	0.24	0.469
+0os4okaOVdC4qhwcwGBcZ7	路飞文	嘉宾	FRX452119636	53		0.774	0.582	0.0	0.0354	75.032	0.272	0.586
+1ZrnCyms7CBYsCvkkVIkt8	MC 張天賦	記憶棉	HKI492108203	62	cantopop,hk-pop	0.393	0.491	0.0	0.0473	149.856	0.214	0.533
+6cGoIcNMDyXWtrOaPQniM4	A Si	我在人民广场吃炸鸡	CNA231300690	45	chinese indie,chinese minyao,mandopop,taiwan indie,taiwan pop	0.512	0.526	2.62e-05	0.0388	119.964	0.396	0.751
+72ChE6ENMalJJnPbh0rjyM	Gareth.T	dinner in bed	HKI492250201	50	hk-pop,hong kong hip hop	0.516	0.66	0.0	0.0478	134.869	0.449	0.263
+2VEt42QSQxILgEf9B50xxm	理想混蛋	不是因為天氣晴朗才愛你	TWCC31801669	65	mandopop,taiwan indie	0.753	0.507	1.23e-06	0.0347	135.783	0.399	0.271
+2zEyrzKIZd1qcysLFXZZ9z	Yoga Lin	Night of Weeping (Live)	TWD952234101	40	chinese r&b,mandopop,taiwan pop	0.922	0.601	8.32e-06	0.0317	129.762	0.193	0.272
+2k3NAOhrpY4DJJlt5XjDKF	Jay Chou	蘭亭序	TWK970801507	51	c-pop,mandopop,taiwan pop,zhongguo feng	0.317	0.43	0.0	0.0328	152.051	0.342	0.54
+0Gxc9ycu9OKcDRrxehcjNm	Cosmos People	藍色的你 (《比悲傷更悲傷的故事》 影集版 插曲)	TWK232182900	51	chinese indie,mandopop,taiwan pop	0.456	0.479	0.0	0.0358	179.829	0.253	0.507
+1IVj6CsBbTgOEpo0W6hgwN	张远	嘉宾	FRX202120278	67	chinese viral pop	0.672	0.309	0.0	0.0363	71.585	0.427	0.434
+6W2tmkeuHKaedHhdTPnyVs	Jay Chou	說好的幸福呢	TWK970801506	57	c-pop,mandopop,taiwan pop,zhongguo feng	0.345	0.543	0.0	0.0282	117.61	0.24	0.473
+5RKWxItZvYY9wtKJuy2Hb7	A Si	热爱105°C的你	CNZ682100114	57	chinese indie,chinese minyao,mandopop,taiwan indie,taiwan pop	0.363	0.799	0.0	0.0446	137.124	0.751	0.613
+6whxKQ0Ocn1FmzpDc7lTHq	Eric Chou	想知道你在想什麼 - 《我吃了那男孩一整年的早餐》電影主題曲	TWAP12200006	64	mandopop	0.212	0.455	2.14e-06	0.0265	90.093	0.243	0.297
+49X4QDodbVHNIeVoqub24S	董書含	從不打烊的太陽	HKE672200091	18		0.628	0.636	0.0	0.0309	81.941	0.281	0.254
+7uSLJCDetmdm3tQcoYLyty	Fujii Kaze	旅路	JPPO02100112	57	j-pop,japanese teen pop	0.126	0.564	3.01e-06	0.0792	172.025	0.714	0.564
+7dNxxkapvf5eRkw24PHSpy	Fujii Kaze	damn	JPPO02200424	62	j-pop,japanese teen pop	0.00346	0.707	3.82e-05	0.0329	129.982	0.646	0.759
+5U4PgFWzfzY7VEg9Ck4ziF	Fujii Kaze	ガーデン	JPPO02200423	59	j-pop,japanese teen pop	0.0932	0.589	0.000337	0.0572	138.023	0.576	0.527
+3nPRJP6hLZx32covZfpB6p	Fujii Kaze	燃えよ	JPPO02103325	57	j-pop,japanese teen pop	0.00144	0.616	2.82e-05	0.0442	137.934	0.832	0.875
+1FDCEz8kY256zhDO2GjWuW	Fujii Kaze	やば。	JPPO02200422	58	j-pop,japanese teen pop	0.179	0.657	0.000119	0.0679	126.106	0.571	0.698
+7LI2pQoE3fWfOQuds2paXs	Fujii Kaze	へでもねーよ - LASA edit	JPPO02200421	55	j-pop,japanese teen pop	0.0615	0.506	1.89e-05	0.15	175.966	0.647	0.861
+3OdkC5pG8vc26S26qHyBo8	Fujii Kaze	まつり	JPPO02200420	63	j-pop,japanese teen pop	0.00892	0.663	0.0502	0.0338	97.025	0.356	0.731
+3L7ISJTvKx56uhsF28aJ4p	Fujii Kaze	きらり	JPPO02100710	56	j-pop,japanese teen pop	0.00704	0.752	0.0	0.0441	116.975	0.686	0.773
+6bioW1LHzS92xtmWT6NeWl	Fujii Kaze	“青春病”	JPPO02200457	54	j-pop,japanese teen pop	0.151	0.669	8.55e-05	0.0498	108.024	0.548	0.798
+5qGpsL9fCOr1sGYNMmFFtI	Fujii Kaze	それでは、	JPPO02200426	55	j-pop,japanese teen pop	0.832	0.251	0.056	0.0363	166.043	0.207	0.209
+2T2PRhaEQLPoo78E8zyVgw	Fujii Kaze	ロンリーラプソディ	JPPO02200425	55	j-pop,japanese teen pop	0.122	0.598	0.0032	0.0426	150.004	0.69	0.635
+4vJtoIRN83kkiyOwTxuS1V	ARASHI	5×20	JPQ401900070	29	j-pop	0.35	0.561	0.0	0.0439	99.033	0.436	0.932
+4zdQmfTLWgGd5mAX4MUIaX	ARASHI	Turning Up	JPQ401901060	50	j-pop	0.0225	0.769	1.03e-06	0.103	118.021	0.896	0.817
+0Ns63lt28epRgED3Tnhmth	ARASHI	Happiness	JPQ400700800	52	j-pop	0.00649	0.591	0.0	0.0431	115.012	0.712	0.915
+10G6iBGzoMi9qXgDV9qyBy	ARASHI	Love so sweet	JPQ400600740	54	j-pop	0.1	0.584	0.0	0.0403	139.032	0.707	0.849
+0kWHyUb42yanHaqIGskXQE	SEKAI NO OWARI	周波数	JPPO02001631	45	anime,j-pop	0.00796	0.612	1.07e-05	0.0421	133.036	0.412	0.896
+3xzNsww5yJOad8q2DtkbTe	二宮和也	Pretender	JPQ402200870	54		0.0234	0.636	0.0	0.0424	119.935	0.64	0.917
+7acSusvHpU3crDr31OnTM4	N/A	NO GOOD	TCJPM2030301	20		0.00182	0.697	0.00146	0.0356	118.005	0.743	0.807
+2r6cJaPgGSZDQ546mLehbi	ARASHI	Beautiful days	JPQ400801070	16	j-pop	0.234	0.575	0.0	0.0327	120.043	0.739	0.817
+4VM4T6Z6q7A829uMSptSGF	ARASHI	Party Starters	JPQ402000580	46	j-pop	0.00333	0.783	0.0	0.0482	124.937	0.8	0.887
+7ovHL4kRsRy03qG8E93R2k	ARASHI	IN THE SUMMER	JPQ402001010	45	j-pop	0.0376	0.782	0.0	0.0338	126.002	0.526	0.758
+309EElyk6QFrJu9MMbz52k	ARASHI	Beautiful days	JPQ400801070	46	j-pop	0.239	0.576	0.0	0.0328	120.04	0.728	0.816
+4ZXFRUod7wpphYc7rfiBVH	ARASHI	WISH	JPQ400500781	46	j-pop	0.132	0.659	0.0	0.034	132.045	0.709	0.764
+5faMSCv87ayeUzjtlt1sp9	ARASHI	Still...	JPQ400700810	32	j-pop	0.0708	0.736	0.0	0.0286	124.028	0.86	0.867
+2vXuVpGXqIXF6KB2jeWhXI	ARASHI	Believe	JPQ400900010	47	j-pop	0.0854	0.58	0.0	0.107	126.018	0.56	0.968
+384jVNcJAiC2XGPMRnZj1H	ARASHI	GUTS!	JPQ401400210	50	j-pop	0.0921	0.615	1.41e-06	0.0523	126.009	0.892	0.947
+3hdd3WJLagemc3ynu6LyKE	ARASHI	A・RA・SHI	JPQ400200070	49	j-pop	0.0305	0.439	0.0	0.157	120.432	0.475	0.953
+3MGXISL5mbQygJoOvaRiZW	ARASHI	A・RA・SHI	JPQ400200070	16	j-pop	0.0306	0.439	0.0	0.157	120.433	0.479	0.953

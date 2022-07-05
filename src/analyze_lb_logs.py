@@ -30,7 +30,7 @@ NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
                 'grime', 'hardcore punk espanol', 'wave', 'korean city pop', 
                 'industrial metal', 'electronic rock', 'ambient pop', 'solo wave',
                 'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore',
-                'australian post-hardcore']
+                'australian post-hardcore','new jersey hardcore']
 
 # PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220216", "20220314"]]
 # COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220315", "20220412"]]
@@ -128,6 +128,8 @@ def search_EM_artists(df, genres_EM):
     artist_all = []
     artist_EM = []
     for el in df[['artist_name', 'genres']].values:
+        if isinstance(el[0], float):
+            continue
         artist_all.extend(el[0].split(","))
         if pd.isnull(el[1]):
             continue

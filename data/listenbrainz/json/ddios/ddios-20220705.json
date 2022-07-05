@@ -1,0 +1,44 @@
+[
+    {
+        "listened_at": "2022-06-28T19:54:56",
+        "track_name": "LEJOS DE TI",
+        "artist_name": "Mora",
+        "release_name": "MICRODOSIS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/6s9NA1yozoB5fHprO2wVs2",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2252950",
+        "additional_info": {
+            "artist_msid": "3bf893dd-620e-47c8-9e30-d5803d8cd2e3",
+            "artist_names": [
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 128639,
+            "isrc": "QM4TX2252950",
+            "listening_from": "spotify",
+            "recording_msid": "eb0c2663-687d-4089-82e5-21658ce9c072",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "64afce18-6d58-4359-a085-7c2bba2137d2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6s9NA1yozoB5fHprO2wVs2",
+            "tracknumber": 10
+        },
+        "username": null
+    }
+]

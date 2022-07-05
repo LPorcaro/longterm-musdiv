@@ -1,0 +1,82 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+4xoRJ2BJWRo5kFoEu4BpvC	Penelope Scott	Sweet Hibiscus Tea	QZES92051839	64	alt z,indie pop,modern indie pop	0.87	0.664	0.0	0.0498	110.375	0.558	0.283
+6Zw0fMluh2Zb8r55OJy9se	Troi Irons	Flowers	US23A1512199	41	indie poptimism	0.000433	0.398	0.00163	0.0411	166.044	0.335	0.767
+3zBCnR97ZgU7oIwCjICOb1	Ben Thornewill	Songbirds	USHM91935786	43		0.909	0.494	0.00181	0.0323	80.999	0.249	0.408
+0n8Yab9btWdrt2vUAItVdb	Kalandra	Naive	NONAT2001040	36	norwegian indie	0.0251	0.496	0.0441	0.0348	81.995	0.511	0.625
+799NMsaFBhEbMBqcKNiGJF	Hailey Knox	a boy named pluto	QMRSZ2002326	53	nyc pop	0.855	0.782	6.14e-05	0.0333	101.998	0.448	0.411
+5xTWndes85CyJyxhOSGEOu	Sorry, Peach	Solitude	QZFZ61989125	44	south carolina indie	0.149	0.341	2.64e-06	0.0518	165.249	0.403	0.219
+1NqVion8GnrOX3cGMVPugv	Päter	Dam, Damn	QZES92027756	44		0.156	0.833	0.0	0.0911	117.992	0.839	0.625
+7ECNEgmEpFXkpFTp6zAjel	KAYE	Howl	QZHZ62084718	36	indie electropop	0.000828	0.55	0.275	0.0337	78.026	0.217	0.493
+0HcglvXbAKwzhJBoxnwMOy	Juno Lev	I had gay sex with god (it could've gone better)	QZFYW2166050	41		0.669	0.424	0.0	0.075	92.216	0.122	0.298
+18AJRdgUoO9EYn11N7xzaT	Tove Lo	Habits (Stay High)	SE3NM1300101	75	dance pop,electropop,metropopolis,pop,swedish electropop,swedish pop,swedish synthpop	0.0703	0.733	6.59e-05	0.0315	110.003	0.348	0.65
+7j31rVgGX9Q2blT92VBEA0	My Chemical Romance	Teenagers	USRE10602912	81	emo,pop punk	0.0506	0.463	0.0	0.0632	111.647	0.856	0.857
+58HvfVOeJY7lUuCqF0m3ly	Elley Duhé	MIDDLE OF THE NIGHT	USRC11903813	93	alt z,pop	0.0228	0.41	0.0	0.0467	185.727	0.0899	0.611
+5K3SJuYEkvvrLbzOjPyRi1	Ari Abdul	BABYDOLL (Speed)	USRC12201248	76		0.0813	0.552	0.205	0.0404	105.483	0.538	0.582
+0azC730Exh71aQlOt9Zj3y	Calvin Harris,Rihanna	This Is What You Came For (feat. Rihanna)	GBARL1600460	81	dance pop,edm,electro house,house,pop,pop rap,progressive house,uk dance	0.199	0.631	0.119	0.0332	123.962	0.465	0.927
+4UG2Fm0E98LhE2dlNxiAXx	JVKE	this is what falling in love feels like	GBKPL2163189	85	modern indie pop	0.617	0.424	0.0	0.0553	128.983	0.325	0.438
+4GRFzKI7jTZ3kbMfouc7bn	Kesha	Backstabber	USRC10900741	80	dance pop,electropop,pop,post-teen pop	0.0666	0.6	6.18e-06	0.19	159.941	0.833	0.939
+4sOX1nhpKwFWPvoMMExi3q	MARINA	Primadonna	GBFFS1200009	77	dance pop,electropop,metropopolis,pop,uk alternative pop	0.0884	0.66	0.0	0.0337	127.98	0.427	0.689
+39ZVkOVxjG8ypNdUSVNkxU	David Kushner	Mr. Forgettable	QZD5H2000390	76	gen z singer-songwriter	0.544	0.56	0.0	0.0276	144.727	0.28	0.41
+5MWXOo8DJwgODtPGaietNz	EMELINE	cinderella's dead	USUG12201893	77	alt z	0.33	0.596	0.0	0.168	119.882	0.531	0.607
+3iWOZkQNDekZQqkiJqqeGy	Nelly Furtado,Speed Radio	Say It Right - Sped Up Remix	USUM72204190	70	canadian latin,canadian pop,dance pop,pop,pop rap	0.0269	0.849	0.00717	0.223	134.479	0.765	0.941
+3JTjLyrnevl9ASw3ayGO2P	Superfruit	GUY.exe	USRC11701437	79		0.0305	0.77	0.0	0.0508	110.011	0.889	0.732
+59CfNbkERJ3NoTXDvoURjj	Dove Cameron	Boyfriend	USQX92200693	89	pop,post-teen pop	0.232	0.345	0.0	0.0608	179.773	0.232	0.612
+0KQRhak4Irr2CKxgQ9U6ay	Madeline The Person	MEAN!	USWB12201164	79	gen z singer-songwriter	0.912	0.502	0.0	0.433	175.191	0.433	0.416
+4sNG6zQBmtq7M8aeeKJRMQ	Declan McKenna	Brazil	GBARL1500856	81	indie pop,modern alternative rock,modern rock,rock	0.0941	0.687	1.27e-05	0.0287	121.079	0.665	0.617
+33aLws184a7SVqraKuDqI3	JVKE	this is what heartbreak feels like	GBKPL2288377	76	modern indie pop	0.581	0.707	0.0	0.0671	109.986	0.571	0.478
+2gQPv5jvVPqU2a9HhMNO1v	BoyWithUke	Toxic	TCAFS2101442	82		0.835	0.594	0.0	0.363	179.629	0.687	0.612
+5hK2Ks25jW6aMmUAHpAN3F	Grace Phipps	Falling for Ya	USWD11365085	70		0.0216	0.8	0.503	0.0419	129.94	0.964	0.882
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	86	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+1UZOjK1BwmwWU14Erba9CZ	Miley Cyrus	Malibu	USRC11700814	79	dance pop,pop,post-teen pop	0.0767	0.573	2.64e-05	0.0555	139.934	0.343	0.781
+360Wr96ywrCQq4kTAJ8Pq6	Melanie Martinez	Pacify Her	USAT21501941	83	alt z,electropop,pop	0.0467	0.576	0.000767	0.0306	157.993	0.373	0.593
+0vf2eBw2inhl8y61cYQMv2	Cavetown	Devil Town	TCADM1818860	79	bedroom pop,indie pop	0.12	0.576	0.0	0.0599	99.969	0.501	0.759
+4wcBRRpIfesgcyUtis7PEg	Olivia Rodrigo	1 step forward, 3 steps back	USUG12101244	80	pop	0.941	0.473	0.0	0.102	168.884	0.419	0.203
+1ei3hzQmrgealgRKFxIcWn	Benson Boone	In The Stars	USWB12201574	88	pop	0.338	0.362	0.0	0.0528	78.007	0.3	0.54
+7LhVGZrF9jgkT97CaKTlds	Lexi Jayde	gentle	QZAKB2166144	60	alt z,social media pop	0.0952	0.585	0.0	0.0393	134.974	0.283	0.687
+6Jkm5kUldvIqxzI1Pa7nXH	Leah Kate	10 Things I Hate About You	QZES62254244	84	alt z,pop	0.00991	0.544	0.0	0.0501	153.967	0.446	0.786
+0MnTkIEP4zZN1IUSu8MvIz	Cafuné	Tek It - Sped Up	USEE12200097	81	brooklyn indie	9.93e-05	0.348	9.68e-06	0.124	168.964	0.377	0.95
+5S5u0EWtlblH00iTNExZ6X	WILLIS	I Think I Like When It Rains	QMAAK1724976	74	alabama indie	0.0448	0.622	0.0	0.0277	124.455	0.278	0.471
+2FcbwSTgbQeweZv0bA9hI7	Noah Davis	Holy Water	QM24S2202624	61	alt z	0.0551	0.583	0.0	0.0423	122.904	0.17	0.461
+2fGRJzoiYJYAzlQAyBONMb	Ralph Castelli	Morning Sex	TCAEG1904980	75	alaska indie	0.0473	0.81	0.000104	0.0437	124.991	0.731	0.353
+4RvWPyQ5RL0ao9LPZeSouE	Tears For Fears	Everybody Wants To Rule The World	GBF088590110	86	new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop	0.347	0.645	0.00389	0.0527	112.067	0.535	0.795
+0qo1JukfClmpHnUOJxpFXi	Mad Tsai	killer queen	QZNWV2111785	73	alt z,bedroom pop,indie pop	0.0604	0.69	0.00114	0.0497	107.977	0.636	0.732
+1zu2GKHPJIsUu80SUJX4H4	Alec Benjamin	Devil Doesn’t Bargain	USAT22200712	81	alt z,dream smp,electropop,pop	0.577	0.448	0.0	0.0609	121.15	0.483	0.606
+4LRPiXqCikLlN15c3yImP7	Harry Styles	As It Was	USSM12200612	99	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+6fhG2KJgwO7CrNflRaRmvp	Ruth B.,slater	Dandelions - slowed + reverb	USSM12106073	81	alt z,canadian contemporary r&b,canadian pop,pop	0.0444	0.573	0.0	0.0256	101.699	0.258	0.715
+3kCYnvSwhSzYBD7fnDFhbY	Clinton Kane	14	USSM12102906	70	alt z,gen z singer-songwriter,pop	0.707	0.402	0.0	0.364	68.877	0.705	0.634
+1qEmFfgcLObUfQm0j1W2CK	Harry Styles	Late Night Talking	USSM12200610	95	pop	0.298	0.714	0.0	0.0468	114.996	0.901	0.728
+4ewmHD3aRBmLyTsbGreNLw	Tate McRae	what would you do?	USRC12200896	72	pop	0.288	0.79	0.0	0.0698	105.02	0.729	0.613
+0z29wv0x2IXrpWxNgICET7	Orla Gartland	Why Am I Like This?	QM4TW1923052	72	indie pop,irish pop	0.507	0.63	2.24e-06	0.0318	90.019	0.319	0.423
+03qh7qUB2zEPVWUc9isLCW	Alexa Cappelli	Could've Just Left Me Alone	USAR12200293	73	alt z	0.489	0.802	0.0	0.0423	96.008	0.735	0.653
+4FYWOYqOF9lbb1JcZFDT67	Demi Lovato,Speed Radio	Cool for the Summer - Sped Up (Nightcore)	USHR12243196	75	dance pop,pop,post-teen pop	0.00751	0.561	0.000701	0.0749	125.874	0.264	0.599
+0y60itmpH0aPKsFiGxmtnh	WILLOW	Wait a Minute!	QMJMT1500801	88	afrofuturism,dance pop,electropop,pop,post-teen pop	0.0371	0.764	1.94e-05	0.0278	101.003	0.672	0.705
+4sRoiXZBLpiRIklm2wy0WZ	Kelly Clarkson	Happier Than Ever	USAT22205559	70	dance pop,neo mellow,pop,post-teen pop,talent show	0.233	0.361	0.0	0.0599	162.0	0.183	0.461
+1BxfuPKGuaTgP7aM0Bbdwr	Taylor Swift	Cruel Summer	USUG11901472	83	pop	0.117	0.552	2.06e-05	0.157	169.994	0.564	0.702
+7rWgGyRK7RAqAAXy4bLft9	ABBA	Angeleyes	SEAYD7901040	81	europop,swedish pop	0.523	0.719	0.000163	0.0338	133.113	0.964	0.922
+0T5iIrXA4p5GsubkhuBIKV	Stephen Sanchez	Until I Found You	USUG12103651	91	gen z singer-songwriter	0.727	0.539	0.0	0.0288	101.358	0.227	0.508
+3SWGtKHaCFEUqfm9ydUFVw	Conan Gray	Disaster	USUM72204103	77	bedroom pop,pop	0.0101	0.614	0.0	0.0926	171.09	0.605	0.81
+7rEANZC972dKQoM1OjZz2d	Adam Joseph,Aja	Linda Evangelista (feat. Aja)	TCADB1725810	33	strut	0.0033	0.778	7.01e-06	0.196	127.981	0.846	0.801
+6xGruZOHLs39ZbVccQTuPZ	Joji	Glimpse of Us	USWB12201789	98	alternative r&b,viral pop	0.891	0.44	4.78e-06	0.0531	169.914	0.268	0.317
+3P4Lsg2MNqG8XLXZJUo4GT	Michael Bublé	Sway - Sped Up Version	USRE12200386	71	adult standards,canadian pop,jazz pop,lounge	0.73	0.608	1.88e-06	0.0422	161.768	0.872	0.671
+4DiNls6kFmF1ZittKsPsTc	New Edition	Mr. Telephone Man	USWWW0130295	69	boy band,contemporary r&b,new jack swing,quiet storm,r&b,urban contemporary	0.127	0.727	0.0	0.0291	94.039	0.895	0.45
+3i058E8uxTsYqJ5NWZzqSj	Harry Styles	Little Freak	USSM12200614	89	pop	0.719	0.559	0.000143	0.039	141.96	0.402	0.535
+1emUJfYrNiu2TuUsz8WiQf	Maddie Zahm	You Might Not Like Her	GBKPL2201317	74	alt z	0.622	0.705	2.65e-06	0.037	109.003	0.322	0.407
+6oJLVRSwk81VPHHtyP8BOx	Dylan Conrique	i miss you (skin to skin)	ZZOPM2233359	62	alt z,social media pop	0.655	0.268	0.0	0.0342	180.615	0.178	0.441
+6IbnUaczZBT34DhaD6S18F	MARINA	Bubblegum Bitch	GBFFS1200008	79	dance pop,electropop,metropopolis,pop,uk alternative pop	0.000219	0.495	0.0	0.0311	158.024	0.609	0.856
+3x7YsMwPnlXe51XWrwjo7g	Conan Gray	Movies	USUM72204102	55	bedroom pop,pop	0.105	0.349	0.0	0.0352	104.477	0.209	0.545
+1I4lCSP69P74nU3a6Su5L2	Duke & Jones,Louis Theroux	Jiggle Jiggle	GBARL2201151	83	uk dance	0.458	0.864	0.00087	0.273	99.992	0.654	0.412
+0mBP9X2gPCuapvpZ7TGDk3	Charlie Puth,BTS,Jung Kook	Left and Right (Feat. Jung Kook of BTS)	USAT22205563	92	dance pop,pop,viral pop	0.619	0.881	1.32e-05	0.0324	101.058	0.719	0.592
+2FdzIRCqzjhdxP5W99FSvS	Bo Burnham	1985	USA2P2225075	67	comic	0.0432	0.646	0.0	0.0475	155.85	0.894	0.724
+29d0nY7TzCoi22XBqDQkiP	Kate Bush	Running Up That Hill (A Deal With God) - 2018 Remaster	GBAYE1800884	92	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.659	0.625	0.00266	0.0596	108.296	0.139	0.533
+1R0a2iXumgCiFb7HEZ7gUE	Taylor Swift	Don’t Blame Me	USCJY1750006	88	pop	0.106	0.615	1.76e-05	0.0386	135.917	0.193	0.534
+6GUiIbJ834FcHewby3PwV0	Dove Cameron	Breakfast	USQX92202196	76	pop,post-teen pop	0.0579	0.64	0.0	0.0411	81.992	0.486	0.553
+0zC65JcBBk4GYAjL2tHKXa	Ronela Hajati	SEKRET	QZDA82253475	61	albanian pop,eurovision	0.0451	0.76	0.00413	0.0502	100.005	0.452	0.695
+2D9evE4eMfECLmnPTuEIzd	Juniper Vale	Bird Song	QZ8R71700017	45		0.179	0.707	0.00452	0.0355	110.022	0.525	0.61
+6tDDoYIxWvMLTdKpjFkc1B	Kali Uchis	telepatía	GBUM72005748	83	colombian pop,dance pop,pop	0.112	0.653	0.0	0.0502	83.97	0.553	0.524
+1FjPD9vbakfw2ersuYNvMD	Rebecca Black	Sweetheart	ushm91958487	37	dance pop,electropop,escape room,hyperpop,post-teen pop	0.331	0.743	0.0127	0.0724	174.081	0.6	0.367
+2RXm45xWTrHVk3y3EDxAw0	Dom Fera	The Reckoning	TCAFF2067395	44	indiecoustica	0.616	0.604	0.0	0.0335	145.072	0.95	0.715
+5r3wBJnwQkPqiyAWP3UPxA	Emma Blackery	Villains, Pt. 1	QM4TX1811985	44	uk pop	0.413	0.52	3.45e-06	0.0491	120.089	0.353	0.698
+6lSnQH1YFpZsYphqDEMzbI	Annapantsu,Chloe Breez	Rasputin	QZTAS2180369	45	otacore	0.105	0.886	2.39e-05	0.108	127.397	0.914	0.767
+58hbLmAfFQA4zbxcbRCO4P	Bad Suns	Daft Pretty Boys	QMRSZ1600419	56	indie poptimism,la indie,modern alternative rock,modern rock,pop rock	0.048	0.665	0.0	0.059	136.992	0.672	0.823
+1bRrJaO9IHxsx8OY3ly5di	Nanpa Básico	Púrpura	QZHZ51906218	54	colombian hip hop,mexican hip hop	0.508	0.782	0.0	0.346	147.893	0.369	0.464
+0zmJ7DDzxnTBKDbGIt1SiC	Ivonne Galaz	Voy En Camino	USDXS2100600	28	corrido,corridos tumbados	0.294	0.724	0.0	0.0268	96.962	0.744	0.65

@@ -1,0 +1,40 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5aszL9hl6SBzFNsOvw8u8w	Bo Burnham	Bezos I	USA2P2122060	72	comic	0.00936	0.694	1.62e-05	0.0361	115.044	0.705	0.948
+6FY7iUeQAlAGqb9E1GDSPx	Bo Burnham	Unpaid Intern	USA2P2122065	60	comic	0.427	0.68	0.0	0.0916	170.39	0.615	0.715
+1zsbPstcJxnY0zuKFFOKKZ	Bo Burnham	How the World Works	USA2P2122067	60	comic	0.74	0.831	0.0	0.521	129.672	0.495	0.431
+5sGFZ43saHla4skp3HG6VZ	Bo Burnham	FaceTime with my Mom (Tonight)	USA2P2122062	59	comic	0.668	0.822	0.0	0.0461	125.041	0.671	0.371
+50MhgV5PrQmCSuEELaYp9R	Bo Burnham	Comedy	USA2P2122064	62	comic	0.465	0.47	0.0	0.173	180.061	0.351	0.565
+4GDL4Rl9ov0OctWIm6ZkoR	Bo Burnham	Content	USA2P2122075	63	comic	0.00231	0.774	3.32e-06	0.0347	115.01	0.716	0.848
+51Grh1RyUDcMBbpuyUIUHI	Liana Flores	rises the moon	QZDA61986777	78	indie pop	0.947	0.483	0.145	0.0349	137.35	0.203	0.129
+7yR5ZDif2glYMnFP73uRMm	The Honeysticks,Ricky Montgomery	Out Like a Light	USQY51754031	63	indie pop,la indie	0.17	0.522	0.00244	0.0275	125.973	0.359	0.458
+0sTlGEld0h8kIPZaKDYUf4	The Rare Occasions	Notion	USHM21617726	85	la indie	0.0673	0.309	0.00111	0.0808	159.488	0.312	0.883
+75FEaRjZTKLhTrFGsfMUXR	Kate Bush	Running Up That Hill (A Deal With God)	GBCNR8500002	96	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.72	0.629	0.00314	0.055	108.375	0.197	0.547
+4hJbPNtAKE6wHUbFas3LzH	Jeff Chang	無別 (動畫《天官賜福》片頭曲)	TWB532010005	48	c-pop,classic mandopop,mandopop	0.799	0.365	0.0	0.0468	143.468	0.354	0.394
+08EPpRA9ZFkkboXdDiiy7Y	Taku Iwasaki	Il mare eterno nella mia anima	JPQ461300048	45	anime score	0.977	0.152	0.103	0.0374	168.824	0.139	0.503
+2nMeu6UenVvwUktBCpLMK9	Lana Del Rey	Young And Beautiful	GBUM71301823	80	art pop,pop	0.262	0.324	3.69e-05	0.0368	113.986	0.151	0.416
+2iUmqdfGZcHIhS3b9E9EWq	Neon Trees	Everybody Talks	USUM71119189	81	modern alternative rock,modern rock,pop rock,post-teen pop,rock	0.00301	0.471	0.0	0.0586	154.961	0.725	0.924
+474uVhyGgK5MtY9gMcDgGl	Rainbow Kitten Surprise	It's Called: Freefall	USAT21800165	75	modern rock	0.632	0.744	0.0	0.0513	97.944	0.281	0.516
+6VpNGCU2ig4NQmsLfALdJU	Kate Bush	Babooshka - 2018 Remaster	GBAYE1800839	73	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.762	0.49	1.14e-05	0.0382	108.866	0.292	0.362
+2Qgm2mChzOTHTfB4XdJU3w	Modà	Come Un Pittore (Feat. Jarabe de Palo)	ITAP61400030	56	bow pop,italian adult pop	0.00208	0.326	0.0	0.0397	160.141	0.389	0.808
+4aDupxFxldxF8V4XbE4fyH	Bo Burnham	1985	USA2P2225075	67	comic	0.0432	0.646	0.0	0.0475	155.85	0.894	0.724
+27cw0tNJKQQW2CJMGcCfZb	Sushi Soucy	I Deserve to Bleed	TCAFI2015453	67	indie pop	0.918	0.761	0.0	0.0682	119.991	0.595	0.276
+2zWN4kR8srUVCAlnZYEIcD	MIKA	Good Guys	USUM71504244	33	europop,pop	0.0364	0.586	0.0	0.038	99.932	0.207	0.496
+2NjhV99ncY4A5lSkTHvTtU	MIKA	Lollipop	USC7R0600045	60	europop,pop	0.0352	0.714	1.63e-05	0.0641	96.007	0.892	0.621
+5gIJ6UEog9PR840GJuEYqa	Will Wood and the Tapeworms	Hand Me My Shovel, I'm Going In!	USHM21638930	47	new jersey indie	0.311	0.324	8.74e-06	0.085	124.995	0.295	0.939
+5377z0OljWvRR7CdSQrJxP	Hollow Coves	The Woods	TCACD1595673	59	indie folk	0.411	0.802	0.00107	0.0455	106.05	0.224	0.41
+4ZZsSnVQXTMfYB2unKx7me	The Oh Hellos	Thus Always To Tyrants	USAT21502724	56	folk-pop,indie folk,indie pop,indiecoustica,san marcos tx indie,shimmer pop,stomp and holler	0.0413	0.496	0.000621	0.0327	135.971	0.381	0.742
+7dccEQyhoXFtPQf3m4fRKS	Meg Myers	Heart Heart Head	USAT21300763	38	dark pop,electropop,shimmer pop	0.508	0.54	4.75e-06	0.032	124.831	0.135	0.292
+3SKzTIl9mW0DadTys9SFo3	Halsey	Control	USUM71507636	71	dance pop,electropop,etherpop,indie poptimism,pop	0.399	0.549	0.0	0.0332	119.898	0.206	0.675
+0GdiWLQt5VYtMEcero6AOW	Amanda Palmer	Runs in the Family	NLA320886591	54	anti-folk,dark cabaret,piano rock,steampunk	0.547	0.577	0.0	0.0565	142.39	0.755	0.721
+70LcF31zb1H0PyJoS1Sx1r	Radiohead	Creep	GBAYE9200070	84	alternative rock,art rock,melancholia,oxford indie,permanent wave,rock	0.0097	0.515	0.000133	0.0372	91.844	0.104	0.43
+5nyZKSIW7HZSKmf13yEwS0	陈亦洺,喧笑lirz,镜予歌	晚夜微雨问海棠	FR26V2007684	49	zhongguo feng	0.156	0.424	0.0	0.0308	162.16	0.371	0.643
+3bfZfO2mBgDX4lKSeQQjx2	Smile_小千,萧忆情	迢迢共此生 (天官赐福官方漫画连载一周年纪念主题曲) - 纯歌版	HKG732027556	40		0.515	0.519	0.0	0.036	143.973	0.456	0.599
+5ngZOODdtc4wIbJzVJGYaJ	Homura Records	"Wu Bie (From ""Tian Guan Ci Fu"")"	TCAFK2167679	36		0.957	0.422	0.916	0.064	143.166	0.12	0.179
+7cRkcjWr9xExIPGMXEF7eh	Smile_小千,萧忆情	迢迢共此生(天官赐福官方漫画连载一周年纪念主题曲) - 剧情版	HKG732027554	38		0.493	0.519	0.0	0.0423	143.961	0.479	0.613
+0FfdtQrD9kT42o6Anv4uDn	周深	大魚 - 唱片版	CNZ021600012	55	chinese talent show,mainland chinese pop	0.449	0.355	0.000109	0.0322	140.19	0.117	0.376
+1karpr1KXyDDYzg1PhEeV3	简弘亦	不染	HKG731759561	32	chinese drama ost	0.852	0.476	0.0	0.0304	135.827	0.25	0.339
+1ReV3jeTYQDbTP1JdZZVIY	AJJ	Children of God	USA6G1454502	33	acoustic punk,anti-folk,folk punk,indie pop	0.00171	0.34	0.0	0.0791	196.398	0.705	0.656
+0NPKGAxqJQ5OkkD4uSfyKl	Paolo Buonvino,Skin	"Renaissance - From ""Medici: Masters of Florence"""	FR96X1641810	46	deep soundtrack,italian soundtrack	0.888	0.482	0.0207	0.0382	126.06	0.0617	0.395
+4TPDbirM5UZqygPgwLp4v2	Fall Out Boy	w.a.m.s.	USUM70840358	39	emo,modern rock,rock	0.026	0.387	4.06e-05	0.0945	127.057	0.37	0.846
+2y51QpLzI5qbWfCcSx9Tu1	Mother Mother	Wrecking Ball	CAL450882109	63	indie pop,vancouver indie	0.194	0.664	0.0	0.0362	97.004	0.284	0.797
+64TQPdiQqWknjFhPL9QmxJ	Panic! At The Disco	When the Day Met the Night	USAT20801311	48	modern rock	0.0618	0.432	6.01e-05	0.0419	130.276	0.171	0.656

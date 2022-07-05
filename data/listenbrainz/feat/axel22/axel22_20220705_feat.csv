@@ -1,0 +1,101 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+4uLk2v3fdioKhlV8aPGvsO	Anna Oxa,Fausto Leali	Ti lascerò	ITM009700604	49	classic italian pop,italian adult pop	0.727	0.497	0.0	0.0355	138.162	0.148	0.362
+7gPT8duO78422BZQXItXeQ	Eros Ramazzotti	Terra promessa	ITB008470737	38	italian adult pop,mexican pop	0.077	0.715	0.00136	0.0255	98.911	0.863	0.419
+34VWA8nkYp99hTrp9Aovn9	Riccardo Fogli	Storie di tutti i giorni	ITE010402428	49	classic italian pop,italian adult pop	0.211	0.562	0.0	0.0426	118.2	0.379	0.658
+4DiTA6MRQAcTn0ZIhNaaHk	Gianni Morandi,Enrico Ruggeri,Umberto Tozzi	Si può dare di più	ITR008700171	50	classic italian pop,italian adult pop	0.514	0.617	0.0	0.033	114.464	0.309	0.591
+61VptdUUGBeSFPGnJD5z8p	Eros Ramazzotti	Una storia importante	ITB008570714	44	italian adult pop,mexican pop	0.0471	0.6	1.46e-05	0.0449	125.397	0.308	0.534
+69yVorve3CSUgza89ZxLeS	Toto Cutugno	Solo noi	ITB268000030	51	classic italian pop	0.646	0.276	0.0	0.0651	170.168	0.257	0.41
+1dgNG7Ze3PqXTIq9yqSihX	Al Bano And Romina Power	Ci sarà	DEC719400058	53		0.22	0.677	0.0	0.034	115.682	0.474	0.498
+7sXTcibuNYugjjYNfgf2kY	Al Bano And Romina Power	Felicità	USBI10000114	65		0.489	0.71	0.0	0.0402	107.618	0.814	0.625
+2S7RApTsKT0CtYojYq2cKz	Toto Cutugno	L'italiano	ITB268300025	66	classic italian pop	0.292	0.617	0.0	0.0404	121.35	0.692	0.519
+7037bX3jdaUWUAXL12CHGy	Ricchi E Poveri	Sarà perché ti amo	USBI10000112	58	classic italian pop,europop,italian adult pop,italian disco	0.122	0.837	0.0	0.0377	120.196	0.964	0.751
+7HToYDfwY1kATIrBPxvbzX	Fiordaliso	Non voglio mica la luna	ITB008670575	49	classic italian pop,italian pop	0.279	0.757	0.0	0.0379	123.382	0.644	0.685
+4PRdGQsEQeqvfYZTPN6pDC	Matia Bazar	Vacanze Romane - 1991 Remaster	ITD001100248	45	classic italian pop,italian adult pop	0.12	0.582	0.00504	0.0333	109.688	0.474	0.573
+6P9ISBfXg35gWQzq3ggLIu	Alice	Per Elisa	ITD008100001	46	classic italian pop	0.0952	0.536	2.79e-05	0.0453	101.968	0.464	0.485
+1XZp9CsjFdnZuiNzcGYKgP	Nomadi	Io vagabondo (Che non sono altro)	ITR009200111	52	beat italiano,classic italian pop,italian adult pop	0.21	0.593	0.0515	0.0274	130.18	0.315	0.422
+18aYLiuUktctsov8ZOedWm	Ermal Meta	A parte te	ITP5S1600013	50	italian adult pop	0.0458	0.428	4.67e-06	0.0325	128.808	0.232	0.473
+5Nuxdf0f5PpaeaPm4jrhiE	Queen	Breakthru - Remastered 2011	GBUM71029628	59	classic rock,glam rock,rock	0.0614	0.569	0.00955	0.0862	90.08	0.318	0.864
+2CKV5s8GIy0OM8cpFNJmFO	Nomadi	Un giorno insieme	ITR009200483	35	beat italiano,classic italian pop,italian adult pop	0.0478	0.479	0.0	0.0268	136.057	0.285	0.492
+3ArAQGnhVS1g3qR0QQsHNe	Nomadi	Canzone per una amica	ITR000300033	36	beat italiano,classic italian pop,italian adult pop	0.00563	0.605	1.1e-05	0.0378	111.988	0.604	0.655
+5SMNiMH42jfmZJsJN3AEjS	Nomadi	Io voglio vivere	ITR000300023	48	beat italiano,classic italian pop,italian adult pop	0.0504	0.63	0.0	0.0267	125.005	0.324	0.704
+1p1wV9jjcPPDuap4fEkssy	Ermal Meta	Milano non esiste	ITP5S2100025	42	italian adult pop	0.0105	0.488	0.0	0.0311	145.983	0.535	0.742
+7tyNXQ6EWa6H97unOMV9pf	Ermal Meta	Dall'alba al tramonto	ITP5S1800002	42	italian adult pop	0.0329	0.78	0.0	0.04	122.018	0.925	0.759
+0Jj82zztVLKxvKamimYykq	Ermal Meta	Uno	ITP5S2100001	43	italian adult pop	0.0178	0.582	9.76e-06	0.0371	122.069	0.352	0.8
+5kYheNyo7xHKPsUWAFzXr3	Ermal Meta	Un milione di cose da dirti	ITP5S2100003	48	italian adult pop	0.466	0.588	0.0	0.0641	139.794	0.208	0.453
+6d3sJyECf0XccpnosXyxT7	Ermal Meta,Fabrizio Moro	Non mi avete fatto niente	ITM381800004	48	italian adult pop	0.309	0.568	0.0	0.0554	90.025	0.644	0.89
+5VL6LfK1mJHwqX4abGn2Xn	Ermal Meta	Vietato morire	ITP5S1700001	48	italian adult pop	0.0166	0.522	0.0	0.0477	97.986	0.605	0.893
+14QmYMPcfpIbOH1k7EmqNq	Bugo,Ermal Meta	Mi manca (feat. Ermal Meta)	ITP5S1900039	36	italian alternative	0.0647	0.53	0.0	0.0301	143.986	0.285	0.58
+7Jz3p5U6V8WW6XH8egj0Cw	Ermal Meta	Stelle cadenti	ITP5S2100002	50	italian adult pop	0.0197	0.532	0.0	0.0386	175.854	0.402	0.828
+5UPL90ZL0XghWWNw57WVR9	Ermal Meta,Elisa	Piccola anima (feat. Elisa)	ITP5S1700003	54	italian adult pop	0.59	0.48	0.0	0.0303	123.766	0.208	0.387
+1jPGOeJ4GjsrFI2mqAYcQZ	Nomadi	Soldato	ITR000400028	31	beat italiano,classic italian pop,italian adult pop	0.273	0.665	0.0	0.0263	111.932	0.27	0.651
+5RYLa5P4qweEAKq5U1gdcK	Queen	A Kind Of Magic - Remastered 2011	GBUM71029621	71	classic rock,glam rock,rock	0.0184	0.67	0.00294	0.0356	130.128	0.703	0.776
+57sWj8AvelINyIP0zjI6IR	Nomadi	Gli aironi neri	ITR009100081	29	beat italiano,classic italian pop,italian adult pop	0.015	0.588	1.09e-06	0.026	106.037	0.485	0.693
+3bh9UNRlPPNzMnKq1bCJ2I	Nomadi	Dio e' morto	ITR009900611	34	beat italiano,classic italian pop,italian adult pop	0.167	0.633	0.0	0.0413	121.991	0.663	0.82
+0ftfAhOiZ6kP6kLHAy6WjJ	Nomadi	Canzone per un'amica	ITR009200091	40	beat italiano,classic italian pop,italian adult pop	0.679	0.533	0.0	0.0284	108.028	0.61	0.47
+593EGnffiwlmRS4ter4LpA	Nomadi	Dove si va	ITR000600007	38	beat italiano,classic italian pop,italian adult pop	0.0453	0.545	0.0	0.0321	142.061	0.255	0.55
+0p9x3zIQoIxY5SrSCnd6ei	Nomadi	Ho difeso il mio amore	IT0201800017	31	beat italiano,classic italian pop,italian adult pop	0.0654	0.393	2.37e-05	0.0306	156.048	0.137	0.595
+2Q0OyfiawPKFc7pqNFlFpI	Nomadi	Un pugno di sabbia	ITR009900721	39	beat italiano,classic italian pop,italian adult pop	0.522	0.507	4.53e-06	0.0295	138.031	0.286	0.609
+5DUm6IIqcWfhQ3MhbAS0K0	Nomadi	Crescerai	ITD007300016	41	beat italiano,classic italian pop,italian adult pop	0.0169	0.491	0.0	0.0304	126.211	0.651	0.363
+1F80MEkZA9yTlpMQp9dhht	Tinlicker,Helsloot	Because You Move Me	NLF711706976	69	edm,tropical house	0.691	0.789	0.0395	0.149	122.997	0.166	0.435
+4LRPiXqCikLlN15c3yImP7	Harry Styles	As It Was	USSM12200612	99	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+02MWAaffLxlfxAUY7c5dvx	Glass Animals	Heat Waves	GBUM72000433	91	gauze pop,indietronica,shiver pop	0.44	0.761	6.7e-06	0.0944	80.87	0.531	0.525
+3uUuGVFu1V7jTQL60S1r8z	Lost Frequencies,Calum Scott	Where Are You Now	BEHP42100067	92	belgian edm,edm,pop,pop dance,tropical house	0.515	0.671	0.000411	0.103	120.966	0.262	0.636
+4YJUTdZ0Pgl0ZeNyHYXeLd	Queen	Love Of My Life - Remastered 2011	GBUM71100536	73	classic rock,glam rock,rock	0.933	0.329	5.04e-06	0.0299	154.175	0.255	0.179
+3adhl1NWmaS3SVjwelX6mw	Nomadi	Come potete giudicar	ITR009200151	27	beat italiano,classic italian pop,italian adult pop	0.00186	0.545	0.000597	0.031	145.453	0.894	0.925
+1v8vOuy8cE9rTNrgVLWkck	Nomadi	L’orizzonte di Damasco	IT0201900011	23	beat italiano,classic italian pop,italian adult pop	0.0341	0.404	3.46e-05	0.0278	159.845	0.267	0.649
+7uuo02BIR76qZ6ZXQhz7Ys	Safri Duo	Played-A-Live (The Bongo Song)	DKBKA0100501	65	eurodance,europop	0.0156	0.634	0.88	0.0569	137.997	0.202	0.97
+3nBqcvrl3R1I84Z2lZTjfx	Pooh	Uomini soli	ITR041200100	49	classic italian pop,italian adult pop	0.627	0.371	0.0	0.031	72.782	0.161	0.647
+7aajtVYMQLTH9wQFKr6X0D	Pooh	La donna del mio amico	ITR041200131	48	classic italian pop,italian adult pop	0.692	0.495	0.0	0.0277	74.976	0.465	0.498
+6zaqjLbBdfkdHUWtQzvrK2	Marco Masini	Bella stronza	ITB009500587	50	classic italian pop,europop,italian adult pop	0.332	0.526	0.0	0.0306	107.646	0.273	0.471
+4rDbp1vnvEhieiccprPMdI	Queen	Somebody To Love - Remastered 2011	GBUM71029613	74	classic rock,glam rock,rock	0.186	0.406	0.0	0.0624	109.266	0.333	0.698
+1lCRw5FEZ1gPDNPzy1K4zW	Queen	We Are The Champions - Remastered 2011	GBUM71029619	75	classic rock,glam rock,rock	0.378	0.268	0.0	0.0346	64.177	0.175	0.459
+2AkmdLbVKS1steeZdy8H1l	Queen	I Want To Break Free - Single Remix	GBUM71029625	74	classic rock,glam rock,rock	0.0841	0.795	0.00026	0.0324	108.95	0.596	0.435
+6xdLJrVj4vIXwhuG8TMopk	Queen	Crazy Little Thing Called Love - Remastered 2011	GBUM71029612	76	classic rock,glam rock,rock	0.713	0.599	4.74e-06	0.0421	77.015	0.712	0.761
+1nQRg9q9uwALGzouOX5OyQ	Queen	Radio Ga Ga - Remastered 2011	GBUM71029623	75	classic rock,glam rock,rock	0.183	0.744	0.000228	0.0359	112.344	0.66	0.502
+4pbJqGIASGPr0ZpGpnWkDn	Queen	We Will Rock You - Remastered 2011	GBUM71029618	79	classic rock,glam rock,rock	0.676	0.692	0.0	0.119	81.308	0.475	0.497
+2fuCquhmrzHpu5xcA1ci9x	Queen,David Bowie	Under Pressure - Remastered 2011	GBUM71029622	79	classic rock,glam rock,rock	0.429	0.671	0.0	0.0476	113.805	0.462	0.712
+5vdp5UmvTsnMEMESIF2Ym7	Queen	Another One Bites The Dust - Remastered 2011	GBUM71029605	82	classic rock,glam rock,rock	0.112	0.933	0.312	0.161	109.967	0.754	0.528
+5T8EDUDqKcs6OSOwEsfqG7	Queen	Don't Stop Me Now - Remastered 2011	GBUM71029610	82	classic rock,glam rock,rock	0.0475	0.559	0.000176	0.17	156.295	0.609	0.868
+4u7EnebtmKWzUH433cf5Qv	Queen	Bohemian Rhapsody - Remastered 2011	GBUM71029604	82	classic rock,glam rock,rock	0.271	0.414	0.0	0.0499	71.105	0.224	0.404
+426lDtGrejS1wga7gmAmDv	Oliver Koletzki,Jimmy Sax	No Man No Cry - Jimmy Sax Version	QZ5FN1716855	60	electronica,german techno,minimal techno,organic electronic,organic house,tech house	0.127	0.776	0.611	0.0848	121.992	0.347	0.601
+0f3cLpriwmAnZu5kRrssc5	Lana Del Rey,Imanbek	Summertime - Imanbek Remix	GBUM72106225	55	art pop,pop	0.0667	0.894	0.00061	0.17	121.995	0.827	0.864
+68rcszAg5pbVaXVvR7LFNh	Asaf Avidan,The Mojos,Wankelmut	One Day / Reckoning Song (Wankelmut Remix) - Radio Edit	DEQ321200132	71	israeli pop,israeli rock	0.223	0.826	6.92e-05	0.0571	118.99	0.534	0.668
+6zSpb8dQRaw0M1dK8PBwQz	Elton John,Dua Lipa,PNAU	Cold Heart - PNAU Remix	GBUM72104705	90	glam rock,mellow gold,piano rock	0.034	0.796	4.19e-05	0.0317	116.032	0.942	0.798
+5jy1cdnKDZjhHwIbDoWggr	Bthelick,9Ts,Seren,Chillion	Wicked Game	QZ8LD1975278	50		0.363	0.735	0.315	0.0319	120.006	0.235	0.569
+1VvxicuSwzYCx8b0EdD8HZ	TIVON,Gill Baits	Lonely	QZES92140684	36		0.144	0.749	3.06e-05	0.193	119.984	0.625	0.806
+5WNa0eaGNwQ1ZXTHVlULpd	John Summit,SIDEPIECE	Deep End - SIDEPIECE Remix	GBCPZ2018710	66	edm,electro house,house,pop dance	0.143	0.773	0.024	0.0807	126.007	0.453	0.652
+2Ctpcfhgj5O7iy7kWfVNfT	Cookie Crumble,TIVON	Mood	QZHN32199943	46		0.589	0.786	2.32e-06	0.0467	105.969	0.568	0.584
+24Yi9hE78yPEbZ4kxyoXAI	SAINt JHN,Imanbek	Roses - Imanbek Remix	RUB421901499	82	melodic rap,pop rap,rap,slap house,trap	0.0167	0.77	0.0107	0.0495	121.975	0.898	0.724
+6bS7SNo9hRkifRV879GtPg	Hugo Moro	Eres Tu	ITAY32100151	24		0.00677	0.748	0.834	0.0473	126.052	0.473	0.526
+6CDzDgIUqeDY5g8ujExx2f	Glass Animals	Heat Waves	GBUM72000433	87	gauze pop,indietronica,shiver pop	0.44	0.761	6.7e-06	0.0944	80.87	0.531	0.525
+76hfruVvmfQbw0eYn1nmeC	DNCE	Cake By The Ocean	USUM71514637	82	dance pop,pop,post-teen pop	0.152	0.774	0.0	0.0517	119.002	0.896	0.753
+5Iv4HuT9pKPi5WuE2ii3vs	Purple Disco Machine,Moss Kena,The Knocks	Fireworks (feat. Moss Kena & The Knocks)	AUDCB1701705	70	deep house,house,tropical house	0.00687	0.752	2.73e-06	0.0429	118.053	0.787	0.781
+3Be7CLdHZpyzsVijme39cW	Kygo,Tina Turner	What's Love Got to Do with It	SEBGA2000676	73	edm,pop,pop dance,tropical house	0.275	0.75	0.0	0.154	105.023	0.617	0.664
+2Ag8h2aYIutlYA1dVTYnce	YouNotUs,Mi Casa	Chucks	ZAUM72100225	62	dance pop,deep house,edm,german dance,pop dance,tropical house	0.0793	0.734	0.000256	0.0494	124.028	0.514	0.812
+5nbq4CyzheTl7BLPR3caJY	Elderbrook	Body	GBAYE2100384	55	house,pop dance,tropical house	0.00584	0.73	0.0645	0.0385	122.004	0.418	0.754
+75UUG6x5zQe0gCVOiQpa6X	Purple Disco Machine,Sophie and the Giants	In The Dark	AUDCB1701963	76	deep house,house,tropical house	0.0405	0.691	3.67e-05	0.0464	115.936	0.771	0.763
+6i7zAdNhzUN2k1HcrBxPHG	Ofenbach,Quarterhead,Norma Jean Martine	Head Shoulders Knees & Toes (feat. Norma Jean Martine)	FRY682000003	73	dance pop,edm,electro house,pop,pop dance,tropical house	0.0247	0.798	2.55e-06	0.193	124.962	0.6	0.828
+0JWSMYurMhPmlD5H8VRoTn	TWOPILOTS,De Hofnar	If You Had My Love	NLT2H2100319	69	covertronica,tropical house	0.375	0.77	0.0	0.0817	113.99	0.766	0.875
+0vbtURX4qv1l7besfwmnD8	Mike Posner,Seeb	I Took A Pill In Ibiza - Seeb Remix	USUM71509342	79	dance pop,edm,pop,pop rap	0.0353	0.664	8.42e-06	0.111	101.969	0.71	0.714
+6ft4hAq6yde8jPZY2i5zLr	MEDUZA,Dermot Kennedy	Paradise (feat. Dermot Kennedy)	GBUM72005075	80	edm,pop,pop dance,pop house,tropical house	0.0689	0.632	0.0	0.0401	124.114	0.435	0.595
+0vWUhCPxpJOJR5urYbZypB	Purple Disco Machine,Sophie and the Giants	Hypnotized	AUDCB1701555	70	deep house,house,tropical house	0.0968	0.69	0.000324	0.0997	108.078	0.704	0.813
+3rmo8F54jFF8OgYsqTxm5d	Ed Sheeran	Bad Habits	GBAHS2100318	91	pop,uk pop	0.0451	0.807	2.79e-05	0.0347	126.011	0.537	0.893
+2jAaDaQ01dk74X4njfkXP3	Diplo,SIDEPIECE,Purple Disco Machine	On My Mind - Purple Disco Machine Remix	USZ4V2000206	50	edm,electro house,house,moombahton,ninja,pop,pop dance,tropical house	0.0983	0.73	0.0624	0.033	123.01	0.748	0.69
+3HeZam86SuxGp1wZ3XMIjE	Trinix,Queen D	She Said (Big Jet Plane)	FR1A92101694	70	bass trap,new french touch,tropical house	0.108	0.808	0.0743	0.0608	108.026	0.416	0.538
+1ubVPccf8Vb9mL0XYpVpCV	The Avener,Phoebe Killdeer	Fade Out Lines - The Avener Rework	FRV601400149	65	deep euro house,new french touch,tropical house	0.0163	0.876	0.0926	0.0325	119.011	0.699	0.731
+4BJ2Cmu4sna57A8EovCfAU	Ian Storm,Carl Clarks,John Laurant	California Dreamin'	NL2QC2000128	65	brazilian edm,dutch edm	0.0679	0.583	2.2e-05	0.11	109.924	0.464	0.805
+5vaOdnTldKw74qWjezLfRO	Kungs	Lipstick	FR9W12133415	67	edm,pop dance,tropical house	0.0382	0.777	0.0	0.0731	126.033	0.939	0.9
+0xfMlIW8lS40qvpsUw1l0X	Kungs	Never Going Home	FR9W12110749	76	edm,pop dance,tropical house	0.0907	0.836	0.047	0.0392	122.042	0.942	0.846
+52LJ3hyknOijCrE5gCD0rE	Gigi D'Agostino	L'Amour Toujours	NLS241000174	74	eurodance,europop,italo dance	0.0771	0.638	0.0221	0.0302	139.052	0.743	0.877
+0TDLuuLlV54CkRRUOahJb4	David Guetta,Sia	Titanium (feat. Sia)	GB28K1100036	80	big room,dance pop,edm,pop,pop dance,pop rap	0.0679	0.604	0.15	0.103	126.062	0.301	0.787
+3aQz0z86zrKjd1mcZlonxE	Guru Josh Project,Klaas	Infinity 2008 - Klaas Vocal Edit	DEHD60712073	74	acid house	0.000313	0.498	0.00941	0.0589	128.034	0.47	0.862
+5erkBzi1uzfVzRotIEDevu	Jamie Jones	My Paradise	GBCPZ2220825	63	deep disco house,deep house,house,minimal techno,tech house,uk tech house	0.0005	0.749	0.154	0.0313	128.012	0.887	0.74
+59qrUpoplZxbIZxk6X0Bm3	Jason Derulo	Take You Dancing	USAT22004479	80	dance pop,pop,pop rap,post-teen pop	0.0332	0.789	0.0	0.041	112.985	0.753	0.711
+0v8OKUrqZGoEbgEUXScRSQ	Alok,THRDL!FE	Hear Me Tonight	DEE862000524	64	electro house,pop nacional,slap house	0.0422	0.695	1.8e-05	0.0526	125.999	0.355	0.902
+3GYlQmwfBDo7imFyGPhrl7	Dimitri Vegas & Like Mike,Regard,Dimitri Vegas	Say My Name	BEG852000012	71	belgian dance,belgian edm,big room,dance pop,edm,electro house,pop dance,progressive electro house,tropical house	0.0703	0.729	0.0	0.0908	118.039	0.857	0.788
+2m7sL4IIG2F5UULkgjnVLx	Ian Storm,Ron van den Beuken,Menno	Run Away	DK4YA2014601	63	brazilian edm,dutch edm	0.292	0.593	0.000162	0.119	125.928	0.397	0.852
+6Dy1jexKYriXAVG6evyUTJ	Joel Corry,Jax Jones,Charli XCX,Saweetie	OUT OUT (feat. Charli XCX & Saweetie)	UK4ZF2100518	83	dance pop,edm,pop,pop dance,tropical house,uk dance	0.018	0.787	0.00747	0.0478	123.97	0.796	0.833
+0bI7K9Becu2dtXK1Q3cZNB	Tiësto,KAROL G	Don't Be Shy	CYA112000981	86	big room,brostep,dance pop,dutch edm,edm,house,pop,pop dance,slap house,trance,tropical house	0.198	0.77	0.0	0.0583	119.986	0.513	0.787
+2plRom0urixt6BE8t7kOhQ	Anitta	Girl From Rio	USWB12101015	61	funk carioca,funk pop,pagode baiano,pop nacional	0.00727	0.692	0.0	0.0352	140.059	0.733	0.639
+4crczEC1PpoD8TsDsmoWNI	Imanbek,Goodboys	Goodbye	GBUM72006085	72	dance pop,edm,electro house,pop dance,slap house,tropical house	0.0225	0.741	0.000102	0.0563	125.011	0.517	0.931
+7sYAS4CpbV90oSemgaEQat	Alok,Dynoro	On & On	DEE861903954	66	electro house,pop nacional,slap house	0.0233	0.747	1.38e-05	0.0722	125.07	0.67	0.776

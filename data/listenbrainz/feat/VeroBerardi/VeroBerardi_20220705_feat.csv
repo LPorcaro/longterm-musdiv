@@ -1,0 +1,13 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+6imvNIE8dbJ3K7qllyZ4sF	Kate Bush	Under Ice	GBCNR8500010	53	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.803	0.517	0.0	0.041	106.421	0.0867	0.0458
+5atQ2haKP5LT65WM0KUts3	Kate Bush	Cloudbusting	GBCNR8500022	69	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.696	0.68	8.88e-06	0.0328	112.806	0.812	0.248
+50T7xShSIGpOKvpyVahSAx	Kate Bush	The Big Sky - Special Single Mix	GBCNR0700001	60	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.113	0.524	0.381	0.051	122.704	0.458	0.877
+0iluWxTpC9QOdVPg3PROvm	Kate Bush	Hounds Of Love	GBCNR8500005	68	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.505	0.546	0.0	0.0384	145.582	0.9	0.748
+75FEaRjZTKLhTrFGsfMUXR	Kate Bush	Running Up That Hill (A Deal With God)	GBCNR8500002	96	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter	0.72	0.629	0.00314	0.055	108.375	0.197	0.547
+7dy7fScRwbbmqateWfx5nN	Bow Anderson	Selfish	DEUM72203206	50	uk pop	0.037	0.667	0.0	0.0332	135.94	0.8	0.85
+4shULiz3P7luscRsQobtDN	Claire Rosinkranz	i'm too pretty for this	USUG12204689	55	alt z,indie pop,modern indie pop,pop	0.00241	0.503	0.0	0.0499	173.921	0.417	0.791
+3EzNhsh3hCy559XDI44f4g	YUNGBLUD	Don't Feel Like Feeling Sad Today	USUG12202061	63	british indie rock,modern rock,pop,rock	0.00112	0.53	0.0	0.0423	94.969	0.654	0.904
+77Gyctcku69jSlSSYhZEkh	Sabrina Carpenter	Vicious	USUM72210690	65	alt z,dance pop,electropop,pop,post-teen pop	0.308	0.721	0.0	0.159	129.98	0.63	0.457
+0N8UI3JyFSif4lKWLbb0mL	Irama	PAMPAMPAMPAMPAMPAMPAMPAM	ITQ002200488	53	italian adult pop,italian pop	0.183	0.823	0.000325	0.0647	112.078	0.831	0.802
+4dNo8BDY0ZU7fJhiTQZuIq	Rhove,Shiva,Ghali	Compliquè (feat. Shiva & Ghali)	ITDJ72200023	65	italian hip hop,trap italiana	0.384	0.863	0.0	0.282	118.975	0.341	0.612
+0CCxUHakfHk0enJcqI2nZP	Robert de Visée,Amandine Beyer,Pascal Monteilhet	Suite for Theorbo & Violin in G Major: II. Allemande	FR1P70501470	1	baroque,french baroque	0.896	0.383	0.0608	0.0505	110.821	0.442	0.148

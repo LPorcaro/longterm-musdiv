@@ -1,0 +1,18 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5lAnYvAIkSDNXqfo7DyFUm	Doja Cat	Ain't Shit	USRC12101540	83	dance pop,pop	0.506	0.855	0.0	0.208	124.097	0.619	0.488
+5JCoSi02qi3jJeHdZXMmR8	Olivia Rodrigo	favorite crime	USUG12101249	86	pop	0.866	0.369	0.0	0.0364	172.929	0.218	0.272
+4y5bvROuBDPr5fuwXbIBZR	Taylor Swift	Paper Rings	USUG11901478	82	pop	0.0129	0.811	1.36e-05	0.0497	103.979	0.865	0.719
+7l97ElWmIdVHWUaOeeU5ZC	Tate McRae	that way	USRC11903528	79	pop	0.728	0.453	0.0	0.163	105.029	0.333	0.383
+3EGW6TGGbdk6Ys1Y3HU3lj	Melanie Martinez	Training Wheels	USAT21501938	76	alt z,electropop,pop	0.697	0.571	0.0	0.0444	113.753	0.0807	0.481
+3jjujdWJ72nww5eGnfs2E7	Harry Styles	Adore You	USSM11912588	87	pop	0.0237	0.676	7e-06	0.0483	99.048	0.569	0.771
+14kYOiFVPb7E7NfFbqhdln	Ariana Grande	goodnight n go	USUM71808588	70	dance pop,pop	0.0217	0.708	0.0	0.0395	110.963	0.24	0.454
+0FFsgUoFibYISzMxuGS61W	Doja Cat,Ariana Grande	I Don't Do Drugs (feat. Ariana Grande)	USRC12101536	74	dance pop,pop	0.222	0.683	8.25e-06	0.0966	77.014	0.45	0.615
+0MMyJUC3WNnFS1lit5pTjk	Olivia Rodrigo	jealousy, jealousy	USUG12101248	86	pop	0.198	0.695	0.0	0.116	163.929	0.699	0.575
+3hUxzQpSfdDqwM3ZTFQY0K	Taylor Swift	august	USUG12002842	79	pop	0.538	0.532	7.28e-05	0.0331	89.937	0.403	0.623
+7mFj0LlWtEJaEigguaWqYh	Megan Thee Stallion,Dua Lipa	Sweetest Pie	QMCE32200232	88	dance pop,houston rap,pop,trap queen	0.167	0.814	0.0	0.221	123.977	0.677	0.628
+3UoULw70kMsiVXxW0L3A33	Ariana Grande	pov	USUM72020441	77	dance pop,pop	0.36	0.487	0.0	0.0555	131.798	0.173	0.534
+5cOyxjetBT7kRnqL68madd	Doja Cat,SZA	Kiss Me More (feat. SZA)	USRC12100543	58	dance pop,pop	0.259	0.764	8.92e-05	0.0284	110.97	0.781	0.705
+3nsfB1vus2qaloUdcBZvDu	Taylor Swift	All Too Well (Taylor's Version)	USUG12103665	75	pop	0.0171	0.44	0.00203	0.0317	185.972	0.132	0.528
+6AtZLIzUINvExIUy4QhdjP	Taylor Swift	I Knew You Were Trouble (Taylor's Version)	USUG12103664	73	pop	0.0129	0.584	0.0	0.0342	154.008	0.767	0.557
+3S7HNKPakdwNEBFIVTL6dZ	Taylor Swift	Treacherous (Taylor's Version)	USUG12103663	69	pop	0.0344	0.645	0.000127	0.0288	109.984	0.299	0.593
+6SZwj6cjc8JQbkrr8cbIUn	Jack Stauber	Oh Klahoma	QMPKX1703670	71	pittsburgh indie	0.43	0.697	0.0109	0.0543	108.996	0.478	0.401

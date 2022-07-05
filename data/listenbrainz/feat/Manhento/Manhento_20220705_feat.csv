@@ -1,0 +1,54 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0gYNMkxqYwKvUCvYfcRWLs	Loyle Carner	Hate	GBUM72203001	0	indie soul,london rap,uk alternative hip hop	0.141	0.379	0.000145	0.108	102.781	0.493	0.83
+6r1dkC7q1PiAB21e6RKwSo	Dengaz,Carla Prata	Só Uma Vibe (Prod. Twins) (feat. Carla Prata)	PT8CM1800001	28	hip hop tuga,rap angolano	0.457	0.711	0.0	0.132	132.112	0.368	0.529
+22DHmfJa31hKpc2Lg0gVBV	Solange,Lil Wayne	Mad (feat. Lil Wayne)	USSM11607809	56	afrofuturism,alternative r&b,dance pop,escape room,hip pop,indie soul,neo soul,pop,r&b,urban contemporary	0.101	0.827	4.15e-05	0.254	119.807	0.599	0.477
+3ewqsanI2CJ3vwbP1fzQBE	Boldy James,The Alchemist,Benny The Butcher	Brickmile To Montana	USUYG1382803	55	alternative hip hop,boom bap,escape room,hip hop,rap,southern hip hop,underground hip hop	0.771	0.551	0.0314	0.36	149.486	0.48	0.662
+2XEdf7cprB6FSURwzFdxMp	JPEGMAFIA	BasicBitchTearGas	QZD5H1800115	38	alternative hip hop,escape room,experimental hip hop,hip hop,industrial hip hop,rap,underground hip hop	0.587	0.505	0.0	0.19	74.454	0.366	0.644
+7HsG7U7aQhafXqa41dBxlK	Pusha T,Malice,Clipse,Labrinth	I Pray For You (feat. Labrinth & MALICE)	USUM72203837	62	gangster rap,hip hop,rap,southern hip hop,trap,virginia hip hop	0.387	0.413	0.0	0.36	80.173	0.0767	0.726
+1UiozcYfTcTGBzs89HhsBO	NGA	Quero o Mundo	ES71G2052097	15	hip hop tuga,rap angolano	0.383	0.465	0.0	0.38	144.685	0.328	0.814
+7MSZgiH3L0qyiqUcAsM4P5	Kappa Jotta	Tamadar	PT6GV2200001	25	hip hop tuga	0.492	0.842	0.00272	0.231	140.049	0.687	0.874
+6IAVU9psKD2kJ2bGg4Vemp	Sippinpurpp	NR5	PTBM12100039	48	hip hop tuga,trap tuga	0.799	0.55	0.000281	0.0847	123.973	0.373	0.528
+5uXO1sjZ7VbNKexKaFRna3	Daniel Caesar,BADBADNOTGOOD	Please Do Not Lean (feat. BADBADNOTGOOD)	USUG12202503	72	canadian contemporary r&b,pop,r&b	0.241	0.67	8.55e-06	0.0381	127.972	0.46	0.41
+30WnHkBkq3vE8jJcNZ3RKr	Wet Bed Gang	Praça Onze	ES71G2223419	9	hip hop tuga,trap tuga	0.285	0.595	0.0	0.113	93.849	0.189	0.73
+5gCNf9wMVrYuM2fvfgLTlF	ROSALÍA,Tokischa	LA COMBI VERSACE (feat. Tokischa)	USSM12109231	73	r&b en espanol	0.561	0.835	0.000206	0.522	90.97	0.426	0.495
+78CpoadoaXB6mcIDX5JXLk	Mirai	Assassino	PTUM72200135	26	hip hop tuga	0.228	0.603	0.0337	0.125	110.119	0.123	0.488
+5fjD0vHh9XRL6b657FWe9C	Plutonio	Por Enquanto	PT9EV2200015	48	hip hop tuga	0.492	0.696	0.000726	0.0666	97.907	0.699	0.708
+2QtcUDaXtpIDcp9WCt2Cfi	GROGNation	Calcanhar	PT7GV2200001	32	hip hop tuga	0.345	0.825	0.0	0.458	94.956	0.651	0.399
+1IPYFY0PNMUeSLNXM2vcnZ	Kaps	Juventus	PT4GT2200001	24	rap tuga underground	0.398	0.868	0.0284	0.109	110.854	0.493	0.424
+06JvOZ39sK8D8SqiqfaxDU	Kanye West,XXXTENTACION	True Love	USQX92202485	87	chicago rap,rap	0.0182	0.712	6.09e-06	0.25	84.042	0.388	0.861
+17MPtgaJHgr2WlJVyhA6kw	Dillaz	Papaia	PT5HT2200007	54	hip hop tuga	0.308	0.72	0.00256	0.131	137.206	0.255	0.494
+24QcmVdz7CwEYhohJxJ4EX	Julinho Ksd,Harley KSD	Popo	PT1II2200001	48	hip hop tuga,rap criolo	0.444	0.822	0.00719	0.156	143.067	0.78	0.662
+0BP5fxrr7EwU3I9TNJwjBA	Dillaz	Genebra	PT5HT2200008	50	hip hop tuga	0.694	0.775	0.000678	0.0933	105.101	0.346	0.442
+4f96bCyt3UILSEJbfBUMqg	Extrazen,Lucy Val	5MINUTES	ES71G2220775	30		0.798	0.823	0.0	0.272	119.961	0.539	0.382
+7zXIHI7Oo4ptoy6AyTgdTN	benji price,Mike El Nite	Veni, Vidi, Vici	PTBM12200005	34	drill tuga,hip hop tuga	0.446	0.671	0.00051	0.0854	172.028	0.579	0.69
+2v2tuqtW3N9U32LpG5or2p	Yuri NR5	Diva	PT2HG2200005	48	hip hop tuga,trap tuga	0.797	0.7	0.00156	0.032	85.028	0.161	0.318
+5gK2DEq64erT5cZ0gMshrX	Mirai	Fermento	PTUM72100663	27	hip hop tuga	0.761	0.719	2.37e-05	0.0589	109.984	0.57	0.463
+6L4NFioRgbHZFV4KRDIEpO	Walez,Alley,Chyna	Sombra (feat. Chyna)	ES71G2058310	27		0.378	0.832	0.0	0.076	117.592	0.19	0.488
+1TThW3zpCjFpucjqVfkr3k	EU.CLIDES	Venham Mais 7	PT2DY2200148	44	portuguese pop	0.499	0.748	0.000843	0.048	128.008	0.259	0.704
+5N9G8wNembjHIJnzfsutPT	Tom	Squad	ES71G1927707	10		0.267	0.54	0.0	0.323	93.099	0.712	0.751
+430EuoJ6KwzO0fFuCwu6am	Lhast,Rafaell Dior,T-Rex	ES7ÁDIO	QZDA82268751	48	hip hop tuga,rap angolano	0.311	0.702	0.0	0.148	140.058	0.384	0.63
+3I6JMeMU9D4shndj3G4VGC	9 Miller,jon.,Milhanas	Transparente (feat. Milhanas)	PT4IA2200005	32	hip hop tuga,trap tuga	0.836	0.576	0.0	0.505	172.318	0.16	0.425
+1PwY8OpvFFt7CmnpnPAw7O	Joey Bada$$	Where I Belong	USQX92202956	62	conscious hip hop,hip hop,rap,underground hip hop	0.254	0.48	0.0	0.411	148.869	0.701	0.902
+1NpIxgz5LrqKrB7FaIQ1bm	T-Rex	DISTÂNCIA	PT2JP2200016	46	trap tuga	0.415	0.778	0.0	0.119	104.947	0.324	0.397
+1KSz0dMTPwRq9OqLkNxcfd	Pa Salieu,Mahalia	Energy (feat. Mahalia)	GBAHT2001020	53	afroswing,uk alternative hip hop,uk hip hop	0.707	0.75	0.0053	0.119	112.476	0.567	0.711
+4kgKjHMIDWri9XHjyxSbpy	Ama Lou	Same Old Ways	USUM72120651	55	alternative r&b,chill r&b,indie r&b,indie soul,r&b,uk contemporary r&b	0.0114	0.856	0.0	0.183	102.05	0.72	0.436
+1IqF5PUDUnaykHLs0RWbDO	BADBADNOTGOOD,Samuel T. Herring	Time Moves Slow	USD8D1634003	72	alternative hip hop,canadian modern jazz,escape room,hip hop,indie soul	0.478	0.591	0.0282	0.0543	140.026	0.308	0.376
+6mzUqJRO5UzphWpk1en0sb	Richie Campbell	Floating	PT9AN2200003	48	portuguese pop,reggae tuga	0.622	0.801	0.175	0.0626	110.026	0.501	0.546
+3S68RFe1lsdCdTMPIMJM3X	Pharrell Williams,21 Savage,Tyler, The Creator	Cash In Cash Out	USSM12202926	85	hip hop,pop,pop rap	0.00721	0.877	1.45e-06	0.0596	119.971	0.154	0.56
+5W2s4S60GoNsUthU51aUb8	FKA twigs,Shygirl	papi bones (feat. shygirl)	USAT22200030	59	afrofuturism,art pop,dance pop,escape room,experimental r&b,pop,trip hop	0.0662	0.737	1.29e-05	0.287	94.997	0.581	0.629
+1jhdCONafFj1hzJsPvZx27	Vince Staples	WHEN SPARKS FLY	USUM72202407	62	conscious hip hop,escape room,hip hop,rap,underground hip hop	0.00664	0.699	0.000517	0.124	161.721	0.227	0.782
+6BU1RZexmvJcBjgagVVt3M	Kendrick Lamar	Count Me Out	USUM72208980	78	conscious hip hop,hip hop,rap,west coast rap	0.671	0.776	0.0	0.091	133.999	0.495	0.431
+7IBLt4Qarf4JDLxIQDv2O5	A$AP Rocky	D.M.B.	USRC12101600	75	east coast hip hop,hip hop,rap,trap	0.542	0.727	4.47e-06	0.338	140.014	0.392	0.616
+4k2cAUUPp3VZdK4gwG9pxy	Jazmine Sullivan	Pick Up Your Feelings	USRC12003898	52	alternative r&b,dance pop,hip pop,neo soul,pop,pop r&b,pop rap,r&b,urban contemporary	0.261	0.643	0.0	0.0717	170.896	0.572	0.413
+5bBQI31u2eqXJE5OyP4hxq	Mizzy Miles,Deejay Telio,Teto,Gson	EUROPA (feat. Gson)	PT6I22000001	63	hip hop tuga	0.0701	0.794	0.0	0.0991	98.05	0.183	0.619
+6A6yKpsgFr4gIKd7gsfHhm	Rina Sawayama	This Hell	GBK3W2202198	70	art pop,dance pop,electropop,escape room,pop	0.0047	0.628	4.81e-06	0.0373	120.995	0.472	0.85
+3W7NRSYccc2Iy2fCK1JaGe	9 Miller,jon.	Não tem como	PT4IA2200002	34	hip hop tuga,trap tuga	0.311	0.893	0.0	0.557	86.03	0.673	0.421
+7rWCWzPRftzZTZtIyQtaDU	Future,Kanye West	KEEP IT BURNIN (feat. Kanye West)	USSM12203270	72	atl hip hop,rap,southern hip hop,trap	0.00861	0.652	0.0	0.161	87.395	0.195	0.578
+3f7DEE3i9IzH7ieoKOLdvr	ProfJam	FAX	PT2DY2200231	50	hip hop tuga,trap tuga	0.132	0.671	0.0	0.256	139.489	0.174	0.72
+3QTsEZZ2qeahVOtliAvTHw	Stromae	C’est que du bonheur	BET672100006	63	belgian pop,g-house	0.317	0.867	8.35e-05	0.172	98.037	0.638	0.616
+7My9ca9QEIR8MvIOdIrTWA	Eminem,Snoop Dogg	From The D 2 The LBC (with Snoop Dogg)	USUG12204350	78	detroit hip hop,hip hop,rap	0.105	0.73	0.0	0.243	82.037	0.596	0.785
+64xoX1XYaE7kOzN39CpReE	Walez,Alley	Contra-Tempo	PT2KS2200002	27		0.249	0.83	0.0	0.144	122.969	0.375	0.671
+1TUNcLZZImGkNlviSpQp6H	Joey Bada$$	Head High	USQX92201081	66	conscious hip hop,hip hop,rap,underground hip hop	0.0969	0.618	0.0	0.371	169.978	0.597	0.864
+3uJFmluXzYedoJcvhpC1AW	Cardi B,Kanye West,Lil Durk	Hot Shit (feat. Ye & Lil Durk)	USAT22208514	76	dance pop,pop,pop rap,rap	0.00152	0.878	0.0	0.225	157.003	0.523	0.685
+6xGruZOHLs39ZbVccQTuPZ	Joji	Glimpse of Us	USWB12201789	98	alternative r&b,viral pop	0.891	0.44	4.78e-06	0.0531	169.914	0.268	0.317
+1HUPcJgYQXXxmlVouv1Mop	Saba	One Way or Every N***a With a Budget	QMFME2188618	54	alternative r&b,chicago rap,hip hop,rap,underground hip hop	0.125	0.833	0.0006	0.0948	93.039	0.668	0.627
