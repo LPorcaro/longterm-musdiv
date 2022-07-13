@@ -8,6 +8,8 @@ import numpy as np
 import pingouin as pg
 import plotly.figure_factory as ff
 import matplotlib.pylab as pl
+import plotly.express as px
+import seaborn as sns
 
 from collections import Counter
 from itertools import chain
@@ -239,16 +241,57 @@ if __name__ == "__main__":
 
 
 
+    ########### D-score VS O-score distribution
+
+    df = df_join_att_LD
+
+    D = 6
+    H = 6
+    M = max(max(df.d_score), 1.5)
+    m = min(min(df.d_score), -1.5)
+    points = [m ,-1, -0.3, 0, 0.3, 1, M]
+
+    for r_c,r in enumerate(ROUNDS):
+
+        g = sns.jointplot(data=df, x='d_score', y='d_score', kind='hist', bins=(D, H))
+        g.fig.suptitle(ROUNDS_LAB[r_c], y=1)
+
+        g.ax_marg_y.cla()
+        g.ax_marg_x.cla()
+        groups = df[df.att_round==r].groupby(['o_score', pd.cut(df[df.att_round==r].d_score, points)])
+
+        groups = groups.size().unstack()
+        if len (groups) < 6:
+            new_row = {key:[0] for key in groups.columns}
+            groups = pd.concat([pd.DataFrame(new_row), groups])
+
+        sns.heatmap(data=groups, ax=g.ax_joint, cbar=False, cmap='Blues', linewidths=.5, annot=True, fmt="d")
 
 
+        groups = df[df.att_round==r].groupby(['o_score'])
+        if len(groups) < 6:
+            groups = pd.concat([pd.Series([0]), groups.size()])
+            g.ax_marg_y.barh(np.arange(0.5, H), groups.to_numpy(), color='navy')
+        else:
+            g.ax_marg_y.barh(np.arange(0.5, H), groups.size().to_numpy(), color='navy')
 
+        groups = df[df.att_round==r].groupby([pd.cut(df[df.att_round==r].d_score, points)])
+        g.ax_marg_x.bar(np.arange(0.5, D), groups.size().to_numpy(), color='navy')
 
-    fig = px.density_heatmap(df_join_att_HD, x="d_score", y="o_score", marginal_x="box", marginal_y="box", range_x =[-1,1],range_y =[0,5],nbinsx=10)
-    fig.show()
-    fig = px.density_heatmap(df_join_att_LD, x="d_score", y="o_score", marginal_x="box", marginal_y="box", range_x =[-1,1],range_y =[0,5],nbinsx=10)
-    fig.show()
+        g.ax_joint.set_xticks(np.arange(0.5, D))
+        # g.ax_joint.set_xticklabels(range(1, D + 1), rotation=0)
+        g.ax_joint.set_yticks(np.arange(0.5, H))
+        g.ax_joint.set_yticklabels(range(H), rotation=0)
 
-    fig = px.density_heatmap(df_join_att_HD, x="d_score", y="o_score", marginal_x="histogram", marginal_y="histogram",range_x =[-1.5,1.5], range_y =[-0.5,5.5], title='HD')
-    fig.show()
-    fig = px.density_heatmap(df_join_att_LD, x="d_score", y="o_score", marginal_x="histogram", marginal_y="histogram", range_x =[-1.5,1.5], range_y =[-0.5,5.5], title='LD')
-    fig.show()
+        # remove ticks between heatmao and histograms
+        g.ax_marg_x.tick_params(axis='x', bottom=False, labelbottom=False)
+        g.ax_marg_y.tick_params(axis='y', left=False, labelleft=False)
+        # remove ticks showing the heights of the histograms
+        g.ax_marg_x.tick_params(axis='y', left=False, labelleft=False)
+        g.ax_marg_y.tick_params(axis='x', bottom=False, labelbottom=False)
+
+        g.fig.set_size_inches(20, 8)  # jointplot creates its own figure, the size can only be changed afterwards
+        # g.fig.subplots_adjust(hspace=0.3) # optionally more space for the tick labels
+        g.fig.subplots_adjust(hspace=0.05, wspace=0.02)  # less spaced needed when there are no tick labels
+
+    plt.show()
