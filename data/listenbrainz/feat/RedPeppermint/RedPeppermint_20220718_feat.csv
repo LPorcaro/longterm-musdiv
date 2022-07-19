@@ -1,0 +1,52 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7vRia9rlEuTDQxkfXIKySi	Rex Orange County	It's Not The Same Anymore	USRC11902536	71	bedroom pop,pop	0.873	0.666	3.74e-05	0.0327	117.676	0.359	0.317
+7D0RhFcb3CrfPuTJ0obrod	Coldplay	Sparks	GBAYE0000569	84	permanent wave,pop	0.748	0.371	0.0517	0.0281	102.617	0.165	0.268
+7lMzNAybmy1UNPsgflbVcE	Tessa Violet,chloe moriondo	Words Ain't Enough	QM7282039902	42	alt z,indie pop	0.928	0.713	0.0106	0.0312	110.541	0.239	0.325
+7MB22jLCA12Ev7Jjp3e1aU	Hollywood Undead	Bullet	USUM71102095	66	alternative metal,modern rock,nu metal,rap metal,rap rock	0.179	0.681	0.0	0.121	184.975	0.889	0.833
+5v8aEcHcaJIGYpfVVPtJjI	The Neighbourhood	Wires	USSM11204648	70	modern alternative rock,modern rock,pop,shimmer pop	0.0004	0.568	0.102	0.0329	72.991	0.266	0.569
+3JOVTQ5h8HGFnDdp4VT3MP	Gary Jules,Michael Andrews	Mad World (Feat. Michael Andrews)	ushm90699796	66	neo mellow	0.976	0.345	0.000366	0.0374	174.117	0.304	0.0581
+7sgN9MAdqDkdFhA713ksKM	Anthony Amorim	Sad Forever	Ushm81913753	43	indie pop	0.556	0.793	0.0	0.397	163.927	0.655	0.416
+0haXiRi57j2xQo5a3WkzqV	Palaye Royale	Lonely	USYFZ2031305	67	modern alternative rock,modern rock,rock,vegas indie	0.0624	0.622	0.0	0.0561	147.965	0.483	0.619
+0WHi11uzahqpEtPGYCW6oQ	Alec Benjamin	If I Killed Someone For You	USAT21811723	72	alt z,dream smp,electropop,pop	0.774	0.514	2.91e-06	0.0337	120.894	0.409	0.605
+6BEKt5axiNeWCr9huv0k7I	Twenty One Pilots	Truce	USAT21203521	60	modern rock,rock	0.994	0.537	0.0471	0.0475	120.322	0.342	0.0231
+5lRzWDEe7UuedU2QPsFg0K	Band of Horses	The Funeral	USSUB0669004	71	indie pop,indie rock,modern rock,stomp and holler	0.016	0.319	0.0	0.0432	122.465	0.101	0.757
+6jJ8knqZ8CqETvZD6vZBkL	Nomy	Last forever	SEYOK1627549	48	swedish alternative rock	0.0838	0.651	0.0	0.0349	109.924	0.505	0.869
+3LBHGk14VYuYq3I5eAvN1h	Nomy	Heart Of Ice - Acoustic	SEYOK0996433	24	swedish alternative rock	0.576	0.642	0.0	0.0287	102.918	0.275	0.48
+78skeyA9ug13OSszEZwI82	Nomy	I have a problem	SEYOK1627548	37	swedish alternative rock	0.0713	0.426	0.0	0.0437	159.882	0.467	0.902
+16BgqWerHyCHwvDTfagHji	Nomy	Every time you fall	SEYOK1212474	25	swedish alternative rock	0.332	0.395	0.0	0.0303	175.316	0.406	0.625
+7qc7lN03Hh969Nu5UFnYa5	Nomy	Red Flags	SEYOK2100944	42	swedish alternative rock	0.00117	0.474	0.0	0.0804	92.54	0.325	0.971
+41hHU0LAGvqqcrrL8SJKJA	Nomy	The last of us	SEYOK2110313	43	swedish alternative rock	0.0343	0.492	0.0	0.0459	105.483	0.284	0.874
+56qRl4Bc91SiPfaGA0oCZ1	Nomy	Pack your drugs	SEYOK2216877	43	swedish alternative rock	0.00118	0.466	2.3e-05	0.0401	142.006	0.603	0.821
+5jJRNJHhos06UlAPXG1Kfw	Nomy	Chaos	SEYOK1413734	35	swedish alternative rock	0.00225	0.438	0.0	0.0583	170.248	0.203	0.737
+1sqC9kTzdx3kT3ekJPT37N	Nomy	Die maggots die	SEYOK1015480	29	swedish alternative rock	0.00871	0.457	2.92e-06	0.0616	138.039	0.231	0.847
+0eHAzqStHGHosbA9XtwDDA	Nomy	The Kids Aren't Alright	SEYOK1947322	43	swedish alternative rock	0.00019	0.355	0.0	0.0882	200.114	0.547	0.972
+6JD3AX8qnfHE7xZUu5hCEB	Nomy	Psychopath	SEYOK1413736	41	swedish alternative rock	0.000116	0.323	0.0	0.0534	176.968	0.467	0.876
+7xoyn8tpOpvRXSdJEO5XL3	Nomy	She Reminds Me Of You	SEYOK0932109	22	swedish alternative rock	0.768	0.31	8.01e-05	0.029	180.032	0.13	0.285
+3ZpY5XvpLQmmi467iXZ1PJ	Nomy	A dream for the weaker	SEYOK1117498	32	swedish alternative rock	0.0898	0.6	0.0	0.0341	139.98	0.363	0.753
+19E1rYYLfXKkDqksbvmvC0	Nomy	Goodbye Diane	SEYOK1429337	28	swedish alternative rock	0.121	0.547	0.0	0.0324	99.949	0.282	0.519
+3FCrOGjsk0n0gpkrDxfskA	Nomy	Los Angeles is burning	SEYOK1919196	28	swedish alternative rock	0.00342	0.367	0.0	0.0664	162.98	0.461	0.968
+62LUAnpbhnJjTW7BTVVw1L	Nomy	You Better Die Young	SEYOK0902510	50	swedish alternative rock	0.163	0.5	0.0	0.047	90.711	0.465	0.98
+3ZqhjFyrPWtPosXTBJPd7U	Nomy	Get a name	SEYOK1666155	29	swedish alternative rock	0.0203	0.544	1.41e-05	0.0274	86.017	0.342	0.686
+6gUsFmED0NsIroUez6WdDk	Nomy	I hate you Diane	SEYOK1413743	29	swedish alternative rock	0.0476	0.452	0.0	0.0293	159.974	0.32	0.599
+6RzSm5xrRz69sT1oDaAwDx	Nomy	Free fall	SEYOK1309634	31	swedish alternative rock	0.0109	0.387	0.0	0.037	165.187	0.232	0.818
+6MpCaSIOfqBqbMED4kXgNY	Beach Bunny	Prom Queen	QZDA71885746	79	bubblegrunge,chicago indie,indie pop	0.000391	0.528	0.011	0.0485	143.785	0.751	0.797
+6RksBSj5fFtPkUnL2EE0oe	Five Finger Death Punch	Darkness Settles In	USDPK1900084	63	alternative metal,groove metal,nu metal	0.00732	0.334	0.0	0.09	132.812	0.18	0.933
+73P5wYuZ1bsz0ZjsZiaSw2	Five Finger Death Punch	Gone Away	TCADH1751905	55	alternative metal,groove metal,nu metal	0.000377	0.502	4.53e-05	0.0406	106.047	0.3	0.738
+35aYLuIWeFd7iM7rY3x5GB	Five Finger Death Punch	Under and Over It	US5Z50900074	58	alternative metal,groove metal,nu metal	1.41e-05	0.468	0.0	0.179	75.978	0.094	0.996
+3lwpE0SEaQV5DWNjqMtYEk	Five Finger Death Punch,Kenny Wayne Shepherd,Brantley Gilbert,Brian May	Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)	US5Z51900001	57	alternative metal,groove metal,nu metal	0.0018	0.45	1.61e-05	0.0353	156.059	0.396	0.872
+163Kb2pSLLduhfbO6Zn0sL	Five Finger Death Punch	Inside Out	USDPK1900077	64	alternative metal,groove metal,nu metal	0.00191	0.476	0.0	0.15	82.997	0.202	0.991
+1LHZMWefF9502NPfArRfvP	Five Finger Death Punch	Lift Me Up (feat. Rob Halford of Judas Priest)	US5Z51300295	63	alternative metal,groove metal,nu metal	8.45e-05	0.508	0.0	0.165	75.018	0.174	0.988
+74EiM8EFm5saFo7Tgrdg3r	Five Finger Death Punch	Times Like These	USDPK2200061	65	alternative metal,groove metal,nu metal	0.0105	0.458	0.0	0.0659	73.956	0.6	0.936
+5nRBTzF9dLIlNqnl0xWo9g	Five Finger Death Punch	Wash It All Away	US5Z51500624	64	alternative metal,groove metal,nu metal	2.08e-05	0.485	0.0	0.0738	123.576	0.272	0.987
+6i0V12jOa3mr6uu4WYhUBr	Twenty One Pilots	Heathens	USAT21601930	81	modern rock,rock	0.0841	0.732	3.58e-05	0.0286	90.024	0.548	0.396
+3CRDbSIZ4r5MsZ0YwxuEkn	Twenty One Pilots	Stressed Out	USAT21500597	84	modern rock,rock	0.0462	0.734	2.29e-05	0.141	169.977	0.648	0.637
+4RdRa3qq0GBSKjomxrkh5K	Twenty One Pilots	Guns for Hands	USAT21202558	64	modern rock,rock	0.00694	0.684	0.000167	0.0342	129.963	0.518	0.858
+36tghkPg1AO4HsAzo6YpPp	Twenty One Pilots	House of Gold	USAT21203514	69	modern rock,rock	0.445	0.68	0.0	0.0435	114.948	0.851	0.693
+3bnVBN67NBEzedqQuWrpP4	Twenty One Pilots	Tear in My Heart	USAT21500390	75	modern rock,rock	0.0189	0.655	0.0	0.0489	120.113	0.447	0.632
+60dwJ8dnqZ4WrIdiu7LkNR	Twenty One Pilots	Saturday	USAT22101332	70	modern rock,rock	0.00396	0.687	0.000939	0.0344	113.06	0.854	0.89
+6xZ4Q2k2ompmDppyeESIY8	Twenty One Pilots	Level of Concern	USAT22002190	69	modern rock,rock	0.32	0.754	0.00015	0.0432	122.012	0.77	0.583
+5cbpoIu3YjoOwbBDGUEp3P	Twenty One Pilots	Car Radio	USAT21203515	71	modern rock,rock	0.098	0.766	0.0	0.0366	129.972	0.612	0.519
+2Z8WuEywRWYTKe1NybPQEW	Twenty One Pilots	Ride	USAT21500598	82	modern rock,rock	0.00835	0.645	0.0	0.0393	74.989	0.566	0.713
+2nG54Y4a3sH9YpfxMolOyi	Twenty One Pilots	Shy Away	USAT22101330	72	modern rock,rock	0.000818	0.588	0.0739	0.0316	96.966	0.635	0.856
+23OXdR7YuUBVWh5hSnYJau	Twenty One Pilots	Chlorine	USAT21810687	76	modern rock,rock	0.0735	0.609	0.06	0.0548	90.009	0.315	0.674
+3z06k8YF9CqX0CGFrlekOK	vaultboy	everything sucks	QZLBC2100155	77	pop	0.00772	0.76	0.0	0.0531	138.023	0.653	0.371

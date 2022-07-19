@@ -1,0 +1,89 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1BECwm5qkaBwlbfo4kpYx8	Panic! At The Disco	Death of a Bachelor	USAT21503696	71	modern rock	0.0137	0.462	0.0	0.059	139.256	0.405	0.538
+4PQdrXMDHDPl1RczrrlADd	Luan Santana	MORENA	BR27R2100001	72	arrocha,sertanejo,sertanejo pop,sertanejo universitario	0.18	0.526	0.0	0.0887	86.959	0.476	0.731
+23E53f3C9SJ9MqBh1f6hEw	Álvaro De Luna	Juramento eterno de sal	ES5152001096	67	spanish pop	0.0225	0.631	1.91e-06	0.0581	129.991	0.716	0.594
+6xGruZOHLs39ZbVccQTuPZ	Joji	Glimpse of Us	USWB12201789	99	alternative r&b,viral pop	0.891	0.44	4.78e-06	0.0531	169.914	0.268	0.317
+4PDJDIdWxNN1AlnbrKkoPf	Crawlers	Come Over (Again)	GB8MX2100935	67	indie pop,warrington indie	0.00393	0.498	0.0	0.0278	93.018	0.235	0.713
+3l3xTXsUXeWlkPqzMs7mPD	Boyz II Men	End Of The Road	USMO19200465	71	boy band,contemporary r&b,new jack swing,r&b,urban contemporary	0.0664	0.64	0.0	0.0241	149.703	0.529	0.427
+6ubPFMzlIg73d1jzzWcC8B	Cage The Elephant	Skin and Bones	USRC11803827	60	modern alternative rock,modern rock,punk blues,rock	0.0089	0.539	0.0	0.0396	159.986	0.357	0.788
+6hFwju6M40CKovKBPu5IpY	Jovem Dionisio	ACORDA PEDRINHO	BCDJT2200002	74	indie curitibano	0.187	0.876	1.71e-06	0.341	124.016	0.876	0.359
+2u1LLm7B1yUggZfMyaZjk9	X-Tense	Dama & Vagabundo	PT2DY2100060	49	hip hop tuga	0.786	0.764	0.0	0.0516	110.993	0.591	0.453
+4kVlsi7OSkvdzk8qA92Fyf	Carolina Deslandes	Por Um Triz	PTBM12100010	37	portuguese pop	0.921	0.284	5.6e-06	0.0349	179.055	0.201	0.196
+709F4UQ2uKplKvcD88xffa	Liu,Samantha Machado	Nave Espacial - Radio Edit	BXH5F1800007	60	brazilian edm	0.119	0.777	4.65e-06	0.0974	127.022	0.242	0.763
+6PLVLWG3bjuKrvMJmwjps1	Bárbara Tinoco	Antes Dela Dizer Que Sim	GBSMU6298848	49	portuguese pop	0.826	0.409	0.0	0.0787	180.386	0.521	0.329
+1iL2qN1fpyE9MxUhUUu0O4	Nena	Portas do Sol	PTBM12000152	55	portuguese pop	0.739	0.443	0.0	0.0349	98.663	0.335	0.29
+5zNxUkUW9WiV5oyg6gh2wB	PEDRO SAMPAIO,Mc Pedrinho	DANÇARINA	BRWMB2200077	84	funk carioca	0.0423	0.778	0.0	0.0788	134.999	0.554	0.571
+4RKnBQXe4hFIn4Sxt9prRU	X-Tense	22:22	TCADW1851416	43	hip hop tuga	0.587	0.843	0.233	0.0544	120.0	0.547	0.436
+07D6vTLFvEdH3ywkDoXBt7	Rastapimba	Cona Abençoada	QM42K2291418	43		0.567	0.94	0.0	0.334	124.087	0.239	0.496
+5D5YcH3dr3b53fi0F8cVsU	Crawlers	I Can't Drive	GBUM72201184	50	indie pop,warrington indie	0.0114	0.541	8.05e-05	0.0369	137.949	0.344	0.785
+07M8tCNuO9RZenyINtp2QB	Crawlers	Fuck Me (I Didn’t Know How To Say)	GBUM72202933	58	indie pop,warrington indie	0.0263	0.521	0.00122	0.0892	179.346	0.555	0.679
+60bPA1w1ExA6Dl4oyFPI49	Crawlers	Statues	GB8MX2100223	25	indie pop,warrington indie	0.000487	0.324	7.33e-06	0.109	155.964	0.332	0.975
+5yIL0XiAuj8HVbwz3oITHn	Crawlers	Hush	GB8MX2001021	44	indie pop,warrington indie	0.0673	0.619	1.19e-05	0.056	145.02	0.621	0.785
+3ReLRV4Z5A90uqEos4xDyJ	Capitão Fausto	Final	PTBM11800236	32	portuguese indie,portuguese indie rock,portuguese rock	0.781	0.602	5.19e-05	0.0319	126.995	0.179	0.287
+2DgdHcjWmO3qd50RzuBLgZ	Panic! At The Disco	House of Memories	USAT21503701	88	modern rock	0.00272	0.506	0.0	0.0335	109.952	0.506	0.817
+5CZ40GBx1sQ9agT82CLQCT	Olivia Rodrigo	traitor	USUG12101243	89	pop	0.691	0.38	0.0	0.0338	100.607	0.0849	0.339
+3ApAsbQP7d5GlFwwdExaTY	Glass Animals	Poplar St	GB2DY1600024	61	gauze pop,indietronica,shiver pop	0.247	0.575	0.00567	0.0296	68.985	0.259	0.446
+6Uj1ctrBOjOas8xZXGqKk4	Doja Cat	Woman	USRC12101532	92	dance pop,pop	0.0888	0.824	0.00294	0.0854	107.998	0.881	0.764
+19rBtPDO8yQj5uP75UBpbT	Chico da Tina	Nós Pimba	PTBM12100155	44	rap portuense	0.132	0.659	0.0	0.16	174.94	0.532	0.664
+7nXrYKFfGW25Nqw6cRQg6m	Bárbara Tinoco	Outras Línguas	PT8DW2000003	42	portuguese pop	0.742	0.684	5.1e-06	0.0288	101.996	0.517	0.492
+66rhnZizvTv2ufYpyHoWoW	Luan Santana	Chuva de Arroz - Ao Vivo	BRRGE1500702	57	arrocha,sertanejo,sertanejo pop,sertanejo universitario	0.657	0.59	0.000861	0.059	131.908	0.447	0.801
+5sICkBXVmaCQk5aISGR3x1	Metallica	Enter Sandman	GBF089190013	81	hard rock,metal,old school thrash,rock,thrash metal	0.00213	0.577	0.0114	0.0298	123.257	0.604	0.828
+0i4UV3HjjvsUuV3BajEXoD	MC Tairon,Mc Vitin Da Igrejinha,Dj Win	Baile no Morro	BX9L12200055	82	funk mtg	0.457	0.714	0.0	0.453	130.088	0.782	0.404
+0tu5F0rmLZYIdUMEvfRXAo	Álvaro De Luna	Juramento eterno de sal	ES5152001096	60	spanish pop	0.0225	0.631	1.91e-06	0.0581	129.991	0.716	0.594
+305WCRhhS10XUcH6AEwZk6	Jet	Are You Gonna Be My Girl	USEE10340526	76	alternative rock,modern rock,rock	0.00148	0.613	0.000582	0.0855	105.046	0.537	0.953
+0gmbgwZ8iqyMPmXefof8Yf	Nickelback	How You Remind Me	NLA320119533	79	alternative metal,canadian rock,nu metal,post-grunge	0.00135	0.446	0.0	0.033	172.094	0.543	0.764
+67q0QsfLcTa2SqhP2wQbia	Guns N' Roses	Used To Love Her	USGF18819806	60	glam metal,hard rock,rock	0.464	0.615	2.44e-05	0.0331	135.46	0.909	0.902
+2UMi9GftUPvOovLZadbEto	Glen Campbell and The Wrecking Crew	I'm Not Gonna Miss You	USCJY1525009	16		0.442	0.581	0.000367	0.029	126.981	0.046	0.388
+21hbZ0yllYOoXEbiFDYMSI	Anarbor	18	USHR21254004	68	modern rock,neon pop punk,pop emo,pop punk,rock	0.0603	0.724	0.0	0.0997	98.056	0.88	0.854
+1PXsUXSM3LF2XNSkmIldPb	The Black Keys	Little Black Submarines	USNO11100276	66	alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock	0.161	0.365	6.68e-06	0.0418	95.163	0.487	0.466
+5z6xHjCZr7a7AIcy8sPBKy	Alien Ant Farm	Smooth Criminal	USDW10022224	76	alternative metal,alternative rock,funk metal,nu metal,post-grunge,rap rock,rock	0.00316	0.653	0.00512	0.0582	126.928	0.87	0.964
+0upLyFR8Rr52ZpMp5esQoq	Van Halen	You Really Got Me - 2015 Remaster	USWB11403670	69	album rock,classic rock,hard rock,metal,rock	0.0223	0.454	0.0	0.13	138.18	0.647	0.946
+69uKYDeTWn1wFssqP6OZjb	Luan Santana	Escreve Aí - Ao Vivo	BRRGE1500602	51	arrocha,sertanejo,sertanejo pop,sertanejo universitario	0.847	0.445	0.0	0.0457	75.946	0.357	0.476
+1bKHAQPAMYCTLSPc0pqFZC	Karetus	Bella Ciao	USUG11802062	33	hip hop tuga,portuguese pop	0.00484	0.664	0.0291	0.0648	141.018	0.151	0.909
+0nLiqZ6A27jJri2VCalIUs	Metallica	Nothing Else Matters	GBF089190020	80	hard rock,metal,old school thrash,rock,thrash metal	0.0458	0.553	6.01e-06	0.0263	142.352	0.158	0.362
+4LKUWvk6kQDJSTkxP6TUYN	Jimmy Webb	Wichita Lineman	USGU19600064	25	singer-songwriter	0.944	0.423	0.0963	0.0344	140.214	0.196	0.218
+74irxdVWstNlEQjsvArITq	Aerosmith	Crazy	USIR10000428	75	album rock,classic rock,hard rock,rock	0.0868	0.37	0.0	0.0384	162.086	0.427	0.866
+7BELSQR2lAJLELaKvVkct3	Ivandro	Lua	PT9GN2200001	64	trap tuga	0.843	0.629	0.000107	0.0854	152.088	0.35	0.348
+3q3EBdrTrlF4PmJQTZ17ie	Calema,Zé Felipe	Onde Anda	PT0GP2200100	64	musica santomense,portuguese pop	0.261	0.683	0.0	0.295	99.913	0.561	0.66
+4NJKCE1TBC653P3dCnto0u	Mc Gabzin	Simplesmente Ela	BCHFD2200013	81	funk mtg	0.227	0.572	0.0	0.083	83.04	0.545	0.616
+75FEaRjZTKLhTrFGsfMUXR	Kate Bush	Running Up That Hill (A Deal With God)	GBCNR8500002	97	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter,uk pop	0.72	0.629	0.00314	0.055	108.375	0.197	0.547
+7qD2vjd3btuOgwpQPEY7ci	Mc Don Juan,MC G15,Mc Davi	EU VOU COM CARINHO ELA QUER COM FORÇA	BRWMB2200536	84	arrocha,batidao romantico,funk carioca,funk paulista	0.353	0.82	1.69e-05	0.0485	129.854	0.209	0.28
+4Dvkj6JhhA12EX05fT7y2e	Harry Styles	As It Was	USSM12200612	94	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+7ARoqP7G8UYW8SyYPyPp7k	Anitta,PEDRO SAMPAIO	NO CHÃO NOVINHA	BRWMB2101163	74	funk carioca,funk pop,pagode baiano,pop nacional	0.06	0.703	0.00661	0.0594	141.984	0.704	0.806
+02MWAaffLxlfxAUY7c5dvx	Glass Animals	Heat Waves	GBUM72000433	91	gauze pop,indietronica,shiver pop	0.44	0.761	6.7e-06	0.0944	80.87	0.531	0.525
+7afaZ37wJJL6880z1NRgJS	Teto	Fim de Semana no Rio	BXW922200001	82	trap baiano	0.118	0.867	0.0	0.084	118.868	0.29	0.494
+3FkeNbs9Zeiqkr3WkbOiGp	Anitta	Envolver	USWL12100576	78	funk carioca,funk pop,pagode baiano,pop nacional	0.152	0.812	0.00254	0.0833	91.993	0.396	0.736
+3gK5ckT0cq3t5enyqzzRgV	PEDRO SAMPAIO	GALOPA	BRWMB2100721	68	funk carioca	0.285	0.763	0.0	0.0409	150.009	0.77	0.85
+5bBQI31u2eqXJE5OyP4hxq	Mizzy Miles,Deejay Telio,Teto,Gson	EUROPA (feat. Gson)	PT6I22000001	63	hip hop tuga	0.0701	0.794	0.0	0.0991	98.05	0.183	0.619
+0NBgyml7T0IvUNbXIkcSpH	Xamã,Gustah,Neo Beats	Malvadão 3	QZNJZ2122225	82	brazilian hip hop,funk carioca,trap brasileiro	0.378	0.821	0.0	0.268	133.133	0.516	0.609
+5vC8UAOHeG95ehRzZChniB	L7NNON,DJ Biel do Furduncinho,Bianca	Ai Preto	BR5TG2200019	82	pop rap brasileiro	0.537	0.953	0.0	0.245	129.947	0.834	0.57
+75fCsUnTiDelE4HMd06t4O	Mc Pepeu,DJ Swat	Gostosinho Tu Cai	BCHFD2200027	81	funk bh,funk mtg	0.902	0.739	0.00284	0.0481	130.039	0.505	0.414
+5fjD0vHh9XRL6b657FWe9C	Plutonio	Por Enquanto	PT9EV2200015	55	hip hop tuga	0.492	0.696	0.000726	0.0666	97.907	0.699	0.708
+2DB4DdfCFMw1iaR6JaR03a	Camila Cabello,Ed Sheeran	Bam Bam (feat. Ed Sheeran)	USSM12200047	85	dance pop,pop,post-teen pop,uk pop	0.182	0.756	0.0	0.0401	94.996	0.956	0.697
+4aoZBldNDVYmTwmeoI49ud	Mc Gabzin,DJ TAK VADIÃO,dj sv	O Poder Dessa Garota	BCHFD2200039	75	funk mtg	0.686	0.763	0.0	0.0767	86.585	0.788	0.474
+4a0sqvCBo7aRIS4GzBQpnp	MC Braz,MC Tairon,Dj Win	Kikando e Me Olhando	BX9L12200053	83	funk bh,funk carioca,funk mtg	0.637	0.742	0.0	0.28	85.974	0.842	0.439
+53ICqRSyTfhrrvNwVSP6am	Shouse,Vintage Culture,Kiko Franco	Love Tonight - Vintage Culture & Kiko Franco Remix Edit	USA2P2107934	64	aussietronica,pop dance	0.00019	0.487	0.0319	0.0392	122.917	0.0345	0.708
+29bhnde7Gvnp7rvY9zsq5S	Go_A	SHUM	QM4TX2159313	68	eurovision	0.05	0.527	7.89e-05	0.0638	117.657	0.503	0.736
+6oU1laYQpctVOofGMSY43O	Guns N' Roses	Whole Lotta Rosie - Live At The Marquee Club, London / 1987	USUM71804246	35	glam metal,hard rock,rock	0.00606	0.131	0.691	0.0837	186.572	0.137	0.977
+0oA9wBGDY4uyILLg4GymWP	AnnenMayKantereit,Giant Rooks	Tom's Diner	DEUM71903009	83	cologne indie,german singer-songwriter	0.376	0.68	0.000344	0.135	98.222	0.334	0.428
+3I0w0pdn5s2W44gGmBxsa0	Capitão Fausto	Amanhã Tou Melhor	PTBM11600063	45	portuguese indie,portuguese indie rock,portuguese rock	0.206	0.648	0.0	0.0271	124.128	0.884	0.675
+5pUTV6IjzbGi0ukxaxJrFa	Nenny	Sushi	TCAED1905710	41	hip hop tuga,trap tuga	0.428	0.889	0.0	0.291	120.065	0.778	0.588
+3590AAEoqH50z4UmhMIY85	Måneskin	Torna a casa	ITB001800483	70	indie rock italiano,italian pop	0.426	0.425	0.0	0.0759	81.396	0.45	0.638
+3IEzreL1rgY1oIYQJJSJcy	Madredeus	Haja o que houver	PTEM19700115	43	fado	0.961	0.478	0.348	0.0306	130.433	0.193	0.266
+0E0OENqh3jaZ4VpDFTOLGj	Mc Delux,DJ ABDO	EU BEM QUE TE AVISEI - TU EMPINOU ELE PEI	BC1U32200031	79	funk carioca,funk mandelao,funk mtg	0.411	0.955	0.00731	0.382	129.962	0.495	0.659
+7ef4DlsgrMEH11cDZd32M6	Calvin Harris,Dua Lipa	One Kiss (with Dua Lipa)	GBARL1800368	91	dance pop,edm,electro house,house,pop,progressive house,uk dance	0.037	0.791	2.19e-05	0.11	123.994	0.592	0.862
+3sd2p4kE7xQmFH3lPnFl6h	Davi Kneip,Mc Frog,Dj Gabriel do Borel,Luísa Sonza	sentaDONA (Remix) s2	BXVK62200004	83	funk bh,funk carioca,funk consciente,funk mtg	0.252	0.925	4.19e-06	0.273	135.02	0.771	0.454
+6JIC3hbC28JZKZ8AlAqX8h	Elton John,Dua Lipa,PNAU	Cold Heart - PNAU Remix	GBUM72104705	85	glam rock,mellow gold,piano rock	0.0354	0.795	7.25e-05	0.0309	116.032	0.934	0.8
+0O6u0VJ46W86TxN9wgyqDj	Post Malone,Doja Cat	I Like You (A Happier Song) (with Doja Cat)	USUM72208023	92	dfw rap,melodic rap,rap	0.121	0.733	0.0	0.0751	100.964	0.472	0.67
+4SIBZgMomGFnrIWjmq7Np8	L7NNON,Os Hawaianos,DJ Bel da CDD,DJ Biel do Furduncinho	Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)	BR5TG2200015	80	pop rap brasileiro	0.275	0.93	0.0	0.409	129.967	0.95	0.673
+5TMLavqGRKNxgzMBrVpC9R	zzoilo,Aitana	Mon Amour - Remix	ES5702101693	86		0.122	0.748	6.56e-06	0.102	116.041	0.362	0.761
+32vE1nuG8T9c8bhmZdRY6d	Post Malone,Roddy Ricch	Cooped Up (with Roddy Ricch)	USUM72208020	82	dfw rap,melodic rap,rap	0.038	0.669	0.0	0.153	93.923	0.377	0.773
+6bTdZ7xfKp3NqqADJ8HLyj	Matuê,WIU,Teto	Vampiro	BXW922100034	84	r&b brasileiro,rap cearense,trap brasileiro	0.0136	0.782	0.0	0.0438	114.994	0.627	0.643
+6SRsiMl7w1USE4mFqrOhHC	Olivia Rodrigo	brutal	USUG12101242	82	pop	0.0311	0.672	1.37e-06	0.0599	123.999	0.28	0.526
+48UPSzbZjgc449aqz8bxox	Red Hot Chili Peppers	Californication	USWB19900690	82	alternative rock,funk metal,funk rock,permanent wave	0.0021	0.592	0.00165	0.027	96.483	0.328	0.767
+5gb9UJkh8TfrNMRYOJNbew	The All-American Rejects	Gives You Hell	USUM70837368	70	modern rock,pop punk,pop rock,rock	0.0159	0.718	0.0	0.0387	100.008	0.552	0.691
+0snQkGI5qnAmohLE7jTsTn	System Of A Down	Toxicity	USSM10107262	80	alternative metal,nu metal,rap metal,rock	0.000264	0.413	0.00249	0.0536	116.68	0.48	0.873
+1KuVdyg8d6NlRhbpHxg5UF	Cage The Elephant	Social Cues	USRC11803824	66	modern alternative rock,modern rock,punk blues,rock	0.0119	0.668	6.7e-06	0.0348	132.039	0.933	0.913
+2OvPnVko8rF2BbuysXV9AX	Capitão Fausto	Amor, a Nossa Vida	PTBM11800233	39	portuguese indie,portuguese indie rock,portuguese rock	0.73	0.605	0.00379	0.0244	148.106	0.318	0.406
+2l7V3AuTxGuswKjGovaSEv	Måneskin	LA PAURA DEL BUIO	ITB002100118	66	indie rock italiano,italian pop	0.00537	0.376	8e-06	0.0464	96.176	0.408	0.846
+3Vi5XqYrmQgOYBajMWSvCi	Doja Cat	Need to Know	USRC12101120	87	dance pop,pop	0.304	0.664	0.0	0.0707	130.041	0.194	0.609

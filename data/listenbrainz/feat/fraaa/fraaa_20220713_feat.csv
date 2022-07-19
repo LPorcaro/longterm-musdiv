@@ -1,0 +1,80 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+2710Atka855GOO4p6CFQAV	The Commitments	Land Of A Thousand Dances	USMC19237636	30		0.0167	0.471	0.00726	0.306	166.418	0.556	0.95
+45Nc6nYgV3yBvAeRaZt689	Doja Cat	Alone	USRC12101542	66	dance pop,pop	0.543	0.691	1.22e-05	0.172	169.973	0.746	0.656
+2DB4DdfCFMw1iaR6JaR03a	Camila Cabello,Ed Sheeran	Bam Bam (feat. Ed Sheeran)	USSM12200047	85	dance pop,pop,post-teen pop,uk pop	0.182	0.756	0.0	0.0401	94.996	0.956	0.697
+5NjfO70bhIyNOOFBcXb6ql	Maximillian	On My Mind	DKUM71900379	61	gen z singer-songwriter,pop,uk pop	0.03	0.758	0.0	0.0601	98.46	0.555	0.48
+6oNJqGeekJO8rADd2Mktvi	BLOODY VINYL,Slait,thasup,Mara Sattei,Coez	ALTALENE (feat. Mara Sattei & Coez)	ITB002000446	60	italian hip hop,trap italiana	0.108	0.647	0.0	0.098	139.693	0.342	0.692
+4y5bvROuBDPr5fuwXbIBZR	Taylor Swift	Paper Rings	USUG11901478	82	pop	0.0129	0.811	1.36e-05	0.0497	103.979	0.865	0.719
+3je88Q4OvTqIx7BFRFYvRA	PRETTYMUCH	Phases	GBHMU1900019	68	boy band,dance pop,pop,post-teen pop	0.169	0.77	0.0	0.131	105.93	0.492	0.636
+6L671UzJPyAzbHEhaNhDUJ	Irama	Crepe	ITQ002000403	59	italian adult pop,italian pop	0.122	0.698	0.0	0.0447	101.981	0.562	0.886
+1TrjxEcRPHvaLF3saKCSs4	ANNA	Drippin' in Milano	ITUM72100880	62	italian hip hop	0.0964	0.841	0.0	0.199	93.032	0.496	0.772
+0I0b7uTFfHhBz5bMkSDouF	Fedez,Tananai,Mara Sattei	LA DOLCE VITA	ITB002200500	81	italian pop	0.0124	0.737	0.0	0.0527	144.991	0.919	0.858
+5quFr5s5PXYfUX5jV2EBZ1	Jay Park,IU	GANADARA (Feat. IU)	KRMIM2207303	71	k-pop,k-rap,korean r&b	0.196	0.492	0.0	0.244	90.081	0.458	0.615
+2OMafyICAkBgwoRu45nLDY	Fedez	VITTORIA	ITB002100567	47	italian pop	0.0496	0.417	0.0	0.298	159.875	0.323	0.834
+7mFj0LlWtEJaEigguaWqYh	Megan Thee Stallion,Dua Lipa	Sweetest Pie	QMCE32200232	87	dance pop,houston rap,pop,trap queen	0.167	0.814	0.0	0.221	123.977	0.677	0.628
+10SRMwb9EuVS1K9rYsBfHQ	BTS	Yet To Come	USA2P2226300	93	k-pop,k-pop boy group	0.0432	0.559	0.0	0.189	172.029	0.683	0.885
+50nfwKoDiSYg8zOCREWAm5	Ed Sheeran	Shivers	GBAHS2100671	90	pop,uk pop	0.281	0.788	0.0	0.0856	141.02	0.822	0.859
+0e8nrvls4Qqv5Rfa2UhqmO	Lil Nas X	THATS WHAT I WANT	USSM12105732	90	lgbtq+ hip hop,pop	0.00614	0.737	0.0	0.22	87.981	0.546	0.846
+1rDQ4oMwGJI7B4tovsBOxc	Jack Harlow	First Class	USAT22203024	92	deep underground hip hop,kentucky hip hop,rap	0.0254	0.905	9.71e-06	0.102	106.998	0.324	0.563
+1PckUlxKqWQs3RlWXVBLw3	Lizzo	About Damn Time	USAT22202139	95	dance pop,escape room,minnesota hip hop,pop,trap queen	0.0995	0.836	0.0	0.0656	108.966	0.722	0.743
+2789yGHWVZkV25UMiAmlzi	Spotify	È lunedì		0	
+0ZeGfEAL5Rl4pd5LZBGuEK	Hwa Sa	Maria	KRA382002246	73	k-pop,korean mask singer	0.238	0.658	2.03e-06	0.0634	128.909	0.442	0.749
+4r34Yi0eltsu1tp6z4lq3x	JEON SOMI	XOXO	KSA002100900	65	k-pop	0.0717	0.704	0.0	0.0314	144.959	0.527	0.608
+5oH4DQAuu1J1800RzUsBWa	PSY,SUGA	That That (prod. & feat. SUGA of BTS)	QZEKE2084402	85	k-pop,k-rap,korean old school hip hop	0.0299	0.905	0.0	0.0856	129.969	0.906	0.962
+5dPz35akJjPqb17yeqNwqH	Justin Bieber	Ghost	USUM72102635	84	canadian pop,pop	0.178	0.604	3.49e-05	0.0475	153.947	0.473	0.741
+0QBzMgT7NIeoCYy3sJCof1	Camila Cabello,Ed Sheeran	Bam Bam (feat. Ed Sheeran)	USSM12200047	91	dance pop,pop,post-teen pop,uk pop	0.182	0.756	0.0	0.0401	94.996	0.956	0.697
+1qEmFfgcLObUfQm0j1W2CK	Harry Styles	Late Night Talking	USSM12200610	94	pop	0.298	0.714	0.0	0.0468	114.996	0.901	0.728
+3NfxSdJnVdon1axzloJgba	Aretha Franklin	I Say a Little Prayer	USAT20801207	74	classic soul,jazz blues,memphis soul,soul,southern soul	0.478	0.592	0.0	0.0352	133.032	0.499	0.355
+7Bk0uXKk1uPT0XuQbpFzvs	Los Legendarios,Wisin,Jhay Cortez	Fiel	QM4TW2136314	77	reggaeton,reggaeton flow,trap latino	0.407	0.849	0.0	0.06	98.005	0.505	0.701
+7FlQk2gJ6TBrHHiidvdR2O	Becky G,KAROL G	MAMIII	USRC12200425	82	latin,latin viral pop,rap latina,reggaeton	0.0845	0.836	0.0	0.0657	94.048	0.902	0.703
+0dKg2vGC1hFqcK5LGTaKzX	KAROL G,Nicki Minaj	Tusa	USUM71921183	72	latin,reggaeton,reggaeton colombiano	0.309	0.799	7.36e-05	0.282	100.946	0.607	0.701
+3FkeNbs9Zeiqkr3WkbOiGp	Anitta	Envolver	USWL12100576	78	funk carioca,funk pop,pagode baiano,pop nacional	0.152	0.812	0.00254	0.0833	91.993	0.396	0.736
+0mBP9X2gPCuapvpZ7TGDk3	Charlie Puth,BTS,Jung Kook	Left and Right (Feat. Jung Kook of BTS)	USAT22205563	94	dance pop,pop,viral pop	0.619	0.881	1.32e-05	0.0324	101.058	0.719	0.592
+695AOnYHYnvHIMaTNKjkA5	Thegiornalisti	Felicità puttana	ITB261800220	61	italian adult pop,italian indie pop,italian pop,rome indie	0.00763	0.692	1.89e-05	0.127	93.975	0.686	0.856
+1v71LKD93imwKLGEVdajW5	Danna Paola	Contigo	MXUM72004969	52	latin,latin pop,latin viral pop,mexican pop,pop	0.532	0.728	0.0	0.173	170.135	0.634	0.665
+35mvY5S1H3J2QZyna3TFe0	Ariana Grande	positions	USUM72019412	85	dance pop,pop	0.468	0.737	0.0	0.0878	144.015	0.682	0.802
+6HU7h9RYOaPRFeh0R3UeAr	Olivia Rodrigo	deja vu	USUG12101240	88	pop	0.584	0.442	5.7e-06	0.112	180.917	0.178	0.612
+6qlcjGJPTZEwR8nf2nSe9C	5 Seconds of Summer	Wildflower	USUG12000296	64	boy band,dance pop,pop,post-teen pop,uk pop	0.174	0.644	0.0	0.0455	108.992	0.598	0.768
+1PWOkqMORYdGa0OEh2GaXM	BLANCO	Notti In Bianco	ITUM72000788	71	italian pop	0.359	0.599	0.0	0.0422	75.004	0.693	0.79
+1w7ID6DNVqWTkFigG5bHgE	Gianni Morandi	Occhi di ragazza	ITB007000915	39	classic italian pop,italian adult pop	0.448	0.446	0.0	0.053	101.772	0.887	0.735
+4yyX2Iu4xJjW9xMvBZKSBi	Demi Lovato,Ariana Grande	Met Him Last Night (feat. Ariana Grande)	USUM72103751	60	dance pop,pop,post-teen pop,uk pop	0.22	0.538	0.0	0.0262	144.978	0.12	0.512
+32BeYxKPrig1LefHsC0Xuo	Billie Eilish	Happier Than Ever - Edit	USUM72116908	83	art pop,electropop,pop	0.0468	0.334	0.000392	0.0365	161.74	0.127	0.599
+5KkcthkQDnlhQN0WhO8DsM	Elodie	Bagno a mezzanotte	ITUM72200289	77	italian adult pop,italian pop	0.0986	0.81	0.0	0.0544	107.993	0.317	0.734
+7muTXW7kGytN3zdomku6FV	SUNMI	TAIL	KRMIM2105074	63	k-pop	0.0435	0.515	1.8e-05	0.19	125.07	0.428	0.858
+0Ryd8975WihbObpp5cPW1t	Ariana Grande,Social House	boyfriend (with Social House)	USUG11902591	79	dance pop,pop	0.119	0.4	0.0	0.461	190.097	0.702	0.795
+5zFglKYiknIxks8geR8rcL	Maroon 5,Megan Thee Stallion	Beautiful Mistakes (feat. Megan Thee Stallion)	USUM72103449	83	pop	0.0377	0.713	0.0	0.027	99.048	0.721	0.676
+3DXncPQOG4VBw3QHh3S817	DJ Khaled,Justin Bieber,Quavo,Chance the Rapper,Lil Wayne	I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)	USSM11703300	73	dance pop,dirty south rap,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap	0.0552	0.609	0.0	0.0367	80.924	0.811	0.668
+3vySEUpD0tc801F2WZDLYw	Tyga,Doja Cat	Freaky Deaky	USUYG1414608	82	dance pop,hip hop,pop,pop rap,rap,southern hip hop,trap	0.019	0.799	0.0	0.037	104.019	0.236	0.653
+6IPNp9PfaEqrzotY47TIWy	DJ Snake,Ozuna,Megan Thee Stallion,LISA	SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)	USUG12103119	78	dance pop,edm,electronic trap,pop,pop dance,pop rap	0.00406	0.8	0.00313	0.0491	100.015	0.702	0.837
+5JCoSi02qi3jJeHdZXMmR8	Olivia Rodrigo	favorite crime	USUG12101249	85	pop	0.866	0.369	0.0	0.0364	172.929	0.218	0.272
+20R4HfKloPKgXDqU7UKk3x	Billie Eilish	Therefore I Am	USUM72021500	73	art pop,electropop,pop	0.227	0.879	0.135	0.0924	94.016	0.663	0.365
+1nltpRhEiXikwDlVn4UADk	Post Malone,The Weeknd	One Right Now (with The Weeknd)	USUM72120404	78	dfw rap,melodic rap,rap	0.0363	0.682	0.0	0.0477	97.023	0.701	0.764
+60ynsPSSKe6O3sfwRnIBRf	Doja Cat	Streets	USRC11903460	84	dance pop,pop	0.21	0.749	0.0382	0.0842	90.035	0.189	0.463
+3QPBocWfIcOCdFFvmqn60F	Ariana Grande,Kid Cudi	Just Look Up (From Don’t Look Up)	USUM72121498	70	dance pop,pop	0.216	0.566	0.0	0.043	130.043	0.152	0.581
+1qrpoAMXodY6895hGKoUpA	Taylor Swift	You Belong With Me (Taylor’s Version)	USUG12100622	78	pop	0.0623	0.632	0.0	0.0346	130.033	0.474	0.773
+48QmG1dfvMuYLxMPt7KSRA	Sean Paul,Dua Lipa	No Lie	GBUM71604557	84	dance pop,dancehall,pop,pop rap	0.0466	0.742	0.0	0.117	102.04	0.463	0.882
+6VrLYoQKdhu1Jruei06t65	The Vamps	Somebody To You	GBUM71401330	78	boy band,dance pop,pop,post-teen pop,uk pop	0.0587	0.526	0.0	0.0358	171.96	0.896	0.818
+0ClPIeT6MSgfSgQ9ZrJbAq	Charlie Puth	Cheating on You	USAT21904902	78	dance pop,pop,viral pop	0.0131	0.749	3.65e-05	0.0336	123.042	0.601	0.535
+5lAnYvAIkSDNXqfo7DyFUm	Doja Cat	Ain't Shit	USRC12101540	83	dance pop,pop	0.506	0.855	0.0	0.208	124.097	0.619	0.488
+6I3mqTwhRpn34SLVafSH7G	Justin Bieber	Ghost	USUM72102635	90	canadian pop,pop	0.185	0.601	2.91e-05	0.0478	153.96	0.441	0.741
+3jjujdWJ72nww5eGnfs2E7	Harry Styles	Adore You	USSM11912588	86	pop	0.0237	0.676	7e-06	0.0483	99.048	0.569	0.771
+1u8c2t2Cy7UBoG4ArRcF5g	Taylor Swift	Blank Space	USCJY1431309	84	pop	0.103	0.76	0.0	0.054	95.997	0.57	0.703
+2tGvwE8GcFKwNdAXMnlbfl	Olivia Rodrigo	happier	USUG12101247	86	pop	0.765	0.395	9.67e-06	0.133	168.924	0.338	0.443
+0FFsgUoFibYISzMxuGS61W	Doja Cat,Ariana Grande	I Don't Do Drugs (feat. Ariana Grande)	USRC12101536	74	dance pop,pop	0.222	0.683	8.25e-06	0.0966	77.014	0.45	0.615
+2sQH02O2HBCPJCztBrCWNa	Ariana Grande,Doja Cat,Megan Thee Stallion	34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix	USUM72024483	69	dance pop,pop	0.211	0.659	0.0	0.434	109.957	0.704	0.662
+6UelLqGlWMcVH1E5c4H7lY	Harry Styles	Watermelon Sugar	USSM11912587	91	pop	0.122	0.548	0.0	0.0465	95.39	0.557	0.816
+31lykOG0uw7NXlW2SqV9GK	Fedez,Crookers,M¥SS KETA,Dargen D'Amico	LA CASSA SPINGE 2021 – with Crookers, M¥SS KETA, Dargen D'Amico	ITB002100655	54	italian pop	0.0178	0.858	3.9e-05	0.251	127.979	0.729	0.883
+3Xhl7OqWAFgVxQKrWhyVVO	Guè,Rose Villain,Luchè	Chico (feat. Rose Villain & Luchè)	ITUM72000273	62	italian hip hop	0.164	0.778	0.0	0.0531	144.953	0.637	0.819
+5YPKiDLejR1JhnX6w2lhro	Carl Brave,Mara Sattei,thasup	Spigoli (feat. Mara Sattei & thasup)	ITUM72000490	54	italian adult pop,italian indie pop,italian pop,rap napoletano,rome indie	0.148	0.722	0.0	0.0481	132.982	0.693	0.706
+1ktyKCzfI8hooCJP3X2yP5	yungest Moonstar,Neffa,thasup	uNa DiReZioNe giUsTa	ITL7B2100005	65	italian hip hop	0.303	0.409	0.0	0.212	196.426	0.523	0.647
+52e9HFHtUOfHTET6IrcWUy	Marracash	IO	ITUM72101359	59	italian hip hop,italian underground hip hop,rap napoletano	0.408	0.733	0.0	0.04	120.005	0.309	0.595
+3uaQK6iP56b0oVzFWUO6mn	ANNA	GASOLINA	ITUM72200876	74	italian hip hop	0.0695	0.713	3.95e-06	0.0423	130.139	0.691	0.862
+3NbehQmQsyuN17EP7dW5mJ	Sick Luke,thasup,Sfera Ebbasta	SOLITE PARE (feat. thasup & Sfera Ebbasta)	ITB262101210	70	italian hip hop,trap italiana	0.282	0.66	0.0	0.0537	111.071	0.556	0.79
+4HpqJZ9YSAaVsmfNGAyl9w	Rkomi	PARTIRE DA TE	ITUM72100201	68	italian hip hop	0.222	0.656	0.0	0.0437	95.009	0.699	0.796
+3QdtpN3K8s2aDsX6o10KZK	Fedez,Tedua	SAPORE – with Tedua	ITB002100568	67	italian pop	0.061	0.76	2.8e-06	0.113	125.041	0.482	0.692
+1eDC4NiUYgQSKpKDIvXxi4	Ernia,Pinguini Tattici Nucleari	Ferma A Guardare (feat. Pinguini Tattici Nucleari)	ITUM72001402	68	italian hip hop,italian pop,milan indie	0.445	0.585	0.0	0.0967	162.05	0.547	0.724
+63mdY4U0KvnbMkUEc7FHN8	ARIETE	L'ultima notte	ITLGE2100040	67	italian indie pop,rome indie	0.268	0.618	0.0	0.0446	94.037	0.398	0.687
+4EC028SvtlC25iHQSG2OIa	Rhove	Shakerando	ITDJ72100030	81	italian hip hop,trap italiana	0.764	0.855	0.00708	0.191	135.009	0.469	0.805
+6oYcyS6salzWI1ysjEScFh	Rkomi,Elodie	LA CODA DEL DIAVOLO (con ELODIE)	ITUM72101571	78	italian hip hop	0.132	0.481	7.77e-06	0.356	128.777	0.549	0.748
+5dsz7MTrNdN9aMTrnp7sOG	Marracash	CRUDELIA - I nervi	ITUM71901148	66	italian hip hop,italian underground hip hop,rap napoletano	0.149	0.547	0.0	0.102	82.178	0.0702	0.554
+0Dz9zyx2w3zYtRK6yp3VKD	Tananai	SESSO OCCASIONALE	ITUM72200042	70		0.00725	0.647	0.0	0.0654	130.007	0.659	0.857

@@ -1,0 +1,41 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+74fQgHleHZ4V7Gm1XYcGkj	Sonder	One Night Only	QM24S1801024	66	r&b	0.263	0.874	0.00094	0.0691	119.99	0.764	0.402
+4gHnSNHs8RyVukKoWdS99f	Nirvana	Something In The Way	USGF19942512	78	alternative rock,grunge,permanent wave,rock	0.745	0.427	0.263	0.0317	105.218	0.0668	0.201
+7jmTA4qUoE3powcTpw3dvF	Cozz,J. Cole	Zendaya (feat. J. Cole)	USUM71801293	61	underground hip hop	0.171	0.605	0.0	0.385	158.274	0.542	0.887
+1yHmbFm61m6aGqemhyOv5T	redveil	Campbell	QZK6N2055184	58	hip hop,indie hip hop,rap	0.0161	0.28	0.0	0.0585	93.954	0.52	0.89
+2uwnP6tZVVmTovzX5ELooy	J. Cole,Miguel	Power Trip (feat. Miguel)	USQX91300310	77	conscious hip hop,hip hop,north carolina hip hop,rap	0.324	0.667	0.000198	0.216	99.992	0.475	0.608
+4RnvS1tmh1ERhjXX6dxv95	Paperboy Fabe,Brent Faiyaz	Language	QM24S1701038	69	r&b	0.0422	0.62	0.0075	0.0887	169.904	0.77	0.721
+1eUGmzzvahJjOSWgDHuRlv	Miguel	Girl With The Tattoo Enter.lewd	USJI11000245	74	dance pop,pop,r&b,urban contemporary	0.856	0.372	0.000175	0.0296	113.451	0.127	0.239
+0kqWdi9oHVO1KcjFjNCBL2	Montell Fish	Talk 2 Me	QZK6Q2113719	67	pittsburgh rap,pop	0.816	0.464	3.67e-06	0.0647	103.176	0.181	0.126
+2JuasWPUodaUxf5nwNpciQ	Alice In Chains	Nutshell	USSM10025671	70	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.373	0.384	0.253	0.0296	136.136	0.159	0.561
+62d6YXEYxmMWAuLpw1EysL	Giveon	Garden Kisses	QM24S1824891	65	pop,r&b	0.915	0.478	6.36e-06	0.0317	120.129	0.354	0.373
+1c2wTe7doRRk2n1XZe0KAM	Sonder	Lovely	QM24S1700177	54	r&b	0.581	0.506	0.000534	0.0468	144.015	0.133	0.503
+3a3dQOO19moXPeTt2PomoT	Sonder	What You Heard	US23A1501167	72	r&b	0.546	0.429	5.71e-06	0.0327	137.134	0.135	0.371
+6VFKuuqSbA1GpMEosUgTwQ	Sonder,Jorja Smith	Nobody But You	QZLBC2100043	71	r&b	0.742	0.637	0.0	0.0366	83.872	0.364	0.299
+1IMgQoUuiOuieYRKYadkPr	Aaron May	In Love	USUYG1242152	67	hip hop,rap	0.645	0.726	2.51e-06	0.107	74.992	0.338	0.478
+3c5gLGgwRrE7sQYSNHCXEj	Jorja Smith	February 3rd	QM4TW1828127	57	pop,r&b,uk contemporary r&b	0.453	0.624	0.000995	0.0369	84.815	0.272	0.453
+7y6c07pgjZvtHI9kuMVqk1	Drake,Black Coffee,Jorja Smith	Get It Together	USCM51700045	71	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0945	0.781	0.391	0.0514	123.011	0.849	0.721
+4dSCmsx1GjA7te9KJ6Jm8R	Jorja Smith	Teenage Fantasy - Recorded at Metropolis Studios, London	US23A1500683	47	pop,r&b,uk contemporary r&b	0.769	0.521	0.0	0.0841	165.311	0.503	0.295
+2UWnZrXLXIyfMgNvJr2KUa	Jorja Smith	By Any Means	QM6P42079920	58	pop,r&b,uk contemporary r&b	0.149	0.75	1.72e-06	0.244	104.981	0.442	0.418
+14qLa09blyCJdkRJRQ8lpV	Jorja Smith	Tomorrow	QM4TW1828146	52	pop,r&b,uk contemporary r&b	0.611	0.642	0.000156	0.0432	80.19	0.128	0.459
+79OKfIXCPbNhZa3h1ZREag	Jorja Smith	Where Did I Go?	US23A1500150	57	pop,r&b,uk contemporary r&b	0.365	0.714	0.167	0.0812	97.048	0.357	0.59
+67tGiMTRR4Oo0lTGkPFjhy	Jorja Smith	A Prince	US23A1500126	52	pop,r&b,uk contemporary r&b	0.246	0.561	0.0	0.162	117.18	0.326	0.57
+5ar0XZUJMUkRZrjmcOCy8O	Kali Uchis,Jorja Smith	Tyrant (feat. Jorja Smith)	GBUM71701939	47	colombian pop,dance pop,pop	0.141	0.423	0.0	0.168	82.527	0.646	0.471
+3vMtiUewPWlK5UsIlE8lIy	Jorja Smith	Addicted	QM4TW2189978	56	pop,r&b,uk contemporary r&b	0.241	0.453	0.0107	0.0519	134.023	0.153	0.507
+1OxL1FWSEd7QmJoWLRP2NO	Jorja Smith,Preditah	On My Mind (Jorja Smith X Preditah)	QM6N21781333	68	pop,r&b,uk contemporary r&b	0.42	0.71	0.0	0.175	130.037	0.755	0.662
+5pAbCxt9e3f81lOmjIXwzd	Jorja Smith,Burna Boy	Be Honest (feat. Burna Boy)	QM6P41954566	70	pop,r&b,uk contemporary r&b	0.311	0.757	0.0	0.114	98.057	0.635	0.737
+7ckBDjvywnzcenF6ctirBc	Jorja Smith	Something In The Way	US23A1500312	53	pop,r&b,uk contemporary r&b	0.355	0.633	1.3e-05	0.0446	60.603	0.255	0.459
+4ktAIutrCjL3oD9rR1aEWU	Preditah,Jorja Smith	On My Mind (acoustic)	QM6P41782957	53	bass house,bassline,birmingham grime,grime,instrumental grime	0.847	0.559	1.5e-06	0.0362	134.253	0.548	0.352
+4dTcDvxwNZ8oqmmBSiXr5I	Jorja Smith	Blue Lights - RISE Recording	QM4TX1860651	44	pop,r&b,uk contemporary r&b	0.0196	0.498	0.00109	0.064	92.294	0.115	0.65
+6jaLFu5HvfNrI1JmcM4eXu	Jorja Smith	Lost & Found	QM4TW1828124	55	pop,r&b,uk contemporary r&b	0.243	0.653	0.0027	0.108	76.041	0.325	0.5
+1It1TxBK3xIQAB4xJkPevn	Jorja Smith	Blue Lights	US23A1500072	67	pop,r&b,uk contemporary r&b	0.666	0.692	0.0	0.185	91.917	0.309	0.57
+02DylNP4HxYaYMbqM4dGHr	Jorja Smith	Lifeboats (Freestyle)	QM4TW1828143	51	pop,r&b,uk contemporary r&b	0.43	0.766	0.0	0.351	92.671	0.508	0.734
+1wFwyUWoNFdr0Fl0QygxZ2	Jorja Smith	Gone	QM4TX2192301	54	pop,r&b,uk contemporary r&b	0.352	0.54	0.00109	0.139	136.78	0.626	0.632
+202lm9YX5WmAac83tOGlVn	Jorja Smith	Don't Watch Me Cry	QM4TW1828151	62	pop,r&b,uk contemporary r&b	0.887	0.559	0.0	0.0414	130.877	0.348	0.157
+0fIFjeeLJjIBliWUCsxyMF	Jorja Smith	Teenage Fantasy	US23A1500540	61	pop,r&b,uk contemporary r&b	0.47	0.583	0.193	0.439	176.119	0.495	0.677
+1wmQEa5wqsnhBaNNYVwet5	Jorja Smith	Fine Lines	USRC11702081	49	pop,r&b,uk contemporary r&b	0.62	0.523	0.0	0.375	78.509	0.562	0.687
+6fracv4du3sDwo1XKcPrkw	Jorja Smith,Maverick Sabre	Carry Me Home	US23A1500315	58	pop,r&b,uk contemporary r&b	0.633	0.471	2.75e-05	0.0391	118.333	0.102	0.352
+7qYwkz7t9JeEl2qFXfI47S	Jorja Smith,Stormzy	Let Me Down	US23A1500697	57	pop,r&b,uk contemporary r&b	0.779	0.547	0.0	0.0478	119.895	0.155	0.504
+0xzvSNWTKvQGKzLRPqxx8E	Jorja Smith	Imperfect Circle	US23A1500316	46	pop,r&b,uk contemporary r&b	0.176	0.491	0.0454	0.15	175.572	0.215	0.614
+1NEg5LHpn3reJ79r6IY0M6	Jorja Smith	Beautiful Little Fools	US23A1500450	46	pop,r&b,uk contemporary r&b	0.778	0.525	0.136	0.0876	130.099	0.136	0.402
+4CYBfRX3oEPni9Elqm8Bnt	Jorja Smith	Goodbyes	QM4TW1828154	58	pop,r&b,uk contemporary r&b	0.866	0.512	0.0	0.0587	85.82	0.37	0.184

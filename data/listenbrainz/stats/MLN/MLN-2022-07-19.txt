@@ -1,0 +1,265 @@
+
+
+************ 05-17 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: glam rock (33.33%)
+	2: mellow gold (33.33%)
+	3: piano rock (33.33%)
+Top artists
+	1: Charlie Puth (50.00%)
+	2: Elton John (50.00%)
+Top country
+	1: GB (100.00%)
+Top record
+	1: UM7 (100.00%)
+Top year
+	1: 21 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness   tempo  valence  energy
+count         1.0         1.000         1.000          1.000000       1.0000   1.000    1.000   1.000
+mean         58.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+std           NaN           NaN           NaN               NaN          NaN     NaN      NaN     NaN
+min          58.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+25%          58.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+50%          58.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+75%          58.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+max          58.0         0.361         0.501          0.000133       0.0266  82.017    0.165   0.556
+
+************ 05-15 ************ 
+Electronic artists found: Snakehips,Rivers Cuomo,KYLE, Loud Luxury,Brando, Two Friends,JUSCOVA,James Delaney, Diplo,Jonas Brothers
+Electronic genres found: moombahton, edm, tropical house, electro house
+Electronic music logs found: 33.33% 
+
+Top genres
+	1: pop (13.89%)
+	2: edm (11.11%)
+	3: pop dance (11.11%)
+	4: tropical house (11.11%)
+	5: dance pop (8.33%)
+Top artists
+	1: Diplo (4.35%)
+	2: James Delaney (4.35%)
+	3: T.I. (4.35%)
+	4: Jonas Brothers (4.35%)
+	5: MKTO (4.35%)
+Top country
+	1: US (33.33%)
+	2: NL (16.67%)
+	3: GB (16.67%)
+	4: QZ (16.67%)
+	5: TC (8.33%)
+Top record
+	1: HR1 (8.33%)
+	2: Q8X (8.33%)
+	3: UM7 (8.33%)
+	4: KPL (8.33%)
+	5: 22S (8.33%)
+Top year
+	1: 18 (41.67%)
+	2: 19 (33.33%)
+	3: 17 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   12.000000     12.000000     12.000000         12.000000    12.000000   12.000000  12.000000  12.000000
+mean    53.916667      0.223548      0.743917          0.000030     0.066125  116.344667   0.607667   0.725000
+std     12.213691      0.261726      0.076905          0.000045     0.038079   18.205677   0.205587   0.119782
+min     36.000000      0.009180      0.507000          0.000000     0.038000   98.047000   0.252000   0.530000
+25%     43.750000      0.044850      0.749250          0.000000     0.045575  103.024250   0.500000   0.626500
+50%     55.500000      0.095300      0.762500          0.000000     0.051000  106.503000   0.585000   0.714500
+75%     64.000000      0.286500      0.774750          0.000068     0.061100  127.988500   0.774250   0.807000
+max     71.000000      0.765000      0.797000          0.000123     0.165000  145.195000   0.907000   0.930000
+
+************ 05-12 ************ 
+Electronic artists found: Louis The Child,Quinn XCII, Loud Luxury,Brando, Sam Feldt,RANI
+Electronic genres found: edm, tropical house, pop edm, electro house
+Electronic music logs found: 42.86% 
+
+Top genres
+	1: pop (17.86%)
+	2: edm (10.71%)
+	3: pop dance (10.71%)
+	4: tropical house (10.71%)
+	5: dance pop (7.14%)
+Top artists
+	1: 24kGoldn (8.33%)
+	2: George Ezra (8.33%)
+	3: JAWNY (8.33%)
+	4: Louis The Child (8.33%)
+	5: Quinn XCII (8.33%)
+Top country
+	1: US (28.57%)
+	2: GB (28.57%)
+	3: NL (28.57%)
+	4: TC (14.29%)
+Top record
+	1: UM7 (14.29%)
+	2: KPL (14.29%)
+	3: AEA (14.29%)
+	4: F71 (14.29%)
+	5: QX9 (14.29%)
+Top year
+	1: 18 (42.86%)
+	2: 19 (28.57%)
+	3: 17 (14.29%)
+	4: 20 (14.29%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    7.000000      7.000000      7.000000          7.000000     7.000000    7.000000  7.000000  7.000000
+mean    68.285714      0.139814      0.681714          0.000013     0.106314  121.165000  0.747571  0.679286
+std     10.950103      0.093742      0.121593          0.000036     0.103169   27.232404  0.119840  0.079720
+min     50.000000      0.047600      0.531000          0.000000     0.036100   91.007000  0.582000  0.525000
+25%     62.500000      0.069050      0.585000          0.000000     0.047900  109.689000  0.672500  0.658500
+50%     71.000000      0.121000      0.701000          0.000000     0.068700  115.035000  0.732000  0.688000
+75%     74.500000      0.178500      0.746000          0.000000     0.106800  122.391000  0.819500  0.730500
+max     83.000000      0.315000      0.878000          0.000094     0.330000  177.953000  0.935000  0.764000
+
+************ 05-10 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: folk-pop (7.14%)
+	2: modern rock (7.14%)
+	3: neo-singer-songwriter (7.14%)
+	4: pop (7.14%)
+	5: pop rock (7.14%)
+Top artists
+	1: Arizona Zervas (20.00%)
+	2: Lil Mosey (20.00%)
+	3: George Ezra (20.00%)
+	4: Ocean Park Standoff (20.00%)
+	5: The Wild (20.00%)
+Top country
+	1: US (75.00%)
+	2: GB (25.00%)
+Top record
+	1: ARL (25.00%)
+	2: HR1 (25.00%)
+	3: UM7 (25.00%)
+	4: SM1 (25.00%)
+Top year
+	1: 18 (50.00%)
+	2: 20 (25.00%)
+	3: 19 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo  valence    energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.000000  4.00000  4.000000
+mean    66.000000      0.146200      0.670750          0.000002     0.095000  120.916500  0.63950  0.630000
+std     11.401754      0.140728      0.087099          0.000003     0.050384   19.004419  0.27818  0.081531
+min     53.000000      0.010600      0.580000          0.000000     0.038300   99.034000  0.34900  0.554000
+25%     58.250000      0.041800      0.610750          0.000000     0.061100  112.309750  0.43000  0.589250
+50%     67.000000      0.129600      0.664500          0.000000     0.096850  119.779500  0.64850  0.610500
+75%     74.750000      0.234000      0.724500          0.000002     0.130750  128.386250  0.85800  0.651250
+max     77.000000      0.315000      0.774000          0.000006     0.148000  145.073000  0.91200  0.745000
+
+************ 05-08 ************ 
+Electronic artists found: Tiësto,Dzeko,Preme,Post Malone, Loud Luxury,Brando
+Electronic genres found: dutch edm, edm, brostep, electro house, tropical house, slap house
+Electronic music logs found: 20.00% 
+
+Top genres
+	1: pop (12.50%)
+	2: rap (6.25%)
+	3: dance pop (6.25%)
+	4: edm (6.25%)
+	5: pop dance (6.25%)
+Top artists
+	1: Imagine Dragons (6.67%)
+	2: Arizona Zervas (6.67%)
+	3: Post Malone (6.67%)
+	4: Lil Yachty (6.67%)
+	5: JAWNY (6.67%)
+Top country
+	1: US (50.00%)
+	2: CY (10.00%)
+	3: GB (10.00%)
+	4: NL (10.00%)
+	5: TC (10.00%)
+Top record
+	1: UM7 (40.00%)
+	2: SM1 (10.00%)
+	3: A11 (10.00%)
+	4: KPL (10.00%)
+	5: F71 (10.00%)
+Top year
+	1: 18 (40.00%)
+	2: 19 (20.00%)
+	3: 17 (20.00%)
+	4: 07 (10.00%)
+	5: 20 (10.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness      tempo    valence     energy
+count   10.000000     10.000000     10.000000         10.000000    10.000000   10.00000  10.000000  10.000000
+mean    73.500000      0.221310      0.726100          0.000020     0.078150  113.88330   0.706500   0.665500
+std      5.797509      0.223117      0.106164          0.000042     0.039989   19.64833   0.161519   0.133151
+min     64.000000      0.047600      0.480000          0.000000     0.038000   84.16400   0.457000   0.479000
+25%     70.250000      0.061300      0.740750          0.000000     0.048125  100.04375   0.603000   0.544000
+50%     73.500000      0.120050      0.749500          0.000000     0.059450  115.88500   0.690500   0.659500
+75%     76.750000      0.326250      0.765500          0.000000     0.109900  124.20125   0.802500   0.776000
+max     85.000000      0.660000      0.878000          0.000105     0.148000  149.95100   0.935000   0.833000
+
+************ 05-04 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: dance pop (33.33%)
+	2: pop (33.33%)
+	3: viral pop (33.33%)
+Top artists
+	1: Charlie Puth (100.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: AT2 (100.00%)
+Top year
+	1: 17 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0         1.000         1.000               1.0        1.000    1.000    1.000   1.000
+mean         58.0         0.752         0.675               0.0        0.193  168.034    0.456   0.604
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          58.0         0.752         0.675               0.0        0.193  168.034    0.456   0.604
+25%          58.0         0.752         0.675               0.0        0.193  168.034    0.456   0.604
+50%          58.0         0.752         0.675               0.0        0.193  168.034    0.456   0.604
+75%          58.0         0.752         0.675               0.0        0.193  168.034    0.456   0.604
+max          58.0         0.752         0.675               0.0        0.193  168.034    0.456   0.604
+
+************ 05-02 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: r&b en espanol (100.00%)
+Top artists
+	1: ROSALÍA (100.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: SM1 (100.00%)
+Top year
+	1: 21 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0         1.000         1.000            1.0000        1.000    1.000    1.000    1.00
+mean         79.0         0.885         0.638            0.0116        0.226  179.905    0.403    0.49
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          79.0         0.885         0.638            0.0116        0.226  179.905    0.403    0.49
+25%          79.0         0.885         0.638            0.0116        0.226  179.905    0.403    0.49
+50%          79.0         0.885         0.638            0.0116        0.226  179.905    0.403    0.49
+75%          79.0         0.885         0.638            0.0116        0.226  179.905    0.403    0.49
+max          79.0         0.885         0.638            0.0116        0.226  179.905    0.403    0.49

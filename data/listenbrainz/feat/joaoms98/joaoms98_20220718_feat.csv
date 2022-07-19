@@ -1,0 +1,224 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+15VdH9J4r0hQpmXO07IZ6W	António Zambujo	Valsa Lisérgica	PTNO11400027	9	fado	0.901	0.544	0.823	0.0278	116.156	0.197	0.334
+42AsctionNIYXexgCRnBle	António Zambujo	O Tiro Pela Culatra	PTNO11400026	10	fado	0.76	0.671	0.0144	0.0418	117.854	0.67	0.369
+36Pc4juX1E0LKUtjuFRN8A	António Zambujo	Canção De Brazzaville	PTNO11400021	16	fado	0.812	0.669	0.0096	0.046	96.058	0.812	0.457
+74cjmx8wpmhek5qXpSSFCL	António Zambujo	Valsa De Um Pavão Ciumento	PTNO11400020	20	fado	0.824	0.583	0.00524	0.0317	102.726	0.341	0.355
+0zaHZ3HjpJqQDU3iSCBCo1	António Zambujo	Barata Tonta	PTNO11400019	22	fado	0.872	0.738	0.000128	0.0584	114.284	0.647	0.375
+75KUgnRsyEyTTM2iCTY19g	António Zambujo	Flinstones	PTNO11400018	17	fado	0.835	0.594	0.00216	0.0528	127.012	0.608	0.358
+7gWuvpjf7ghzYSQoGQuU3d	António Zambujo	Pica Do 7	PTNO11400017	42	fado	0.798	0.71	7.35e-06	0.0329	91.098	0.627	0.443
+3BIcQJWZHDXRk9Xpvsv0gc	António Zambujo	Valsa Do Vai Não Vás	PTNO11400016	17	fado	0.911	0.509	0.0115	0.0392	105.876	0.223	0.131
+2eqEn2dpA71pANlTJ0EZbC	António Zambujo	Fatalidade	PTNO11400015	21	fado	0.726	0.598	0.000858	0.0311	96.047	0.564	0.549
+3uL2fgvb2HX0QmmheDxXV9	Rebirth Brass Band	Let's Go Get 'Em	USBAS1100111	22	brass band,new orleans jazz,second line,street band	0.0118	0.667	0.000764	0.0736	108.079	0.552	0.854
+3rLX96v0QMrDk0vNFPi4Xi	Rebirth Brass Band	Feelin' Free	USBAS1100110	15	brass band,new orleans jazz,second line,street band	0.00522	0.591	0.785	0.0731	117.929	0.689	0.857
+6zEowJu4DYiLmUo0rnYBdq	Rebirth Brass Band	Shrimp and Gumbo	USBAS1100109	16	brass band,new orleans jazz,second line,street band	0.0946	0.761	0.552	0.134	106.34	0.962	0.873
+5DLjcipB9dNTGHeex8oT54	Rebirth Brass Band	Why Your Feet Hurt	USBAS1100108	15	brass band,new orleans jazz,second line,street band	0.00064	0.507	0.0574	0.129	112.168	0.825	0.74
+6iLKmATcMjP0xMOCI1715g	Rebirth Brass Band	Do It Again	USBAS1100107	13	brass band,new orleans jazz,second line,street band	0.0374	0.444	1.29e-05	0.17	99.498	0.635	0.776
+77KgAUE6wQBIOP6xX2lJJp	Rebirth Brass Band	What Goes Around Comes Around	USBAS1100106	17	brass band,new orleans jazz,second line,street band	0.111	0.652	0.12	0.192	101.884	0.905	0.732
+1CAAXbhxUkh60lFjB25sx9	Rebirth Brass Band	AP Touro	USBAS1100105	18	brass band,new orleans jazz,second line,street band	0.00333	0.574	0.909	0.0463	112.566	0.677	0.753
+61kvxQgUKOu6HnZygoOQaU	Rebirth Brass Band	The Dilemma	USBAS1100104	15	brass band,new orleans jazz,second line,street band	0.027	0.681	0.586	0.197	108.142	0.701	0.738
+44c7AzzK7k0VGvx6bB1hzb	Rebirth Brass Band	You Know You Know	USBAS1100103	15	brass band,new orleans jazz,second line,street band	0.0412	0.677	0.781	0.0488	115.647	0.855	0.787
+4aRV8CBjTCCLulMHlipXuw	Rebirth Brass Band	I Like It Like That	USBAS1100102	32	brass band,new orleans jazz,second line,street band	0.0491	0.718	0.00713	0.125	114.964	0.916	0.735
+4gLjinADyf18gkEqucCM7b	Rebirth Brass Band	Exactly Like You	USBAS1100101	28	brass band,new orleans jazz,second line,street band	0.0622	0.709	0.0251	0.115	96.87	0.893	0.718
+26NRY4vXDdzbYkIh1TvK74	No BS! Brass Band	Take On Me	USWSE1270407	31	brass band,brass ensemble,second line,street band	0.0107	0.46	0.855	0.0331	94.859	0.862	0.858
+4U9EIwcQFvQittYAsZq1HQ	C. Tangana,Luis Segura	Bobo	ES5022200212	54	urbano espanol	0.511	0.826	2.23e-05	0.0383	124.056	0.828	0.735
+1MXss9WwWiRXG6ofSDtkIw	C. Tangana	Yate	ES5022101134	54	urbano espanol	0.398	0.755	0.58	0.122	131.976	0.759	0.769
+0v2LBtK5Zk80VxIbVrD9ik	C. Tangana,Omar Montes,Daviles de Novelda,Canelita	La Culpa (feat. Canelita)	ES5022200109	60	urbano espanol	0.082	0.557	0.0	0.215	89.69	0.721	0.835
+30oqPn8BvaVyFsJCGO3out	C. Tangana,Andrés Calamaro	Hong Kong	ES5022100010	49	urbano espanol	0.0686	0.642	2e-05	0.0366	97.901	0.455	0.358
+3CaaAhaIRL1KIhLaknz02U	C. Tangana,Kiko Veneno	Los Tontos	ES5022100001	51	urbano espanol	0.372	0.792	1.05e-06	0.187	105.911	0.897	0.665
+4b3rE3N4XX1tPyvoHV6i4C	C. Tangana,Pepe Blanco	Cuándo Olvidaré	ES5022100003	49	urbano espanol	0.803	0.712	0.0	0.139	95.608	0.482	0.295
+3WiimrUobvk2IpWcd9vppt	C. Tangana,Carin Leon,Adriel Favela	CAMBIA!	ES5022100008	51	urbano espanol	0.546	0.474	4.53e-05	0.178	72.327	0.672	0.651
+4pmb0BSHAGxaHPMd8aFSMk	C. Tangana,Eliades Ochoa	Muriendo De Envidia	ES5022100005	51	urbano espanol	0.428	0.69	0.00219	0.389	93.36	0.31	0.681
+2xaByuQlt233Vtve6PshwN	C. Tangana,Omar Apollo	Te Olvidaste	ES5022100006	50	urbano espanol	0.65	0.796	0.00276	0.258	88.03	0.333	0.328
+2ssLX6Zbgo3wqCAg93aC9Z	C. Tangana,José Feliciano,Niño de Elche	Un Veneno - G-Mix	ES5022100007	50	urbano espanol	0.776	0.516	0.000901	0.0907	84.557	0.585	0.422
+0Ada8rXpTblhLh2nbwRmnN	C. Tangana,Jorge Drexler	Nominao	ES5022100009	50	urbano espanol	0.553	0.674	3.42e-06	0.331	176.098	0.744	0.329
+66yqgBejGcVFgCly5orcMb	C. Tangana,Gipsy Kings,Nicolás Reyes,Tonino Baliardo	Ingobernable	ES5022100004	53	urbano espanol	0.211	0.702	0.000122	0.0692	104.95	0.769	0.718
+7FRVojReNw1GtQMXIt02TW	C. Tangana,Ed Maverick	Párteme La Cara	ES5022100002	52	urbano espanol	0.532	0.759	0.000139	0.0576	127.961	0.579	0.28
+0xZ84oiZpRtd0zoF1hBvua	C. Tangana	Nunca Estoy	ES5022000238	52	urbano espanol	0.473	0.908	0.00502	0.141	135.026	0.448	0.345
+4vb39oH6GhkHtGyjnXGFpd	C. Tangana,Toquinho	Comerte Entera	ES5022001202	52	urbano espanol	0.5	0.807	2.88e-06	0.12	124.127	0.349	0.373
+7byPT0av8htuoQuyxbtK4d	C. Tangana,Niño de Elche,La Húngara	Tú Me Dejaste De Querer	ES5022000718	53	urbano espanol	0.329	0.813	0.00254	0.178	168.009	0.526	0.695
+3IcZbuv0ydGXMfdJeo6iqr	C. Tangana	Demasiadas Mujeres	ES5022000710	53	urbano espanol	0.127	0.667	0.000262	0.397	126.027	0.377	0.43
+5LYMamLv12UPbemOaTPyeV	Harry Styles	Music For a Sushi Restaurant	USSM12200609	90	pop	0.258	0.72	0.0568	0.04	107.041	0.357	0.715
+6uvh0In7u1Xn4HgxOfAn8O	Harry Styles	Matilda	USSM12200615	90	pop	0.896	0.507	1.97e-05	0.04	114.199	0.386	0.294
+3i058E8uxTsYqJ5NWZzqSj	Harry Styles	Little Freak	USSM12200614	88	pop	0.719	0.559	0.000143	0.039	141.96	0.402	0.535
+51Zw1cKDgkad0CXv23HCMU	Harry Styles	Daylight	USSM12200613	89	pop	0.484	0.686	0.00144	0.0398	145.5	0.626	0.445
+4Dvkj6JhhA12EX05fT7y2e	Harry Styles	As It Was	USSM12200612	94	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+4j6kId9QIqhoXvqHKgSKa0	Harry Styles	Grapejuice	USSM12200611	87	pop	0.357	0.645	0.143	0.0336	182.928	0.88	0.721
+1qEmFfgcLObUfQm0j1W2CK	Harry Styles	Late Night Talking	USSM12200610	94	pop	0.298	0.714	0.0	0.0468	114.996	0.901	0.728
+2u6TeHw5726jupIv00oFXA	Tiago Nacarato	Matriz	PTNO12200002	34	portuguese pop	0.726	0.644	0.0394	0.0492	90.145	0.685	0.616
+7mt3xlwUPFQVqEoECmyWTJ	Tiago Nacarato	Pode ser que eu não mereça	PTNO12200024	21	portuguese pop	0.839	0.605	0.0205	0.034	109.763	0.365	0.25
+4RufoweI3cffbi8VcrEaGk	Tiago Nacarato	Filosofia	PTNO12200023	32	portuguese pop	0.194	0.635	0.0218	0.0529	89.81	0.614	0.535
+31sXkAWZCxklbyBv6jEaVl	Tiago Nacarato	Estado novo	PTNO12200022	34	portuguese pop	0.68	0.584	0.0263	0.0526	99.996	0.313	0.492
+7srEzjUwGmCXM6C726E5tz	Tiago Nacarato	Aprendiz	PTNO12200019	23	portuguese pop	0.898	0.326	0.00056	0.0318	179.387	0.245	0.344
+2rxJjd5HkP8oJ7Cbl0iWrR	Tiago Nacarato	Andorinha	PTNO12200018	23	portuguese pop	0.84	0.452	0.0189	0.0686	117.599	0.297	0.197
+4DKlHY0E92UMmKdvXKdxUl	Tiago Nacarato	Cantando eu sou	PTNO12200021	22	portuguese pop	0.893	0.762	0.00088	0.0432	94.999	0.427	0.293
+4rGhcvKmXFj23V6oLaTBSL	Tiago Nacarato	Preparar o carnaval	PTNO12200020	22	portuguese pop	0.662	0.677	0.264	0.0511	89.973	0.676	0.678
+4Hhv2vrOTy89HFRcjU3QOx	Etta James	At Last	USMC16046323	74	adult standards,jazz blues,soul,soul blues,torch song,vocal jazz	0.547	0.274	0.0133	0.0293	87.43	0.328	0.348
+63CHa6rmamv9OsehkRD8oz	Phil Collins	Against All Odds (Take a Look at Me Now) - 2016 Remaster	USRH11603367	75	mellow gold,rock drums,soft rock	0.198	0.58	0.0	0.0277	116.271	0.111	0.498
+6o97UuQmaxccF95fdt9PPR	Shiro Sagisu,Yoko Takahashi	Fly Me To the Moon - Yoko Takahashi Acid Bossa Version	JPKI09522470	38	anime score,japanese soundtrack	0.275	0.875	0.0295	0.0381	117.995	0.849	0.41
+5sbw5zIz9ck2pOEDXUR0QU	Buena Vista Social Club	Chan Chan	GBBGU9700150	70	latin jazz,musica tradicional cubana,world	0.833	0.396	0.00534	0.0356	165.647	0.679	0.496
+2kkvB3RNRzwjFdGhaUA0tz	Derek & The Dominos	Layla	GBUM71028890	76	album rock,art rock,blues,blues rock,british blues,classic rock,country rock,electric blues,folk rock,hard rock,mellow gold,psychedelic rock,rock,roots rock,soft rock	0.577	0.404	0.297	0.0665	115.669	0.497	0.902
+7mNFrf8IfgaWMFCz64CtK4	John Lee Hooker	Boogie Chillen	GBBHN9300127	52	blues,blues rock,classic rock,delta blues,electric blues,memphis blues,soul,traditional blues	0.857	0.679	0.0181	0.0534	148.959	0.406	0.367
+2dp14VWbIxOVNmaWKkVB1r	John Lee Hooker	One Bourbon, One Scotch, One Beer	USMC16647772	58	blues,blues rock,classic rock,delta blues,electric blues,memphis blues,soul,traditional blues	0.494	0.746	0.0	0.0565	124.68	0.854	0.56
+2k2BSyAwcguw9bPKniurV9	Spyro Gyra	Morning Dance - Live In Lakeville, PA / 1997	USGR19700251	38	jazz funk,jazz fusion,progressive jazz fusion,smooth jazz	0.638	0.739	0.798	0.0314	101.748	0.601	0.634
+2tWBZI1WvBNaUzA7e8jzHW	Marcos Valle	So Nice (Summer Samba)	USPR36786908	47	bossa nova,brazilian boogie,mpb	0.55	0.776	0.0	0.0372	122.09	0.821	0.504
+5fdNHVZHbWB1AaXk4RBGVD	Grover Washington, Jr.	Just the Two of Us	USEE10900522	71	smooth jazz	0.447	0.743	0.362	0.0902	95.406	0.597	0.429
+2QrBIUz6Mbmkh5dqcLzTHp	Big Maybelle	Whole Lotta Shakin' Goin' On	USSM15500185	44	jump blues,rhythm and blues,rock-and-roll,southern soul	0.439	0.668	0.0	0.108	71.214	0.64	0.631
+0vDn81gdOuRxjbIwcASuiV	Albert King	Born Under A Bad Sign	USAT29901258	41	acoustic blues,blues,blues rock,electric blues,memphis soul,soul blues,traditional blues	0.45	0.691	0.00517	0.0285	91.541	0.801	0.493
+5Oc0vLGWdEWeCqIU8zyELt	Big Mama Thornton	Hound Dog	USAP38930505	57	acoustic blues,blues,electric blues,harmonica blues,rhythm and blues,texas blues,traditional blues	0.706	0.563	3.59e-05	0.0962	133.285	0.785	0.542
+507IFqPuG8mBQoKebfGG9t	Little Richard	Long Tall Sally (The Thing)	USC4R1100484	64	adult standards,brill building pop,rock-and-roll,rockabilly,soul	0.755	0.474	0.0	0.0825	184.694	0.888	0.608
+780be5fB7823aHG06mwTat	Bakermat	Baianá	NLE801900440	68	deep euro house,minimal tech house,pop dance,tropical house	0.000754	0.587	0.668	0.0709	121.964	0.466	0.722
+4wsZ78OG95WYNDfrKiHkDC	Julien Daïan Quintet	End Working	FR9W12033776	29		0.15	0.783	0.239	0.0363	95.8	0.784	0.474
+7l57GUnjRqVfiUyulNtIId	Jake Sherman	Just the Way You Are	QZES81970580	37		0.886	0.579	0.139	0.0403	87.811	0.85	0.594
+5giA96riscHWo0h3Aq3uPz	PYJÆN,Odette Peters	Gold Plated	QM4TX2053275	48	uk contemporary jazz	0.474	0.678	0.00416	0.399	93.335	0.336	0.38
+5iUQMwxUPdJBFeGkePtM66	Mac Miller,Anderson .Paak	Dang! (feat. Anderson .Paak)	USWB11601217	73	hip hop,pittsburgh rap,rap	0.00826	0.836	0.000355	0.23	107.018	0.556	0.67
+4FetfHvLaU9JW0PX9YkToQ	stories,Hunter	Wait for the Moment	QZHNA1960305	41		0.839	0.457	5.48e-06	0.0394	146.443	0.48	0.309
+1JPOZzPzvTzVoHixqI8pWs	Electro Deluxe,Ben L'Oncle Soul	Where is the love ?	FR0U91000236	49	modern funk	0.424	0.658	6.26e-05	0.0429	85.996	0.531	0.528
+5F7sFJSClnx2EBtMbhaqVo	Jamie Cullum	Boyfriend	GBUM71905945	35	adult standards,contemporary vocal jazz,jazz pop,neo mellow,vocal jazz	0.75	0.76	0.444	0.144	94.101	0.642	0.434
+28QH5m28n7YihkrnxiioaZ	André Ceccarelli,Benjamin Henocq,Sylvain Romano,Maxime Fougères,renaud Gensane,Baptiste Herbin	Il Moi Vicino	FRXWO1500015	7	french jazz	0.801	0.619	0.523	0.0415	110.643	0.523	0.542
+4BJm87C8VFCizzIfpxUtgY	Joan Chamorro,Rita Payés,Andrea Motis	Flor de Lis	ES53S1601513	31	jazz catala,spanish jazz	0.805	0.549	0.000718	0.0692	117.429	0.716	0.604
+28kOGtTZzbfQ8fMmTwjRFq	Paul McCartney,Dominic Fike	The Kiss Of Venus (Dominic Fike)	GBCCS2100002	62	album rock,beatlesque,classic rock,folk rock,mellow gold,rock,soft rock	0.627	0.715	0.0	0.0399	89.982	0.633	0.374
+4ejYPzCYRkyb11nNxWWaIn	Delvon Lamarr Organ Trio	Move on Up - Live	QMDA61816023	46	funk,instrumental funk,modern funk	0.0139	0.599	0.775	0.0508	140.626	0.709	0.844
+55GxhCTq6SY3tFTVh7z1nR	King Harvest	Dancing In The Moonlight	FRUM77300077	61	soft rock	0.684	0.653	0.0	0.0363	136.153	0.682	0.719
+1YuCTj9wRtIPtIYZesNFjN	Kenny Garrett	Sing a Song of Song	USWB19700444	35	bebop,contemporary jazz,contemporary post-bop,jazz,jazz fusion,jazz saxophone,uk contemporary jazz	0.31	0.406	0.419	0.0323	108.442	0.541	0.611
+1IxNJiRumG5m1vBLoA58Wc	Tiago Nacarato	Peito aberto	PTNO12200025	22	portuguese pop	0.609	0.714	0.392	0.0378	109.978	0.359	0.334
+5DH7nDryMhpixm4G4B7RP9	Billy Joel	The Longest Time	USSM18300273	68	classic rock,folk rock,mellow gold,piano rock,rock,singer-songwriter,soft rock	0.181	0.637	0.0	0.0262	84.347	0.588	0.333
+2KpoIytulOu4Iai6GxALfs	Dave Koz	You Make Me Smile	USCA29300047	35	jazz saxophone,smooth jazz,smooth saxophone	0.121	0.732	0.000771	0.0352	90.974	0.879	0.666
+5jRYtNXmGlhrhVShEuwL4C	Orquestra Bamba Social	Herança de Bamba	PT9HX2000001	12	musica portuguesa contemporanea	0.125	0.772	0.246	0.174	102.519	0.227	0.0992
+261RlQyVv3xdEXkDa9rtLx	Orquestra Bamba Social,Tiago Nacarato	Pela Primeira Vez	PT9HX2000021	26	musica portuguesa contemporanea	0.686	0.576	1.28e-06	0.056	104.012	0.693	0.497
+1jgpUzuMqkPaevp5yN6oOe	Diabo Na Cruz	Moça Esquiva	PT0CK1400004	26	portuguese rock	0.0999	0.752	5.33e-06	0.0414	111.017	0.741	0.776
+3jMT6hymc2oGi2k1zlINXa	Os Quatro e Meia	Sabes Bem	PT9632000004	41	portuguese folk	0.83	0.486	0.0	0.0314	99.291	0.331	0.332
+45LeC3Rf4I08VGvI84n4G2	David Sanborn	Isn't She Lovely	USGR10300122	42	jazz funk,jazz fusion,jazz saxophone,smooth jazz,smooth saxophone	0.676	0.67	0.871	0.0519	154.552	0.459	0.341
+7igzgZaMWs7r1YVCC3orR0	Dave Koz	Together Again	USCA29900701	46	jazz saxophone,smooth jazz,smooth saxophone	0.0708	0.618	0.000481	0.0423	92.843	0.729	0.778
+43TSPy4sETDOPfSEVKKZAF	Catraia	Canção de Quem Cá Fica	QZES61885535	4		0.0525	0.626	2.88e-06	0.03	139.864	0.734	0.557
+0rQPGHSNvvfeMXqrzpRech	Catraia,Buba Espinho	Ver-te Esta Manhã	PT2GZ2200006	5		0.928	0.587	1.09e-05	0.0336	100.055	0.391	0.12
+3FC1K7YrLl3tkELeBmUGpR	Catraia	Esta Festa é de Quem	PT2GZ2200005	8		0.749	0.835	0.0	0.0474	126.986	0.68	0.495
+0Om6i77YRSH7GscXwSFLQ2	Pink Martini,The Von Trapps	Dream a Little Dream	USHNZ1400127	56	adult standards,lounge,vocal jazz	0.966	0.607	0.0	0.0451	98.623	0.152	0.162
+0PJMHv4glk31FYeGq8Hg13	Glenn Miller Orchestra	In The Mood	USGR10110195	52	adult standards,big band,lounge,swing	0.661	0.613	0.763	0.0651	164.745	0.719	0.394
+3QKJELWORZZ7rUZDWeMWSA	Astrud Gilberto,Antônio Carlos Jobim	Água de Beber	USPR36500060	63	adult standards,bossa nova,brazilian jazz,lounge,samba-jazz,vocal jazz	0.439	0.653	0.0	0.0364	147.858	0.845	0.319
+2f6CKAcpC2TbE7nuemq0J7	Halie Loren	Perhaps, Perhaps, Perhaps	USLN71010374	50	contemporary vocal jazz,vocal jazz	0.677	0.744	0.0	0.0664	125.782	0.789	0.409
+2CeqxyOZEyiL6pTDYZ9gPH	Peggy Lee	Fever	USCA28900304	57	adult standards,easy listening,lounge,soul,swing,torch song,vocal jazz	0.0906	0.742	0.0	0.158	137.473	0.351	0.0899
+2QfiRTz5Yc8DdShCxG1tB2	Chuck Berry	Johnny B. Goode	USMC15719963	76	blues rock,classic rock,rock,rock-and-roll,rockabilly	0.741	0.534	6.07e-05	0.0743	167.983	0.969	0.803
+34OonHyC40aIzMPwvTOP6E	Slow J,Papillon	FAM	PT2HA1900021	40	hip hop tuga	0.229	0.766	0.00021	0.24	104.98	0.378	0.732
+70GRlXUPxqaiv1JZCoAKYn	Os Quatro e Meia	Sentir o Sol	PT7GE1700002	43	portuguese folk	0.228	0.732	0.000602	0.0353	121.981	0.689	0.7
+4U50hnmV8ppnPevHlfTkwv	Luca Argel	Samba Invertido	US7VG1863479	16	musica portuguesa contemporanea	0.926	0.628	8.27e-05	0.852	79.443	0.809	0.323
+2zyV3yKcFRKMP9FqA5CQxG	Slow J	Biza	USDHM1705495	26	hip hop tuga	0.383	0.621	0.000144	0.0976	82.374	0.567	0.797
+5kY6N5bESpH9mvxDKUU8f9	Diabo Na Cruz	Portugal	PTBM11800181	15	portuguese rock	0.0195	0.535	0.28	0.0321	105.029	0.323	0.785
+6H67oUOyRbfxnlhPusDgC8	X-Tense,Cálculo,I.VAN	Tudo Nosso (feat. Cálculo and I.Van)	TCADW1851429	22	hip hop tuga	0.179	0.84	0.00113	0.049	127.525	0.892	0.682
+6OrNf46vJrHqNP3IFpmvhV	António Zambujo	Lambreta	PTMW11100034	36	fado	0.849	0.695	0.0349	0.101	132.887	0.396	0.171
+6Esm2XoX3JwEkCQLybx03R	X-Tense,DJ HYPE MYKE	O Re$To	TCAER2037944	41	hip hop tuga	0.488	0.763	2.77e-05	0.311	90.439	0.871	0.784
+6MrbmTRF9s1GF2ONK5tXzX	Slow J	Nada a Esconder	PT2HA2000007	46	hip hop tuga	0.65	0.684	0.0034	0.0638	116.726	0.145	0.528
+7m9HMK8sWHrSRSq3J0B58T	Magna Tuna Cartola	Aveiro É!	ushm91295535	1	tuna	0.343	0.512	3.24e-05	0.0632	170.179	0.762	0.674
+4STyDmwvMzm5GF7qJmiTb2	Orquestra Bamba Social,Tiago Nacarato	Desde que o Samba É Samba	PT9HX2000023	28	musica portuguesa contemporanea	0.555	0.617	4.23e-05	0.0762	97.71	0.45	0.436
+6hCw2h2Q5k3EmDfHPBdSUu	Catraia	Bolas de Sabão	PT2GZ2200011	4		0.722	0.791	0.00207	0.0433	140.995	0.963	0.488
+7iaM5eeuu5STJPmDY8NWkO	Os Quatro e Meia	Se Eu Pudesse Voltar	PT7GE1700006	32	portuguese folk	0.568	0.67	8.46e-05	0.0335	118.055	0.346	0.389
+5YlmjSfPrpqJhKiP3GITo6	António Zambujo	Zamba Del Olvido	PTNO11400023	9	fado	0.9	0.635	8.5e-05	0.0479	93.325	0.248	0.264
+1wawXvmElv2Qe72D2qZSJD	Slow J	Arte	USDHM1705489	33	hip hop tuga	0.016	0.469	1.87e-06	0.28	99.763	0.158	0.714
+5Ls1ZtashPTkAjsfdQmVDH	Tiago Nacarato,Paulinho Moska	Sol de Inverno (feat. Paulinho Moska)	PT8DW1900003	31	portuguese pop	0.855	0.608	3.39e-06	0.034	142.868	0.615	0.331
+19PgYjI8X326z934Hf2xhK	Magna Tuna Cartola	Triste História	ushm91295532	6	tuna	0.315	0.513	9.28e-05	0.0955	119.429	0.615	0.613
+3WD3kjIP8acxmAFDnO9uy3	Slow J	O Cliente	USDHM1510279	20	hip hop tuga	0.0694	0.533	0.0	0.295	133.524	0.319	0.632
+0noPmvIVoXYJlnU86QOANg	Tiago Nacarato	Abraço	PT8DW1900011	20	portuguese pop	0.884	0.375	0.00265	0.0341	156.468	0.169	0.326
+6we0WGbDkQTkrSEfj5DGCh	Luca Argel	Samba do Operário	PT3IB2100001	22	musica portuguesa contemporanea	0.148	0.807	1.23e-05	0.754	175.094	0.941	0.523
+7D4bfrDCS3yfOh647VbBX5	Magna Tuna Cartola	Piratas	ushm91295533	2	tuna	0.593	0.551	0.000425	0.0642	129.618	0.774	0.634
+3CG1GKwFxfA93gs99URUGH	Slow J	Numbers	PT2HA2000013	27	hip hop tuga	0.899	0.904	0.946	0.0608	114.994	0.336	0.308
+3YMnGG0nk5VKk1YtuWvxkU	Diabo Na Cruz	Fronteira	PTKQ11200008	18	portuguese rock	0.0921	0.612	0.0794	0.0301	107.874	0.111	0.346
+36alyJ7wQjC9LKNAye0Nsq	Slow J	Onde é que estás?	PT2HA1900022	32	hip hop tuga	0.899	0.565	0.0142	0.327	179.801	0.422	0.266
+0hTLoBrTCyctmBg2Ah5zSk	Slow J,Sara Tavares	Também Sonhar	PT2HA1900020	44	hip hop tuga	0.782	0.557	3.42e-05	0.3	106.702	0.318	0.309
+2JOEPbuwVf0nafGnMSVEhH	John Coltrane	My Favorite Things	USAT20002141	52	bebop,free jazz,jazz,jazz saxophone	0.694	0.277	0.464	0.0342	175.384	0.285	0.242
+3HNhdvVw92awlT3gfqXIxW	John Coltrane	Lazy Bird - Remastered	USBN21200589	27	bebop,free jazz,jazz,jazz saxophone	0.643	0.529	0.00274	0.0487	125.83	0.665	0.328
+0sMR4StyIAXLE0WrfaZIDu	John Coltrane	I'm Old Fashioned - Remastered	USBN21200588	36	bebop,free jazz,jazz,jazz saxophone	0.912	0.483	0.548	0.0344	78.703	0.374	0.1
+4R8sx3JYPAEyOAwpOxnALk	John Coltrane	Locomotion - Remastered	USBN21200587	33	bebop,free jazz,jazz,jazz saxophone	0.559	0.426	0.0103	0.0486	90.227	0.844	0.459
+3GXYGbyvprPqiH9do6ewY3	John Coltrane	Moment's Notice - Remastered	USBN21200586	32	bebop,free jazz,jazz,jazz saxophone	0.613	0.532	0.0019	0.0408	123.322	0.783	0.372
+3zIuHdD8dkh1vPxQu334T7	John Coltrane	Blue Train - Remastered	USBN21200590	39	bebop,free jazz,jazz,jazz saxophone	0.643	0.503	0.00112	0.045	136.098	0.569	0.286
+19qklMrfkSQjwIR33bAIN7	June Christy	Give Me The Simple Life	USCA29801314	50	adult standards,contemporary vocal jazz,cool jazz,lounge,swing,torch song,vocal jazz	0.51	0.621	0.0	0.1	138.664	0.836	0.259
+7vcsthwGswnftGiVd3zmm2	Louis Armstrong	Ain't Misbehavin'	USSM12900065	40	adult standards,dixieland,harlem renaissance,jazz trumpet,new orleans jazz,swing,vocal jazz	0.988	0.692	0.0141	0.147	121.866	0.445	0.133
+1nrni11feutiL6PNF9IWyk	Gregory Porter	Pick Yourself Up	FRUM71701418	30	contemporary vocal jazz,jazz pop,neo soul,vocal jazz	0.751	0.636	3.82e-05	0.0376	126.033	0.583	0.169
+4QZZOasE00xav78Y4pkVsW	Miloš Karadaglić,Gregory Porter	Let It Be	GBUM71506643	35	classical guitar	0.868	0.39	0.000124	0.0435	78.011	0.38	0.144
+3VukmzGvVbB4FyGyBPf0A7	Gregory Porter	Blackbird - Recorded at Spotify Studios NYC	FRUM71800057	41	contemporary vocal jazz,jazz pop,neo soul,vocal jazz	0.137	0.619	0.00319	0.0419	94.01	0.419	0.483
+3BfgOrMl8lkSaA3yeiSaZN	Oquestrada	Se Esta Rua Fosse	PTBM11000184	27	fado,folclore portugues	0.354	0.644	0.00467	0.0644	159.454	0.616	0.517
+1q5ttDgdBW7W6179dl7pmM	Maria João & Mário Laginha	Preto E Branco	PTAP19801903	3	portuguese jazz	0.416	0.608	5.43e-05	0.039	108.925	0.465	0.679
+1VGDOzh3V4tRNjuq0K7Hg0	Ben Wendel	July	US9331828807	20	contemporary jazz,jazz,uk contemporary jazz	0.383	0.503	0.855	0.033	80.682	0.28	0.434
+53PQ8a6fxdtaKYlL92DdKV	Ben Wendel	Song Song	US9331619005	25	contemporary jazz,jazz,uk contemporary jazz	0.754	0.595	0.908	0.0391	96.781	0.49	0.27
+1YKZSP5Wc1KGKp72rFjcPV	Toquinho,Vinícius de Moraes	Chega de Saudade	BRSGL7500053	40	bossa nova,mpb,musica infantil,samba,violao	0.924	0.541	0.232	0.0388	89.412	0.527	0.404
+27XLzYp0W58FkcudYfWWRZ	Toquinho,Vinícius de Moraes	Morena Flor	BRRGE7500022	30	bossa nova,mpb,musica infantil,samba,violao	0.897	0.57	0.000107	0.0283	89.995	0.484	0.299
+2RZUcWGH4Jfw2yuqKcx7lU	Toquinho,Vinícius de Moraes	Marcha da Quarta-Feira de Cinzas	BRRGE7500021	30	bossa nova,mpb,musica infantil,samba,violao	0.956	0.447	0.000344	0.0336	104.029	0.284	0.264
+2TjjcQQWZlbY5Hy46zQvAU	Toquinho,Vinícius de Moraes	Tristeza	BRSGL7500052	43	bossa nova,mpb,musica infantil,samba,violao	0.928	0.488	0.793	0.0389	103.437	0.252	0.306
+5I33azeAsvaDPCV1PCDMr1	Cristina Branco	Este Corpo	PTUM71700348	10	fado,morna	0.779	0.411	0.022	0.0394	66.465	0.205	0.393
+7gKDw2iXE2npIu3LnnpniQ	Cristina Branco	Aula De Natação	PTUM71700362	17	fado,morna	0.673	0.671	1.48e-05	0.0366	119.685	0.623	0.351
+3WVBQjDRoUUTJnWVaUUEHL	Rubel	Partilhar	BX18D1800013	60	folk brasileiro,nova mpb,nova musica carioca	0.826	0.478	0.07	0.0866	115.047	0.336	0.279
+3VstbqoZQrfAJEshh3FsxA	Argentina Santos	A Minha Pronúncia	PTCN10300001	37	fado	0.938	0.514	0.00118	0.0416	119.859	0.593	0.182
+2IOFZdYYkFxEHVz1w34PoL	Harry Styles	Cherry	USSM11912589	76	pop	0.615	0.53	0.00453	0.0259	95.946	0.411	0.512
+47Bg6IrMed1GPbxRgwH2aC	Rex Orange County	Best Friend	US23A1500387	79	bedroom pop,pop	0.395	0.575	0.0	0.0596	144.982	0.32	0.714
+1mw0RgNXIpYRyyCdBQbLgA	Harry Styles	Love Of My Life	USSM12200621	87	pop	0.669	0.555	0.0	0.0452	118.057	0.203	0.536
+6qj02zSeEJGWZ4c0dn5QzJ	Harry Styles	Boyfriends	USSM12200620	84	pop	0.935	0.417	0.0	0.0357	118.029	0.323	0.202
+0rzaRSujxA0bKyjJl6vHYq	Harry Styles	Satellite	USSM12200619	87	pop	0.143	0.576	3.05e-05	0.0304	138.984	0.301	0.457
+2NcQic8JxdjAlAHuNbOIRE	Harry Styles	Keep Driving	USSM12200618	86	pop	0.321	0.721	0.00156	0.226	164.948	0.902	0.479
+69w5X6uTrOaWM32IetSzvO	Harry Styles	Daydreaming	USSM12200617	86	pop	0.311	0.707	0.0152	0.0304	113.971	0.899	0.811
+35TyJIMR3xRouUuo2sjS6v	Harry Styles	Cinema	USSM12200616	86	pop	0.354	0.829	0.0511	0.0427	105.993	0.896	0.644
+6YZFglqIBL1w4p7UkA1kzq	Fernando Farinha,Conjunto de Guitarras de Raúl Nery	Canção de Lisboa	QZTRX2107396	29	fado,fado antigo	0.832	0.579	0.0	0.0339	111.902	0.725	0.246
+3hV5HNF7iSS7yGLsOf9lIG	Simone de Oliveira	Pela Luz Dos Olhos Teus	PTUM10200165	14	classic portuguese pop,fado,musica de intervencao	0.877	0.487	0.000905	0.0438	121.426	0.355	0.297
+310ZamhCLkcWVunmNpmyl4	Pedro Moutinho	Um copo de sol	PTIP10900014	18	fado	0.853	0.702	0.00256	0.0516	101.914	0.762	0.444
+3A7GDiX0pIKma7eofQ3d8x	António Zambujo	Foi Deus	PTOA10700051	12	fado	0.909	0.607	0.0	0.123	161.68	0.207	0.0348
+3jueczirq2DTNyB93TJXWf	António Zambujo	Algo Estranho Acontece	PTMW11100030	25	fado	0.871	0.855	0.00483	0.0627	119.932	0.445	0.254
+1CA97jiU4BO17wcwPBcy8r	Cézar Mendes,António Zambujo	Até o Fim	BR3UN1700010	18		0.965	0.541	0.00452	0.0605	89.722	0.229	0.0811
+05NoMD5Qwv1gLbKUfUZKbb	António Zambujo	Despassarado	PTNO11400022	12	fado	0.971	0.764	0.0152	0.0506	101.382	0.516	0.179
+6jnAuVYq24jwNMG9VmtiLn	Vitorino	Queda do império	PTEM18500046	36	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.816	0.421	0.0832	0.0297	83.166	0.444	0.248
+3X1RkqJC89WxK7sMdjV148	António Zambujo	Só Pode Ser Amor ( Fado Noquinhas )	PTMW11100037	10	fado	0.888	0.503	0.157	0.0324	110.681	0.35	0.308
+0etDv763gKnuEVCQhkEfZn	Paulo de Carvalho,Rita Guerra	Maria Vida Fria	PTUM71700152	17	classic portuguese pop,fado,musica de intervencao	0.657	0.273	0.0	0.0472	85.403	0.264	0.531
+1UluzKYEJ8vvOs016PGHSv	António Zambujo	Readers Digest	PTMW11000005	19	fado	0.835	0.584	8.56e-05	0.0989	99.864	0.498	0.362
+4mTocVucV3n6ojv8ePWMtH	Jorge Palma	Estrela Do Mar	PTUM10000139	34	fado,portuguese rock	0.984	0.345	0.00653	0.0346	86.347	0.0622	0.0507
+6kA8BPhziOnKxltcXymBS5	Samuel Uria	Chamar a Música	PTBM21300024	28	musica portuguesa contemporanea,portuguese indie,portuguese rock	0.781	0.697	0.0177	0.0324	140.009	0.77	0.245
+6MHEGSi5UmH9rDyOmGeBxX	Jorge Palma	Jeremias, O Fora Da Lei	PTUM10000142	28	fado,portuguese rock	0.983	0.637	0.13	0.0403	99.502	0.445	0.275
+6K3fx5VWl2fE17da4734Cy	Argentina Santos	Reviver o Passado	PTCN10300010	25	fado	0.911	0.696	2.15e-06	0.0941	95.545	0.797	0.198
+6zke0QiM8bV2gSYELSFTRr	JP Simões	Só mais um samba	PTNS10600031	13	portuguese indie	0.462	0.574	0.414	0.0392	96.095	0.587	0.519
+0RLaLiVQNkYi42Lj7u7BX1	Fausto	Foi Por Ela	PTSM18700012	30	classic portuguese pop,fado,musica de intervencao,portuguese rock	0.675	0.55	0.00524	0.0349	89.403	0.341	0.46
+6UpITqzn1NLiViiib911Fj	JP Simões	Se por acaso (me vires por aí)	PTNS10600037	29	portuguese indie	0.804	0.648	0.000367	0.0321	117.847	0.131	0.292
+6hmvsQiejc3tbzTUHAms3c	António Zambujo	Rua Dos Meus Ciúmes	PTMW11100031	21	fado	0.896	0.561	0.124	0.0352	118.477	0.436	0.322
+5Rx1CnaXaBhWsk8yCLH8IO	Bárbara Tinoco	??	QZHN52107043	0	portuguese pop
+4Sbo6LppkRCx5CFxPtFC7M	Slow J	FindSomeWhere	PT2HA2000014	24	hip hop tuga	0.88	0.935	0.955	0.176	132.02	0.437	0.179
+4Wr3rMJ4oLpAxNRaxmkZjm	Slow J	TryAndMeltMyFaith	PT2HA2000012	29	hip hop tuga	0.304	0.555	0.883	0.554	83.877	0.0788	0.254
+31pAz8UjFt3pbUrZSjqj7j	Diabo Na Cruz	Os Loucos Estão Certos	PTLH10900016	32	portuguese rock	0.0983	0.701	1.05e-05	0.0628	107.066	0.732	0.656
+5LFpFT24LQJgIAaGokMu66	Luca Argel	Gentrificasamba	US7VG1863486	12	musica portuguesa contemporanea	0.768	0.742	1.6e-05	0.519	170.03	0.849	0.293
+1OjAoIz5Gl36rzm9RKEQeG	Gson,Slow J,Sam The Kid	3,14	ES71G2119939	49	hip hop tuga	0.601	0.709	0.0	0.387	86.557	0.395	0.505
+1ywQNaspb2xoIMAtZWIHxi	Catraia	Ivonita, Meu Amor	PT2GZ2200010	4		0.984	0.617	0.0	0.0661	88.08	0.42	0.207
+0N6clb5emfLwiBDxW1Y9tI	Catraia,Tim	Podia Durar	PT2GZ2200004	6		0.856	0.633	1.3e-06	0.0263	87.84	0.399	0.214
+02CNIzSlTKF3GAN4NTpNoK	Catraia	Pé Descalço	PT2GZ2200009	8		0.657	0.784	0.0	0.0477	108.08	0.716	0.401
+4UD7TIn1dKFP4g106kYppA	Diabo Na Cruz	Duzentas Mil Horas	PT0CK1400002	18	portuguese rock	0.0714	0.581	5.96e-05	0.0542	152.079	0.648	0.619
+3OVbqrPn0n8CF8VFzqBLU0	Diabo Na Cruz	Sete Preces	PTKQ11200003	18	portuguese rock	0.00391	0.576	0.00063	0.032	100.071	0.829	0.847
+4RKnBQXe4hFIn4Sxt9prRU	X-Tense	22:22	TCADW1851416	43	hip hop tuga	0.587	0.843	0.233	0.0544	120.0	0.547	0.436
+06K3wPlQCkYaAXjTVbNvFs	Tiago Nacarato	Paz Interior	PTNO12200016	26	portuguese pop	0.889	0.607	0.00263	0.0394	104.28	0.168	0.0705
+0vY0Kn5TJewioo4yUUAJC0	Slow J	Vida Boa	USDHM1705499	39	hip hop tuga	0.0326	0.581	5.45e-05	0.283	124.403	0.565	0.507
+588UsEFXqSpXvF8lGJDQPu	Diabo Na Cruz	Bom Tempo	PTLH10900023	13	portuguese rock	0.0123	0.507	0.00159	0.0338	78.951	0.489	0.666
+4OpgaBFDA57WXU52dmR4r6	Diabo Na Cruz	Chegaram Os Santos	PTKQ11200007	15	portuguese rock	0.0031	0.427	0.00046	0.0656	166.952	0.604	0.89
+1IgMyOXbCYmeYNQN0VeiiV	Diabo Na Cruz	Corridinho do Verão	PTLH10900022	13	portuguese rock	0.0138	0.579	0.00324	0.0595	145.37	0.781	0.677
+77rBxMXk26MaV6L7fBGK8i	Cristina Branco	Noite, Onde Vais Cheia De Pressa?	PTUM71700368	11	fado,morna	0.866	0.504	2.62e-05	0.0277	95.724	0.137	0.283
+29k4vHakfXtrNQkqKpYTNo	Cristina Branco	Namora Comigo	PTUM71700367	10	fado,morna	0.873	0.371	0.0	0.0368	173.741	0.22	0.238
+5oGOwG8FhaKQyXrruJKkk6	Slow J	Só Queria Sorrir	PT2HA1900025	45	hip hop tuga	0.39	0.716	0.00121	0.0612	82.993	0.399	0.567
+2oFXP0T2AtTPX66U5NGUaj	Cristina Branco	Não Há Só Tangos Em Paris	FRUM71100062	34	fado,morna	0.753	0.634	0.0016	0.0388	136.093	0.489	0.353
+5x1XCWVCkrjWTSUygggIR9	Cristina Branco	Alvorada	PTUM71600138	34	fado,morna	0.895	0.707	0.000231	0.0382	116.064	0.346	0.318
+35gYeBK9dLPDv4IKt0qirq	Cristina Branco	Se Não Chovesse (Fado Súplica)	FRUM71100058	35	fado,morna	0.827	0.659	0.000698	0.0404	82.204	0.485	0.267
+4U6ZkXjl3S7dmURbqQfwxw	Os Quatro e Meia	Um Sim P'ra Regressar	PT7GE1700008	32	portuguese folk	0.293	0.727	0.000514	0.0449	130.001	0.277	0.401
+6AMz2plMmDIbE7JLEOSxEA	Chris Thile,Brad Mehldau	Don't Think Twice It's Alright	USNO11600992	41	bluegrass,classical mandolin,indie folk,instrumental bluegrass,mandolin,progressive bluegrass	0.966	0.527	0.205	0.0367	126.023	0.664	0.395
+0f0MPfwRqveleg1ooIXGLo	Miguel Araújo	Contamina-me	PT4CG1400007	12	portuguese pop,portuguese rock	0.509	0.742	0.000441	0.0494	110.054	0.779	0.732
+6K4t31amVTZDgR3sKmwUJJ	Tame Impala	The Less I Know The Better	AUUM71500303	84	australian psych,neo-psychedelic	0.0115	0.64	0.00678	0.0284	116.879	0.785	0.74
+4dnlbvqglDqyuGYjg8rBfc	Rita Payés,Elisabeth Roma	Nunca vas a comprender	GBLFP2045692	52	jazz catala	0.909	0.678	0.0234	0.0365	130.92	0.612	0.284
+0n2pjCIMKwHSXoYfEbYMfX	Stevie Wonder	You Are The Sunshine Of My Life	USMO17282852	71	funk,indie r&b,motown,quiet storm,soul	0.823	0.519	5.97e-05	0.0688	132.082	0.675	0.46
+0LuyeJV1PCZedzqpA0rrDC	Nação Zumbi	Sexual Healing	BR7UY1700009	48	brazilian indie,brazilian reggae,brazilian rock,manguebeat,mpb	0.854	0.632	0.000412	0.0341	95.006	0.83	0.454
+50ZbunKRxPbTa9sVu1iukc	Mac Miller	Everybody	USWB11801012	50	hip hop,pittsburgh rap,rap	0.0333	0.875	0.0143	0.138	152.061	0.112	0.599
+7s3ww2P0ShTAFLaVNVd7Rg	C. Tangana,Kiko Veneno	Los Tontos - Live at NPR's Tiny Desk	ES5022100399	55	urbano espanol	0.558	0.628	0.0	0.282	107.596	0.396	0.683
+6e65fH1wClamA2QPI5HUi3	Portico Quartet	Prickly Pear	GBVEN1000037	52	british jazz,contemporary jazz,electronica,indie jazz,jazz quartet,new tribe,nu jazz	0.965	0.4	0.944	0.0338	164.165	0.268	0.245
+0zIRkM0GxB1LQjZfQYh3wz	Snazzback,China Bowls	Grook	DEG932001376	26	uk contemporary jazz	0.539	0.584	0.0435	0.0396	101.193	0.248	0.372
+0tavdGfeX5L8A3xO0W3ayL	Marala,Aleix Tobías	A Trenc D'Alba	ES17D2000982	35	indie catala	0.634	0.648	0.00944	0.0341	116.486	0.203	0.407
+25jgNJpf9BeDrJRm44gbjn	Stckman	high	QZHNA2127525	29		0.583	0.914	0.296	0.112	114.999	0.105	0.359
+2JRD0oSJ6rD3vxpTNYqEGC	The Eddy	Call Me When You Get There	USQX92001360	27		0.491	0.492	0.0	0.0725	135.33	0.514	0.493
+3Zt1ziRYn8ABtqaApKGIcr	Rosa Passos	Fusion	USTE10664614	47	bossa nova,mpb	0.914	0.65	0.0032	0.0517	146.497	0.502	0.0981
+6EEglMg2h3npZVTQQzIOeX	Qinhones	Parafuso	BRUHT2000004	36	nova mpb,nova musica carioca	0.533	0.756	0.724	0.0319	137.987	0.823	0.519
+530AZwoo6ZzpBvPmeGxcae	Christian Sands	Sunday Mornings	USMAR1814305	36	jazz,modern jazz piano	0.887	0.449	0.906	0.0354	93.289	0.295	0.332
+6u8Rlns2AOOuGvq9CdMq3s	Andrea Motis,Joan Chamorro,Scott Hamilton,Ignasi Terraza,Esteve Pi,Josep Traver	Meditaçao	ES13S1301502	35	jazz catala,spanish jazz	0.858	0.555	0.454	0.0711	162.075	0.611	0.465
+7k331Yz3KZG0fUx91ZV7qN	Ben Wendel	Burning Bright	GBVEV2000321	24	contemporary jazz,jazz,uk contemporary jazz	0.319	0.273	0.325	0.0523	66.785	0.41	0.642
+5CW3Eo7Zvr2Rc0nL2I6wDt	Tiago Nacarato	Segredo	PT8DW1900008	21	portuguese pop	0.916	0.63	0.00017	0.0489	82.238	0.199	0.128
+4fMrHqL24eJXlfLDXv0SNe	Orquestra Bamba Social,Teresa Cristina	Meu Querido Samba (feat. Teresa Cristina)	PT9HX2000003	20	musica portuguesa contemporanea	0.725	0.609	0.0	0.0573	88.17	0.378	0.441
+277RSq830xKyj33we46sIE	Os Quatro e Meia	Estou Tão Bem Assim	PT9632000008	33	portuguese folk	0.526	0.546	0.00118	0.0327	118.019	0.37	0.568
+40DQ91LALgjBAhVOgLK6pa	Diabo Na Cruz	Vida de Estrada	PT0CK1400012	33	portuguese rock	0.0225	0.511	1.8e-05	0.067	166.04	0.768	0.803
+0pN2GC3MPtsmWWdfMlDU5O	Ben Wendel	High Heart	GBVEV2000320	15	contemporary jazz,jazz,uk contemporary jazz	0.564	0.235	0.828	0.0372	132.519	0.0731	0.551
+6aPn4FMBaAdpP4Ike5fnCT	Mário Delgado,Calos Barretto,Claus Nymark,Andrej Olejniczak,Alexandre Frazão	Armadilha Diabólica	PTNF10610093	2	portuguese jazz	0.793	0.513	0.267	0.0654	139.403	0.379	0.36
+3B7qjfXIm215igWw11nrLm	Mário Delgado,Calos Barretto,Claus Nymark,Andrej Olejniczak,Alexandre Frazão	I'm A Poor Lonesome Cowboy	PTNF10610092	3	portuguese jazz	0.675	0.386	0.654	0.031	84.014	0.212	0.264

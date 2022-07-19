@@ -1,0 +1,608 @@
+[
+    {
+        "listened_at": "2022-07-16T13:57:22",
+        "track_name": "Yeah! (feat. Lil Jon & Ludacris)",
+        "artist_name": "Usher, Lil Jon, Ludacris",
+        "release_name": "Confessions (Expanded Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
+        "listening_from": "spotify",
+        "isrc": "USAR10301423",
+        "additional_info": {
+            "artist_msid": "a89da5dc-811a-48ee-9f56-54f76eb1143a",
+            "artist_names": [
+                "Usher",
+                "Lil Jon",
+                "Ludacris"
+            ],
+            "discnumber": 1,
+            "duration_ms": 250373,
+            "isrc": "USAR10301423",
+            "listening_from": "spotify",
+            "recording_msid": "4896a277-492c-4866-b726-76fc1bc9922e",
+            "release_artist_name": "Usher",
+            "release_artist_names": [
+                "Usher"
+            ],
+            "release_msid": "a1a8e712-1d21-403a-ac96-9a24c912c764",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj",
+                "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK",
+                "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-16T13:55:37",
+        "track_name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+        "artist_name": "Eminem",
+        "release_name": "Just Lose It",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+        "listening_from": "spotify",
+        "isrc": "USIR10211559",
+        "additional_info": {
+            "artist_msid": "50403460-96dc-48c4-bf66-b39e02900f92",
+            "artist_names": [
+                "Eminem"
+            ],
+            "discnumber": 1,
+            "duration_ms": 322226,
+            "isrc": "USIR10211559",
+            "listening_from": "spotify",
+            "recording_msid": "10860870-969c-4e37-bb00-d5c682c3f259",
+            "release_artist_name": "Eminem",
+            "release_artist_names": [
+                "Eminem"
+            ],
+            "release_msid": "40709a09-eced-4fec-958c-20da97557eb0",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-16T13:48:10",
+        "track_name": "Just Dance",
+        "artist_name": "Lady Gaga, Colby O'Donis",
+        "release_name": "The Fame",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J",
+        "listening_from": "spotify",
+        "isrc": "USUM70807646",
+        "additional_info": {
+            "artist_msid": "a95ea04b-9def-4a62-ae86-651ba43068cb",
+            "artist_names": [
+                "Lady Gaga",
+                "Colby O'Donis"
+            ],
+            "discnumber": 1,
+            "duration_ms": 241933,
+            "isrc": "USUM70807646",
+            "listening_from": "spotify",
+            "recording_msid": "9160d5f0-8bc8-40fe-869e-e964ea479621",
+            "release_artist_name": "Lady Gaga",
+            "release_artist_names": [
+                "Lady Gaga"
+            ],
+            "release_msid": "73cd563d-1dd1-40e0-82e8-2fca5b261560",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+                "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-16T13:44:08",
+        "track_name": "Umbrella",
+        "artist_name": "Rihanna, JAY-Z",
+        "release_name": "Good Girl Gone Bad: Reloaded",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux",
+        "listening_from": "spotify",
+        "isrc": "USUM70736771",
+        "additional_info": {
+            "artist_msid": "bd1a052b-07b7-4162-8b2c-9f73e4cbd017",
+            "artist_names": [
+                "Rihanna",
+                "JAY-Z"
+            ],
+            "discnumber": 1,
+            "duration_ms": 275986,
+            "isrc": "USUM70736771",
+            "listening_from": "spotify",
+            "recording_msid": "8e066a54-c94c-4012-8c38-86c64fb9023b",
+            "release_artist_name": "Rihanna",
+            "release_artist_names": [
+                "Rihanna"
+            ],
+            "release_msid": "6a7b9fae-ef0b-44df-9064-01d9541492fe",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H",
+                "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            ],
+            "spotify_id": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:45:09",
+        "track_name": "What Could Have Been feat. Ray Chen (from the series Arcane League of Legends)",
+        "artist_name": "Sting, Ray Chen",
+        "release_name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 11,
+        "spotify_id": "https://open.spotify.com/track/4Oih3RDrSFg3afaOphBVuy",
+        "listening_from": "spotify",
+        "isrc": "QZH6S1900378",
+        "additional_info": {
+            "artist_msid": "73f64d4e-c75f-4d10-bb35-684430561e6f",
+            "artist_names": [
+                "Sting",
+                "Ray Chen"
+            ],
+            "discnumber": 1,
+            "duration_ms": 213474,
+            "isrc": "QZH6S1900378",
+            "listening_from": "spotify",
+            "recording_msid": "33872e18-ab99-4696-94d6-c0c66c6b0fb5",
+            "release_artist_name": "Arcane, League of Legends",
+            "release_artist_names": [
+                "Arcane",
+                "League of Legends"
+            ],
+            "release_msid": "b2d1fdec-4088-4bd2-8e67-851c5a2a7247",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR",
+                "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk",
+                "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4Oih3RDrSFg3afaOphBVuy",
+            "tracknumber": 11
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:43:53",
+        "track_name": "Yeah! (feat. Lil Jon & Ludacris)",
+        "artist_name": "Usher, Lil Jon, Ludacris",
+        "release_name": "Confessions (Expanded Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
+        "listening_from": "spotify",
+        "isrc": "USAR10301423",
+        "additional_info": {
+            "artist_msid": "a89da5dc-811a-48ee-9f56-54f76eb1143a",
+            "artist_names": [
+                "Usher",
+                "Lil Jon",
+                "Ludacris"
+            ],
+            "discnumber": 1,
+            "duration_ms": 250373,
+            "isrc": "USAR10301423",
+            "listening_from": "spotify",
+            "recording_msid": "4896a277-492c-4866-b726-76fc1bc9922e",
+            "release_artist_name": "Usher",
+            "release_artist_names": [
+                "Usher"
+            ],
+            "release_msid": "a1a8e712-1d21-403a-ac96-9a24c912c764",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj",
+                "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK",
+                "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:39:32",
+        "track_name": "Hold Me Closer",
+        "artist_name": "Cornelia Jakobs",
+        "release_name": "Hold Me Closer",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD",
+        "listening_from": "spotify",
+        "isrc": "SE5YN2200301",
+        "additional_info": {
+            "artist_msid": "c3cb9eac-6a67-4bf5-a354-db6f48fde4e8",
+            "artist_names": [
+                "Cornelia Jakobs"
+            ],
+            "discnumber": 1,
+            "duration_ms": 199426,
+            "isrc": "SE5YN2200301",
+            "listening_from": "spotify",
+            "recording_msid": "4286e163-cd6a-4c2a-b083-dc69c01c5c0e",
+            "release_artist_name": "Cornelia Jakobs",
+            "release_artist_names": [
+                "Cornelia Jakobs"
+            ],
+            "release_msid": "aef92ce9-9e58-42e9-a691-f162a1995afd",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+            ],
+            "spotify_id": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:36:12",
+        "track_name": "Fulenn",
+        "artist_name": "Alvan, Ahez",
+        "release_name": "Magma",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/43UejonUIN69O8NNAFRu5X",
+        "listening_from": "spotify",
+        "isrc": "FR9W12204047",
+        "additional_info": {
+            "artist_msid": "5340658c-fd97-49c3-9bf5-39206d2b2841",
+            "artist_names": [
+                "Alvan",
+                "Ahez"
+            ],
+            "discnumber": 1,
+            "duration_ms": 166255,
+            "isrc": "FR9W12204047",
+            "listening_from": "spotify",
+            "recording_msid": "eed54ada-e547-49c4-b37e-d24f3e4ee480",
+            "release_artist_name": "Alvan",
+            "release_artist_names": [
+                "Alvan"
+            ],
+            "release_msid": "408ef6e2-c7e6-461b-83ee-3f7b04799b73",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/25OslGicPT7wGn5Ovf4Uwx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0t31E2aU5XmnUErQWKsy1n",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/25OslGicPT7wGn5Ovf4Uwx",
+                "https://open.spotify.com/artist/08RIw4S0rUXGlhFPBmMeko"
+            ],
+            "spotify_id": "https://open.spotify.com/track/43UejonUIN69O8NNAFRu5X",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:33:25",
+        "track_name": "NUN CE PENZ\u00c0",
+        "artist_name": "LIBERATO",
+        "release_name": "LIBERATO II",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/3PpgbB4N9rMu4c2FKYyANb",
+        "listening_from": "spotify",
+        "isrc": "FR0ML2200100",
+        "additional_info": {
+            "artist_msid": "0d95fba5-5b36-44c6-ba8f-7fdf36e68f22",
+            "artist_names": [
+                "LIBERATO"
+            ],
+            "discnumber": 1,
+            "duration_ms": 272869,
+            "isrc": "FR0ML2200100",
+            "listening_from": "spotify",
+            "recording_msid": "c75bebd6-2149-4220-b008-2a51455579d0",
+            "release_artist_name": "LIBERATO",
+            "release_artist_names": [
+                "LIBERATO"
+            ],
+            "release_msid": "e4ad18b9-955d-4a65-9d14-2c5f1efb33a7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3PpgbB4N9rMu4c2FKYyANb",
+            "tracknumber": 2
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:28:52",
+        "track_name": "In corpore sano",
+        "artist_name": "Konstrakta",
+        "release_name": "In corpore sano",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg",
+        "listening_from": "spotify",
+        "isrc": "RSA042200033",
+        "additional_info": {
+            "artist_msid": "88381f10-5b19-46c3-912d-eb85155c9d22",
+            "artist_names": [
+                "Konstrakta"
+            ],
+            "discnumber": 1,
+            "duration_ms": 179482,
+            "isrc": "RSA042200033",
+            "listening_from": "spotify",
+            "recording_msid": "694caaaa-7ebf-4a08-a5b9-5a18e969f8d2",
+            "release_artist_name": "Konstrakta",
+            "release_artist_names": [
+                "Konstrakta"
+            ],
+            "release_msid": "fef2e978-4d02-4f98-adc0-e3d5c7f95a65",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:26:00",
+        "track_name": "Penso Positivo",
+        "artist_name": "Jovanotti",
+        "release_name": "Lorenzo 1994",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/0F6Ad8l9EDbcjrsZ4TIqkc",
+        "listening_from": "spotify",
+        "isrc": "IT7009302410",
+        "additional_info": {
+            "artist_msid": "0d0f6004-87f4-4576-ab7f-0fd9215cb09a",
+            "artist_names": [
+                "Jovanotti"
+            ],
+            "discnumber": 1,
+            "duration_ms": 306226,
+            "isrc": "IT7009302410",
+            "listening_from": "spotify",
+            "recording_msid": "ecdf72f4-ba8d-4d69-9b10-3e426e19adeb",
+            "release_artist_name": "Jovanotti",
+            "release_artist_names": [
+                "Jovanotti"
+            ],
+            "release_msid": "8b47bd04-541a-4dd6-9090-164646545f3e",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2gWDLp7xKmu8QFXsMhgk93",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0F6Ad8l9EDbcjrsZ4TIqkc",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:20:53",
+        "track_name": "Bad Romance",
+        "artist_name": "Lady Gaga",
+        "release_name": "The Fame Monster (Deluxe Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn",
+        "listening_from": "spotify",
+        "isrc": "USUM70918596",
+        "additional_info": {
+            "artist_msid": "260a4dc3-19c5-4fae-9f2f-d495a8baa13d",
+            "artist_names": [
+                "Lady Gaga"
+            ],
+            "discnumber": 1,
+            "duration_ms": 294573,
+            "isrc": "USUM70918596",
+            "listening_from": "spotify",
+            "recording_msid": "442db4e9-3f32-42d3-a285-3631093c71f7",
+            "release_artist_name": "Lady Gaga",
+            "release_artist_names": [
+                "Lady Gaga"
+            ],
+            "release_msid": "5914efef-3353-4a49-9af4-9267eb8c66ab",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:15:58",
+        "track_name": "Poker Face",
+        "artist_name": "Lady Gaga",
+        "release_name": "The Fame",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg",
+        "listening_from": "spotify",
+        "isrc": "USUM70824409",
+        "additional_info": {
+            "artist_msid": "260a4dc3-19c5-4fae-9f2f-d495a8baa13d",
+            "artist_names": [
+                "Lady Gaga"
+            ],
+            "discnumber": 1,
+            "duration_ms": 237200,
+            "isrc": "USUM70824409",
+            "listening_from": "spotify",
+            "recording_msid": "300b69bc-095e-472d-85ab-2d545b72e535",
+            "release_artist_name": "Lady Gaga",
+            "release_artist_names": [
+                "Lady Gaga"
+            ],
+            "release_msid": "73cd563d-1dd1-40e0-82e8-2fca5b261560",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg",
+            "tracknumber": 4
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-12T19:27:15",
+        "track_name": "Don't Stop The Music",
+        "artist_name": "Rihanna",
+        "release_name": "Good Girl Gone Bad: Reloaded",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy",
+        "listening_from": "spotify",
+        "isrc": "USUM70734700",
+        "additional_info": {
+            "artist_msid": "710c3c77-cc44-45ae-b77a-2d1f25b1f482",
+            "artist_names": [
+                "Rihanna"
+            ],
+            "discnumber": 1,
+            "duration_ms": 267080,
+            "isrc": "USUM70734700",
+            "listening_from": "spotify",
+            "recording_msid": "f8988696-af15-4b19-965b-6e3c8bc34221",
+            "release_artist_name": "Rihanna",
+            "release_artist_names": [
+                "Rihanna"
+            ],
+            "release_msid": "6a7b9fae-ef0b-44df-9064-01d9541492fe",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy",
+            "tracknumber": 3
+        },
+        "username": null
+    }
+]

@@ -1,0 +1,834 @@
+[
+    {
+        "listened_at": "2022-07-09T02:52:32",
+        "track_name": "Moscow Mule",
+        "artist_name": "Bad Bunny",
+        "release_name": "Un Verano Sin Ti",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
+        "listening_from": "spotify",
+        "isrc": "QM6MZ2214875",
+        "additional_info": {
+            "artist_msid": "52149dc1-7288-425d-9bbb-2b9a8f685755",
+            "artist_names": [
+                "Bad Bunny"
+            ],
+            "discnumber": 1,
+            "duration_ms": 245939,
+            "isrc": "QM6MZ2214875",
+            "listening_from": "spotify",
+            "recording_msid": "a0c5e86a-e110-4bda-a132-2e4ae5606168",
+            "release_artist_name": "Bad Bunny",
+            "release_artist_names": [
+                "Bad Bunny"
+            ],
+            "release_msid": "fbb7fba8-017d-41da-b2d8-51eee4db6244",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-09T01:48:31",
+        "track_name": "MEMORIAS",
+        "artist_name": "Mora, Jhay Cortez",
+        "release_name": "MICRODOSIS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2252943",
+        "additional_info": {
+            "artist_msid": "d38de028-a3f3-48ab-bf44-4801a22ffe71",
+            "artist_names": [
+                "Mora",
+                "Jhay Cortez"
+            ],
+            "discnumber": 1,
+            "duration_ms": 228750,
+            "isrc": "QM4TX2252943",
+            "listening_from": "spotify",
+            "recording_msid": "de70c39e-d68d-473c-aa5e-ddc0e16c445d",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "64afce18-6d58-4359-a085-7c2bba2137d2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+                "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T19:40:08",
+        "track_name": "LA INOCENTE",
+        "artist_name": "Mora, Feid",
+        "release_name": "MICRODOSIS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2252954",
+        "additional_info": {
+            "artist_msid": "324976c6-7d11-4bc2-b9ef-775c01ed7eb3",
+            "artist_names": [
+                "Mora",
+                "Feid"
+            ],
+            "discnumber": 1,
+            "duration_ms": 202173,
+            "isrc": "QM4TX2252954",
+            "listening_from": "spotify",
+            "recording_msid": "f893e597-6be7-4046-a356-62993a531b65",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "64afce18-6d58-4359-a085-7c2bba2137d2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+                "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T19:35:49",
+        "track_name": "512",
+        "artist_name": "Mora, Jhay Cortez",
+        "release_name": "Primer Dia de Clases",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2",
+        "listening_from": "spotify",
+        "isrc": "QM4TW2165662",
+        "additional_info": {
+            "artist_msid": "d38de028-a3f3-48ab-bf44-4801a22ffe71",
+            "artist_names": [
+                "Mora",
+                "Jhay Cortez"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193636,
+            "isrc": "QM4TW2165662",
+            "listening_from": "spotify",
+            "recording_msid": "83fb866e-e092-4434-a0a1-e25349f70335",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "2475a080-8c7d-4a87-9a30-e29dcf055c08",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+                "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T19:32:34",
+        "track_name": "Una Vez",
+        "artist_name": "Bad Bunny, Mora",
+        "release_name": "YHLQMDLG",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 13,
+        "spotify_id": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2030960",
+        "additional_info": {
+            "artist_msid": "17e754d1-38f5-4210-9ab6-5efaec157358",
+            "artist_names": [
+                "Bad Bunny",
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 232496,
+            "isrc": "QM4TX2030960",
+            "listening_from": "spotify",
+            "recording_msid": "a8178ab6-e4bf-4c77-a66c-69c226201c2e",
+            "release_artist_name": "Bad Bunny",
+            "release_artist_names": [
+                "Bad Bunny"
+            ],
+            "release_msid": "7243a7fb-ad48-45a7-9699-6d232d69d40f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj",
+            "tracknumber": 13
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T19:28:42",
+        "track_name": "Volando - Remix",
+        "artist_name": "Mora, Bad Bunny, Sech",
+        "release_name": "Volando (Remix)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe",
+        "listening_from": "spotify",
+        "isrc": "QMFME2105596",
+        "additional_info": {
+            "artist_msid": "1bfa5728-a7f5-402f-8a97-b541c31e5e2c",
+            "artist_names": [
+                "Mora",
+                "Bad Bunny",
+                "Sech"
+            ],
+            "discnumber": 1,
+            "duration_ms": 273474,
+            "isrc": "QMFME2105596",
+            "listening_from": "spotify",
+            "recording_msid": "a41532b2-27dc-44cd-b34a-15f1adc2b50b",
+            "release_artist_name": "Mora, Bad Bunny, Sech",
+            "release_artist_names": [
+                "Mora",
+                "Bad Bunny",
+                "Sech"
+            ],
+            "release_msid": "9bd24316-fb75-4a76-bc86-ceae667a98f6",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T19:20:09",
+        "track_name": "TUS L\u00c1GRIMAS",
+        "artist_name": "Mora, Sech",
+        "release_name": "MICRODOSIS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 7,
+        "spotify_id": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2252947",
+        "additional_info": {
+            "artist_msid": "73ce7922-f23e-4f08-a2b9-4b9633b0565b",
+            "artist_names": [
+                "Mora",
+                "Sech"
+            ],
+            "discnumber": 1,
+            "duration_ms": 174482,
+            "isrc": "QM4TX2252947",
+            "listening_from": "spotify",
+            "recording_msid": "f74830e0-7aca-44f5-8715-f8540538224d",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "64afce18-6d58-4359-a085-7c2bba2137d2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+                "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+            ],
+            "spotify_id": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u",
+            "tracknumber": 7
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T18:34:07",
+        "track_name": "PECADO",
+        "artist_name": "Mora",
+        "release_name": "MICRODOSIS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/4tw2afU1W4m0hgaL7XySKO",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2252945",
+        "additional_info": {
+            "artist_msid": "3bf893dd-620e-47c8-9e30-d5803d8cd2e3",
+            "artist_names": [
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 171976,
+            "isrc": "QM4TX2252945",
+            "listening_from": "spotify",
+            "recording_msid": "d69868c8-970f-41ee-8238-e3dab92f69f8",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "64afce18-6d58-4359-a085-7c2bba2137d2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4tw2afU1W4m0hgaL7XySKO",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T18:31:14",
+        "track_name": "Dandole",
+        "artist_name": "Mora",
+        "release_name": "Dandole",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1JnbGeLOqp5bw7fc5mGtiL",
+        "listening_from": "spotify",
+        "isrc": "QM7281978486",
+        "additional_info": {
+            "artist_msid": "3bf893dd-620e-47c8-9e30-d5803d8cd2e3",
+            "artist_names": [
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 148871,
+            "isrc": "QM7281978486",
+            "listening_from": "spotify",
+            "recording_msid": "ecae8e86-7c1a-4323-868d-584cced65bfb",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "fa01e114-bb25-4abf-af6a-d9da55f3e411",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/186qawsDlBUzcxJ8KGmOZz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1JnbGeLOqp5bw7fc5mGtiL",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T18:24:47",
+        "track_name": "Miradas",
+        "artist_name": "Mora",
+        "release_name": "Miradas",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4qvK58rpefICOXXNo1UqzE",
+        "listening_from": "spotify",
+        "isrc": "QM6P41999678",
+        "additional_info": {
+            "artist_msid": "3bf893dd-620e-47c8-9e30-d5803d8cd2e3",
+            "artist_names": [
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 177600,
+            "isrc": "QM6P41999678",
+            "listening_from": "spotify",
+            "recording_msid": "50a31d75-45fe-4758-8d4c-ac1fb4438af3",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "c7780d7d-217c-4d03-8c33-4d6048754db3",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0E7ciSSnc5pd9bqGXGp4NA",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4qvK58rpefICOXXNo1UqzE",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T18:21:38",
+        "track_name": "LA INOCENTE",
+        "artist_name": "Mora, Feid",
+        "release_name": "MICRODOSIS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2252954",
+        "additional_info": {
+            "artist_msid": "324976c6-7d11-4bc2-b9ef-775c01ed7eb3",
+            "artist_names": [
+                "Mora",
+                "Feid"
+            ],
+            "discnumber": 1,
+            "duration_ms": 202173,
+            "isrc": "QM4TX2252954",
+            "listening_from": "spotify",
+            "recording_msid": "f893e597-6be7-4046-a356-62993a531b65",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "64afce18-6d58-4359-a085-7c2bba2137d2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+                "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T18:18:16",
+        "track_name": "Volando",
+        "artist_name": "Mora",
+        "release_name": "Primer Dia de Clases",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 5,
+        "spotify_id": "https://open.spotify.com/track/4M6xyu1AHnaWAN8lHMNeo0",
+        "listening_from": "spotify",
+        "isrc": "QM4TW2165661",
+        "additional_info": {
+            "artist_msid": "3bf893dd-620e-47c8-9e30-d5803d8cd2e3",
+            "artist_names": [
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 188571,
+            "isrc": "QM4TW2165661",
+            "listening_from": "spotify",
+            "recording_msid": "ebc94e3f-97b3-446a-8066-ddddaae7c73a",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "2475a080-8c7d-4a87-9a30-e29dcf055c08",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4M6xyu1AHnaWAN8lHMNeo0",
+            "tracknumber": 5
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T18:14:57",
+        "track_name": "Amor Bipolar",
+        "artist_name": "Duki, Mora",
+        "release_name": "Temporada de Reggaet\u00f3n 2",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2",
+        "listening_from": "spotify",
+        "isrc": "UYB282240010",
+        "additional_info": {
+            "artist_msid": "a99a17df-95ed-472d-8dfe-a780164d1860",
+            "artist_names": [
+                "Duki",
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 195652,
+            "isrc": "UYB282240010",
+            "listening_from": "spotify",
+            "recording_msid": "a9248fa1-5e08-4a5e-b8ee-74870c81e089",
+            "release_artist_name": "Duki",
+            "release_artist_names": [
+                "Duki"
+            ],
+            "release_msid": "60af67e7-1ff0-48b6-851a-a8d4e1486f5b",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg",
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-08T18:10:54",
+        "track_name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "artist_name": "Bizarrap, Quevedo",
+        "release_name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw",
+        "listening_from": "spotify",
+        "isrc": "UYB282201028",
+        "additional_info": {
+            "artist_msid": "14dd41b4-e6eb-4e3b-aa9e-fc18f3a91cad",
+            "artist_names": [
+                "Bizarrap",
+                "Quevedo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 198937,
+            "isrc": "UYB282201028",
+            "listening_from": "spotify",
+            "recording_msid": "8e38e60a-601a-4850-9063-2e352794981e",
+            "release_artist_name": "Bizarrap, Quevedo",
+            "release_artist_names": [
+                "Bizarrap",
+                "Quevedo"
+            ],
+            "release_msid": "7a1ebbf1-644c-4194-b148-cf5daa0faa60",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36",
+                "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36",
+                "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-07T20:55:49",
+        "track_name": "Trip To Holland",
+        "artist_name": "Dr. Peacock, Partyraiser",
+        "release_name": "Trip To Holland",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/662MsHxAl0torolSWynOGU",
+        "listening_from": "spotify",
+        "isrc": "NLS161801309",
+        "additional_info": {
+            "artist_msid": "d06f632d-6041-468a-b6f0-019f0fc7dcd9",
+            "artist_names": [
+                "Dr. Peacock",
+                "Partyraiser"
+            ],
+            "discnumber": 1,
+            "duration_ms": 211200,
+            "isrc": "NLS161801309",
+            "listening_from": "spotify",
+            "recording_msid": "75821d8c-73b2-4d7e-ae1c-eb831b6443ba",
+            "release_artist_name": "Dr. Peacock, Partyraiser",
+            "release_artist_names": [
+                "Dr. Peacock",
+                "Partyraiser"
+            ],
+            "release_msid": "6393d2e2-7b1f-4411-a65f-e15519084dac",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3",
+                "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2IrWM5wWoLzyGV3MExlt3x",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3",
+                "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+            ],
+            "spotify_id": "https://open.spotify.com/track/662MsHxAl0torolSWynOGU",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-07T20:54:15",
+        "track_name": "ESCALOFR\u00cdOS",
+        "artist_name": "Mora",
+        "release_name": "MICRODOSIS",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7",
+        "listening_from": "spotify",
+        "isrc": "QM4TX2252948",
+        "additional_info": {
+            "artist_msid": "3bf893dd-620e-47c8-9e30-d5803d8cd2e3",
+            "artist_names": [
+                "Mora"
+            ],
+            "discnumber": 1,
+            "duration_ms": 138510,
+            "isrc": "QM4TX2252948",
+            "listening_from": "spotify",
+            "recording_msid": "fb801a20-4b75-42b3-8799-8d2ef839e667",
+            "release_artist_name": "Mora",
+            "release_artist_names": [
+                "Mora"
+            ],
+            "release_msid": "64afce18-6d58-4359-a085-7c2bba2137d2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-07T20:49:30",
+        "track_name": "Me Porto Bonito",
+        "artist_name": "Bad Bunny, Chencho Corleone",
+        "release_name": "Un Verano Sin Ti",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx",
+        "listening_from": "spotify",
+        "isrc": "QM6MZ2214877",
+        "additional_info": {
+            "artist_msid": "4db9cb78-1df2-4af1-8aea-f26beda713c8",
+            "artist_names": [
+                "Bad Bunny",
+                "Chencho Corleone"
+            ],
+            "discnumber": 1,
+            "duration_ms": 178567,
+            "isrc": "QM6MZ2214877",
+            "listening_from": "spotify",
+            "recording_msid": "66161f5b-7111-4d8e-9c11-c5515174abd4",
+            "release_artist_name": "Bad Bunny",
+            "release_artist_names": [
+                "Bad Bunny"
+            ],
+            "release_msid": "fbb7fba8-017d-41da-b2d8-51eee4db6244",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-07T20:46:34",
+        "track_name": "Me Porto Bonito",
+        "artist_name": "Bad Bunny, Chencho Corleone",
+        "release_name": "Un Verano Sin Ti",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx",
+        "listening_from": "spotify",
+        "isrc": "QM6MZ2214877",
+        "additional_info": {
+            "artist_msid": "4db9cb78-1df2-4af1-8aea-f26beda713c8",
+            "artist_names": [
+                "Bad Bunny",
+                "Chencho Corleone"
+            ],
+            "discnumber": 1,
+            "duration_ms": 178567,
+            "isrc": "QM6MZ2214877",
+            "listening_from": "spotify",
+            "recording_msid": "66161f5b-7111-4d8e-9c11-c5515174abd4",
+            "release_artist_name": "Bad Bunny",
+            "release_artist_names": [
+                "Bad Bunny"
+            ],
+            "release_msid": "fbb7fba8-017d-41da-b2d8-51eee4db6244",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-05T17:55:46",
+        "track_name": "Dos Mil 16",
+        "artist_name": "Bad Bunny",
+        "release_name": "Un Verano Sin Ti",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 15,
+        "spotify_id": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2",
+        "listening_from": "spotify",
+        "isrc": "QM6MZ2214889",
+        "additional_info": {
+            "artist_msid": "52149dc1-7288-425d-9bbb-2b9a8f685755",
+            "artist_names": [
+                "Bad Bunny"
+            ],
+            "discnumber": 1,
+            "duration_ms": 208615,
+            "isrc": "QM6MZ2214889",
+            "listening_from": "spotify",
+            "recording_msid": "960c15f5-61c0-4843-9bb1-57b7d44110f3",
+            "release_artist_name": "Bad Bunny",
+            "release_artist_names": [
+                "Bad Bunny"
+            ],
+            "release_msid": "fbb7fba8-017d-41da-b2d8-51eee4db6244",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2",
+            "tracknumber": 15
+        },
+        "username": null
+    }
+]

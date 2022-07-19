@@ -1,0 +1,89 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1f267tvmtdQTr7oJcV4Vpq	Alan Walker,K-391,Emelie Hollow	Lily - Slowed Remix	NOG841813150	54	electro house	0.145	0.611	0.0	0.0364	121.503	0.368	0.594
+6GGYu7crGYv0Rl2PKKtr3Y	Swedish House Mafia,Connie Constance	Heaven Takes You Home (feat. Connie Constance) - Extended Mix	USUG12205337	57	edm,pop,pop dance,progressive electro house	0.00864	0.784	0.0543	0.0558	124.978	0.0673	0.616
+1lXyxleB814ehGUXzsWNXu	Armin van Buuren,Maia Wright	One More Time	NLF712204414	59	dutch trance,edm,pop dance,progressive house,trance	0.1	0.579	0.00176	0.0509	126.165	0.287	0.761
+2wGSgTmgSF3xjRrHkTc25R	The Game,50 Cent	Hate It Or Love It	USIR10401121	82	gangster rap,hip hop,pop rap,rap,southern hip hop,trap	0.14	0.802	0.0	0.207	99.998	0.435	0.785
+3vXnuFnC5RhPGwsFi0ORcI	Stromae	Santé	BET672100001	67	belgian pop,g-house	0.123	0.641	3.36e-05	0.354	138.095	0.836	0.681
+6nTiIhLmQ3FWhvrGafw2zj	Green Day	American Idiot	USRE10400888	79	permanent wave,punk	2.64e-05	0.38	7.86e-05	0.0639	186.113	0.769	0.988
+0HJRAM7Gt9jXskuXjZeFX3	Green Day	Holiday / Boulevard of Broken Dreams	USRE10401218	60	permanent wave,punk	0.000659	0.29	2.55e-06	0.0362	167.086	0.45	0.827
+52BHuLFKoBemaQ1oOPFhFZ	All Time Low,Pale Waves	PMA (feat. Pale Waves)	USAT22103782	60	modern rock,pop punk,rock	0.000575	0.441	0.0	0.112	155.067	0.657	0.944
+2u4IJKewUvcJ9B6Wng92PI	GIMS	Yolo	FR8FB2007100	34	francoton,french hip hop,rap conscient	0.516	0.756	0.000597	0.0627	91.463	0.775	0.72
+4btFHqumCO31GksfuBLLv3	Ed Sheeran	Overpass Graffiti	GBAHS2100673	81	pop,uk pop	0.00253	0.52	0.0	0.186	175.908	0.774	0.849
+32mh68dSJquytIBqAHzjxW	GIMS,Vitaa	Prends ma main	FR8FB2122200	45	francoton,french hip hop,rap conscient	0.463	0.848	2.09e-06	0.0379	100.927	0.628	0.598
+7rb4dcBfW0m1LQQcDCh4Hv	Lorde	Mood Ring	NZUM72100187	66	art pop,dance pop,electropop,metropopolis,nz pop,pop,uk pop	0.422	0.683	1.17e-05	0.0744	95.011	0.373	0.478
+0VF7YLIxSQKyNiFL3X6MmN	The Neighbourhood	Stargazing	USSM12006844	76	modern alternative rock,modern rock,pop,shimmer pop	0.00304	0.512	0.0011	0.0298	160.009	0.367	0.483
+7CUk9X9Qy2nGCNrHVkddiJ	The Neighbourhood	Lost in Translation	USSM12003768	47	modern alternative rock,modern rock,pop,shimmer pop	0.000896	0.568	0.000137	0.0376	104.954	0.522	0.891
+6kfQDanT6Buh4Wu73ghbav	50 Cent,Justin Timberlake,Timbaland	Ayo Technology	USUM70735445	68	east coast hip hop,gangster rap,hip hop,pop rap,queens hip hop,rap	0.0828	0.63	0.0	0.132	140.144	0.418	0.782
+4odiyU3myG29Ld0wurMfE8	Sean Paul	She Doesn't Mind	USAT21102329	71	dance pop,dancehall,pop,pop rap	0.000624	0.718	5.3e-06	0.0693	120.015	0.622	0.776
+0gBfLS4aqbrr1ZvVv8dqWB	Edward Maya,Vika Jigulina	Stereo Love	ROCMA0901578	68	dance pop,romanian house,romanian pop	0.0338	0.778	0.0218	0.0362	127.051	0.362	0.777
+3nEHrvNNtgLv9rneTAYVr4	Swedish House Mafia,Connie Constance	Heaven Takes You Home (feat. Connie Constance)	USUG12202132	82	edm,pop,pop dance,progressive electro house	0.0124	0.665	0.00598	0.0379	125.037	0.0389	0.738
+2uDyv5rw4333xY5obTeByt	Alan Walker,Au/Ra	Somebody Like U	NOG842207010	72	electro house	0.156	0.616	0.0	0.0621	124.957	0.207	0.691
+5d1pa5SEouUZdmV6Yw40Zv	Nej,Vegedream	Demain c'est loin	FR9KT2100440	34	pop urbaine	0.501	0.711	0.0	0.0621	89.919	0.618	0.636
+6w2jx3gzQAtoKP22czcANv	Stromae	Fils de joie	BET672100004	68	belgian pop,g-house	0.46	0.547	4.15e-06	0.25	62.526	0.882	0.638
+75FEaRjZTKLhTrFGsfMUXR	Kate Bush	Running Up That Hill (A Deal With God)	GBCNR8500002	97	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter,uk pop	0.72	0.629	0.00314	0.055	108.375	0.197	0.547
+6CDzDgIUqeDY5g8ujExx2f	Glass Animals	Heat Waves	GBUM72000433	87	gauze pop,indietronica,shiver pop	0.44	0.761	6.7e-06	0.0944	80.87	0.531	0.525
+4mGdjNMo0RonTlOEb7cYg4	YUNGBLUD,Halsey,Travis Barker	11 Minutes (with Halsey feat. Travis Barker)	USUG11800795	66	british indie rock,modern rock,pop,rock	0.0116	0.464	0.0	0.067	160.075	0.233	0.852
+0odvDlxXZuhl6bgFjfb7fo	Fightstar	Overdrive	UKCCF1500006	17	british alternative rock,uk post-hardcore	0.00012	0.44	0.000132	0.0603	145.004	0.352	0.955
+05KOgYg8PGeJyyWBPi5ja8	Drake	Free Smoke	USCM51700056	65	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0681	0.736	0.0	0.439	141.979	0.203	0.491
+4ppG3XawSqo2b0qpq4E3vb	Armin van Buuren,Davina Michelle	Hold On	NLF712107705	59	dutch trance,edm,pop dance,progressive house,trance	0.037	0.603	2.24e-06	0.0646	132.047	0.327	0.738
+2dIS3qsUS2WrW1W9qtY8yl	tripsyhell,Chico da Tina	HEART	PT1JV2000001	29	trap tuga	0.756	0.764	0.107	0.0813	140.027	0.727	0.498
+0EwfAdBab8DRcDCC1RKhMY	Fall Out Boy	Fame < Infamy	USUM70700334	49	emo,modern rock,rock	0.000193	0.407	0.000113	0.0856	168.891	0.647	0.969
+42mtKhO69wcgcbq0Yhn5im	Michael Barr	No Control	QZHN41956270	40	la pop	0.3	0.758	0.000155	0.0497	134.996	0.361	0.462
+6TA5aymvVrtiPVbuAwmPIc	The Neighbourhood	Scary Love	USSM11709908	68	modern alternative rock,modern rock,pop,shimmer pop	9.45e-05	0.595	0.0529	0.0312	112.008	0.147	0.636
+7GX5flRQZVHRAGd6B4TmDO	Lil Uzi Vert	XO Tour Llif3	USAT21703440	82	melodic rap,philly rap,rap,trap	0.00264	0.732	0.0	0.231	155.096	0.401	0.75
+5XUDhAZs1D7RS2YpTbv4fS	Edward Maya	Time to Restart (Sine)	TCAGH2259892	34	dance pop,romanian house,romanian pop	0.00473	0.597	0.9	0.0282	120.003	0.398	0.848
+2H3y6FYYmmu7wSHy9fqC8f	Kid Cudi	Down & Out	USUM72213183	56	hip hop,ohio hip hop,rap	0.0551	0.481	0.0	0.207	184.336	0.346	0.668
+7tZsKrafWc19ih4fv4LCoj	WVNDER	Hollow Days	QZK6P2257738	36	anthem emo,pop punk	3.53e-05	0.488	0.000697	0.0551	117.044	0.495	0.953
+5QvW5lK6mkfTegpAK9JOO7	Fivio Foreign,The Kid LAROI	Paris to Tokyo	USSM12203061	78	brooklyn drill,hip hop,new york drill,rap,trap	0.0185	0.642	0.0	0.17	146.733	0.406	0.787
+3Rtc0lVRgEKLkpcB8zIkVB	Ne-Yo	Handle Me Gently	USUG12204264	49	dance pop,pop,r&b,urban contemporary	0.0827	0.595	0.0	0.0522	87.994	0.214	0.743
+3Osd3Yf8K73aj4ySn6LrvK	JAY-Z,Kanye West,Frank Ocean,The-Dream	No Church In The Wild	USUM71111617	71	east coast hip hop,hip hop,rap	0.246	0.654	0.0178	0.105	92.78	0.557	0.75
+4Li2WHPkuyCdtmokzW2007	JAY-Z,Kanye West	Ni**as In Paris	USUM71111621	84	east coast hip hop,hip hop,rap	0.127	0.789	0.0	0.311	140.022	0.775	0.858
+3cjF2OFRmip8spwZYQRKxP	Drake	Feel No Ways	USCM51600067	77	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0312	0.582	6.6e-06	0.172	193.818	0.205	0.677
+1llynwiSRD0fZJbpObGy4v	bbno$,Yung Gravy,lentra	jack money bean	QM24S2007822	52	canadian hip hop,dark trap,vapor trap	0.358	0.808	0.0	0.244	92.012	0.757	0.52
+4HHa6HZxKsgTLldpwQPs4D	girl in red	Apartment 402	GBKPL2136770	58	bedroom pop,bubblegrunge,indie pop,norwegian indie,pop	0.684	0.44	0.864	0.0454	125.241	0.0488	0.441
+4cacyP5c3PMlfnyjpg13xW	Yung Gravy	Betty (Get Money)	USUM72210379	84	minnesota hip hop,pop rap	0.00524	0.723	1.15e-05	0.0792	102.004	0.58	0.772
+10hMM5nsZQf66ldBlgWBfG	Labrinth,Zendaya	All For Us - from the HBO Original Series Euphoria	USUG11902729	78	indie poptimism,pop	0.0165	0.348	0.000264	0.0931	70.956	0.172	0.652
+5MIhfLpd1fVmIUrTHNSP4E	nothing,nowhere.	Sledgehammer	USAT22200349	52	emo rap,pop punk,pop rap,sad rap	0.396	0.693	0.0	0.129	162.033	0.377	0.442
+5NHZziiWOxvVUq3azUuhtv	nothing,nowhere.	waster	USAT21800879	34	emo rap,pop punk,pop rap,sad rap	0.555	0.556	0.0301	0.0358	113.988	0.0759	0.578
+3BlcEDL09y5QnYOqjboXVz	nothing,nowhere.	changer	USAT21800878	36	emo rap,pop punk,pop rap,sad rap	0.0144	0.737	0.0	0.0738	94.974	0.572	0.872
+2jQiSYrwJehQAcuaaQrXnS	Chase Atlantic	Friends	GBLFP1508173	81	pop	0.0114	0.422	4.76e-06	0.0335	107.34	0.0911	0.609
+0x4Kmsd1YLB9emO8thJ62U	Anuel AA	Llorando en un Ferrari	QMDA62184365	61	latin,reggaeton,reggaeton flow,trap boricua,trap latino	0.00967	0.761	0.00444	0.0658	121.032	0.352	0.876
+1ue6hDpQnActsuH661uCYR	Dead Poet Society	I Never Loved Myself Like I Loved You	GBUM72003963	49	boston indie,modern alternative rock,modern rock,rock	0.00354	0.53	0.0875	0.0675	111.881	0.158	0.97
+4aGpZxzyGQsMspZtg10Exm	David Bruno,Alferes Malheiro	M0ita Fl0res	PTRO11900169	17	portuguese indie,rap portuense	0.0857	0.595	0.0368	0.0269	91.979	0.385	0.43
+4eUMbFJ6l8UogwBENovA4v	Vicetone,Daniel Gidlund	Chasing Time	NLF711310198	45	edm,electro house,pop dance,pop edm,progressive electro house,tropical house	0.377	0.397	0.0	0.166	127.545	0.462	0.818
+06XJgPf6GnxufI47LxXW9Q	Diabo Na Cruz	Luzia	PTKQ11200004	29	portuguese rock	0.000937	0.456	0.0269	0.037	127.89	0.47	0.727
+6Ucp2iIwvk1D4IVBPk2yqk	Coolio	Gangsta's Paradise - Rerecorded Version	ITG411000040	31	g funk,gangster rap,hip hop,rap,west coast rap	0.0501	0.527	0.0	0.199	80.019	0.572	0.731
+6lFUdRItQEsEuD7dSINL47	Bring Me The Horizon	Follow You	GBARL1500772	68	melodic metalcore,metalcore,rock,uk metalcore	0.0765	0.54	0.0	0.0381	90.012	0.506	0.661
+73RF3sAfPudbZ57jChqhiv	Yung Pinch	Issues	USLD91732763	44	emo rap,melodic rap,oc rap,pop rap,sad rap,trap,underground hip hop,vapor trap	0.155	0.846	0.0	0.0686	106.009	0.3	0.466
+0cAVr9N9cxEcG4uREsQ9gq	nothing,nowhere.	real	USAT22007306	36	emo rap,pop punk,pop rap,sad rap	0.0267	0.677	0.0	0.0602	119.981	0.287	0.48
+1jgpUzuMqkPaevp5yN6oOe	Diabo Na Cruz	Moça Esquiva	PT0CK1400004	26	portuguese rock	0.0999	0.752	5.33e-06	0.0414	111.017	0.741	0.776
+4UASoZ4iulzFVmBTY3qgQy	nothing,nowhere.,MISOGI	pain place (feat. MISOGI)	USAT22007304	38	emo rap,pop punk,pop rap,sad rap	0.000985	0.531	2.63e-05	0.0416	123.1	0.11	0.815
+0EUL4oxWG62Bn16HXBWV1p	The 1975	Head.Cars.Bending	GBK3W1000166	37	modern alternative rock,modern rock,pop,rock	0.246	0.445	3.36e-05	0.136	130.091	0.328	0.58
+4Wnw6QXC3RiDJvBtUEDsyE	Deau,Bezegol	Diz-me Só	ES71G1912493	42	rap portuense	0.4	0.669	0.0	0.237	160.134	0.47	0.53
+4lU9Xn8SMWzIVJpWYapMqi	Samuel Proffitt,Crywolf	In Flames	TCACD1547996	15		0.672	0.191	1.06e-05	0.0395	72.851	0.173	0.405
+3InG9qXfDFKfDrzzUJh6tD	Chet Faker,Marcus Marr	The Trouble With Us	USCJ81501360	47	art pop,indietronica	0.331	0.831	0.000679	0.0661	121.091	0.829	0.713
+12prZmWn63g8lFI2pzbkOk	Vegedream	Tout payer	UKGD81800012	28	francoton,french hip hop,pop urbaine	0.0445	0.741	9.14e-06	0.107	130.036	0.551	0.852
+70Y5J4aSJMo2hhmgsBZMOu	ProfJam	Se Calhar	PT8HB1800014	30	hip hop tuga,trap tuga	0.209	0.806	0.00111	0.0506	111.967	0.0399	0.446
+4dYiOhYuB74Rb2S2Vgnav7	nothing,nowhere.	vacanter	USAT21800877	37	emo rap,pop punk,pop rap,sad rap	5.61e-05	0.41	0.0135	0.0367	180.013	0.151	0.876
+2tThp1N241zckWtRAAUMDy	nothing,nowhere.	sayer	USAT21800876	36	emo rap,pop punk,pop rap,sad rap	0.199	0.451	0.0	0.0675	110.204	0.325	0.593
+37kUBS2jtaBybwQlHbdw4w	nothing,nowhere.	ruiner	USAT21800570	42	emo rap,pop punk,pop rap,sad rap	0.0789	0.704	0.0	0.241	89.989	0.613	0.717
+4IPKfv5dbRdfQujHMtsPcc	nothing,nowhere.	rejecter	USAT21800875	39	emo rap,pop punk,pop rap,sad rap	0.0795	0.629	0.0675	0.0324	120.039	0.0689	0.53
+2Y4ol1FiPdSPMwaEMJgXMN	nothing,nowhere.	hammer	USAT21800736	57	emo rap,pop punk,pop rap,sad rap	0.114	0.653	3.23e-06	0.0663	179.928	0.26	0.78
+0geNFevM1RwHeaM6ZWJIq4	nothing,nowhere.	sinker	USAT21800874	37	emo rap,pop punk,pop rap,sad rap	0.0108	0.537	0.0	0.034	75.041	0.198	0.614
+6cTNIxLzihMoPKXl2asMKO	nothing,nowhere.	better	USAT21800873	38	emo rap,pop punk,pop rap,sad rap	0.336	0.625	1.76e-05	0.0666	84.997	0.478	0.823
+490NJnU8troZBpiqX2XDGN	nothing,nowhere.	reminiscer	USAT21800872	36	emo rap,pop punk,pop rap,sad rap	0.326	0.315	0.000416	0.0681	147.777	0.282	0.607
+0iTRaGiDId80CearDCsyLC	nothing,nowhere.	MEMORY_FRACTURE	USAT22203330	49	emo rap,pop punk,pop rap,sad rap	0.00126	0.439	0.00543	0.0431	74.997	0.316	0.847
+2t16D9V5FmmRAJjsSpwvZf	Labrinth	When I R.I.P.	USQX91902519	76	indie poptimism,pop	0.73	0.417	0.00166	0.174	87.614	0.444	0.551
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	85	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+12bTVUqodWry4IPP36Ziwj	Juan Magán	Página	ES5702100409	25	electro latino,latin,latin pop,reggaeton,trap latino	0.0554	0.546	0.0	0.046	89.69	0.356	0.685
+78erOJv3qHWFlZ0tHoVPY9	The Last Shadow Puppets,Alex Turner,Miles Kane	Sequels	GBCEL0800357	40	baroque pop,indie rock,modern rock,rock,sheffield indie	0.016	0.408	0.474	0.0323	134.919	0.36	0.767
+5TlB6WzApY2DZuvSfR6qMP	Fresno,Terno Rei	INV007: TEU INVERNO FAZ CALOR (feat. Terno Rei)	BXBMG2100068	13	brazilian emo,brazilian rock,novo rock gaucho,pop rock brasileiro	0.0767	0.522	0.0411	0.0447	120.013	0.121	0.679
+4jDmJ51x1o9NZB5Nxxc7gY	George Michael	Careless Whisper	GBBBM8402006	79		0.13	0.574	0.0	0.036	153.119	0.803	0.628
+49QVOdWgGagzLrThkIqtK6	Juice WRLD	Scared Of Love	USUG11800949	70	chicago rap,melodic rap	0.032	0.642	0.0	0.0812	158.001	0.177	0.562
+4epHhc2lvhFYzMlKA23O3G	6ix9ine,Anuel AA	MALA	QMEU31821953	75	emo rap,rap,trap	0.689	0.72	0.0	0.0424	100.008	0.789	0.825
+1YLeenT2C1w4uQO7OffMfo	Noiserv	This Is Maybe the Place Where Trains Are Going to Sleep At Night	ushm81339575	14	portuguese indie	0.563	0.58	0.898	0.0291	135.005	0.33	0.503
+4VSQjXeWif1YluDDhY0eOY	Wet Bed Gang	Voar (Gson)	PT7GU1800003	41	hip hop tuga,trap tuga	0.206	0.768	0.0	0.276	96.012	0.411	0.776
+4iTDEjHXxHyWBha4gZVjvo	Gareth Emery,STANDERWICK,HALIENE	Saving Light (Mixed)	NLF712100449	39	edm,pop dance,progressive electro house,progressive house,trance,uplifting trance	0.000144	0.598	0.116	0.0365	129.975	0.521	0.665
+1DHSj9pjlwGsVTQ2A2Z8gk	Deejay Telio,Julinho Ksd	Cara Que Engana	ES71G2210024	57	batida,funana,portuguese pop,rap angolano	0.664	0.766	0.0318	0.242	142.019	0.78	0.639
+1SD9k6NYd5cBAAJ4ALmbkC	House of Lions	Uncruel	UK6931400001	29	indie rockism	0.0253	0.557	0.0	0.0345	123.058	0.601	0.662
+6k26nyIM60y90BuZ7XR9F8	Stromae	Te Quiero	BET671000015	55	belgian pop,g-house	0.0968	0.723	0.0	0.225	123.136	0.792	0.697

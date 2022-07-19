@@ -1,0 +1,92 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1XGmzt0PVuFgQYYnV2It7A	Maroon 5,Wiz Khalifa	Payphone	USUM71203347	84	pop	0.0188	0.743	0.0	0.0414	110.015	0.545	0.752
+3G6hD9B2ZHOsgf4WfNu7X1	Lorde	Team	NZUM71300124	77	art pop,dance pop,electropop,metropopolis,nz pop,pop,uk pop	0.167	0.69	0.0	0.0929	99.961	0.416	0.578
+5j6gZ0gmywTIOdi38gPSxK	Jónsi	We Bought A Zoo	USQX91101509	43	icelandic pop,post-rock	0.834	0.36	0.937	0.0304	124.074	0.0396	0.381
+12mK0iRSJq8T380R8yb0Qj	Noemi	Bagnati dal sole	ITB001400010	36	italian adult pop,italian pop	0.0106	0.49	0.0	0.0292	91.926	0.304	0.68
+05RWdJC84lPllDPGUICR4X	Jasmine Thompson	Lonely Together	USAT21802050	32	neo mellow,pop,uk pop,viral pop	0.94	0.637	0.0	0.0337	98.643	0.435	0.229
+2QZ7WLBE8h2y1Y5Fb8RYbH	Shawn Mendes	In My Blood	USUM71803183	76	canadian pop,pop,viral pop	0.0573	0.622	0.0	0.066	140.025	0.487	0.712
+2z4U9d5OAA4YLNXoCgioxo	Avril Lavigne	What the Hell	USRC11000915	75	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00472	0.578	0.0127	0.0548	149.976	0.877	0.926
+3X3mfRMRaPJRiIMDMQtSkd	Oh Wonder	Landslide	GB9L31400024	62	electropop,indie poptimism,pop	0.748	0.624	8.18e-05	0.0628	81.299	0.325	0.423
+4zDQS1OCghoOKkjw6hf2qT	James Bay	Wild Love - Acoustic	USUM71801573	64	neo mellow,pop,uk pop	0.844	0.519	0.0	0.0384	139.954	0.515	0.407
+0M1A9wInEHilyWkh4I8tWo	WALK THE MOON	Lost In The Wild	USRC11702175	67	dance pop,dance rock,modern alternative rock,modern rock,pop rock,rock	0.007	0.483	0.0	0.0512	132.992	0.386	0.77
+2HPVtKMWRlP1r9ODenvePM	Lenny Kravitz	I'll Be Waiting	USVI20701141	54	permanent wave,pop rock,rock	0.0736	0.677	0.0065	0.0332	72.779	0.595	0.452
+4vjpLMyL3ZO6aphdYr8XYw	Lauv,Troye Sivan	i'm so tired...	GBKPL1933763	77	dance pop,electropop,pop,uk pop	0.178	0.576	0.0	0.224	101.928	0.484	0.736
+6oNJqGeekJO8rADd2Mktvi	BLOODY VINYL,Slait,thasup,Mara Sattei,Coez	ALTALENE (feat. Mara Sattei & Coez)	ITB002000446	60	italian hip hop,trap italiana	0.108	0.647	0.0	0.098	139.693	0.342	0.692
+2nZRTRS4Asz7qV6CLW85qA	The Script	No Words	GBARL1201150	41	celtic rock,dance pop,neo mellow,pop,pop rock,uk pop	0.361	0.567	1.48e-06	0.0376	89.043	0.563	0.777
+49J6l9fKrBXaiu9WQkTUBp	Skylar Grey	Coming Home - Part II	USUM71200003	49	piano rock	0.93	0.58	2.04e-05	0.0323	129.948	0.174	0.282
+3Z1kZKYfRC8iRXnYeC5sCJ	Taylor Swift,Ed Sheeran	Everything Has Changed	USCJY1231044	67	pop	0.36	0.624	3.89e-06	0.0287	80.016	0.436	0.458
+7MMJa7cjMadOSR6CFWvB1x	Coez	La musica non c'è	ITNTP1700008	64	italian indie pop,italian pop,rap napoletano,rome indie	0.381	0.747	0.0	0.0353	135.919	0.53	0.498
+1T7AiFL9ruKKwlONN35Vh0	Shawn Mendes	A Little Too Much	USUM71500660	63	canadian pop,pop,viral pop	0.473	0.451	0.0	0.0316	165.76	0.564	0.507
+1mj5HO7KEAopJDRZXRnESe	Jessie J	Nobody's Perfect	USUM71100947	53	dance pop,pop,pop rap,post-teen pop,uk pop	0.00228	0.581	0.0	0.28	163.064	0.663	0.881
+1jlbaaj5TS64wyNMjZvucj	Elisa	Promettimi	ITUM71800978	54	italian adult pop,italian pop	0.744	0.599	0.0	0.0297	129.955	0.237	0.394
+5ubHAQtKuFfiG4FXfLP804	Ed Sheeran	Lego House	GBAHS1100206	72	pop,uk pop	0.562	0.592	0.0	0.0992	159.701	0.565	0.637
+5rYipCuUMXmKr5XM3eDC1r	Ed Sheeran	Tenerife Sea	GBAHS1400096	59	pop,uk pop	0.697	0.53	1.07e-05	0.0376	121.876	0.359	0.346
+7eJMfftS33KTjuF7lTsMCx	Powfu,beabadoobee	death bed (coffee for your head)	USSM12000925	83	sad rap	0.731	0.726	0.0	0.135	144.026	0.348	0.431
+5enxwA8aAbwZbf5qCHORXi	Taylor Swift	All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)	USUG12103690	84	pop	0.274	0.631	0.0	0.0303	93.023	0.205	0.518
+29d0nY7TzCoi22XBqDQkiP	Kate Bush	Running Up That Hill (A Deal With God) - 2018 Remaster	GBAYE1800884	92	art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter,uk pop	0.659	0.625	0.00266	0.0596	108.296	0.139	0.533
+0My8NPmENHrN5W7OfgZnZJ	Kodaline	The One	GBARL1401580	64	irish pop,modern rock,pop,pop rock,uk pop	0.654	0.43	8.83e-05	0.0348	156.006	0.332	0.587
+4kTBakk3h2S678cajDcVTw	Disclosure,Sam Smith	Latch	GBUM71302810	60	edm,house,pop,uk dance	0.016	0.499	0.000135	0.174	121.984	0.537	0.733
+2Iqdun0CJawDkc3NBUrbdA	Perfume Genius	Otherside	USMTD1709222	52	art pop,chamber pop,chamber psych,chillwave,electropop,experimental pop,indie pop,indie rock,seattle indie	0.906	0.279	0.000494	0.0381	142.848	0.206	0.137
+6h2bvyRhaUWYEj0YPum6Ff	Ozark Henry	I'm Your Sacrifice - Radio Edit	BEP701300012	29	belgian indie,belgian pop,belgian rock,classic belgian pop	0.0764	0.677	0.0149	0.0444	131.958	0.344	0.604
+3CyHit3TUpxfyL7qAxRfdC	Willamette Stone	Today	USNLR1400334	46		0.603	0.488	0.00484	0.024	83.043	0.433	0.42
+1XbC2PUR09MlgmpVbLgF4L	Ellie Goulding	Beating Heart	GBUM71400516	44	dance pop,edm,electropop,indietronica,metropopolis,pop,uk pop	0.214	0.552	2.89e-06	0.0711	127.915	0.262	0.717
+385VOmGbguaPG57TgoW8Lh	Shawn Mendes	24 Hours	USUM72018805	57	canadian pop,pop,viral pop	0.488	0.351	0.00603	0.0557	84.224	0.362	0.368
+5JCoSi02qi3jJeHdZXMmR8	Olivia Rodrigo	favorite crime	USUG12101249	85	pop	0.866	0.369	0.0	0.0364	172.929	0.218	0.272
+6bpBsotzL05UzS1rHsIqk8	Oh Wonder	Livewire	GB9L31400028	48	electropop,indie poptimism,pop	0.566	0.625	0.0202	0.0391	116.8	0.166	0.434
+1louJpMmzEicAn7lzDalPW	Cheat Codes,Demi Lovato	No Promises (feat. Demi Lovato)	QMCE31700953	68	dance pop,edm,electro house,electropop,pop,pop dance,tropical house,uk pop	0.0575	0.741	0.0	0.134	112.956	0.595	0.667
+6yIHGmQLJxWAUZ1ZkENemN	Haley Reinhart	Can't Help Falling in Love	QM6P41590607	75	idol	0.947	0.41	0.0	0.038	137.97	0.247	0.0485
+0WpuNAZ9Q2fDdQfn8jSHJV	Gazzelle	Smpp	ITIWE1800058	48	italian indie pop,rome indie	0.27	0.636	5.4e-05	0.0253	126.887	0.466	0.71
+0s17tguVEtAXHOV4pNFKmM	Tiziano Ferro	La Differenza Tra Me E Te	NLEZ41100001	50	italian adult pop	0.0613	0.528	0.0	0.0402	111.888	0.273	0.803
+0SuG9kyzGRpDqrCWtgD6Lq	Ed Sheeran	Give Me Love	GBAHS1100209	71	pop,uk pop	0.694	0.526	0.0	0.0461	116.068	0.11	0.328
+7lUA4P03AhwAw40JHkdyGr	Beyoncé	Pretty Hurts	USSM11307798	64	dance pop,pop,r&b	0.00305	0.512	0.000172	0.0509	129.932	0.2	0.624
+6xTU6B6nFwKKTSZ9ySXS80	Kygo,Miguel	Remind Me to Forget	SEBGA1800417	63	edm,pop,pop dance,tropical house	0.158	0.689	0.0	0.0933	99.017	0.312	0.505
+6Pnziw2QOsrYVJjvXpZ8fZ	Coez	Come nelle canzoni	ITLQU2100007	58	italian indie pop,italian pop,rap napoletano,rome indie	0.252	0.537	0.0	0.281	175.878	0.505	0.814
+1yraET52i6ZkrvvrmKNyn6	HONNE,Izzy Bizu	Someone That Loves You	GBAHS1600143	55	pop,uk pop	0.0416	0.531	7.19e-06	0.063	104.978	0.418	0.728
+6mz1fBdKATx6qP4oP1I65G	Ginuwine	Pony	USSM19605851	73	contemporary r&b,dance pop,gangster rap,hip hop,hip pop,neo soul,r&b,urban contemporary	0.00186	0.749	0.0381	0.086	142.024	0.966	0.605
+0cqRj7pUJDkTCEsJkx8snD	Taylor Swift	Shake It Off	USCJY1431349	81	pop	0.0647	0.647	0.0	0.165	160.078	0.942	0.8
+5VGlqQANWDKJFl0MBG3sg2	Kings of Leon	Use Somebody	USRC10800301	77	modern rock,rock	0.00552	0.276	0.000417	0.0432	137.028	0.173	0.715
+6I3mqTwhRpn34SLVafSH7G	Justin Bieber	Ghost	USUM72102635	90	canadian pop,pop	0.185	0.601	2.91e-05	0.0478	153.96	0.441	0.741
+3DmW6y7wTEYHJZlLo1r6XJ	Becky G	Shower	USRC11400866	78	latin,latin viral pop,rap latina,reggaeton	0.0317	0.699	3.59e-05	0.0487	119.987	0.121	0.529
+7FjZU7XFs7P9jHI9Z0yRhK	NOTD,Felix Jaehn,Captain Cuts,Georgia Ku	So Close	SEUM71800604	70	alt z,dance pop,edm,electro house,electropop,pop,pop dance,pop edm,tropical house,uk pop	0.121	0.7	7.08e-06	0.0666	125.03	0.761	0.872
+6i5wWtpeDVUBBMDpnYiWr5	AIELLO	ORA	ITM382100053	40	italian indie pop,italian pop	0.444	0.661	0.0	0.104	116.456	0.188	0.527
+6eTGxxQxiTFE6LfZHC33Wm	Sigur Rós	Hoppípolla	GBKEE0500003	57	compositional ambient,dream pop,ethereal wave,icelandic rock,melancholia,nordic post-rock,post-rock	0.0356	0.312	0.225	0.0308	140.109	0.178	0.543
+1gQqtmfp9sWORxjuNMrB5k	Thegiornalisti	Sold Out	ITB261600990	49	italian adult pop,italian indie pop,italian pop,rome indie	0.00404	0.393	0.0	0.0278	162.09	0.295	0.76
+2yLa0QULdQr0qAIvVwN6B5	Taylor Swift	...Ready For It?	USCJY1750003	74	pop	0.0527	0.613	0.0	0.136	160.015	0.417	0.764
+3vv9phIu6Y1vX3jcqaGz5Z	The Chainsmokers,ROZES	Roses	USQX91500801	75	dance pop,edm,electropop,pop,pop dance,tropical house	0.0435	0.713	0.00377	0.0561	100.001	0.343	0.802
+56KDoLjFIm7Yc7fX1XgpNw	Shawn Mendes	Always Been You	USUM72018799	57	canadian pop,pop,viral pop	0.229	0.37	0.0	0.0419	124.802	0.309	0.39
+0LaOXyuLOn2htYjXeF5dPY	Carl Brave	Noi	ITUM71800453	48	italian adult pop,italian indie pop,italian pop,rap napoletano,rome indie	0.417	0.618	0.0	0.321	152.338	0.412	0.515
+0VE4kBnHJUgtMf0dy6DRmW	Taylor Swift	Getaway Car	USCJY1750010	79	pop	0.00465	0.562	2.23e-06	0.127	172.054	0.351	0.689
+6UsdsvA7hUZQMRRtUyHgPf	Ultimo	La storia di un uomo	IT1071700331	41	italian adult pop,italian pop	0.611	0.672	1.94e-05	0.17	79.557	0.34	0.552
+61UQzeiIluhpzpMdY4ag3q	Route 94,Jess Glynne	My Love (feat. Jess Glynne)	GBQGW1300182	75	deep groove house,house,pop dance,tropical house,uk dance	0.000132	0.814	0.72	0.0492	119.976	0.726	0.622
+1NOZvdCovG42qQV7ftVD5d	Katy Perry	Birthday	USUM71311293	61	dance pop,pop,post-teen pop	0.0879	0.719	3.75e-06	0.0681	125.992	0.843	0.674
+7lqoDGFRGv88ofjONJrOLj	AIELLO	CHE CANZONE SIAMO	ITM382000070	39	italian indie pop,italian pop	0.233	0.671	0.0	0.0394	127.886	0.298	0.403
+4wH4dJgrsxONID6KS2tDQM	Nelly Furtado	Maneater	USUM70601449	80	canadian latin,canadian pop,dance pop,pop,pop rap	0.0261	0.796	0.000358	0.0397	132.722	0.787	0.777
+3VZmChrnVW8JK6ano4gSED	Marvin Gaye	Sexual Healing	USSM19803028	71	classic soul,funk,indie r&b,motown,northern soul,quiet storm,soul	0.119	0.805	0.000122	0.0579	94.382	0.744	0.602
+0QPRDC97rIQB3Jh3hrVJoH	Rosa Linn	SNAP	QM4TX2221661	79		0.107	0.563	1.06e-05	0.0684	169.985	0.518	0.639
+4bia7OWZPoswlzXCqESYrR	Avril Lavigne	Smile	USRC11100011	64	canadian pop,candy pop,dance pop,pop,post-teen pop	0.00237	0.634	0.0	0.047	105.055	0.647	0.848
+1PckUlxKqWQs3RlWXVBLw3	Lizzo	About Damn Time	USAT22202139	95	dance pop,escape room,minnesota hip hop,pop,trap queen	0.0995	0.836	0.0	0.0656	108.966	0.722	0.743
+6U7GUjtamt2P0LcFod1dBT	Sérgio Mendes,Black Eyed Peas	Mas Que Nada	USC4R0513739	64	bossa nova,brazilian jazz,samba	0.0297	0.747	1.75e-06	0.0824	100.065	0.87	0.928
+6tp27J7xy18DQiQXut3GsF	Black Eyed Peas	Don't Lie	USIR10500766	63	dance pop,pop,pop rap	0.16	0.662	0.0	0.186	89.885	0.604	0.785
+1pjvlYOMIg1NhGQbM6iwrY	Major Lazer,Nyla,Fuse ODG	Light It Up (feat. Nyla & Fuse ODG) [Remix]	QMUY41500182	72	dance pop,edm,electro house,moombahton,pop,pop dance,pop rap,tropical house	0.0375	0.747	0.000833	0.0664	107.991	0.752	0.877
+6e8Ou0wiqAzIpWb2eSxll8	Will Smith	Miami	USSM19702697	72	dance pop,hip hop,pop rap	0.0339	0.877	1.67e-05	0.15	108.17	0.89	0.534
+6cy3ki60hLwimwIje7tALf	Black Eyed Peas,J Balvin	RITMO (Bad Boys For Life)	USSM11912430	75	dance pop,pop,pop rap	0.0334	0.721	0.00084	0.0657	104.994	0.667	0.716
+2ygMBIctKIAfbEBcT9065L	Black Eyed Peas	Pump It	USIR10500407	76	dance pop,pop,pop rap	0.00937	0.648	0.0	0.181	153.649	0.744	0.931
+1zLBsSVxETQOfINOLYvT5m	Black Eyed Peas,Shakira	GIRL LIKE ME	USSM12003440	79	dance pop,pop,pop rap	0.0206	0.965	0.0237	0.191	124.025	0.312	0.485
+0j2T0R9dR9qdJYsB7ciXhf	Kanye West	Stronger	USUM70741299	82	chicago rap,rap	0.00564	0.617	0.0	0.153	103.992	0.49	0.717
+1PS1QMdUqOal0ai3Gt7sDQ	Kanye West,Jamie Foxx	Gold Digger	USUM70500143	79	chicago rap,rap	0.0195	0.629	0.0	0.348	93.034	0.623	0.696
+4wqzOaLxiCRy2Et8tRyNSX	Wiz Khalifa,Empire of the Sun	The Thrill	USA2P2033760	78	dance pop,hip hop,pittsburgh rap,pop rap,rap,southern hip hop,trap	0.277	0.817	0.0	0.108	126.984	0.806	0.775
+3ge4fvKrOAj5Dkmaow5iIg	Ligabue	Il giorno dei giorni	ITQ000500056	43	italian adult pop,italian pop rock	0.038	0.476	0.000308	0.0521	100.921	0.402	0.934
+05ZVTnFGjDTnzQHMxK0Bir	James Morrison	Please Don't Stop The Rain	GBUM70810072	52	neo mellow,neo soul,pop,pop rock,uk pop	0.0607	0.5	0.0	0.0729	160.125	0.679	0.819
+6ADSaE87h8Y3lccZlBJdXH	U2	With Or Without You - Remastered	GBUM70709792	80	irish rock,permanent wave,rock	0.000202	0.54	0.355	0.0285	110.171	0.113	0.429
+3uBcbK8ztChsXB4uZNKh0S	Santana,Steven Tyler	Just Feel Better (feat. Steven Tyler)	USAR10500602	49	blues rock,classic rock,mexican classic rock	0.133	0.437	0.0	0.0546	160.133	0.478	0.867
+0Dtv5iaqPWtftabQfjBvxh	The Chainsmokers	High	USQX92105208	77	dance pop,edm,electropop,pop,pop dance,tropical house	0.0492	0.601	0.0	0.031	134.981	0.525	0.787
+1ZjxXkqgYKJ7ZX44fyMPxx	Cummrs	I'm not angry anymore	QM3DF2101237	75	slowed and reverb	0.989	0.642	4.11e-06	0.0411	90.595	0.552	0.191
+2bLqfJjuC5syrsgDsZfGmn	Timbaland,Keri Hilson,D.O.E.	The Way I Are	USUM70722806	81	dance pop,hip hop,hip pop,pop,pop rap,urban contemporary	0.181	0.731	0.751	0.1	114.759	0.765	0.807
+7kDUspsoYfLkWnZR7qwHZl	Machine Gun Kelly,blackbear	my ex's best friend (with blackbear)	USUM72014730	80	ohio hip hop	0.00473	0.731	0.0	0.0434	124.939	0.298	0.675
+7iLuBTHJSXM2HalKHFqEEy	Pinguini Tattici Nucleari	Giovani Wannabe	ITB002200354	79	bergamo indie,italian indie pop,italian pop,milan indie	0.0409	0.739	0.0	0.0311	127.972	0.948	0.81
+0lUSd7TCG8srh6HpIAEIWL	Little Mix	Power	GBHMU1600079	77	dance pop,girl group,pop,post-teen pop,talent show,uk pop	0.0372	0.566	0.000157	0.211	172.966	0.517	0.855
+158vokXzTAwI01ZHvHsVgi	Ben's Brother	Let Me Out	GBGLM0700015	35		0.563	0.43	0.0	0.0308	143.933	0.229	0.483
+4z5eLUR8oCbRywMw1ytNol	U2	Every Breaking Wave	GBUM71404673	56	irish rock,permanent wave,rock	0.00991	0.673	6.69e-06	0.0268	115.042	0.429	0.441
+2R3wzFFjNYc1z3PSoO8FNV	U2	City Of Blinding Lights	GBAAN0400577	60	irish rock,permanent wave,rock	0.000234	0.444	0.0184	0.0304	139.172	0.198	0.771
+6IVlHRrjTKep5SS9kbcpTa	Keane	This Is The Last Time	GBAAN0400089	63	neo mellow,piano rock,pop rock	0.0018	0.522	6.8e-06	0.0283	131.691	0.335	0.827
+2dhJM2skHC9D41gHj34Kgw	U2	You’re The Best Thing About Me	GBUM71604915	55	irish rock,permanent wave,rock	0.002	0.65	1.18e-06	0.0351	117.023	0.809	0.78

@@ -1,0 +1,222 @@
+
+
+************ 05-28 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: pop (100.00%)
+Top artists
+	1: SYML (100.00%)
+Top country
+	1: TC (100.00%)
+Top record
+	1: ACL (100.00%)
+Top year
+	1: 16 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness    tempo  valence  energy
+count         1.0         1.000         1.000            1.0000       1.0000    1.000    1.000   1.000
+mean         69.0         0.904         0.382            0.0196       0.0318  103.768    0.161   0.219
+std           NaN           NaN           NaN               NaN          NaN      NaN      NaN     NaN
+min          69.0         0.904         0.382            0.0196       0.0318  103.768    0.161   0.219
+25%          69.0         0.904         0.382            0.0196       0.0318  103.768    0.161   0.219
+50%          69.0         0.904         0.382            0.0196       0.0318  103.768    0.161   0.219
+75%          69.0         0.904         0.382            0.0196       0.0318  103.768    0.161   0.219
+max          69.0         0.904         0.382            0.0196       0.0318  103.768    0.161   0.219
+
+************ 05-26 ************ 
+Electronic artists found: Naughty Boy,Bastille
+Electronic genres found: tropical house
+Electronic music logs found: 8.33% 
+
+Top genres
+	1: pop (10.53%)
+	2: pop rock (7.89%)
+	3: stomp and holler (5.26%)
+	4: modern alternative rock (5.26%)
+	5: modern rock (5.26%)
+Top artists
+	1: Birdy (7.69%)
+	2: Chase Atlantic (7.69%)
+	3: Keaton Henson (7.69%)
+	4: 2WEI (7.69%)
+	5: Hozier (7.69%)
+Top country
+	1: US (41.67%)
+	2: GB (25.00%)
+	3: NZ (16.67%)
+	4: IE (8.33%)
+	5: AU (8.33%)
+Top record
+	1: UM7 (25.00%)
+	2: DY1 (16.67%)
+	3: ACJ (8.33%)
+	4: 2ME (8.33%)
+	5: AHS (8.33%)
+Top year
+	1: 17 (25.00%)
+	2: 14 (16.67%)
+	3: 13 (16.67%)
+	4: 18 (16.67%)
+	5: 12 (8.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   12.000000     12.000000     12.000000         12.000000    12.000000   12.000000  12.000000  12.000000
+mean    49.083333      0.249235      0.521667          0.087364     0.058583  129.209167   0.383642   0.578167
+std     16.384351      0.290575      0.134171          0.150999     0.037230   26.356270   0.242751   0.223473
+min     22.000000      0.004620      0.281000          0.000000     0.029400   78.129000   0.094700   0.151000
+25%     42.250000      0.021250      0.470250          0.000004     0.034475  116.483500   0.172750   0.413500
+50%     48.000000      0.107500      0.586000          0.002850     0.044800  130.637000   0.332000   0.598500
+75%     61.000000      0.577000      0.618000          0.093450     0.058700  145.004000   0.566750   0.783000
+max     71.000000      0.769000      0.636000          0.376000     0.137000  177.714000   0.731000   0.863000
+
+************ 05-25 ************ 
+Electronic artists found: Naughty Boy,Bastille, The Chainsmokers,Louane, Marshmello,Anne-Marie, Ramin Djawadi
+Electronic genres found: edm, brostep, progressive electro house, tropical house, video game music
+Electronic music logs found: 10.87% 
+
+Top genres
+	1: pop (21.28%)
+	2: modern rock (9.93%)
+	3: electropop (8.51%)
+	4: rock (7.09%)
+	5: dance pop (4.96%)
+Top artists
+	1: The Chainsmokers (3.12%)
+	2: Chase Atlantic (3.12%)
+	3: Valerie Broussard (3.12%)
+	4: Billie Eilish (3.12%)
+	5: Tommee Profitt (3.12%)
+Top country
+	1: US (65.22%)
+	2: TC (17.39%)
+	3: GB (8.70%)
+	4: IE (2.17%)
+	5: QM (2.17%)
+Top record
+	1: UM7 (36.96%)
+	2: UG1 (13.04%)
+	3: ACU (6.52%)
+	4: WB1 (6.52%)
+	5: QX9 (4.35%)
+Top year
+	1: 17 (30.43%)
+	2: 19 (17.39%)
+	3: 16 (17.39%)
+	4: 18 (15.22%)
+	5: 14 (8.70%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo    valence     energy
+count   46.000000     46.000000     46.000000         46.000000    46.000000   46.000000  46.000000  46.000000
+mean    63.847826      0.295262      0.546587          0.050599     0.073972  116.215565   0.278852   0.566152
+std     12.465004      0.313531      0.129485          0.188178     0.069006   28.323447   0.195601   0.216406
+min     35.000000      0.000367      0.265000          0.000000     0.027200   65.991000   0.038900   0.125000
+25%     55.000000      0.035675      0.473250          0.000000     0.037275   95.478500   0.135750   0.432250
+50%     64.000000      0.154000      0.556500          0.000048     0.052600  112.272000   0.255500   0.542000
+75%     73.000000      0.576750      0.644000          0.001765     0.067150  134.751250   0.355000   0.745000
+max     88.000000      0.946000      0.853000          0.913000     0.375000  177.913000   0.844000   0.938000
+
+************ 05-22 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: modern alternative rock (100.00%)
+Top artists
+	1: Klergy (50.00%)
+	2: Valerie Broussard (50.00%)
+Top country
+	1: TC (100.00%)
+Top record
+	1: ADP (100.00%)
+Top year
+	1: 18 (100.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness   tempo  valence  energy
+count         1.0         1.000         1.000             1.000       1.0000   1.000   1.0000   1.000
+mean         43.0         0.443         0.435             0.178       0.0495  76.964   0.0784   0.486
+std           NaN           NaN           NaN               NaN          NaN     NaN      NaN     NaN
+min          43.0         0.443         0.435             0.178       0.0495  76.964   0.0784   0.486
+25%          43.0         0.443         0.435             0.178       0.0495  76.964   0.0784   0.486
+50%          43.0         0.443         0.435             0.178       0.0495  76.964   0.0784   0.486
+75%          43.0         0.443         0.435             0.178       0.0495  76.964   0.0784   0.486
+max          43.0         0.443         0.435             0.178       0.0495  76.964   0.0784   0.486
+
+************ 05-12 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: pop (100.00%)
+Top artists
+	1: Chase Atlantic (100.00%)
+Top country
+	1: US (100.00%)
+Top record
+	1: 526 (66.67%)
+	2: WB1 (33.33%)
+Top year
+	1: 20 (66.67%)
+	2: 17 (33.33%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence    energy
+count    3.000000      3.000000      3.000000          3.000000     3.000000    3.000000  3.000000  3.000000
+mean    59.333333      0.111387      0.640000          0.000003     0.038967  106.033333  0.198700  0.584667
+std     18.770544      0.140034      0.067845          0.000004     0.000208   12.574403  0.169252  0.091768
+min     48.000000      0.004860      0.563000          0.000000     0.038800   95.984000  0.077100  0.522000
+25%     48.500000      0.032080      0.614500          0.000000     0.038850   98.983000  0.102050  0.532000
+50%     49.000000      0.059300      0.666000          0.000000     0.038900  101.982000  0.127000  0.542000
+75%     65.000000      0.164650      0.678500          0.000004     0.039050  111.058000  0.259500  0.616000
+max     81.000000      0.270000      0.691000          0.000008     0.039200  120.134000  0.392000  0.690000
+
+************ 05-04 ************ 
+Electronic artists found: 
+Electronic genres found: 
+Electronic music logs found: 0.00% 
+
+Top genres
+	1: pop (25.00%)
+	2: dance pop (12.50%)
+	3: australian alternative pop (12.50%)
+	4: australian r&b (12.50%)
+	5: electropop (12.50%)
+Top artists
+	1: Lana Del Rey (16.67%)
+	2: Ariana Grande (16.67%)
+	3: Oh Wonder (16.67%)
+	4: Klergy (16.67%)
+	5: Jarryd James (16.67%)
+Top country
+	1: US (25.00%)
+	2: NZ (25.00%)
+	3: GB (25.00%)
+	4: TC (25.00%)
+Top record
+	1: UM7 (25.00%)
+	2: DY1 (25.00%)
+	3: 9L3 (25.00%)
+	4: AED (25.00%)
+Top year
+	1: 19 (50.00%)
+	2: 18 (25.00%)
+	3: 14 (25.00%)
+
+Feature statistics
+       popularity  acousticness  danceability  instrumentalness  speechiness       tempo   valence   energy
+count    4.000000      4.000000      4.000000          4.000000     4.000000    4.000000  4.000000  4.00000
+mean    46.500000      0.306843      0.501000          0.099463     0.047950  127.684000  0.303650  0.51800
+std     20.760539      0.397669      0.173599          0.184628     0.009498   17.742225  0.310051  0.29171
+min     22.000000      0.002370      0.265000          0.000008     0.035900  102.861000  0.067700  0.22900
+25%     33.250000      0.008093      0.424000          0.000336     0.042575  124.175250  0.078350  0.28600
+50%     48.500000      0.190000      0.547500          0.010923     0.050150  131.435500  0.207950  0.53000
+75%     61.750000      0.488750      0.624500          0.110050     0.055525  134.944250  0.433250  0.76200
+max     67.000000      0.845000      0.644000          0.376000     0.055600  145.004000  0.731000  0.78300

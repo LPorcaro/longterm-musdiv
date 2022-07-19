@@ -90,57 +90,56 @@ def pre_post_analysis_logs():
     df_merge['group'].mask(df_merge['group'] == 'LD', 0, inplace=True)
     df_merge['group'].mask(df_merge['group'] == 'HD', 1, inplace=True)
     for col in COLS_VAR:
-        print("Pre-post: {}".format(col))
+        print("\n\nPre-post: {}".format(col))
         dv = col + "_y"
         covar = col + "_x"
         between = "group"
 
         formula = "{} ~ C({}) + {}".format(dv, between, covar)
         model = smf.ols(formula, data=df_merge).fit()
-        print(model.summary())
+        # print(model.summary())
         print(ancova(data=df_merge, dv=dv, covar=covar, between=between))
 
 
 if __name__ == "__main__":
 
 
-    df_join_att = import_data("scores")
-    df_join_att.d_score = - df_join_att.d_score
-    df_join_cntx = import_data("cntx")
-    df_join_ls = import_ls_data()
-    df_join_ls = scale_ls_data(df_join_ls)
+    # df_join_att = import_data("scores")
+    # df_join_att.d_score = - df_join_att.d_score
+    # df_join_cntx = import_data("cntx")
+    # df_join_ls = import_ls_data()
+    # df_join_ls = scale_ls_data(df_join_ls)
 
-    # pre_post_analysis_logs()
+    pre_post_analysis_logs()
 
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 0, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 1, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 1, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 1, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 1, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 1, inplace=True)
-    df_join_att['group'].mask(df_join_att['group'] == 'LD', 0, inplace=True)
-    df_join_att['group'].mask(df_join_att['group'] == 'HD', 1, inplace=True)
-    df_join_att['att_round'] = df_join_att['att_round'].astype(float)
-    df_join_att['group'] = df_join_att['group'].astype(float)
-    df_join_att['o_score'] = df_join_att['o_score'].astype(float)
-
-
-
-    fam = sm.families.Gaussian()
-    ind = sm.cov_struct.Autoregressive()
-    mod = smf.gee("d_score ~ att_round + group + group * att_round", "PROLIFIC_PID", df_join_att,
-                  cov_struct=ind, family=fam)
-    res = mod.fit()
-    print(res.summary())
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 0, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 1, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 1, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 1, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 1, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 1, inplace=True)
+    # df_join_att['group'].mask(df_join_att['group'] == 'LD', 0, inplace=True)
+    # df_join_att['group'].mask(df_join_att['group'] == 'HD', 1, inplace=True)
+    # df_join_att['att_round'] = df_join_att['att_round'].astype(float)
+    # df_join_att['group'] = df_join_att['group'].astype(float)
+    # df_join_att['o_score'] = df_join_att['o_score'].astype(float)
 
 
+    # fam = sm.families.Gaussian()
+    # ind = sm.cov_struct.Autoregressive()
+    # mod = smf.gee("d_score ~ att_round + group + group * att_round", "PROLIFIC_PID", df_join_att,
+    #               cov_struct=ind, family=fam)
+    # res = mod.fit()
+    # print(res.summary())
 
-    fam = sm.families.Binomial()
-    ind = sm.cov_struct.Exchangeable()
-    mod = smf.ordinal_gee("o_score ~ 0 + att_round + group + group * att_round", "PROLIFIC_PID", df_join_att,
-                          cov_struct=ind, family=fam)
-    res = mod.fit()
-    print(res.summary())
+
+
+    # fam = sm.families.Binomial()
+    # ind = sm.cov_struct.Exchangeable()
+    # mod = smf.ordinal_gee("o_score ~ 0 + att_round + group + group * att_round", "PROLIFIC_PID", df_join_att,
+    #                       cov_struct=ind, family=fam)
+    # res = mod.fit()
+    # print(res.summary())
 
 
 

@@ -400,14 +400,22 @@ def plot_cntx(df):
                                     rho,p = pearsonr(a,b)
                                 
                             if np.isnan(rho):
-                                rho = 0
-                            rhos.append(rho)    
+                                rho = 0.01
+
+                            if rho == 0:
+                                rho = 0.01
+                            elif rho == 1:
+                                rho = 0.99
+                            elif rho == -1:
+                                rho = -0.99
+
+                            rhos.append(np.arctanh(rho))  
 
                         rho_mean = np.average(rhos)
 
-                    CorrMatrix[r1,r2] = CorrMatrix[r2, r1] = rho_mean
+                    CorrMatrix[r1,r2] = CorrMatrix[r2, r1] = np.tanh(rho_mean)
             CorrMatrixs.append(CorrMatrix)
-            print(tabulate(CorrMatrix, headers=ROUNDS_LAB, tablefmt="github"))
+            print(tabulate(np.triu(CorrMatrix, k=1), headers=ROUNDS_LAB, tablefmt="github"))
         # permutation_test(pd.DataFrame(CorrMatrixs[0]), pd.DataFrame(CorrMatrixs[1]))
 
         CorrDiffMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
@@ -418,10 +426,10 @@ def plot_cntx(df):
                     elif r1 > r2:
                         continue
                     else:
-                        z, p = independent_corr(CorrMatrixs[0][r1,r2], CorrMatrixs[1][r1,r2], 4)
+                        z, p = independent_corr(CorrMatrixs[0][r1,r2], CorrMatrixs[1][r1,r2], 47,51)
                         CorrDiffMatrix[r1,r2] = CorrDiffMatrix[r2, r1] = p
         print('Fisher Corr')
-        print(tabulate(CorrDiffMatrix, headers=ROUNDS_LAB, tablefmt="github"))
+        print(tabulate(np.triu(CorrDiffMatrix, k=1), headers=ROUNDS_LAB, tablefmt="github"))
 
 
 def upper(df):
@@ -746,12 +754,7 @@ if __name__ == "__main__":
 
     # plot_scores(df_join_att)
     # plot_correlation(df_join_att)
-    # plot_cntx(df_join_cntx)
+    plot_cntx(df_join_cntx)
     # plot_mixed(df_join_att, df_join_ls)
     # plot_ls(df_join_ls)
     
-
-
-
-
-

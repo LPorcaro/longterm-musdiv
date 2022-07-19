@@ -1,0 +1,90 @@
+[
+    {
+        "listened_at": "2022-07-14T18:49:17",
+        "track_name": "Castagne Genge",
+        "artist_name": "Pinguini Tattici Nucleari",
+        "release_name": "Diamo un calcio all'aldil\u00e0",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4GNrqpoUwkzSEK0loiFWLC",
+        "listening_from": "spotify",
+        "isrc": "ITB002000105",
+        "additional_info": {
+            "artist_msid": "2752e5a3-b4d2-4368-b7fa-37d21142666c",
+            "artist_names": [
+                "Pinguini Tattici Nucleari"
+            ],
+            "discnumber": 1,
+            "duration_ms": 285600,
+            "isrc": "ITB002000105",
+            "listening_from": "spotify",
+            "recording_msid": "d594c3f2-4949-4db2-af8c-28f57bf634e0",
+            "release_artist_name": "Pinguini Tattici Nucleari",
+            "release_artist_names": [
+                "Pinguini Tattici Nucleari"
+            ],
+            "release_msid": "e5dca55c-9a54-4b7f-9b80-25a1a698cc10",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0LfX1r8QOTbE8eTdnWCExO",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4GNrqpoUwkzSEK0loiFWLC",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T12:20:20",
+        "track_name": "3 DI CUORI (feat. Lazza)",
+        "artist_name": "ANNA, Lazza",
+        "release_name": "3 DI CUORI (feat. Lazza)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY",
+        "listening_from": "spotify",
+        "isrc": "ITUM72200706",
+        "additional_info": {
+            "artist_msid": "c5be9540-a345-4a5c-9622-8ba2af25087a",
+            "artist_names": [
+                "ANNA",
+                "Lazza"
+            ],
+            "discnumber": 1,
+            "duration_ms": 177600,
+            "isrc": "ITUM72200706",
+            "listening_from": "spotify",
+            "recording_msid": "ee06e54c-2a65-4c5c-be01-78d4bedccba1",
+            "release_artist_name": "ANNA, Lazza",
+            "release_artist_names": [
+                "ANNA",
+                "Lazza"
+            ],
+            "release_msid": "6ac20096-742c-4bd3-ac26-2cdeab3cc2ff",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u",
+                "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7IScTLAkymhF5ltesag29N",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u",
+                "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

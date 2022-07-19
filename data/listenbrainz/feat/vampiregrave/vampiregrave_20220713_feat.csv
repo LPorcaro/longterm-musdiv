@@ -1,0 +1,36 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0XzaH5uMhwPRIwC62ffgdl	Stan Getz,Charlie Byrd	Samba Triste	USF096300040	29	bossa nova,cool jazz,jazz,jazz saxophone,latin jazz,samba-jazz	0.823	0.641	0.0307	0.0522	142.611	0.691	0.232
+6PAVy8vARf1pzoK4WCk4Ov	Stan Getz,Charlie Byrd	O Pato	USF096300030	29	bossa nova,cool jazz,jazz,jazz saxophone,latin jazz,samba-jazz	0.827	0.632	0.247	0.0467	90.625	0.83	0.389
+2HQIVzHLJfEo5mmsOsxEUs	Stan Getz,Charlie Byrd	Samba Dees Days	USPR36260052	29	bossa nova,cool jazz,jazz,jazz saxophone,latin jazz,samba-jazz	0.806	0.624	0.808	0.0423	120.723	0.768	0.473
+2PaumP067qr31odS4s8mC1	Stan Getz,Charlie Byrd	Desafinado	USPR36200025	33	bossa nova,cool jazz,jazz,jazz saxophone,latin jazz,samba-jazz	0.636	0.608	0.0116	0.0748	89.128	0.785	0.382
+5H8VVTU2ZjA4aCumSCpXA3	Steve Vai	Greenish Blues	NLB932201007	31	instrumental rock,metal guitar,neo classical metal,shred	0.0209	0.183	0.796	0.0444	89.495	0.293	0.729
+7mW31wcbHDGMtFV427yaZo	Steve Vai	Avalancha	NLB932201006	31	instrumental rock,metal guitar,neo classical metal,shred	0.000548	0.322	0.793	0.0579	173.941	0.291	0.937
+65eO1v5FQKMXWJMD4BLti5	Steve Vai	Zeus in Chains	NLB932201002	36	instrumental rock,metal guitar,neo classical metal,shred	0.000618	0.389	0.695	0.044	119.903	0.268	0.837
+64A2PgoLzOmFGjHrkTc9x9	Steve Vai	Apollo In Color	NLB932201005	31	instrumental rock,metal guitar,neo classical metal,shred	0.00461	0.371	0.921	0.0562	152.094	0.509	0.854
+3HKzK9sk7lZ8eOdKS7yM2L	Steve Vai	Candlepower	NLB932201004	33	instrumental rock,metal guitar,neo classical metal,shred	0.003	0.451	0.653	0.0302	157.224	0.6	0.787
+7aRm60aH0GgJK4C6mN6jDu	Steve Vai	Little Pretty	NLB932201003	36	instrumental rock,metal guitar,neo classical metal,shred	0.0597	0.433	0.858	0.0291	82.001	0.283	0.789
+4mGigKCuAXQot4xkmhate9	Steve Vai	Teeth of the Hydra	NLB932201001	41	instrumental rock,metal guitar,neo classical metal,shred	0.0203	0.151	0.886	0.0535	83.968	0.372	0.904
+5m5I3KcV83zf2p2qbsnr3y	Steve Vai	For the Love of God	USSM19000148	54	instrumental rock,metal guitar,neo classical metal,shred	0.00347	0.152	0.912	0.0418	95.49	0.283	0.842
+2U3Rf6aITR6QC9fRNrctxS	Opeth	Ghost of Perdition - Live	DED831800115	27	alternative metal,metal,progressive death metal,progressive metal,swedish metal,swedish progressive metal	0.00113	0.233	0.297	0.181	94.408	0.123	0.935
+2TC932wsI4iELlaG3n6cTp	Opeth	Sorceress - Live	DED831800114	27	alternative metal,metal,progressive death metal,progressive metal,swedish metal,swedish progressive metal	0.000911	0.25	0.184	0.0795	162.738	0.121	0.85
+0s0MWzEOxZzmupP4rPGKJX	Steve Vai	Knappsack	NLB932201008	28	instrumental rock,metal guitar,neo classical metal,shred	0.0031	0.179	0.847	0.0886	101.552	0.23	0.909
+3cXEaRUuLYDT2hzqLwBJe8	Porcupine Tree	Dignity	GBCKC2100038	56	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.0257	0.494	0.015	0.0314	132.012	0.0675	0.334
+25fo3ey4W28SsWY9ALYrlo	Michał Łapaj,Mick Moss	Shattered Memories	PLB822100021	31		0.169	0.467	0.599	0.0299	109.977	0.063	0.56
+2BNYysvilyF8O1iyb6Abz4	Al Di Meola	Race with Devil on Turkish Highway	USTE10443310	13	flamenco guitar,jazz fusion,jazz guitar	0.553	0.636	0.426	0.0684	143.008	0.639	0.759
+3iBgX91ggHqR9kU7SlSU12	Al Di Meola,John McLaughlin,Paco de Lucía	Orpheo Negro	DEH842100452	26	flamenco guitar,jazz fusion,jazz guitar	0.855	0.461	0.638	0.0448	111.85	0.366	0.464
+2bLp1A91R4L4MOncfnNaYf	Al Di Meola,John McLaughlin,Paco de Lucía	Meeting of the Spirits	DEH842100451	30	flamenco guitar,jazz fusion,jazz guitar	0.692	0.394	0.837	0.0356	97.955	0.473	0.621
+4h6vUsmOj1Rpk2oexCZ9Zm	Al Di Meola,John McLaughlin,Paco de Lucía	El Pañuelo	DEH842100450	27	flamenco guitar,jazz fusion,jazz guitar	0.796	0.416	0.756	0.045	121.371	0.682	0.665
+4VlUGUSKjCQrpylCkGlaL0	Paco de Lucía	Monasterio de Sal	DEH842100449	28	flamenco,flamenco guitar,rumba	0.829	0.377	0.674	0.0326	104.932	0.364	0.365
+5C1TtHv0Qv9B9MmeU3KIjq	Al Di Meola,John McLaughlin,Paco de Lucía	Splendido Sundance	DEH842100446	32	flamenco guitar,jazz fusion,jazz guitar	0.791	0.422	0.831	0.0436	114.511	0.516	0.74
+5lF3N6PnJu4eZVD09ypcDL	Al Di Meola,John McLaughlin,Paco de Lucía	Bill Graham Introduction	DEH842100445	5	flamenco guitar,jazz fusion,jazz guitar	0.822	0.413	1.47e-05	0.836	90.365	0.191	0.654
+67HMOL8Y9msoF0IprKgXc8	Porcupine Tree	Rats Return	GBCKC2100037	54	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00617	0.59	0.515	0.0424	122.01	0.467	0.706
+2lhHoTW89Nuv6zsKgrtDNP	Porcupine Tree	Of The New Day	GBCKC2100036	54	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.117	0.394	0.00138	0.0313	140.373	0.0695	0.256
+5sW2IwWkSJcFMDtfYNtWMj	Porcupine Tree	Harridan	GBCKC2100035	55	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00297	0.615	0.465	0.0372	127.005	0.216	0.753
+0kiaVCnEEFQWIbEd9bjqAe	Porcupine Tree	Sleep Together	GBCQV0701073	39	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.268	0.552	0.904	0.0284	144.005	0.112	0.461
+7I1BHtM3RNofV9CPvnMem3	Porcupine Tree	Way out of Here	GBCQV0701072	41	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.0195	0.544	0.702	0.0301	111.994	0.163	0.407
+5pQNsm5hmOUVwgRtDGijyi	Porcupine Tree	Sentimental	GBCQV0701071	42	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.579	0.449	0.838	0.0348	173.988	0.167	0.392
+2VvUor8pk8HOR9cb5iC84z	Porcupine Tree	Anesthetize	GBCQV0701070	48	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.076	0.548	0.681	0.0331	110.001	0.286	0.49
+0ifoJpJbJKMsXnvsIZ58no	Porcupine Tree	My Ashes	GBCQV0701069	41	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.465	0.594	0.308	0.0357	116.024	0.0734	0.266
+5TnIBKE4G3OEqOnRG7gnNb	Porcupine Tree	Fear of a Blank Planet	GBCQV0701068	46	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00279	0.374	0.591	0.0321	162.009	0.261	0.642
+4Oqd5x85iDabf88S97CMm0	Porcupine Tree	Walk the Plank	GBCKC2100040	52	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.193	0.661	0.305	0.0353	113.003	0.208	0.336
+1OBPAhkQe8GvyPGVFiNuEI	Porcupine Tree	Herd Culling	GBCKC2100039	53	alternative metal,art rock,progressive metal,progressive rock,symphonic rock	0.00267	0.525	0.325	0.0328	95.958	0.368	0.514

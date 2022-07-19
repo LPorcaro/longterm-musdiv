@@ -1,0 +1,46 @@
+[
+    {
+        "listened_at": "2022-07-17T13:20:04",
+        "track_name": "Ojitos Lindos",
+        "artist_name": "Bad Bunny, Bomba Est\u00e9reo",
+        "release_name": "Un Verano Sin Ti",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW",
+        "listening_from": "spotify",
+        "isrc": "QM6MZ2214888",
+        "additional_info": {
+            "artist_msid": "3a5be2c7-aeea-4a7a-a7f6-4bb7a341993e",
+            "artist_names": [
+                "Bad Bunny",
+                "Bomba Est\u00e9reo"
+            ],
+            "discnumber": 1,
+            "duration_ms": 258298,
+            "isrc": "QM6MZ2214888",
+            "listening_from": "spotify",
+            "recording_msid": "a0345d25-fb9a-400f-b706-d5907639195b",
+            "release_artist_name": "Bad Bunny",
+            "release_artist_names": [
+                "Bad Bunny"
+            ],
+            "release_msid": "fbb7fba8-017d-41da-b2d8-51eee4db6244",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW",
+            "tracknumber": 14
+        },
+        "username": null
+    }
+]

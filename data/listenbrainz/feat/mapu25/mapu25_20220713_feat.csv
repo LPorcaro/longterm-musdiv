@@ -1,0 +1,60 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+4PrYq1x0pv5WSMCiy6rp9o	Stay Homas	In The End	ES5022000378	44	musica catalana	0.0865	0.763	0.0	0.0712	146.977	0.85	0.719
+12gIiC7uS9fvSVTvu66YDO	AleXa,American Song Contest	Wonderland (From “American Song Contest”)	USAT22202243	67	k-pop	0.137	0.661	0.0	0.0369	99.978	0.605	0.935
+0qAIiGFKLdV1xpNlEhjpq8	Taylor Swift	New Romantics	USCJY1431449	69	pop	0.00463	0.633	0.000458	0.0715	121.956	0.584	0.889
+2KrOAg6FftbjgSKdd2a4rS	Taylor Swift	You Are In Love	USCJY1431439	64	pop	0.707	0.474	0.000108	0.0622	170.109	0.319	0.48
+6RvRzl1YJTDnUvdOtV21IK	Taylor Swift	Wonderland	USCJY1431429	65	pop	0.0493	0.422	2.57e-05	0.0549	184.014	0.197	0.692
+2k43eySbfpDVx0PrO99UI8	Taylor Swift	Clean	USCJY1431419	49	pop	0.242	0.81	0.0	0.035	103.981	0.211	0.38
+6Ck9WerfsyvC4v4AylUoDp	Taylor Swift	I Know Places	USCJY1431409	57	pop	0.231	0.595	0.0	0.0661	159.959	0.507	0.763
+4d1CG5ei1E2vGbvmgf5KKv	Taylor Swift	This Love (Taylor’s Version)	USUG12200219	81	pop	0.302	0.47	0.0	0.0349	144.039	0.0524	0.494
+5Z9ocF6ng0m2haHnKtHwTp	Taylor Swift	How You Get The Girl	USCJY1431389	50	pop	0.00463	0.764	0.00458	0.0492	119.982	0.525	0.659
+1Ov37jtRQ2YNAe8HzfczkL	Taylor Swift	Wildest Dreams (Taylor's Version)	USUG12103658	82	pop	0.0374	0.583	0.0001	0.0646	140.061	0.498	0.67
+0TvQLMecTE8utzoNmvXRbK	Taylor Swift	Bad Blood	USCJY1431369	75	pop	0.0871	0.652	6.45e-06	0.181	170.157	0.295	0.802
+5RVJ6VKfwtosA5Q1qeHdjF	Taylor Swift	I Wish You Would	USCJY1431359	48	pop	0.016	0.649	9.9e-05	0.0511	118.027	0.503	0.898
+1kKlhuQE0HXp1IwBRpaH2P	Taylor Swift	Shake It Off	USCJY1431349	57	pop	0.0561	0.648	0.0	0.165	160.02	0.943	0.785
+4NNolUeL5m2ju7kf8pdg6H	Taylor Swift	All You Had To Do Was Stay	USCJY1431339	62	pop	0.00196	0.602	4.77e-05	0.0337	96.969	0.472	0.735
+7EpVQjqtKygiwJIASxMWNg	Taylor Swift	Out Of The Woods	USCJY1431329	53	pop	0.00103	0.552	1.23e-05	0.0372	91.993	0.342	0.841
+71PmZqBXH0RUETqxpwlV0w	Taylor Swift	Style	USCJY1431319	61	pop	0.00256	0.598	0.00143	0.0382	95.021	0.456	0.786
+2ls70nUDfjzm1lSRDuKxmw	Taylor Swift	Blank Space	USCJY1431309	63	pop	0.085	0.752	1.64e-06	0.0646	96.009	0.583	0.678
+10nqz67NQWWa7XPq7ycihi	Taylor Swift	Welcome To New York	USCJY1431299	64	pop	0.038	0.793	1.76e-06	0.0324	117.023	0.615	0.634
+4axSuOg3BqsowKjRpj59RU	Taylor Swift	Carolina - From The Motion Picture “Where The Crawdads Sing”	USUG12200226	79	pop	0.904	0.476	4.52e-06	0.0329	115.851	0.324	0.189
+5mcYWxQAAlqGAhEPqVMMR5	Aitana	En El Coche	ES5702200098	74	latin pop,latin talent show,spanish pop	0.15	0.856	1.13e-06	0.0952	128.03	0.893	0.65
+5ccIKJVuEGjF4sbaG3afgd	NIKI DEMAR	Alone in My Car	QM24S2006877	48	alt z,social media pop	0.171	0.622	0.00555	0.0386	92.085	0.294	0.579
+3UciYz88qyl3ZBW5c5TBMV	Carly Rae Jepsen	Your Type	USUM71507029	54	canadian pop,dance pop,electropop,pop,post-teen pop,uk pop	0.00279	0.651	0.000622	0.0518	92.02	0.448	0.786
+5vTPxzm4h2bY9rYyVrGEU5	Demi Lovato,Cher Lloyd	Really Don't Care	USHR11334431	71	dance pop,pop,post-teen pop,uk pop	0.123	0.706	0.0	0.0852	121.017	0.851	0.728
+6SRsiMl7w1USE4mFqrOhHC	Olivia Rodrigo	brutal	USUG12101242	82	pop	0.0311	0.672	1.37e-06	0.0599	123.999	0.28	0.526
+0VE4kBnHJUgtMf0dy6DRmW	Taylor Swift	Getaway Car	USCJY1750010	79	pop	0.00465	0.562	2.23e-06	0.127	172.054	0.351	0.689
+1P17dC1amhFzptugyAO7Il	Taylor Swift	Look What You Made Me Do	USCJY1750000	79	pop	0.204	0.766	1.41e-05	0.123	128.07	0.506	0.709
+6RRNNciQGZEXnqk8SQ9yv5	Taylor Swift	You Need To Calm Down	USUG11901470	77	pop	0.00929	0.771	0.0	0.0553	85.026	0.714	0.671
+5hQSXkFgbxjZo9uCwd11so	Taylor Swift	False God	USUG11901483	72	pop	0.736	0.739	0.000147	0.239	79.97	0.351	0.32
+1LLXZFeAHK9R4xUramtUKw	Taylor Swift	London Boy	USUG11901481	74	pop	0.0246	0.695	0.000104	0.05	157.925	0.557	0.71
+2dgFqt3w9xIQRjhPtwNk3D	Taylor Swift	Death By A Thousand Cuts	USUG11901480	71	pop	0.454	0.712	0.0	0.0629	94.071	0.313	0.732
+12M5uqx0ZuwkpLp5rJim1a	Taylor Swift	Cornelia Street	USUG11901479	72	pop	0.781	0.824	0.000189	0.0827	102.012	0.248	0.624
+4y5bvROuBDPr5fuwXbIBZR	Taylor Swift	Paper Rings	USUG11901478	82	pop	0.0129	0.811	1.36e-05	0.0497	103.979	0.865	0.719
+214nt20w5wOxJnY462klLw	Taylor Swift	Miss Americana & The Heartbreak Prince	USUG11901477	70	pop	0.028	0.662	0.00615	0.0736	150.088	0.487	0.747
+2YWtcWi3a83pdEg3Gif4Pd	Taylor Swift	I Think He Knows	USUG11901476	71	pop	0.00889	0.897	0.000353	0.0569	100.003	0.416	0.366
+3pHkh7d0lzM2AldUtz2x37	Taylor Swift	The Archer	USUG11901475	70	pop	0.12	0.292	0.00569	0.0401	124.344	0.166	0.574
+3RauEVgRgj1IuWdJ9fDs70	Taylor Swift	The Man	USUG11901474	79	pop	0.0767	0.777	0.0	0.054	110.048	0.633	0.658
+1dGr1c8CrMLDpV6mPbImSI	Taylor Swift	Lover	USUG11901473	84	pop	0.492	0.359	1.58e-05	0.0919	68.534	0.453	0.543
+1BxfuPKGuaTgP7aM0Bbdwr	Taylor Swift	Cruel Summer	USUG11901472	84	pop	0.117	0.552	2.06e-05	0.157	169.994	0.564	0.702
+43rA71bccXFGD4C8GOpIlN	Taylor Swift	I Forgot That You Existed	USUG11901471	72	pop	0.298	0.664	2.03e-06	0.519	92.875	0.541	0.316
+12xIjI9A9UlB6zEc7kyZ06	Taylor Swift	"Carolina - ""Where The Crawdads Sing"" - Video Edition"	USUG12200228	69	pop	0.893	0.364	0.0	0.0374	115.727	0.42	0.185
+7ju97lgwC2rKQ6wwsf9no9	Lady Gaga,Ariana Grande	Rain On Me (with Ariana Grande)	USUM72004304	78	art pop,dance pop,pop	0.021	0.672	0.0	0.0397	123.056	0.646	0.855
+7xoUc6faLbCqZO6fQEYprd	Ariana Grande	One Last Time	USUM71409723	81	dance pop,pop	0.093	0.628	1.65e-06	0.0323	125.026	0.104	0.593
+4ZtFanR9U6ndgddUvNcjcG	Olivia Rodrigo	good 4 u	USUG12101245	90	pop	0.335	0.563	0.0	0.154	166.928	0.688	0.664
+0vQcyuMEfRBd21ojZ62N2L	Dua Lipa	Boys Will Be Boys	GBAHT1901307	63	dance pop,pop,uk pop	0.408	0.768	0.0	0.0353	125.021	0.519	0.486
+6uAFJ75WDAoAPyCWJAtvks	Dua Lipa	Good In Bed	GBAHT1901305	63	dance pop,pop,uk pop	0.138	0.68	0.000191	0.0917	94.06	0.649	0.701
+017PF4Q3l4DBUiWoXk4OWT	Dua Lipa	Break My Heart	GBAHT1901303	79	dance pop,pop,uk pop	0.167	0.73	1.39e-06	0.0884	113.011	0.467	0.729
+4rPkN1FMzQyFNP9cLUGIIB	Dua Lipa	Love Again	GBAHT1901302	77	dance pop,pop,uk pop	0.00173	0.659	2.85e-05	0.0339	115.982	0.468	0.667
+1nYeVF5vIBxMxfPoL0SIWg	Dua Lipa	Hallucinate	GBAHT1901301	71	dance pop,pop,uk pop	0.033	0.627	0.0	0.139	122.053	0.627	0.69
+6DXZiYUbrYgrVIhfX3U9Z2	Dua Lipa	Pretty Please	GBAHT1901300	69	dance pop,pop,uk pop	0.0311	0.906	5.5e-06	0.194	106.976	0.656	0.474
+39LLxExYz6ewLAcYrzQQyP	Dua Lipa	Levitating	GBAHT1901299	84	dance pop,pop,uk pop	0.0561	0.695	0.0	0.0753	103.014	0.914	0.884
+3AzjcOeAmA57TIOr9zF1ZW	Dua Lipa	Physical	GBAHT1901298	76	dance pop,pop,uk pop	0.0137	0.647	0.000658	0.0457	146.967	0.746	0.844
+2nMOodYNHBAQ3Kc1QNimZU	Dua Lipa	Cool	GBAHT1901297	63	dance pop,pop,uk pop	0.133	0.469	1.55e-06	0.0664	89.719	0.79	0.785
+3PfIrDoz19wz7qK7tYeu62	Dua Lipa	Don't Start Now	GBAHT1901121	82	dance pop,pop,uk pop	0.0123	0.793	0.0	0.083	123.95	0.679	0.793
+6zrJLhslleCHby0wbUnvVy	Dua Lipa	Future Nostalgia	GBAHT1901177	61	dance pop,pop,uk pop	0.00618	0.875	0.0	0.0579	114.993	0.859	0.813
+4hceSKjrkDTO0nMKFcb3sj	Bizarrap,Villano Antillano	Villano Antillano: Bzrp Music Sessions, Vol. 51	UYB282201027	87	argentine hip hop,pop venezolano,trap argentino	0.0584	0.82	0.00417	0.0648	127.999	0.423	0.752
+0tQ9vBYpldCuikPsbgOVKA	Taylor Swift	Untouchable (Taylor’s Version)	USUG12100631	61	pop	0.0181	0.393	0.0	0.0329	200.391	0.224	0.531
+1hf8CDYdkkcQhthrRL8iy7	Rigoberta Bandini,Amaia	Así Bailaba	QM6N22265432	59	spanish synthpop	0.101	0.665	0.0	0.129	100.002	0.514	0.718
+5ajjAnNRh8bxFvaVHzpPjh	Madison Beer	Reckless	USSM12102874	79	alt z,dance pop,electropop,pop,post-teen pop,uk pop	0.807	0.386	0.0	0.0363	180.104	0.261	0.426
+755ijaAIPf4pICflNINZnc	NIKI DEMAR	25	QZJG52190582	45	alt z,social media pop	0.893	0.525	8.99e-06	0.0509	78.277	0.179	0.446

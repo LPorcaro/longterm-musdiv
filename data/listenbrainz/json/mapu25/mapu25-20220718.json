@@ -1,0 +1,774 @@
+[
+    {
+        "listened_at": "2022-07-17T01:28:43",
+        "track_name": "So\u00f1ar",
+        "artist_name": "Morad",
+        "release_name": "So\u00f1ar",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT",
+        "listening_from": "spotify",
+        "isrc": "QMDA62109750",
+        "additional_info": {
+            "artist_msid": "64f20b89-6b86-43d4-a963-f5ead734a34d",
+            "artist_names": [
+                "Morad"
+            ],
+            "discnumber": 1,
+            "duration_ms": 255118,
+            "isrc": "QMDA62109750",
+            "listening_from": "spotify",
+            "recording_msid": "c7c936c1-1cd0-460f-a48a-3e878eed5428",
+            "release_artist_name": "Morad",
+            "release_artist_names": [
+                "Morad"
+            ],
+            "release_msid": "933f1a41-5d15-410b-9ceb-49ea1844a1dc",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-17T01:24:28",
+        "track_name": "Glimpse of Us",
+        "artist_name": "Joji",
+        "release_name": "Glimpse of Us",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ",
+        "listening_from": "spotify",
+        "isrc": "USWB12201789",
+        "additional_info": {
+            "artist_msid": "88e05aca-73e9-44f3-8584-424e7de4c7c3",
+            "artist_names": [
+                "Joji"
+            ],
+            "discnumber": 1,
+            "duration_ms": 233456,
+            "isrc": "USWB12201789",
+            "listening_from": "spotify",
+            "recording_msid": "930e90fb-a491-4310-aa93-7ad91eece343",
+            "release_artist_name": "Joji",
+            "release_artist_names": [
+                "Joji"
+            ],
+            "release_msid": "4345b09c-ec02-4959-8f28-b425953bc71f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-17T01:20:35",
+        "track_name": "Your Type",
+        "artist_name": "Carly Rae Jepsen",
+        "release_name": "Emotion (Deluxe Expanded Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/3UciYz88qyl3ZBW5c5TBMV",
+        "listening_from": "spotify",
+        "isrc": "USUM71507029",
+        "additional_info": {
+            "artist_msid": "98184d50-f63d-4232-8a81-c06fa53b1082",
+            "artist_names": [
+                "Carly Rae Jepsen"
+            ],
+            "discnumber": 1,
+            "duration_ms": 199720,
+            "isrc": "USUM71507029",
+            "listening_from": "spotify",
+            "recording_msid": "14944e77-6fcd-455f-a369-1768ba6d82b4",
+            "release_artist_name": "Carly Rae Jepsen",
+            "release_artist_names": [
+                "Carly Rae Jepsen"
+            ],
+            "release_msid": "d29b5b79-c392-40db-a346-c658f2acf9e7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3UciYz88qyl3ZBW5c5TBMV",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-17T01:17:15",
+        "track_name": "En El Coche",
+        "artist_name": "Aitana",
+        "release_name": "En El Coche",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5",
+        "listening_from": "spotify",
+        "isrc": "ES5702200098",
+        "additional_info": {
+            "artist_msid": "fb37fbb5-8f72-4cb6-94ce-66b30d6e05ba",
+            "artist_names": [
+                "Aitana"
+            ],
+            "discnumber": 1,
+            "duration_ms": 125080,
+            "isrc": "ES5702200098",
+            "listening_from": "spotify",
+            "recording_msid": "b21f6b3b-3413-4f22-9b18-58610b79eea0",
+            "release_artist_name": "Aitana",
+            "release_artist_names": [
+                "Aitana"
+            ],
+            "release_msid": "6add7279-bb86-44ea-bede-e0e9f4154719",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-17T01:15:09",
+        "track_name": "In The End",
+        "artist_name": "Stay Homas",
+        "release_name": "In The End",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4PrYq1x0pv5WSMCiy6rp9o",
+        "listening_from": "spotify",
+        "isrc": "ES5022000378",
+        "additional_info": {
+            "artist_msid": "645f270f-d5c4-41e9-aaa2-0f2132d497fd",
+            "artist_names": [
+                "Stay Homas"
+            ],
+            "discnumber": 1,
+            "duration_ms": 141493,
+            "isrc": "ES5022000378",
+            "listening_from": "spotify",
+            "recording_msid": "5ab6bbd2-8926-4890-80eb-21ef0d915aca",
+            "release_artist_name": "Stay Homas",
+            "release_artist_names": [
+                "Stay Homas"
+            ],
+            "release_msid": "40629c90-960b-4b76-90d9-469ee5620f48",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1puEpzSh7RO5ISY19gGnz0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4PrYq1x0pv5WSMCiy6rp9o",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-17T01:12:47",
+        "track_name": "Alone in My Car",
+        "artist_name": "NIKI DEMAR",
+        "release_name": "Alone in My Car",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5ccIKJVuEGjF4sbaG3afgd",
+        "listening_from": "spotify",
+        "isrc": "QM24S2006877",
+        "additional_info": {
+            "artist_msid": "139658bf-41f0-47ad-b542-25761074cc52",
+            "artist_names": [
+                "NIKI DEMAR"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193173,
+            "isrc": "QM24S2006877",
+            "listening_from": "spotify",
+            "recording_msid": "c2052158-d7cb-4f71-95b7-0d0b80279c6e",
+            "release_artist_name": "NIKI DEMAR",
+            "release_artist_names": [
+                "NIKI DEMAR"
+            ],
+            "release_msid": "3b58e569-f310-49b0-9ebb-367a43612d97",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3IjaaVqpq5saHeZvyh1iwV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5ccIKJVuEGjF4sbaG3afgd",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-17T01:09:33",
+        "track_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "artist_name": "AleXa, American Song Contest",
+        "release_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+        "listening_from": "spotify",
+        "isrc": "USAT22202243",
+        "additional_info": {
+            "artist_msid": "3658031f-6340-4b5e-8ea6-9863a61bce75",
+            "artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "discnumber": 1,
+            "duration_ms": 164723,
+            "isrc": "USAT22202243",
+            "listening_from": "spotify",
+            "recording_msid": "7789caa5-5fe8-4155-8618-3879b49d0c24",
+            "release_artist_name": "AleXa, American Song Contest",
+            "release_artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "release_msid": "35e81ef4-7738-4102-aa01-9bd7d1e38dea",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-17T00:58:59",
+        "track_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "artist_name": "AleXa, American Song Contest",
+        "release_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+        "listening_from": "spotify",
+        "isrc": "USAT22202243",
+        "additional_info": {
+            "artist_msid": "3658031f-6340-4b5e-8ea6-9863a61bce75",
+            "artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "discnumber": 1,
+            "duration_ms": 164723,
+            "isrc": "USAT22202243",
+            "listening_from": "spotify",
+            "recording_msid": "7789caa5-5fe8-4155-8618-3879b49d0c24",
+            "release_artist_name": "AleXa, American Song Contest",
+            "release_artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "release_msid": "35e81ef4-7738-4102-aa01-9bd7d1e38dea",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-15T23:43:20",
+        "track_name": "emails i can\u2019t send",
+        "artist_name": "Sabrina Carpenter",
+        "release_name": "emails i can't send",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy",
+        "listening_from": "spotify",
+        "isrc": "USUM72210693",
+        "additional_info": {
+            "artist_msid": "a9d4d43e-c492-4c09-9a1c-d66f2d2ed5f5",
+            "artist_names": [
+                "Sabrina Carpenter"
+            ],
+            "discnumber": 1,
+            "duration_ms": 104408,
+            "isrc": "USUM72210693",
+            "listening_from": "spotify",
+            "recording_msid": "80c16b94-f46f-4a7e-a4d9-b49ae88056c6",
+            "release_artist_name": "Sabrina Carpenter",
+            "release_artist_names": [
+                "Sabrina Carpenter"
+            ],
+            "release_msid": "46ebfd68-0fb0-4724-9b02-7d168d585de5",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:59:11",
+        "track_name": "En El Coche",
+        "artist_name": "Aitana",
+        "release_name": "En El Coche",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5",
+        "listening_from": "spotify",
+        "isrc": "ES5702200098",
+        "additional_info": {
+            "artist_msid": "fb37fbb5-8f72-4cb6-94ce-66b30d6e05ba",
+            "artist_names": [
+                "Aitana"
+            ],
+            "discnumber": 1,
+            "duration_ms": 125080,
+            "isrc": "ES5702200098",
+            "listening_from": "spotify",
+            "recording_msid": "b21f6b3b-3413-4f22-9b18-58610b79eea0",
+            "release_artist_name": "Aitana",
+            "release_artist_names": [
+                "Aitana"
+            ],
+            "release_msid": "6add7279-bb86-44ea-bede-e0e9f4154719",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:59:02",
+        "track_name": "In The End",
+        "artist_name": "Stay Homas",
+        "release_name": "In The End",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4PrYq1x0pv5WSMCiy6rp9o",
+        "listening_from": "spotify",
+        "isrc": "ES5022000378",
+        "additional_info": {
+            "artist_msid": "645f270f-d5c4-41e9-aaa2-0f2132d497fd",
+            "artist_names": [
+                "Stay Homas"
+            ],
+            "discnumber": 1,
+            "duration_ms": 141493,
+            "isrc": "ES5022000378",
+            "listening_from": "spotify",
+            "recording_msid": "5ab6bbd2-8926-4890-80eb-21ef0d915aca",
+            "release_artist_name": "Stay Homas",
+            "release_artist_names": [
+                "Stay Homas"
+            ],
+            "release_msid": "40629c90-960b-4b76-90d9-469ee5620f48",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1puEpzSh7RO5ISY19gGnz0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4PrYq1x0pv5WSMCiy6rp9o",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:56:41",
+        "track_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "artist_name": "AleXa, American Song Contest",
+        "release_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+        "listening_from": "spotify",
+        "isrc": "USAT22202243",
+        "additional_info": {
+            "artist_msid": "3658031f-6340-4b5e-8ea6-9863a61bce75",
+            "artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "discnumber": 1,
+            "duration_ms": 164723,
+            "isrc": "USAT22202243",
+            "listening_from": "spotify",
+            "recording_msid": "7789caa5-5fe8-4155-8618-3879b49d0c24",
+            "release_artist_name": "AleXa, American Song Contest",
+            "release_artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "release_msid": "35e81ef4-7738-4102-aa01-9bd7d1e38dea",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:50:52",
+        "track_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "artist_name": "AleXa, American Song Contest",
+        "release_name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+        "listening_from": "spotify",
+        "isrc": "USAT22202243",
+        "additional_info": {
+            "artist_msid": "3658031f-6340-4b5e-8ea6-9863a61bce75",
+            "artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "discnumber": 1,
+            "duration_ms": 164723,
+            "isrc": "USAT22202243",
+            "listening_from": "spotify",
+            "recording_msid": "7789caa5-5fe8-4155-8618-3879b49d0c24",
+            "release_artist_name": "AleXa, American Song Contest",
+            "release_artist_names": [
+                "AleXa",
+                "American Song Contest"
+            ],
+            "release_msid": "35e81ef4-7738-4102-aa01-9bd7d1e38dea",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU",
+                "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+            ],
+            "spotify_id": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:22:42",
+        "track_name": "Glimpse of Us",
+        "artist_name": "Joji",
+        "release_name": "Glimpse of Us",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ",
+        "listening_from": "spotify",
+        "isrc": "USWB12201789",
+        "additional_info": {
+            "artist_msid": "88e05aca-73e9-44f3-8584-424e7de4c7c3",
+            "artist_names": [
+                "Joji"
+            ],
+            "discnumber": 1,
+            "duration_ms": 233456,
+            "isrc": "USWB12201789",
+            "listening_from": "spotify",
+            "recording_msid": "930e90fb-a491-4310-aa93-7ad91eece343",
+            "release_artist_name": "Joji",
+            "release_artist_names": [
+                "Joji"
+            ],
+            "release_msid": "4345b09c-ec02-4959-8f28-b425953bc71f",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:17:51",
+        "track_name": "Your Type",
+        "artist_name": "Carly Rae Jepsen",
+        "release_name": "Emotion (Deluxe Expanded Edition)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 8,
+        "spotify_id": "https://open.spotify.com/track/3UciYz88qyl3ZBW5c5TBMV",
+        "listening_from": "spotify",
+        "isrc": "USUM71507029",
+        "additional_info": {
+            "artist_msid": "98184d50-f63d-4232-8a81-c06fa53b1082",
+            "artist_names": [
+                "Carly Rae Jepsen"
+            ],
+            "discnumber": 1,
+            "duration_ms": 199720,
+            "isrc": "USUM71507029",
+            "listening_from": "spotify",
+            "recording_msid": "14944e77-6fcd-455f-a369-1768ba6d82b4",
+            "release_artist_name": "Carly Rae Jepsen",
+            "release_artist_names": [
+                "Carly Rae Jepsen"
+            ],
+            "release_msid": "d29b5b79-c392-40db-a346-c658f2acf9e7",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+            ],
+            "spotify_id": "https://open.spotify.com/track/3UciYz88qyl3ZBW5c5TBMV",
+            "tracknumber": 8
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:14:01",
+        "track_name": "En El Coche",
+        "artist_name": "Aitana",
+        "release_name": "En El Coche",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5",
+        "listening_from": "spotify",
+        "isrc": "ES5702200098",
+        "additional_info": {
+            "artist_msid": "fb37fbb5-8f72-4cb6-94ce-66b30d6e05ba",
+            "artist_names": [
+                "Aitana"
+            ],
+            "discnumber": 1,
+            "duration_ms": 125080,
+            "isrc": "ES5702200098",
+            "listening_from": "spotify",
+            "recording_msid": "b21f6b3b-3413-4f22-9b18-58610b79eea0",
+            "release_artist_name": "Aitana",
+            "release_artist_names": [
+                "Aitana"
+            ],
+            "release_msid": "6add7279-bb86-44ea-bede-e0e9f4154719",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T20:11:57",
+        "track_name": "In The End",
+        "artist_name": "Stay Homas",
+        "release_name": "In The End",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4PrYq1x0pv5WSMCiy6rp9o",
+        "listening_from": "spotify",
+        "isrc": "ES5022000378",
+        "additional_info": {
+            "artist_msid": "645f270f-d5c4-41e9-aaa2-0f2132d497fd",
+            "artist_names": [
+                "Stay Homas"
+            ],
+            "discnumber": 1,
+            "duration_ms": 141493,
+            "isrc": "ES5022000378",
+            "listening_from": "spotify",
+            "recording_msid": "5ab6bbd2-8926-4890-80eb-21ef0d915aca",
+            "release_artist_name": "Stay Homas",
+            "release_artist_names": [
+                "Stay Homas"
+            ],
+            "release_msid": "40629c90-960b-4b76-90d9-469ee5620f48",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/1puEpzSh7RO5ISY19gGnz0",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4PrYq1x0pv5WSMCiy6rp9o",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T12:18:26",
+        "track_name": "Alone in My Car",
+        "artist_name": "NIKI DEMAR",
+        "release_name": "Alone in My Car",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/5ccIKJVuEGjF4sbaG3afgd",
+        "listening_from": "spotify",
+        "isrc": "QM24S2006877",
+        "additional_info": {
+            "artist_msid": "139658bf-41f0-47ad-b542-25761074cc52",
+            "artist_names": [
+                "NIKI DEMAR"
+            ],
+            "discnumber": 1,
+            "duration_ms": 193173,
+            "isrc": "QM24S2006877",
+            "listening_from": "spotify",
+            "recording_msid": "c2052158-d7cb-4f71-95b7-0d0b80279c6e",
+            "release_artist_name": "NIKI DEMAR",
+            "release_artist_names": [
+                "NIKI DEMAR"
+            ],
+            "release_msid": "3b58e569-f310-49b0-9ebb-367a43612d97",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/3IjaaVqpq5saHeZvyh1iwV",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5ccIKJVuEGjF4sbaG3afgd",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

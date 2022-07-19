@@ -1,0 +1,44 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7BegCs03MceNueQO8egnZP	Machel Montano	Like Ah Boss	TCACC1485708	31	chutney,dancehall,soca	0.105	0.802	0.0	0.175	133.968	0.746	0.944
+1A05JVopbyY1AcGcDVOEnA	Wilkinson,Hayla	I Need	GB5KW1802379	38	dancefloor dnb,drum and bass,house	0.00901	0.613	0.0	0.0479	126.02	0.405	0.725
+5aWhs651KYM26HYM16kRdk	The Killers	The Man	USUM71705733	66	alternative rock,dance rock,modern rock,permanent wave,rock	0.0737	0.606	2.23e-06	0.115	106.02	0.519	0.942
+71koAFCnGnugRdGIDfS7f4	Gorillaz	19-2000	GBAYE0001456	65	alternative hip hop	0.177	0.815	7.31e-06	0.0536	89.914	0.946	0.72
+6suRRwX61xSMfU7wJuCVdy	The Killers	For Reasons Unknown	USUM70605413	63	alternative rock,dance rock,modern rock,permanent wave,rock	0.000458	0.504	0.0399	0.0366	140.398	0.516	0.884
+33X9miK4Xz7pNeVrc9RITG	Arcade Fire	Ready to Start	GBUM71021615	52	baroque pop,canadian indie,indie rock,modern rock,new rave,permanent wave,quebec indie,rock	0.117	0.277	0.0242	0.0382	188.797	0.519	0.934
+0kje3SpbIHS7SoEk6QG5xn	The National	Quiet Light	GBAFL1900115	47	indie rock,modern rock	0.201	0.625	0.885	0.0485	105.994	0.355	0.883
+3zsRP8rH1kaIAo9fmiP4El	The xx	Angels	GBBKS1200085	64	downtempo,dream pop,indietronica	0.95	0.424	0.0593	0.0428	91.537	0.342	0.157
+4Hff1IjRbLGeLgFgxvHflk	Gorillaz	DARE	GBAYE0500178	75	alternative hip hop	0.0229	0.76	0.0869	0.0372	120.264	0.966	0.891
+17LZKLjQxH2w67xMa8mWML	Céline Dion,Jean-Jacques Goldman	J'irai où tu iras (with Jean-Jacques Goldman)	CAC229500010	53	canadian pop,dance pop	0.273	0.604	6.62e-06	0.0906	174.718	0.695	0.963
+3lwX10MDUwGfSzuwIfQAln	Philippe Lafontaine	Cœur de loup	BEX258800001	53	chanson,classic french pop	0.442	0.796	0.0	0.172	94.584	0.917	0.468
+4lJKn6cDD3vpZrcg6oVTr1	Véronique Sanson	Chanson sur ma drôle de vie - Remasterisé en 2008	FRZ041900482	59	chanson,french pop,nouvelle chanson francaise	0.694	0.648	0.0	0.031	97.906	0.636	0.582
+7xx7mUGAPcMd6gGqHzoec9	Charles Aznavour	For Me Formidable	FRZ116300630	59	chanson	0.743	0.5	0.0	0.0335	139.972	0.539	0.391
+6PmaNSJzn3WOeqzAS0TTQt	Claude François	Magnolias for Ever	FRZ167701850	38	chanson,francoton,french pop,ye ye	0.182	0.646	0.0	0.215	136.864	0.797	0.962
+35jK3rPCyBf1bUCJTEYyau	Claude François	Alexandrie Alexandra	FRZ167701830	41	chanson,francoton,french pop,ye ye	0.108	0.588	1.27e-06	0.156	126.086	0.938	0.938
+1Vf09Cxf2jqSkU6sfueYAq	Diam's	La boulette (Génération nan nan)	FRZ110500432	62	francoton,french hip hop,french pop	0.281	0.943	1.2e-06	0.304	98.996	0.659	0.584
+7JGmpugbdiVWskY1S3EmTY	Zebda	Tomber la chemise	FRZ019800920	54	french folk pop,french reggae,french rock	0.228	0.914	5.02e-06	0.0368	133.01	0.968	0.78
+2QSAj76Ba6aMFX9RlXdUdO	Indochine	J'ai demandé à la lune	FRZ080104420	61	chanson,francoton,french pop,french rock,french synthpop	0.233	0.712	0.224	0.0237	109.999	0.619	0.632
+2WBBVmbjY0BneqS0mrtb07	Johnny Hallyday	Viens danser le twist	FRZ036100880	15	chanson,french pop,ye ye	0.624	0.521	0.0	0.283	168.009	0.81	0.856
+61Yh6AEwsba6RYsrWiNmI0	Charles Aznavour	Emmenez-moi	FRZ116700340	63	chanson	0.74	0.365	0.0	0.0346	106.111	0.593	0.55
+60udb73Xe8KJ7IzBhn3ptV	Philippe Katerine	Louxor j'adore	FRZ010402790	47	chanson,french indie pop,french indietronica,french rock,nouvelle chanson francaise	0.00113	0.649	0.000272	0.0441	135.699	0.956	0.704
+1mR2KQy1rN55wbCr0rfAqN	Claude Nougaro	Armstrong	FRZ036500440	46	chanson,french jazz,french pop	0.678	0.487	0.0	0.0379	97.837	0.332	0.303
+2NJdk5QfMRPoyuck0vCQJk	Johnny Hallyday	L'envie	FRZ808680010	20	chanson,french pop,ye ye	0.0665	0.407	0.0	0.0617	80.745	0.613	0.677
+60VNmTr9ox1PaCIOCprfIa	Johnny Hallyday	Allumer le feu	FRZ039702160	51	chanson,french pop,ye ye	0.00897	0.542	2.1e-05	0.103	139.858	0.393	0.969
+3f7OyfSoDbQC0LRDQiytPp	Foals	Mountain at My Gates	GBAHT1500380	66	indie rock,modern rock,oxford indie,rock	0.0025	0.495	0.0819	0.0469	104.05	0.617	0.931
+1nXasqw1Y79vUwGFtrwD6p	The National	Sea of Love	GBAFL1300059	46	indie rock,modern rock	0.139	0.459	0.902	0.036	146.009	0.526	0.824
+1v5ulCH00flRvmKKZsx3qP	dEUS	Sister Dew	GBAAN9900016	31	belgian indie,belgian indie rock,belgian rock	0.00966	0.435	0.00011	0.0292	110.67	0.44	0.656
+2FkD2soiPgO7MGo4wjTk12	Father John Misty	Disappointing Diamonds Are the Rarest of Them All	USSUB1824507	29	chamber pop,indie rock	0.016	0.38	0.0018	0.0336	148.08	0.611	0.841
+6SIooImkHGKCIwgUZ3WDvD	Lucy Dacus	Hot & Heavy	USMTD2100002	58	art pop,indie pop	0.0941	0.551	1.15e-06	0.055	135.023	0.421	0.78
+5GKVcvTgnFYtfh25qKQtRg	The Strokes	One Way Trigger	USRC11300077	59	alternative rock,garage rock,modern rock,permanent wave,rock	0.000182	0.516	0.464	0.036	95.996	0.964	0.942
+6qZjm61s6u8Ead9sWxCDro	Tame Impala	Elephant	AUUM71200495	71	australian psych,neo-psychedelic	0.562	0.598	0.157	0.0397	123.075	0.533	0.553
+1qEmFfgcLObUfQm0j1W2CK	Harry Styles	Late Night Talking	USSM12200610	94	pop	0.298	0.714	0.0	0.0468	114.996	0.901	0.728
+5LYMamLv12UPbemOaTPyeV	Harry Styles	Music For a Sushi Restaurant	USSM12200609	90	pop	0.258	0.72	0.0568	0.04	107.041	0.357	0.715
+0rzaRSujxA0bKyjJl6vHYq	Harry Styles	Satellite	USSM12200619	87	pop	0.143	0.576	3.05e-05	0.0304	138.984	0.301	0.457
+33SNO8AaciGbNaQFkxvPrW	Harry Styles	Kiwi	USSM11703958	79	pop	0.00064	0.375	0.0	0.0561	147.124	0.491	0.93
+4Dvkj6JhhA12EX05fT7y2e	Harry Styles	As It Was	USSM12200612	94	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+3jjujdWJ72nww5eGnfs2E7	Harry Styles	Adore You	USSM11912588	86	pop	0.0237	0.676	7e-06	0.0483	99.048	0.569	0.771
+6MnuXW54CEMG1qjlx4T3nv	Ape Drums,Denzel Curry,Frizzo	Shellz (feat. Denzel Curry & Frizzo)	NLZ541800687	37		0.0194	0.677	0.425	0.147	150.045	0.861	0.848
+756CJtQRFSxEx9jV4P9hpA	The Darkness	I Believe in a Thing Called Love	GBAHS0300635	70	glam metal,hard rock,rock	0.0538	0.442	4.71e-06	0.0764	128.235	0.622	0.846
+0xTGfdrWzJLKRD4U6hxSsg	Zedd,Bahari	Addicted To A Memory	USUM71505089	49	complextro,dance pop,edm,electro house,electropop,german techno,pop,pop dance,pop rap,tropical house,uk pop	0.000983	0.66	0.0242	0.0442	128.008	0.0659	0.762
+1gUqIRzp8dJEhxIKc6Ogxj	Apashe	Lord & Master	CA5KR2017132	55	bass trap	0.0587	0.614	0.827	0.247	150.052	0.296	0.829
+5gd8v3xgqXnTmj6nLrjYPF	Scooter	Nessaja - Breeze Mix [Remastered]	DEN061301408	17	eurodance,europop,german techno,hamburg electronic,happy hardcore	4.79e-05	0.399	0.677	0.0555	169.996	0.229	0.976
+10IWiPjcInaLTvKKrrhXxc	Regard,Dimitri Vegas & Like Mike,Quintino	Ride It - Dimitri Vegas & Like Mike vs Quintino Remix	GBCEN2000040	43	dance pop,edm,electro house,pop,pop dance,pop edm,slap house,tropical house	0.000625	0.615	0.194	0.0615	128.038	0.133	0.965

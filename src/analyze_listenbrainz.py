@@ -67,10 +67,10 @@ def search_EM_genres(df):
     return genres_EM, genres_all
 
 
-def write_stats(df, outfile):
+def write_stats(df, outfile, write_stats):
     """
     """
-    file = open(outfile, 'w+')
+    file = open(outfile, 'a+')
     if df.empty:
         file.close()
     else:
@@ -99,6 +99,7 @@ def write_stats(df, outfile):
         isrc_year_list = [x[5:7] for x in
                           df.ISRC.values if pd.isnull(x) is False]
 
+        file.write("\n\n************ {} ************ \n".format(write_stats))
         file.write("Electronic artists found: {}\n".format(
             ", ".join(set(artist_found))))
         file.write("Electronic genres found: {}\n".format(
@@ -225,6 +226,10 @@ def analyze_logs(username, out_dir):
         D_mean, D_std, I_mean, I_std, T_mean, T_std) = [[] for i in range(15)]
 
     start = datetime.now()
+    start_str = start.strftime("%Y-%m-%d")
+    outfile = "{}-{}.txt".format(username, start_str)
+    outfile = os.path.join(STATS_DIR, outfile)
+
     while start > end:
         start_str = start.strftime("%Y-%m-%d")
         sp_id = df_info[
@@ -232,8 +237,6 @@ def analyze_logs(username, out_dir):
         df_sp_id = pd.DataFrame({'sp_track_id': sp_id.values})
         df_merged = df_sp_id.merge(df_feat, on="sp_track_id", how="left")
 
-        outfile = "{}-{}.txt".format(username, start_str)
-        outfile = os.path.join(STATS_DIR, outfile)
 
         start_str = start_str[5:]
         if df_merged.empty:
@@ -253,7 +256,7 @@ def analyze_logs(username, out_dir):
             print("{}: No listening logs found!".format(start_str))
         else:
             track_found, genres_found, artist_found = write_stats(
-                                                        df_merged, outfile)
+                                                        df_merged, outfile, start_str)
             Day.append(start_str)
             N.append(len(df_merged.index))
             EM.append(len(track_found))
@@ -291,7 +294,7 @@ def analyze_logs(username, out_dir):
     temporal_feat = (Day, N, EM, P_mean, P_std, A_mean, A_std,
                      D_mean, D_std, I_mean, I_std, T_mean, T_std)
 
-    #analyze_user_temporal(username, temporal_feat)
+    # analyze_user_temporal(username, temporal_feat)
     print("Unique Electronic Music Artists: {}".format(len(set(A_EM))))
     print("Unique Electronic Music Genres: {}".format(len(set(G_EM))))
 

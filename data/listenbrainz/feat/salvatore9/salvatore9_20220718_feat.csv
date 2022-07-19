@@ -1,0 +1,15 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+5rb9QrpfcKFHM1EUbSIurX	Usher,Lil Jon,Ludacris	Yeah! (feat. Lil Jon & Ludacris)	USAR10301423	83	atl hip hop,contemporary r&b,dance pop,pop,r&b,south carolina hip hop,urban contemporary	0.0183	0.894	0.0	0.112	105.018	0.583	0.791
+1v7L65Lzy0j0vdpRjJewt1	Eminem	"Lose Yourself - From ""8 Mile"" Soundtrack"	USIR10211559	78	detroit hip hop,hip hop,rap	0.00921	0.686	0.00066	0.264	171.355	0.0596	0.735
+1dzQoRqT5ucxXVaAhTcT0J	Lady Gaga,Colby O'Donis	Just Dance	USUM70807646	78	art pop,dance pop,pop	0.0264	0.822	4.26e-05	0.0311	118.992	0.745	0.739
+49FYlytm3dAAraYgpoJZux	Rihanna,JAY-Z	Umbrella	USUM70736771	82	barbadian pop,dance pop,pop,urban contemporary	0.00864	0.583	0.0	0.134	174.028	0.575	0.829
+4Oih3RDrSFg3afaOphBVuy	Sting,Ray Chen	What Could Have Been feat. Ray Chen (from the series Arcane League of Legends)	QZH6S1900378	67	permanent wave,soft rock,sophisti-pop	0.578	0.428	0.000968	0.0387	110.218	0.159	0.288
+697bFWgzBRm6bmnYWd8GyD	Cornelia Jakobs	Hold Me Closer	SE5YN2200301	73	swedish pop	0.107	0.489	0.0	0.0382	96.819	0.168	0.616
+43UejonUIN69O8NNAFRu5X	Alvan,Ahez	Fulenn	FR9W12204047	61	eurovision,new french touch	0.0127	0.742	3.41e-06	0.116	120.036	0.48	0.837
+3PpgbB4N9rMu4c2FKYyANb	LIBERATO	NUN CE PENZÀ	FR0ML2200100	60	italian hip hop,italian indie pop,r&b italiano,rap napoletano	0.0777	0.663	0.0	0.085	114.99	0.646	0.707
+1JaOUMmaSZlWfONvT4HTlg	Konstrakta	In corpore sano	RSA042200033	64		0.00641	0.922	1.47e-05	0.0841	135.944	0.629	0.705
+0F6Ad8l9EDbcjrsZ4TIqkc	Jovanotti	Penso Positivo	IT7009302410	49	italian adult pop,italian pop	0.0375	0.791	0.0	0.0695	134.097	0.783	0.919
+0SiywuOBRcynK0uKGWdCnn	Lady Gaga	Bad Romance	USUM70918596	82	art pop,dance pop,pop	0.00314	0.696	5.24e-05	0.0363	119.001	0.714	0.921
+1QV6tiMFM6fSOKOGLMHYYg	Lady Gaga	Poker Face	USUM70824409	78	art pop,dance pop,pop	0.118	0.851	1.64e-06	0.0787	118.999	0.787	0.806
+0ByMNEPAPpOR5H69DVrTNy	Rihanna	Don't Stop The Music	USUM70734700	80	barbadian pop,dance pop,pop,urban contemporary	0.0336	0.835	6.92e-05	0.0643	122.668	0.542	0.669
+0COqiPhxzoWICwFCS4eZcp	Evanescence	Bring Me To Life	USWU30200093	81	alternative metal	0.00721	0.331	2.06e-06	0.0698	94.612	0.296	0.943

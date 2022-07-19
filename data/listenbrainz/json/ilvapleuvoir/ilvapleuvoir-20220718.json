@@ -1,0 +1,128 @@
+[
+    {
+        "listened_at": "2022-07-16T20:31:54",
+        "track_name": "Mango",
+        "artist_name": "SUPER JUNIOR",
+        "release_name": "The Road : Keep on Going - The 11th Album Vol.1",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt",
+        "listening_from": "spotify",
+        "isrc": "KRA302200123",
+        "additional_info": {
+            "artist_msid": "9d7ab5e8-62cd-4948-abc2-d926766a62fd",
+            "artist_names": [
+                "SUPER JUNIOR"
+            ],
+            "discnumber": 1,
+            "duration_ms": 199213,
+            "isrc": "KRA302200123",
+            "listening_from": "spotify",
+            "recording_msid": "d7c56e24-3c37-49b4-ac71-94276f865f1a",
+            "release_artist_name": "SUPER JUNIOR",
+            "release_artist_names": [
+                "SUPER JUNIOR"
+            ],
+            "release_msid": "f1f2dac9-13d4-49ca-9884-7f862c7d69b2",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt",
+            "tracknumber": 1
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-13T18:58:32",
+        "track_name": "HOLIDAY",
+        "artist_name": "WINNER",
+        "release_name": "HOLIDAY",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 3,
+        "spotify_id": "https://open.spotify.com/track/4tUkszgggTqQ4s2sutt7QW",
+        "listening_from": "spotify",
+        "isrc": "KRA402200006",
+        "additional_info": {
+            "artist_msid": "98e341e4-7ecd-4532-8c84-290d091a7595",
+            "artist_names": [
+                "WINNER"
+            ],
+            "discnumber": 1,
+            "duration_ms": 192875,
+            "isrc": "KRA402200006",
+            "listening_from": "spotify",
+            "recording_msid": "164a9c3e-f625-46fb-9717-d47268b39bb3",
+            "release_artist_name": "WINNER",
+            "release_artist_names": [
+                "WINNER"
+            ],
+            "release_msid": "3097caf6-a484-4697-aa9a-e559a5463c78",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4tUkszgggTqQ4s2sutt7QW",
+            "tracknumber": 3
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-10T13:41:47",
+        "track_name": "French Girl in Tokyo",
+        "artist_name": "Gareth.T",
+        "release_name": "18",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 2,
+        "spotify_id": "https://open.spotify.com/track/1bdm9kOfuSbVlAdH5rFirl",
+        "listening_from": "spotify",
+        "isrc": "QZES51828237",
+        "additional_info": {
+            "artist_msid": "d55ddb4e-6846-4a8f-8bd3-82aa48f07579",
+            "artist_names": [
+                "Gareth.T"
+            ],
+            "discnumber": 1,
+            "duration_ms": 203199,
+            "isrc": "QZES51828237",
+            "listening_from": "spotify",
+            "recording_msid": "47abf5a2-a140-4d46-9508-c4fb47026264",
+            "release_artist_name": "Gareth.T",
+            "release_artist_names": [
+                "Gareth.T"
+            ],
+            "release_msid": "217bdd7d-06bf-48af-9e64-ffa234e0f425",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/73KBqN0vVtRIRTznIzP38y",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1bdm9kOfuSbVlAdH5rFirl",
+            "tracknumber": 2
+        },
+        "username": null
+    }
+]
