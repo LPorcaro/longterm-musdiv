@@ -1,0 +1,128 @@
+[
+    {
+        "listened_at": "2022-07-24T04:29:38",
+        "track_name": "Rocket 69",
+        "artist_name": "Connie Allen",
+        "release_name": "BD Music Presents Ladies in Love: Class\u00e9es X",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 14,
+        "spotify_id": "https://open.spotify.com/track/6kZejCWsmpDNH7yjn5WhVN",
+        "listening_from": "spotify",
+        "isrc": "FR8X00500726",
+        "additional_info": {
+            "artist_msid": "cc906db2-a8e2-45e6-8554-5b5e83239fdf",
+            "artist_names": [
+                "Connie Allen"
+            ],
+            "discnumber": 2,
+            "duration_ms": 164226,
+            "isrc": "FR8X00500726",
+            "listening_from": "spotify",
+            "recording_msid": "c6c920ae-914a-46c8-8d1c-1bd6126743c6",
+            "release_artist_name": "Various Artists",
+            "release_artist_names": [
+                "Various Artists"
+            ],
+            "release_msid": "fb9fdc15-c391-4e05-bf88-3156e2c54c23",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/5Tdo1cbse3emtY6KRmvkgY",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/7CwtxcRBPq5Xt7BNoDOfVe"
+            ],
+            "spotify_id": "https://open.spotify.com/track/6kZejCWsmpDNH7yjn5WhVN",
+            "tracknumber": 14
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-24T04:29:22",
+        "track_name": "Johnny B. Goode",
+        "artist_name": "Chuck Berry",
+        "release_name": "Berry Is On Top",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 6,
+        "spotify_id": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2",
+        "listening_from": "spotify",
+        "isrc": "USMC15719963",
+        "additional_info": {
+            "artist_msid": "740cb725-f1d7-402d-bdf0-51313988eba4",
+            "artist_names": [
+                "Chuck Berry"
+            ],
+            "discnumber": 1,
+            "duration_ms": 161560,
+            "isrc": "USMC15719963",
+            "listening_from": "spotify",
+            "recording_msid": "23ee2ba3-68b0-45f6-a867-4bbe5b0d0cd3",
+            "release_artist_name": "Chuck Berry",
+            "release_artist_names": [
+                "Chuck Berry"
+            ],
+            "release_msid": "55f63b74-4af0-478e-bd34-6e684ca894ee",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+            ],
+            "spotify_id": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2",
+            "tracknumber": 6
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-18T17:44:38",
+        "track_name": "Me and Bobby McGee",
+        "artist_name": "Kris Kristofferson",
+        "release_name": "The Essential Kris Kristofferson",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/5GDiNqMe76rDS5ZgPaI03R",
+        "listening_from": "spotify",
+        "isrc": "USSM10303239",
+        "additional_info": {
+            "artist_msid": "7fd7a6a3-19d0-426e-99fd-e3e66badb066",
+            "artist_names": [
+                "Kris Kristofferson"
+            ],
+            "discnumber": 1,
+            "duration_ms": 260133,
+            "isrc": "USSM10303239",
+            "listening_from": "spotify",
+            "recording_msid": "24e0fcb1-0da2-4a86-8f35-1eef971158a0",
+            "release_artist_name": "Kris Kristofferson",
+            "release_artist_names": [
+                "Kris Kristofferson"
+            ],
+            "release_msid": "f8257a8e-d731-4f70-a7c4-a6d35037bfaf",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+            ],
+            "spotify_id": "https://open.spotify.com/track/5GDiNqMe76rDS5ZgPaI03R",
+            "tracknumber": 4
+        },
+        "username": null
+    }
+]

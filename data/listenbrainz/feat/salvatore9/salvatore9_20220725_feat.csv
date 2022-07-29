@@ -1,0 +1,30 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+7qEHsqek33rTcFNT9PFqLf	Lewis Capaldi	Someone You Loved	DEUM71807062	86	pop,uk pop	0.751	0.501	0.0	0.0319	109.891	0.446	0.405
+7795WJLVKJoAyVoOtCWqXN	Sam Smith	I'm Not The Only One	GBUM71308836	82	dance pop,pop,uk pop	0.529	0.677	2.04e-05	0.0361	82.001	0.493	0.485
+4DyYFJt4ihkt5cRU5TC3Hx	Sam Smith	To Die For - Acoustic	GBUM72000585	51	dance pop,pop,uk pop	0.967	0.586	0.000111	0.0388	85.057	0.313	0.255
+5f2zZawBtGBEw24ABweErz	Bea Miller,Arcane,League of Legends	Playground (from the series Arcane League of Legends)	QZH6S1900384	69	alt z,dance pop,electropop,indie poptimism,modern rock,pop,post-teen pop,talent show,viral rap	0.0107	0.514	7.62e-05	0.0298	157.399	0.356	0.703
+3ZFTkvIE7kyPt6Nu3PEa7V	Shakira,Wyclef Jean	Hips Don't Lie (feat. Wyclef Jean)	USSM10600677	84	colombian pop,dance pop,latin,latin pop,pop	0.284	0.778	0.0	0.0707	100.024	0.758	0.824
+7M13FwBAKWNa2jqcZeUhL6	Bob Sinclar,Gary Pine	Love Generation - Radio Edit	FR4E41811680	69	dance pop,disco house,edm,electro house,filter house,tropical house,vocal house	0.192	0.723	0.000154	0.0586	128.038	0.544	0.872
+3PpgbB4N9rMu4c2FKYyANb	LIBERATO	NUN CE PENZÀ	FR0ML2200100	59	italian hip hop,italian indie pop,r&b italiano,rap napoletano	0.0777	0.663	0.0	0.085	114.99	0.646	0.707
+5TWL2K9Q9QuUTW15I6ZLpP	Holly Valance	Kiss Kiss	GBAAP0200049	56	australian pop,bubblegum dance,dance pop,electropop,europop	0.00369	0.705	0.461	0.125	97.036	0.554	0.717
+2QYtXNABoSIyVXV2kaITS3	Rihanna,JAY-Z,Jody Den Broeder	Umbrella - Jody den Broeder Lush Radio Edit	USUM70735013	47	barbadian pop,dance pop,pop,urban contemporary	0.00195	0.655	0.0	0.0474	126.019	0.777	0.847
+4rr0gWiMrF4sOIefs3IEvZ	Elvis Presley,Junkie XL	A Little Less Conversation - JXL Radio Edit Remix	USRC10200288	67	rock-and-roll,rockabilly	0.000385	0.597	0.205	0.0502	114.999	0.717	0.97
+3z8m4rIAp6oZCbYyotj8iG	Fast Animals and Slow Kids	Non potrei mai	ITQ001900044	46	italian indie pop	0.000168	0.55	0.0	0.0583	80.027	0.485	0.923
+2bLqfJjuC5syrsgDsZfGmn	Timbaland,Keri Hilson,D.O.E.	The Way I Are	USUM70722806	81	dance pop,hip hop,hip pop,pop,pop rap,urban contemporary	0.181	0.731	0.751	0.1	114.759	0.765	0.807
+5rb9QrpfcKFHM1EUbSIurX	Usher,Lil Jon,Ludacris	Yeah! (feat. Lil Jon & Ludacris)	USAR10301423	82	atl hip hop,contemporary r&b,dance pop,pop,r&b,south carolina hip hop,urban contemporary	0.0183	0.894	0.0	0.112	105.018	0.583	0.791
+5qTvkDrSfvwDv6RBjjcfQr	Sean Paul	Get Busy	USAT20202575	75	dance pop,dancehall,pop,pop rap	0.615	0.735	0.0	0.036	100.202	0.726	0.824
+1hRFVIy9As8OVRk8B7CrD5	David Guetta	When Love Takes Over (feat. Kelly Rowland)	FRZID0900200	71	big room,dance pop,edm,pop,pop dance,pop rap	0.0165	0.675	0.000427	0.0253	129.967	0.498	0.862
+5aEqcblO0Z6JloFJXtxyhe	Cascada	Everytime We Touch	DEZ620500053	63	bubblegum dance,dance pop,eurodance,europop,german techno,melbourne bounce international,pop rap	0.00281	0.633	1.29e-05	0.0519	142.027	0.493	0.976
+0iGckQFyv6svOfAbAY9aWJ	Katy Perry	Hot N Cold	USCA20802544	74	dance pop,pop,post-teen pop	7.95e-05	0.706	0.0	0.0418	132.032	0.861	0.841
+1dzQoRqT5ucxXVaAhTcT0J	Lady Gaga,Colby O'Donis	Just Dance	USUM70807646	78	art pop,dance pop,pop	0.0264	0.822	4.26e-05	0.0311	118.992	0.745	0.739
+4TsmezEQVSZNNPv5RJ65Ov	Rihanna	Pon de Replay	USIR20500331	77	barbadian pop,dance pop,pop,urban contemporary	0.000155	0.779	0.00077	0.159	99.019	0.498	0.64
+6I9VzXrHxO9rA9A5euc8Ak	Britney Spears	Toxic	USJI10301005	82	dance pop,pop,post-teen pop	0.0249	0.774	0.025	0.114	143.04	0.924	0.838
+7slAKPvgzuKgaTTQgrxWUd	League of Legends,Nicki Taylor	Vi, the Piltover Enforcer (Here Comes Vi) (From League of Legends: Season 2)	QZH6S1900037	48	speedrun,video game music	0.000855	0.519	4.67e-05	0.0429	149.985	0.665	0.684
+1v7L65Lzy0j0vdpRjJewt1	Eminem	"Lose Yourself - From ""8 Mile"" Soundtrack"	USIR10211559	78	detroit hip hop,hip hop,rap	0.00921	0.686	0.00066	0.264	171.355	0.0596	0.735
+60NC3OqjiISKBYbscb8vW3	LIBERATO	PARTENOPE	FR0ML2200090	68	italian hip hop,italian indie pop,r&b italiano,rap napoletano	0.0652	0.692	0.0	0.072	133.051	0.747	0.552
+1QV6tiMFM6fSOKOGLMHYYg	Lady Gaga	Poker Face	USUM70824409	78	art pop,dance pop,pop	0.118	0.851	1.64e-06	0.0787	118.999	0.787	0.806
+0SiywuOBRcynK0uKGWdCnn	Lady Gaga	Bad Romance	USUM70918596	82	art pop,dance pop,pop	0.00314	0.696	5.24e-05	0.0363	119.001	0.714	0.921
+3nhGk6VnrDHy67pXvMhdPa	Sam Ryder	SPACE MAN	GBAYE2101762	76		0.181	0.467	0.0	0.0489	79.978	0.334	0.828
+6O5TrlFWTYvznd9fMC0VvU	Adele	When We Were Young	GBBKS1500217	78	british soul,pop,pop soul,uk pop	0.303	0.376	0.0	0.0496	144.361	0.265	0.595
+2AkmdLbVKS1steeZdy8H1l	Queen	I Want To Break Free - Single Remix	GBUM71029625	74	classic rock,glam rock,rock	0.0841	0.795	0.00026	0.0324	108.95	0.596	0.435
+6cTWJgNkmhATsI6RJgTPH4	Cornelia Jakobs	Hold Me Closer - Eurovision Version	SE5YN2200303	62	swedish pop	0.0995	0.503	0.0	0.0372	96.967	0.185	0.608

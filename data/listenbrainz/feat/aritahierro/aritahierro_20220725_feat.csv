@@ -1,0 +1,57 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+3ovjFvvRmdIV4eFnea98zA	Mão Morta	Novelos Da Paixão	PTUM71000119	37	portuguese rock	0.00147	0.618	0.0803	0.0283	125.986	0.535	0.878
+2PEWkniB8Kcj8DFN9ZBHVd	Jupiter	Fora D'horas	QZHZ62294364	3		0.124	0.776	1.94e-06	0.0282	112.971	0.839	0.782
+1CqwcDOfpPbnF1tDmwfbct	Jupiter	Fio da Navalha	QZHZ62294366	1		0.298	0.789	0.0	0.0517	124.001	0.755	0.771
+3tSK1dNo4XR7Q8ZrJ2jHLR	Jupiter	Grande Biscate	QZHZ62294365	2		0.581	0.64	0.0	0.139	84.981	0.544	0.549
+1DBo0iF3AShaxK3LCHMUGi	Jupiter,André NO	Mais Que Fazer	QZHZ62294363	2		0.214	0.798	1.32e-05	0.0362	119.94	0.883	0.8
+3od7BHgIcs8lH6uzYNG2ip	Jupiter	Andor Violeta	QZHZ62294362	3		0.298	0.71	1.94e-06	0.0474	135.894	0.961	0.813
+7i9qRZNQRtlm8eaxaHKLAO	Brutus	War	GBJSG1830006	42	belgian indie rock,belgian metal,gaian doom	0.00308	0.198	0.409	0.0445	152.612	0.175	0.716
+3fQm5lL6UCCbWaWfffLIsv	The Brian Jonestown Massacre	Anenome	GBSLX0810153	52	alternative rock,bay area indie,chamber psych,indie rock,neo-psychedelic,shoegaze	0.0254	0.486	0.809	0.0356	83.076	0.56	0.758
+118kolZnbJBQvbOl0D4C71	I Monster	Daydream In Blue	GBDKA0300190	60	downtempo,electronica,trip hop	0.0151	0.546	0.00109	0.0266	153.721	0.385	0.508
+2zS8FkQaSNHAIpqePh95JB	Bush	The Chemicals Between Us - Remastered	QM7YK1400055	50	alternative metal,alternative rock,grunge,modern rock,nu metal,pop rock,post-grunge,rock	0.00268	0.51	0.0697	0.149	97.642	0.389	0.957
+5PklZKzuqiUrSxgQOs40t6	Space	Magic Fly	GBPUP0915204	45	vintage french electronic	0.064	0.632	0.0744	0.0296	126.496	0.748	0.624
+7kF1iPJTj3VFJX9XokQ80F	Velvet Revolver	Slither	USRC10400063	66	alternative metal,alternative rock,grunge,hard rock,nu metal,post-grunge,rock,supergroup	0.000266	0.478	0.0984	0.102	141.077	0.268	0.974
+10I09MLZCY4pK37XxAfkw0	Spandau Ballet	True - 2003 Remaster	GBAYK0200008	63	mellow gold,new romantic,new wave,new wave pop,soft rock,sophisti-pop,synthpop	0.359	0.777	0.11	0.0277	97.623	0.335	0.521
+1wlKw9NAWVWpx7OIAyg9EA	Soundgarden	Fell On Black Days	USAM19400003	67	alternative metal,alternative rock,grunge,hard rock,nu metal,rock	0.00152	0.574	0.000328	0.0271	101.069	0.514	0.739
+0Y0JVqSlj8J512B5kjKekP	Moonchild	Back to Me	uscgj1295200	45	alternative r&b,indie jazz,indie r&b,indie soul,neo r&b	0.571	0.88	0.0437	0.471	94.112	0.812	0.22
+6ynVlyRWexxwW9g4t7KO8J	Thievery Corporation,Mr. Lif	Ghetto Matrix	USESL1222204	35	downtempo,electronica,livetronica,nu jazz,trip hop	0.364	0.592	0.0144	0.191	171.944	0.222	0.769
+3kpgp6eGNOkqrmMrrD5UGp	Black Sabbath	Heart Like a Wheel - 2009 Remaster	GBUM70900409	23	album rock,birmingham metal,classic rock,hard rock,metal,rock,stoner rock,uk doom metal	0.00891	0.457	0.062	0.0441	98.002	0.426	0.734
+3M77NUZhfsaRonYTITYwRO	M-Beat,General Levy	Incredible	GBVVQ1501375	36	drum and bass,hardcore techno,jungle,ragga jungle,uk garage	0.346	0.836	2.48e-06	0.147	164.99	0.896	0.918
+01Q2cFQT8zvty6XvYQOpoG	Mungo's Hi Fi,Soom T	Jump Up Quickly	GBXWN1300165	50	dub punk,uk reggae	0.0276	0.777	1.56e-05	0.151	141.055	0.437	0.537
+3bs23FOdZ6kIRiNjpmGIF0	Guano Apes	Quietly	DEC760200346	41	alternative metal,funk metal,funk rock,german alternative rock,german rock,nu metal	0.000746	0.518	9.72e-05	0.0372	118.233	0.279	0.827
+0SLtqCrXBRrnkxSOMA3X4W	Robbie Williams	Let Me Entertain You	GBAYE9701083	67	dance pop,dance rock,europop	0.000169	0.478	0.00251	0.0642	125.152	0.347	0.965
+2aEuA8PSqLa17Y4hKPj5rr	Modern Talking	Cheri Cheri Lady	DEC738500001	70	eurodance,europop,german pop,synthpop	0.458	0.677	0.0132	0.032	114.223	0.851	0.616
+2uOWjsHDcsfuSwY2sPODhm	Armand Van Helden,DJ Sneak	Psychic Bounty Killaz (feat. DJ Sneak)	GBANR9900034	16	deep house,disco house,house,pop dance,speed garage,vocal house	0.0662	0.732	0.495	0.074	133.017	0.931	0.822
+34RISamoO5iubsOanSlpQo	Deep Purple	Mistreated - Remastered 2004	GBDXG0400007	45	album rock,blues rock,classic rock,hard rock,metal,psychedelic rock,rock	0.0566	0.342	0.0212	0.039	126.558	0.547	0.622
+0pqIlNC6QUzFUbzOhgxlbZ	Santigold	Say Aha	GBPPE0700027	36	alternative dance,art pop,electropop,new rave	0.00174	0.472	0.125	0.15	183.918	0.583	0.958
+5NbdN6rPwkntsk9rdHO4vl	Moonchild	The List	GBEUE1700027	53	alternative r&b,indie jazz,indie r&b,indie soul,neo r&b	0.866	0.442	0.0366	0.277	82.824	0.343	0.345
+6jwaOZS3PhZk4SNxII4Uof	Deathhammer	Warriors of Evil	usdy41594303	25	black speed metal,black thrash,new wave of thrash metal,nwothm	7.8e-06	0.0722	0.335	0.174	199.539	0.347	0.981
+1kZpYFQHUKv4xHELaaUSqP	Sharon Van Etten,Angel Olsen	Like I Used To	US38Y2141001	56	art pop,chamber pop,dream pop,indie folk,indie pop,indie rock,melancholia,new jersey indie,stomp and holler	0.119	0.532	0.000577	0.0365	110.949	0.517	0.719
+3W2ZcrRsInZbjWylOi6KhZ	Disclosure,Eliza Doolittle,Flume	You & Me - Flume Remix	GBUM71303827	73	edm,house,pop,uk dance	0.382	0.593	0.000114	0.0257	75.065	0.25	0.392
+5Jn0Kw1DtNLFWB8z1vrIwP	Dream Widow	March of the Insane	USRW32200004	42		0.000103	0.162	0.688	0.219	162.678	0.0699	0.998
+20j7B6mL9gnNvG3ic6Vwh5	The Hives	Hate To Say I Told You So	SEVHC0007060	69	alternative rock,garage rock,garage rock revival,modern rock,new rave,rock,swedish garage rock,swedish hard rock,swedish indie rock	0.00126	0.459	0.00881	0.0612	135.826	0.419	0.931
+70WSr32oW4jC1na5I0j0D6	The Brian Jonestown Massacre	Anemone	GBSLX0810071	61	alternative rock,bay area indie,chamber psych,indie rock,neo-psychedelic,shoegaze	0.0599	0.527	0.843	0.0347	83.101	0.607	0.636
+3v6r9OEOEyzecbwmvSNCmK	Franz Ferdinand	Curious	GBCEL2100535	47	alternative rock,dance rock,indie rock,modern rock,rock,scottish rock	0.00018	0.604	4.48e-05	0.0268	103.662	0.884	0.824
+3ubwpGT0gJYI9MRJcZPP0f	Theophilus London,Tame Impala	Whiplash	QZC5P1800051	48	alternative hip hop	0.0192	0.722	3.14e-05	0.0966	102.976	0.414	0.87
+3qaSqrrevBrb84xl5JlptU	Stereophonics	Dakota	GBBLK0500005	70	britpop,modern rock,pop rock,rock,welsh rock	0.129	0.506	0.00682	0.0675	146.994	0.305	0.93
+3NYCaxkggl0Hh8vQptSUvV	Orchestral Manoeuvres In The Dark	Enola Gay - Remastered	GBAAA0300048	70	new romantic,new wave,new wave pop,permanent wave,synthpop	0.00441	0.559	0.0299	0.0348	143.319	0.932	0.764
+0Z9UkcT1pnrmLciUJPcMMS	Spandau Ballet	Gold - 2003 Remaster	GBAYK0200004	64	mellow gold,new romantic,new wave,new wave pop,soft rock,sophisti-pop,synthpop	0.25	0.724	0.0016	0.0337	143.116	0.729	0.802
+6yGkoerw76cJIxD0gOfGKS	Zhrine	The Earth Inhaled	FR33T1638006	12	icelandic black metal,icelandic metal,post-black metal,voidgaze	0.000296	0.184	0.953	0.0783	130.824	0.118	0.846
+71nOBHbyMTXUORcsNwM3I9	Zhrine	The Syringe Dance	FR33T1638003	13	icelandic black metal,icelandic metal,post-black metal,voidgaze	0.00286	0.0794	0.894	0.0667	62.786	0.0545	0.834
+6ENeFlKrpaZuiEitbnAy9D	Zhrine	Spewing Gloom	FR33T1638002	15	icelandic black metal,icelandic metal,post-black metal,voidgaze	0.00117	0.148	0.942	0.0634	94.859	0.0396	0.71
+5AEgvc5xIgR4Fz3hqB9Rfv	The Ominous Circle	Consecrating His Mark	FR4E61700240	1	portuguese black metal,portuguese death metal	0.000128	0.196	0.9	0.0921	102.533	0.0392	0.969
+23N71m76xyfR9eVFT9GZ8W	The Ominous Circle	As the Worm Descends	FR4E61700230	3	portuguese black metal,portuguese death metal	8.52e-05	0.324	0.902	0.117	97.448	0.0352	0.965
+5dz9lOqTueAr4ovrnX5cJf	The Ominous Circle	To En	FR4E61700220	2	portuguese black metal,portuguese death metal	2.06e-05	0.409	0.866	0.121	99.997	0.0324	0.993
+6WBJF6QJRjok6w2fIm4sPi	The Ominous Circle	Ateh Gibor Le Olam Adonai	FR4E61700200	2	portuguese black metal,portuguese death metal	0.0679	0.206	0.601	0.0411	110.384	0.236	0.275
+2euBnm30H3FU9pGhsOt8bK	The Ominous Circle	Poison Fumes	FR4E61700190	5	portuguese black metal,portuguese death metal	6.52e-05	0.455	0.751	0.0709	104.968	0.0683	0.959
+76rQExFVnq7E6mQqjtJ2Hs	The Ominous Circle	From Endless Chasms	FR4E61700180	5	portuguese black metal,portuguese death metal	1.98e-05	0.399	0.846	0.13	107.458	0.0323	0.983
+0eTQazDyvgfoDzulmIzgod	The Ominous Circle	Heart Girt with a Serpent	FR4E61700170	2	portuguese black metal,portuguese death metal	0.0484	0.107	0.451	0.0794	89.172	0.0312	0.995
+58ZLeBDu3LdmKxWOw1eZoO	Tokyo Blade	If Heaven Is Hell	GBBLY1003881	32	metal,neo-trad metal,nwobhm,nwothm	2.71e-05	0.228	0.369	0.0461	79.662	0.51	0.767
+6iZtDWu3FTuxu7AprIqA3Y	Focus	Hocus Pocus - Extended Version	NLC287100111	52	album rock,art rock,dutch prog,flute rock,jazz fusion,nederpop,progressive rock,symphonic rock	0.00596	0.267	0.893	0.102	184.093	0.347	0.722
+3kj5AH7qHdx97RQe9u0hkR	Stone	Get Stoned	FIJKM8800050	23	finnish metal,old school thrash	8.93e-06	0.218	0.000471	0.137	174.145	0.523	0.932
+0IHtuL8HSWR07hm3YpFFLt	Bang	Lions, Christians	USFWR0610001	29	proto-metal,psychedelic blues-rock	0.0411	0.565	0.000648	0.0403	111.436	0.626	0.514
+7He4Taav43HuHhRl4nfd9j	Cheap Trick	Gonna Raise Hell	USSM19917192	38	album rock,art rock,beatlesque,classic rock,glam metal,glam rock,hard rock,heartland rock,mellow gold,new wave pop,pop rock,power pop,rock,soft rock	0.0123	0.56	0.529	0.0296	116.05	0.582	0.49
+3apSWeSMRsnzOAjGoVurPP	Prince	Bambi	USWB19903525	37	funk,funk rock,minneapolis sound,synth funk	0.098	0.667	0.000202	0.0351	97.633	0.634	0.706
+7reiPmW6alZnVnMMa355S2	bdrmm	Momo	GB8FC2000005	48	bedroom pop,chamber psych,garage psych,hull indie,modern alternative rock,nu gaze	0.072	0.529	0.824	0.0283	139.989	0.162	0.757
+1K3BOKLjzLgO2olPlWMnkF	Suicide Silence	Doris	DED831601603	38	deathcore,melodic metalcore,metalcore	0.000273	0.202	0.00499	0.327	174.094	0.103	0.944
+4vJr55lngvhSM8WIh9CjQc	Pantera	Cemetery Gates	USEE10170410	67	alternative metal,groove metal,hard rock,metal,nu metal,old school thrash,rock,texas metal	0.000212	0.274	0.0113	0.0449	146.449	0.426	0.726

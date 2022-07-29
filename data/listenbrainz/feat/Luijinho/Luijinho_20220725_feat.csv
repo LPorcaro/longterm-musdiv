@@ -1,0 +1,66 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+0NLDZzVke3Qu7vDhWyGzRk	TOOL	Right In Two	USVR10600028	60	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.00442	0.44	0.84	0.0293	118.389	0.248	0.568
+5fYzuUxtcaJaRRaxMoM2DT	TOOL	H.	USZE19600083	57	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.0222	0.552	0.601	0.0372	100.266	0.0897	0.471
+46XOHK5QfCC83yg5SOGjZk	TOOL	Bottom	USVR10000012	52	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	5.65e-05	0.372	0.888	0.0348	139.51	0.278	0.697
+4Wvnm0J3Zz9cmMdEMMghGA	TOOL	Undertow	USVR10900085	52	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	8.13e-05	0.36	0.805	0.0538	171.523	0.474	0.797
+1lATXTBJDHwawvT1UfxWu3	TOOL	The Pot	USVR10600023	69	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.000148	0.469	0.372	0.0391	107.45	0.466	0.79
+7mmhMfqs3knRMMlvnMPTHn	Robert Palmer	Simply Irresistible	GB01A8800001	56	album rock,art rock,blues rock,classic rock,dance rock,disco,heartland rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock,yacht rock	0.129	0.645	1.03e-05	0.0532	142.615	0.695	0.933
+4QlzkaRHtU8gAdwqjWmO8n	The Cure	Friday I'm In Love	GBALB9200002	76	new wave,permanent wave,rock,uk post-punk	0.00126	0.526	6.75e-05	0.0341	136.205	0.514	0.763
+6dmueYtoihUhlQZlImBCmm	Stone Temple Pilots	Creep - 2017 Remaster	USAT21701896	61	alternative metal,alternative rock,grunge,hard rock,nu metal,pop rock,post-grunge,rock	0.00483	0.662	0.000295	0.0304	107.767	0.171	0.485
+5z6xHjCZr7a7AIcy8sPBKy	Alien Ant Farm	Smooth Criminal	USDW10022224	76	alternative metal,funk metal,nu metal,post-grunge,rap rock,rock	0.00316	0.653	0.00512	0.0582	126.928	0.87	0.964
+3fjmSxt0PskST13CSdBUFx	Linkin Park	Somewhere I Belong	USWB10300376	72	alternative metal,nu metal,post-grunge,rap metal	0.00038	0.451	2.39e-06	0.0645	162.065	0.442	0.951
+7p9dd71JR2ucoAuO1Sy0VZ	Bryan Adams,Melanie C	When You're Gone	USAM19800328	69	canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock	0.000299	0.546	2.92e-05	0.0341	125.495	0.643	0.931
+4uOKFydzAejjSFqYbv1XPt	UB40	Red Red Wine	GBDDH8300002	75	reggae,reggae fusion,uk reggae	0.00414	0.857	1.32e-05	0.0476	89.119	0.843	0.468
+225xvV8r1yKMHErSWivnow	Aerosmith	"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack"	USSM19801545	74	album rock,classic rock,hard rock,rock	0.165	0.383	0.0	0.0333	121.154	0.138	0.662
+2EPr9Wx7e1cpGEbNAtuN7x	The Beach Boys	Surfin' U.S.A.	USCA21201955	59	baroque pop,brill building pop,classic rock,psychedelic rock,rock,sunshine pop	0.398	0.549	1.29e-06	0.0368	160.753	0.969	0.805
+4nvYDy427VvA1TcEkdgZII	Ozzy Osbourne	Hellraiser	USSM19100020	60	album rock,birmingham metal,hard rock,metal,rock	0.00024	0.397	0.000282	0.0344	96.064	0.506	0.852
+49X0LAl6faAusYq02PRAY6	Modjo	Lady - Hear Me Tonight	FR9W10100535	78	disco house,filter house,vocal house	0.00793	0.72	0.0293	0.0379	126.041	0.869	0.808
+1nnFZioZrw6CRfiUk8KIEE	GNR	Sangue oculto	PTEM19200003	39	portuguese rock	0.0689	0.525	0.000351	0.0417	127.939	0.382	0.781
+0F2LiyHp9E0pAanpfnzHNp	The Smashing Pumpkins	Cherub Rock - Remastered 2011	USVI21100146	59	alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge	5.91e-06	0.371	0.58	0.039	87.254	0.447	0.866
+1k1Bqnv2R0uJXQN4u6LKYt	Bill Withers	Ain't No Sunshine	USSM10000372	78	funk,quiet storm,soul	0.457	0.527	1.72e-05	0.122	78.169	0.515	0.415
+6QewNVIDKdSl8Y3ycuHIei	Pearl Jam	Even Flow	USSM19100673	76	grunge,permanent wave,rock	0.00178	0.394	4.54e-06	0.0761	105.338	0.265	0.944
+0snQkGI5qnAmohLE7jTsTn	System Of A Down	Toxicity	USSM10107262	80	alternative metal,nu metal,rap metal,rock	0.000264	0.413	0.00249	0.0536	116.68	0.48	0.873
+67vYdAAM3oGsEImCRfbtsF	Foo Fighters	Times Like These	USRW30200005	69	alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock	1.4e-05	0.376	1.4e-05	0.0879	144.581	0.266	0.908
+5vHLwhxxlGzmClMcxRRFPr	Nirvana	Lithium	USGF19942505	72	alternative rock,grunge,permanent wave,rock	0.00174	0.678	0.0	0.0381	123.207	0.485	0.656
+4KFM3A5QF2IMcc6nHsu3Wp	Sting	Englishman In New York	USAM18700040	72	permanent wave,soft rock,sophisti-pop	0.396	0.674	1.05e-05	0.0364	102.013	0.647	0.347
+0BCPKOYdS2jbQ8iyB56Zns	Coldplay	Clocks	GBAYE0200771	80	permanent wave,pop	0.599	0.577	0.0115	0.0279	130.97	0.255	0.749
+1oYYd2gnWZYrt89EBXdFiO	The Police	Message In A Bottle	GBAAM0201170	75	album rock,art rock,classic rock,mellow gold,new wave,permanent wave,rock,soft rock	0.0338	0.577	1.33e-05	0.039	151.008	0.869	0.808
+3cbTV3IZZvSBYVcl0xuZbY	Local H	Bound For The Floor	USIR29600091	65	alternative metal,alternative rock,grunge,modern rock,nu metal,pop rock,post-grunge,rock	0.000113	0.654	0.0197	0.0556	119.284	0.584	0.53
+5QLHGv0DfpeXLNFo7SFEy1	The Smashing Pumpkins	1979 - Remastered 2012	USVI21200910	77	alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge	0.0163	0.767	0.583	0.0331	126.879	0.964	0.787
+75zVpdjXwmy6SLr2hDnJYo	Robert Palmer	Bad Case Of Loving You (Doctor, Doctor)	USIR27900020	67	album rock,art rock,blues rock,classic rock,dance rock,disco,heartland rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock,yacht rock	0.00701	0.677	3.99e-05	0.038	146.03	0.746	0.748
+4qO03RMQm88DdpTJcxlglY	Blondie	Call Me	USCH38900008	73	candy pop,new wave,new wave pop,permanent wave,power pop,rock	0.000785	0.56	0.00246	0.0347	142.669	0.74	0.825
+5gRcv46AMTrosmTOqrOV3Q	Nirvana	Dumb	USGF19960706	72	alternative rock,grunge,permanent wave,rock	0.428	0.697	0.653	0.0281	113.589	0.876	0.395
+1JQ6Xm1JrvHfvAqhl5pwaA	Commodores	Easy	USMO17700543	74	adult standards,disco,funk,mellow gold,quiet storm,soft rock,soul	0.112	0.589	2.8e-05	0.0332	132.909	0.354	0.384
+1JLn8RhQzHz3qDqsChcmBl	Foreigner	I Want to Know What Love Is - 1999 Remaster	USAT29900662	79	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.193	0.477	1.76e-06	0.0277	81.204	0.423	0.471
+72Z17vmmeQKAg8bptWvpVG	David Bowie	Space Oddity - 2015 Remaster	USJT11500173	72	album rock,art rock,classic rock,glam rock,permanent wave,rock	0.0726	0.31	9.27e-05	0.0326	134.48	0.466	0.403
+7zkLpY72g6lKQbiHDqri1S	Norah Jones	Sunrise	USBN20300893	71	contemporary vocal jazz,jazz pop,neo mellow	0.941	0.526	0.097	0.031	156.848	0.679	0.299
+46QazXxQS0B31CnbRCy8CV	Scorpions	Rock You Like a Hurricane	DEE861101522	65	album rock,german hard rock,german metal,german rock,hard rock,metal,rock	0.000261	0.587	0.00454	0.0361	124.005	0.705	0.891
+4L2S9GbwEgwfSbHjTCvNQX	Temple Of The Dog	Say Hello 2 Heaven	USAM10000348	60	alternative metal,alternative rock,grunge,hard rock,nu metal,pop rock,rock,supergroup	0.0768	0.306	0.0	0.0316	148.087	0.321	0.647
+1kK6DwzyXJSp58u5HYWwuD	YG,Tyga,Jon Z	Go Loko (feat. Tyga, Jon Z)	USUM71904934	67	cali rap,gangster rap,hip hop,pop rap,rap,southern hip hop,trap	0.325	0.88	4.17e-06	0.0468	101.008	0.131	0.67
+439YfackhKk946RWQc7m4N	Dappy,GRM Daily	Daily Duppy, Pt. 1 (feat. GRM Daily)	ZZOPM2108713	47	grime,uk hip hop,uk melodic rap,uk pop	0.263	0.766	0.0	0.279	140.033	0.806	0.705
+0YAQnYt2oB8OdoaeqnHyTI	Bas,J. Cole	Tribe (with J. Cole)	USUM71810356	69	hip hop,queens hip hop,rap,southern hip hop,sudanese hip hop,sudanese pop,trap,underground hip hop	0.241	0.755	0.0	0.216	178.929	0.237	0.594
+1srm5YnZiu7Ksnd2UTTmmk	A Boogie Wit da Hoodie	Savage	USAT21812923	55	melodic rap,rap,trap	0.188	0.78	0.0	0.149	160.046	0.483	0.402
+7ikRId3U9AXd6tfF2fbItC	Lil Nas X,Nas	Rodeo - feat. Nas	USSM11915303	64	lgbtq+ hip hop,pop	0.0814	0.65	0.000607	0.0369	140.115	0.575	0.637
+77KMttn3Lic7ZQKDlPqp8v	DaBaby	INTRO	USUM71918716	59	north carolina hip hop,rap,trap	0.0342	0.862	0.0	0.242	100.024	0.672	0.685
+3dgQqOiQ9fCKVhNOedd2lf	Drake	Started From the Bottom	USCM51300064	66	canadian hip hop,canadian pop,hip hop,rap,toronto rap	0.0331	0.794	0.0	0.161	86.307	0.56	0.523
+68Dni7IE4VyPkTOH9mRWHr	J. Cole	No Role Modelz	USQX91402598	87	conscious hip hop,hip hop,north carolina hip hop,rap	0.324	0.69	0.0	0.339	100.028	0.494	0.521
+7eqoqGkKwgOaWNNHx90uEZ	Frank Ocean	Nights	QZ5C81600009	79	hip hop,lgbtq+ hip hop,neo soul,pop	0.42	0.466	1.01e-06	0.118	89.815	0.423	0.548
+1ze6yyI0kUWyfsCPOIkd6o	Unknown T	Fresh Home	GBUM72000711	44	uk drill,uk hip hop	0.493	0.554	0.00234	0.415	141.742	0.248	0.701
+0bEa2tI3Pk6M6TWkcD1uRY	Quality Control,Lil Yachty,Young Thug	On Me	USUM71710588	43	hip hop,melodic rap,pop rap,rap,southern hip hop,trap,viral rap	0.0995	0.929	0.0	0.192	134.953	0.809	0.612
+64Dy3qJDCFug6CySbswdbO	Joey Bada$$	Shine	USQX92002930	61	conscious hip hop,hip hop,rap,underground hip hop	0.0851	0.447	0.0	0.25	78.57	0.468	0.619
+7cwLbWHs42c8JmrW9BJZos	EO	German	GBARL1800469	67	afroswing	0.811	0.862	1.86e-05	0.0654	103.019	0.852	0.583
+1HsOTiVqdN7PB1zOS2bcsO	Trippie Redd,Juice WRLD	Matt Hardy 999 (feat. Juice WRLD)	QZJ842001147	67	melodic rap,rap,trap	0.201	0.672	0.0	0.0966	78.512	0.404	0.654
+3J8EOeKLTLXORtWPpOU5bE	Lil Tjay,6LACK	Calling My Phone	USSM12100388	81	brooklyn drill,melodic rap,nyc rap	0.451	0.907	1.35e-06	0.0539	104.949	0.202	0.393
+2Fw5S2gaOSZzdN5dFoC2dj	Kendrick Lamar	A.D.H.D	USUYG1008102	72	conscious hip hop,hip hop,rap,west coast rap	0.33	0.609	0.0	0.24	157.74	0.582	0.799
+4D0GT8zWuA7Z2em6dpajAn	Central Cee	Loading	ZZOPM2003512	64	drill brasileiro	0.732	0.85	0.0	0.338	144.006	0.694	0.68
+1c9hQ4jqgVP10plon2B259	Future	Tycoon	USSM12001682	46	atl hip hop,rap,southern hip hop,trap	0.0223	0.858	0.0	0.357	157.03	0.85	0.598
+3UebVboi5nMHLgja4UrZaG	WESTSIDE BOOGIE	Silent Ride	USUM71819448	57	hip hop,rap,underground hip hop	0.333	0.676	0.0	0.0633	96.045	0.309	0.619
+6afrGc4NBIQEObX1S8DCPy	Digga D	Chingy (It’s Whatever)	GB2DY2000594	54	aussie drill,london rap	0.324	0.73	0.0	0.338	141.983	0.705	0.622
+6wJYhPfqk3KGhHRG76WzOh	Lil Mosey	Blueberry Faygo	USUM72001714	75	melodic rap,rap,rap conscient,trap,vapor trap	0.207	0.774	0.0	0.0383	99.034	0.349	0.554
+01SyViM4lbRtUS9h5Vq1Zy	AJ Tracey	Little More Love	UKQNW2100011	60	grime,uk hip hop,ukg revival	0.199	0.719	9.89e-06	0.114	100.08	0.676	0.762
+7tvuLLroI0n6uYBWuFig5d	TOOL	Lateralus	USVR10100017	63	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.00108	0.387	0.871	0.084	172.812	0.371	0.677
+6DyywdbmTzlmXBzG9ym7Rt	TOOL	Sober	USVR10000011	68	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.000183	0.385	0.149	0.0329	149.271	0.187	0.673
+3gPxMQWDMSEyPXMtzbcDdQ	TOOL	Culling Voices	USRC11902038	55	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.0452	0.253	0.789	0.0352	156.286	0.0386	0.449
+3S4G4SL15Cp4CvAfmye8um	TOOL	Hooker With A Penis	USZE19600088	56	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.00129	0.25	0.553	0.155	90.835	0.274	0.91
+0Klbxk3g96Qae4DbCnUNcT	TOOL	The Patient	USVR10100011	57	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.00151	0.458	0.752	0.0338	110.767	0.388	0.526
+39zWYYZStDgWi32sOU9AX4	TOOL	Fear Inoculum	USRC11902032	61	alternative metal,alternative rock,art rock,nu metal,progressive metal,progressive rock,rock	0.000827	0.31	0.512	0.042	86.913	0.16	0.584

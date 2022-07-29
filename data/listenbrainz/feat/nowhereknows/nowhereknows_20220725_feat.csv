@@ -1,0 +1,122 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+6eIygPhGcBFKKcxlGTJlY0	John Mayer	Changing	USSM11610640	54	neo mellow,singer-songwriter	0.583	0.43	0.00273	0.0285	183.674	0.393	0.336
+4uytiW8D73yWQHkg1PzYlB	Meryl Streep	"The Winner Takes It All - From ""Mamma Mia!"""	GBUM70809223	64	hollywood	0.682	0.427	0.0	0.0334	125.081	0.245	0.377
+5zNxUkUW9WiV5oyg6gh2wB	PEDRO SAMPAIO,Mc Pedrinho	DANÇARINA	BRWMB2200077	83	funk carioca	0.0423	0.778	0.0	0.0788	134.999	0.554	0.571
+1afn7VzlTzM6Rq5HFosYaV	Forest Blakk	Where I First Found You	USAT21704885	32	pop,pop rock,uk pop	0.815	0.316	0.0	0.0322	78.963	0.147	0.268
+5xwKCPdE3kyU0XwqfbyQsx	Joji	Pills	USUYG1179130	66	viral pop	0.582	0.454	0.774	0.0739	81.401	0.242	0.407
+70HWRkitkAKfos500LBk0T	Passenger	Simple Song	GBMQN1500029	64	folk-pop,neo mellow,pop,pop rock	0.616	0.631	0.0114	0.0286	78.0	0.598	0.402
+52Nm0n6chJlGJJqhiZ6oMz	Beirut	Elephant Gun	USCPT0600053	47	albuquerque indie,baroque pop,chamber pop,indie pop,indie rock,stomp and holler	0.873	0.17	0.0253	0.0489	179.915	0.458	0.626
+2PMOl6gbAdFoBoftWOz9Q4	Vance Joy	Missing Piece	USAT22102087	39	folk-pop,modern rock,pop,pop rock	0.0449	0.632	1.01e-06	0.0446	101.976	0.731	0.863
+0YbFEoJi7Esa7lhIrEpBjl	Imagine Dragons	Waves	USUM72205470	68	modern rock,rock	0.0741	0.468	0.0	0.0835	120.123	0.261	0.618
+08E0TIudwefGjA27W4zrnf	Apashe,Wasiu	Majesty	CA5KR1714616	65	bass trap	0.0351	0.559	0.00125	0.0703	80.087	0.286	0.805
+2bDXmdP23tCK9uj8e2o3ya	Halsey	Devil In Me	USUM71702224	57	dance pop,electropop,etherpop,indie poptimism,pop,uk pop	0.0634	0.581	0.0	0.0348	106.04	0.188	0.71
+6hPY9GJkHWjeIyGWGV9dyN	Ashe	Hope You're Not Happy	USQE92100401	55	alt z,electropop,pop	0.0413	0.52	0.00199	0.0277	143.008	0.436	0.614
+58zsLZPvfflaiIbNWoA22O	Rag'n'Bone Man	Human	GBARL1600665	76	neo soul	0.393	0.602	0.0	0.302	75.087	0.554	0.707
+0E5eWpkEoXEGZFMT4NazjE	Grupo De Fado Amanhecer	Minha Mãe	TCACU1676418	3	fado de coimbra,fado instrumental,guitarra portuguesa	0.902	0.318	0.0981	0.0538	71.18	0.0922	0.0748
+0KzAbK6nItSqNh8q70tb0K	Pixies	Where Is My Mind?	GBAFL9700100	72	alternative rock,boston rock,modern rock,permanent wave,rock	0.00731	0.513	0.000838	0.0343	81.201	0.243	0.442
+76YSWx6L6FNsuaP6GWBb8P	Labrinth,Zendaya	All For Us	USUG11902729	71	indie poptimism,pop	0.0108	0.46	0.000139	0.0652	141.722	0.18	0.66
+0ZT4aNI3Dpk53ZGfcrkOL8	Grupo De Fado Amanhecer	Balada do Amanhecer - Ao Vivo	TCADB1786039	1	fado de coimbra,fado instrumental,guitarra portuguesa	0.74	0.527	0.0	0.0326	108.504	0.352	0.289
+3Q0KfYjbdYOskCP40UGMbi	Faudoa	Savior	QZES91859804	53		0.868	0.683	0.0177	0.0598	105.951	0.207	0.321
+54KFQB6N4pn926IUUYZGzK	The Cinematic Orchestra,Patrick Watson	To Build A Home	GBCFB0700100	74	downtempo,electronica,ninja,nu jazz	0.885	0.264	0.349	0.0349	148.658	0.0735	0.122
+3AJwUDP919kvQ9QcozQPxg	Coldplay	Yellow	GBAYE0000267	87	permanent wave,pop	0.00239	0.429	0.000121	0.0281	173.372	0.285	0.661
+2tp9qlqL0uXQOsPXExs4fs	MidnightDrives	T a l k i n g t o t h e P l a y D a t e	TCAFN2120055	53	slowed and reverb	0.474	0.591	0.0	0.0289	94.807	0.428	0.475
+4kDTvLhGF29gFsqceuxBSC	Imagine Dragons	Not Today	USUM71603402	67	modern rock,rock	0.567	0.462	0.0	0.0292	122.698	0.0428	0.387
+6N1K5OVVCopBjGViHs2IvP	Ed Sheeran,Taylor Swift	The Joker And The Queen (feat. Taylor Swift)	GBAHS2200019	76	pop,uk pop	0.924	0.528	2.1e-06	0.0329	133.83	0.307	0.309
+5nxGv48FLCI5I1DaDYzjef	Hiko,if we were lakes	Meet Me at Our Spot (Slowed + Reverb)	QZNJY2132914	32	sped up	0.313	0.764	0.0	0.0341	82.478	0.57	0.343
+0BxE4FqsDD1Ot4YuBXwAPp	Arctic Monkeys	505	GBCEL0700074	85	garage rock,permanent wave,rock,sheffield indie	0.00287	0.526	7.78e-05	0.0568	140.266	0.248	0.866
+2nkoWsTZa8LKPNGdjI5uxj	Imagine Dragons	West Coast	USUM71816162	65	modern rock,rock	0.581	0.672	2.08e-06	0.0268	104.989	0.677	0.715
+6JdU7eaEl9fPAq0sEVNzGc	Sarcastic Sounds	say goodbye	USSM12102222	62	lo-fi beats,lo-fi chill,sad lo-fi	0.902	0.71	0.00236	0.0908	92.016	0.418	0.415
+7wvwXi9Z66dcH5t202vVkN	Joji	Will He	USUYG1179129	76	viral pop	0.836	0.618	0.000163	0.0515	116.014	0.0872	0.217
+1v4HRWBmiwBcJODNWyhKO6	FINNEAS	Another Year	GBKPL2032200	44	alt z,electropop,la indie,pop	0.97	0.596	1.02e-05	0.0299	80.181	0.267	0.0992
+63udUxL9SNHUQ19cWAwkUz	Antoine Arnoux	Therefore I Am	QZES92140418	2		0.00459	0.776	0.0233	0.0655	93.996	0.878	0.696
+7BELSQR2lAJLELaKvVkct3	Ivandro	Lua	PT9GN2200001	64	trap tuga	0.843	0.629	0.000107	0.0854	152.088	0.35	0.348
+2HhuKUMVrAjDhNaKReQGxQ	Goldenbaby17	Pain On Me	QZK6P2281024	31		0.361	0.744	0.000561	0.035	90.024	0.202	0.52
+6dqiwfvxb1AM5y1vyVwaa0	Joji	Window	USUYG1179132	66	viral pop	0.425	0.643	0.665	0.0898	156.959	0.202	0.329
+1xo5ZptvxNbLuvAz3uku28	Forest Blakk	Hold On Tight	USAT22001676	34	pop,pop rock,uk pop	0.608	0.248	5.43e-06	0.0367	88.176	0.0835	0.348
+6EtKlIQmGPB9SX8UjDJG5s	Labrinth	Formula	USQX91902497	82	indie poptimism,pop	0.0448	0.574	0.0553	0.0409	144.654	0.226	0.664
+6ls6Wxw0iivqDIQmlFeG6F	Vance Joy	Who Am I	USAT21402936	39	folk-pop,modern rock,pop,pop rock	0.561	0.622	0.000379	0.0596	127.786	0.605	0.694
+5Y5hJYDbRpkEGc4JN4a7uW	Joey Kidney,FWD The Man	She's a 10	QM6P42204122	25		0.689	0.697	0.0023	0.146	117.75	0.337	0.471
+1oew3nFNY3vMacJAsvry0S	Rixton	Me And My Broken Heart	USUM71401800	78	pop,pop rock,post-teen pop	0.00489	0.545	0.0	0.0345	174.084	0.551	0.783
+0AYSyQYRwmUjWLufRfuBRs	Henry Moodie	you were there for me	UKW3Z2201508	52		0.0569	0.569	7.13e-05	0.0609	163.906	0.41	0.818
+2RttW7RAu5nOAfq6YFvApB	Ed Sheeran	Happier	GBAHS1700028	80	pop,uk pop	0.536	0.522	0.0	0.0288	89.792	0.236	0.385
+6bGMSP3H9YqkmaLnaJTIoF	Adele	Hold On	USSM12105978	68	british soul,pop,pop soul,uk pop	0.858	0.366	1.15e-05	0.0433	165.902	0.459	0.364
+2TVxnKdb3tqe1nhQWwwZCO	Elton John	Tiny Dancer	GBAMB7100001	78	glam rock,mellow gold,piano rock	0.382	0.414	0.000243	0.0278	145.075	0.282	0.428
+6xLaQvMFknex88LVALSgYP	KA$HDAMI,Trippie Redd	Head$hot! (with Trippie Redd)	USUM72120938	52	aesthetic rap,pluggnb,viral rap	0.018	0.737	6.3e-06	0.0996	154.961	0.617	0.668
+4yugZvBYaoREkJKtbG08Qr	Eagles	Take It Easy - 2013 Remaster	USEE11300314	78	album rock,classic rock,country rock,folk rock,heartland rock,mellow gold,rock,soft rock,yacht rock	0.343	0.575	4.95e-06	0.0318	139.191	0.74	0.67
+3As49dIhYQCYViJiaxR4nF	FINNEAS	Medieval	USUG12103249	51	alt z,electropop,la indie,pop	0.754	0.797	5.49e-05	0.039	115.069	0.754	0.537
+1rUhmF9HtFLKYAmbDef3fy	Koastle	Another Show	QZES52277300	33		0.0485	0.831	0.00759	0.127	100.037	0.419	0.607
+1uRj7VzkLDX0Eip0Y3lqpy	FINNEAS	College	GBKPL1817997	43	alt z,electropop,la indie,pop	0.457	0.689	0.000306	0.0453	145.039	0.355	0.423
+4ZdJNa09XhHl2VDoC0d8RM	Mindchatter,Koastle	Sink Into The Hips - Koastle Remix	QZES72134712	22	indie soul,proto-hyperpop,vapor soul	0.568	0.638	0.0739	0.418	82.86	0.509	0.653
+7es56D0QedGMsK39wl2yFX	ASTN	Happier Than Ever	QZN882171316	75	bedroom soul,chill r&b,pop	0.341	0.667	0.0	0.439	97.604	0.266	0.457
+48hDL226mWlA0THSBajhGf	Demi Lovato	Mad World	USUM72103758	36	dance pop,pop,post-teen pop,uk pop	0.539	0.326	0.0	0.0367	174.187	0.127	0.319
+2Y40huo5ewaKYxsFintYtF	Kanye West	Heaven and Hell	USUM72116292	66	chicago rap,rap	0.0409	0.764	0.0	0.119	82.986	0.268	0.422
+1G1R0XgChe18Zr1o6tlmN6	Lana Del Rey	Watercolor Eyes - From “Euphoria” An HBO Original Series	GBUM72200132	74	art pop,pop	0.964	0.444	0.0815	0.0316	120.443	0.121	0.26
+39FexuVmNT8zcnB1DoscSn	Tom Odell	Flying :))	QMUY42200022	63	chill pop,pop	0.965	0.511	0.0388	0.0316	133.71	0.299	0.148
+4qeHV9T5N3S7KAKryZQp8s	Alec Benjamin	Older	USAT22104490	65	alt z,dream smp,electropop,pop	0.59	0.539	0.0	0.0635	84.211	0.515	0.489
+4SeZpWSgq1c8a0MY3iVy1f	Zach Hood	Flashbacks	USANG2129382	66	alt z,gen z singer-songwriter,pop	0.879	0.55	0.0	0.0314	99.713	0.49	0.448
+7sA2SKTo1QbTSSYn5YvJC4	Imagine Dragons	Sharks	USUM72205464	73	modern rock,rock	0.00791	0.927	3.62e-05	0.0657	123.969	0.901	0.642
+0Fs9cdPDhptWEDJmiCbkEW	J. Cole,Cults,Amber Coffman	She Knows (feat. Amber Coffman & Cults)	USQX91301184	82	conscious hip hop,hip hop,north carolina hip hop,rap	0.0193	0.766	0.0784	0.0807	118.008	0.183	0.74
+5KXp9E22MHunsS4W4PNBUf	Imagine Dragons	Cutthroat	USUM72102980	65	modern rock,rock	0.0833	0.668	0.0116	0.315	165.926	0.679	0.626
+0dQhHfiSQ9ZUiG3vCHr0me	Grupo De Fado Amanhecer	Saudades de Coimbra	TCACU1676406	5	fado de coimbra,fado instrumental,guitarra portuguesa	0.793	0.351	0.000178	0.0512	89.213	0.232	0.215
+0lyzMo43xQMGVy8TcjC0zF	Luís Braz Teixeira,Rockin'Me	Room 4 2	QZDA52299437	11		0.579	0.462	0.0	0.073	139.267	0.479	0.388
+086myS9r57YsLbJpU0TgK9	Arctic Monkeys	Why'd You Only Call Me When You're High?	GBCEL1300370	85	garage rock,permanent wave,rock,sheffield indie	0.0483	0.691	1.13e-05	0.0368	92.004	0.8	0.631
+5Q9Cp5K3qOgslZDnIAuVqw	BoyWithUke	Lovely	TCAFH2098644	53		0.948	0.844	0.00385	0.0451	86.987	0.339	0.229
+7k5b0qVGM007o03HAMYY7p	BoyWithUke	She Said No	USUG12201580	68		0.879	0.786	0.0	0.176	98.061	0.815	0.553
+2l4AG7AxDO231fgJ7AwQYb	daddy's girl,creamy,11:11 Music Group	glimpse of us x la la land	GX5MX2295079	42		0.942	0.397	0.0	0.0467	170.11	0.3	0.17
+3BiWvG9j7UqmyOvMdC0DgO	BoyWithUke	Scared of the Dark	USUG12201576	65		0.982	0.632	1.29e-05	0.0566	170.006	0.697	0.321
+2E43WFS4rRc09za2r2GmZl	Fall Out Boy	My Songs Know What You Did In The Dark (Light Em Up)	USUM71300299	72	emo,modern rock,rock	0.0271	0.558	3.32e-06	0.064	151.99	0.567	0.924
+3tGZ1ZisuqmH5kGefVUjpj	Arden Jones	la di da - extended	USAT22204403	52	sad rap	0.873	0.769	0.0	0.105	98.26	0.392	0.459
+75ls0gurX68lUmMjE7QcsE	Jeremy Zucker	all the kids are depressed	USUM71804195	75	electropop,pop	0.836	0.773	2.42e-05	0.0963	103.861	0.707	0.437
+3ebfDw8WEbf0DxGh47R2lo	NF	I Miss The Days	USUM71911335	67	hip hop,pop rap,rap	0.345	0.719	0.0	0.19	137.887	0.0979	0.768
+1thQ7tcWGGuFeUCTSc9weO	Grupo De Fado Amanhecer	Canção da Lembrança	TCACU1676408	3	fado de coimbra,fado instrumental,guitarra portuguesa	0.828	0.462	4.42e-05	0.0495	128.918	0.16	0.117
+7w87IxuO7BDcJ3YUqCyMTT	Foster The People	Pumped Up Kicks	USSM11002931	84	indietronica,modern alternative rock,modern rock,rock	0.145	0.733	0.115	0.0292	127.975	0.965	0.71
+6KKQRxk7BVrjjdWbEc9MA6	Tom Odell	Sad Anymore	QMUY42200059	54	chill pop,pop	0.968	0.491	0.351	0.0322	141.903	0.371	0.237
+1uISuXmnRUaftT62CBECCe	Robert Grace	Need You Back	DEE862102995	45		0.556	0.712	0.0	0.0554	119.95	0.541	0.642
+1zIdA3QeaQWluOM8ZdUX8u	Robert Grace	Fake Fine	GBKPL2001927	55		0.185	0.82	0.0	0.0459	149.998	0.966	0.538
+722tgOgdIbNe3BEyLnejw4	Kanye West	Black Skinhead	USUM71307719	75	chicago rap,rap	0.0011	0.766	0.0	0.279	130.127	0.325	0.809
+52Bg6oaos7twR7IUtEpqcE	Elliott Smith	Between The Bars	USKRS0326904	63	alternative rock,dream pop,indie pop,indie rock,melancholia,rock,singer-songwriter	0.929	0.522	0.765	0.0598	135.298	0.342	0.074
+1ZMGp9MTXbtAPvcKa0U3zS	Mahmood,BLANCO	Brividi	ITUM72200040	76	italian pop	0.448	0.523	0.0	0.0347	122.962	0.342	0.614
+5rLyYxZNzca00ENADO9m54	NF	When I Grow Up	USUM71910672	73	hip hop,pop rap,rap	0.32	0.817	0.0	0.185	109.994	0.247	0.814
+6nFdjV1Ko66O111x74K2kn	XTC	Dear God - Remastered 2001	GBAAA0001211	51	alternative rock,art punk,art rock,beatlesque,new romantic,new wave,new wave pop,post-punk,power pop,pub rock,zolo	0.0979	0.577	1.3e-06	0.024	90.557	0.346	0.464
+2It3qgi71PVpfPU23XE80X	daddy's girl,creamy,11:11 Music Group	glimpse of us (slowed + reverb)	GX5MX2286245	41		0.938	0.365	0.0	0.0456	90.012	0.338	0.166
+0ynmh87cJ8HvBWFOooBrz6	Billy Swan	Don't Be Cruel	USSM17400219	54	swamp pop	0.689	0.612	0.00342	0.0374	118.129	0.312	0.309
+7xdyIjQ4qX7iSL6E5qqyHX	BoyWithUke	Sleep Deprived	TCAFN2132012	56		0.931	0.939	0.0	0.123	118.034	0.523	0.282
+1ei3hzQmrgealgRKFxIcWn	Benson Boone	In The Stars	USWB12201574	88	pop	0.338	0.362	0.0	0.0528	78.007	0.3	0.54
+252G7yirQ4pXj6ZD4T9R2W	FINNEAS	Mona Lisa, Mona Lisa	USUG12205177	67	alt z,electropop,la indie,pop	0.0252	0.742	0.023	0.0441	125.032	0.646	0.521
+5M1aoAqCdGjSABHpMfZ0I3	Fran Vasilić	The One About Rejection	QM24S2202632	20		0.882	0.652	3.05e-05	0.0316	80.054	0.139	0.0456
+0vw5rJt0sGLVXaPBi237FW	Fran Vasilić	Maybe	QM24S2200194	18		0.192	0.759	0.0	0.0512	129.984	0.371	0.47
+2kOs3o9pnAuOYM6VTEYUCN	Fran Vasilić	Might as Well	QM24S2201423	18		0.361	0.738	0.0	0.0458	98.009	0.326	0.291
+2jI4keyUwCmnn6kqA4GlAc	Fran Vasilić	Subject	QM24S2202633	28		0.118	0.412	0.000218	0.027	82.125	0.269	0.283
+2RiBogNRfulkNf7fVbPOrJ	Vance Joy	Saturday Sun	USAT21705384	71	folk-pop,modern rock,pop,pop rock	0.484	0.637	0.0	0.0468	99.995	0.706	0.864
+6jPob3XDIVyNwPKUv2GwBf	Sleeping At Last	You Are Enough (Acoustic)	USGES2106001	43	ambient worship,chamber pop,pop	0.913	0.502	1.7e-06	0.0326	115.007	0.24	0.33
+6potEImiklXkwD9qFzpu15	Labrinth	Forever	USQX91902499	77	indie poptimism,pop	0.92	0.563	0.724	0.0292	79.983	0.197	0.459
+7Lf1IgNsW8GniX5Lf7e4AP	Fran Vasilić	Japanese Pancakes	QZK6M2085562	50		0.136	0.707	0.00104	0.0374	110.004	0.37	0.455
+2qPSa6HXjzwa9sLhNGpA1T	Edith Whiskers	Home	GBVHN2000009	75		0.982	0.725	0.00395	0.0357	120.031	0.264	0.199
+1X9hG9ChkrwhViamDCZTy9	Imagine Dragons	I Wish	USUM72205477	64	modern rock,rock	0.209	0.224	0.0	0.031	71.948	0.146	0.291
+66N0XT7yr2VuFxrMc8piUy	Imagine Dragons	Higher Ground	USUM72205467	69	modern rock,rock	0.0411	0.694	0.0	0.0994	122.208	0.61	0.657
+0xBlufYjHrtf8xk0QifNn1	Imagine Dragons	One Day	USUM72111262	66	modern rock,rock	0.668	0.68	0.0	0.0377	89.945	0.639	0.414
+0eO2zq5fjPt41BreFmiIKw	Imagine Dragons	#1	USUM72111256	67	modern rock,rock	0.0897	0.692	0.0	0.109	92.98	0.634	0.695
+6Y2Iom5hrfZyhBRGqcrJdc	Imagine Dragons	Take It Easy	USUM72205469	65	modern rock,rock	0.0345	0.391	0.0	0.038	171.859	0.296	0.65
+2wXfd4Vz6pzJrrPvGhpYz0	Imagine Dragons	No Time For Toxic People	USUM72111260	65	modern rock,rock	0.00248	0.584	1.78e-05	0.0373	75.986	0.585	0.742
+0z2bufPrU83RRPRaboj3B7	Imagine Dragons	I'm Happy	USUM72205471	66	modern rock,rock	0.108	0.678	0.0	0.0335	106.041	0.364	0.576
+54ipXppHLA8U4yqpOFTUhr	Imagine Dragons	Bones	USUM72201759	76	modern rock,rock	0.0201	0.772	0.0	0.0455	114.061	0.587	0.75
+7KGwRAF99Ryell3B2T4DKy	Imagine Dragons	They Don't Know You Like I Do	USUM72205479	64	modern rock,rock	0.192	0.356	0.0	0.0353	149.675	0.164	0.167
+1qaWM3wK6aZZALpAPVdZ6D	Imagine Dragons	Ferris Wheel	USUM72205472	65	modern rock,rock	0.781	0.392	0.0	0.0322	118.451	0.208	0.355
+3IkEM7cjZ8FZtmVFq1q03c	Imagine Dragons	Sirens	USUM72205474	67	modern rock,rock	0.0557	0.67	0.00844	0.0363	98.965	0.363	0.671
+3CIyK1V4JEJkg02E4EJnDl	Imagine Dragons,JID,Arcane,League of Legends	Enemy (with JID) - from the series Arcane League of Legends	USUM72119916	78	modern rock,rock	0.237	0.728	0.0	0.266	77.011	0.555	0.783
+1VMBapbhHidf6ALFszT7w1	Imagine Dragons	Lonely	USUM72111263	71	modern rock,rock	0.0256	0.714	0.0	0.0438	97.983	0.873	0.73
+35CZvVV7UzYgydaVpNW4Kp	Imagine Dragons	Tied	USUM72205475	64	modern rock,rock	0.265	0.427	0.0	0.0278	110.599	0.117	0.298
+2EhE42VQTKvn6ok6wtA9U8	Imagine Dragons,Cory Henry	Continual (feat. Cory Henry)	USUM72205478	62	modern rock,rock	0.863	0.519	0.0	0.0266	110.851	0.12	0.289
+747LeNCUC3bF2h43E73rFh	Imagine Dragons	Monday	USUM72111265	67	modern rock,rock	0.127	0.803	6.49e-05	0.219	90.006	0.797	0.649
+5HmxrDC6RrpkCDtMYQqkqx	Imagine Dragons	Giants	USUM72111259	67	modern rock,rock	0.029	0.487	0.0	0.0666	62.385	0.44	0.603
+5i6V88QD3nt9at4915JISY	Imagine Dragons	Blur	USUM72205466	68	modern rock,rock	0.00416	0.684	3.4e-06	0.0422	129.988	0.639	0.785
+3BprrMTQ3IlFvHW8oFTTQ1	Imagine Dragons	Younger	USUM72205476	66	modern rock,rock	0.07	0.661	1.71e-06	0.0344	111.03	0.512	0.562
+3vThV17aiX6dGokusu6j8N	Imagine Dragons	Dull Knives	USUM72111258	66	modern rock,rock	0.00255	0.51	6.38e-06	0.0473	110.346	0.32	0.616
+3soSAbnGLuJeARGmegvMFJ	Imagine Dragons	I Don't Like Myself	USUM72205465	75	modern rock,rock	0.177	0.574	0.0	0.0361	172.88	0.6	0.71
+2ThaHV10xrAcL2WfqXyLnp	Imagine Dragons	Symphony	USUM72205463	68	modern rock,rock	0.0227	0.662	0.0	0.0742	90.002	0.921	0.64
+5qRt4howTYyg3XzSNySKO8	Imagine Dragons	Easy Come Easy Go	USUM72111257	67	modern rock,rock	0.294	0.673	0.0	0.0515	139.817	0.477	0.459
+0LtkAAEpEp1lkLX1ZvjHZb	Imagine Dragons	Follow You	USUM72102981	69	modern rock,rock	0.00197	0.544	5.06e-05	0.0524	124.875	0.45	0.732
+0p5UWw5wVyzPOgCIx5T0tn	Imagine Dragons	It's Ok	USUM72111264	67	modern rock,rock	0.0146	0.502	0.0	0.039	185.655	0.168	0.322
+6TEftSkmWdTm1EpThnwqh6	Imagine Dragons	Wrecked	USUM72110166	71	modern rock,rock	0.149	0.625	1.67e-05	0.0289	93.998	0.229	0.562
+3bwvtkLyVe7YWrKRlViloR	Imagine Dragons	Peace Of Mind	USUM72205473	65	modern rock,rock	0.0103	0.61	1.37e-05	0.0333	73.536	0.606	0.626
+0E0kxko3i9b5JxxMoGH3At	Imagine Dragons	My Life	USUM72111261	71	modern rock,rock	0.0828	0.525	0.0	0.032	129.982	0.305	0.427

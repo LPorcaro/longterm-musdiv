@@ -1,0 +1,5 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+6kZejCWsmpDNH7yjn5WhVN	Connie Allen	Rocket 69	FR8X00500726	32		0.371	0.687	0.0	0.106	136.794	0.797	0.41
+2QfiRTz5Yc8DdShCxG1tB2	Chuck Berry	Johnny B. Goode	USMC15719963	75	blues rock,classic rock,rock,rock-and-roll,rockabilly	0.741	0.534	6.07e-05	0.0743	167.983	0.969	0.803
+5GDiNqMe76rDS5ZgPaI03R	Kris Kristofferson	Me and Bobby McGee	USSM10303239	49	country rock,folk,folk rock,mellow gold,outlaw country,roots rock,singer-songwriter	0.79	0.579	9.14e-06	0.0292	133.429	0.594	0.3
+3vtSBUW15bXapWOaByIo06	THE DRIVER ERA,Ross Lynch,Rocky	Heaven Angel	QMRSZ2101135	60	modern alternative rock,pop	0.02	0.752	0.0159	0.0438	113.997	0.776	0.788

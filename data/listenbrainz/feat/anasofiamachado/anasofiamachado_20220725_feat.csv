@@ -1,0 +1,45 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1mw0RgNXIpYRyyCdBQbLgA	Harry Styles	Love Of My Life	USSM12200621	86	pop	0.669	0.555	0.0	0.0452	118.057	0.203	0.536
+7t9gDWqX10tbhtriPR1Cnd	Kim Petras	Can't Do Better	GBWWP1803958	71	art pop,dance pop,electropop,pop,post-teen pop,transpop	0.069	0.473	1.12e-06	0.0373	131.975	0.295	0.655
+1pTw2cNrp9L3esxLAvWnN2	Journey	Separate Ways (Worlds Apart)	USSM18300106	64	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.0189	0.467	4.51e-06	0.0576	131.536	0.453	0.943
+7mMlbJlXXo2mRtQ4R9sIzD	Imogen Heap	Hide and Seek	GBJPX0500005	61	etherpop,metropopolis	0.909	0.451	0.0	0.0696	121.123	0.0901	0.166
+5r67bGhYXZNqk2m2Wupfmu	Rihanna	Pour It Up	USUM71214737	67	barbadian pop,dance pop,pop,urban contemporary	0.0254	0.785	0.0	0.0419	134.002	0.39	0.478
+22I3h5AOENlH4CqXJsEbFR	Justine Skye,Tyga	Collide (feat. Tyga)	USAT21403439	74	alternative r&b,pop,pop r&b,r&b	0.095	0.418	0.0	0.0625	139.614	0.131	0.31
+6I0m89XMkPX46MMaNmkWNK	Mk.gee	Untitled	USUM71923504	50	indie soul,vapor soul	0.217	0.713	0.113	0.0365	101.983	0.583	0.505
+3KyKxJ4P3pVCgaZwaq2rUC	The Weeknd	Gasoline	USUG12106682	73	canadian contemporary r&b,canadian pop,pop	0.000582	0.728	0.00206	0.0473	123.006	0.31	0.741
+6krYS8KtmNAYyb5uTZiYW4	The Weeknd	Dawn FM	USUG12106681	66	canadian contemporary r&b,canadian pop,pop	0.674	0.28	5.85e-05	0.037	111.65	0.0807	0.478
+2D4dV2KXDTszzJ3p3cFqhA	The Weeknd	Less Than Zero	USUG12106698	76	canadian contemporary r&b,canadian pop,pop	0.00096	0.535	0.000155	0.0327	142.981	0.5	0.791
+5VGEgFZfWBoEOGb3Vlo3rU	Glass Animals	Tangerine	GBUM72000428	60	gauze pop,indietronica,shiver pop	0.114	0.845	0.000536	0.0773	149.941	0.842	0.583
+45d0O3xhhDPV6fhT6aCu48	Glass Animals	Dreamland	GBUM72000427	54	gauze pop,indietronica,shiver pop	0.883	0.253	0.00191	0.0357	141.97	0.099	0.352
+3DMs7bahbQTnoxCjgP7qoK	Pop Smoke,Dua Lipa	Demeanor (feat. Dua Lipa)	USUM72112397	70	brooklyn drill	0.336	0.675	0.0	0.103	99.865	0.728	0.608
+6Hfu9sc7jvv6coyy2LlzBF	Kanye West	Hurricane	USUM72116311	77	chicago rap,rap	0.0466	0.587	0.0	0.146	80.009	0.351	0.561
+644rGY6maSElnKVsAg1gJj	Summer Walker	Girls Need Love	USUM71809283	72	pop,r&b	0.558	0.645	0.0003	0.29	96.963	0.123	0.418
+7vptmeNwSEVkcwDdqk7UQO	Men I Trust	Lauren	usdy41650617	62	indie pop	0.777	0.762	0.17	0.0308	96.999	0.558	0.503
+6TvxPS4fj4LUdjw2es4g21	ABBA	Slipping Through My Fingers	SEAYD8102080	70	europop,swedish pop	0.796	0.475	0.0016	0.0322	137.212	0.339	0.26
+3Z2tPWiNiIpg8UMMoowHIk	U.S.A. For Africa	We Are The World	US25T8511672	67	musical advocacy	0.189	0.528	0.0	0.0435	72.58	0.292	0.447
+6CKoWCWAqEVWVjpeoJXyNH	Sting	Shape Of My Heart	GBAAM9390010	73	permanent wave,soft rock,sophisti-pop	0.691	0.537	0.000915	0.0331	83.936	0.244	0.373
+05oETzWbd4SI33qK2gbJfR	Fleetwood Mac	Rhiannon	USWB19900188	71	album rock,classic rock,mellow gold,rock,soft rock,yacht rock	0.111	0.723	0.0946	0.0296	129.012	0.795	0.49
+3sTSo8X7UCDTVUVMJ63LJO	Eric Carmen	Hungry Eyes	USRC10301371	57	adult standards,album rock,bubblegum pop,disco,folk rock,mellow gold,new wave pop,soft rock,yacht rock	0.0186	0.719	0.0	0.0255	110.597	0.591	0.634
+1LzNfuep1bnAUR9skqdHCK	Mazzy Star	Fade Into You	USCA29300105	76	alternative rock,art pop,dream pop,melancholia,shoegaze,slowcore	0.245	0.42	0.000679	0.0275	157.143	0.175	0.33
+2iXH35MhsqO5Ry8a7iptpJ	Richard Marx	Endless Summer Nights	USCA28700882	60	album rock,mellow gold,new wave pop,soft rock	0.12	0.582	0.0	0.0391	165.21	0.879	0.467
+0oWraSo5ASJ0h1BEagTyEw	Lady Gaga	Hold My Hand	USUM72206231	85	art pop,dance pop,pop	0.0387	0.519	0.0	0.0313	147.708	0.222	0.617
+73PAbYaVbnFG0tQ4aBfxeN	OneRepublic	I Ain't Worried	USUM72206227	74	dance pop,piano rock,pop,pop rock	0.0826	0.704	0.000745	0.0475	139.994	0.825	0.797
+5aAFhwGmoTsYd3ICgj5Ms2	Harold Faltermeyer,Lady Gaga,Hans Zimmer,Lorne Balfe	You’re Where You Belong / Give ‘Em Hell	USKLP2200331	63	german soundtrack,synthesizer,synthpop	0.587	0.157	0.779	0.0379	145.73	0.0325	0.0927
+79iLGWV1TP277jSF8QJEo3	Miles Teller	Great Balls Of Fire - Live	USKLP2200330	75		0.765	0.562	0.0	0.0421	160.039	0.629	0.605
+34x6hEJgGAOQvmlMql5Ige	Kenny Loggins	"Danger Zone - From ""Top Gun"" Original Soundtrack"	USSM18600108	79	album rock,mellow gold,new wave pop,soft rock,yacht rock	0.241	0.544	0.0	0.0471	157.17	0.647	0.897
+1ZkmPku85veww4fF66aUFF	Harold Faltermeyer,Lady Gaga,Hans Zimmer,Lorne Balfe	Top Gun Anthem	USKLP2200336	69	german soundtrack,synthesizer,synthpop	0.00145	0.448	0.838	0.0322	107.351	0.0364	0.336
+1c2hJSwcCfoPEw1su83Sw0	Lady Gaga	Hold My Hand	USUM72206231	75	art pop,dance pop,pop	0.0403	0.53	0.0	0.0331	148.009	0.264	0.612
+31tf1qEai5o5f4r66Kd0pU	Childish Gambino	Me and Your Mama	USYAH1600102	85	atl hip hop,hip hop,rap	0.0116	0.554	0.0449	0.0341	117.996	0.237	0.433
+2wXioTynVwrEWYRv6R6vEj	The Neighbourhood	Void	USSM11800522	66	modern alternative rock,modern rock,pop,shimmer pop	0.047	0.534	0.0328	0.0401	84.183	0.346	0.582
+2zhk0kypGeOPsaaZcjyc14	Cam	Burning House	USRN11400223	65	contemporary country,country,country pop	0.887	0.728	1.11e-05	0.0304	140.923	0.457	0.253
+1nH2PkJL1XoUq8oE6tBZoU	The Weeknd	Sacrifice	USUG12106685	82	canadian contemporary r&b,canadian pop,pop	0.0296	0.735	3.18e-05	0.113	122.0	0.905	0.795
+2vgUijXOTRMnWXDtvgMp2b	The Weeknd	Take My Breath	USUG12106684	74	canadian contemporary r&b,canadian pop,pop	0.0128	0.698	0.00166	0.0368	121.02	0.354	0.769
+2Ghp894n1laIf2w98VeAOJ	The Weeknd	How Do I Make You Love Me?	USUG12106683	73	canadian contemporary r&b,canadian pop,pop	0.0203	0.805	2.37e-05	0.0737	121.006	0.636	0.498
+69w5X6uTrOaWM32IetSzvO	Harry Styles	Daydreaming	USSM12200617	85	pop	0.311	0.707	0.0152	0.0304	113.971	0.899	0.811
+73cnVqsbZygieKi8xF10sO	Camila Cabello,WILLOW	psychofreak (feat. WILLOW)	USSM12201108	69	dance pop,pop,post-teen pop,uk pop	0.342	0.629	1.17e-05	0.0752	179.989	0.448	0.64
+0hquQWY3xvYqN4qtiquniF	Doja Cat	Vegas (From the Original Motion Picture Soundtrack ELVIS)	USRC12201441	91	dance pop,pop	0.0777	0.801	3.23e-05	0.255	159.969	0.74	0.601
+7mFj0LlWtEJaEigguaWqYh	Megan Thee Stallion,Dua Lipa	Sweetest Pie	QMCE32200232	87	dance pop,houston rap,pop,trap queen	0.167	0.814	0.0	0.221	123.977	0.677	0.628
+4qu63nuBpdn0qHUHuObEj1	Marshmello,Jonas Brothers	Leave Before You Love Me (with Jonas Brothers)	USUG12102313	85	brostep,dance pop,edm,pop,pop dance,progressive electro house	0.00226	0.721	4.41e-06	0.0403	119.976	0.637	0.738
+4Dvkj6JhhA12EX05fT7y2e	Harry Styles	As It Was	USSM12200612	94	pop	0.342	0.52	0.00101	0.0557	173.93	0.662	0.731
+1qEmFfgcLObUfQm0j1W2CK	Harry Styles	Late Night Talking	USSM12200610	94	pop	0.298	0.714	0.0	0.0468	114.996	0.901	0.728
+4ECNtOnqzxutZkXP4TE3n3	Journey	Separate Ways (Worlds Apart)	USSM18300106	76	album rock,classic rock,hard rock,mellow gold,rock,soft rock	0.0188	0.451	3.17e-06	0.0734	131.435	0.377	0.962

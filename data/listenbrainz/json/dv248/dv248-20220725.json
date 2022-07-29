@@ -1,0 +1,46 @@
+[
+    {
+        "listened_at": "2022-07-15T22:59:58",
+        "track_name": "Easy",
+        "artist_name": "DaniLeigh, Chris Brown",
+        "release_name": "Easy (Remix)",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 1,
+        "spotify_id": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3",
+        "listening_from": "spotify",
+        "isrc": "USUM71907371",
+        "additional_info": {
+            "artist_msid": "6a0ab4b2-d7fb-41cf-9508-9abadeda2228",
+            "artist_names": [
+                "DaniLeigh",
+                "Chris Brown"
+            ],
+            "discnumber": 1,
+            "duration_ms": 186586,
+            "isrc": "USUM71907371",
+            "listening_from": "spotify",
+            "recording_msid": "0e9a22c2-25f7-4082-9030-a9e1e21135e5",
+            "release_artist_name": "DaniLeigh",
+            "release_artist_names": [
+                "DaniLeigh"
+            ],
+            "release_msid": "610d4c50-5c93-46d3-ab4f-c285a307be0a",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d",
+                "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+            ],
+            "spotify_id": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3",
+            "tracknumber": 1
+        },
+        "username": null
+    }
+]

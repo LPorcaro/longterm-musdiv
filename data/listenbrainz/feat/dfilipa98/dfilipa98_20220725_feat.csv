@@ -1,0 +1,34 @@
+sp_track_id	artist_name	track_name	ISRC	popularity	genres	acousticness	danceability	instrumentalness	speechiness	tempo	valence	energy
+1iL2qN1fpyE9MxUhUUu0O4	Nena	Portas do Sol	PTBM12000152	54	portuguese pop	0.739	0.443	0.0	0.0349	98.663	0.335	0.29
+0APYlBDN2CGNzXzKbzYlE7	Panic! At The Disco	The Greatest Show	USAT21811534	44	modern rock	0.00546	0.546	0.0	0.0784	77.009	0.491	0.839
+421eObjg0DTm2qajJl5OJm	Panic! At The Disco	Into the Unknown - Panic! At The Disco Version	USWD11994800	67	modern rock	0.0244	0.456	0.0	0.077	116.719	0.313	0.828
+5YVmHTAsdWnoanWXB7AwZX	Jax	Like My Father	USAT22102090	72	alt z,gen z singer-songwriter	0.91	0.492	0.0	0.0493	93.039	0.424	0.224
+4HffeEF97c6UxNePgbuECW	Lizzy McAlpine	Pancakes for Dinner	GBKPL2001719	67	boston folk,indie pop,pop	0.759	0.753	0.0	0.0478	142.026	0.321	0.266
+2XVTvf5VEvXL3kdcCCK25d	Alex G	Heart Attack (Acoustic Version)	GBDMT1300763	33		0.492	0.505	0.0	0.0282	82.819	0.329	0.386
+41zXlQxzTi6cGAjpOXyLYH	Billie Eilish	idontwannabeyouanymore	USUM71707712	80	art pop,electropop,pop	0.737	0.483	0.0	0.0402	170.163	0.247	0.412
+0My8NPmENHrN5W7OfgZnZJ	Kodaline	The One	GBARL1401580	64	irish pop,modern rock,pop,pop rock	0.654	0.43	8.83e-05	0.0348	156.006	0.332	0.587
+45IFvFqHG8oiEK1fAYdNw1	Kodaline	Everything Works Out in the End	GBARL1401591	63	irish pop,modern rock,pop,pop rock	0.763	0.551	9.03e-06	0.0278	83.045	0.29	0.346
+6KkyuDhrEhR5nJVKtv9mCf	Kodaline	High Hopes	GBDVX1200014	68	irish pop,modern rock,pop,pop rock	0.577	0.488	0.0	0.0305	77.278	0.219	0.487
+0NlGoUyOJSuSHmngoibVAs	Kodaline	All I Want	GBDVX1200008	81	irish pop,modern rock,pop,pop rock	0.174	0.188	0.153	0.0484	187.376	0.159	0.411
+37sINbJZcFdHFAsVNsPq1i	The Script	Superheroes	GBARL1400978	75	celtic rock,dance pop,modern rock,neo mellow,pop,pop rock,uk pop	0.00218	0.49	0.0	0.0396	166.996	0.64	0.885
+65gLJGey4u4KFFqoC5fzFJ	Kodaline	Brother	GBARL1700881	78	irish pop,modern rock,pop,pop rock	0.349	0.519	0.0	0.0482	120.103	0.21	0.625
+6TEftSkmWdTm1EpThnwqh6	Imagine Dragons	Wrecked	USUM72110166	71	modern rock,rock	0.149	0.625	1.67e-05	0.0289	93.998	0.229	0.562
+1VMBapbhHidf6ALFszT7w1	Imagine Dragons	Lonely	USUM72111263	71	modern rock,rock	0.0256	0.714	0.0	0.0438	97.983	0.873	0.73
+0E0kxko3i9b5JxxMoGH3At	Imagine Dragons	My Life	USUM72111261	71	modern rock,rock	0.0828	0.525	0.0	0.032	129.982	0.305	0.427
+22oEJW6r2rMb9z4IntfyEa	Panic! At The Disco	Hey Look Ma, I Made It	USAT21801173	70	modern rock	0.0137	0.577	0.0	0.0695	107.936	0.58	0.833
+1BECwm5qkaBwlbfo4kpYx8	Panic! At The Disco	Death of a Bachelor	USAT21503696	71	modern rock	0.0137	0.462	0.0	0.059	139.256	0.405	0.538
+2XRh87n9CQoWkWW94H3Min	Panic! At The Disco	Viva Las Vengeance	USAT22200847	72	modern rock	1.25e-05	0.211	0.0329	0.0732	153.742	0.371	0.821
+5cY8y2XgOfkAh4kSWLFKkz	Panic! At The Disco	I Write Sins Not Tragedies	US56V0507710	71	modern rock	0.0737	0.566	0.0	0.14	169.961	0.672	0.815
+2Rk4JlNc2TPmZe2af99d45	Taylor Swift,Brendon Urie,Panic! At The Disco	ME! (feat. Brendon Urie of Panic! At The Disco)	USUG11901494	77	pop	0.033	0.61	0.0	0.0571	182.162	0.728	0.83
+1rqqCSm0Qe4I9rUvWncaom	Panic! At The Disco	High Hopes	USAT21801174	82	modern rock	0.193	0.579	0.0	0.0618	82.014	0.681	0.904
+2DgdHcjWmO3qd50RzuBLgZ	Panic! At The Disco	House of Memories	USAT21503701	88	modern rock	0.00272	0.506	0.0	0.0335	109.952	0.506	0.817
+273dJWDKMOSB3TfSUiIZwv	Oh The Larceny	This Is It	US43C1609912	67	bossbeat,rebel blues	0.0401	0.731	3.97e-05	0.0416	117.045	0.68	0.801
+5Tds4pWlV9R0O4en5nGveF	CVBZ,American Authors	This Time is Right	AUMGB2100784	56	electropop,pop dance,pop edm,tropical house	0.0525	0.585	0.0	0.0651	159.945	0.565	0.589
+3BiWvG9j7UqmyOvMdC0DgO	BoyWithUke	Scared of the Dark	USUG12201576	65		0.982	0.632	1.29e-05	0.0566	170.006	0.697	0.321
+5UlnuulVAVmmesw4VzqHdG	Imagine Dragons,Arcane,League of Legends	Enemy - From the series Arcane League of Legends	USUM72120989	81	modern rock,rock	0.247	0.722	0.0	0.256	77.029	0.52	0.745
+3CIyK1V4JEJkg02E4EJnDl	Imagine Dragons,JID,Arcane,League of Legends	Enemy (with JID) - from the series Arcane League of Legends	USUM72119916	78	modern rock,rock	0.237	0.728	0.0	0.266	77.011	0.555	0.783
+0LtkAAEpEp1lkLX1ZvjHZb	Imagine Dragons	Follow You	USUM72102981	69	modern rock,rock	0.00197	0.544	5.06e-05	0.0524	124.875	0.45	0.732
+3vThV17aiX6dGokusu6j8N	Imagine Dragons	Dull Knives	USUM72111258	66	modern rock,rock	0.00255	0.51	6.38e-06	0.0473	110.346	0.32	0.616
+0xBlufYjHrtf8xk0QifNn1	Imagine Dragons	One Day	USUM72111262	66	modern rock,rock	0.668	0.68	0.0	0.0377	89.945	0.639	0.414
+7sA2SKTo1QbTSSYn5YvJC4	Imagine Dragons	Sharks	USUM72205464	73	modern rock,rock	0.00791	0.927	3.62e-05	0.0657	123.969	0.901	0.642
+2ThaHV10xrAcL2WfqXyLnp	Imagine Dragons	Symphony	USUM72205463	68	modern rock,rock	0.0227	0.662	0.0	0.0742	90.002	0.921	0.64

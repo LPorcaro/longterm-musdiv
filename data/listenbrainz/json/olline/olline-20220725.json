@@ -1,0 +1,88 @@
+[
+    {
+        "listened_at": "2022-07-24T18:04:30",
+        "track_name": "Paradise",
+        "artist_name": "Bazzi",
+        "release_name": "Soul Searching",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 10,
+        "spotify_id": "https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn",
+        "listening_from": "spotify",
+        "isrc": "USAT21901897",
+        "additional_info": {
+            "artist_msid": "91cf9f40-2f8c-4430-b019-36dd2969888a",
+            "artist_names": [
+                "Bazzi"
+            ],
+            "discnumber": 1,
+            "duration_ms": 169038,
+            "isrc": "USAT21901897",
+            "listening_from": "spotify",
+            "recording_msid": "c22110d5-f56a-4316-8e3e-7ab5d77f6938",
+            "release_artist_name": "Bazzi",
+            "release_artist_names": [
+                "Bazzi"
+            ],
+            "release_msid": "2f56c24f-a066-4675-a341-f54149487ba4",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+            ],
+            "spotify_id": "https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn",
+            "tracknumber": 10
+        },
+        "username": null
+    },
+    {
+        "listened_at": "2022-07-24T17:42:58",
+        "track_name": "Payphone",
+        "artist_name": "Maroon 5, Wiz Khalifa",
+        "release_name": "Overexposed Track By Track",
+        "recording_mbid": null,
+        "artist_mbids": [],
+        "release_mbid": null,
+        "tags": [],
+        "release_group_mbid": [],
+        "work_mbids": [],
+        "tracknumber": 4,
+        "spotify_id": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A",
+        "listening_from": "spotify",
+        "isrc": "USUM71203347",
+        "additional_info": {
+            "artist_msid": "cd65db00-38dc-4a1c-b6a4-f6b2e99614ac",
+            "artist_names": [
+                "Maroon 5",
+                "Wiz Khalifa"
+            ],
+            "discnumber": 1,
+            "duration_ms": 231173,
+            "isrc": "USUM71203347",
+            "listening_from": "spotify",
+            "recording_msid": "dd0dc2d6-1ef7-45d8-b248-8b0043e20acd",
+            "release_artist_name": "Maroon 5",
+            "release_artist_names": [
+                "Maroon 5"
+            ],
+            "release_msid": "05999a21-07ed-402c-9247-29c29b58f592",
+            "spotify_album_artist_ids": [
+                "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+            ],
+            "spotify_album_id": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2",
+            "spotify_artist_ids": [
+                "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP",
+                "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+            ],
+            "spotify_id": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A",
+            "tracknumber": 4
+        },
+        "username": null
+    }
+]
