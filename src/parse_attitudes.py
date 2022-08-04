@@ -69,14 +69,19 @@ def analyze_iat(iat_path):
 
             df.loc[len(df)] = [block, block_num, item, int(rt), int(status)]
 
-    pen_left = round(df[df.block == "mix_compatible"].rt.mean() + 400)
-    pen_right = round(df[df.block == "mix_incompatible"].rt.mean() + 400)
 
-    df.loc[(df.status == 2) & (df.block == "mix_compatible"), 'rt'] = pen_left
-    df.loc[(df.status == 2) & (df.block == "mix_incompatible"), 'rt'] = pen_right
+    avg_left = 0 
+    if not df[df.block == "mix_compatible"].empty:
+        pen_left = round(df[df.block == "mix_compatible"].rt.mean() + 400)
+        df.loc[(df.status == 2) & (df.block == "mix_compatible"), 'rt'] = pen_left
+        avg_left = df[df.block == "mix_compatible"].rt.mean()
 
-    avg_left = df[df.block == "mix_compatible"].rt.mean()
-    avg_right = df[df.block == "mix_incompatible"].rt.mean()
+    avg_right = 0 
+    if not df[df.block == "mix_incompatible"].empty:    
+        pen_right = round(df[df.block == "mix_incompatible"].rt.mean() + 400)
+        df.loc[(df.status == 2) & (df.block == "mix_incompatible"), 'rt'] = pen_right
+        avg_right = df[df.block == "mix_incompatible"].rt.mean()
+
     all_std = df[df.status == 1].rt.std()
 
     dscore = (avg_left - avg_right) / all_std

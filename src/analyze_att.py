@@ -26,8 +26,8 @@ CONTEXTS_a = ["Relaxing", "Sleeping", "Studying", "Working"]
 CONTEXTS_b = ["Commuting", "Partying", "Running", "Shopping"]
 TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
 ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
-ROUNDS =  ["00", "01", "02", "03", "04",]# "10"]
-ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4"]#, "Post"]
+ROUNDS =  ["00", "01", "02", "03", "04", "10"]
+ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4", "Post"]
 GROUPS = ["HD", "LD"]
 SESSION1 = [str(x).zfill(2) for x in range(1,6)]
 SESSION2 = [str(x).zfill(2) for x in range(6,11)]
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     print(len(df_join_att))
     # Plot
     colors = pl.cm.summer(np.linspace(0,1,len(pids)))
-    fig, axs = plt.subplots(2, 4, sharey=False)
+    fig, axs = plt.subplots(2, 5, sharey=False)
     for n, pid in enumerate(pids):
         y = df_join_att[df_join_att.PROLIFIC_PID == pid].d_score.tolist()
         x = np.arange(len(y))
@@ -188,15 +188,17 @@ if __name__ == "__main__":
     x3hd = [x[3] for x in counters]
     x4hd = [x[4] for x in counters]
     x5hd = [x[5] for x in counters]
+    x6hd = [x[6] for x in counters]
 
-    x0n,x1n,x2n,x3n,x4n,x5n = scale_P(np.array([x0hd,x1hd,x2hd,x3hd,x4hd,x5hd]))
+    x0n,x1n,x2n,x3n,x4n,x5n,x6n = scale_P(np.array([x0hd,x1hd,x2hd,x3hd,x4hd,x5hd,x6hd]))
 
-    ax.bar(np.arange(5), x0n, width, color = colors[0], label='HD')
-    ax.bar(np.arange(5), x1n, width, bottom=x0n, color = colors[10])
-    ax.bar(np.arange(5), x2n, width, bottom=[sum(x) for x in zip(x0n,x1n)], color = colors[20])
-    ax.bar(np.arange(5), x3n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n)], color = colors[30])
-    ax.bar(np.arange(5), x4n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n)], color = colors[40])
-    ax.bar(np.arange(5), x5n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n,x4n)], color = colors[50])
+    ax.bar(np.arange(6), x0n, width, color = colors[0], label='HD')
+    ax.bar(np.arange(6), x1n, width, bottom=x0n, color = colors[7])
+    ax.bar(np.arange(6), x2n, width, bottom=[sum(x) for x in zip(x0n,x1n)], color = colors[14])
+    ax.bar(np.arange(6), x3n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n)], color = colors[21])
+    ax.bar(np.arange(6), x4n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n)], color = colors[28])
+    ax.bar(np.arange(6), x5n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n,x4n)], color = colors[35])
+    ax.bar(np.arange(6), x6n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n,x4n,x5n)], color = colors[42])
 
     colors = pl.cm.winter(np.linspace(0,1,len(pids)))
     counters = [Counter(df_join_att[(df_join_att.group=='LD') & (df_join_att.att_round ==x)].o_score.tolist()) for x in ROUNDS]
@@ -206,25 +208,27 @@ if __name__ == "__main__":
     x3 = [x[3] for x in counters]
     x4 = [x[4] for x in counters]
     x5 = [x[5] for x in counters]
+    x6 = [x[6] for x in counters]
 
-    x0n,x1n,x2n,x3n,x4n,x5n = scale_P(np.array([x0,x1,x2,x3,x4,x5]))
+    x0n,x1n,x2n,x3n,x4n,x5n,x6n = scale_P(np.array([x0,x1,x2,x3,x4,x5,x6]))
 
-    ax.bar(np.arange(5)+width, x0n, width, color = colors[0], label='LD')
-    ax.bar(np.arange(5)+width, x1n, width, bottom=x0n, color = colors[10])
-    ax.bar(np.arange(5)+width, x2n, width, bottom=[sum(x) for x in zip(x0n,x1n)], color = colors[20])
-    ax.bar(np.arange(5)+width, x3n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n)], color = colors[30])
-    ax.bar(np.arange(5)+width, x4n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n)], color = colors[40])
-    ax.bar(np.arange(5)+width, x5n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n,x4n)], color = colors[50])
-    ax.set_xticks(np.arange(5)+width/2)
+    ax.bar(np.arange(6)+width, x0n, width, color = colors[0], label='LD')
+    ax.bar(np.arange(6)+width, x1n, width, bottom=x0n, color = colors[7])
+    ax.bar(np.arange(6)+width, x2n, width, bottom=[sum(x) for x in zip(x0n,x1n)], color = colors[14])
+    ax.bar(np.arange(6)+width, x3n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n)], color = colors[21])
+    ax.bar(np.arange(6)+width, x4n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n)], color = colors[28])
+    ax.bar(np.arange(6)+width, x5n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n,x4n)], color = colors[35])
+    ax.bar(np.arange(6)+width, x6n, width, bottom=[sum(x) for x in zip(x0n,x1n,x2n,x3n,x4n,x5n)], color = colors[42])
+    ax.set_xticks(np.arange(6)+width/2)
     ax.set_xticklabels(ROUNDS_LAB)
     ax.tick_params(top=True, labeltop=True, bottom=False, labelbottom=False)
 
 
-    a = [x0hd,x1hd,x2hd,x3hd,x4hd,x5hd]
-    b = [x0,x1,x2,x3,x4,x5]
+    a = [x0hd,x1hd,x2hd,x3hd,x4hd,x5hd,x6hd]
+    b = [x0,x1,x2,x3,x4,x5,x6]
     celltext = []
     for c in range(6):
-        celltext.append(list(map(int, chain.from_iterable([[a[c][i]]+[b[c][i]] for i in range(5)]))))
+        celltext.append(list(map(int, chain.from_iterable([[a[c][i]]+[b[c][i]] for i in range(6)]))))
 
     ax.table(cellText=celltext,
              rowLabels=np.arange(6),
