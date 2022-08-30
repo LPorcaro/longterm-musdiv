@@ -14,32 +14,25 @@ from collections import Counter, OrderedDict
 from itertools import combinations
 from wordcloud import WordCloud
 
+import sys 
+sys.path.insert(0, '../data/input/')
+from lb_logs_genres import EM_MAP, NOT_EM_GENRE
+
 WIKI_GENRES = "../data/input/wikipedia_EM_genres.csv"
 FEAT_DIR = "../data/listenbrainz/feat"
 INFO_DIR = "../data/listenbrainz/info"
 
 end = datetime.strptime("20220216", "%Y%m%d")
 
-NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
-                'spanish new wave', 'pop electronico', 'electronica argentina',
-                'new wave pop', '5th wave emo', 'metalcore', 'post-post-hardcore',
-                'post-screamo','screamo', 'trancecore', 'canadian post-hardcore',
-                'progressive post-hardcore', 'post-hardcore', 'glitchcore', 
-                'japanese post-hardcore', 'melodic hardcore', 'new wave pop', 
-                'industrial rock', 'new wave of osdm', 'new wave pop', 'new wave',
-                'new wave of speed metal', 'hardcore punk', 'chicago hardcore',
-                'grime', 'hardcore punk espanol', 'wave', 'korean city pop', 
-                'industrial metal', 'electronic rock', 'ambient pop', 'solo wave',
-                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore',
-                'australian post-hardcore','new jersey hardcore']
-
+## Pilot 
 # PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220216", "20220314"]]
 # COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220315", "20220412"]]
 # POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220413", "20220510"]]
 
-PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220502", "20220529"]]
+# PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220502", "20220529"]]
 COND = [datetime.strptime(x, "%Y%m%d") for x in ["20220530", "20220626"]]
 POST = [datetime.strptime(x, "%Y%m%d") for x in ["20220627", "20220725"]]
+PRE = [datetime.strptime(x, "%Y%m%d") for x in ["20220502", "20220725"]]
 
 
 HD = ["Manhento","mrndcn","HiddenTrack","andrespi","acarolinab","An_Oxygen_Consumer","MayaIaia4","benfica15951","aimonteiror","martagmp","dv248","RedPeppermint","5ea1c3f3e9fb240a9b243e18","olline","Bruno10000silva","axel22","Branky","Apex23","afonsoveiga","deniseterzi","Kyor","Dinossaralho","RicardoCoelho8","Akromancer","CarolFrancis","rqlmarim","Ramiroowww","Edu_Marques17","matiri95","bpin","Gon1507","mariiii","Gonçalo","jshadyc","itsmatild","Ana Wolfie","ddios","diogojf","60f1881264ff3a7f211d186a","filippo_malocco","ilvapleuvoir","Acemorais","dfilipa98","61141c855eb58d6a4e3d8d5b","Holt92","Clara319","annoyin9","fraaa","Bea_P","ChiaraLh","aritahierro","gabriverce","joaomdpaz","Alba_hontoria_96","TheMusicWeirdo"]
@@ -49,7 +42,7 @@ TRACKS = "../data/input/random_tracklist_20220104.csv"
 LIST_DIV = "../data/lists/track_list_div_20220208_112025.csv"
 LIST_NOT_DIV = "../data/lists/track_list_not_div_20220208_112025.csv"
 
-OUTFILE_1 = "../data/listenbrainz/results/logs_analysis.csv"
+OUTFILE_1 = "../data/listenbrainz/results/logs_analysis_full.csv"
 OUTFILE_2 = "../data/listenbrainz/results/logs_diff_analysis.csv"
 
 HEADER = ["username", 'group',"phase",
@@ -234,7 +227,8 @@ def run(username, rows):
     elif username in LD:
         group = 'LD'     
     
-    for df, phase in zip([df_PRE, df_COND, df_POST], ["PRE", "COND", "POST"]):
+    # for df, phase in zip([df_PRE, df_COND, df_POST], ["PRE", "COND", "POST"]):
+    for df, phase in zip([df_PRE], ["PRE"]):
         # print("##### {} #####".format(phase))
         
         genres_EM, genres_all = search_EM_genres(df)
@@ -254,13 +248,11 @@ def run(username, rows):
             g_top20_int = round(int(len(set(cg_all.most_common()[:top20p]).intersection(cg_EM.most_common())))*100/g_all_unq,2)
             g_gini_all = None
             if genres_all:
-                # index = gini(pd.factorize(genres_all)[0])
                 index = gini([*cg_all.values()])
                 if not np.isnan(index):
                     g_gini_all = round(index,2)
             g_gini_EM = None    
             if genres_EM:
-                # index = gini(pd.factorize(genres_EM)[0])
                 index = gini([*cg_EM.values()])
                 if not np.isnan(index):
                     g_gini_EM = round(index,2)                
@@ -289,14 +281,12 @@ def run(username, rows):
             a_top20_int = round(int(len(set(ca_all.most_common()[:top20p]).intersection(ca_EM.most_common())))*100/a_all_unq,2)
             a_gini_all = None
             if artists_all:
-                # index = gini(pd.factorize(artists_all)[0])
                 index = gini([*ca_all.values()])
                 if not np.isnan(index):
                     a_gini_all = round(index,2)
 
             a_gini_EM = None
             if artists_EM:
-                # index = gini(pd.factorize(artists_EM)[0])
                 index = gini([*ca_EM.values()])
                 if not np.isnan(index):
                     a_gini_EM = round(index,2)
@@ -327,14 +317,12 @@ def run(username, rows):
             t_top20_int = round(int(len(set(ct_all.most_common()[:top20p]).intersection(ct_EM.most_common())))*100/t_all_unq,2)
             t_gini_all = None
             if tracks_all:
-                # index = gini(pd.factorize(tracks_all)[0])
                 index = gini([*ct_all.values()])
                 if not np.isnan(index):
                     t_gini_all = round(index,2)
     
             t_gini_EM = None
             if tracks_EM:
-                # index = gini(pd.factorize(tracks_EM)[0])
                 index = gini([*ct_EM.values()])
                 if not np.isnan(index):
                     t_gini_EM = round(index,2)
@@ -360,7 +348,6 @@ def run(username, rows):
         rows.append(row)
 
     return rows
-
 
 def run_diff(username, rows):
     """
@@ -483,16 +470,20 @@ def run_qual(username, C_HD, C_LD):
         group = 'LD'
         c = C_LD
     
-    for df, phase in zip([df_PRE, df_COND, df_POST], ["PRE", "COND", "POST"]):
+    # for df, phase in zip([df_PRE, df_COND, df_POST], ["PRE", "COND", "POST"]):
+    for df, phase in zip([df_PRE], ["PRE"]):
         # print("##### {} #####".format(phase))
         genres_EM, genres_all = search_EM_genres(df)
         artists_EM, artists_all = search_EM_artists(df, genres_EM)
         if phase == 'PRE':
-            c['PRE'].update(Counter(set(artists_EM)))
+            c['PRE'].update(Counter((artists_EM)))
         elif phase == 'COND':
-            c['COND'].update(Counter(set(artists_EM)))
+            c['COND'].update(Counter((artists_EM)))
         elif phase == 'POST':
-            c['POST'].update(Counter(set(artists_EM)))
+            c['POST'].update(Counter((artists_EM)))
+
+    
+
 
 
 def arg_parser():
@@ -522,10 +513,11 @@ if __name__ == "__main__":
     rows_diff =  []
     C_HD = {'PRE':Counter(), 'COND':Counter(), 'POST':Counter()}
     C_LD = {'PRE':Counter(), 'COND':Counter(), 'POST':Counter()}
+
     if username:
-        rows = run(username, rows)
-        rows_diff = run_diff(username, rows_diff)
-        # run_qual(username, C_HD, C_LD)
+        # rows = run(username, rows)
+        # rows_diff = run_diff(username, rows_diff)
+        run_qual(username, C_HD, C_LD)
 
     elif input_file:
         infile = open(input_file, 'r')
@@ -555,52 +547,129 @@ if __name__ == "__main__":
 
 
 
+    count_HD = sum([C_HD['PRE'], C_HD['COND'], C_HD['POST']], Counter())
+    count_LD = sum([C_LD['PRE'], C_LD['COND'], C_LD['POST']], Counter())
+    counts = sum([count_LD, count_HD], Counter())
 
-    fig, axs = plt.subplots(2,3, sharey=True, sharex=True)
+    # fig, axs = plt.subplots()
+    # wc = WordCloud(background_color="white",
+    #                width=1000,height=1000,
+    #                max_words=50,
+    #                relative_scaling=0.5,
+    #                normalize_plurals=False).generate_from_frequencies(
+    #                counts)
+    # axs.imshow(wc)
+    # plt.show()
 
-    wc = WordCloud(background_color="white",
-                       width=1000,height=1000,
-                       max_words=50,
-                       relative_scaling=0.5,
-                       normalize_plurals=False).generate_from_frequencies(
-                       C_HD["PRE"])#-C_HD["COND"]-C_HD["POST"])
-    axs[0,0].imshow(wc)
-    wc = WordCloud(background_color="white",
-                       width=1000,height=1000,
-                       max_words=50,
-                       relative_scaling=0.5,
-                       normalize_plurals=False).generate_from_frequencies(
-                       C_HD["COND"])#-C_HD["PRE"]-C_HD["POST"])
-    axs[0,1].imshow(wc)
-    wc = WordCloud(background_color="white",
-                       width=1000,height=1000,
-                       max_words=50,
-                       relative_scaling=0.5,
-                       normalize_plurals=False).generate_from_frequencies(
-                       C_HD["POST"])#-C_HD["COND"]-C_HD["PRE"])
-    axs[0,2].imshow(wc)
-    wc = WordCloud(background_color="white",
-                       width=1000,height=1000,
-                       max_words=50,
-                       relative_scaling=0.5,
-                       normalize_plurals=False).generate_from_frequencies(
-                       C_LD["PRE"])#-C_LD["COND"]-C_LD["POST"])
-    axs[1,0].imshow(wc)
-    wc = WordCloud(background_color="white",
-                       width=1000,height=1000,
-                       max_words=50,
-                       relative_scaling=0.5,
-                       normalize_plurals=False).generate_from_frequencies(
-                       C_LD["COND"])#-C_LD["PRE"]-C_LD["POST"])
-    axs[1,1].imshow(wc)
-    wc = WordCloud(background_color="white",
-                       width=1000,height=1000,
-                       max_words=50,
-                       relative_scaling=0.5,
-                       normalize_plurals=False).generate_from_frequencies(
-                       C_LD["POST"])#-C_LD["COND"]-C_LD["PRE"])
-    axs[1,2].imshow(wc)
-    plt.show()
+
+    # map_count = {}
+    # for k,v in counts.items():
+    #     new_k = EM_MAP[k]
+    #     if new_k not in map_count:
+    #         map_count[new_k] = 0
+    #     map_count[new_k] += v
+
+    print(counts)
+    print(sum(counts.values()))
+    # print(map_count)
+
+
+
+
+    # import shifterator as sh
+    # jsd_shift = sh.JSDivergenceShift(type2freq_1=C_HD["PRE"],
+    #                                  type2freq_2=C_LD["PRE"],
+    #                                  weight_1=0.5,
+    #                                  weight_2=0.5,
+    #                                  base=2,
+    #                                  alpha=1.5)
+
+    # jsd_shift.get_shift_graph(system_names = ['HD', 'LD'], top_n=20, title='PRE')
+
+
+    # proportion_shift = sh.ProportionShift(type2freq_1=C_HD["PRE"],
+    #                                       type2freq_2=C_LD["PRE"])
+    # proportion_shift.get_shift_graph(system_names = ['HD.', 'LD'])
+
+    # entropy_shift = sh.EntropyShift(type2freq_1=C_HD["PRE"],
+    #                                 type2freq_2=C_HD["COND"],
+    #                                 base=2)
+    # entropy_shift.get_shift_graph(system_names = ['HD_PRE', 'HD_COND'])
+
+    # entropy_shift = sh.EntropyShift(type2freq_1=C_HD["COND"],
+    #                                 type2freq_2=C_HD["POST"],
+    #                                 base=2)
+    # entropy_shift.get_shift_graph(system_names = ['HD_COND', 'HD_POST'])
+
+    # entropy_shift = sh.EntropyShift(type2freq_1=C_HD["PRE"],
+    #                                 type2freq_2=C_HD["POST"],
+    #                                 base=2)
+    # entropy_shift.get_shift_graph(system_names = ['HD_PRE', 'HD_POST'])
+
+
+    # entropy_shift = sh.EntropyShift(type2freq_1=C_LD["PRE"],
+    #                                 type2freq_2=C_LD["COND"],
+    #                                 base=2)
+    # entropy_shift.get_shift_graph(system_names = ['LD_PRE', 'LD_COND'])
+
+    # entropy_shift = sh.EntropyShift(type2freq_1=C_LD["COND"],
+    #                                 type2freq_2=C_LD["POST"],
+    #                                 base=2)
+    # entropy_shift.get_shift_graph(system_names = ['LD_COND', 'LD_POST'])
+
+
+    # entropy_shift = sh.EntropyShift(type2freq_1=C_LD["PRE"],
+    #                                 type2freq_2=C_LD["POST"],
+    #                                 base=2)
+    # entropy_shift.get_shift_graph(system_names = ['LD_PRE', 'LD_POST'])
+
+
+
+    # fig, axs = plt.subplots(2,3, sharey=True, sharex=True)
+
+    # wc = WordCloud(background_color="white",
+    #                    width=1000,height=1000,
+    #                    max_words=50,
+    #                    relative_scaling=0.5,
+    #                    normalize_plurals=False).generate_from_frequencies(
+    #                    C_HD["PRE"])#-C_HD["COND"]-C_HD["POST"])
+    # axs[0,0].imshow(wc)
+    # wc = WordCloud(background_color="white",
+    #                    width=1000,height=1000,
+    #                    max_words=50,
+    #                    relative_scaling=0.5,
+    #                    normalize_plurals=False).generate_from_frequencies(
+    #                    C_HD["COND"])#-C_HD["PRE"]-C_HD["POST"])
+    # axs[0,1].imshow(wc)
+    # wc = WordCloud(background_color="white",
+    #                    width=1000,height=1000,
+    #                    max_words=50,
+    #                    relative_scaling=0.5,
+    #                    normalize_plurals=False).generate_from_frequencies(
+    #                    C_HD["POST"])#-C_HD["COND"]-C_HD["PRE"])
+    # axs[0,2].imshow(wc)
+    # wc = WordCloud(background_color="white",
+    #                    width=1000,height=1000,
+    #                    max_words=50,
+    #                    relative_scaling=0.5,
+    #                    normalize_plurals=False).generate_from_frequencies(
+    #                    C_LD["PRE"])#-C_LD["COND"]-C_LD["POST"])
+    # axs[1,0].imshow(wc)
+    # wc = WordCloud(background_color="white",
+    #                    width=1000,height=1000,
+    #                    max_words=50,
+    #                    relative_scaling=0.5,
+    #                    normalize_plurals=False).generate_from_frequencies(
+    #                    C_LD["COND"])#-C_LD["PRE"]-C_LD["POST"])
+    # axs[1,1].imshow(wc)
+    # wc = WordCloud(background_color="white",
+    #                    width=1000,height=1000,
+    #                    max_words=50,
+    #                    relative_scaling=0.5,
+    #                    normalize_plurals=False).generate_from_frequencies(
+    #                    C_LD["POST"])#-C_LD["COND"]-C_LD["PRE"])
+    # axs[1,2].imshow(wc)
+    # plt.show()
 
 
     # l1 = (C_HD["PRE"]-C_HD["COND"]-C_HD["POST"]).values()

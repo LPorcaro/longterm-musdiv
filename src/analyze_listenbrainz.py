@@ -12,24 +12,15 @@ from datetime import datetime, timedelta
 from pylistenbrainz.errors import ListenBrainzAPIException
 from collections import Counter
 
+import sys 
+sys.path.insert(0, '../data/input/')
+from lb_logs_genres import EM_MAP, NOT_EM_GENRE
+
 WIKI_GENRES = "../data/input/wikipedia_EM_genres.csv"
 FEAT_DIR = "../data/listenbrainz/feat"
 INFO_DIR = "../data/listenbrainz/info"
 
 end = datetime.strptime("20220502", "%Y%m%d")
-
-NOT_EM_GENRE = ['permanent wave', 'hardcore hip hop', 'funk carioca',
-                'spanish new wave', 'pop electronico', 'electronica argentina',
-                'new wave pop', '5th wave emo', 'metalcore', 'post-post-hardcore',
-                'post-screamo','screamo', 'trancecore', 'canadian post-hardcore',
-                'progressive post-hardcore', 'post-hardcore', 'glitchcore', 
-                'japanese post-hardcore', 'melodic hardcore', 'new wave pop', 
-                'industrial rock', 'new wave of osdm', 'new wave pop', 'new wave',
-                'new wave of speed metal', 'hardcore punk', 'chicago hardcore',
-                'grime', 'hardcore punk espanol', 'wave', 'korean city pop', 
-                'industrial metal', 'electronic rock', 'ambient pop', 'solo wave',
-                'industrial hip hop', 'dark wave', 'ambient folk', 'uk post-hardcore',
-                'australian post-hardcore']
 
 
 def search_EM_genres(df):
@@ -67,7 +58,7 @@ def search_EM_genres(df):
     return genres_EM, genres_all
 
 
-def write_stats(df, outfile, write_stats):
+def write_stats(df, outfile, day, EM_days):
     """
     """
     file = open(outfile, 'a+')
@@ -82,6 +73,7 @@ def write_stats(df, outfile, write_stats):
                 '|'.join(genres_found), regex=True)].track_name.values
             artist_found = df[df.genres.str.contains(
                 '|'.join(genres_found), regex=True)].artist_name.values
+            EM_days += 1
         else:
             track_found = []
             artist_found = []
@@ -99,7 +91,7 @@ def write_stats(df, outfile, write_stats):
         isrc_year_list = [x[5:7] for x in
                           df.ISRC.values if pd.isnull(x) is False]
 
-        file.write("\n\n************ {} ************ \n".format(write_stats))
+        file.write("\n\n************ {} ************ \n".format(day))
         file.write("Electronic artists found: {}\n".format(
             ", ".join(set(artist_found))))
         file.write("Electronic genres found: {}\n".format(
@@ -136,7 +128,7 @@ def write_stats(df, outfile, write_stats):
         file.write("\nFeature statistics\n")
         file.write(df.describe().to_string())
 
-    return track_found, genres_found, artist_found
+    return track_found, genres_found, artist_found, EM_days
 
 
 def analyze_user_temporal(username, temporal_feat):
@@ -196,7 +188,7 @@ def analyze_user_temporal(username, temporal_feat):
 def analyze_logs(username, out_dir):
     """
     """
-    print("User '{}': Analyzing...".format(username))
+    # print("User '{}': Analyzing...".format(username))
 
     INFO_DIR_USER = os.path.join(INFO_DIR, username)
     df_info = pd.DataFrame()
@@ -215,7 +207,7 @@ def analyze_logs(username, out_dir):
     df_feat = df_feat.drop_duplicates(subset="sp_track_id")
 
     if df_info.empty or df_feat.empty:
-        print("User '{}': No listening logs found!".format(username))
+        # print("User '{}': No listening logs found!".format(username))
         return
 
     STATS_DIR = os.path.join(out_dir, username)
@@ -225,11 +217,13 @@ def analyze_logs(username, out_dir):
     (Day, N, EM, A_EM, G_EM, P_mean, P_std, A_mean, A_std,
         D_mean, D_std, I_mean, I_std, T_mean, T_std) = [[] for i in range(15)]
 
-    start = datetime.now()
+    # start = datetime.now()
+    start = datetime.strptime("20220725", "%Y%m%d")
     start_str = start.strftime("%Y-%m-%d")
     outfile = "{}-{}.txt".format(username, start_str)
     outfile = os.path.join(STATS_DIR, outfile)
 
+    EM_days = 0
     while start > end:
         start_str = start.strftime("%Y-%m-%d")
         sp_id = df_info[
@@ -253,10 +247,10 @@ def analyze_logs(username, out_dir):
             I_std.append(0)
             T_mean.append(0)
             T_std.append(0)
-            print("{}: No listening logs found!".format(start_str))
+            # print("{}: No listening logs found!".format(start_str))
         else:
-            track_found, genres_found, artist_found = write_stats(
-                                                        df_merged, outfile, start_str)
+            track_found, genres_found, artist_found, EM_days = write_stats(
+                                                            df_merged, outfile, start_str, EM_days)
             Day.append(start_str)
             N.append(len(df_merged.index))
             EM.append(len(track_found))
@@ -272,8 +266,8 @@ def analyze_logs(username, out_dir):
             I_std.append(df_merged.instrumentalness.std())
             T_mean.append(df_merged.tempo.mean())
             T_std.append(df_merged.tempo.std())
-            print("{}: Analyzed {} listen events".format(
-                start_str, len(df_merged.index)))
+            # print("{}: Analyzed {} listen events".format(
+            #     start_str, len(df_merged.index)))
 
         start -= timedelta(hours=24)
 
@@ -295,9 +289,10 @@ def analyze_logs(username, out_dir):
                      D_mean, D_std, I_mean, I_std, T_mean, T_std)
 
     # analyze_user_temporal(username, temporal_feat)
-    print("Unique Electronic Music Artists: {}".format(len(set(A_EM))))
-    print("Unique Electronic Music Genres: {}".format(len(set(G_EM))))
-
+    # print("Unique Electronic Music Artists: {}".format(len(set(A_EM))))
+    # print("Unique Electronic Music Genres: {}".format(len(set(G_EM))))
+    # print("Days listening to EM: {}/84".format(EM_days))
+    print(username, EM_days)
 
 def arg_parser():
     """

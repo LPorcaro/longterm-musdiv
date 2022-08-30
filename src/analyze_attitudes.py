@@ -8,6 +8,7 @@ import numpy as np
 import pingouin as pg
 import plot_likert as pl
 
+from corrstats import independent_corr
 from sklearn.metrics import cohen_kappa_score
 from scipy.stats import pearsonr,spearmanr
 from tabulate import tabulate
@@ -22,8 +23,8 @@ CONTEXTS_a = ["Relaxing", "Sleeping", "Studying", "Working"]
 CONTEXTS_b = ["Commuting", "Partying", "Running", "Shopping"]
 TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
 ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
-ROUNDS =  ["00", "01", "02", "03", "04",]# "10"]
-ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4"]#, "Post"]
+ROUNDS =  ["00", "01", "02", "03", "04", "10"]
+ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4", "Post"]
 GROUPS = ["HD", "LD"]
 SESSION1 = [str(x).zfill(2) for x in range(1,6)]
 SESSION2 = [str(x).zfill(2) for x in range(6,11)]
@@ -363,8 +364,7 @@ def plot_cntx(df):
     # plt.suptitle("Which characteristics do you associate Electronic Music artists?")
     # plt.show()
 
-    from corrstats import independent_corr
-
+    
     # INTRA-RATER CORRELATION
     for feat in [CONTEXTS_a, CONTEXTS_b, TRACK_FEATS, ARTIST_FEATS]:
         print()
@@ -571,6 +571,7 @@ def plot_correlation(df):
     """
     # Compute correlation matrices
     for att in ['d_score', 'o_score']:
+        CorrMatrixs = []
         for group in GROUPS:
             df_join_att_g = df[df.group == group]
             CorrMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
@@ -602,10 +603,24 @@ def plot_correlation(df):
                         s /= (len(df_join_att_g.PROLIFIC_PID.unique()) - 1)
 
                     CorrMatrix[c1,c2] = CorrMatrix[c2, c1] = s
+
             
             print(group, att)
             print(tabulate(CorrMatrix, headers=ROUNDS_LAB, tablefmt="github"))
+            CorrMatrixs.append(CorrMatrix)
 
+        CorrDiffMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
+        for r1,_ in enumerate(ROUNDS):
+            for r2,_ in enumerate(ROUNDS):
+                    if r1 == r2:
+                        CorrDiffMatrix[r1,r2] = 1
+                    elif r1 > r2:
+                        continue
+                    else:
+                        z, p = independent_corr(CorrMatrixs[0][r1,r2], CorrMatrixs[1][r1,r2], 47,51)
+                        CorrDiffMatrix[r1,r2] = CorrDiffMatrix[r2, r1] = p
+        print('Fisher Corr')
+        print(tabulate(np.triu(CorrDiffMatrix, k=1), headers=ROUNDS_LAB, tablefmt="github"))
 
     # Plot D-score
     fig, axs = plt.subplots(len(ROUNDS),len(ROUNDS),sharey=True,sharex=True)
@@ -743,6 +758,43 @@ def plot_ls(df):
     plt.show()    
 
 
+def import_whitelist(list_type):
+    """
+    """
+    whitelist_pid = []
+    whitelist_uname = []
+    
+    if list_type == 'full':
+        infile = "../data/PID_full.csv"
+    elif list_type == 'inc':
+        infile = "../data/PID_inc.csv"
+    else:
+        return whitelist_id, whitelist_uname
+
+    with open(infile, 'r') as inf:   
+        _reader = csv.reader(inf, delimiter='\t')
+        for row in _reader:
+            whitelist_pid.append(row[1])
+            whitelist_uname.append(row[0])
+
+    return whitelist_pid, whitelist_uname
+
+
+def filter_dataframe(df, list_type, list_ent):
+    """
+    """
+    print("Original Dataframe Shape: {}".format(df.shape))
+    wlist_id, wlist_uname = import_whitelist(list_type)
+    if list_ent == 'pid':
+        df = df[df.PROLIFIC_PID.isin(wlist_id)]
+        print("Filtered Dataframe Shape: {}".format(df.shape))
+    elif list_ent == 'uname':
+        df = df[df.username.isin(wlist_uname)]
+        print("Filtered Dataframe Shape: {}".format(df.shape))        
+    return df
+
+
+
 if __name__ == "__main__":
 
     df_join_att = import_data("scores")
@@ -751,10 +803,11 @@ if __name__ == "__main__":
     df_join_ls = import_ls_data()
     df_join_ls = scale_ls_data(df_join_ls)
 
-
+    df_join_att = filter_dataframe(df_join_att, 'inc', 'pid')
+    
     # plot_scores(df_join_att)
-    # plot_correlation(df_join_att)
-    plot_cntx(df_join_cntx)
+    plot_correlation(df_join_att)
+    # plot_cntx(df_join_cntx)
     # plot_mixed(df_join_att, df_join_ls)
     # plot_ls(df_join_ls)
     
