@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+import csv
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -261,23 +262,23 @@ def plot_cntx(df):
                 box.set_facecolor(colors[i])
         plt.suptitle("In which contexts would you listen to Electronic Music?")
     plt.show()
-    # # Plot Context Likert
-    # fig, axs = plt.subplots(2, len(ROUNDS), sharey=True,  sharex=True)
-    # for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
-    #     for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
-    #         df_cut = df[(df.att_round == att_round) & (df.group == group)][CONTEXTS]
-    #         pl.plot_likert(df_cut, [1,2,3,4,5], 
-    #                         plot_percentage=True,
-    #                         bar_labels=True, 
-    #                         bar_labels_color="snow", 
-    #                         colors=col, 
-    #                         ax=axs[x1,x2])
+    # Plot Context Likert
+    fig, axs = plt.subplots(2, len(ROUNDS), sharey=True,  sharex=True)
+    for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
+        for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
+            df_cut = df[(df.att_round == att_round) & (df.group == group)][CONTEXTS]
+            pl.plot_likert(df_cut, [1,2,3,4,5], 
+                            plot_percentage=True,
+                            bar_labels=True, 
+                            bar_labels_color="snow", 
+                            colors=col, 
+                            ax=axs[x1,x2])
 
-    #         axs[x1,x2].get_legend().remove()
-    #         axs[x1,x2].set_xlabel(att_round_l)
+            axs[x1,x2].get_legend().remove()
+            axs[x1,x2].set_xlabel(att_round_l)
 
-    # plt.suptitle("In which contexts would you listen to Electronic Music?")
-    # plt.show()
+    plt.suptitle("In which contexts would you listen to Electronic Music?")
+    plt.show()
 
 
     # Plot Tracks Boxplots
@@ -302,23 +303,23 @@ def plot_cntx(df):
                 box.set_facecolor(colors[i])
         plt.suptitle("Which features do you associate Electronic Music?")
     plt.show()
-    # # Plot Tracks Likert
-    # fig, axs = plt.subplots(2,len(ROUNDS), sharey=True,  sharex=True)
-    # for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
-    #     for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
-    #         df_cut = df[(df.att_round == att_round) & (df.group == group)][TRACK_FEATS]
-    #         pl.plot_likert(df_cut, [1,2,3,4,5], 
-    #                         plot_percentage=True,
-    #                         bar_labels=True, 
-    #                         bar_labels_color="snow", 
-    #                         colors=col, 
-    #                         ax=axs[x1,x2])
+    # Plot Tracks Likert
+    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True,  sharex=True)
+    for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
+        for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
+            df_cut = df[(df.att_round == att_round) & (df.group == group)][TRACK_FEATS]
+            pl.plot_likert(df_cut, [1,2,3,4,5], 
+                            plot_percentage=True,
+                            bar_labels=True, 
+                            bar_labels_color="snow", 
+                            colors=col, 
+                            ax=axs[x1,x2])
 
-    #         axs[x1,x2].get_legend().remove()
-    #         axs[x1,x2].set_xlabel(att_round_l)
+            axs[x1,x2].get_legend().remove()
+            axs[x1,x2].set_xlabel(att_round_l)
 
-    # plt.suptitle("Which features do you associate Electronic Music?")
-    # plt.show()
+    plt.suptitle("Which features do you associate Electronic Music?")
+    plt.show()
 
 
     # Plot Artists Boxplots
@@ -346,23 +347,23 @@ def plot_cntx(df):
                 box.set_facecolor(colors[i])
         plt.suptitle("Which characteristics do you associate Electronic Music artists?")
     plt.show()
-    # # Plot Artists Likert
-    # fig, axs = plt.subplots(2,len(ROUNDS), sharey=True, sharex=True)
-    # for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
-    #     for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
-    #         df_cut = df[(df.att_round == att_round) & (df.group == group)][ARTIST_FEATS]
-    #         pl.plot_likert(df_cut, [1,2,3,4,5], 
-    #                         plot_percentage=True,
-    #                         bar_labels=True, 
-    #                         bar_labels_color="snow", 
-    #                         colors=col, 
-    #                         ax=axs[x1,x2])
+    # Plot Artists Likert
+    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True, sharex=True)
+    for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
+        for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
+            df_cut = df[(df.att_round == att_round) & (df.group == group)][ARTIST_FEATS]
+            pl.plot_likert(df_cut, [1,2,3,4,5], 
+                            plot_percentage=True,
+                            bar_labels=True, 
+                            bar_labels_color="snow", 
+                            colors=col, 
+                            ax=axs[x1,x2])
 
-    #         axs[x1,x2].get_legend().remove()
-    #         axs[x1,x2].set_xlabel(att_round_l)
+            axs[x1,x2].get_legend().remove()
+            axs[x1,x2].set_xlabel(att_round_l)
 
-    # plt.suptitle("Which characteristics do you associate Electronic Music artists?")
-    # plt.show()
+    plt.suptitle("Which characteristics do you associate Electronic Music artists?")
+    plt.show()
 
     
     # INTRA-RATER CORRELATION
@@ -806,8 +807,8 @@ if __name__ == "__main__":
     df_join_att = filter_dataframe(df_join_att, 'inc', 'pid')
     
     # plot_scores(df_join_att)
-    plot_correlation(df_join_att)
-    # plot_cntx(df_join_cntx)
+    # plot_correlation(df_join_att)
+    plot_cntx(df_join_cntx)
     # plot_mixed(df_join_att, df_join_ls)
     # plot_ls(df_join_ls)
     

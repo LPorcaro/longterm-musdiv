@@ -8,7 +8,10 @@ import plotly.express as px
 import matplotlib.pyplot as plt 
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
+import pingouin as pg
+
 from statsmodels.tools.tools import add_constant
+from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 from pingouin import ancova
 
@@ -24,12 +27,12 @@ GROUPS = ["HD", "LD"]
 
 COLS = ["username", "group", "phase"]
 
-# COLS_VAR = ["EM_genres_unique_p", "EM_genres_count_p",
-#             "EM_artists_unique_p", "EM_artists_count_p",
-#             "EM_tracks_unique_p", "EM_tracks_count_p"]
+COLS_VAR = ["EM_genres_unique_p", "EM_genres_count_p",
+            "EM_artists_unique_p", "EM_artists_count_p",
+            "EM_tracks_unique_p", "EM_tracks_count_p"]
 
-COLS_VAR = ["gini_genres", "gini_artists", "gini_tracks",
-        "gini_EM_genres","gini_EM_artists","gini_EM_tracks"]
+# COLS_VAR = ["gini_genres", "gini_artists", "gini_tracks",
+#         "gini_EM_genres","gini_EM_artists","gini_EM_tracks"]
 
 # COLS_VAR = ["genres_unique","artists_unique","tracks_unique",
 #         "EM_genres_unique", "EM_artists_unique", "EM_tracks_unique"]
@@ -134,7 +137,6 @@ def pre_post_analysis_logs():
     df = pd.read_csv(INFILE_1)
     df = df[COLS + COLS_VAR]
     df = filter_dataframe(df, 'inc', 'uname')
-    # PRE-POST ANALYSIS ANCOVA
     df_merge = df[df.phase == 'PRE'].merge(df[df.phase == 'POST'], on=('username', 'group'))
 
     df_merge['group'].mask(df_merge['group'] == 'LD', 0, inplace=True)
@@ -143,131 +145,165 @@ def pre_post_analysis_logs():
     df_merge.dropna(inplace=True)
 
     for col in COLS_VAR:
-        print("\n\nPre-post: {}".format(col))
-        dv = col + "_y"
-        covar = col + "_x"
+
+        print("\n\nPre-post Follow-up: {}".format(col))
+        y = col + "_y"
+        x = col + "_x"
+        df_merge['diff'] = df_merge[y]
+        dv = 'diff'
         between = "group"
 
-        formula = "{} ~ C({}) + {}".format(dv, between, covar)
+        formula = "{} ~ C({})".format(dv, between)
         model = smf.ols(formula, data=df_merge).fit()
         print(model.summary())
-        print(ancova(data=df_merge, dv=dv, covar=covar, between=between))
 
-        # # Plot
-        # fig, ax = plt.subplots()
-        # x_LD = df_merge[(df_merge.group == 0)][dv]
-        # y_LD = df_merge[(df_merge.group == 0)][covar]
-        # x_HD = df_merge[(df_merge.group == 1)][dv]
-        # y_HD = df_merge[(df_merge.group == 1)][covar]
+        print("\n\nPre-post Change Analysis: {}".format(col))
+        y = col + "_y"
+        x = col + "_x"
+        df_merge['diff'] = df_merge[y] - df_merge[x]
+        dv = 'diff'
+        between = "group"
 
-        # frg = 2
+        formula = "{} ~ C({})".format(dv, between)
+        model = smf.ols(formula, data=df_merge).fit()
+        print(model.summary())
 
-        # ax.scatter(x_LD, y_LD, color='r', marker='x', label='LD')
-        # ax.scatter(x_HD, y_HD, color='g', marker='x', label='HD')
-        # a, b = np.polyfit(x_LD, y_LD, 1)
-        # ax.plot(np.arange(frg), a*np.arange(frg)+b,color='r', linestyle='--')  
-        # a, b = np.polyfit(x_HD, y_HD, 1)
-        # ax.plot(np.arange(frg)-0.3, a*np.arange(frg)+b,color='g', linestyle='--') 
-
-        # ax.set_xlabel(dv, fontsize = fsize)
-        # ax.set_ylabel(covar, fontsize = fsize)
-        # ax.set_title('', fontsize = fsize)
-        # plt.legend(fontsize = fsize)
-        # plt.grid()
-        # plt.show() 
 
 def pre_post_analysis_att():
     """
     """
-    df = pd.read_csv(INFILE_1)
-    df = df[COLS + COLS_VAR]
-
-    # PRE-POST ANALYSIS ANCOVA
     df_merge = df_join_att[df_join_att.att_round == "00"].merge(df_join_att[df_join_att.att_round == "10"], on=('PROLIFIC_PID', 'group'))
     df_merge['group'].mask(df_merge['group'] == 'LD', 0, inplace=True)
     df_merge['group'].mask(df_merge['group'] == 'HD', 1, inplace=True)
 
-    for frg, col in zip([2,6],['d_score', 'o_score']):
-        print("\n\nPre-post: {}".format(col))
-        dv = col + "_y"
-        covar = col + "_x"
+    # PRE-POST ANALYSIS ANCOVA
+    for col in ['d_score', 'o_score']:
+
+        print("\n\nPre-post Follow-up: {}".format(col))
+        y = col + "_y"
+        x = col + "_x"
+        df_merge['diff'] = df_merge[y]
+        dv = 'diff'
         between = "group"
 
-        formula = "{} ~ C({}) + {}".format(dv, between, covar)
+        formula = "{} ~ C({})".format(dv, between)
         model = smf.ols(formula, data=df_merge).fit()
-        # print(model.summary())
-        print(ancova(data=df_merge, dv=dv, covar=covar, between=between))
+        print(model.summary())
 
+        print("\n\nPre-post Change Analysis: {}".format(col))
+        y = col + "_y"
+        x = col + "_x"
+        df_merge['diff'] = df_merge[y] - df_merge[x]
+        dv = 'diff'
+        between = "group"
 
-        # fig, ax = plt.subplots()
-        # x_LD = df_merge[(df_merge.group == 0)][covar]
-        # y_LD = df_merge[(df_merge.group == 0)][dv]
-        # x_HD = df_merge[(df_merge.group == 1)][covar]
-        # y_HD = df_merge[(df_merge.group == 1)][dv]
+        formula = "{} ~ C({})".format(dv, between)
+        model = smf.ols(formula, data=df_merge).fit()
+        print(model.summary())
 
-        # ax.scatter(x_LD, y_LD, color='r', marker='x', label='LD')
-        # ax.scatter(x_HD, y_HD, color='g', marker='x', label='HD')
-        # a, b = np.polyfit(x_LD, y_LD, 1)
-        # ax.plot(np.arange(frg), a*np.arange(frg)+b,color='r', linestyle='--')  
-        # a, b = np.polyfit(x_HD, y_HD, 1)
-        # ax.plot(np.arange(frg)-0.3, a*np.arange(frg)+b,color='g', linestyle='--') 
-
-        # ax.set_xlabel(covar, fontsize = fsize)
-        # ax.set_ylabel(dv, fontsize = fsize)
-        # ax.set_title('', fontsize = fsize)
-        # plt.legend(fontsize = fsize)
-        # plt.grid()
-        # plt.show() 
 
 
 if __name__ == "__main__":
 
 
-
-
+    # Import data
     df_join_att = import_data("scores")
     df_join_att.d_score = - df_join_att.d_score
+    df_join_att = filter_dataframe(df_join_att, 'inc', 'pid')
 
-    df_join_att = filter_dataframe(df_join_att, 'full', 'pid')
-    pre_post_analysis_att()
+    df_join_cntx = import_data("cntx")
+    df_join_ls = import_ls_data()
+    df_join_ls = scale_ls_data(df_join_ls)
 
 
-    # df_join_cntx = import_data("cntx")
-    # df_join_ls = import_ls_data()
-    # df_join_ls = scale_ls_data(df_join_ls)
+    # Format data
+    df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 1, inplace=True)
+    df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 2, inplace=True)
+    df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 3, inplace=True)
+    df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 4, inplace=True)
+    df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 5, inplace=True)
+    df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 6, inplace=True)
 
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 0, 0, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 1, 0, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 2, 0, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 3, 1, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 4, 1, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 5, 1, inplace=True)
+
+    df_join_att['group'].mask(df_join_att['group'] == 'LD', 0, inplace=True)
+    df_join_att['group'].mask(df_join_att['group'] == 'HD', 1, inplace=True)
+
+
+    ### Pre-Post analysis
     # pre_post_analysis_logs()
-
-    
-
+    # pre_post_analysis_att()
 
 
+    ### Gaussian -- Exchangeable 
+    exc = sm.cov_struct.Exchangeable()
+    mod1 = smf.gee("d_score ~ 0 + att_round + group + group * att_round",
+                   "PROLIFIC_PID",
+                   data=df_join_att, 
+                   cov_struct=exc)
+    res1 = mod1.fit()
+    print(res1.summary())
+
+    ### Ordinal -- Exchangeable
+    model = smf.ordinal_gee("o_score ~ 0 + att_round + group + group * att_round",
+                            "PROLIFIC_PID",
+                            data=df_join_att, 
+                            cov_struct=exc)
+    result = model.fit()
+    print(result.summary())
+
+
+    ############################
 
 
 
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 0, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 1, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 1, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 1, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 1, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 1, inplace=True)
-    # df_join_att['group'].mask(df_join_att['group'] == 'LD', 0, inplace=True)
-    # df_join_att['group'].mask(df_join_att['group'] == 'HD', 1, inplace=True)
+
     # df_join_att['att_round'] = df_join_att['att_round'].astype(float)
     # df_join_att['group'] = df_join_att['group'].astype(float)
     # df_join_att['o_score'] = df_join_att['o_score'].astype(float)
 
 
+    # md = smf.mixedlm("d_score ~ group + group * att_round", df_join_att, groups="group")
+    # mdf = md.fit()
+    # print(mdf.summary())
+
     # fam = sm.families.Gaussian()
-    # ind = sm.cov_struct.Autoregressive()
-    # mod = smf.gee("d_score ~ att_round + group + group * att_round", "PROLIFIC_PID", df_join_att,
+    # ind = sm.cov_struct.Exchangeable()
+    # mod = smf.gee("d_score ~ group + group * att_round", "PROLIFIC_PID", df_join_att,
+    #               cov_struct=ind, family=fam)
+    # res = mod.fit()
+    # print(res.summary())
+
+    # re = mdf.random_effects
+    # # Multiply each BLUP by the random effects design matrix for one group
+    # rex = [np.dot(md.exog_re_li[j], re[k]) for (j, k) in enumerate(md.group_labels)]
+    # # Add the fixed and random terms to get the overall prediction
+    # rex = np.concatenate(rex)
+    # yp = mdf.fittedvalues + rex
+
+
+    # md = smf.mixedlm("o_score ~ att_round + group + group * att_round", df_join_att, groups=df_join_att["group"])
+    # mdf = md.fit()
+    # print(mdf.summary())
+
+    # fam = sm.families.Gaussian()
+    # ind = sm.cov_struct.Exchangeable()
+    # mod = smf.gee("d_score ~ group + group * att_round", "PROLIFIC_PID", df_join_att,
     #               cov_struct=ind, family=fam)
     # res = mod.fit()
     # print(res.summary())
 
 
+
+
+
     # fam = sm.families.Binomial()
-    # ind = sm.cov_struct.Exchangeable()
+    # ind = sm.cov_struct.Autoregressive()
     # mod = smf.ordinal_gee("o_score ~ 0 + att_round + group + group * att_round", "PROLIFIC_PID", df_join_att,
     #                       cov_struct=ind, family=fam)
     # res = mod.fit()
@@ -275,3 +311,33 @@ if __name__ == "__main__":
 
 
 
+
+    # ### Autoregressive 
+    # fam = sm.families.Gaussian()
+    # ind = sm.cov_struct.Autoregressive()
+    # times = (df_join_att['att_round'].values)
+    # mod = smf.gee("d_score ~ 0 + att_round + group + group * att_round", "PROLIFIC_PID", df_join_att,
+    #               cov_struct=ind, family=fam, time=times)
+    # res = mod.fit()
+    # print(res.summary())
+
+    # ### Ordinal -- OddsRatio
+    # gor = sm.cov_struct.GlobalOddsRatio("ordinal")
+    # model = smf.ordinal_gee("o_score ~ 0 + att_round + group + group * att_round", df_join_att["group"], df_join_att,
+    #                             cov_struct=gor)
+    # result = model.fit()
+    # print(result.summary())
+
+
+    # ### Gaussian -- Exchangeable 
+    # fam = sm.families.Gaussian()
+    # ind = sm.cov_struct.Exchangeable()
+    # times = (df_join_att['att_round'].values)
+    # mod2 = smf.gee("o_score ~ 0 + att_round + group + group * att_round",
+    #               "PROLIFIC_PID",
+    #               data=df_join_att,
+    #               family=fam,
+    #               cov_struct=ind, 
+    #               time=times)
+    # res2 = mod2.fit()
+    # print(res2.summary())
