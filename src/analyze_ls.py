@@ -10,6 +10,7 @@ import plotly.express as px
 import scipy.stats as stats
 
 from scipy.interpolate import UnivariateSpline
+from pingouin import ttest, wilcoxon, mwu
 
 ATT_FOLDER = "../data/attitudes"
 LS_FOLDER = "../data/ls"
@@ -122,6 +123,17 @@ def filter_dataframe(df, list_type, list_ent):
     return df
 
 
+def test_significance(l1, l2):
+    """
+    """
+    print(np.median(l1), np.std(l1))
+    print(np.median(l2), np.std(l2))
+    print(mwu(l1, l2, alternative='less'))
+    print()
+    
+
+
+
 
 if __name__ == "__main__":
 
@@ -139,10 +151,10 @@ if __name__ == "__main__":
     p_LD = df_join_ls_LD.groupby('session').playlist.sum().tolist()
 
     fig, ax = plt.subplots()
-    ax.bar(np.arange(20), p_HD, width=0.3, label='HD', alpha=0.5, color='r')
-    ax.bar(np.arange(20)-0.3, p_LD, width=0.3, label='LD', alpha=0.5, color='g')
-    ax.scatter(np.arange(20), YT_HD, color='r', marker='x', label='YT playlist views (HD)')
-    ax.scatter(np.arange(20)-0.3, YT_LD, color='g', marker='x', label='YT playlist views (LD)')
+    ax.bar(np.arange(20), p_HD, width=0.3, label='HD', alpha=0.4, color='r')
+    ax.bar(np.arange(20)-0.3, p_LD, width=0.3, label='LD', hatch="-", alpha=0.4, color='g')
+    ax.scatter(np.arange(20), YT_HD, color='r', marker='>', facecolors='none', s=50, label='Playlist Interaction (HD)')
+    ax.scatter(np.arange(20)-0.3, YT_LD, color='g', marker='x', s=50, label='Playlist Interaction (LD)')
 
     a, b = np.polyfit(np.arange(20), p_HD, 1)
     ax.plot(np.arange(20), a*np.arange(20)+b,color='r', linestyle='--')  
@@ -152,26 +164,18 @@ if __name__ == "__main__":
     ax.set_xticklabels(np.arange(1,21), fontsize = fsize)
     ax.set_xticks(np.arange(20)-0.15)
     ax.set_xlabel('Session', fontsize = fsize)
-    ax.set_ylabel('Sum of participants playlists access', fontsize = fsize)
-    ax.set_title('Playlist Access VS YouTube Views', fontsize = fsize)
+    ax.set_ylabel('Sum of Playlists Access', fontsize = fsize)
+    # ax.set_title('Playlist Access VS Playlist Interaction', fontsize = fsize)
     plt.legend(fontsize = fsize)
     plt.grid()
     plt.show()
 
     # T-test
-    print(np.mean(p_HD), np.std(p_HD))
-    print(np.mean(p_LD), np.std(p_LD))
-    print(stats.ttest_ind(p_HD, p_LD))
-
-    print(np.mean(YT_HD), np.std(YT_HD))
-    print(np.mean(YT_LD), np.std(YT_LD))
-    print(stats.ttest_ind(YT_HD, YT_LD))
-
+    test_significance(p_HD, p_LD) #1
+    test_significance(YT_HD, YT_LD) #2 
     d_HD = [x-y for x,y in zip(p_HD,YT_HD)]
     d_LD = [x-y for x,y in zip(p_LD,YT_LD)]
-    print(np.mean(d_HD), np.std(d_HD))
-    print(np.mean(d_LD), np.std(d_LD))
-    print(stats.ttest_ind(d_HD, d_LD))
+    test_significance(d_HD, d_LD) #3 
 
     print(stats.pearsonr(p_HD, YT_HD))
     print(stats.pearsonr(p_LD, YT_LD))
@@ -182,10 +186,10 @@ if __name__ == "__main__":
     l_LD = df_join_ls_LD.groupby('session').like.sum().tolist()
 
     fig, ax = plt.subplots()
-    ax.bar(np.arange(20), l_HD, width=0.3, label='HD', alpha=0.5, color='r')
-    ax.bar(np.arange(20)-0.3, l_LD, width=0.3, label='LD', alpha=0.5, color='g')
-    ax.scatter(np.arange(20), YT_HD, color='r', marker='x', label='YT playlist views (HD)')
-    ax.scatter(np.arange(20)-0.3, YT_LD, color='g', marker='x', label='YT playlist views (LD)')
+    ax.bar(np.arange(20), l_HD, width=0.3, label='HD', alpha=0.4, color='r')
+    ax.bar(np.arange(20)-0.3, l_LD, width=0.3, label='LD',hatch="-", alpha=0.4, color='g')
+    ax.scatter(np.arange(20), YT_HD, color='r', marker='>', facecolors='none', s=50, label='Playlist Interaction (HD)')
+    ax.scatter(np.arange(20)-0.3, YT_LD, color='g', marker='x',s=50, label='Playlist Interaction (LD)')
 
     a, b = np.polyfit(np.arange(20), l_HD, 1)
     ax.plot(np.arange(20), a*np.arange(20)+b,color='r', linestyle='--')  
@@ -194,20 +198,18 @@ if __name__ == "__main__":
 
     ax.set_xticklabels(np.arange(1,21), fontsize = fsize)
     ax.set_xticks(np.arange(20)-0.15)
-    ax.set_ylabel('Sum of like ratings', fontsize = fsize)
+    ax.set_ylabel('Sum of Like Ratings', fontsize = fsize)
     ax.set_xlabel('Session', fontsize = fsize)
-    ax.set_title('Like Ratings VS YouTube Views', fontsize = fsize)
+    # ax.set_title('Like Ratings VS Playlist Interaction', fontsize = fsize)
     plt.legend(fontsize = fsize)
     plt.grid()
     plt.show()
 
     # T-test
-    print(np.mean(l_HD), np.std(l_HD))
-    print(np.mean(l_LD), np.std(l_LD))
-    print(stats.ttest_ind(l_HD, l_LD))  
+    test_significance(l_HD, l_LD) #4 
 
     print(stats.pearsonr(l_HD, p_HD))
-    print(stats.pearsonr(l_LD, p_LD))
+    print(stats.pearsonr(l_LD, p_LD)) 
 
 
     # Like Ratings VS Playlist Access
@@ -232,56 +234,50 @@ if __name__ == "__main__":
     fig, ax = plt.subplots()
     ax.bar(np.arange(20), HD_like_sum_p, width=0.3, label='HD, playlist', alpha=0.5, color='r')
     ax.bar(np.arange(20), HD_like_sum_n, width=0.3, label='HD, no playlist', alpha=0.7, color='r', bottom=HD_bottom)
-    ax.bar(np.arange(20)-0.3, LD_like_sum_p, width=0.3, label='LD, playlist', alpha=0.5, color='g')
-    ax.bar(np.arange(20)-0.3, LD_like_sum_n, width=0.3, label='LD, no playlist', alpha=0.7, color='g', bottom=LD_bottom)
+    ax.bar(np.arange(20)-0.3, LD_like_sum_p, width=0.3, label='LD, playlist', alpha=0.5,hatch="-", color='g')
+    ax.bar(np.arange(20)-0.3, LD_like_sum_n, width=0.3, label='LD, no playlist', alpha=0.7,hatch="-", color='g', bottom=LD_bottom)
     ax.set_xticklabels(np.arange(1,21), fontsize = fsize)
     ax.set_xticks(np.arange(20)-0.15)
     ax.set_ylabel('Sum of Like Ratings', fontsize = fsize)
     ax.set_xlabel('Session', fontsize = fsize)
-    ax.set_title('Like Ratings VS Playlist Access', fontsize = fsize)
+    # ax.set_title('Like Ratings VS Playlist Access', fontsize = fsize)
     plt.legend(fontsize = fsize)
     plt.grid()
     plt.show()
 
 
     # T-test
-    print(np.mean(HD_like_sum_p), np.std(HD_like_sum_p))
-    print(np.mean(LD_like_sum_p), np.std(LD_like_sum_p))
-    print(stats.ttest_ind(HD_like_sum_p, LD_like_sum_p))  
-
-    print(np.mean(HD_like_sum_n), np.std(HD_like_sum_n))
-    print(np.mean(LD_like_sum_n), np.std(LD_like_sum_n))
-    print(stats.ttest_ind(HD_like_sum_n, LD_like_sum_n))  
+    test_significance(HD_like_sum_p, LD_like_sum_p) #5 
+    test_significance(HD_like_sum_n, LD_like_sum_n) #6 
 
     
 
-    # Familiarity VS Playlist Interactions
+    # Familiarity 
     fig, ax = plt.subplots()
 
     f_HD = df_join_ls_HD.groupby('session').familiarity.sum().tolist()
     f_LD = df_join_ls_LD.groupby('session').familiarity.sum().tolist()
 
     ax.bar(np.arange(20), f_HD, width=0.3, label='HD', alpha=0.5, color='r')
-    ax.bar(np.arange(20)-0.3, f_LD , width=0.3, label='LD', alpha=0.5, color='g')
+    ax.bar(np.arange(20)-0.3, f_LD , width=0.3, label='LD', alpha=0.5, hatch="-", color='g')
 
 
-    a, b = np.polyfit(np.arange(20), f_HD, 1)
-    ax.plot(np.arange(20), a*np.arange(20)+b,color='r', linestyle='--')  
-    a, b = np.polyfit(np.arange(20), f_LD, 1)
-    ax.plot(np.arange(20)-0.3, a*np.arange(20)+b,color='g', linestyle='--')  
+    # a, b = np.polyfit(np.arange(20), f_HD, 1)
+    # ax.plot(np.arange(20), a*np.arange(20)+b,color='r', linestyle='--')  
+    # a, b = np.polyfit(np.arange(20), f_LD, 1)
+    # ax.plot(np.arange(20)-0.3, a*np.arange(20)+b,color='g', linestyle='--')  
     
     ax.set_xticklabels(np.arange(1,21))
     ax.set_xticks(np.arange(20)-0.15)
-    ax.set_ylabel('Sum of familiarity ratings', fontsize = fsize)
+    ax.set_ylabel('Sum of Familiarity Ratings', fontsize = fsize)
     ax.set_xlabel('Session', fontsize = fsize)
-    ax.set_title('Familiarity', fontsize = fsize)
+    # ax.set_title('Familiarity', fontsize = fsize)
     plt.legend(fontsize = fsize)
     plt.grid()
     plt.show()
 
-    print(np.mean(f_HD), np.std(f_HD))
-    print(np.mean(f_LD), np.std(f_LD))
-    print(stats.ttest_ind(f_HD, f_LD))  
+    test_significance(f_HD, f_LD) #7
+
 
     print(stats.pearsonr(l_HD, f_HD))
     print(stats.pearsonr(l_LD, f_LD))
@@ -310,13 +306,13 @@ if __name__ == "__main__":
     fig, ax = plt.subplots()
     ax.bar(np.arange(20), HD_like_sum_p, width=0.3, label='HD, like', alpha=0.5, color='r')
     ax.bar(np.arange(20), HD_like_sum_n, width=0.3, label='HD, dislike', alpha=0.7, color='r', bottom=HD_bottom)
-    ax.bar(np.arange(20)-0.3, LD_like_sum_p, width=0.3, label='LD, like', alpha=0.5, color='g')
-    ax.bar(np.arange(20)-0.3, LD_like_sum_n, width=0.3, label='LD, dislike', alpha=0.7, color='g', bottom=LD_bottom)
+    ax.bar(np.arange(20)-0.3, LD_like_sum_p, width=0.3, label='LD, like', alpha=0.5,hatch="-", color='g')
+    ax.bar(np.arange(20)-0.3, LD_like_sum_n, width=0.3, label='LD, dislike', alpha=0.7,hatch="-", color='g', bottom=LD_bottom)
     ax.set_xticklabels(np.arange(1,21))
     ax.set_xticks(np.arange(20)-0.15)
-    ax.set_ylabel('Sum of familiarity ratings', fontsize = fsize)
+    ax.set_ylabel('Sum of Familiarity Ratings', fontsize = fsize)
     ax.set_xlabel('Session', fontsize = fsize)
-    ax.set_title('Familiarity VS Like Ratings', fontsize = fsize)
+    # ax.set_title('Familiarity VS Like Ratings', fontsize = fsize)
     plt.legend(fontsize = fsize)
     plt.grid()
     plt.show()
@@ -324,10 +320,5 @@ if __name__ == "__main__":
 
 
     # T-test
-    print(np.mean(HD_like_sum_p), np.std(HD_like_sum_p))
-    print(np.mean(LD_like_sum_p), np.std(LD_like_sum_p))
-    print(stats.ttest_ind(HD_like_sum_p, LD_like_sum_p))  
-
-    print(np.mean(HD_like_sum_n), np.std(HD_like_sum_n))
-    print(np.mean(LD_like_sum_n), np.std(LD_like_sum_n))
-    print(stats.ttest_ind(HD_like_sum_n, LD_like_sum_n))  
+    test_significance(HD_like_sum_p, LD_like_sum_p) #8
+    test_significance(HD_like_sum_n, LD_like_sum_n) #9

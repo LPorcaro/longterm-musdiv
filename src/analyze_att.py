@@ -10,6 +10,9 @@ import plotly.figure_factory as ff
 import matplotlib.pylab as pl
 import csv
 
+import matplotlib
+matplotlib.rcParams.update({'font.size': 20})
+
 from corrstats import independent_corr
 from collections import Counter
 from itertools import chain
@@ -32,7 +35,7 @@ CONTEXTS_b = ["Commuting", "Partying", "Running", "Shopping"]
 TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
 ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
 ROUNDS =  ["00", "01", "02", "03", "04", "10"]
-ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4", "Post"]
+ROUNDS_LAB = ['PRE', 'COND-1', "COND-2", "COND-3", "COND-4", "POST"]
 GROUPS = ["HD", "LD"]
 SESSION1 = [str(x).zfill(2) for x in range(1,6)]
 SESSION2 = [str(x).zfill(2) for x in range(6,11)]
@@ -254,35 +257,35 @@ def plot_average():
 
     fig, ax = plt.subplots(1,2,sharex=True)
     x = np.arange(len(ROUNDS))
-    ax[0].plot(x, d_score_HD_mean, '-' , label='HD', c='r')
+    ax[0].plot(x, d_score_HD_mean, '-.' , label='HD', c='r')
     ax[0].hlines(d_score_HD_mean[0],0,5, colors='r',linestyles='dotted')
-    ax[0].fill_between(x, np.sum([d_score_HD_mean, [-i for i in d_score_HD_std]],0),np.sum([d_score_HD_mean,d_score_HD_std],0), alpha=0.2, color='r')
+    ax[0].fill_between(x, np.sum([d_score_HD_mean, [-i for i in d_score_HD_std]],0),np.sum([d_score_HD_mean,d_score_HD_std],0), alpha=0.2, hatch='/', color='r', label='HD')
     ax[0].plot(x, d_score_LD_mean, '-' , label='LD', c='g')
     ax[0].hlines(d_score_LD_mean[0],0,5, colors='g',linestyles='dotted')
-    ax[0].fill_between(x, np.sum([d_score_LD_mean, [-i for i in d_score_LD_std]],0) ,np.sum([d_score_LD_mean,d_score_LD_std],0), alpha=0.2, color='g')
+    ax[0].fill_between(x, np.sum([d_score_LD_mean, [-i for i in d_score_LD_std]],0) ,np.sum([d_score_LD_mean,d_score_LD_std],0), alpha=0.2, hatch='|', color='g', label='LD')
     
     ax[0].set_xlim(0,5)
     ax[0].set_xticklabels(ROUNDS_LAB, fontsize = fsize)
     ax[0].set_xticks(np.arange(6))
     ax[0].set_ylabel('d-score', fontsize = fsize)
     ax[0].set_xlabel('', fontsize = fsize)
-    ax[0].set_title('Average d-score over time', fontsize = fsize)
+    # ax[0].set_title('Average d-score', fontsize = fsize)
     ax[0].grid()
 
 
-    ax[1].plot(x, o_score_HD_mean, '-' , label='HD', c='r')
+    ax[1].plot(x, o_score_HD_mean, '-.' , label='HD', c='r')
     ax[1].hlines(o_score_HD_mean[0],0,5, colors='r',linestyles='dotted')
-    ax[1].fill_between(x, np.sum([o_score_HD_mean, [-i for i in o_score_HD_std]],0),np.sum([o_score_HD_mean,o_score_HD_std],0), alpha=0.2, color='r')
+    ax[1].fill_between(x, np.sum([o_score_HD_mean, [-i for i in o_score_HD_std]],0),np.sum([o_score_HD_mean,o_score_HD_std],0), alpha=0.2, hatch='/', color='r', label='HD')
     ax[1].plot(x, o_score_LD_mean, '-' , label='LD', c='g')
     ax[1].hlines(o_score_LD_mean[0],0,5, colors='g',linestyles='dotted')
-    ax[1].fill_between(x, np.sum([o_score_LD_mean, [-i for i in o_score_LD_std]],0) ,np.sum([o_score_LD_mean,o_score_LD_std],0), alpha=0.2, color='g')
+    ax[1].fill_between(x, np.sum([o_score_LD_mean, [-i for i in o_score_LD_std]],0) ,np.sum([o_score_LD_mean,o_score_LD_std],0), alpha=0.2, hatch='|', color='g', label='LD')
     
     ax[1].set_xlim(0,5)
     ax[1].set_xticklabels(ROUNDS_LAB, fontsize = fsize)
     ax[1].set_xticks(np.arange(6))
     ax[1].set_ylabel('o-score', fontsize = fsize)
     ax[1].set_xlabel('', fontsize = fsize)
-    ax[1].set_title('Average o-score over time', fontsize = fsize)
+    # ax[1].set_title('Average o-score', fontsize = fsize)
     plt.legend(fontsize = fsize)
     plt.grid()
     plt.show()
@@ -293,10 +296,14 @@ def plot_dscore_distr():
     """
     ########### D-score distribution
     hist_data = [df_join_att[(df_join_att.group=='HD') & (df_join_att.att_round ==x)].d_score.tolist() for x in ROUNDS]
-    fig = ff.create_distplot(hist_data, ROUNDS_LAB, bin_size=.2, histnorm='probability')
+    fig = ff.create_distplot(hist_data, ROUNDS_LAB, bin_size=.2, show_hist=False, histnorm='probability')
+    fig.update_layout(title_text='HD')
+    fig.update_xaxes(range=[-1, 1])
     fig.show()
     hist_data = [df_join_att[(df_join_att.group=='LD') & (df_join_att.att_round ==x)].d_score.tolist() for x in ROUNDS]
-    fig = ff.create_distplot(hist_data, ROUNDS_LAB, bin_size=.2, histnorm='probability')
+    fig = ff.create_distplot(hist_data, ROUNDS_LAB, bin_size=.2, show_hist=False, histnorm='probability')
+    fig.update_layout(title_text='LD')
+    fig.update_xaxes(range=[-1, 1])
     fig.show()
 
 
@@ -361,11 +368,16 @@ def plot_slope():
     """
     """
     ###########  Plot Slope D-score
-    fig, axs = plt.subplots(1,2, sharey=True)
-    for n, (group, c) in enumerate(zip(GROUPS, ["r","g"])):
+    fig, axs = plt.subplots(1,2)
+    for group, c, hatch in zip(GROUPS, ["r","g"], ["/", "|"]):
+
+
         baseline = []
         slopes = []
         N_s = []
+        baseline2 = []
+        slopes2 = []
+        N_s2 = []
         df_group = df_join_att[df_join_att.group == group]
         for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
             y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
@@ -381,64 +393,99 @@ def plot_slope():
             slopes.append(slope[slope.names == 'x1'].coef.item())
             N_s.append(N*N*5)
 
-        # [axs.text(x,y,z) for x,y,z in zip(baseline, slopes, df_group.PROLIFIC_PID.unique().tolist())]
-        axs[n].scatter(baseline, slopes, color=c, label=group, s=N_s, facecolors='none')
-
-        mean = np.mean(slopes)
-        std = np.std(slopes)
-        x = np.linspace(-1,1,10)
-        y = np.zeros(len(x))+mean
-        axs[n].plot(x, y, c=c, linestyle='dotted')
-        axs[n].fill_between(x,y-std, y+std, alpha=0.3, color=c)
-
-
-        axs[n].set_xlabel("Baseline d-score (pre)", fontsize=fsize)
-        axs[n].set_ylabel("Slope d-score", fontsize=fsize)
-        axs[n].plot(range(-1,2), np.zeros(len(range(-1,2))), linestyle='--', c='k')
-        axs[n].set_xlim(-1,1)
-        axs[n].legend(fontsize=fsize)
-    plt.show()
-
-
-
-    ###########  Plot Slope 0-score
-    fig, axs = plt.subplots(1,2, sharey=True)
-    for n, (group, c) in enumerate(zip(GROUPS, ["r","g"])):
-        baseline = []
-        slopes = []
-        N_s = []
-        df_group = df_join_att[df_join_att.group == group]
-        for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
-            y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
+            y2 = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
                  ].o_score.values for att_round in ROUNDS]
-            y = [el[0] for el in y if el.size > 0]
-            x = range(len(y))
-            N = len(x)
-            if N <= 3:
+            y2 = [el[0] for el in y2 if el.size > 0]
+            x2 = range(len(y2))
+            N2 = len(x2)
+            if N2 <= 3:
                 continue
 
-            baseline.append(y[0])
-            slope = pg.linear_regression(x, y)
-            slopes.append(slope[slope.names == 'x1'].coef.item())
-            N_s.append(N*N*5)
+            baseline2.append(y2[0])
+            slope2 = pg.linear_regression(x2, y2)
+            slopes2.append(slope2[slope2.names == 'x1'].coef.item())
+            N_s2.append(N2*N2*5)
+
+        m = 'o'
+        if group == 'HD':
+            m = '>'
 
         # [axs.text(x,y,z) for x,y,z in zip(baseline, slopes, df_group.PROLIFIC_PID.unique().tolist())]
-        axs[n].scatter(baseline, slopes, color=c, label=group, s=N_s, facecolors='none')
+        axs[0].scatter(baseline, slopes, color=c,marker=m, label=group, s=N_s, facecolors='none')
+        axs[1].scatter(baseline2, slopes2, color=c, marker=m, label=group, s=N_s, facecolors='none')
 
         mean = np.mean(slopes)
         std = np.std(slopes)
-        x = np.linspace(-0.5, 5.5, 10)
+        x = np.linspace(-1.1,1.1,10)
         y = np.zeros(len(x))+mean
-        axs[n].plot(x, y, c=c, linestyle='dotted')
-        axs[n].fill_between(x,y-std, y+std, alpha=0.3, color=c)
+        axs[0].plot(x, y, c=c)#, linestyle='dotted')
+        axs[0].fill_between(x,y-std, y+std, alpha=0.2, color=c, hatch=hatch, label=group)
+
+        mean2 = np.mean(slopes2)
+        std2 = np.std(slopes2)
+        x2 = np.linspace(-0.5, 5.5, 10)
+        y2 = np.zeros(len(x2))+mean2
+        axs[1].plot(x2, y2, c=c)#, linestyle='dotted')
+        axs[1].fill_between(x2,y2-std2, y+std2, alpha=0.2, color=c,  hatch=hatch, label=group)
 
 
-        axs[n].set_xlabel("Baseline o-score (pre)", fontsize=fsize)
-        axs[n].set_ylabel("Slope o-score", fontsize=fsize)
-        axs[n].plot(range(-1, 7), np.zeros(len(range(-1,7))), linestyle='--', c='k')
-        axs[n].set_xlim(-0.5,5.5)
-        axs[n].legend(fontsize=fsize)
+        axs[0].set_xlabel("Baseline d-score (PRE)", fontsize=fsize)
+        axs[0].set_ylabel("Slope d-score", fontsize=fsize)
+        axs[0].set_xticks([-1,-0.5,0,0.5,1])
+        axs[0].set_xticklabels([-1,-0.5,0,0.5,1])
+        # axs[0].plot(range(-2,3), np.zeros(len(range(-2,3))), linestyle='dotted', c='k')
+        axs[0].set_xlim(-1.1,1.1)
+        # axs[0].legend(fontsize=fsize)
+
+        axs[1].set_xlabel("Baseline o-score (PRE)", fontsize=fsize)
+        axs[1].set_ylabel("Slope o-score", fontsize=fsize)
+        # axs[1].plot(range(-1, 7), np.zeros(len(range(-1,7))), linestyle='dotted', c='k')
+        axs[1].set_xlim(-0.5,5.5)
+        axs[1].legend(fontsize=fsize)
+
+
     plt.show()
+
+
+
+    # ###########  Plot Slope 0-score
+    # fig, axs = plt.subplots(1,2, sharey=True)
+    # for n, (group, c) in enumerate(zip(GROUPS, ["r","g"])):
+    #     baseline = []
+    #     slopes = []
+    #     N_s = []
+    #     df_group = df_join_att[df_join_att.group == group]
+    #     for m, pid in enumerate(df_group.PROLIFIC_PID.unique()):
+    #         y = [df_group[(df_group.PROLIFIC_PID == pid) & (df_group.att_round == att_round)
+    #              ].o_score.values for att_round in ROUNDS]
+    #         y = [el[0] for el in y if el.size > 0]
+    #         x = range(len(y))
+    #         N = len(x)
+    #         if N <= 3:
+    #             continue
+
+    #         baseline.append(y[0])
+    #         slope = pg.linear_regression(x, y)
+    #         slopes.append(slope[slope.names == 'x1'].coef.item())
+    #         N_s.append(N*N*5)
+
+    #     # [axs.text(x,y,z) for x,y,z in zip(baseline, slopes, df_group.PROLIFIC_PID.unique().tolist())]
+    #     axs[n].scatter(baseline, slopes, color=c, label=group, s=N_s, facecolors='none')
+
+    #     mean = np.mean(slopes)
+    #     std = np.std(slopes)
+    #     x = np.linspace(-0.5, 5.5, 10)
+    #     y = np.zeros(len(x))+mean
+    #     axs[n].plot(x, y, c=c, linestyle='dotted')
+    #     axs[n].fill_between(x,y-std, y+std, alpha=0.3, color=c)
+
+
+    #     axs[n].set_xlabel("Baseline o-score (pre)", fontsize=fsize)
+    #     axs[n].set_ylabel("Slope o-score", fontsize=fsize)
+    #     axs[n].plot(range(-1, 7), np.zeros(len(range(-1,7))), linestyle='--', c='k')
+    #     axs[n].set_xlim(-0.5,5.5)
+    #     axs[n].legend(fontsize=fsize)
+    # plt.show()
 
 
 def plot_oscore_distr():
@@ -517,42 +564,61 @@ def plot_oscore_distr():
 def plot_score_corr():
     """
     """ 
+
     ############# O-score vs d-score
-    fig, ax = plt.subplots(1,2,sharey=True)
 
-    rho1,p1 = pearsonr(df_join_att_HD.o_score, df_join_att_HD.d_score)
-    rho2,p2 = pearsonr(df_join_att_LD.o_score, df_join_att_LD.d_score)
+    fig, ax = plt.subplots(2,6,sharex=True, sharey=True)
 
-    ax[0].scatter(df_join_att_HD.o_score, df_join_att_HD.d_score, c='r', facecolors='none',label=r"HD, $\rho ={:.2f}$".format(rho1))
-    v = ax[0].violinplot([df_join_att_HD[df_join_att_HD.o_score == x].d_score for x in range(6)], positions=range(6), showmeans=True)
-    for pc in v['bodies']:
-        pc.set_color('r')
-        pc.set_facecolor('r')
-        pc.set_edgecolor('r')
+    for n, (att_round, round_lab) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
 
-    a, b = np.polyfit(df_join_att_HD.o_score, df_join_att_HD.d_score, 1)
-    ax[0].plot(np.arange(-1,7), a*np.arange(-1,7)+b,color='r', linestyle='--')  
-    ax[0].set_xlabel('o-score', fontsize = fsize)
-    ax[0].set_ylabel('d-score', fontsize = fsize)
-    ax[0].grid()
-    ax[0].set_xlim(-0.5,5.5)
-    ax[0].legend(fontsize = fsize)
+        df_HD = df_join_att_HD[df_join_att_HD.att_round==att_round]
+        df_LD = df_join_att_LD[df_join_att_LD.att_round==att_round]
 
-    ax[1].scatter(df_join_att_LD.o_score, df_join_att_LD.d_score, c='g', facecolors='none',label=r"LD, $\rho ={:.2f}$".format(rho2))
-    v = ax[1].violinplot([df_join_att_LD[df_join_att_LD.o_score == x].d_score for x in range(6)], positions=range(6), showmeans=True)
-    for pc in v['bodies']:
-        pc.set_color('g')
-        pc.set_facecolor('g')
-        pc.set_edgecolor('g')
+        rho1,p1 = pearsonr(df_HD.o_score, df_HD.d_score)
+        rho2,p2 = pearsonr(df_LD.o_score, df_LD.d_score)
 
-    a, b = np.polyfit(df_join_att_LD.o_score, df_join_att_LD.d_score, 1)
-    ax[1].plot(np.arange(-1,7), a*np.arange(-1,7)+b,color='g', linestyle='--')  
-    ax[1].set_xlabel('o-score', fontsize = fsize)
-    ax[1].grid()
-    ax[1].set_xlim(-0.5,5.5)
-    ax[1].legend(fontsize = fsize)
+        ax[0,n].scatter(df_HD.o_score, df_HD.d_score, c='r', marker='x', facecolors='none',label=r"HD, $\rho ={:.2f}$".format(rho1))
 
-    plt.suptitle('d-score VS o-score', fontsize = fsize)
+        # dplot = [df_HD[df_HD.o_score == x].d_score for x in range(6)]
+        # v = ax[0,n].violinplot(dplot, positions=range(6), showmeans=True)
+        # for pc in v['bodies']:
+        #     pc.set_color('r')
+        #     pc.set_facecolor('r')
+            # pc.set_edgecolor('r')
+
+        a, b = np.polyfit(df_HD.o_score, df_HD.d_score, 1)
+        # ax[0,n].plot(np.arange(-1,7), a*np.arange(-1,7)+b,color='r', linestyle='--')  
+        ax[0,n].plot(np.arange(-1,7), 0*np.arange(-1,7),color='k', linestyle='--')  
+        # ax[0,n].set_xlabel('o-score', fontsize = fsize)
+        # ax[0,n].set_ylabel('d-score', fontsize = fsize)
+        # ax[0,n].grid()
+        ax[0,n].set_xlabel(round_lab, fontsize = fsize)
+        ax[0,n].xaxis.set_label_position('top') 
+        ax[0,n].set_xlim(-0.5,5.5)
+        ax[0,n].set_ylim(-1,1)
+        # ax[0,n].legend(fontsize = fsize)
+
+        ax[1,n].scatter(df_LD.o_score, df_LD.d_score, c='g', marker='x', facecolors='none',label=r"LD, $\rho ={:.2f}$".format(rho2))
+
+        # oplot = [df_LD[df_LD.o_score == x].d_score for x in range(6)]
+        # v = ax[1,n].violinplot(oplot, positions=range(6), showmeans=True)
+        # for pc in v['bodies']:
+        #     pc.set_color('g')
+        #     pc.set_facecolor('g')
+        #     pc.set_edgecolor('g')
+
+        a, b = np.polyfit(df_LD.o_score, df_LD.d_score, 1)
+        ax[1,n].plot(np.arange(-1,7), 0*np.arange(-1,7),color='k', linestyle='--')  
+        # ax[1,n].set_xlabel(round_lab, fontsize = fsize)
+        # ax[1,n].grid()
+        ax[1,n].set_xticks(np.arange(6))
+        ax[1,n].set_xticklabels(np.arange(6))
+        ax[1,n].set_xlim(-0.5,5.5)
+        ax[1,n].set_ylim(-1,1)
+        # ax[1,n].legend(fontsize = fsize)
+    fig.supxlabel('o-score', fontsize = fsize)
+    fig.supylabel('d-score', fontsize = fsize)
+    # plt.suptitle('d-score VS o-score', fontsize = fsize)
     plt.show()
 
    
@@ -570,7 +636,7 @@ if __name__ == "__main__":
     df_join_att_LD = df_join_att[df_join_att.group == 'LD']
 
     # plot_correlation(df_join_att)
-    # plot_average()
+    plot_average()
     # plot_dscore_distr()
     # plot_link_dscore()
     # plot_slope()
@@ -579,8 +645,9 @@ if __name__ == "__main__":
 
 
 
-
-
-
-
-
+    # for ar in ROUNDS:
+    #     print("\t",ar)
+    #     df = df_join_att_LD[df_join_att_LD.att_round == ar]
+    #     print(round(((df.d_score < -0.25).sum())*100/(df.d_score.count()),1))
+    #     print(round(((df.d_score >= -0.25) & (df.d_score <= 0.25)).sum()*100/(df.d_score.count()),1))
+    #     print(round(((df.d_score > 0.25)).sum()*100/(df.d_score.count()),1))

@@ -3,6 +3,7 @@
 
 import numpy as np
 import os
+import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import json
@@ -14,11 +15,13 @@ from operator import itemgetter
 from tabulate import tabulate
 
 from scipy.stats.stats import pearsonr
-from scipy.spatial.distance import cdist
+from scipy.spatial.distance import cdist, euclidean, cosine
 from sklearn.metrics import silhouette_score, silhouette_samples
 
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 from matplotlib.ticker import PercentFormatter
+
+matplotlib.rcParams.update({'font.size': 20})
 
 marker_types = [".", "o", "v", "^", "<",
                 ">", "1", "2", "3", "4",
@@ -29,7 +32,7 @@ marker_types = [".", "o", "v", "^", "<",
 np.random.shuffle(marker_types)
 
 
-ESSENTIA_DIR = "/home/lorenzoporcaro/Data/longterm-data/features/"
+ESSENTIA_DIR = "/home/lorenzo/Data/longterm_data/features/"
 EMB_DIR = "../data/embeddings/{}"
 TRACKS = "../data/input/random_tracklist_20220104.csv"
 TRACKS_FEAT = "../data/input/tracklist_features_20220104.csv"
@@ -71,7 +74,6 @@ def import_features(feat_dir, df_tracks):
     for yt_id in df_tracks.yt_id.values:
         filename = yt_id + '.json'
         file_path = os.path.join(feat_dir, filename)
-
         if os.path.exists(file_path):
             with open(file_path, 'r') as inf:
                 data = json.load(inf)
@@ -192,40 +194,43 @@ def feature_correlation(DictFeat, emb_x, emb_y, filenames):
 def plot_essentia_features(DictFeat, fnames):
     """
     """
-    fig, ax = plt.subplots(2, 2)
+    fig, ax = plt.subplots(1, 4, sharey=True)
     feat = [DictFeat[x]['essentia']['bpm'] for x in DictFeat]
-    ax[0, 0].hist(feat, alpha=0.7, rwidth=0.85,
+    ax[0].hist(feat, alpha=0.7, rwidth=0.85,
                   weights=np.ones(len(feat)) / len(feat))
-    ax[0, 0].set_ylabel('Frequency')
-    ax[0, 0].set_title('BPM')
-    ax[0, 0].grid(axis='y', alpha=0.75)
-    ax[0, 0].yaxis.set_major_formatter(PercentFormatter(1))
+    # ax[0].set_ylabel('Frequency', fontsize=18)
+    ax[0].set_title('Tempo', fontsize=18)
+    ax[0].set_xticks([70,90,120,150,180])
+    ax[0].set_xticklabels([70,90,120,150,180])
+    ax[0].grid(axis='y', alpha=0.75)
+    ax[0].yaxis.set_major_formatter(PercentFormatter(1,0))
 
     feat = [DictFeat[x]['essentia']['dance'] for x in DictFeat]
-    ax[0, 1].hist(feat, alpha=0.7, rwidth=0.85, color='#baba07',
+    ax[1].hist(feat, alpha=0.7, rwidth=0.85, color='#baba07',
                   weights=np.ones(len(feat)) / len(feat))
-    ax[0, 1].set_ylabel('Frequency')
-    ax[0, 1].set_title('Danceability')
-    ax[0, 1].grid(axis='y', alpha=0.75)
-    ax[0, 1].yaxis.set_major_formatter(PercentFormatter(1))
+    # ax[0, 1].set_ylabel('Frequency')
+    ax[1].set_title('Danceability', fontsize=18)
+    ax[1].grid(axis='y', alpha=0.75)
+    ax[1].set_xlim(0,3)
+    ax[1].yaxis.set_major_formatter(PercentFormatter(1,0))
 
     feat = [DictFeat[x]['essentia']['acoust'] for x in DictFeat]
-    ax[1, 0].hist(feat, alpha=0.7, rwidth=0.85, color='#0504aa',
+    ax[2].hist(feat, alpha=0.7, rwidth=0.85, color='#0504aa',
                   weights=np.ones(len(feat)) / len(feat))
-    ax[1, 0].set_ylabel('Frequency')
-    ax[1, 0].set_title('Acousticness')
-    ax[1, 0].grid(axis='y', alpha=0.75)
-    ax[1, 0].yaxis.set_major_formatter(PercentFormatter(1))
+    # ax[2].set_ylabel('Frequency', fontsize=18)
+    ax[2].set_title('Acousticness', fontsize=18)
+    ax[2].grid(axis='y', alpha=0.75)
+    ax[2].yaxis.set_major_formatter(PercentFormatter(1,0))
 
     feat = [DictFeat[x]['essentia']['instr'] for x in DictFeat]
-    ax[1, 1].hist(feat, alpha=0.7, rwidth=0.85, color='#fb0a66',
+    ax[3].hist(feat, alpha=0.7, rwidth=0.85, color='#fb0a66',
                   weights=np.ones(len(feat)) / len(feat))
-    ax[1, 1].set_ylabel('Frequency')
-    ax[1, 1].set_title('Instrumentalness')
-    ax[1, 1].grid(axis='y', alpha=0.75)
-    ax[1, 1].yaxis.set_major_formatter(PercentFormatter(1))
-
-    fig.suptitle("Essentia Feature Tracks Distribution")
+    # ax[1, 1].set_ylabel('Frequency')
+    ax[3].set_title('Instrumentalness', fontsize=18)
+    ax[3].grid(axis='y', alpha=0.75)
+    ax[3].yaxis.set_major_formatter(PercentFormatter(1,0))
+    plt.yticks(rotation=45)
+    # fig.suptitle("Essentia Feature Tsracks Distribution")
     plt.show()
 
 
@@ -311,21 +316,40 @@ def silhouette_analysis(DistMatrix, df_tracks, filenames):
         # Compute the new y_lower for next plot
         y_lower = y_upper + 10  # 10 for the 0 samples
 
-    ax.set_title("Silhouette plot for the various genres")
-    ax.set_xlabel("Silhouette coefficient values")
+    # ax.set_title("Silhouette plot for the various genres")
+    ax.set_xlabel("Silhouette coefficient values", fontsize=18)
 
     # The vertical line for average silhouette score of all the values
     ax.axvline(x=silhouette_avg, color="red", linestyle="--")
     ax.set_yticks([])  # Clear the yaxis labels / ticks
     print("## Silhouette average score: {}".format(silhouette_avg))
     handles, labels = plt.gca().get_legend_handles_labels()
-    plt.legend(handles[::-1], labels[::-1], bbox_to_anchor=(1.1, 0.85))
+    plt.legend(handles[::-1], labels[::-1], bbox_to_anchor=(-0.35, .6, 0.5, 0.5), fontsize=20)
     plt.show()
 
 
-def plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, filenames):
+def get_centroid(emb_x, emb_y, embeddings):
     """
     """
+    # Get centroid
+    C_x = np.mean(emb_x)
+    C_y = np.mean(emb_y)
+
+    # Get Track max dist from Centroid
+    dists = [euclidean(x, [C_x, C_y]) for x in embeddings]
+    max_dist = np.max(dists)
+    imax_dist = dists.index(max_dist)
+    # print("Max dist = {}".format(max_dist))
+
+    return C_x, C_y, max_dist, imax_dist
+
+
+
+def plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, embeddings, filenames):
+    """
+    """
+    C_x, C_y, max_dist, imax_dist = get_centroid(emb_x, emb_y, embeddings)
+
     genres = df_tracks['maingenre'].unique().tolist()
     n_clusters = len(genres)
 
@@ -341,11 +365,20 @@ def plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, filenames):
         color = cm.nipy_spectral(float(g_idx) / n_clusters)
         ax.scatter(x, y, color=color, vmin=-2, label=l,
                    marker=marker_types[g_idx])
+
+    cir = plt.Circle((C_x, C_y), max_dist, color='r', fill=False)
+    ax.set_aspect('equal', adjustable='datalim')
+    ax.add_patch(cir)
+    # ax.set_yticks([])
+    ax.axis('off')
+    # ax.set_xticks([])
+
     handles, labels = plt.gca().get_legend_handles_labels()
     by_label = dict(zip(labels, handles))
     by_label = OrderedDict(sorted(by_label.items()))
-    plt.legend(by_label.values(), by_label.keys(), bbox_to_anchor=(1.1, 1.05))
-    fig.suptitle("Tracks Embedding Space")
+    plt.xlim([-50,50])
+    plt.legend(by_label.values(), by_label.keys(), bbox_to_anchor=(-0.25, .6, 0.5, 0.5), fontsize=20)
+    # fig.suptitle("Tracks Embedding Space")
 
     plt.show()
 
@@ -406,7 +439,11 @@ def plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames):
     """
     """
     features = ['bpm', 'dance', 'instr', 'acoust']
-    feat_plot = ['BPM', 'Danceability', 'Instrumentalness', 'Acousticness']
+    feat_plot = ['Tempo', 'Danceability', 'Instrumentalness', 'Acousticness']
+
+    x_cor = [".31*", ".43*", "-.30*" , "-.35*"]
+    y_cor = [".03", ".29*", "-.06", "-.16*"]
+
 
     # Analyze features in blocks
     x_blocks = [(r, r+10) for r in range(
@@ -433,7 +470,7 @@ def plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames):
     for key in BDict:
         for feat in features:
             BDict[key][feat] = np.average(
-                [DictFeat[x]['spotify'][feat] for x in BDict[key]['labels']])
+                [DictFeat[x]['essentia'][feat] for x in BDict[key]['labels']])
 
     # Plots
     fig, axs = plt.subplots(2, 2)
@@ -443,15 +480,41 @@ def plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames):
         for key in BDict:
             idx1, idx2 = [int(x) for x in key.split('-')]
             BMatrix[idx1, idx2] = BDict[key][features[c]]
-        ax.set_title('{}'.format(feat_plot[c]))
+        
+
+
         if features[c] == 'bpm':
             fmt = '.0f'
         else:
             fmt = '.2f'
-        sns.heatmap(BMatrix, linewidths=.5, annot=True, cmap='summer',
-                    fmt=fmt, xticklabels=False, yticklabels=False, ax=ax)
 
-    fig.suptitle("Embeddings-Features Blocks Distribution")
+        mask = np.zeros_like(BMatrix)
+        mask[np.where(BMatrix==0)] = True
+
+        res = sns.heatmap(BMatrix, linewidths=.5, annot=True, cmap='summer', mask=mask, linecolor='k',
+                    fmt=fmt, xticklabels=False, yticklabels=False, ax=ax, annot_kws={"fontsize":12})
+
+        # Drawing the frame
+        res.axhline(y = 0, color='k',linewidth = 1)
+        res.axhline(y = 13, color = 'k',
+                    linewidth = 1)
+          
+        res.axhline(y = 13, color = 'k',
+                    linewidth = 1)
+          
+        res.axvline(x = 0, color = 'k',
+                    linewidth = 1)
+          
+        res.axvline(x = 12, 
+                    color = 'k', linewidth = 1)
+        res.axvline(x = 12, 
+                    color = 'k', linewidth = 1)
+
+        ax.set_title('{}'.format(feat_plot[c]), fontsize=20)
+        ax.set_xlabel(r"$\rho ={}$".format(x_cor[c]), fontsize=18)
+        ax.set_ylabel(r"$\rho ={}$".format(y_cor[c]), fontsize=18)
+
+    # fig.suptitle("Embeddings-Features Blocks Distribution")
     plt.show()
 
 
@@ -460,7 +523,7 @@ if __name__ == "__main__":
     df_tracks = pd.read_csv(TRACKS, delimiter='\t')
 
     DictFeat = import_features(ESSENTIA_DIR, df_tracks)
-    embeddings, filenames = import_embeddings(EMB_DIR, 'mtt_musicnn', 200)
+    embeddings, filenames = import_embeddings(EMB_DIR, 'effnet_tsne', 2)
     print("Embeddings found: {}".format(len(embeddings)))
 
     embeddings = np.vstack(embeddings)
@@ -471,14 +534,14 @@ if __name__ == "__main__":
     DistMatrix = cdist(embeddings, embeddings, 'cosine')
 
     # # Silhouette analysis
-    silhouette_analysis(DistMatrix, df_tracks, filenames)
+    # silhouette_analysis(DistMatrix, df_tracks, filenames)
 
     # # Compute correlation
     # feature_correlation(DictFeat, emb_x, emb_y, filenames)
 
     # # # # # Plots
-    # plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, filenames)
+    # plot_embeddings(DistMatrix, df_tracks, emb_x, emb_y, embeddings, filenames)
     # plot_distance_matrix(DistMatrix, df_tracks, filenames)
     # plot_essentia_features(DictFeat, filenames)
     # plot_spotify_features(DictFeat, filenames)
-    # plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames)
+    plot_blocks_matrix_feat(emb_x, emb_y, DictFeat, filenames)

@@ -13,7 +13,8 @@ import pingouin as pg
 from statsmodels.tools.tools import add_constant
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
-from pingouin import ancova
+from pingouin import ancova, ttest, wilcoxon, mwu, cronbach_alpha, corr
+
 
 ATT_FOLDER = "../data/attitudes"
 LS_FOLDER = "../data/ls"
@@ -169,10 +170,10 @@ def pre_post_analysis_logs():
         print(model.summary())
 
 
-def pre_post_analysis_att():
+def pre_post_analysis_att(t1, t2):
     """
     """
-    df_merge = df_join_att[df_join_att.att_round == "00"].merge(df_join_att[df_join_att.att_round == "10"], on=('PROLIFIC_PID', 'group'))
+    df_merge = df_join_att[df_join_att.att_round == t1].merge(df_join_att[df_join_att.att_round == t2], on=('PROLIFIC_PID', 'group'))
     df_merge['group'].mask(df_merge['group'] == 'LD', 0, inplace=True)
     df_merge['group'].mask(df_merge['group'] == 'HD', 1, inplace=True)
 
@@ -216,13 +217,68 @@ if __name__ == "__main__":
     df_join_ls = scale_ls_data(df_join_ls)
 
 
-    # Format data
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 1, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 2, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 3, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 4, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 5, inplace=True)
-    df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 6, inplace=True)
+    df_join_att_HD = df_join_att[df_join_att.group == 'HD']
+    df_join_att_LD = df_join_att[df_join_att.group == 'LD']
+
+
+    # Wilcoxon whole population
+    for times in [("00", "01", "two-sided"), ("00", "04","greater"), ("04", "10", "two-sided"), ("00", "10", "greater")]:
+        print()
+        print(times)
+        t1, t2, alt = times
+        # D-score
+        d_0 = []
+        d_1 = [] 
+        o_0 = []
+        o_1 = []
+        for pid in df_join_att.PROLIFIC_PID.unique():
+            # print(pid)
+            id_0 = df_join_att[(df_join_att.att_round == t1) & (df_join_att.PROLIFIC_PID == pid)].d_score.values
+            id_1 = df_join_att[(df_join_att.att_round == t2) & (df_join_att.PROLIFIC_PID == pid)].d_score.values
+            io_0 = df_join_att[(df_join_att.att_round == t1) & (df_join_att.PROLIFIC_PID == pid)].o_score.values
+            io_1 = df_join_att[(df_join_att.att_round == t2) & (df_join_att.PROLIFIC_PID == pid)].o_score.values
+
+
+            if id_0.size != 0 and id_1.size != 0 and io_0.size != 0 and io_1.size != 0:
+                d_0.append(id_0[0])
+                d_1.append(id_1[0])
+                o_0.append(io_0[0])
+                o_1.append(io_1[0])
+            
+
+        print(len(d_0), len(d_1), np.median(d_0), np.median(d_1))
+        print(wilcoxon(d_0, d_1, alternative=alt))
+        df = pd.DataFrame({'Q1': d_0, 'Q2': d_1})
+        # print(cronbach_alpha(df))
+        print(corr(d_0, d_1))
+
+        if alt == 'greater':
+            alt = 'less'
+
+        print(len(o_0), len(o_1), np.median(o_0), np.median(o_1))
+        print(wilcoxon(o_0, o_1, alternative=alt))
+        df = pd.DataFrame({'Q1': o_0, 'Q2': o_1})
+        # print(cronbach_alpha(df))
+        print(corr(o_0, o_1))
+
+
+
+
+    # pre_post_analysis_att("00","10")
+
+
+
+
+
+
+
+    # # Format data
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 1, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 2, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 3, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 4, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 5, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 6, inplace=True)
 
     df_join_att['o_score'].mask(df_join_att['o_score'] == 0, 0, inplace=True)
     df_join_att['o_score'].mask(df_join_att['o_score'] == 1, 0, inplace=True)
@@ -231,31 +287,41 @@ if __name__ == "__main__":
     df_join_att['o_score'].mask(df_join_att['o_score'] == 4, 1, inplace=True)
     df_join_att['o_score'].mask(df_join_att['o_score'] == 5, 1, inplace=True)
 
+
     df_join_att['group'].mask(df_join_att['group'] == 'LD', 0, inplace=True)
     df_join_att['group'].mask(df_join_att['group'] == 'HD', 1, inplace=True)
 
+    pre_post_analysis_att("00","10")
 
-    ### Pre-Post analysis
+
+
+    ## Pre-Post analysis
     # pre_post_analysis_logs()
-    # pre_post_analysis_att()
+
+    # for times in [("00", "01", "two-sided"), ("01", "04","greater"), ("04", "10", "two-sided"), ("00", "10", "greater")]:
+    #     print()
+    #     print(times)
+    #     t1, t2, alt = times
+    #     pre_post_analysis_att(t1,t2)
 
 
-    ### Gaussian -- Exchangeable 
-    exc = sm.cov_struct.Exchangeable()
-    mod1 = smf.gee("d_score ~ 0 + att_round + group + group * att_round",
-                   "PROLIFIC_PID",
-                   data=df_join_att, 
-                   cov_struct=exc)
-    res1 = mod1.fit()
-    print(res1.summary())
 
-    ### Ordinal -- Exchangeable
-    model = smf.ordinal_gee("o_score ~ 0 + att_round + group + group * att_round",
-                            "PROLIFIC_PID",
-                            data=df_join_att, 
-                            cov_struct=exc)
-    result = model.fit()
-    print(result.summary())
+    # ### Gaussian -- Exchangeable 
+    # exc = sm.cov_struct.Exchangeable()
+    # mod1 = smf.gee("d_score ~ 0 + att_round + group + group * att_round",
+    #                "PROLIFIC_PID",
+    #                data=df_join_att, 
+    #                cov_struct=exc)
+    # res1 = mod1.fit()
+    # print(res1.summary())
+
+    # ### Ordinal -- Exchangeable
+    # model = smf.ordinal_gee("o_score ~ 0 + att_round + group + group * att_round",
+    #                         "PROLIFIC_PID",
+    #                         data=df_join_att, 
+    #                         cov_struct=exc)
+    # result = model.fit_regularized(pen_wt=0.00)
+    # print(result.summary())
 
 
     ############################

@@ -30,7 +30,7 @@ from scipy.stats import tiecorrect, rankdata, norm
 
 class mannWhitney():
 
-    def __init__(self, data1, data2, tail = 'two', significant_level=0.05):
+    def __init__(self, data1, data2, tail = 'two', significant_level=0.1):
 
         """
         Function for Mann-Whitney U test
@@ -91,10 +91,23 @@ class mannWhitney():
         
         self.critical05 = Critical_05
         self.critical1 = Critical_1
+        self.data1 = data1
+        self.data2 = data2
+        self.tail = tail
+        self.significant_level = significant_level
+        self.significance = None
+        self.sample_size = None
+        self.n1 = None
+        self.n2 = None
+        self.criticalu = None
+        self.u = None
+        self.effectsize = None
+        self.largergroup = None
 
+    def test(self):
         # Mann Whitney Test    
-        x = np.asarray(data1)
-        y = np.asarray(data2)
+        x = np.asarray(self.data1)
+        y = np.asarray(self.data2)
         n1 = len(x)
         n2 = len(y)
         ranked = rankdata(np.concatenate((x, y)))
@@ -117,13 +130,13 @@ class mannWhitney():
 
         # Do test for small sample size            
         elif 2<=min(n1, n2) <= 20 and 2 <= max(n1, n2) <= 40:
-            if tail != 'two':  # only have data for two tail testing
+            if self.tail != 'two':  # only have data for two tail testing
                 return 'Sorry, sample size too small, only two-tailed test available...'
 
-            u_05 = Critical_05[str(min(n1, n2))][max(n1, n2)-2]  # u=critical at signif level .05
-            u_1 = Critical_1[str(min(n1, n2))][max(n1, n2)-2]  # u=critical at signif level .1
+            u_05 = self.critical05[str(min(n1, n2))][max(n1, n2)-2]  # u=critical at signif level .05
+            u_1 = self.critical1[str(min(n1, n2))][max(n1, n2)-2]  # u=critical at signif level .1
 
-            if significant_level == 0.05 and stat_a <= u_05:
+            if self.significant_level == 0.05 and stat_a <= u_05:
                 self.significance = True
                 self.sample_size = 'Small'
                 self.n1 = n1
@@ -132,7 +145,7 @@ class mannWhitney():
                 self.u = stat_a
                 self.effectsize = effect
                 self.largergroup = larger
-            elif significant_level == 0.1 and stat_a <= u_1:
+            elif self.significant_level == 0.1 and stat_a <= u_1:
                 self.significance = True
                 self.sample_size = 'Small'
                 self.n1 = n1
@@ -141,7 +154,7 @@ class mannWhitney():
                 self.u = stat_a
                 self.effectsize = effect
                 self.largergroup = larger
-            elif significant_level == 0.05:
+            elif self.significant_level == 0.05:
                 self.significance = False
                 self.sample_size = 'Small'
                 self.n1 = n1
@@ -168,19 +181,19 @@ class mannWhitney():
                 raise ValueError('All numbers are identical in mannwhitneyu')
             meanrank = n1*n2/2.0 + 0.5 
 
-            if tail == 'two':
+            if self.tail == 'two':
                 bigu = max(u1, u2)
-            elif tail == 'less':
+            elif self.tail == 'less':
                 bigu = u1
-            elif tail == 'more':
+            elif self.tail == 'more':
                 bigu = u2
             z = (bigu - meanrank) / sd
             
-            if tail == 'two':
+            if self.tail == 'two':
                 p = 2 * norm.sf(abs(z))
             else:
                 p = norm.sf(z)
-            if p <= significant_level:
+            if p <= self.significant_level:
                 self.significance = True
             else:
                 self.significance = False

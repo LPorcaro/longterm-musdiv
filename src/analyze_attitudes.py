@@ -805,7 +805,7 @@ if __name__ == "__main__":
     df_join_ls = scale_ls_data(df_join_ls)
 
     df_join_att = filter_dataframe(df_join_att, 'inc', 'pid')
-    
+    df_join_cntx = filter_dataframe(df_join_cntx, 'inc', 'pid')
     # plot_scores(df_join_att)
     # plot_correlation(df_join_att)
     plot_cntx(df_join_cntx)

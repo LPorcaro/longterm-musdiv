@@ -72,8 +72,8 @@ if __name__ == "__main__":
 
     df_out = df.filter(items=idxs, axis=0)
     df_out = df_out.drop_duplicates(subset=('sp_id'), keep='last')
-    df_out.to_csv(outfile, sep='\t', index=False)
+    # df_out.to_csv(outfile, sep='\t', index=False)
 
 
     plot_popularity(df_out)
-    write_genre_stats(df_out)
+    # write_genre_stats(df_out)
