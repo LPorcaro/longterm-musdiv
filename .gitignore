@@ -5,5 +5,5 @@
 # Ignore Cache
 **/__pycache__/
 .cache
-
-/data
+# Ignore Data
+data/
