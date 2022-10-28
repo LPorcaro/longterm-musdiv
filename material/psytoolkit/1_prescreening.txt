@@ -1,0 +1,224 @@
+# Scales
+scale: agree
+- Completely disagree
+- Disagree
+- Neither agree or disagree
+- Agree
+- Completely agree
+
+scale: familiarity
+- Yes
+- Maybe
+- No
+
+scale: familiarity2
+- I know it
+- Maybe I know it
+- I do NOT know it
+
+scale: binary
+- Yes
+- No
+
+################# Demographic information
+
+page: begin
+
+l: intro1
+t: info
+q: In this part, we are going to ask you a few questions about you. 
+
+l: age
+t: radio
+o: free
+q: 1. How old are you? [Optional]
+- Under 18
+- 18-25
+- 26-35
+- 36-45
+- 46-50 
+- Over 50
+
+l: gender
+t: radio
+o: free
+q: 2. To which gender identity do you most identify? (If not listed, please specify in "Other") [Optional]
+- Male
+- Female
+- Non-binary
+- {other,size=50} Prefer to self-describe (please specify)
+
+l: citizenship
+t: textline
+q: 3. What is your country/region of primary citizenship? [Optional]
+- {other, size=50} 
+
+l: residence
+t: textline
+q: 4. What is your country/region of residence? [Optional]
+- {other, size=50} 
+
+l: education
+t: radio
+o: free
+q: 5. Please indicate the highest level of education that you have completed: [Optional]
+- Less than a high school diploma
+- High school degree or equivalent
+- Bachelor’s degree (e.g. BA, BS)
+- Master’s degree (e.g. MA, MS, MEd)
+- Professional degree (e.g. MD, DDS, DVM)
+- Doctorate (e.g. PhD, EdD).
+
+page: end
+
+################# Musical background information
+
+page: begin
+
+l: intro2
+t: info
+q: Following, select the option that best describes yourself.
+
+
+l: mb1
+t: radio
+q: 6. I would describe my musical taste as varied:
+- Completely disagree
+- Disagree
+- Neither agree or disagree
+- Agree
+- Completely agree
+
+l: mb2
+t: radio
+q: 7. I often listen to Electronic Music:
+- Completely disagree
+- Disagree
+- Neither agree or disagree
+- Agree
+- Completely agree
+
+l: mb3
+t: radio
+q: 8. Within Electronic music, I would describe my musical taste as varied:
+- Completely disagree
+- Disagree
+- Neither agree or disagree
+- Agree
+- Completely agree
+
+l: mb4
+t: radio
+q: 9. My preferred music streaming platform is:
+- Apple Music
+- Spotify
+- Deezer
+- YouTube Music (or YouTube)
+- SoundCloud
+- {other,size=50} Other (please specify)
+
+l: mb5
+t: radio
+q: 10. On average, every day I listen to music:
+- Less than 1 hour
+- Between 1 and 2 hours
+- Between 2 and 3 hours
+- More than 3 hours
+
+page: end
+
+################# Artist Familiarity Test
+
+page: begin
+
+#l: intro3
+#t: info
+#q: Following, a list of Electronic Music artists is presented.
+#If you have listened to the artist is familiar to you, select "I know them".
+#If you have never heard about the artist, select, "I don't know them".
+#If you are not totally sure about the answer, select "Maybe I know them".
+
+l: af
+o: random
+t: scale familiarity
+q: 11. Have you ever listened to music from these artists?
+- Kraftwerk
+- Daft Punk
+- Tangerine Dream
+- The Chemical Brothers
+- DJ Shadow
+- Aphex Twin
+- Roni Size
+- Underworld
+- Vangelis
+- Moby
+- The Prodigy
+- Goldie
+- Skrillex
+- Deadmau5
+- Major Lazer
+- Basement Jaxx
+- Fatboy Slim
+- Massive Attack
+- Oneohtrix Point Never
+- Autechre
+
+page: end
+
+################# Genre Familiarity Test
+
+page: begin
+
+#l: intro4
+#t: info
+#q: Following, a list of Electronic Music genres is presented.
+#If the genre is familiar to you, select "I know it".
+#If you have never heard about the genre, select, "I do NOT know it".
+#If you are not totally sure about the answer, select "Maybe I know it".
+
+l: gf
+o: random
+t: scale familiarity
+q: 12. Have you ever heard about these music genres?
+- Ambient
+- Bass music
+- Breakbeat
+- Chill out
+- Disco
+- Drum and bass
+- Electroacoustic
+- Electronica
+- Garage
+- Hardcore
+- Hardstyle
+- Hauntology
+- House
+- Intelligent Dance Music (IDM)
+- Jungle
+- Noise
+- Plunderphonics
+- Techno
+- Trance
+- Videogame music
+
+page: end
+
+################# Final
+
+page: begin
+
+l: intro5
+t: info
+q: Almost done! Please, answer this last question to complete the survey.
+
+
+l: guttman
+t: scale binary
+q: 13. Would you be open to listen to one hour of Electronic Music:
+- once every month? 
+- once every two weeks?
+- once a week?
+- twice a week?
+- every day?
+
+page: end

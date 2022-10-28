@@ -1,0 +1,93 @@
+scale: binary
+- Yes
+- No
+
+scale: agree
+- Strongly disagree
+- Disagree
+- Neither agree or disagree
+- Agree
+- Strongly agree
+
+page: begin
+
+l: intro
+t: info
+q: First, we will start asking you a few questions.
+
+#l: af1
+#o: random
+#t: scale agree
+#q: 1. In which contexts would you listen to Electronic Music?
+#- Relaxing
+#- Commuting
+#- Partying
+#- Running
+#- Shopping
+#- Sleeping
+#- Studying
+#- Working
+
+l: af1
+o: random
+t: range
+q: 1. In which contexts would you listen to Electronic Music?
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Relaxing
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Commuting
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Partying
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Running
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Shopping
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Sleeping
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Studying
+- {min=1,max=5,start=3,left=Strongly disagree,right=Strongly agree} Working
+
+
+
+l: guttman
+t: scale binary
+q: 2. Would you be open to listen to one hour of Electronic Music:
+- once every month? 
+- once every two weeks?
+- once a week?
+- twice a week?
+- every day?
+
+page: end
+
+page: begin
+
+l: att0
+t: range
+q: 3. Indicate to which features do you associate Electronic Music:
+- {min=1,max=5,start=3,left=Mostly Slow,right=Mostly Fast} Tempo
+- {min=1,max=5,start=3,left=Mostly Low,right=Mostly High} Level of danceability
+- {min=1,max=5,start=3,left=Mostly Low,right=Mostly High} Presence of acoustic instruments (e.g. violin, trumpet, acoustic guitar,...)
+- {min=1,max=5,start=3,left=Mostly Low,right=Mostly High} Presence of singing voice parts
+
+page: end
+
+page: begin
+
+l: att1
+t: range
+q: 4. Indicate to which characteristics do you associate Electronic Music artists:
+- {min=1,max=5,start=3,left=Mostly female or non-male,right=Mostly Male} Gender
+- {min=1,max=5,start=3,left=Mostly white skinned,right=Mostly dark skinned} Skin color
+- {min=1,max=5,start=3,left=Mostly low income / developing countries,right=Mostly high income / developed countries} Origin
+- {min=1,max=5,start=3,left=Mostly under 40,right=Mostly over 40} Age
+
+page: end
+
+page: begin
+
+l: intro2
+t: info
+q: Next, you will complete a Single Category Implicit Association Test (SC-IAT)
+Click the button to start, and remember to read <b>CAREFULLY</b> the instructions.
+Have fun!
+
+page: end
+
+l: testexperiment
+t: experiment
+- iat

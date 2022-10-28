@@ -1,0 +1,29 @@
+l: page1a
+t: info
+q: <b>OPTION A</b> <br>
+If you already have a ListenBrainz account linked with your Spotify account, you can continue.<br> 
+<b>OPTION B</b> <br>
+If not, please follow the instructions at this <a href="https://docs.google.com/presentation/d/1uaNpB32L0yPF-y8cV9giH0CaMEVF03Z0T6YBbdbO5Es/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> link </a>.
+
+
+page: begin
+
+l: created
+t: radio
+q: Have you been able to create a ListenBrainz account?
+- Yes
+- No
+
+l: linked
+t: radio
+q: Have you been able to link your ListenBrainz account to your Spotify account?
+- Yes
+- No
+
+
+l: LBname
+t: textline
+q: Please, insert your ListenBrainz username:
+- {other, required, size=50} 
+
+page: end

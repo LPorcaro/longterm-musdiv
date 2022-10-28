@@ -1,0 +1,155 @@
+# PsyToolkit implementation of a shortened SC-IAT (# indicates comment lines)
+
+
+bitmaps
+  instructions
+  instructions2
+  instructions3
+  instructions4
+  instructions5
+  smiley
+  frowny
+  ready
+  green
+  red
+  
+fonts
+  arial 18
+
+# in the following tables, there is the stimulus word and two possible
+# responses (depending on which target category is presented left or right)
+
+table genre_pleasant_unpleasant_list
+ "Dubstep" 1 2
+ "Techno" 1 2
+ "Electronica" 1 2
+ "Hardcore" 1 2
+ "Vaporwave" 1 2
+ "Breakbeat" 1 2
+ "Electroacoustic" 1 2
+ "Downtempo" 1 2
+ # note the pleasant unpleasant cats are not turned around
+ "Joy"      1 1
+ "Love"     1 1
+ "Peace"      1 1
+ "Wonderful"        1 1
+ "Pleasure"       1 1
+ "Glorious"       1 1
+ "Laughter"      1 1
+ "Happy"       1 1
+ "Agony"       2 2
+ "Terrible"       2 2
+ "Horrible"      2 2
+ "Nasty"    2 2
+ "Evil"    2 2
+ "Awful"       2 2
+ "Failure"       2 2
+ "Hurt"      2 2
+
+
+
+
+task mixed
+  keys w p
+  table genre_pleasant_unpleasant_list
+  draw off
+    if &order == 1
+      show text "Electronic Music" -250 -50
+    fi
+    if &order == 2
+      show text "Electronic Music"  250 -50
+    fi
+    show text "Pleasant"   -250 50
+    show text "Unpleasant"  250 50
+  draw on
+  delay 100
+  show rectangle 0 0 10 10   255 255 255 # fixpoint
+  delay 200
+  clear -1
+  delay 200
+  show text @1
+  if &order == 1
+    readkey @2 3000
+  fi
+  if &order == 2
+    readkey @3 3000
+  fi
+  clear -1
+  if STATUS != CORRECT
+    show bitmap red
+    delay 100
+    clear -1
+    delay 100
+    show bitmap red
+    delay 100
+    clear -1
+    delay 200
+  fi
+  if STATUS == CORRECT
+    show bitmap green
+    delay 300
+    clear -1
+    delay 200
+  fi
+  delay 400
+  save BLOCKNAME BLOCKNUMBER @1 RT STATUS
+
+######################################################################
+# the blocks start here
+# ---------------------------------------------------------
+
+block instructions
+  message instructions
+  message instructions2
+  message instructions3
+  message instructions4
+  message instructions5
+
+block mix_compatible_training
+  message ready
+  set &order 1 ## order 1 means: genres=left  
+  tasklist
+     mixed 24 all_before_repeat
+  end
+
+block mix_compatible
+  message ready
+  set &order 1 ## order 1 means: genres=left  
+  tasklist
+     mixed 72 all_before_repeat
+  end
+
+block mix_incompatible_training
+  message ready
+  set &order 2 ## order 2 means: genres=right
+  tasklist
+     mixed 24 all_before_repeat
+  end
+
+block mix_incompatible
+  message ready
+  set &order 2 ## order 2 means: genres=right
+  tasklist
+     mixed 72 all_before_repeat
+  end
+
+
+# --------------------------------------------------------------------
+# blockorder needs to be counterbalanced
+# --------------------------------------------------------------------
+
+blockorder
+  instructions
+  mix_compatible_training
+  mix_compatible
+  mix_incompatible_training
+  mix_incompatible
+
+blockorder
+  instructions
+  mix_incompatible_training
+  mix_incompatible
+  mix_compatible_training
+  mix_compatible
+
+  

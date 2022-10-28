@@ -1,0 +1,78 @@
+# Scales
+scale: agree
+- Completely disagree
+- Disagree
+- Neither agree or disagree
+- Agree
+- Completely agree
+
+###################
+page: begin
+
+l: intro1
+t: info
+q: Following, you will have to listen to one recording formed by four Electronic Music tracks (45 seconds for track).<br>
+Your task is to listen <b>ENTIRELY</b> to the recording, and let us know if you like or not the tracks.<br>
+Not listening to the whole recording will be considered as a <b>NOT COMPLETED</b> task.<br>
+Before starting, remember to <b>ADJUST</b> the volume to a <b>COMFORTABLE</b> level (not too low, not too high).<br>
+You can use the audio below to adjust the volume. Continue when you are ready to listen to the recording.
+
+l: calibration
+a: test.mp3
+t: info
+
+page: end
+
+###################
+page: begin
+
+l: session1
+t: info
+q: Please, listen to the entire recording below.<br>Be sure to be in a quiet environment, and allow yourself to be immersed in the music.
+
+l: track1
+a: https://drive.google.com/file/d/1FBapVecJI68ToKiMaO81gUMSvmmbx5Lt/view?usp=sharing
+t: info
+q: 
+
+page: end
+#################
+
+###################
+page: begin
+
+l: familiarity
+t: radio
+q: Did some of the tracks sound familiar to you?
+- Yes
+- No
+- Maybe
+
+l: like
+t: radio
+q: Overall, do you like the today's recording?
+- I totally do NOT like it.
+- I do NOT like it.
+- Neither I like it or not.
+- I like it.
+- I totally like it.
+
+page: end
+
+###################
+
+
+l: playlist
+t: radio
+q: Do you want to see the playlist of today, with the full tracks? <br> It is completely <b>OPTIONAL</b> and does not affect your payment.
+- Yes
+- No
+
+j: if $playlist == 2 then end
+
+
+l: playlist_link
+t: info
+q: You can find the playlist at the following link: <br><br><a href="https://www.youtube.com/playlist?list=PLO_ftEbUcr_cJCv-UVbxmbzpPsa08uCFj" target="_blank" rel="noopener noreferrer"> https://www.youtube.com/playlist?list=PLO_ftEbUcr_cJCv-UVbxmbzpPsa08uCFj </a> <br><br> Do not forget to CONTINUE and COMPLETE the task. Thanks!
+
+

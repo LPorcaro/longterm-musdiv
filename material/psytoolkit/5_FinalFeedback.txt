@@ -1,0 +1,139 @@
+scale: agree
+- Strongly Disagree
+- Disagree
+- Neither agree nor disagree
+- Agree
+- Strongly Agree
+
+
+l: intro1
+t: info
+q: First, we will start asking you a few questions about your relationship with Electronic Music <b>before participating in the study</b>. 
+Please, indicate how much do you agree with each of the following sentences.
+
+l: q1
+o: random
+q: <b> Before participating in the study...</b>
+t: scale agree
+- I was open to listening to Electronic Music.
+- Electronic Music was among the genres I mostly listened to.
+- I used to listen to Electronic Music almost every day.
+- I liked listening to Electronic Music.
+- Electronic Music was among my least favourite music genres.
+- I was horrified by Electronic Music.
+- I listened to Electronic Music only for partying.
+- I believed Electronic Music had mostly fast tempo and high energy.
+
+l: q2
+o: random
+q: <b> Before participating in the study...</b>
+t: scale agree
+- Electronic Music was among my favourite genres.
+- I was a huge fan of Electronic Music. 
+- I thought of Electronic Music as varied with several sub-styles. 
+- I believed that Electronic Music could fit in different contexts. 
+- I was sceptical about listening to Electronic Music.
+- Listening to Electronic Music was my last option.
+- Rarely I listened to Electronic Music.
+- I disliked listening to Electronic Music. 
+
+
+l: intro2
+t: info
+q: Second, we will ask you a few questions about your experience with Electronic Music <b> while participating in the study</b>. 
+Please, indicate how much do you agree with each of the following sentences.
+
+l: q3
+o: random
+q: <b> While participating in the study...</b>
+t: scale agree
+- Listening to Electronic Music was a pleasure.
+- I was excited about listening to Electronic Music.
+- I would have liked to listen to more Electronic Music.
+- I liked the Electronic Music that I listened to.
+- The Electronic Music selected was terrible.
+- Most of the Electronic Music was awful.
+- I listened to a lot of new  Electronic Music, but I would have avoided it. 
+- I was quite familiar with the Electronic Music I listened to.
+
+
+l: q4
+o: random
+q: <b> While participating in the study...</b>
+t: scale agree
+- I was bored with listening to Electronic Music. 
+- The Electronic Music I listened to was a waste of my time.
+- I would have liked to listen to something different from Electronic Music.
+- I listened to Electronic Music that I dislike.
+- The Electronic Music selected was amazing.
+- I listened to a lot of Electronic Music that I like.
+- I discovered a lot of new Electronic Music that I liked.
+- The Electronic Music I listened to was something new.
+
+l: intro3
+t: info
+q: Lastly, we will ask you a few questions about your relationship with Electronic Music <b>after participating in the study</b>. 
+Please, indicate how much do you agree with each of the following sentences.
+
+l: q5
+o: random
+q: <b> After participating in the study...</b>
+t: scale agree
+- I have started to be more open to listening to Electronic Music.
+- I have found myself listening to Electronic Music more often.
+- I have begun to appreciate Electronic Music more. 
+- Listening to Electronic Music is something that I avoid. 
+- I believe Electronic Music has mostly fast tempo and high energy.
+- I listen to Electronic Music only for partying.
+- I listen to a lot of new music, but not Electronic Music.
+- I don’t want to discover new Electronic Music.
+
+
+l: q6
+o: random
+q: <b> After participating in the study...</b>
+t: scale agree
+- I am listening to less Electronic Music than before.
+- I tend to listen to Electronic music as little as possible.
+- I dislike Electronic Music more than before. 
+- Listening to Electronic Music is something that I enjoy. 
+- I think of Electronic Music as a varied genre with several sub-styles.
+- I believe that Electronic Music could fit in different contexts. 
+- I started to discover by myself a lot of new Electronic Music that I like.
+- I am happy to discover more about Electronic Music.  
+
+l: q7
+o: random
+q: <b> After participating in the study...</b>
+t: scale agree
+- My openness toward listening to Electronic Music has changed.
+- My appreciation of Electronic Music has changed.
+- My openness to discovering new Electronic Music has changed.
+- My attitude towards listening to Electronic Music has changed.
+- The idea that I had about Electronic music has changed.
+
+l: intro4
+t: info
+q: Last block! Few questions about your overall experience participating in the study.
+Please, indicate how much do you agree with each of the following sentences.
+
+l: q8
+o: random
+q: <b> In conclusion…</b>
+t: scale agree
+- Overall, I enjoyed participating in the study.
+- Participating in the study has been a positive experience. 
+- I would like to participate again in a similar study. 
+- I would encourage other peers to participate in the study. 
+- Participating in the study has been quite boring.
+- I wasted my time participating in this study.
+- I would not recommend participating in this study. 
+- I would avoid participating in future studies similar to this one. 
+
+l: playlist
+t: radio
+q: Would you like to participate in a brief, paid focus group interview (30 minutes) to tell us about your experience participating in this study? Those would be in September.
+- Yes
+- No
+
+
