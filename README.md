@@ -2,7 +2,7 @@
 
 This repository has been created to foster the reproducibility of results for the experiment described in the paper submitted to the ACM Transactions of Recommender Systems (TORS) Journal. It contains raw data and code to replicate the experiment described in the submitted paper.
 
-## AdditionalMaterial 
+## Additional Material 
 In the folder [*Material*](https://github.com/LPorcaro/longterm-musdiv/tree/main/material) you can find the following subfolders:
 
 ### SC-IAT
