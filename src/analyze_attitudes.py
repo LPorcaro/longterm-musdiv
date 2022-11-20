@@ -19,11 +19,16 @@ LS_FOLDER = "../data/ls"
 
 CONTEXTS = ["Relaxing", "Commuting", "Partying", "Running","Shopping",
             "Sleeping", "Studying", "Working"]
+CONTEXTS_SORT = ["Sleeping", "Studying", "Relaxing", "Working","Shopping",
+            "Commuting", "Running", "Partying"]
 
 CONTEXTS_a = ["Relaxing", "Sleeping", "Studying", "Working"]
 CONTEXTS_b = ["Commuting", "Partying", "Running", "Shopping"]
 TRACK_FEATS = ["Tempo", "Danceability", "Acousticness", "Instrumentalness"]
+TRACK_FEATS_SORT = ["Acousticness", "Instrumentalness", "Danceability", "Tempo"]
 ARTIST_FEATS = ["Gender", "Skin", "Origin", "Age"]
+ARTIST_FEATS_SORT = ["Age", "Skin", "Gender", "Origin"]
+
 ROUNDS =  ["00", "01", "02", "03", "04", "10"]
 ROUNDS_LAB = ['Pre', 'Week 1', "Week 2", "Week 3", "Week 4", "Post"]
 GROUPS = ["HD", "LD"]
@@ -32,6 +37,11 @@ SESSION2 = [str(x).zfill(2) for x in range(6,11)]
 SESSION3 = [str(x).zfill(2) for x in range(11,16)]
 SESSION4 = [str(x).zfill(2) for x in range(16,21)]
 SESSIONS = [SESSION1, SESSION2, SESSION3, SESSION4]
+
+fsize = 20
+
+import matplotlib
+matplotlib.rcParams.update({'font.size': 10})
 
 
 def import_data(tdata):
@@ -242,31 +252,95 @@ def plot_scores(df):
 def plot_cntx(df):
     """
     """
+    ROUNDS =  ["00", "04", "10"]
+    ROUNDS_LAB = ['PRE', "COND-4", "POST"]
+
     colors = ['r','b','b','b','b', 'r', 'y', 'g','g', 'g', 'g','y']
-    # Plot Context Boxplots
-    fig, axs = plt.subplots(2,4, sharex=True, sharey=True)
-    axs = axs.reshape(-1)
-    for column, ax in zip(CONTEXTS, axs):
-        bp_dict = df.boxplot(by=['group','att_round'],
-                                       column=column,
-                                       layout=(2,2),
-                                       return_type='both',
-                                       patch_artist = True,
-                                       ax=ax)
-        ax.set_yticklabels(['Disagree', '', '', '', 'Agree'])
-        ax.set_yticks([1,2,3,4,5])
-        ax.set_xlabel('')
-        ax.tick_params(rotation=50)
-        for row_key, (ax,row) in bp_dict.iteritems():
-            for i, box in enumerate(row['boxes']):
-                box.set_facecolor(colors[i])
-        plt.suptitle("In which contexts would you listen to Electronic Music?")
-    plt.show()
+    # # Plot Context Boxplots
+    # fig, axs = plt.subplots(2,4, sharex=True, sharey=True)
+    # axs = axs.reshape(-1)
+    # for column, ax in zip(CONTEXTS, axs):
+    #     bp_dict = df.boxplot(by=['group','att_round'],
+    #                                    column=column,
+    #                                    layout=(2,2),
+    #                                    return_type='both',
+    #                                    patch_artist = True,
+    #                                    ax=ax)
+    #     ax.set_yticklabels(['Disagree', '', '', '', 'Agree'])
+    #     ax.set_yticks([1,2,3,4,5])
+    #     ax.set_xlabel('')
+    #     ax.tick_params(rotation=50)
+    #     for row_key, (ax,row) in bp_dict.iteritems():
+    #         for i, box in enumerate(row['boxes']):
+    #             box.set_facecolor(colors[i])
+    #     plt.suptitle("In which contexts would you listen to Electronic Music?")
+    # plt.show()
+
+    # # Plot Tracks Boxplots
+    # fig, axs = plt.subplots(2,2, sharex=True)
+    # axs = axs.reshape(-1)
+    # for column, ax in zip(TRACK_FEATS, axs):
+    #     bp_dict = df.boxplot(by=['group','att_round'],
+    #                                    column=column,
+    #                                    layout=(2,2),
+    #                                    return_type='both',
+    #                                    patch_artist = True,
+    #                                    ax=ax)
+    #     if column == 'Tempo':
+    #         ax.set_yticklabels(['Slow', '', '', '', 'Fast'])
+    #     else:
+    #         ax.set_yticklabels(['Low', '', '', '', 'High'])
+
+    #     ax.set_xlabel('')
+    #     ax.set_yticks([1,2,3,4,5])
+    #     for row_key, (ax,row) in bp_dict.iteritems():
+    #         for i, box in enumerate(row['boxes']):
+    #             box.set_facecolor(colors[i])
+    #     plt.suptitle("Which features do you associate Electronic Music?")
+    # plt.show()
+
+
+    # # Plot Artists Boxplots
+    # fig, axs = plt.subplots(2,2, sharex=True)
+    # axs = axs.reshape(-1)
+    # for column, ax in zip(ARTIST_FEATS, axs):
+    #     bp_dict = df.boxplot(by=['group','att_round'],
+    #                                    column=column,
+    #                                    layout=(2,2),
+    #                                    return_type='both',
+    #                                    patch_artist = True,
+    #                                    ax=ax)
+    #     if column == 'Gender':
+    #         ax.set_yticklabels(['Female', '', '', '', 'Male'])
+    #     elif column == 'Skin':
+    #         ax.set_yticklabels(['White', '', '', '', 'Black'])
+    #     elif column == 'Origin':
+    #         ax.set_yticklabels(['Low-income', '', '', '', 'High-income'])
+    #     elif column == 'Age':
+    #         ax.set_yticklabels(['<40', '', '', '', '>40'])
+    #     ax.set_xlabel('')
+    #     ax.set_yticks([1,2,3,4,5])
+    #     for row_key, (ax,row) in bp_dict.iteritems():
+    #         for i, box in enumerate(row['boxes']):
+    #             box.set_facecolor(colors[i])
+    #     plt.suptitle("Which characteristics do you associate Electronic Music artists?")
+    # plt.show()
+
+
+    my_color_scheme =[
+    pl.colors.TRANSPARENT,
+    "darkorange",
+    "gold",
+    "gray",
+    "violet",
+    "purple",]
+
+
     # Plot Context Likert
-    fig, axs = plt.subplots(2, len(ROUNDS), sharey=True,  sharex=True)
-    for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
+    fig, axs = plt.subplots(2, len(ROUNDS), sharey=True)
+    for x1, (group, col) in enumerate(zip(GROUPS, [my_color_scheme, pl.colors.default_with_darker_neutral])):
         for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
-            df_cut = df[(df.att_round == att_round) & (df.group == group)][CONTEXTS]
+            df_cut = df[(df.att_round == att_round) & (df.group == group)][CONTEXTS_SORT]
             pl.plot_likert(df_cut, [1,2,3,4,5], 
                             plot_percentage=True,
                             bar_labels=True, 
@@ -274,40 +348,37 @@ def plot_cntx(df):
                             colors=col, 
                             ax=axs[x1,x2])
 
-            axs[x1,x2].get_legend().remove()
-            axs[x1,x2].set_xlabel(att_round_l)
+            # axs[x1,x2].get_legend().remove()
+            # axs[x1,x2].set_xlabel(att_round_l,fontsize = fsize)
+            # axs[x1,x2].xaxis.set_label_position('top')
 
-    plt.suptitle("In which contexts would you listen to Electronic Music?")
+            # w = axs[x1,x2].get_xticklabels()
+            # print(str(list(w)))
+
+            axs[x1,x2].tick_params(axis='y', labelsize=fsize)
+            axs[x1,x2].set_xticks([-15, 95, 195])
+            axs[x1,x2].set_xlabel("",fontsize = fsize)
+            # axs[x1,x2].set_xticklabels(["Disagree", "Neutral", "Agree"],rotation = 25, fontsize = fsize)
+
+
+    axs[1,0].set_xlabel("PRE",fontsize = fsize)
+    # axs[0,0].xaxis.set_label_position('top')
+    axs[1,0].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    axs[1,1].set_xlabel("COND-4",fontsize = fsize)
+    # axs[0,1].xaxis.set_label_position('top')
+    axs[1,1].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    axs[1,2].set_xlabel("POST",fontsize = fsize)
+    # axs[0,2].xaxis.set_label_position('top')
+    axs[1,2].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+
+    plt.suptitle("In which contexts would you listen to Electronic Music?", fontsize = fsize)
     plt.show()
 
-
-    # Plot Tracks Boxplots
-    fig, axs = plt.subplots(2,2, sharex=True)
-    axs = axs.reshape(-1)
-    for column, ax in zip(TRACK_FEATS, axs):
-        bp_dict = df.boxplot(by=['group','att_round'],
-                                       column=column,
-                                       layout=(2,2),
-                                       return_type='both',
-                                       patch_artist = True,
-                                       ax=ax)
-        if column == 'Tempo':
-            ax.set_yticklabels(['Slow', '', '', '', 'Fast'])
-        else:
-            ax.set_yticklabels(['Low', '', '', '', 'High'])
-
-        ax.set_xlabel('')
-        ax.set_yticks([1,2,3,4,5])
-        for row_key, (ax,row) in bp_dict.iteritems():
-            for i, box in enumerate(row['boxes']):
-                box.set_facecolor(colors[i])
-        plt.suptitle("Which features do you associate Electronic Music?")
-    plt.show()
     # Plot Tracks Likert
-    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True,  sharex=True)
-    for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
+    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True)
+    for x1, (group, col) in enumerate(zip(GROUPS, [my_color_scheme, pl.colors.default_with_darker_neutral])):
         for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
-            df_cut = df[(df.att_round == att_round) & (df.group == group)][TRACK_FEATS]
+            df_cut = df[(df.att_round == att_round) & (df.group == group)][TRACK_FEATS_SORT]
             pl.plot_likert(df_cut, [1,2,3,4,5], 
                             plot_percentage=True,
                             bar_labels=True, 
@@ -315,43 +386,37 @@ def plot_cntx(df):
                             colors=col, 
                             ax=axs[x1,x2])
 
-            axs[x1,x2].get_legend().remove()
-            axs[x1,x2].set_xlabel(att_round_l)
+            # axs[x1,x2].get_legend().remove()
+            # axs[x1,x2].set_xlabel(att_round_l)
 
-    plt.suptitle("Which features do you associate Electronic Music?")
+            axs[x1,x2].tick_params(axis='y', labelsize=fsize)
+            axs[x1,x2].set_xticks([-15, 95, 195])
+            axs[x1,x2].set_xlabel("",fontsize = fsize)
+            # axs[x1,x2].set_xticklabels(["Value_L", "Neutral", "Value_R"],rotation = 25, fontsize = fsize)
+
+    axs[1,0].set_xlabel("PRE",fontsize = fsize)
+    # axs[0,0].xaxis.set_label_position('top')
+    axs[1,0].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    axs[0,0].set_yticklabels(["Tempo", "Danceability", "Instrumental.", "Acousticness"], fontsize = fsize)
+    axs[1,1].set_xlabel("COND-4",fontsize = fsize)
+    # axs[0,1].xaxis.set_label_position('top')
+    axs[1,1].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    axs[1,0].set_yticklabels(["Tempo", "Danceability", "Instrumental.", "Acousticness"], fontsize = fsize)
+    axs[1,2].set_xlabel("POST",fontsize = fsize)
+    # axs[0,2].xaxis.set_label_position('top')
+    axs[1,2].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    # axs[2,0].set_yticklabels(["Tempo", "Danceability", "Instrumental.", "Acousticness"], fontsize = fsize)
+
+    plt.suptitle("Which features do you associate with Electronic Music?", fontsize = fsize)
     plt.show()
 
 
-    # Plot Artists Boxplots
-    fig, axs = plt.subplots(2,2, sharex=True)
-    axs = axs.reshape(-1)
-    for column, ax in zip(ARTIST_FEATS, axs):
-        bp_dict = df.boxplot(by=['group','att_round'],
-                                       column=column,
-                                       layout=(2,2),
-                                       return_type='both',
-                                       patch_artist = True,
-                                       ax=ax)
-        if column == 'Gender':
-            ax.set_yticklabels(['Female', '', '', '', 'Male'])
-        elif column == 'Skin':
-            ax.set_yticklabels(['White', '', '', '', 'Black'])
-        elif column == 'Origin':
-            ax.set_yticklabels(['Low-income', '', '', '', 'High-income'])
-        elif column == 'Age':
-            ax.set_yticklabels(['<40', '', '', '', '>40'])
-        ax.set_xlabel('')
-        ax.set_yticks([1,2,3,4,5])
-        for row_key, (ax,row) in bp_dict.iteritems():
-            for i, box in enumerate(row['boxes']):
-                box.set_facecolor(colors[i])
-        plt.suptitle("Which characteristics do you associate Electronic Music artists?")
-    plt.show()
+
     # Plot Artists Likert
-    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True, sharex=True)
-    for x1, (group, col) in enumerate(zip(GROUPS, [pl.colors.likert5, pl.colors.default_with_darker_neutral])):
+    fig, axs = plt.subplots(2,len(ROUNDS), sharey=True)
+    for x1, (group, col) in enumerate(zip(GROUPS, [my_color_scheme, pl.colors.default_with_darker_neutral])):
         for x2, (att_round, att_round_l) in enumerate(zip(ROUNDS, ROUNDS_LAB)):
-            df_cut = df[(df.att_round == att_round) & (df.group == group)][ARTIST_FEATS]
+            df_cut = df[(df.att_round == att_round) & (df.group == group)][ARTIST_FEATS_SORT]
             pl.plot_likert(df_cut, [1,2,3,4,5], 
                             plot_percentage=True,
                             bar_labels=True, 
@@ -359,78 +424,92 @@ def plot_cntx(df):
                             colors=col, 
                             ax=axs[x1,x2])
 
-            axs[x1,x2].get_legend().remove()
-            axs[x1,x2].set_xlabel(att_round_l)
+            # axs[x1,x2].get_legend().remove()
+            # axs[x1,x2].set_xlabel(att_round_l)
 
-    plt.suptitle("Which characteristics do you associate Electronic Music artists?")
+            axs[x1,x2].tick_params(axis='y', labelsize=fsize)
+            axs[x1,x2].set_xticks([-15, 95, 195])
+            axs[x1,x2].set_xlabel("",fontsize = fsize)
+            # axs[x1,x2].set_xticklabels(["Value_L", "Neutral", "Value_R"], rotation = 25, fontsize = fsize)
+
+    axs[1,0].set_xlabel("PRE",fontsize = fsize)
+    # axs[0,0].xaxis.set_label_position('top')
+    axs[1,0].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    axs[1,1].set_xlabel("COND-4",fontsize = fsize)
+    # axs[0,1].xaxis.set_label_position('top')
+    axs[1,1].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    axs[1,2].set_xlabel("POST",fontsize = fsize)
+    # axs[0,2].xaxis.set_label_position('top')
+    axs[0,2].set_xticklabels(["", "", ""],rotation = 25, fontsize = fsize)
+    plt.suptitle("Which characteristics do you associate with Electronic Music artists?", fontsize = fsize)
     plt.show()
 
     
-    # INTRA-RATER CORRELATION
-    for feat in [CONTEXTS_a, CONTEXTS_b, TRACK_FEATS, ARTIST_FEATS]:
-        print()
-        print(feat)
-        CorrMatrixs = []
-        for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
-            print(group)
-            CorrMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
-            for r1,_ in enumerate(ROUNDS):
-                for r2,_ in enumerate(ROUNDS):
-                    if r1 == r2:
-                        rho_mean = 1
-                    elif r1 > r2:
-                        continue
-                    else:
-                        rhos = []
-                        df_group = df[df.group == group]
-                        df_join_pid = df_group.groupby(by='PROLIFIC_PID')
+    # # INTRA-RATER CORRELATION
+    # for feat in [CONTEXTS_a, CONTEXTS_b, TRACK_FEATS, ARTIST_FEATS]:
+    #     print()
+    #     print(feat)
+    #     CorrMatrixs = []
+    #     for n, (group, c) in enumerate(zip(GROUPS, ["b","g"])):
+    #         print(group)
+    #         CorrMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
+    #         for r1,_ in enumerate(ROUNDS):
+    #             for r2,_ in enumerate(ROUNDS):
+    #                 if r1 == r2:
+    #                     rho_mean = 1
+    #                 elif r1 > r2:
+    #                     continue
+    #                 else:
+    #                     rhos = []
+    #                     df_group = df[df.group == group]
+    #                     df_join_pid = df_group.groupby(by='PROLIFIC_PID')
 
-                        for m, (pid, df_pid) in enumerate(df_join_pid):
-                            a = df_pid[df_pid.att_round==ROUNDS[r1]][feat].values
-                            b = df_pid[df_pid.att_round==ROUNDS[r2]][feat].values
+    #                     for m, (pid, df_pid) in enumerate(df_join_pid):
+    #                         a = df_pid[df_pid.att_round==ROUNDS[r1]][feat].values
+    #                         b = df_pid[df_pid.att_round==ROUNDS[r2]][feat].values
 
-                            if len(a) == 0 or len(b) == 0: # MISSING DATA
-                                continue
-                            else:
-                                a = a[0]
-                                b = b[0]
+    #                         if len(a) == 0 or len(b) == 0: # MISSING DATA
+    #                             continue
+    #                         else:
+    #                             a = a[0]
+    #                             b = b[0]
 
-                                if (a == b).all():
-                                    rho = 1
-                                else:
-                                    rho,p = pearsonr(a,b)
+    #                             if (a == b).all():
+    #                                 rho = 1
+    #                             else:
+    #                                 rho,p = pearsonr(a,b)
                                 
-                            if np.isnan(rho):
-                                rho = 0.01
+    #                         if np.isnan(rho):
+    #                             rho = 0.01
 
-                            if rho == 0:
-                                rho = 0.01
-                            elif rho == 1:
-                                rho = 0.99
-                            elif rho == -1:
-                                rho = -0.99
+    #                         if rho == 0:
+    #                             rho = 0.01
+    #                         elif rho == 1:
+    #                             rho = 0.99
+    #                         elif rho == -1:
+    #                             rho = -0.99
 
-                            rhos.append(np.arctanh(rho))  
+    #                         rhos.append(np.arctanh(rho))  
 
-                        rho_mean = np.average(rhos)
+    #                     rho_mean = np.average(rhos)
 
-                    CorrMatrix[r1,r2] = CorrMatrix[r2, r1] = np.tanh(rho_mean)
-            CorrMatrixs.append(CorrMatrix)
-            print(tabulate(np.triu(CorrMatrix, k=1), headers=ROUNDS_LAB, tablefmt="github"))
-        # permutation_test(pd.DataFrame(CorrMatrixs[0]), pd.DataFrame(CorrMatrixs[1]))
+    #                 CorrMatrix[r1,r2] = CorrMatrix[r2, r1] = np.tanh(rho_mean)
+    #         CorrMatrixs.append(CorrMatrix)
+    #         print(tabulate(np.triu(CorrMatrix, k=1), headers=ROUNDS_LAB, tablefmt="github"))
+    #     # permutation_test(pd.DataFrame(CorrMatrixs[0]), pd.DataFrame(CorrMatrixs[1]))
 
-        CorrDiffMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
-        for r1,_ in enumerate(ROUNDS):
-            for r2,_ in enumerate(ROUNDS):
-                    if r1 == r2:
-                        CorrDiffMatrix[r1,r2] = 1
-                    elif r1 > r2:
-                        continue
-                    else:
-                        z, p = independent_corr(CorrMatrixs[0][r1,r2], CorrMatrixs[1][r1,r2], 47,51)
-                        CorrDiffMatrix[r1,r2] = CorrDiffMatrix[r2, r1] = p
-        print('Fisher Corr')
-        print(tabulate(np.triu(CorrDiffMatrix, k=1), headers=ROUNDS_LAB, tablefmt="github"))
+    #     CorrDiffMatrix = np.zeros((len(ROUNDS), len(ROUNDS)))
+    #     for r1,_ in enumerate(ROUNDS):
+    #         for r2,_ in enumerate(ROUNDS):
+    #                 if r1 == r2:
+    #                     CorrDiffMatrix[r1,r2] = 1
+    #                 elif r1 > r2:
+    #                     continue
+    #                 else:
+    #                     z, p = independent_corr(CorrMatrixs[0][r1,r2], CorrMatrixs[1][r1,r2], 47,51)
+    #                     CorrDiffMatrix[r1,r2] = CorrDiffMatrix[r2, r1] = p
+    #     print('Fisher Corr')
+    #     print(tabulate(np.triu(CorrDiffMatrix, k=1), headers=ROUNDS_LAB, tablefmt="github"))
 
 
 def upper(df):

@@ -203,99 +203,8 @@ def pre_post_analysis_att(t1, t2):
         print(model.summary())
 
 
-
-if __name__ == "__main__":
-
-
-    # Import data
-    df_join_att = import_data("scores")
-    df_join_att.d_score = - df_join_att.d_score
-    df_join_att = filter_dataframe(df_join_att, 'inc', 'pid')
-
-    df_join_cntx = import_data("cntx")
-    df_join_ls = import_ls_data()
-    df_join_ls = scale_ls_data(df_join_ls)
-
-
-    df_join_att_HD = df_join_att[df_join_att.group == 'HD']
-    df_join_att_LD = df_join_att[df_join_att.group == 'LD']
-
-
-    # Wilcoxon whole population
-    for times in [("00", "01", "two-sided"), ("00", "04","greater"), ("04", "10", "two-sided"), ("00", "10", "greater")]:
-        print()
-        print(times)
-        t1, t2, alt = times
-        # D-score
-        d_0 = []
-        d_1 = [] 
-        o_0 = []
-        o_1 = []
-        for pid in df_join_att.PROLIFIC_PID.unique():
-            # print(pid)
-            id_0 = df_join_att[(df_join_att.att_round == t1) & (df_join_att.PROLIFIC_PID == pid)].d_score.values
-            id_1 = df_join_att[(df_join_att.att_round == t2) & (df_join_att.PROLIFIC_PID == pid)].d_score.values
-            io_0 = df_join_att[(df_join_att.att_round == t1) & (df_join_att.PROLIFIC_PID == pid)].o_score.values
-            io_1 = df_join_att[(df_join_att.att_round == t2) & (df_join_att.PROLIFIC_PID == pid)].o_score.values
-
-
-            if id_0.size != 0 and id_1.size != 0 and io_0.size != 0 and io_1.size != 0:
-                d_0.append(id_0[0])
-                d_1.append(id_1[0])
-                o_0.append(io_0[0])
-                o_1.append(io_1[0])
-            
-
-        print(len(d_0), len(d_1), np.median(d_0), np.median(d_1))
-        print(wilcoxon(d_0, d_1, alternative=alt))
-        df = pd.DataFrame({'Q1': d_0, 'Q2': d_1})
-        # print(cronbach_alpha(df))
-        print(corr(d_0, d_1))
-
-        if alt == 'greater':
-            alt = 'less'
-
-        print(len(o_0), len(o_1), np.median(o_0), np.median(o_1))
-        print(wilcoxon(o_0, o_1, alternative=alt))
-        df = pd.DataFrame({'Q1': o_0, 'Q2': o_1})
-        # print(cronbach_alpha(df))
-        print(corr(o_0, o_1))
-
-
-
-
-    # pre_post_analysis_att("00","10")
-
-
-
-
-
-
-
-    # # Format data
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 1, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 2, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 3, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 4, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 5, inplace=True)
-    # df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 6, inplace=True)
-
-    df_join_att['o_score'].mask(df_join_att['o_score'] == 0, 0, inplace=True)
-    df_join_att['o_score'].mask(df_join_att['o_score'] == 1, 0, inplace=True)
-    df_join_att['o_score'].mask(df_join_att['o_score'] == 2, 0, inplace=True)
-    df_join_att['o_score'].mask(df_join_att['o_score'] == 3, 1, inplace=True)
-    df_join_att['o_score'].mask(df_join_att['o_score'] == 4, 1, inplace=True)
-    df_join_att['o_score'].mask(df_join_att['o_score'] == 5, 1, inplace=True)
-
-
-    df_join_att['group'].mask(df_join_att['group'] == 'LD', 0, inplace=True)
-    df_join_att['group'].mask(df_join_att['group'] == 'HD', 1, inplace=True)
-
-    pre_post_analysis_att("00","10")
-
-
-
-    ## Pre-Post analysis
+def old_prepost():
+        ## Pre-Post analysis
     # pre_post_analysis_logs()
 
     # for times in [("00", "01", "two-sided"), ("01", "04","greater"), ("04", "10", "two-sided"), ("00", "10", "greater")]:
@@ -407,3 +316,154 @@ if __name__ == "__main__":
     #               time=times)
     # res2 = mod2.fit()
     # print(res2.summary())
+
+    # # Format data
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '00', 1, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '01', 2, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '02', 3, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '03', 4, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '04', 5, inplace=True)
+    # df_join_att['att_round'].mask(df_join_att['att_round'] == '10', 6, inplace=True)
+
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 0, 0, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 1, 0, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 2, 0, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 3, 1, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 4, 1, inplace=True)
+    df_join_att['o_score'].mask(df_join_att['o_score'] == 5, 1, inplace=True)
+
+
+    df_join_att['group'].mask(df_join_att['group'] == 'LD', 0, inplace=True)
+    df_join_att['group'].mask(df_join_att['group'] == 'HD', 1, inplace=True)
+
+    pre_post_analysis_att("00","10")
+
+
+def wilcoxon_scores():
+    """
+    """
+    # Wilcoxon whole population
+    for times in [("00", "01", "two-sided"), ("00", "04","greater"), ("04", "10", "two-sided"), ("00", "10", "greater")]:
+        print()
+        print(times)
+        t1, t2, alt = times
+        # Scores
+        d_0 = []
+        d_1 = [] 
+        o_0 = []
+        o_1 = []
+        for pid in df_join_att.PROLIFIC_PID.unique():
+            # print(pid)
+            id_0 = df_join_att[(df_join_att.att_round == t1) & (df_join_att.PROLIFIC_PID == pid)].d_score.values
+            id_1 = df_join_att[(df_join_att.att_round == t2) & (df_join_att.PROLIFIC_PID == pid)].d_score.values
+            io_0 = df_join_att[(df_join_att.att_round == t1) & (df_join_att.PROLIFIC_PID == pid)].o_score.values
+            io_1 = df_join_att[(df_join_att.att_round == t2) & (df_join_att.PROLIFIC_PID == pid)].o_score.values
+
+
+            if id_0.size != 0 and id_1.size != 0 and io_0.size != 0 and io_1.size != 0:
+                d_0.append(id_0[0])
+                d_1.append(id_1[0])
+                o_0.append(io_0[0])
+                o_1.append(io_1[0])
+            
+
+        print(len(d_0), len(d_1), np.median(d_0), np.median(d_1))
+        print(wilcoxon(d_0, d_1, alternative=alt))
+        df = pd.DataFrame({'Q1': d_0, 'Q2': d_1})
+        # print(cronbach_alpha(df))
+        print(corr(d_0, d_1))
+
+        if alt == 'greater':
+            alt = 'less'
+
+        print(len(o_0), len(o_1), np.median(o_0), np.median(o_1))
+        print(wilcoxon(o_0, o_1, alternative=alt))
+        df = pd.DataFrame({'Q1': o_0, 'Q2': o_1})
+        # print(cronbach_alpha(df))
+        print(corr(o_0, o_1))
+
+
+def IQR(data):
+    """
+    """
+    q3, q1 = np.percentile(data, [75 ,25])
+    iqr = q3 - q1
+    return iqr
+
+if __name__ == "__main__":
+
+
+    # Import data
+    df_join_att = import_data("scores")
+    df_join_att.d_score = - df_join_att.d_score
+    df_join_att = filter_dataframe(df_join_att, 'inc', 'pid')
+    df_join_att_HD = df_join_att[df_join_att.group == 'HD']
+    df_join_att_LD = df_join_att[df_join_att.group == 'LD']
+
+    df_join_ls = import_ls_data()
+    df_join_ls = scale_ls_data(df_join_ls)
+
+
+    df_join_cntx = import_data("cntx")
+    df_join_cntx = filter_dataframe(df_join_cntx, 'inc', 'pid')
+    df_join_cntx_HD = df_join_cntx[df_join_cntx.group == 'HD']
+    df_join_cntx_LD = df_join_cntx[df_join_cntx.group == 'LD']
+
+
+    COLUMNS = ['Relaxing', 'Commuting', 'Partying', 'Running', 
+               'Shopping', 'Sleeping', 'Studying', 'Working', 'Tempo', 'Danceability',
+               'Acousticness', 'Instrumentalness', 'Gender', 'Skin', 'Origin', 'Age']
+
+    TIMES = [("00", "04","greater"), ("00", "10", "greater")]
+
+
+    # # Compare Contexts PRE-POST
+    # for df in [df_join_cntx, df_join_cntx_HD, df_join_cntx_LD]:
+    #     for times in TIMES:
+    #         print()
+    #         print(times)
+    #         t1, t2, alt = times
+
+    #         all_values1 = []
+    #         all_values2 = []
+    #         for pid in df.PROLIFIC_PID.unique():
+    #             skip = False
+    #             pid_values1, pid_values2 = [], []
+    #             for column in COLUMNS:
+    #                 value1 = df[(df.att_round == t1) & (df.PROLIFIC_PID == pid)][column].values
+    #                 value2 = df[(df.att_round == t2) & (df.PROLIFIC_PID == pid)][column].values
+
+    #                 if value1.size > 0 and value2.size > 0:
+    #                     pid_values1.append(value1[0])
+    #                     pid_values2.append(value2[0])
+    #                 else:
+    #                     skip = True
+
+    #             if not skip:
+    #                 all_values1.append(pid_values1)
+    #                 all_values2.append(pid_values2)
+    #                 # print (pid, "1", pid_values1)
+    #                 # print (pid, "2", pid_values2)
+                
+
+    #         for n,col in enumerate(COLUMNS):
+    #             l1 = [item[n] for item in all_values1]
+    #             l2 = [item[n] for item in all_values2]
+
+    #             print("#########", col)
+    #             print(len(l1), len(l2), np.median(l1), IQR(l1), np.median(l2), IQR(l2))
+    #             print(wilcoxon(l1,l2))
+    #             print(corr(l1,l2))
+
+
+
+  # Compare context HD and LD
+    for t in ['00', '04','10']:
+        print()
+        print("####",t)
+        for column in COLUMNS:
+            col_HD = df_join_cntx_HD[(df_join_cntx_HD.att_round == t)][column].tolist()
+            col_LD = df_join_cntx_LD[(df_join_cntx_LD.att_round == t)][column].tolist()
+            print("####", column)
+            print(mwu(col_HD, col_LD))
+            
