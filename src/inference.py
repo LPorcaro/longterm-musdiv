@@ -457,7 +457,7 @@ if __name__ == "__main__":
 
 
 
-  # Compare context HD and LD
+    # Compare context HD and LD
     for t in ['00', '04','10']:
         print()
         print("####",t)

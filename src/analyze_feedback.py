@@ -181,7 +181,7 @@ if __name__ == "__main__":
     # a_items = a_items_p + a_items_n   
 
 
-    fig, axs = plt.subplots(2, 3, sharey=True)
+    fig, axs = plt.subplots(1, 6, sharey=True)
     ## Consistency + Distribution
     # Openness
     df_val[o_items] -= 3
@@ -204,7 +204,7 @@ if __name__ == "__main__":
     print(round(np.mean(l),2), round(np.std(l),2))
     print(norm_dict(result))
 
-    axs[0,0].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='blue', label='openness')
+    axs[0].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='blue', label='openness')
 
     # Appreciation
     df_val[a_items] -= 3 
@@ -227,8 +227,9 @@ if __name__ == "__main__":
     print(round(np.mean(l),2), round(np.std(l),2))
     print(norm_dict(result))
 
-    axs[1,0].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='lightblue', hatch='-', label='appreciation')
-    axs[1,0].set_xlabel('Before', fontsize=20)
+    axs[3].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='lightblue', hatch='-', label='appreciation')
+    axs[3].set_xlabel('Before', fontsize=20)
+    axs[0].set_xlabel('Before', fontsize=20)
 
     # COND
     o_items_p = ["q3:1", "q3:2", "q3:3"]
@@ -259,7 +260,7 @@ if __name__ == "__main__":
     print(round(np.mean(l),2), round(np.std(l),2))
     print(norm_dict(result))
 
-    axs[0,1].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='blue')
+    axs[1].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='blue')
 
     # Appreciation
     df_val[a_items] -= 3 
@@ -282,8 +283,9 @@ if __name__ == "__main__":
     print(round(np.mean(l),2), round(np.std(l),2))
     print(norm_dict(result))
 
-    axs[1,1].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='lightblue', hatch='-',)
-    axs[1,1].set_xlabel('During', fontsize=20)
+    axs[4].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='lightblue', hatch='-',)
+    axs[4].set_xlabel('During', fontsize=20)
+    axs[1].set_xlabel('During', fontsize=20)
 
 
     # POST
@@ -315,7 +317,7 @@ if __name__ == "__main__":
     print(round(np.mean(l),2), round(np.std(l),2))
     print(norm_dict(result))
 
-    axs[0,2].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='blue', label='openness')
+    axs[2].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='blue', label='openness')
 
     # Appreciation
     df_val[a_items] -= 3 
@@ -338,20 +340,21 @@ if __name__ == "__main__":
     print(round(np.mean(l),2), round(np.std(l),2))
     print(norm_dict(result))
 
-    axs[1,2].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='lightblue', hatch='-', label='appreciation')
-    axs[1,2].set_xlabel('After', fontsize=20)
+    axs[5].bar(norm_dict(result).keys(), norm_dict(result).values(), 0.5, color='lightblue', hatch='-', label='appreciation')
+    axs[5].set_xlabel('After', fontsize=20)
+    axs[2].set_xlabel('After', fontsize=20)
 
+    axs[0].set_ylabel('% of responses', fontsize=20)
+    # axs[1,0].set_ylabel('% of responses', fontsize=20)
+    axs[1].set_title('Openness', fontsize=20)
+    axs[4].set_title('Appreciation', fontsize=20)
 
-    axs[0,0].set_ylabel('% of responses', fontsize=20)
-    axs[1,0].set_ylabel('% of responses', fontsize=20)
-    axs[0,1].set_title('Openness \ Appreciation \n', fontsize=20)
-
-    axs[0, 0].grid(axis='y')
-    axs[0, 1].grid(axis='y')
-    axs[0, 2].grid(axis='y')
-    axs[1, 0].grid(axis='y')
-    axs[1, 1].grid(axis='y')
-    axs[1, 2].grid(axis='y')
+    axs[0].grid(axis='y')
+    axs[1].grid(axis='y')
+    axs[2].grid(axis='y')
+    axs[3].grid(axis='y')
+    axs[4].grid(axis='y')
+    axs[5].grid(axis='y')
 
     plt.show()
 
